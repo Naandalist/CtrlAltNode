@@ -1,0 +1,28 @@
+{
+  "istilah": "patio",
+  "entri": "pa.ti.o",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ti.o",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serambi terbuka di belakang rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "taman terbuka di dalam rumah"
+        }
+      ]
+    }
+  ]
+}

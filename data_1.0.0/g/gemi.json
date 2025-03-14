@@ -1,0 +1,44 @@
+{
+  "istilah": "gemi",
+  "entri": "ge.mi1 /gêmi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gemi nastiti"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kikir, pelit",
+    "kataAsal": "gěmi"
+  },
+  "data": [
+    {
+      "lema": "ge.mi1 /gêmi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gemin〔Echineis naucrates〕"
+        }
+      ]
+    },
+    {
+      "lema": "ge.mi2 /gêmi/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "hemat; sangat hati-hati"
+        }
+      ]
+    },
+    {
+      "lema": "ge.mi3 /gêmi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "induk atau ratu rayap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "transaksi",
+  "entri": "trans.ak.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertransaksi",
+    "mentransaksikan",
+    "transaksional"
+  ],
+  "gabunganKata": [
+    "transaksi debit",
+    "transaksi kredit",
+    "transaksi modal",
+    "transaksi negatif",
+    "transaksi positif",
+    "transaksi takwajar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trans.ak.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persetujuan jual beli (dalam perdagangan) antara dua pihak: pabrik minyak kelapa belum mengadakan -- pembelian kopra karena persediaan masih cukup"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelunasan (pemberesan) pembayaran (seperti dalam bank)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "suplai",
+  "entri": "sup.lai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyuplai",
+    "penyuplai",
+    "penyuplaian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sup.lai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbekalan; pembekalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persediaan barang-barang yang dibutuhkan dan dapat diperoleh"
+        }
+      ]
+    }
+  ]
+}

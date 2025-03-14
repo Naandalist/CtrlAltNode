@@ -1,0 +1,47 @@
+{
+  "istilah": "hantar",
+  "entri": "han.tar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhantaran",
+    "menghantar",
+    "menghantarkan",
+    "terhantar",
+    "berhantar",
+    "hantaran",
+    "kehantaran",
+    "keterhantaran",
+    "menghantar",
+    "menghantarkan",
+    "penghantar",
+    "penghantaran",
+    "terhantar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "han.tar1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meletakkan dengan sembarang letak"
+        }
+      ]
+    },
+    {
+      "lema": "han.tar2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyalurkan"
+        }
+      ]
+    }
+  ]
+}

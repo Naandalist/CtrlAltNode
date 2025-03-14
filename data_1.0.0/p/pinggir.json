@@ -1,0 +1,36 @@
+{
+  "istilah": "pinggir",
+  "entri": "ping.gir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpinggiran",
+    "kepinggiran",
+    "keterpinggiran",
+    "meminggir",
+    "meminggiri",
+    "meminggirkan",
+    "peminggir",
+    "peminggiran",
+    "pinggiran",
+    "terpinggir",
+    "terpinggirkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pinggir, sisi, tepi, batas, pantai, tepi laut",
+    "kataAsal": "piṅgir"
+  },
+  "data": [
+    {
+      "lema": "ping.gir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepi; sisi: -- jalan; -- kota; -- laut; -- pantai"
+        }
+      ]
+    }
+  ]
+}

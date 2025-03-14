@@ -1,0 +1,33 @@
+{
+  "istilah": "tres",
+  "entri": "tres1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tres1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bordiran benang emas (perak) di tepi baju atau lengan baju"
+        }
+      ]
+    },
+    {
+      "lema": "tres2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "jumlah elemen diagonal pada matriks"
+        }
+      ]
+    }
+  ]
+}

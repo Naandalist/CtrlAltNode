@@ -1,0 +1,34 @@
+{
+  "istilah": "lokasi",
+  "entri": "lo.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlokasi",
+    "pelokasi",
+    "terlokasi"
+  ],
+  "gabunganKata": [
+    "lokasi hunian"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "letak: -- kantor itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat: pembangunan kampus sedapat mungkin diarahkan kepada pemusatan semua sarana di satu --"
+        }
+      ]
+    }
+  ]
+}

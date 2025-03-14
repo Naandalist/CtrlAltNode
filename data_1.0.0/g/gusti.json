@@ -1,0 +1,39 @@
+{
+  "istilah": "gusti",
+  "entri": "gus.ti1 bentuk tidak baku: kusti",
+  "bentukTidakBaku": "kusti",
+  "kataTurunan": [
+    "bergusti"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tuan, yang berkuasa; kelompok khusus dalam masyarakat keraton, disebut bersama-sama dengan mantri dan taṇḍa (barangkali derajatnya lebih rendah); kategori pejabat khusus (pada tingkat desa)",
+    "kataAsal": "gusti"
+  },
+  "data": [
+    {
+      "lema": "gus.ti1 bentuk tidak baku: kusti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sebutan untuk bangsawan: ke mana pun -- pergi hamba akan ikut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sebutan untuk Tuhan (atau yang dianggap Tuhan): aduh --, saya mohon ampun, saya bertobat"
+        }
+      ]
+    },
+    {
+      "lema": "gus.ti2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gelut"
+        }
+      ]
+    }
+  ]
+}

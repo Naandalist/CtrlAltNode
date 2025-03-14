@@ -1,0 +1,28 @@
+{
+  "istilah": "walau",
+  "entri": "wa.lau",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "dan jika",
+    "kataAsal": "wa lau"
+  },
+  "data": [
+    {
+      "lema": "wa.lau",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "dan jika: -- harus menembus bumi, tetap akan Kanda jalani"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kendati; meski: -- hujan lebat, ia tetap datang ke rumah pacarnya"
+        }
+      ]
+    }
+  ]
+}

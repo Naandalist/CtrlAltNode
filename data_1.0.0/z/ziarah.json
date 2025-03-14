@@ -1,0 +1,34 @@
+{
+  "istilah": "ziarah",
+  "entri": "zi.a.rah bentuk tidak baku: jiarah, ziarat",
+  "bentukTidakBaku": "jiarah, ziarat",
+  "kataTurunan": [
+    "berziarah",
+    "menziarahi",
+    "penziarah",
+    "penziarahan",
+    "peziarah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kunjungan",
+    "kataAsal": "ziyārah"
+  },
+  "data": [
+    {
+      "lema": "zi.a.rah bentuk tidak baku: jiarah, ziarat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kunjungan ke tempat yang dianggap keramat atau mulia (makam dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berziarah"
+        }
+      ]
+    }
+  ]
+}

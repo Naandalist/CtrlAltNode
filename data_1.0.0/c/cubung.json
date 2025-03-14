@@ -1,0 +1,33 @@
+{
+  "istilah": "cubung",
+  "entri": "cu.bung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cu.bung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecubung"
+        }
+      ]
+    },
+    {
+      "lema": "cu.bung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Us[Using: -]",
+          "deskripsi": "pondok kecil biasanya beratap welit, misalnya tempat untuk pembakaran batu bara, genting, batu kapur, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

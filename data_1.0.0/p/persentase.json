@@ -1,0 +1,35 @@
+{
+  "istilah": "persentase",
+  "entri": "per.sen.ta.se /pêrsentasê/bentuk tidak baku: prosentase, presentase",
+  "bentukTidakBaku": "prosentase, presentase",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "persentase beranak",
+    "persentase layu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per.sen.ta.se /pêrsentasê/bentuk tidak baku: prosentase, presentase",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari keutuhan yang dinyatakan dengan persen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang diperkirakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "angka persen (perseratus)"
+        }
+      ]
+    }
+  ]
+}

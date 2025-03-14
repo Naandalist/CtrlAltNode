@@ -1,0 +1,35 @@
+{
+  "istilah": "paran",
+  "entri": "pa.ran1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memarani"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "obyek, tujuan, tempat yang ditujui, tempat yang menjadi sasaran; jalan, perjalanan, daerah asing, luar negeri; perjalanan terakhir",
+    "kataAsal": "paran"
+  },
+  "data": [
+    {
+      "lema": "pa.ran1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "arah; tujuan: ke mana -- anak panah tadi?"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ran2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "balok bubungan (rumah)"
+        }
+      ]
+    }
+  ]
+}

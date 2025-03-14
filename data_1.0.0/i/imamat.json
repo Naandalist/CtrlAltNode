@@ -1,0 +1,28 @@
+{
+  "istilah": "imamat",
+  "entri": "i.ma.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kepemimpinan",
+    "kataAsal": "imāmah"
+  },
+  "data": [
+    {
+      "lema": "i.ma.mat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "imamah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "sakramen tahbisan untuk imam"
+        }
+      ]
+    }
+  ]
+}

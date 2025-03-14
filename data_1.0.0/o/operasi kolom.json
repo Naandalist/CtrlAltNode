@@ -1,0 +1,24 @@
+{
+  "istilah": "operasi kolom",
+  "entri": "operasi » operasi kolom",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "operasi » operasi kolom",
+      "arti": [
+        {
+          "kelas_kata": "Mat[Matematika: -]",
+          "deskripsi": "matriks yang hanya terdiri atas satu kolom"
+        }
+      ]
+    }
+  ]
+}

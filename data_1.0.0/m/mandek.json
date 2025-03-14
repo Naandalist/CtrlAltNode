@@ -1,0 +1,35 @@
+{
+  "istilah": "mandek",
+  "entri": "man.dek /mandêk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemandekan",
+    "memandekkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berhenti, tinggal, tetap",
+    "kataAsal": "maṇḍěg"
+  },
+  "data": [
+    {
+      "lema": "man.dek /mandêk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhenti: mobil itu -- di tengah jembatan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terhambat; terhenti; tertahan; macet: lalu lintas -- beberapa jam"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menemui jalan buntu: soal itulah yang menyebabkan perundingan --"
+        }
+      ]
+    }
+  ]
+}

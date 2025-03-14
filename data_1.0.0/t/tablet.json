@@ -1,0 +1,58 @@
+{
+  "istilah": "tablet",
+  "entri": "tab.let1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tablet isap",
+    "tablet mandi",
+    "tablet uji air"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tab.let1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat dalam bentuk butiran atau pipih; gentel (obat padat); pil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lempeng tanah liat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bidang papan kayu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "perangkat bergerak yang berbentuk datar dan persegi panjang menyerupai majalah, biasanya memiliki layar sentuh, digunakan untuk mengakses internet, menonton video, membaca buku elektronik, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "tab.let2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "komputer genggam yang dioperasikan melalui layar sentuh atau pena digital"
+        }
+      ]
+    },
+    {
+      "lema": "tab.let3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "perangkat bergerak yang berbentuk datar dan persegi panjang menyerupai majalah, memiliki layar sentuh, digunakan untuk mengakses internet, menonton video, membaca buku elektronik, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

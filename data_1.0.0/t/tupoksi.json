@@ -1,0 +1,33 @@
+{
+  "istilah": "tupoksi",
+  "entri": "tu.pok.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.pok.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "tugas, pokok, dan fungsi"
+        }
+      ]
+    },
+    {
+      "lema": "tu.pok.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Adm[Administrasi dan Kepegawaian: -] akr[akronim]",
+          "deskripsi": "tugas pokok dan fungsi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "gigir",
+  "entri": "gi.gir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gigir gunung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "punggung",
+    "kataAsal": "gigir"
+  },
+  "data": [
+    {
+      "lema": "gi.gir1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ gigil1"
+        }
+      ]
+    },
+    {
+      "lema": "gi.gir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "punggung"
+        }
+      ]
+    }
+  ]
+}

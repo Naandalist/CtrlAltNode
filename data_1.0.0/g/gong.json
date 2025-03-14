@@ -1,0 +1,30 @@
+{
+  "istilah": "gong",
+  "entri": "gong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gong bumbung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gong",
+    "kataAsal": "goṅ"
+  },
+  "data": [
+    {
+      "lema": "gong",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat musik pukul paling besar di antara peranti gamelan sejenis, berbentuk bundar dengan tonjolan di tengahnya (tempat memukul)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Mus[Musik: -]",
+          "deskripsi": "acara dan sebagainya yang terakhir (yang menarik perhatian): acara lawakan itu dijadikan -- dari keseluruhan acara malam itu"
+        }
+      ]
+    }
+  ]
+}

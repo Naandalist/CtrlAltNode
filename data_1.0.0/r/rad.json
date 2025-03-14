@@ -1,0 +1,35 @@
+{
+  "istilah": "rad",
+  "entri": "rad1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "rad agama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rad1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "dewan; majelis"
+        }
+      ]
+    },
+    {
+      "lema": "rad2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan pengionan dalam radiasi, 100 erg/gram"
+        }
+      ]
+    }
+  ]
+}

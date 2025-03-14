@@ -1,0 +1,38 @@
+{
+  "istilah": "damak",
+  "entri": "da.mak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendamak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.mak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kawat (bambu dan sebagainya) yang ujungnya ditajamkan dan pangkalnya diberi gabus atau dibebat dengan kapas dan digunakan sebagai peluru sumpitan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panah pendek, badannya berbentuk seperti tabung yang meruncing pada satu ujungnya, dan terdapat sirip dari plastik atau logam pada sisi yang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan melemparkan damak ke papan damak dari jarak tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "buah bulat dan kecil yang digunakan sebagai peluru sumpitan"
+        }
+      ]
+    }
+  ]
+}

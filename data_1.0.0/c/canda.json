@@ -1,0 +1,70 @@
+{
+  "istilah": "canda",
+  "entri": "can.da1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercanda",
+    "candaan",
+    "mencandai"
+  ],
+  "gabunganKata": [
+    "canda gurau"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "can.da1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelakar; senda gurau; seloroh"
+        }
+      ]
+    },
+    {
+      "lema": "can.da2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tombak pendek"
+        }
+      ]
+    },
+    {
+      "lema": "can.da3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "(tak --) tidak peduli; tidak ambil pusing"
+        }
+      ]
+    },
+    {
+      "lema": "can.da4",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rupanya: hari -- akan hujan; ia -- tidak suka makanan itu"
+        }
+      ]
+    },
+    {
+      "lema": "can.da5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "suku kata dalam mantra Sunda"
+        }
+      ]
+    }
+  ]
+}

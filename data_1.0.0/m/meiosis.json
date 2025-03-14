@@ -1,0 +1,33 @@
+{
+  "istilah": "meiosis",
+  "entri": "me.i.o.sis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.i.o.sis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pembelahan sel kelamin dari diploid menjadi haploid"
+        }
+      ]
+    },
+    {
+      "lema": "me.i.o.sis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "majas yang mengandung pernyataan yang merendah untuk penekanan, sering dipakai secara ironis, khususnya untuk menggambarkan sesuatu yang luar biasa atau yang mengesankan, misalnya hasilnya agak kurang baik untuk maksud “pekerjaannya gagal”"
+        }
+      ]
+    }
+  ]
+}

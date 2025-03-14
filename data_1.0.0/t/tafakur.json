@@ -1,0 +1,37 @@
+{
+  "istilah": "tafakur",
+  "entri": "ta.fa.kur bentuk tidak baku: pekur, tepekur",
+  "bentukTidakBaku": "pekur, tepekur",
+  "kataTurunan": [
+    "bertafakur",
+    "menafakuri",
+    "menafakurkan",
+    "tafakuran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "proses memikirkan sesuatu",
+    "kataAsal": "tafakkur"
+  },
+  "data": [
+    {
+      "lema": "ta.fa.kur bentuk tidak baku: pekur, tepekur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "renungan; perenungan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal merenung, memikirkan, atau menimbang-nimbang dengan sungguh-sungguh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengheningan cipta"
+        }
+      ]
+    }
+  ]
+}

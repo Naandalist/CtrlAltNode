@@ -1,0 +1,39 @@
+{
+  "istilah": "culik",
+  "entri": "cu.lik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "culik-culik",
+    "culikan",
+    "menculik",
+    "penculik",
+    "penculikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "perampok, perampas",
+    "kataAsal": "culika"
+  },
+  "data": [
+    {
+      "lema": "cu.lik1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat burung culik"
+        }
+      ]
+    },
+    {
+      "lema": "cu.lik2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ambil (anak atau orang) untuk tujuan tertentu"
+        }
+      ]
+    }
+  ]
+}

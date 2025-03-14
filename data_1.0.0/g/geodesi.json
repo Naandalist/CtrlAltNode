@@ -1,0 +1,32 @@
+{
+  "istilah": "geodesi",
+  "entri": "ge.o.de.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.o.de.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabang geologi tentang ukuran dan bangun bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu mengukur tanah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "lintasan terpendek antara dua titik pada satu permukaan"
+        }
+      ]
+    }
+  ]
+}

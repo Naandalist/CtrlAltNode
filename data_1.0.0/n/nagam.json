@@ -1,0 +1,33 @@
+{
+  "istilah": "nagam",
+  "entri": "na.gam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "lirih; suara indah; intonasi",
+    "kataAsal": "nagam"
+  },
+  "data": [
+    {
+      "lema": "na.gam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karangan (untaian) mutiara"
+        }
+      ]
+    },
+    {
+      "lema": "na.gam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keselarasan suara; keharmonisan suara"
+        }
+      ]
+    }
+  ]
+}

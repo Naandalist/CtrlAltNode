@@ -1,0 +1,70 @@
+{
+  "istilah": "objek",
+  "entri": "ob.jek bentuk tidak baku: obyek",
+  "bentukTidakBaku": "obyek",
+  "kataTurunan": [
+    "berobjek",
+    "mengobjek",
+    "mengobjekkan",
+    "objekan",
+    "pengobjek",
+    "pengobjekan"
+  ],
+  "gabunganKata": [
+    "objek afektif",
+    "objek akses data",
+    "objek alam",
+    "objek budaya",
+    "objek efektif",
+    "objek faktitif",
+    "objek formal",
+    "objek hukum",
+    "objek hukum pajak",
+    "objek langsung",
+    "objek material",
+    "objek pajak",
+    "objek pengenal",
+    "objek preposisional",
+    "objek primer",
+    "objek sekunder",
+    "objek taklangsung",
+    "objek vital",
+    "objek wisata",
+    "objek wisata alam",
+    "objek wisata budaya",
+    "objek wisata tirta"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ob.jek bentuk tidak baku: obyek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal, perkara, atau orang yang menjadi pokok pembicaraan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "benda, hal, dan sebagainya yang dijadikan sasaran untuk diteliti, diperhatikan, dan sebagainya: -- penelitian ini adalah tata kehidupan suku terasing di Riau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "nomina yang melengkapi verba transitif dalam klausa, misalnya teh manis dalam kalimat Kiki minum teh manis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal atau benda yang menjadi sasaran usaha sambilan: berdagang kain menjadi salah satu -- orang-orang di kota itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "titik atau himpunan yang bertindak sebagai sumber cahaya bagi suatu lensa, cermin, atau bagi suatu sistem lensa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "simping",
+  "entri": "sim.ping1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sim.ping1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kue berbentuk bulat pipih, dibuat dari adonan tepung beras yang dicampur dengan sedikit garam dan kencur"
+        }
+      ]
+    },
+    {
+      "lema": "sim.ping2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerang yang cangkangnya bundar, pipih dan tipis, satu cangkangnya berwarna merah dan lebih cembung daripada cangkang yang lain yang berwarna putih〔Amusium pleuronectes〕"
+        }
+      ]
+    }
+  ]
+}

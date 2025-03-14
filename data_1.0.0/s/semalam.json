@@ -1,0 +1,36 @@
+{
+  "istilah": "semalam",
+  "entri": "malam1 » se.ma.lam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "malam1 » se.ma.lam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satu malam: saya menginap di hotel itu ~ saja"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "malam kemarin; malam sebelum hari ini; malam tadi: ~ ia mengajak tamu asingnya menonton wayang kulit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepanjang malam: lalu ~ itu Hang Tuah pun berhikayat pelbagai cerita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari sebelum hari ini; kemarin: ~ sebelum petang ia sudah sampai di rumah"
+        }
+      ]
+    }
+  ]
+}

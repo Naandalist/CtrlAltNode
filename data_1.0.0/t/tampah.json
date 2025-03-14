@@ -1,0 +1,33 @@
+{
+  "istilah": "tampah",
+  "entri": "tam.pah1 bentuk tidak baku: tetampah",
+  "bentukTidakBaku": "tetampah",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ukuran persegi (tanah) yang khusus",
+    "kataAsal": "tampah"
+  },
+  "data": [
+    {
+      "lema": "tam.pah1 bentuk tidak baku: tetampah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perabot rumah tangga, dibuat dari anyaman bambu dan sebagainya, biasanya berbentuk bulat untuk menampi (membersihkan) beras; nyiru; penampan besar"
+        }
+      ]
+    },
+    {
+      "lema": "tam.pah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran luas tanah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "berkotek",
+  "entri": "kotek1 » ber.ko.tek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "siapa berkotek, siapa bertelur"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kotek1 » ber.ko.tek",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengeluarkan bunyi “kotek, kotek”: ayam betina itu segera ~ setelah selesai bertelur"
+        }
+      ]
+    },
+    {
+      "lema": "kotek2 » ber.ko.tek",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berekor"
+        }
+      ]
+    }
+  ]
+}

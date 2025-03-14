@@ -1,0 +1,37 @@
+{
+  "istilah": "gayal",
+  "entri": "ga.yal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bayang-bayang",
+    "kataAsal": "khayāl"
+  },
+  "data": [
+    {
+      "lema": "ga.yal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "liat (tentang daging dan sebagainya); membingkas; melenting"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ulet; tidak mudah putus asa"
+        }
+      ]
+    },
+    {
+      "lema": "ga.yal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "khayal"
+        }
+      ]
+    }
+  ]
+}

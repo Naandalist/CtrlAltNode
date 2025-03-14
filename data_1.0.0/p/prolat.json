@@ -1,0 +1,28 @@
+{
+  "istilah": "prolat",
+  "entri": "pro.lat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.lat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "benda putar yang diperoleh apabila elips diputar mengelilingi sumbu panjangnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mat[Matematika: -]",
+          "deskripsi": "berbentuk lonjong tiga dimensi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "mualim",
+  "entri": "mu.a.lim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengajar",
+    "kataAsal": "mu‘allim"
+  },
+  "data": [
+    {
+      "lema": "mu.a.lim1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli agama; guru agama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penunjuk jalan"
+        }
+      ]
+    },
+    {
+      "lema": "mu.a.lim2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perwira kapal berijazah pelayaran niaga nautika"
+        }
+      ]
+    }
+  ]
+}

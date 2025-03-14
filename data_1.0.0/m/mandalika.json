@@ -1,0 +1,46 @@
+{
+  "istilah": "mandalika",
+  "entri": "man.da.li.ka1 bentuk tidak baku: mendelika",
+  "bentukTidakBaku": "mendelikamandulika, mendalika, mendeleka",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "berhubungan dengan provinsi, gubernur provinsi",
+    "kataAsal": "māṇḍalika"
+  },
+  "data": [
+    {
+      "lema": "man.da.li.ka1 bentuk tidak baku: mendelika",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sebutan atau jabatan (seperti adipati atau gubernur): orang Bintan dan -- itu pun menghadap bendahara"
+        }
+      ]
+    },
+    {
+      "lema": "man.da.li.ka2 bentuk tidak baku: mandulika, mendalika, mendeleka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempunai"
+        }
+      ]
+    },
+    {
+      "lema": "Man.da.li.ka3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah di bagian selatan pulau Lombok, terkenal dengan keindahan lautnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama tokoh puteri yang sangat cantik dalam cerita rakyat Lombok"
+        }
+      ]
+    }
+  ]
+}

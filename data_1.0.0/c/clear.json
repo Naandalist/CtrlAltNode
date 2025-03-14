@@ -1,0 +1,57 @@
+{
+  "istilah": "clear",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "bebas dari sangkaan atau tuduhan"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "bebas dari kewajiban membayar"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "sudah mendapat izin"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "pergi kepada yang berwajib untuk meminta izin sebelum berlaku"
+        }
+      ]
+    },
+    {
+      "lema": "clear",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "bebas dari sangkaan atau tuduhan"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "bebas dari kewajiban membayar"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "sudah mendapat izin"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "pergi kepada yang berwajib untuk meminta izin sebelum berlaku"
+        }
+      ]
+    }
+  ]
+}

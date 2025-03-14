@@ -1,0 +1,40 @@
+{
+  "istilah": "tapus",
+  "entri": "ta.pus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menapus",
+    "penapusan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.pus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang kayunya baik untuk perkakas rumah〔Elateriospermum tapos〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu tapus"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pus2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menapus"
+        }
+      ]
+    }
+  ]
+}

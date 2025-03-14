@@ -1,0 +1,32 @@
+{
+  "istilah": "kerahasiaan",
+  "entri": "rahasia » ke.ra.ha.si.a.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kerahasiaan bank",
+    "kerahasiaan data",
+    "kerahasiaan transaksi keuangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rahasia » ke.ra.ha.si.a.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat rahasia; perihal rahasia: untuk menjamin ~nya, surat ini dimasukkan ke dalam sampul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tindakan untuk memastikan tidak adanya akses yang tidak sah terhadap informasi yang tersimpan dalam komputer"
+        }
+      ]
+    }
+  ]
+}

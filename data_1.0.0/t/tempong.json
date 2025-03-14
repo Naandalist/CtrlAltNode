@@ -1,0 +1,36 @@
+{
+  "istilah": "tempong",
+  "entri": "tem.pong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menempong",
+    "menempong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem.pong1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menempong"
+        }
+      ]
+    },
+    {
+      "lema": "tem.pong2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menempong"
+        }
+      ]
+    }
+  ]
+}

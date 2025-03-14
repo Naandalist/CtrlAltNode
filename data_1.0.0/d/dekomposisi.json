@@ -1,0 +1,30 @@
+{
+  "istilah": "dekomposisi",
+  "entri": "de.kom.po.si.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendekomposisi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.kom.po.si.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "proses perubahan menjadi bentuk yang lebih sederhana; penguraian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tindakan pemecahan sistem ke dalam komponen yang lebih kecil untuk menyederhanakan dan mempermudah desain dan pengembangannya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "berobat",
+  "entri": "obat » ber.o.bat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "berobat jalan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "obat » ber.o.bat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggunakan obat: jika badan tidak nyaman, lebih baik ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meminta atau mencari obat kepada: jangan ~ kepada dukun, pergilah ke rumah sakit"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah diobati atau sudah mendapat obat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mendapat balasan; terhibur: jerih payahnya sudah ~; ~ hatiku setelah anak yang kurindukan pulang dari rantau"
+        }
+      ]
+    }
+  ]
+}

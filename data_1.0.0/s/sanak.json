@@ -1,0 +1,30 @@
+{
+  "istilah": "sanak",
+  "entri": "sa.nak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersanak",
+    "menyanak"
+  ],
+  "gabunganKata": [
+    "sanak fiktif",
+    "sanak saudara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "saudara (kakak/adik) laki-laki atau perempuan, saudara",
+    "kataAsal": "sānak"
+  },
+  "data": [
+    {
+      "lema": "sa.nak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saudara; keluarga"
+        }
+      ]
+    }
+  ]
+}

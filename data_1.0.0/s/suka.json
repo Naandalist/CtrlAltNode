@@ -1,0 +1,66 @@
+{
+  "istilah": "suka",
+  "entri": "su.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersuka-suka",
+    "bersuka-sukaan",
+    "kesukaan",
+    "menyukai",
+    "menyukakan",
+    "penyuka",
+    "sesuka",
+    "sesuka-suka",
+    "sesuka-sukanya",
+    "sesukanya",
+    "suka-suka",
+    "sukaan"
+  ],
+  "gabunganKata": [
+    "suka duka",
+    "suka tak suka"
+  ],
+  "peribahasa": [
+    "hati yang suka, peringan beban; orang muda selendang dunia, orang kaya suka dimakan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "mudah, nyaman; bahagia, suka",
+    "kataAsal": "sukha"
+  },
+  "data": [
+    {
+      "lema": "su.ka",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkeadaan senang (girang): sahabat dalam -- dan duka"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "girang hati; senang hati: sekalian bantuan dan sokongan disambut dengan -- hati"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mau; sudi; rela: ia tidak -- membayar sekian; datanglah kalau Tuan --; kalau sudah -- sama --, biarlah kawin saja"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "senang; gemar: neneknya -- benar makan sirih; memang banyak orang -- menonton bioskop; ada yang -- daging dan ada juga yang -- ikan laut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menaruh simpati; setuju: orang itu akan saya suruh bekerja di sini, itu pun kalau Tuan --; tiada seorang pun -- kepadanya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menaruh kasih; kasih sayang; cinta: rasanya jarang ibu yang tidak -- kepada anaknya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mudah sekali ...; kerap kali ...: memang dia -- lupa; pensil semacam ini -- patah"
+        }
+      ]
+    }
+  ]
+}

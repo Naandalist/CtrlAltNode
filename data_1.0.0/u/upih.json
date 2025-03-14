@@ -1,0 +1,41 @@
+{
+  "istilah": "upih",
+  "entri": "u.pih1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "upih-upih"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "atap rumbia (ijuk) perabung upih"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.pih1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangkai pelepah pinang dan sebagainya yang lebar dan tipis: dodol dibungkus dengan -- pinang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian daun tanaman padi-padian yang menyelubungi batang"
+        }
+      ]
+    },
+    {
+      "lema": "u.pih2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "upih-upih"
+        }
+      ]
+    }
+  ]
+}

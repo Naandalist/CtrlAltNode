@@ -1,0 +1,27 @@
+{
+  "istilah": "pribumi",
+  "entri": "pri.bu.mi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepribumian",
+    "mempribumikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tanah, negara, distrik, tempat, bumi",
+    "kataAsal": "bhūmi"
+  },
+  "data": [
+    {
+      "lema": "pri.bu.mi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penghuni asli; yang berasal dari tempat yang bersangkutan; inlander"
+        }
+      ]
+    }
+  ]
+}

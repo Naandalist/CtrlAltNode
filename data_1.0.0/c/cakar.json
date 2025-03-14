@@ -1,0 +1,62 @@
+{
+  "istilah": "cakar",
+  "entri": "ca.kar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercakar",
+    "bercakar-cakaran",
+    "bersicakar",
+    "cakar-cakaran",
+    "cakar-mencakar",
+    "cakaran",
+    "mencakar",
+    "mencakar-cakar",
+    "pencakar",
+    "pencakaran",
+    "tercakar"
+  ],
+  "gabunganKata": [
+    "cakar ayam",
+    "cakar balar",
+    "cakar besi",
+    "cakar setan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cakar",
+    "kataAsal": "cakar"
+  },
+  "data": [
+    {
+      "lema": "ca.kar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kaki dan kuku yang panjang (pada ayam, itik, burung)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuku yang panjang dan tajam (pada harimau, kucing, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gores (parut) bekas kena kuku atau digaruk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggaruk; kukur"
+        }
+      ]
+    },
+    {
+      "lema": "ca.kar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang bekas seperti pakaian, sepatu, dan karung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "sit",
+  "entri": "sit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sit stensil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi karet rem yang ditekan mendadak; desit"
+        }
+      ]
+    },
+    {
+      "lema": "sit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembaran kertas dari bahan kimia untuk stensil"
+        }
+      ]
+    },
+    {
+      "lema": "SIT",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "surat izin terbit"
+        }
+      ]
+    }
+  ]
+}

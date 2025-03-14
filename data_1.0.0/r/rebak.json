@@ -1,0 +1,46 @@
+{
+  "istilah": "rebak",
+  "entri": "re.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merebak",
+    "merebak",
+    "perebakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.bak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "robek panjang (kain, layar, dan sebagainya); luka dalam (kena pisau dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "re.bak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merebak"
+        }
+      ]
+    },
+    {
+      "lema": "re.bak /rêbak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merebak"
+        }
+      ]
+    }
+  ]
+}

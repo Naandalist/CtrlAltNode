@@ -1,0 +1,48 @@
+{
+  "istilah": "macan",
+  "entri": "ma.can",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "macan-macanan",
+    "memacani"
+  ],
+  "gabunganKata": [
+    "macan akar",
+    "macan dahan",
+    "macan kertas",
+    "macan kumbang",
+    "macan loreng",
+    "macan ompong",
+    "macan tutul"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "harimau",
+    "kataAsal": "macan"
+  },
+  "data": [
+    {
+      "lema": "ma.can",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "harimau (lazim digunakan di Jawa)"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "mamalia karnivor, pemangsa soliter, dan merupakan hewan teritorial"
+        }
+      ]
+    },
+    {
+      "lema": "ma.can2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] akr[akronim]",
+          "deskripsi": "manis dan cantik"
+        }
+      ]
+    }
+  ]
+}

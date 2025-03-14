@@ -1,0 +1,55 @@
+{
+  "istilah": "manda",
+  "entri": "man.da1",
+  "bentukTidakBaku": "mandah2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.da1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "mamanda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada mamak"
+        }
+      ]
+    },
+    {
+      "lema": "man.da2 bentuk tidak baku: mandah2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mau; mau atau tahan (menderita): mereka senantiasa -- menerima nasib"
+        }
+      ]
+    },
+    {
+      "lema": "man.da3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat mandi1"
+        }
+      ]
+    },
+    {
+      "lema": "man.da4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kanda"
+        }
+      ]
+    }
+  ]
+}

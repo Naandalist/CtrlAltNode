@@ -1,0 +1,47 @@
+{
+  "istilah": "loncat",
+  "entri": "lon.cat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berloncat-loncatan",
+    "berloncatan",
+    "loncatan",
+    "meloncat",
+    "meloncat-loncat",
+    "meloncati",
+    "meloncatkan",
+    "peloncat",
+    "peloncatan"
+  ],
+  "gabunganKata": [
+    "loncat galah",
+    "loncat indah",
+    "loncat jauh",
+    "loncat tinggi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "meloncat, melompat",
+    "kataAsal": "luñcat"
+  },
+  "data": [
+    {
+      "lema": "lon.cat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bergerak menjauhi permukaan secara vertikal (ke atas) dengan menggunakan otot kaki: -- setinggi-tingginya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lompat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lompat dengan melantingkan tubuh atau menggerakkan sirip dan ekor (tentang ikan)"
+        }
+      ]
+    }
+  ]
+}

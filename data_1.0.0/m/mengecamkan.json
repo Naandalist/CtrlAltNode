@@ -1,0 +1,41 @@
+{
+  "istilah": "mengecamkan",
+  "entri": "cam1 » me.nge.cam.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cam1 » me.nge.cam.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memperhatikan (mengamat-amati) dengan sungguh-sungguh: ia ~ dengan baik apa yang sedang dilihatnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meresapkan ke dalam pikiran dan hati: ia ~ benar-benar semua nasihat orang tuanya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meyakinkan: kita harus ~ pikiran rakyat bahwa kemerdekaan tidak berarti boleh berbuat sekehendak hati"
+        }
+      ]
+    },
+    {
+      "lema": "kecam » me.nge.cam.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengecam"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "salut",
+  "entri": "sa.lut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersalut",
+    "menyalut",
+    "menyaluti",
+    "penyalut",
+    "penyalutan",
+    "salutan",
+    "tersalut"
+  ],
+  "gabunganKata": [
+    "salut tinta"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.lut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampul; sarung; pembungkus; selongsong: -- giginya dari emas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah pelindung"
+        }
+      ]
+    },
+    {
+      "lema": "sa.lut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hormat; penghormatan: kita memberi -- kepada para petani yang telah menyumbangkan padi mereka untuk rakyat Afrika yang kelaparan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "terdesak",
+  "entri": "desak1 » ter.de.sak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "terdesak padang ke rimba"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "desak1 » ter.de.sak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tersesak (hingga tidak lapang atau tidak leluasa lagi): badannya sudah ~ di sudut tembok"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "terpaksa: ia menggadaikan perhiasannya karena ~ oleh keadaan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "sudah didesak mundur: tentara musuh sudah mulai ~"
+        }
+      ]
+    }
+  ]
+}

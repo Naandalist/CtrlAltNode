@@ -1,0 +1,37 @@
+{
+  "istilah": "ranggon",
+  "entri": "rang.gon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rang.gon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ss[Sasak: -]",
+          "deskripsi": "alat tenun yang digunakan untuk membuat kain songket"
+        }
+      ]
+    },
+    {
+      "lema": "rang.gon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "gubuk di hutan atau ladang yang digunakan utk beristirahat ketika menggembala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "gubuk bertiang tinggi"
+        }
+      ]
+    }
+  ]
+}

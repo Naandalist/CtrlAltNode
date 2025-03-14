@@ -1,0 +1,46 @@
+{
+  "istilah": "mok",
+  "entri": "mok1",
+  "bentukTidakBaku": "muk",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sejenis penyakit radang kulit kuda"
+        }
+      ]
+    },
+    {
+      "lema": "mok2 bentuk tidak baku: muk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "piala dari email"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cangkir besar dari kaleng"
+        }
+      ]
+    },
+    {
+      "lema": "mok3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kue-kue yang dibuat dari kelapa"
+        }
+      ]
+    }
+  ]
+}

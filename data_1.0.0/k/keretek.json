@@ -1,0 +1,45 @@
+{
+  "istilah": "keretek",
+  "entri": "ke.re.tek1 /kêretek/",
+  "bentukTidakBaku": "kretek",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "keretek mesin",
+    "keretek tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.re.tek1 /kêretek/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi daun terbakar"
+        }
+      ]
+    },
+    {
+      "lema": "ke.re.tek2 /kêretek/bentuk tidak baku: kretek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rokok yang tembakaunya dicampuri serbuk cacahan cengkih"
+        }
+      ]
+    },
+    {
+      "lema": "ke.re.tek3 /kêretek/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kereta berkuda beroda dua; dokar"
+        }
+      ]
+    }
+  ]
+}

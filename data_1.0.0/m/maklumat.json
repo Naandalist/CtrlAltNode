@@ -1,0 +1,33 @@
+{
+  "istilah": "maklumat",
+  "entri": "mak.lu.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memaklumatkan"
+  ],
+  "gabunganKata": [
+    "maklumat pemerintah",
+    "maklumat presiden"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "informasi",
+    "kataAsal": "ma‘lūmāt"
+  },
+  "data": [
+    {
+      "lema": "mak.lu.mat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberitahuan; pengumuman: rakyat menyambut -- itu dengan gembira"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan; mualamat: mereka tidak mempunyai -- yang cukup atas segala hal yang bersangkut paut dengan perkataan itu"
+        }
+      ]
+    }
+  ]
+}

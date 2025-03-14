@@ -1,0 +1,29 @@
+{
+  "istilah": "tandur",
+  "entri": "tan.dur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menandur",
+    "tandur-menandur"
+  ],
+  "gabunganKata": [
+    "tandur alih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bertanam; menanam semaian padi",
+    "kataAsal": "tandur"
+  },
+  "data": [
+    {
+      "lema": "tan.dur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tanam (padi dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

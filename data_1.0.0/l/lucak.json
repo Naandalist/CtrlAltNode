@@ -1,0 +1,33 @@
+{
+  "istilah": "lucak",
+  "entri": "lu.cak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.cak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Md[Melayu Medan: -]",
+          "deskripsi": "dimarahi habis-habisan: orang lain yang punya ulah, aku yang -- dibuatnya"
+        }
+      ]
+    },
+    {
+      "lema": "lu.cak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "buah pinang yang muda dan telah gugur"
+        }
+      ]
+    }
+  ]
+}

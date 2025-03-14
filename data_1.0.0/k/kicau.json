@@ -1,0 +1,45 @@
+{
+  "istilah": "kicau",
+  "entri": "ki.cau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkicau",
+    "kicauan",
+    "pekicau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.cau1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi burung (terutama burung murai)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "celoteh; perkataan yang sebarang saja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pesan yang dikirim melalui layanan jejaring sosial twitter; twit; cuit: -- twitter dikhawatirkan dapat mengganggu konsentrasi para pemain selama digelarnya Piala Eropa"
+        }
+      ]
+    },
+    {
+      "lema": "ki.cau2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tipu; kecoh"
+        }
+      ]
+    }
+  ]
+}

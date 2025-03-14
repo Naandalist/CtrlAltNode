@@ -1,0 +1,34 @@
+{
+  "istilah": "mutlak",
+  "entri": "mut.lak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemutlakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "umum",
+    "kataAsal": "muṭlaq"
+  },
+  "data": [
+    {
+      "lema": "mut.lak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengenai segenapnya (segalanya); seutuhnya: menyerah secara --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tiada terbatas; penuh: ia diberi kuasa -- untuk menangani masalah itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak boleh tidak; harus ada: hal itu merupakan syarat --"
+        }
+      ]
+    }
+  ]
+}

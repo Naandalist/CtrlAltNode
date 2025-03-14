@@ -1,0 +1,42 @@
+{
+  "istilah": "tambul",
+  "entri": "tam.bul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertambul",
+    "bertambul",
+    "menambul",
+    "penambul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tam.bul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang dihidangkan sebagai teman minuman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman untuk dihidangkan (untuk menyegarkan badan)"
+        }
+      ]
+    },
+    {
+      "lema": "tam.bul2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertambul"
+        }
+      ]
+    }
+  ]
+}

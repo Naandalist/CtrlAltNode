@@ -1,0 +1,37 @@
+{
+  "istilah": "dayang",
+  "entri": "da.yang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dayang-dayang",
+    "pendayang",
+    "pendayangan",
+    "perdayangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.yang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gadis pelayan di istana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "anak perempuan, gadis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada perempuan muda (di Bangka)"
+        }
+      ]
+    }
+  ]
+}

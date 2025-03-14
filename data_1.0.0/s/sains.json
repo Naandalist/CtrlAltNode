@@ -1,0 +1,34 @@
+{
+  "istilah": "sains",
+  "entri": "sa.ins",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sains atmosfer"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.ins",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu pengetahuan pada umumnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan sistematis tentang alam dan dunia fisik, termasuk di dalamnya, botani, fisika, kimia, geologi, zoologi, dan sebagainya; ilmu pengetahuan alam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan sistematis yang diperoleh dari suatu observasi, penelitian, dan uji coba yang mengarah pada penentuan sifat dasar atau prinsip sesuatu yang sedang diselidiki, dipelajari, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

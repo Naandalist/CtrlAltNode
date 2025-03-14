@@ -1,0 +1,60 @@
+{
+  "istilah": "sabuk",
+  "entri": "sa.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersabuk",
+    "menyabuk"
+  ],
+  "gabunganKata": [
+    "sabuk biru",
+    "sabuk cokelat",
+    "sabuk hijau",
+    "sabuk hitam",
+    "sabuk keselamatan",
+    "sabuk kuning",
+    "sabuk merah",
+    "sabuk pemberat",
+    "sabuk pengaman",
+    "sabuk putih",
+    "sabuk asteroid",
+    "sabuk gunung api",
+    "sabuk kapiler",
+    "sabuk pelindung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ikat pinggang",
+    "kataAsal": "sabuk"
+  },
+  "data": [
+    {
+      "lema": "sa.buk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikat pinggang; tali pengikat"
+        }
+      ]
+    },
+    {
+      "lema": "sa.buk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cawat"
+        }
+      ]
+    },
+    {
+      "lema": "sa.buk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalur: sepanjang pantai terdapat sebuah -- dataran rendah"
+        }
+      ]
+    }
+  ]
+}

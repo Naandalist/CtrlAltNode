@@ -1,0 +1,33 @@
+{
+  "istilah": "pensi",
+  "entri": "pen.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pen.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "lokan kecil yang hidup di danau-danau dan dagingnya dapat dimakan"
+        }
+      ]
+    },
+    {
+      "lema": "pen.si /pênsi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "pentas seni"
+        }
+      ]
+    }
+  ]
+}

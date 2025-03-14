@@ -1,0 +1,41 @@
+{
+  "istilah": "degap",
+  "entri": "de.gap1 /dêgap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdegap-degap",
+    "degap-degap",
+    "berdegap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.gap1 /dêgap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi papan dipukul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi debaran jantung"
+        }
+      ]
+    },
+    {
+      "lema": "de.gap2 /dêgap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tegap; gagah: penjaga gudang itu -- dan galak"
+        }
+      ]
+    }
+  ]
+}

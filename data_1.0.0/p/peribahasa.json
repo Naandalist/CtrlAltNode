@@ -1,0 +1,30 @@
+{
+  "istilah": "peribahasa",
+  "entri": "pe.ri.ba.ha.sa /pêribahasa/bentuk tidak baku: perbahasa",
+  "bentukTidakBaku": "perbahasa",
+  "kataTurunan": [
+    "berperibahasa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ri.ba.ha.sa /pêribahasa/bentuk tidak baku: perbahasa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok kata atau kalimat yang tetap susunannya, biasanya mengiaskan maksud tertentu (dalam peribahasa termasuk juga bidal, ungkapan, perumpamaan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ungkapan atau kalimat ringkas padat, berisi perbandingan, perumpamaan, nasihat, prinsip hidup atau aturan tingkah laku"
+        }
+      ]
+    }
+  ]
+}

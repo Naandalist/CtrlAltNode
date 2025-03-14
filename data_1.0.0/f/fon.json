@@ -1,0 +1,44 @@
+{
+  "istilah": "fon",
+  "entri": "fon1",
+  "bentukTidakBaku": "fonta",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "fon turunan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bunyi ujar yang dihasilkan oleh alat ucap; bunyi bahasa"
+        }
+      ]
+    },
+    {
+      "lema": "fon2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ fohn"
+        }
+      ]
+    },
+    {
+      "lema": "fon3 bentuk tidak baku: fonta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan huruf, angka, simbol khusus, dan tanda baca dengan ukuran dan model atau gaya tertentu dalam komputer"
+        }
+      ]
+    }
+  ]
+}

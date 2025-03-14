@@ -1,0 +1,41 @@
+{
+  "istilah": "lingga",
+  "entri": "ling.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lingga alam",
+    "lingga api",
+    "lingga prasasti"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "simbol atau tanda gender, lambang kemaluan Syiwa sebagai objek pemujaan",
+    "kataAsal": "liṅga"
+  },
+  "data": [
+    {
+      "lema": "ling.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu berbentuk tiang sebagai tugu peringatan dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda kelaki-lakian Dewa Siwa, berbentuk tiang, melambangkan kesuburan"
+        }
+      ]
+    },
+    {
+      "lema": "Ling.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Kepulauan Riau, terkenal dengan sebutan Bunda Tanah Melayu"
+        }
+      ]
+    }
+  ]
+}

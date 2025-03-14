@@ -1,0 +1,33 @@
+{
+  "istilah": "cekap",
+  "entri": "ce.kap1 /cêkap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.kap1 /cêkap/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ cekak1"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kap2 /cêkap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "cakap1"
+        }
+      ]
+    }
+  ]
+}

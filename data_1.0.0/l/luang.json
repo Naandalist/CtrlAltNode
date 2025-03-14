@@ -1,0 +1,44 @@
+{
+  "istilah": "luang",
+  "entri": "lu.ang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpeluang",
+    "keluangan",
+    "meluangkan",
+    "peluang",
+    "terluang",
+    "meluang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "luwaṅ"
+  },
+  "data": [
+    {
+      "lema": "lu.ang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lowong (tidak dihuni, ditempati, dan sebagainya); kosong: kebetulan ada tempat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "senggang; tidak sibuk: dikerjakan dalam waktu --"
+        }
+      ]
+    },
+    {
+      "lema": "lu.ang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "meluang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "istilah": "energi",
+  "entri": "e.ner.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berenergi",
+    "keenergian"
+  ],
+  "gabunganKata": [
+    "energi aerobik",
+    "energi alternatif",
+    "energi astral",
+    "energi atom",
+    "energi bebas",
+    "energi bersih",
+    "energi galikan",
+    "energi geotermal",
+    "energi inti",
+    "energi kimia",
+    "energi kinetik",
+    "energi kotor",
+    "energi matahari",
+    "energi mekanis",
+    "energi metabolisme",
+    "energi metabolisme basal",
+    "energi metabolisme istirahat",
+    "energi mimetik",
+    "energi nuklir",
+    "energi panas",
+    "energi pangan",
+    "energi pencernaan makanan",
+    "energi potensial",
+    "energi potensial tersedia",
+    "energi psikologi",
+    "energi putar",
+    "energi radio",
+    "energi regangan",
+    "energi surya",
+    "energi tekan",
+    "energi termal",
+    "energi termogenesis",
+    "energi termogenesis makanan",
+    "energi tersinar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ner.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "kemampuan untuk melakukan kerja (misalnya untuk energi listrik dan mekanika); daya (kekuatan) yang dapat digunakan untuk melakukan berbagai proses kegiatan, misalnya dapat merupakan bagian suatu bahan atau tidak terikat pada bahan (seperti sinar matahari); tenaga"
+        }
+      ]
+    }
+  ]
+}

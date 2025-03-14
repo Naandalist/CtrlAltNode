@@ -1,0 +1,49 @@
+{
+  "istilah": "sturm und drang",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "aliran dalam sastra Jerman pada akhir abad ke-18 yang karya-karyanya penuh dengan perasaan meluap-luap dan sering menggambarkan pemberontakan individu terhadap masyarakat"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "(masa) pergolakan jiwa (dalam kehidupan remaja)"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "masa pancaroba; masa peralihan"
+        }
+      ]
+    },
+    {
+      "lema": "Sturm und Drang",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "aliran dalam sastra Jerman pada akhir abad ke-18 yang karya-karyanya penuh dengan perasaan meluap-luap dan sering menggambarkan pemberontakan individu terhadap masyarakat"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "(masa) pergolakan jiwa (dalam kehidupan remaja)"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "masa pancaroba; masa peralihan"
+        }
+      ]
+    }
+  ]
+}

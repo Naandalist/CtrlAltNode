@@ -1,0 +1,43 @@
+{
+  "istilah": "cangkang",
+  "entri": "cang.kang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercangkang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cang.kang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit telur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah siput atau kerang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit keras yang menutupi badan (pada penyu, kura-kura, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "cang.kang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang sopan; kurang ajar terutama suka menjawab dengan keras apabila dimarahi (dinasihati)"
+        }
+      ]
+    }
+  ]
+}

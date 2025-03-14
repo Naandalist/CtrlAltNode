@@ -1,0 +1,44 @@
+{
+  "istilah": "tanya",
+  "entri": "ta.nya",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertanya",
+    "bertanya-tanya",
+    "bertanyakan",
+    "mempertanyakan",
+    "menanya",
+    "menanyai",
+    "menanyakan",
+    "penanya",
+    "penanyaan",
+    "pertanyaan",
+    "tanyaan"
+  ],
+  "gabunganKata": [
+    "tanya jawab"
+  ],
+  "peribahasa": [
+    "tepuk perut, tanya selera"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.nya",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permintaan keterangan (penjelasan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bertanya"
+        }
+      ]
+    }
+  ]
+}

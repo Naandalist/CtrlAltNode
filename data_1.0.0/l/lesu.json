@@ -1,0 +1,36 @@
+{
+  "istilah": "lesu",
+  "entri": "le.su /lêsu/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelesuan"
+  ],
+  "gabunganKata": [
+    "lesu darah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "berat, lamban, malas, lembam, tanpa energi, lelah",
+    "kataAsal": "alasa"
+  },
+  "data": [
+    {
+      "lema": "le.su /lêsu/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa lemah dan lelah; letih"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak banyak kegiatan jual beli; lemah dan sepi (tentang perniagaan)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak bersemangat (tentang pertandingan)"
+        }
+      ]
+    }
+  ]
+}

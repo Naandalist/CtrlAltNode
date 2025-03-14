@@ -1,0 +1,39 @@
+{
+  "istilah": "kerakal",
+  "entri": "ke.ra.kal /kêrakal/bentuk tidak baku: krakal",
+  "bentukTidakBaku": "krakal",
+  "kataTurunan": [
+    "berkerakal",
+    "mengerakali"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ra.kal /kêrakal/bentuk tidak baku: krakal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu kerikil yang agak besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil peremukan batuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batuan berbentuk tidak teratur dan bersudut runcing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "endapan batuan bulat dengan garis tengah antara 10–15 mm"
+        }
+      ]
+    }
+  ]
+}

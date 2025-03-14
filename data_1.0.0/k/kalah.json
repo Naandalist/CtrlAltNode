@@ -1,0 +1,48 @@
+{
+  "istilah": "kalah",
+  "entri": "ka.lah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekalahan",
+    "mengalah",
+    "mengalahkan",
+    "pengalah",
+    "terkalahkan"
+  ],
+  "gabunganKata": [
+    "kalah gertak",
+    "kalah laki",
+    "kalah suara"
+  ],
+  "peribahasa": [
+    "alah (kalah) membeli, menang memakai; biar kalah sabung, asalkan menang sorak; kalah jadi abu, menang jadi arang; patah lidah alamat kalah, patah keris alamat mati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kalah, digulingkan, dikalahkan, menyerah, mati, mengalah",
+    "kataAsal": "alah"
+  },
+  "data": [
+    {
+      "lema": "ka.lah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak menang atau dalam keadaan tidak menang (dalam perkelahian, perang, pertandingan, pemilihan, dan sebagainya); dapat diungguli lawan: dia -- dalam merebut bola itu; negara-negara yang -- dalam perang harus membayar pampasan kepada pihak yang menang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kehilangan atau merugi karena tidak menang: kesebelasan ibu kota -- dalam pertandingan sepak bola melawan kesebelasan tamu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak lulus (dalam ujian): sudah dua kali ia -- dalam ujiannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak menyamai; kurang dari; tidak sebesar; tidak sekuat: luas stadion kota itu -- dibandingkan dengan luas stadion di kotaku"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "stambul",
+  "entri": "stam.bul2 bentuk tidak baku: setambul",
+  "bentukTidakBaku": "setambul",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "stam.bul2 bentuk tidak baku: setambul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "komedi yang biasanya dimainkan untuk para bangsawan (sebangsa sandiwara keliling)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis keroncong yang terdiri atas stambul satu, stambul dua, dan stambul tiga"
+        }
+      ]
+    },
+    {
+      "lema": "Stam.bul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu kota Turki dahulu; Istambul"
+        }
+      ]
+    }
+  ]
+}

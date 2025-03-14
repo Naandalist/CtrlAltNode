@@ -1,0 +1,34 @@
+{
+  "istilah": "taksonomi",
+  "entri": "tak.so.no.mi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "taksonomi numeris"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tak.so.no.mi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "klasifikasi bidang ilmu; kaidah dan prinsip yang meliputi pengklasifikasian objek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabang biologi yang menelaah penamaan, perincian, dan pengelompokan makhluk hidup berdasarkan persamaan dan pembedaan sifatnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "klasifikasi unsur bahasa menurut hubungan hierarkis; urutan satuan fonologis atau gramatikal yang dimungkinkan dalam satuan bahasa"
+        }
+      ]
+    }
+  ]
+}

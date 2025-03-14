@@ -1,0 +1,53 @@
+{
+  "istilah": "sapa",
+  "entri": "sa.pa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersapa",
+    "bersapa-sapaan",
+    "bersapaan",
+    "disapa",
+    "menyapa",
+    "penyapa",
+    "penyapaan",
+    "sapa-menyapa",
+    "sapaan",
+    "tersapa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berbicara dengan",
+    "kataAsal": "sapa"
+  },
+  "data": [
+    {
+      "lema": "sa.pa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkataan untuk menegur (mengajak bercakap-cakap dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "sa.pa2",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "siapa"
+        }
+      ]
+    },
+    {
+      "lema": "sa.pa3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ safa"
+        }
+      ]
+    }
+  ]
+}

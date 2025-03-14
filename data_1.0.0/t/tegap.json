@@ -1,0 +1,44 @@
+{
+  "istilah": "tegap",
+  "entri": "te.gap1 /têgap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketegapan",
+    "menegapkan"
+  ],
+  "gabunganKata": [
+    "tegap hati",
+    "tegap sasa",
+    "tegap tegun"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.gap1 /têgap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kokoh kuat (tentang badan); gagah kuat (tentang sikap badan): badannya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "kuat; kukuh; teguh: -- dan tegas pendiriannya"
+        }
+      ]
+    },
+    {
+      "lema": "te.gap2 /têgap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ikan) parang (4)"
+        }
+      ]
+    }
+  ]
+}

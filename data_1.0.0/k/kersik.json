@@ -1,0 +1,39 @@
+{
+  "istilah": "kersik",
+  "entri": "ker.sik1 /kêrsik/bentuk tidak baku: gersik1",
+  "bentukTidakBaku": "gersik1",
+  "kataTurunan": [
+    "mengersik",
+    "bekersik",
+    "tekersik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "melekatkan kersik ke buluh; menampalkan kersik ke buluh"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ker.sik1 /kêrsik/bentuk tidak baku: gersik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasir kasar"
+        }
+      ]
+    },
+    {
+      "lema": "ker.sik2 /kêrsik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi seperti daun kering yang bersentuhan"
+        }
+      ]
+    }
+  ]
+}

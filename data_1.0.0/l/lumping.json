@@ -1,0 +1,33 @@
+{
+  "istilah": "lumping",
+  "entri": "lum.ping1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lum.ping1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kulit (sapi, kerbau, dan sebagainya) yang keras; belulang"
+        }
+      ]
+    },
+    {
+      "lema": "lum.ping2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "lumpang yang berbentuk bulat dan persegi"
+        }
+      ]
+    }
+  ]
+}

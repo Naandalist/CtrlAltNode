@@ -1,0 +1,33 @@
+{
+  "istilah": "solar",
+  "entri": "so.lar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.lar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan bakar minyak untuk mesin diesel, lebih kental daripada minyak tanah"
+        }
+      ]
+    },
+    {
+      "lema": "so.lar2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan matahari"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "takik",
+  "entri": "ta.kik bentuk tidak baku: takak2, tokek2",
+  "bentukTidakBaku": "takak2, tokek2",
+  "kataTurunan": [
+    "bertakik",
+    "bertakik-takik",
+    "menakik",
+    "penakik",
+    "takikan"
+  ],
+  "gabunganKata": [
+    "takik telinga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.kik bentuk tidak baku: takak2, tokek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "torehan yang agak dalam pada batang pohon untuk memudahkan pijakan orang memanjat; takuk kecil; gubang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "torehan pada kulit pohon (untuk mendapatkan getah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "potongan V kecil pada jahitan longgar agar lapisan pakaian tidak menggembung"
+        }
+      ]
+    }
+  ]
+}

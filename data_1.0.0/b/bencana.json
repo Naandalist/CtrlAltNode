@@ -1,0 +1,41 @@
+{
+  "istilah": "bencana",
+  "entri": "ben.ca.na /bêncana/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebencanaan",
+    "membencanai",
+    "membencanakan"
+  ],
+  "gabunganKata": [
+    "bencana alam",
+    "bencana alam klimatologis",
+    "bencana besar",
+    "bencana ekologis",
+    "bencana iklim",
+    "bencana nasional",
+    "bencana nonalam",
+    "bencana sosial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "penipuan, penggelapan; tipu, muslihat, licik, cerdik, akal, bohong, bujukan, godaan, percobaan dengan maksud penipuan; percobaan, bencana, malapetaka, kecelakaan, kesengsaraan, gangguan; menipu, memperdayakan, membohongi",
+    "kataAsal": "bañcana"
+  },
+  "data": [
+    {
+      "lema": "ben.ca.na /bêncana/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang menyebabkan (menimbulkan) kesusahan, kerugian, atau penderitaan; kecelakaan; bahaya: pemimpin yang tidak jujur akan menimbulkan -- bagi negara dan bangsa; dalam -- [1] dalam bahaya [2] dalam kecelakaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "gangguan; godaan: mereka mengadakan selamatan untuk menolak -- roh jahat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "istilah": "padam",
+  "entri": "pa.dam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepadaman",
+    "memadami",
+    "memadamkan",
+    "mempadamkan",
+    "pemadam",
+    "pemadaman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "api padam, puntung berasap; api padam, puntung hanyut; merah padam mukanya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "warna atau corak bunga teratai",
+    "kataAsal": "padma"
+  },
+  "data": [
+    {
+      "lema": "pa.dam1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mati (tentang api); tidak menyala atau tidak berkobar lagi: api kebakaran itu sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "reda (tentang kemarahan); tenang kembali (tentang hawa nafsu, berahi, dan sebagainya): seketika itu juga --lah murka baginda"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "aman kembali (tentang huru-hara, kerusuhan, dan sebagainya): pergolakan di negara itu belum juga --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menjadi lemah (tentang semangat): semangat juang mereka tidak pernah --"
+        }
+      ]
+    },
+    {
+      "lema": "pa.dam2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat merah1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "tahlil",
+  "entri": "tah.lil1",
+  "bentukTidakBaku": "tahalil",
+  "kataTurunan": [
+    "bertahlil",
+    "tahlilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengesahan perkawinan antara suami dan istri yang telah menjatuhkan talak tiga kali dengan perantaraan muhalil",
+    "kataAsal": "taḥlīl"
+  },
+  "data": [
+    {
+      "lema": "tah.lil1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pengucapan kalimat tauhid la ila ha illallah ‘tidak ada Tuhan selain Allah’ secara berulang-ulang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nyanyian pujian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "ritual keagamaan mendoakan orang meninggal, diawali pembacaan tawasul, pembacaan surah-surah Al-Qur'an terpilih seperti Yasin, diakhiri zikir sebelum ditutup dengan doa"
+        }
+      ]
+    },
+    {
+      "lema": "tah.lil2 bentuk tidak baku: tahalil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengesahan perkawinan antara suami dan istri yang telah menjatuhkan talak tiga kali dengan perantaraan muhalil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "hafal",
+  "entri": "ha.fal bentuk tidak baku: hapal",
+  "bentukTidakBaku": "hapal",
+  "kataTurunan": [
+    "hafalan",
+    "menghafal",
+    "menghafalkan",
+    "penghafal",
+    "penghafalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hafalan",
+    "kataAsal": "ḥifẓ"
+  },
+  "data": [
+    {
+      "lema": "ha.fal bentuk tidak baku: hapal",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "telah masuk dalam ingatan (tentang pelajaran): saya sudah mempelajari dan juga -- isinya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat mengucapkan di luar kepala (tanpa melihat buku atau catatan lain): banyak orang yang -- nomor telepon barisan pemadam kebakaran"
+        }
+      ]
+    }
+  ]
+}

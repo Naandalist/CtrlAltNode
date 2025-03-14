@@ -1,0 +1,33 @@
+{
+  "istilah": "ungkal",
+  "entri": "ung.kal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ung.kal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keras kepala; tidak mau mendengar nasihat"
+        }
+      ]
+    },
+    {
+      "lema": "ung.kal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "alat untuk mengasah, terbuat dari batu padas"
+        }
+      ]
+    }
+  ]
+}

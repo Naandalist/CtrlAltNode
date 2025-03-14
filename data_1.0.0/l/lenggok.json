@@ -1,0 +1,37 @@
+{
+  "istilah": "lenggok",
+  "entri": "leng.gok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlenggak-lenggok",
+    "berlenggok-lenggok",
+    "lenggak-lenggok",
+    "lenggok-lenggok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "leng.gok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerak meliuk ke kiri dan ke kanan (ketika berjalan, menari, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan leher dan kepala yang elok (seperti pada waktu menari)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "benda yang tetap berputar pada poros yang telah berubah arahnya dan berputar mengelilingi sumbunya semula, seperti sebagian gerakan gasing presesi"
+        }
+      ]
+    }
+  ]
+}

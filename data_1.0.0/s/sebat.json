@@ -1,0 +1,50 @@
+{
+  "istilah": "sebat",
+  "entri": "se.bat bentuk tidak baku: sebet",
+  "bentukTidakBaku": "sebet",
+  "kataTurunan": [
+    "kesebatan",
+    "menyebat",
+    "penyebatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menampar, memukul, menyerang",
+    "kataAsal": "sebět"
+  },
+  "data": [
+    {
+      "lema": "se.bat bentuk tidak baku: sebet",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "cepat; tangkas"
+        }
+      ]
+    },
+    {
+      "lema": "se.bat1 /sêbat/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pukul"
+        }
+      ]
+    },
+    {
+      "lema": "se.bat2 /sêbat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "susah bernapas seperti orang yang menderita penyakit asma"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "sesak napas karena hidung atau tenggorokan tersumbat"
+        }
+      ]
+    }
+  ]
+}

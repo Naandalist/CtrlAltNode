@@ -1,0 +1,44 @@
+{
+  "istilah": "kabar",
+  "entri": "ka.bar bentuk tidak baku: khabar",
+  "bentukTidakBaku": "khabar",
+  "kataTurunan": [
+    "berkabar",
+    "mengabari",
+    "mengabarkan",
+    "pengabar",
+    "pengabaran",
+    "perkabaran",
+    "terkabar"
+  ],
+  "gabunganKata": [
+    "kabar angin",
+    "kabar baik",
+    "kabar buruk",
+    "kabar burung",
+    "kabar dengkul",
+    "kabar duka",
+    "kabar gembira",
+    "kabar sedih",
+    "kabar selentingan"
+  ],
+  "peribahasa": [
+    "indah kabar dari rupa; indah kabar dari rupa; indah kabar dari rupa"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "berita",
+    "kataAsal": "khabar"
+  },
+  "data": [
+    {
+      "lema": "ka.bar bentuk tidak baku: khabar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laporan tentang peristiwa yang biasanya belum lama terjadi; berita; warta: dia mendapat -- bahwa saudaranya naik haji"
+        }
+      ]
+    }
+  ]
+}

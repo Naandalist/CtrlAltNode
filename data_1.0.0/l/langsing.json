@@ -1,0 +1,42 @@
+{
+  "istilah": "langsing",
+  "entri": "lang.sing1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelangsingan",
+    "melangsingkan",
+    "pelangsing",
+    "pelangsingan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.sing1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lampai; ramping: badannya --"
+        }
+      ]
+    },
+    {
+      "lema": "lang.sing2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi mendenging (mendengung)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nyaring; langsi"
+        }
+      ]
+    }
+  ]
+}

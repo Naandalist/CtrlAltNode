@@ -1,0 +1,37 @@
+{
+  "istilah": "tal",
+  "entri": "tal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pohon palem",
+    "kataAsal": "tāla"
+  },
+  "data": [
+    {
+      "lema": "tal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan palem, daunnya disebut rontal (kemudian menjadi lontar), digunakan untuk kertas tulis (zaman dulu dan sekarang masih digunakan di Bali); batang lontar〔Borassus fiabellifer〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun tal"
+        }
+      ]
+    },
+    {
+      "lema": "tal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "tiang dayung yang terdapat pada sisi kiri dan sisi kanan buritan sampan tempat menyangkutkan gandar dayung pada kilas"
+        }
+      ]
+    }
+  ]
+}

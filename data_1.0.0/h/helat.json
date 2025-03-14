@@ -1,0 +1,65 @@
+{
+  "istilah": "helat",
+  "entri": "he.lat bentuk tidak baku: elat, helah",
+  "bentukTidakBaku": "elat, helah",
+  "kataTurunan": [
+    "berhelat",
+    "menghelat",
+    "menghelat",
+    "perhelatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "mencencang lauk tengah helat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "barang apa yang ada di antaranya, yang memisahkan sesuatu dari yang lain, sekat",
+    "kataAsal": "hělat"
+  },
+  "data": [
+    {
+      "lema": "he.lat bentuk tidak baku: elat, helah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tipu muslihat; tipu daya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dalih; alasan"
+        }
+      ]
+    },
+    {
+      "lema": "he.lat1 /hêlat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "asing; lain; bukan keluarga: di kota-kota besar banyak orang --; baik sanak keluarga maupun orang -- banyak yang hadir pada resepsi pernikahannya"
+        }
+      ]
+    },
+    {
+      "lema": "he.lat2 /hêlat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang datang menghadiri suatu pesta perkawinan dan sebagainya; tamu: pesta seperti biasanya disertai dengan menyembelih sapi dan memberi makan seluruh --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pesta perkawinan dan sebagainya: banyak tamu yang datang untuk meramaikan -- putri tunggalnya itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhelatan"
+        }
+      ]
+    }
+  ]
+}

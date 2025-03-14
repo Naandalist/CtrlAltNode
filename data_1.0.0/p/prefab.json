@@ -1,0 +1,33 @@
+{
+  "istilah": "prefab",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -] kp[kependekan]",
+          "deskripsi": "dibuat di pabrik sedemikian rupa sehingga untuk membangunnya tinggal memasang bagian-bagiannya; dari prefabricated"
+        }
+      ]
+    },
+    {
+      "lema": "prefab",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -] [kependekan]",
+          "deskripsi": "dibuat di pabrik sedemikian rupa sehingga untuk membangunnya tinggal memasang bagian-bagiannya; dari prefabricated"
+        }
+      ]
+    }
+  ]
+}

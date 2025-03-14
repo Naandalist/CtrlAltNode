@@ -1,0 +1,37 @@
+{
+  "istilah": "sak",
+  "entri": "sak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saku; kantong (baju dan sebagainya): -- baju itu ada dua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karung (dari kertas untuk semen dan sebagainya): ayah membeli dua -- semen"
+        }
+      ]
+    },
+    {
+      "lema": "sak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ syak"
+        }
+      ]
+    }
+  ]
+}

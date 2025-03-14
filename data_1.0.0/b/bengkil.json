@@ -1,0 +1,35 @@
+{
+  "istilah": "bengkil",
+  "entri": "beng.kil1 /bêngkil/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terbengkil-bengkil"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "beng.kil1 /bêngkil/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bengkak"
+        }
+      ]
+    },
+    {
+      "lema": "beng.kil2 /bêngkil/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terbengkil-bengkil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "istilah": "jam",
+  "entri": "jam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjam-jam",
+    "sejam"
+  ],
+  "gabunganKata": [
+    "jam ayun",
+    "jam bencet",
+    "jam berkunjung",
+    "jam bicara",
+    "jam biologis",
+    "jam bursa",
+    "jam D",
+    "jam digital",
+    "jam dinding",
+    "jam gembira",
+    "jam karet",
+    "jam karier",
+    "jam kerja",
+    "jam komandan",
+    "jam malam",
+    "jam matahari",
+    "jam menunggu",
+    "jam nol",
+    "jam pasir",
+    "jam pelajaran",
+    "jam perbaikan",
+    "jam pertandingan",
+    "jam praktik",
+    "jam saku",
+    "jam sibuk",
+    "jam sinoptik",
+    "jam tangan",
+    "jam tangan pintar",
+    "jam tembok",
+    "jam terakhir",
+    "jam terbang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "seperempat",
+    "kataAsal": "zām"
+  },
+  "data": [
+    {
+      "lema": "jam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur waktu (seperti arloji, lonceng dinding)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu yang lamanya 1/24 hari (dari sehari semalam) sama dengan 60 menit atau 3.600 detik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pukul2: ia bangun -- lima pagi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "waktu; saat: -- berangkat kereta api senja ke Yogyakarta ialah pukul enam sore"
+        }
+      ]
+    },
+    {
+      "lema": "JAM",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "jaringan area metropolitan"
+        }
+      ]
+    }
+  ]
+}

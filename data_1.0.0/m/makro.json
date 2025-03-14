@@ -1,0 +1,37 @@
+{
+  "istilah": "makro",
+  "entri": "mak.ro1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mak.ro1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "besar; tebal: kajian --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan jumlah yang banyak atau ukuran yang besar"
+        }
+      ]
+    },
+    {
+      "lema": "mak.ro3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "instruksi program yang mengawali rangkaian operasi tambahan pada komputer"
+        }
+      ]
+    }
+  ]
+}

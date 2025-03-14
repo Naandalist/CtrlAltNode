@@ -1,0 +1,47 @@
+{
+  "istilah": "tirai",
+  "entri": "ti.rai bentuk tidak baku: mirai",
+  "bentukTidakBaku": "mirai",
+  "kataTurunan": [
+    "bertirai",
+    "tirai-mirai"
+  ],
+  "gabunganKata": [
+    "tirai alun",
+    "tirai atap",
+    "tirai austria",
+    "tirai belakang",
+    "tirai besi",
+    "tirai gulung atas",
+    "tirai kelambu",
+    "tirai matahari",
+    "tirai panggung",
+    "tirai pembatas",
+    "tirai roman"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.rai bentuk tidak baku: mirai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain (sutra dan sebagainya) berumbai-umbai yang dipakai untuk perhiasan langit-langit tempat tidur atau tempat duduk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain penutup pintu (jendela dan sebagainya); gorden"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain pemisah ruangan (yang tergantung)"
+        }
+      ]
+    }
+  ]
+}

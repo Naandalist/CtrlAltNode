@@ -1,0 +1,49 @@
+{
+  "istilah": "kakas",
+  "entri": "kakas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengakas",
+    "mengakas"
+  ],
+  "gabunganKata": [
+    "kakas ayam",
+    "kakas emparan",
+    "kakas memusat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kakas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuku; cakar"
+        }
+      ]
+    },
+    {
+      "lema": "ka.kas2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "paksa"
+        }
+      ]
+    },
+    {
+      "lema": "ka.kas3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "gaya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "sali",
+  "entri": "sa.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.li1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "teguh; kuat: untuk menjalankan tugas yang berat itu, diperlukan hati yang --; kekuatan kedua ayam aduan itu sama --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dn[Dani: Bahasa di Papua]",
+          "deskripsi": "rumbai atau rok yang digunakan perempuan suku Dani"
+        }
+      ]
+    }
+  ]
+}

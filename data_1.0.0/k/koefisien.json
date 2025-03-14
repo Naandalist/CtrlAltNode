@@ -1,0 +1,60 @@
+{
+  "istilah": "koefisien",
+  "entri": "ko.e.fi.si.en",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkoefisien"
+  ],
+  "gabunganKata": [
+    "koefisien akar",
+    "koefisien akselerasi",
+    "koefisien aktivitas",
+    "koefisien arah",
+    "koefisien beban",
+    "koefisien dasar bangunan",
+    "koefisien ekstraksi",
+    "koefisien fenol",
+    "koefisien friksi",
+    "koefisien hambur",
+    "koefisien hamburan",
+    "koefisien hidroskopis",
+    "koefisien kancah",
+    "koefisien keaktifan",
+    "koefisien kebocoran",
+    "koefisien kelembapan",
+    "koefisien ketermampatan",
+    "koefisien kinetik",
+    "koefisien layu",
+    "koefisien luas bangunan",
+    "koefisien mutasi",
+    "koefisien osmotik",
+    "koefisien partisi",
+    "koefisien pelemahan",
+    "koefisien pemindahan bahang",
+    "koefisien pemisahan",
+    "koefisien respirasi",
+    "koefisien restitusi",
+    "koefisien serap",
+    "koefisien transfer",
+    "koefisien transmisi",
+    "koefisien tukar",
+    "koefisien variabilitas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.e.fi.si.en",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bagian suku yang berupa bilangan atau konstan, biasanya dituliskan sebelum lambang peubah, seperti angka 2 dalam 2x atau dalam 2 (x + y)"
+        }
+      ]
+    }
+  ]
+}

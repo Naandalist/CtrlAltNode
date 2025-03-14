@@ -1,0 +1,33 @@
+{
+  "istilah": "pudak",
+  "entri": "pu.dak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.dak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kembang pandan"
+        }
+      ]
+    },
+    {
+      "lema": "pu.dak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penganan khas Gresik, Jawa Timur, terbuat dari tepung dan gula yang dibungkus pelepah jambe atau siwalan"
+        }
+      ]
+    }
+  ]
+}

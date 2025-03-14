@@ -1,0 +1,87 @@
+{
+  "istilah": "gelang",
+  "entri": "ge.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tergelang-gelang",
+    "bergelang-gelang",
+    "gelang-gelang",
+    "pergelangan"
+  ],
+  "gabunganKata": [
+    "gelang laut",
+    "gelang bajang",
+    "gelang berpelat",
+    "gelang kana",
+    "gelang keroncong",
+    "gelang kunci",
+    "gelang pilin",
+    "gelang pintu",
+    "gelang pipa",
+    "gelang puyuh",
+    "gelang rantai",
+    "gelang tridatu",
+    "gelang untir",
+    "gelang kawung",
+    "gelang payung",
+    "gelang roai"
+  ],
+  "peribahasa": [
+    "kaki untut dipakaikan gelang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan menjalar, batangnya berair, daunnya kecil berwarna hijau kecokelatan, biasa dimakan sebagai lalap; kerokot〔Portulaca oleracea〕"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "tergelang-gelang"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lang1 /gêlang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang berbentuk lingkaran atau cincin besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhiasan (dari emas, perak, dan sebagainya) berbentuk lingkaran yang dipakai di lengan atau di kaki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "sisa cadar dalam yang melingkari tangkai cendawan tertentu, tudungnya mekar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "benda yang dipakai untuk menentukan sah atau tidaknya suatu stik pemain (tentang hoki)"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lang2 /gêlang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut (banyak macamnya)"
+        }
+      ]
+    }
+  ]
+}

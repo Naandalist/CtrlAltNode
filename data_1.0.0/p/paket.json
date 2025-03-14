@@ -1,0 +1,66 @@
+{
+  "istilah": "paket",
+  "entri": "pa.ket1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memaket",
+    "memaketkan",
+    "mempaket",
+    "mempaketkan",
+    "paketan",
+    "terpaket"
+  ],
+  "gabunganKata": [
+    "paket laut",
+    "paket murah",
+    "paket naskah",
+    "paket penjualan",
+    "paket perangsang ekonomi",
+    "paket pos",
+    "paket soal",
+    "paket tes",
+    "paket udara",
+    "paket wisata",
+    "paket aplikasi",
+    "paket grafik",
+    "paket perangkat lunak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ket1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang dikirimkan dalam bungkusan melalui pos atau perusahaan ekspedisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sejumlah barang (buku dan sebagainya) yang dibungkus menjadi satu yang dikirimkan atau dijual secara keseluruhan sebagai satu satuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jatah atau bagian tugas: -- Indonesia dalam pameran itu memperkenalkan alat-alat musik tradisional"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan acara (dalam televisi dan sebagainya): semuanya dikemas dalam satu -- yang akan ditayangkan pada hari Lebaran"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ket2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "unit data yang berjalan di antara satu sumber dan satu destinasi pada jaringan internet"
+        }
+      ]
+    }
+  ]
+}

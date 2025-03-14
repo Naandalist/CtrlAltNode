@@ -1,0 +1,35 @@
+{
+  "istilah": "lokal",
+  "entri": "lo.kal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melokalkan",
+    "pelokalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.kal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang yang luas: sekolah itu terdiri atas tujuh --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terjadi (berlaku, ada, dan sebagainya) di satu tempat, tidak merata; setempat: Jawatan Meteorologi dan Geofisika meramalkan bahwa besok akan turun hujan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "di suatu tempat (tentang pembuatan, produksi, tumbuh, hidup, dan sebagainya); setempat: kualitas tekstil produksi -- sudah tidak kalah dengan produksi luar negeri"
+        }
+      ]
+    }
+  ]
+}

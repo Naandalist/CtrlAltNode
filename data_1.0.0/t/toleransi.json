@@ -1,0 +1,38 @@
+{
+  "istilah": "toleransi",
+  "entri": "to.le.ran.si /tolêransi/bentuk tidak baku: tolerir",
+  "bentukTidakBaku": "tolerir",
+  "kataTurunan": [
+    "bertoleransi",
+    "menoleransi",
+    "mentoleransi"
+  ],
+  "gabunganKata": [
+    "toleransi glukosa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.le.ran.si /tolêransi/bentuk tidak baku: tolerir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat atau sikap toleran: dua kelompok yang berbeda kebudayaan itu saling berhubungan dengan penuh --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batas ukur untuk penambahan atau pengurangan yang masih diperbolehkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyimpangan yang masih dapat diterima dalam pengukuran kerja"
+        }
+      ]
+    }
+  ]
+}

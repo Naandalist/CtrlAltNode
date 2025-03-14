@@ -1,0 +1,32 @@
+{
+  "istilah": "pancawarna",
+  "entri": "pan.ca.war.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "spesies, karakter, bentuk, corak, rona, figur, macam",
+    "kataAsal": "varṇa"
+  },
+  "data": [
+    {
+      "lema": "pan.ca.war.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lima warna"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bermacam-macam warna; berwarna-warni"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung kicau kecil yang bulunya memiliki lima kombinasi warna〔Leiothrix argentauris〕"
+        }
+      ]
+    }
+  ]
+}

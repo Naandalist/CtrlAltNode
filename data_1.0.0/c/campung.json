@@ -1,0 +1,36 @@
+{
+  "istilah": "campung",
+  "entri": "cam.pung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencampung",
+    "tercampung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cam.pung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "(ter)penggal atau putus (tentang puncak atau ujung sesuatu)"
+        }
+      ]
+    },
+    {
+      "lema": "cam.pung2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "jatuh ke dalam air"
+        }
+      ]
+    }
+  ]
+}

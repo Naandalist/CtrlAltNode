@@ -1,0 +1,37 @@
+{
+  "istilah": "melilin",
+  "entri": "lilin » me.li.lin bentuk tidak baku: merlilin1",
+  "bentukTidakBaku": "merlilin1merlilin1",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lilin » me.li.lin bentuk tidak baku: merlilin1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggosok dengan lilin"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerupai lilin"
+        }
+      ]
+    },
+    {
+      "lema": "me.li.lin /mêlilin/bentuk tidak baku: merlilin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan, kayunya berwarna putih, hanya dipakai sebagai kayu bakar〔Vernonia arborea〕"
+        }
+      ]
+    }
+  ]
+}

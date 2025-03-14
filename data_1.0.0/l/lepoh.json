@@ -1,0 +1,36 @@
+{
+  "istilah": "lepoh",
+  "entri": "le.poh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melepoh",
+    "terlepoh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.poh1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "melepoh"
+        }
+      ]
+    },
+    {
+      "lema": "le.poh2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terlepoh"
+        }
+      ]
+    }
+  ]
+}

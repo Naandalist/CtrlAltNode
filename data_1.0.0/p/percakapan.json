@@ -1,0 +1,32 @@
+{
+  "istilah": "percakapan",
+  "entri": "cakap2 » per.ca.kap.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cakap2 » per.ca.kap.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembicaraan; perbincangan; perundingan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal bercakap-cakap (dipertentangkan dengan apa yang ditulis)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan interaksi bahasa antara dua pembicara atau lebih"
+        }
+      ]
+    }
+  ]
+}

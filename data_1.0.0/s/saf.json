@@ -1,0 +1,30 @@
+{
+  "istilah": "saf",
+  "entri": "saf bentuk tidak baku: sap2",
+  "bentukTidakBaku": "sap2",
+  "kataTurunan": [
+    "bersaf-saf"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "barisan",
+    "kataAsal": "ṣaff"
+  },
+  "data": [
+    {
+      "lema": "saf bentuk tidak baku: sap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "deret"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "surah ke-61 dalam Al-Qur'an (diawali dengan as-)"
+        }
+      ]
+    }
+  ]
+}

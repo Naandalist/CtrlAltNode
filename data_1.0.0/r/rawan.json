@@ -1,0 +1,69 @@
+{
+  "istilah": "rawan",
+  "entri": "ra.wan1",
+  "bentukTidakBaku": "rewanserawan",
+  "kataTurunan": [
+    "berawan",
+    "kerawanan",
+    "merawan",
+    "merawankan",
+    "serawan"
+  ],
+  "gabunganKata": [
+    "rawan bencana",
+    "rawan hati",
+    "rawan konflik",
+    "rawan pangan",
+    "rawan aritenoid"
+  ],
+  "peribahasa": [
+    "gigi tanggal, rawan murah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.wan1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rindu bercampur sedih; pilu; terharu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah menimbulkan gangguan keamanan atau bahaya; gawat"
+        }
+      ]
+    },
+    {
+      "lema": "ra.wan2 bentuk tidak baku: rewan",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "muda, lembut (tentang tulang): tulang --"
+        }
+      ]
+    },
+    {
+      "lema": "ra.wan3 bentuk tidak baku: serawan",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "serawan"
+        }
+      ]
+    },
+    {
+      "lema": "ra.wan4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kendaraan: takhta -- tandu"
+        }
+      ]
+    }
+  ]
+}

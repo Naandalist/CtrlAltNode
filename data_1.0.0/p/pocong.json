@@ -1,0 +1,42 @@
+{
+  "istilah": "pocong",
+  "entri": "po.cong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memocong",
+    "sepocong",
+    "memocong",
+    "pemocongan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.cong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "berkas (padi) yang diikat menjadi satu"
+        }
+      ]
+    },
+    {
+      "lema": "po.cong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mayat yang dibalut kain kafan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hantu pocong"
+        }
+      ]
+    }
+  ]
+}

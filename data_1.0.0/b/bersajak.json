@@ -1,0 +1,36 @@
+{
+  "istilah": "bersajak",
+  "entri": "sajak » ber.sa.jak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sajak » ber.sa.jak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai persamaan bunyi: kata “hati” ~ dengan kata “sakti”; banyak peribahasa yang ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbentuk puisi: cerita yang dibacakannya itu ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membacakan lirik; membacakan puisi: ia pandai ~ di atas panggung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengarang puisi: saya ~ pada waktu lengang, di saat hati tenang"
+        }
+      ]
+    }
+  ]
+}

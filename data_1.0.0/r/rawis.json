@@ -1,0 +1,37 @@
+{
+  "istilah": "rawis",
+  "entri": "ra.wis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.wis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Us[Using: -]",
+          "deskripsi": "kain warna-warni yang dipasang sebagai hiasan di kiri kanan pinggul penari Gandrung Banyuwangi, biasanya terdiri atas empat lembar kain berwarna merah, putih, hijau, dan kuning"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumbai-rumbai kecil pada sisi-sisi kain: kerudung --"
+        }
+      ]
+    },
+    {
+      "lema": "ra.wis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bulu kecil memanjang berwarna metalik yang hanya tumbuh pada leher, punggung, dan ekor ayam jantan"
+        }
+      ]
+    }
+  ]
+}

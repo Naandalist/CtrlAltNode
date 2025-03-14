@@ -1,0 +1,30 @@
+{
+  "istilah": "gohong",
+  "entri": "go.hong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gerohong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "go.hong",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "liang; lubang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gua"
+        }
+      ]
+    }
+  ]
+}

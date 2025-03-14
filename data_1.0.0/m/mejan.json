@@ -1,0 +1,42 @@
+{
+  "istilah": "mejan",
+  "entri": "me.jan",
+  "bentukTidakBaku": "mejen",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.jan",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ nisan"
+        }
+      ]
+    },
+    {
+      "lema": "me.jan1 /mêjan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit berak berdarah dan bercampur lendir; disentri"
+        }
+      ]
+    },
+    {
+      "lema": "me.jan2 /mêjan/bentuk tidak baku: mejen",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat meletus atau meledak (tentang senjata, petasan, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "ipb",
+  "entri": "IPB1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "IPB1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Institut Pertanian Bogor"
+        }
+      ]
+    },
+    {
+      "lema": "IPB2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "izin penggunaan bangunan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "galat logika",
+  "entri": "galat1 » galat logika",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "galat1 » galat logika",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "kesalahan dalam logika program yang menyebabkan hasil yang salah, tetapi tidak menghentikan jalannya program"
+        }
+      ]
+    }
+  ]
+}

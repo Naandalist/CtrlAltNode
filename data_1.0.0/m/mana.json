@@ -1,0 +1,74 @@
+{
+  "istilah": "mana",
+  "entri": "ma.na1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mana-mana"
+  ],
+  "gabunganKata": [
+    "mana bisa",
+    "mana boleh",
+    "mana dapat",
+    "mana kala",
+    "mana lagi",
+    "mana pula",
+    "mana tahu"
+  ],
+  "peribahasa": [
+    "bumi mana yang tak kena hujan; di mana bumi dipijak, di sana langit dijunjung; di mana bumi dipijak, di situ langit dijunjung; di mana kayu bengkok, di sanalah musang meniti; di mana pinggan pecah, di sana tembikar tinggal; di mana ranting dipatah, di situ air disauk; di mana tanah dipijak, di situ langit dijunjung; di mana tembilang terentak, di situlah cendawan tumbuh; hitam mata itu mana boleh bercerai dengan putihnya; jika tidak pecah ruyung, di mana boleh mendapat sagu; ke mana angin yang deras, ke situ condongnya; ke mana condong, ke mana rebah; ke mana dialih, lesung berdedak juga; ke mana kelok lilin, ke sana kelok loyang; ke mana tumpah hujan dari bubungan, kalau tidak ke cucuran atap; laut mana yang tak berombak, bumi mana yang tak ditimpa hujan; mana busuk yang tidak berbau"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.na1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk menanyakan salah seorang atau salah satu benda atau hal dari suatu kelompok (kumpulan): rumah -- yang kosong?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk menanyakan tempat (di belakang di, dari, ke): di -- buku saya?; engkau dari --?; orang -- orang berasal dari mana"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata untuk menanyakan keadaan atau cara sesuatu: macam -- [1] seperti apa keadaannya (caranya) [2] bagaimana keadaannya"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata ganti untuk menyatakan tempat yang tidak tentu: di -- ada asap, di situ ada api; di -- mungkin (perlu) kalau mungkin (perlu)"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tambahan (lagi); pula: ruangan itu kecil, -- penuh orang, -- panas"
+        }
+      ]
+    },
+    {
+      "lema": "ma.na2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tenaga hidup yang tidak berpribadi dan ada pada manusia, binatang, tumbuhan, dan segala macam benda, biasanya untuk jimat atau fetis, serta membawa keberuntungan bagi pemiliknya, tetapi akan menimbulkan kerugian bagi orang yang tidak menghiraukannya (menurut pandangan orang Melanesia)"
+        }
+      ]
+    },
+    {
+      "lema": "ma.na3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keuntungan atau manfaat yang datang tiba-tiba"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan yang diterima orang Israel dalam perjalanan mereka di padang gurun (dalam Kitab Perjanjian Lama)"
+        }
+      ]
+    }
+  ]
+}

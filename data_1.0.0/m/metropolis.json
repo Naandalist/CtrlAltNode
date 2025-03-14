@@ -1,0 +1,28 @@
+{
+  "istilah": "metropolis",
+  "entri": "met.ro.po.lis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "met.ro.po.lis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota yang menjadi pusat kegiatan tertentu, baik pemerintahan maupun industri dan perdagangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "metropolitan"
+        }
+      ]
+    }
+  ]
+}

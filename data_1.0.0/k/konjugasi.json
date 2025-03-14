@@ -1,0 +1,34 @@
+{
+  "istilah": "konjugasi",
+  "entri": "kon.ju.ga.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terkonjugasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.ju.ga.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "sistem perubahan bentuk verba yang berhubungan dengan jumlah, jenis kelamin, modus, dan waktu (terdapat pada bahasa fleksi); tasrif"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pemaduan gamet yang serupa, yang kemudian menggabungkan intinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "pembentukan molekul tertentu pada protein rumit"
+        }
+      ]
+    }
+  ]
+}

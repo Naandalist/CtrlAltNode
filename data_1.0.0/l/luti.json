@@ -1,0 +1,37 @@
+{
+  "istilah": "luti",
+  "entri": "lu.ti1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meluti"
+  ],
+  "gabunganKata": [
+    "luti lenyai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.ti1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hampir lusuh (tentang pakaian dan sebagainya); kumal"
+        }
+      ]
+    },
+    {
+      "lema": "lu.ti2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(penyakit) cacar: anak itu kena --, jangan dulu bersekolah sebelum sembuh; bekas -- itu tidak dapat hilang dari mukanya"
+        }
+      ]
+    }
+  ]
+}

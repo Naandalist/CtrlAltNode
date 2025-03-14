@@ -1,0 +1,63 @@
+{
+  "istilah": "mulut",
+  "entri": "mu.lut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermulut",
+    "bermulut-mulut",
+    "mulut-mulutan"
+  ],
+  "gabunganKata": [
+    "mulut bawel",
+    "mulut berbisa",
+    "mulut bergetah",
+    "mulut bocor",
+    "mulut buaya",
+    "mulut busuk",
+    "mulut daun",
+    "mulut gapil",
+    "mulut gatal",
+    "mulut gawang",
+    "mulut gunung",
+    "mulut harimau",
+    "mulut kapuk",
+    "mulut kotor",
+    "mulut kulit",
+    "mulut kunci",
+    "mulut manis",
+    "mulut rambang",
+    "mulut sungai",
+    "mulut usil"
+  ],
+  "peribahasa": [
+    "bermulut di mulut orang; gula di mulut, ikan dalam belanga; kaki tertarung, inai padahannya (mulut terdorong, emas padahannya); karena mulut, bisa binasa; lain di mulut, lain di hati; lepas dari mulut harimau, jatuh ke mulut buaya; mulut bagai ekor ayam diembus; mulut bajan boleh ditutup, mulut manusia tidak; mulut bau madu, pantat bawa sengat; mulut disuapi pisang, pantat dikait dengan onak (mulut manis hati berkait); mulut kamu, harimau kamu; mulut kapuk dapat ditutup, mulut orang tidak; mulut manis jangan percaya, lepas dari tangan jangan diharap; mulut manis mematahkan tulang; mulut satu, lidah bertopang; mulut telanjur (terdorong), emas tantangannya (padahannya); mulut terdorong, emas padahannya; murah di mulut, mahal di timbangan; murah di mulut, mahal di timbangan; seperti gula dalam mulut; seperti lebah, mulut membawa madu, pantat membawa sengat; tebu masuk di mulut gajah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mu.lut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rongga di muka, tempat gigi dan lidah, untuk memasukkan makanan (pada manusia atau binatang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "lubang, liang, atau apa saja yang rupanya sebagai mulut; bagian dari barang tempat masuknya sesuatu: -- bedil (senapan, meriam); -- gang; -- sumur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "cakap; perkataan: jangan percaya kepada -- orang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -] ki[kiasan]",
+          "deskripsi": "lubang untuk meluahkan zat alir"
+        }
+      ]
+    }
+  ]
+}

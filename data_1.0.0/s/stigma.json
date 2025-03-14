@@ -1,0 +1,35 @@
+{
+  "istilah": "stigma",
+  "entri": "stig.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menstigmakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "stig.ma1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ciri negatif yang menempel pada pribadi seseorang karena pengaruh lingkungannya; tanda: anak itu menjadi betul-betul nakal karena diberi -- nakal oleh orang sekelilingnya"
+        }
+      ]
+    },
+    {
+      "lema": "stig.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "kepala putik"
+        }
+      ]
+    }
+  ]
+}

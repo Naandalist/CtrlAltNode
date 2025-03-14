@@ -1,0 +1,34 @@
+{
+  "istilah": "royalti",
+  "entri": "ro.yal.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beroyalti"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.yal.ti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang jasa yang dibayar oleh penerbit kepada pengarang untuk setiap buku yang diterbitkan: dengan --, kita dapat melengkapi sarana kerja kita sehari-hari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian produksi atau penghasilan yang dibayarkan kepada orang yang mempunyai hak memberi izin pengusahaan (eksplorasi) minyak dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang jasa yang dibayarkan oleh orang (perusahaan) atas barang yang diproduksinya kepada orang (perusahaan) yang mempunyai hak paten atas barang tersebut"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "gurah",
+  "entri": "gu.rah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergurah",
+    "menggurah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.rah1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kumur"
+        }
+      ]
+    },
+    {
+      "lema": "gu.rah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang sedang besarnya, kayunya yang berwarna putih, ringan tetapi awet, buahnya dapat digunakan untuk menuba ikan〔Sapium indicum〕"
+        }
+      ]
+    },
+    {
+      "lema": "gu.rah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengobatan tradisional untuk mengeluarkan lendir dari dalam tubuh dengan ramuan cairan srigunggu yang diteteskan melalui hidung"
+        }
+      ]
+    }
+  ]
+}

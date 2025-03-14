@@ -1,0 +1,28 @@
+{
+  "istilah": "rabi",
+  "entri": "ra.bi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Tuhanku",
+    "kataAsal": "rabbī"
+  },
+  "data": [
+    {
+      "lema": "ra.bi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "Tuhanku (digunakan dalam doa): ya Allah ya --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "pendeta agama Yahudi"
+        }
+      ]
+    }
+  ]
+}

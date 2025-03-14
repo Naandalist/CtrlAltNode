@@ -1,0 +1,35 @@
+{
+  "istilah": "lencong",
+  "entri": "len.cong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melencong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "len.cong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melencong"
+        }
+      ]
+    },
+    {
+      "lema": "len.cong /lêncong/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "licin; lencun"
+        }
+      ]
+    }
+  ]
+}

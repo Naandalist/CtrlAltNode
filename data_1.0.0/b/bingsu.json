@@ -1,0 +1,33 @@
+{
+  "istilah": "bingsu",
+  "entri": "bing.su1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bing.su1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Trj[Toraja: -]",
+          "deskripsi": "nama untuk pendeta di wilayah timur Toraja"
+        }
+      ]
+    },
+    {
+      "lema": "bing.su2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kor[Korea: ]",
+          "deskripsi": "minuman berupa es yang diserut menyerupai salju dan diberikan tambahan gula, kacang tanah, buah, dan berbagai pugasan lain"
+        }
+      ]
+    }
+  ]
+}

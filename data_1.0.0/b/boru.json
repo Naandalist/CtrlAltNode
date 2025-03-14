@@ -1,0 +1,33 @@
+{
+  "istilah": "boru",
+  "entri": "bo.ru1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.ru1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "golongan, pihak atau marga yang kawin dengan anak perempuan"
+        }
+      ]
+    },
+    {
+      "lema": "bo.ru2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "tali jaring"
+        }
+      ]
+    }
+  ]
+}

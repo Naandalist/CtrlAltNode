@@ -1,0 +1,37 @@
+{
+  "istilah": "kulum",
+  "entri": "ku.lum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengulum",
+    "mengulum-ngulum",
+    "kulum-kulum"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.lum1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengulum"
+        }
+      ]
+    },
+    {
+      "lema": "ku.lum2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kulum-kulum"
+        }
+      ]
+    }
+  ]
+}

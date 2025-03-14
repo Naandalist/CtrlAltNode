@@ -1,0 +1,32 @@
+{
+  "istilah": "membukukan",
+  "entri": "buku1 » mem.bu.ku.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buku1 » mem.bu.ku.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencatat dalam buku: kita harus ~ pembelian alat-alat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menerbitkan sebagai buku; menjadikan buku: mereka selalu ~ hasil penelitiannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "memperoleh, merebut, dan sebagainya (kemenangan): ia ~ kemenangan bagi daerahnya"
+        }
+      ]
+    }
+  ]
+}

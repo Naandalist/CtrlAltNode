@@ -1,0 +1,37 @@
+{
+  "istilah": "jaruman",
+  "entri": "jarum1 » ja.rum.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jarum1 » ja.rum.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jahitan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tipu muslihat halus"
+        }
+      ]
+    },
+    {
+      "lema": "ja.ru.man",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "muncikari"
+        }
+      ]
+    }
+  ]
+}

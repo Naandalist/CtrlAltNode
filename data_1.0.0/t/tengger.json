@@ -1,0 +1,41 @@
+{
+  "istilah": "tengger",
+  "entri": "teng.ger bentuk tidak baku: tengker, tinggir",
+  "bentukTidakBaku": "tengker, tinggir",
+  "kataTurunan": [
+    "bertengger",
+    "kebertenggeran",
+    "tenggeran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "teng.ger bentuk tidak baku: tengker, tinggir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tenggeran"
+        }
+      ]
+    },
+    {
+      "lema": "Teng.ger /tênggêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Tengger, Jawa Timur; di Provinsi Jawa Timur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Tengger"
+        }
+      ]
+    }
+  ]
+}

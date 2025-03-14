@@ -1,0 +1,37 @@
+{
+  "istilah": "masin",
+  "entri": "ma.sin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemasinan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "diam di laut masin tidak, diam di bandar tak meniru; garam kami tak masin padanya; masin lidahnya (perkataanya); masin mulutnya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.sin1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa seperti rasa garam; asin: tambahkan garam supaya terasa lebih --"
+        }
+      ]
+    },
+    {
+      "lema": "ma.sin2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ mesin"
+        }
+      ]
+    }
+  ]
+}

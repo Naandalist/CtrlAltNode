@@ -1,0 +1,45 @@
+{
+  "istilah": "senteng",
+  "entri": "sen.teng1 bentuk tidak baku: sinting1",
+  "bentukTidakBaku": "sinting1",
+  "kataTurunan": [
+    "kesentengan",
+    "menyentengi",
+    "menyentengkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.teng1 bentuk tidak baku: sinting1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pendek (tentang baju, kelambu, dan sebagainya); kurang panjang: kain yang --; celananya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "kurang (uang dan sebagainya); tidak mencukupi: -- di uang kurang uang; hidup -- hidup serba tidak cukup"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Mk[Minangkabau: -]",
+          "deskripsi": "sinting"
+        }
+      ]
+    },
+    {
+      "lema": "sen.teng2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "kain (selendang) penutup dada; kain dada; kemban: ia memakai -- berwarna jingga, kain kuning, dan untaian bunga di rambutnya"
+        }
+      ]
+    }
+  ]
+}

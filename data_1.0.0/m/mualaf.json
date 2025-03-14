@@ -1,0 +1,33 @@
+{
+  "istilah": "mualaf",
+  "entri": "mu.a.laf1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "karangan; orang yang ditenangkan hatinya untuk masuk Islam",
+    "kataAsal": "mu’allaf"
+  },
+  "data": [
+    {
+      "lema": "mu.a.laf1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang baru masuk Islam; orang yang imannya belum kukuh karena baru masuk Islam"
+        }
+      ]
+    },
+    {
+      "lema": "mu.a.laf2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penerbitan (buku)"
+        }
+      ]
+    }
+  ]
+}

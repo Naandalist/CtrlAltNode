@@ -1,0 +1,36 @@
+{
+  "istilah": "ilai",
+  "entri": "i.lai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengilai",
+    "mengilai-ilai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cara bergerak, cara bertingkah laku (bersikap dan lain-lain)",
+    "kataAsal": "ilay"
+  },
+  "data": [
+    {
+      "lema": "i.lai1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ringkik (tentang kuda)"
+        }
+      ]
+    },
+    {
+      "lema": "i.lai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "alat musik khas Banjar, dibuat dari bambu"
+        }
+      ]
+    }
+  ]
+}

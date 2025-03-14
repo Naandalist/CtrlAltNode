@@ -1,0 +1,35 @@
+{
+  "istilah": "kesek",
+  "entri": "ke.sek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengesek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.sek",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengesek"
+        }
+      ]
+    },
+    {
+      "lema": "ke.sek2 /kê.sêk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "kembang bacang"
+        }
+      ]
+    }
+  ]
+}

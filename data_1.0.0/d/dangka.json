@@ -1,0 +1,45 @@
+{
+  "istilah": "dangka",
+  "entri": "dang.ka1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdangka",
+    "terdangka-dangka"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cari:",
+    "kataAsal": "śaṅkā"
+  },
+  "data": [
+    {
+      "lema": "dang.ka1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "duga; kira; sangka"
+        }
+      ]
+    },
+    {
+      "lema": "dang.ka2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terdangka-dangka"
+        }
+      ]
+    },
+    {
+      "lema": "dang.ka3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku Badui yang sudah banyak meninggalkan adat istiadat dan sering melakukan pelanggaran adat"
+        }
+      ]
+    }
+  ]
+}

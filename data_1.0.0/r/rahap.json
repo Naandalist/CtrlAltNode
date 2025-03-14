@@ -1,0 +1,38 @@
+{
+  "istilah": "rahap",
+  "entri": "ra.hap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merahap",
+    "merahapkan",
+    "perahap",
+    "merahap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tutup, atap",
+    "kataAsal": "rahab"
+  },
+  "data": [
+    {
+      "lema": "ra.hap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(kain) penutup mayat"
+        }
+      ]
+    },
+    {
+      "lema": "ra.hap2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "turun (hinggap)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "satelit",
+  "entri": "sa.te.lit /satêlit/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "persatelitan"
+  ],
+  "gabunganKata": [
+    "satelit alami",
+    "satelit buatan",
+    "satelit bumi",
+    "satelit domestik",
+    "satelit kecil",
+    "satelit komunikasi",
+    "satelit komunikasi aktif",
+    "satelit mata-mata",
+    "satelit palapa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.te.lit /satêlit/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "planet yang mengedari planet lain yang lebih besar: bulan ialah -- bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pengikut: negara -- negara pengikut negara lain yang lebih besar atau yang lebih kuat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "alat yang diluncurkan mengedari planet: -- buatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "baru dan kecil (tentang kota): kota -- kota kecil yang sengaja dibangun di dekat kota besar"
+        }
+      ]
+    }
+  ]
+}

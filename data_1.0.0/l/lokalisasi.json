@@ -1,0 +1,38 @@
+{
+  "istilah": "lokalisasi",
+  "entri": "lo.ka.li.sa.si bentuk tidak baku: lokalisir",
+  "bentukTidakBaku": "lokalisir",
+  "kataTurunan": [
+    "melokalisasi",
+    "terlokalisasi",
+    "terlokalisasikan"
+  ],
+  "gabunganKata": [
+    "lokalisasi otak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.ka.li.sa.si bentuk tidak baku: lokalisir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembatasan pada suatu tempat atau lingkungan: -- wabah kolera"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "penempatan sumber-sumber stimulus tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tempat prostitusi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "istilah": "sisi",
+  "entri": "si.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersisi",
+    "bersisian",
+    "mengesisikan",
+    "menyisi",
+    "menyisikan"
+  ],
+  "gabunganKata": [
+    "ke sisi",
+    "sisi ambulakral",
+    "sisi udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sisi, tepi",
+    "kataAsal": "sisih"
+  },
+  "data": [
+    {
+      "lema": "si.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "samping (kanan atau kiri); sebelah: kantornya terletak di -- barat gedung besar itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepi; pinggir: anak itu sedang mengail di -- danau; ia tinggal di -- rumahku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rusuk: serangan dilancarkan dari -- kiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis lurus yang membatasi suatu bidang; segi: murid itu melukis segitiga sama --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pihak: ia berada di -- yang benar"
+        }
+      ]
+    }
+  ]
+}

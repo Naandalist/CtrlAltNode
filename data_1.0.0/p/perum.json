@@ -1,0 +1,43 @@
+{
+  "istilah": "perum",
+  "entri": "pe.rum1 /pêrum/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memerum"
+  ],
+  "gabunganKata": [
+    "perum gema",
+    "perum tangan",
+    "Perum Bulog",
+    "Perum Damri",
+    "Perum Perumnas",
+    "Perum Peruri",
+    "Perum PFN"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.rum1 /pêrum/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "batu penduga untuk mengetahui dalamnya laut dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "pe.rum2 /pêrum/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "perusahaan umum"
+        }
+      ]
+    }
+  ]
+}

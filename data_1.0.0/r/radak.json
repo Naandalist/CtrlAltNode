@@ -1,0 +1,38 @@
+{
+  "istilah": "radak",
+  "entri": "ra.dak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beradak",
+    "meradak",
+    "meradakkan",
+    "meradak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.dak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tohok (dari arah bawah, biasanya dengan tombak); tusuk"
+        }
+      ]
+    },
+    {
+      "lema": "ra.dak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "meradak"
+        }
+      ]
+    }
+  ]
+}

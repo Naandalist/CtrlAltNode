@@ -1,0 +1,28 @@
+{
+  "istilah": "takjil",
+  "entri": "tak.jil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyegeraan",
+    "kataAsal": "ta‘jīl"
+  },
+  "data": [
+    {
+      "lema": "tak.jil",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Isl[Agama Islam: -]",
+          "deskripsi": "mempercepat (dalam berbuka puasa)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan dan minuman untuk berbuka puasa"
+        }
+      ]
+    }
+  ]
+}

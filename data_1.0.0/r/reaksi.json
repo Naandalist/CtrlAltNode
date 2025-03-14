@@ -1,0 +1,49 @@
+{
+  "istilah": "reaksi",
+  "entri": "re.ak.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bereaksi",
+    "mereaksi",
+    "pereaksi"
+  ],
+  "gabunganKata": [
+    "reaksi adisi",
+    "reaksi eksergonik",
+    "reaksi endergonik",
+    "reaksi formasi",
+    "reaksi kimia",
+    "reaksi negatif pangan",
+    "reaksi normal",
+    "reaksi oksidasi-reduksi",
+    "reaksi orientasi",
+    "reaksi penonton",
+    "reaksi siaga",
+    "reaksi sirkular"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.ak.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kegiatan (aksi, protes) yang timbul akibat suatu gejala atau suatu peristiwa: putusan rektor telah menimbulkan -- mahasiswa yang berupa pemasangan tulisan yang mengecam putusan itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanggapan (respons) terhadap suatu aksi: dia tidak memberikan -- apa-apa ketika dimarahi ayahnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perubahan yang terjadi karena bekerjanya suatu unsur (obat)"
+        }
+      ]
+    }
+  ]
+}

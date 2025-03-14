@@ -1,0 +1,37 @@
+{
+  "istilah": "rangkup",
+  "entri": "rang.kup1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merangkup",
+    "merangkup",
+    "terangkup"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rang.kup1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rongga antara dua benda yang dikatupkan (seperti dua telapak tangan yang dikatupkan)"
+        }
+      ]
+    },
+    {
+      "lema": "rang.kup2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merangkup"
+        }
+      ]
+    }
+  ]
+}

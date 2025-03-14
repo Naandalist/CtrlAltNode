@@ -1,0 +1,36 @@
+{
+  "istilah": "kopyor",
+  "entri": "kop.yor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kop.yor",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lunak dan hancur (tentang bagian daging kelapa)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelapa yang dagingnya lunak dan hancur: es --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rusak karena bagian-bagiannya bercampur (tentang telur)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "bingung: kepalaku --"
+        }
+      ]
+    }
+  ]
+}

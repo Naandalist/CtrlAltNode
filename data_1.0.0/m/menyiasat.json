@@ -1,0 +1,45 @@
+{
+  "istilah": "menyiasat",
+  "entri": "siasat1 » me.nyi.a.sat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "siasat1 » me.nyi.a.sat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memeriksa; menyelidiki; mengusut: baik kita teruskan ~nya; ia ~ siapa yang salah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengupas (suatu masalah dan sebagainya): untuk mengerti isi sajak, tidak perlu orang ~ tiap-tiap susunan kata atau kalimat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengadakan muslihat (taktik)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menanyai (untuk mengetahui sesuatu): kalau aku susah, kamu juga tidak akan ~ keadaanku"
+        }
+      ]
+    },
+    {
+      "lema": "siasat2 » me.nyi.a.sat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyiksa; menganiaya; menghukum"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "pegon",
+  "entri": "pe.gon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.gon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "aksara Arab yang digunakan untuk menuliskan bahasa Jawa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tulisan Arab yang tidak diberi tanda-tanda bunyi (diakritik); tulisan Arab gundul"
+        }
+      ]
+    },
+    {
+      "lema": "pe.gon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "versi sampan kelelaan yang diberi kokop dan diperbesar menjadi perahu bercantek yang mampu mengangkut hingga 100 ton muatan"
+        }
+      ]
+    },
+    {
+      "lema": "pe.gon3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "godek nongkek"
+        }
+      ]
+    }
+  ]
+}

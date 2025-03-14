@@ -1,0 +1,33 @@
+{
+  "istilah": "cavatina",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -]",
+          "deskripsi": "nyanyian solo dalam opera yang lebih pendek daripada aria"
+        }
+      ]
+    },
+    {
+      "lema": "cavatina",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -]",
+          "deskripsi": "nyanyian solo dalam opera yang lebih pendek daripada aria"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "muhajirin",
+  "entri": "mu.ha.ji.rin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang pindah",
+    "kataAsal": "muhājirīn"
+  },
+  "data": [
+    {
+      "lema": "mu.ha.ji.rin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "para pengikut Nabi Muhammad saw. yang ikut hijrah dari Makkah ke Madinah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang-orang yang pindah; para pengungsi"
+        }
+      ]
+    }
+  ]
+}

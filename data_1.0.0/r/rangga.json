@@ -1,0 +1,39 @@
+{
+  "istilah": "rangga",
+  "entri": "rang.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berangga"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pejabat tinggi di istana (negara)",
+    "kataAsal": "raṅga"
+  },
+  "data": [
+    {
+      "lema": "rang.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanduk tajam dan bercabang-cabang (seperti tanduk rusa)"
+        }
+      ]
+    },
+    {
+      "lema": "rang.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kata sapaan kepada pegawai kerajaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pangkat pegawai kerajaan"
+        }
+      ]
+    }
+  ]
+}

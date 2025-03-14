@@ -1,0 +1,37 @@
+{
+  "istilah": "gembala",
+  "entri": "gem.ba.la /gêmbala/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggembala",
+    "menggembalakan",
+    "penggembala",
+    "penggembalaan"
+  ],
+  "gabunganKata": [
+    "gembala kerbau"
+  ],
+  "peribahasa": [
+    "gajah seekor, gembala dua"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pemelihara sapi; raja; pelindung bumi",
+    "kataAsal": "gopāla"
+  },
+  "data": [
+    {
+      "lema": "gem.ba.la /gêmbala/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjaga atau pemiara binatang (ternak); pengangon; tukang angon"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjaga keselamatan orang banyak: dia menjadi -- kaumnya"
+        }
+      ]
+    }
+  ]
+}

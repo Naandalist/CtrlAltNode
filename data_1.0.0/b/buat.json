@@ -1,0 +1,53 @@
+{
+  "istilah": "buat",
+  "entri": "bu.at1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbuat",
+    "buat-buatan",
+    "buatan",
+    "membuat",
+    "membuat-buat",
+    "membuatkan",
+    "memperbuat",
+    "pembuat",
+    "pembuatan",
+    "perbuatan",
+    "teperbuat",
+    "terbuat"
+  ],
+  "gabunganKata": [
+    "buat cendol",
+    "buat gawe"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.at1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kerjakan; lakukan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bikin"
+        }
+      ]
+    },
+    {
+      "lema": "bu.at2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bagi; untuk: kue ini -- saya"
+        }
+      ]
+    }
+  ]
+}

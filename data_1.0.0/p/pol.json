@@ -1,0 +1,46 @@
+{
+  "istilah": "pol",
+  "entri": "pol1 bentuk tidak baku: pul2",
+  "bentukTidakBaku": "pul2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pol1 bentuk tidak baku: pul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "penuh: bus jurusan Medan itu sudah --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "batas yang paling tinggi atau paling banyak (tentang masa kerja, gaji, dan sebagainya): akhir tahun ini gajinya sudah --"
+        }
+      ]
+    },
+    {
+      "lema": "pol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengumpulan pendapat umum melalui media massa: bisakah -- dijadikan tolok ukur gejala yang hidup dalam masyarakat?"
+        }
+      ]
+    },
+    {
+      "lema": "pol3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pul1"
+        }
+      ]
+    }
+  ]
+}

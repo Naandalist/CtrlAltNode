@@ -1,0 +1,38 @@
+{
+  "istilah": "lulur",
+  "entri": "lu.lur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melulur",
+    "berlulur",
+    "luluran",
+    "melulur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "nama jenis boreh atau burat, apabila digosokkan pada kulit, memperoleh warna kekuning-kuningan",
+    "kataAsal": "lulur"
+  },
+  "data": [
+    {
+      "lema": "lu.lur1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melulur"
+        }
+      ]
+    },
+    {
+      "lema": "lu.lur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bedak (kuning) dengan wangi-wangian untuk membersihkan badan dan menghaluskan kulit; lulut"
+        }
+      ]
+    }
+  ]
+}

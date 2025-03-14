@@ -1,0 +1,41 @@
+{
+  "istilah": "memakankan",
+  "entri": "makan1 » me.ma.kan.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "makan1 » me.ma.kan.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membiarkan supaya dimakan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberi sesuatu supaya dimakan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memakan untuk"
+        }
+      ]
+    },
+    {
+      "lema": "pakan1 » me.ma.kan.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasukkan benang pakan pada tenunan; memakai sebagai pakan pada tenunan: ia ~ benang sutra pada lungsin itu"
+        }
+      ]
+    }
+  ]
+}

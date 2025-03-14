@@ -1,0 +1,30 @@
+{
+  "istilah": "gaet",
+  "entri": "ga.et",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggaet"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.et",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kait; gait; penggait"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Olr[Olahraga: -]",
+          "deskripsi": "tindakan mengait (tentang hoki)"
+        }
+      ]
+    }
+  ]
+}

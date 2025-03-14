@@ -1,0 +1,56 @@
+{
+  "istilah": "berkas",
+  "entri": "ber.kas /bêrkas/bentuk tidak baku: barkas2",
+  "bentukTidakBaku": "barkas2",
+  "kataTurunan": [
+    "beberkas-berkas",
+    "berkasan",
+    "diberkas",
+    "memberkas",
+    "memberkaskan",
+    "pemberkas",
+    "pemberkasan",
+    "seberkas",
+    "teberkas"
+  ],
+  "gabunganKata": [
+    "berkas cahaya",
+    "berkas data",
+    "berkas isoglos",
+    "berkas komputer",
+    "berkas konkordansi",
+    "berkas tersendiri",
+    "berkas zip"
+  ],
+  "peribahasa": [
+    "tanduk di berkas"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ber.kas /bêrkas/bentuk tidak baku: barkas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan (gabungan) benda seperti lidi, batang padi, kayu api, diikat menjadi satu: lidi tiga --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bundel (surat-surat): -- surat laporan sudah disampaikan kepada kepala bagian tata usaha"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Adm[Administrasi dan Kepegawaian: -]",
+          "deskripsi": "lipatan kertas tebal persegi panjang untuk melindungi dan menyimpan surat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "kumpulan data yang dapat diberi nama berbeda dan disimpan pada tempat penyimpanan sekunder dalam komputer"
+        }
+      ]
+    }
+  ]
+}

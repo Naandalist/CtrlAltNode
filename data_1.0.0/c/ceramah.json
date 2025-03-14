@@ -1,0 +1,42 @@
+{
+  "istilah": "ceramah",
+  "entri": "ce.ra.mah1 /cêramah/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berceramah",
+    "menceramahi",
+    "menceramahkan",
+    "penceramah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.ra.mah1 /cêramah/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pidato oleh seseorang di hadapan banyak pendengar, mengenai suatu hal, pengetahuan, dan sebagainya; kuliah: kami baru saja mendengarkan -- mengenai lingkungan hidup"
+        }
+      ]
+    },
+    {
+      "lema": "ce.ra.mah2 /cêramah/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suka bercakap-cakap (tidak pendiam); ramah: hari ini bapak -- sekali kepadaku"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cerewet: nenek itu memang -- sekali"
+        }
+      ]
+    }
+  ]
+}

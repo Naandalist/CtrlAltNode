@@ -1,0 +1,24 @@
+{
+  "istilah": "sadap data",
+  "entri": "sadap » sadap data",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sadap » sadap data",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "perangkat keras yang dapat mengakses data yang melewati jaringan komputer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "rambah",
+  "entri": "ram.bah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merambah",
+    "merambahi",
+    "perambah",
+    "perambahan",
+    "rambahan",
+    "terambah",
+    "rambahan"
+  ],
+  "gabunganKata": [
+    "rambah hutan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "rambah"
+  },
+  "data": [
+    {
+      "lema": "ram.bah1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "babat; tebang; pangkas (tentang tumbuh-tumbuhan, pohon-pohonan)"
+        }
+      ]
+    },
+    {
+      "lema": "ram.bah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "rambahan"
+        }
+      ]
+    }
+  ]
+}

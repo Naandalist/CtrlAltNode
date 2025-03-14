@@ -1,0 +1,45 @@
+{
+  "istilah": "sebar",
+  "entri": "se.bar1 /sêbar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersebar",
+    "bersebaran",
+    "ketersebaran",
+    "menyebar",
+    "menyebarkan",
+    "penyebar",
+    "penyebaran",
+    "persebaran",
+    "sebaran",
+    "tersebar",
+    "tersebarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.bar1 /sêbar/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyebarkan"
+        }
+      ]
+    },
+    {
+      "lema": "se.bar2 /sêbar/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "berasa seperti kesemutan (pada tubuh, tangan, kaki)"
+        }
+      ]
+    }
+  ]
+}

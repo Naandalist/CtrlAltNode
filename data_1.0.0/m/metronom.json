@@ -1,0 +1,28 @@
+{
+  "istilah": "metronom",
+  "entri": "met.ro.nom",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "met.ro.nom",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat mekanis (seperti pada jam) untuk mengatur tempo dengan tepat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menentukan tempo komposisi musik melalui bunyi ketukan irama"
+        }
+      ]
+    }
+  ]
+}

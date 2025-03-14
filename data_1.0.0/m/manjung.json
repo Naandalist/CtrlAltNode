@@ -1,0 +1,46 @@
+{
+  "istilah": "manjung",
+  "entri": "man.jung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "manjungan",
+    "bepermanjungan",
+    "permanjungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.jung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suluh atau obor besar (untuk menangkap ikan)"
+        }
+      ]
+    },
+    {
+      "lema": "man.jung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "manjungan"
+        }
+      ]
+    },
+    {
+      "lema": "man.jung3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bepermanjungan; permanjungan"
+        }
+      ]
+    }
+  ]
+}

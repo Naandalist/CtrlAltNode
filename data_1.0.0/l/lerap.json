@@ -1,0 +1,33 @@
+{
+  "istilah": "lerap",
+  "entri": "le.rap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.rap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "nama mata uang (pada zaman dulu)"
+        }
+      ]
+    },
+    {
+      "lema": "le.rap /lêrap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tiruan bunyi derap"
+        }
+      ]
+    }
+  ]
+}

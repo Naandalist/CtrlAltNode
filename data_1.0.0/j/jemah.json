@@ -1,0 +1,28 @@
+{
+  "istilah": "jemah",
+  "entri": "je.mah /jêmah/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kelak, di masa depan",
+    "kataAsal": "jěmah"
+  },
+  "data": [
+    {
+      "lema": "je.mah /jêmah/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelak kemudian; di belakang hari"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "pernah: tidak --"
+        }
+      ]
+    }
+  ]
+}

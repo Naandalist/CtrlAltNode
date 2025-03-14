@@ -1,0 +1,33 @@
+{
+  "istilah": "sempak",
+  "entri": "sem.pak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sem.pak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sumbing atau rusak pada bagian tepinya (tentang pecah belah dan barang-barang lain, seperti mangkok, piring)"
+        }
+      ]
+    },
+    {
+      "lema": "sem.pak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "celana dalam"
+        }
+      ]
+    }
+  ]
+}

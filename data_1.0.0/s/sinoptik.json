@@ -1,0 +1,32 @@
+{
+  "istilah": "sinoptik",
+  "entri": "si.nop.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.nop.tik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ringkas; singkat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan sinopsis; menyajikan ringkasan dari bagian-bagian pokok atau pandangan umum dari keseluruhan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Met[Meteorologi: -]",
+          "deskripsi": "berkenaan dengan data area atmosfer yang luas yang diperoleh secara hampir bersamaan"
+        }
+      ]
+    }
+  ]
+}

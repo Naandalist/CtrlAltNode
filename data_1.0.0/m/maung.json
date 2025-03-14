@@ -1,0 +1,37 @@
+{
+  "istilah": "maung",
+  "entri": "ma.ung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "harimau",
+    "kataAsal": "moṅ"
+  },
+  "data": [
+    {
+      "lema": "ma.ung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bau yang busuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rasa atau bau yang memualkan"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "harimau"
+        }
+      ]
+    }
+  ]
+}

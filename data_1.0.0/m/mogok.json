@@ -1,0 +1,35 @@
+{
+  "istilah": "mogok",
+  "entri": "mo.gok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pemogok",
+    "pemogokan"
+  ],
+  "gabunganKata": [
+    "mogok duduk",
+    "mogok kerja",
+    "mogok makan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sia-sia, tak berguna, tak menguntungkan, tak berhasil",
+    "kataAsal": "mogha"
+  },
+  "data": [
+    {
+      "lema": "mo.gok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak dapat berjalan (bekerja) sebagaimana biasanya (tentang kendaraan): mobil yang -- di tengah jalan akan diderek"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak mau bekerja (berbuat) sebagaimana biasanya (tentang orang): pekerja pelabuhan serentak --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "persen",
+  "entri": "per.sen1 /pêrsen/",
+  "bentukTidakBaku": "prosen",
+  "kataTurunan": [
+    "memerseni",
+    "memersenkan",
+    "persenan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per.sen1 /pêrsen/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hadiah; pemberian; uang sirih; uang rokok"
+        }
+      ]
+    },
+    {
+      "lema": "per.sen2 /pêrsen/bentuk tidak baku: prosen",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seperseratus"
+        }
+      ]
+    }
+  ]
+}

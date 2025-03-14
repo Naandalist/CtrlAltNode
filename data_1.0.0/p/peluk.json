@@ -1,0 +1,50 @@
+{
+  "istilah": "peluk",
+  "entri": "pe.luk1 /pêluk/bentuk tidak baku: pelok1",
+  "bentukTidakBaku": "pelok1",
+  "kataTurunan": [
+    "berpeluk",
+    "berpeluk-pelukan",
+    "berpelukan",
+    "kepemelukan",
+    "memeluk",
+    "memeluki",
+    "pelukan",
+    "pemeluk",
+    "pemelukan",
+    "sepemeluk",
+    "sepemelukan",
+    "terpeluk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.luk1 /pêluk/bentuk tidak baku: pelok1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dekap (pada leher, tubuh, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "depa (untuk ukuran besar): batang kayu itu besarnya tiga --"
+        }
+      ]
+    },
+    {
+      "lema": "pe.luk2 /pêluk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "wadah yang terbuat dari bambu dan sebagainya, berbentuk bulat memanjang, digunakan untuk menampung belalang tangkapan"
+        }
+      ]
+    }
+  ]
+}

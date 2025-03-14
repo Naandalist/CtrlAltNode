@@ -1,0 +1,35 @@
+{
+  "istilah": "gaplek",
+  "entri": "gap.lek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "penggaplekan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gap.lek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ubi kayu (singkong) yang telah dikupas dan dikeringkan (dijemur)"
+        }
+      ]
+    },
+    {
+      "lema": "gap.lek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "truk angkutan barang"
+        }
+      ]
+    }
+  ]
+}

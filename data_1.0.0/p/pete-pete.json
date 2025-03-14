@@ -1,0 +1,33 @@
+{
+  "istilah": "pete-pete",
+  "entri": "pe.te-pe.te1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.te-pe.te1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kendaraan bermotor angkutan umum di dalam kota (Sulawesi Selatan)"
+        }
+      ]
+    },
+    {
+      "lema": "pe.te-pe.te2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengumpulkan dana dari sekelompok orang; patungan: besok ada acara bakar ayam, mau -- berapa?"
+        }
+      ]
+    }
+  ]
+}

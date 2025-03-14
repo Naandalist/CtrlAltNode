@@ -1,0 +1,36 @@
+{
+  "istilah": "isyarat",
+  "entri": "i.sya.rat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berisyarat",
+    "mengisyaratkan"
+  ],
+  "gabunganKata": [
+    "isyarat akustis",
+    "isyarat cermin",
+    "isyarat perhatian",
+    "isyarat sosial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "petunjuk",
+    "kataAsal": "isyārah"
+  },
+  "data": [
+    {
+      "lema": "i.sya.rat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segala sesuatu (gerakan tangan, anggukan kepala,dsb) yang dipakai sebagai tanda atau alamat: ia memberikan -- tanda setuju dengan kedipan matanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "tanda akhir dialog, biasanya berupa sebuah kata tertentu"
+        }
+      ]
+    }
+  ]
+}

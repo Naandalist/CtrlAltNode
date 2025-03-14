@@ -1,0 +1,45 @@
+{
+  "istilah": "tenda",
+  "entri": "ten.da",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tenda atap kerucut",
+    "tenda keluarga",
+    "tenda kereta",
+    "tenda kubah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ten.da",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemah: pramuka mendirikan -- di lembah hijau yang indah itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain mota untuk kemah (di kapal, perahu, dan sebagainya): anak perahu sibuk memasang -- perahunya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "langit-langit (pada tempat tidur, kereta, becak, dan sebagainya): -- tempat tidur itu sudah tua sehingga perlu segera diganti"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kap mobil: kain terpal banyak dipakai untuk -- jip"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "tajuk yang tidak terdiferensiasi dalam kelopak dan mahkota, tetapi dapat terbagi-bagi ke dalam daun tenda"
+        }
+      ]
+    }
+  ]
+}

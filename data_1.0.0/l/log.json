@@ -1,0 +1,71 @@
+{
+  "istilah": "log",
+  "entri": "log1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "log keluar",
+    "log masuk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "log1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelondong"
+        }
+      ]
+    },
+    {
+      "lema": "log2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "logaritma"
+        }
+      ]
+    },
+    {
+      "lema": "log3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "buku harian kapal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "pengukur kecepatan"
+        }
+      ]
+    },
+    {
+      "lema": "log4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -]",
+          "deskripsi": "mendaftar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "daftar; catatan"
+        }
+      ]
+    },
+    {
+      "lema": "log5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran isi sebesar 1/72 bat atau kurang lebih 1/2 liter"
+        }
+      ]
+    }
+  ]
+}

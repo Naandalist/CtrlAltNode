@@ -1,0 +1,51 @@
+{
+  "istilah": "karas",
+  "entri": "ka.ras1",
+  "bentukTidakBaku": "kekaras",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bahan untuk ditulisi; lembar atau papan untuk ditulisi",
+    "kataAsal": "karas"
+  },
+  "data": [
+    {
+      "lema": "ka.ras1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kue atau penganan yang dibuat dari tepung beras"
+        }
+      ]
+    },
+    {
+      "lema": "ka.ras2 bentuk tidak baku: kekaras",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tengkaras〔Aquilaria malaccensis〕"
+        }
+      ]
+    },
+    {
+      "lema": "ka.ras3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "papan kayu atau keping batu yang dipakai oleh penyair susastra Jawa Kuno untuk menuliskan karyanya"
+        }
+      ]
+    },
+    {
+      "lema": "Ka.ras",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami Pulau Karas, yang terletak di sebelah barat daya Semenanjung Bomberai, Kabupaten Fakfak, Provinsi Papua"
+        }
+      ]
+    }
+  ]
+}

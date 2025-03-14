@@ -1,0 +1,42 @@
+{
+  "istilah": "ci",
+  "entri": "ci1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "sepersepuluh tahil",
+    "kataAsal": "chîⁿ"
+  },
+  "data": [
+    {
+      "lema": "ci1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "satuan ukuran berat sama dengan 1/10 tahil atau 3,78 g (untuk menimbang madat)"
+        }
+      ]
+    },
+    {
+      "lema": "ci2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ encik"
+        }
+      ]
+    },
+    {
+      "lema": "ci3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ taci"
+        }
+      ]
+    }
+  ]
+}

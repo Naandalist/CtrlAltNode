@@ -1,0 +1,34 @@
+{
+  "istilah": "instansi",
+  "entri": "in.stan.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "instansi terkait"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.stan.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "badan pemerintah umum (seperti jawatan, kantor): kejadian (pelanggaran, penemuan, dan sebagainya) itu harus secepatnya dilaporkan kepada -- yang berwenang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "tingkatan (pengadilan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "tahap (dalam rapat dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

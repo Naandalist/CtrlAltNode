@@ -1,0 +1,36 @@
+{
+  "istilah": "klub",
+  "entri": "klub bentuk tidak baku: klab",
+  "bentukTidakBaku": "klab",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "klub janapada",
+    "klub malam",
+    "klub musik",
+    "klub olahraga",
+    "klub radio",
+    "klub sepak bola",
+    "klub wartawan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "klub bentuk tidak baku: klab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkumpulan yang kegiatannya mengadakan persekutuan untuk maksud tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gedung tempat pertemuan anggota suatu perkumpulan"
+        }
+      ]
+    }
+  ]
+}

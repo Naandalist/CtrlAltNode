@@ -1,0 +1,44 @@
+{
+  "istilah": "sontok",
+  "entri": "son.tok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyontok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "son.tok1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "pendek; singkat: -- akal (pikiran) [1] bodoh [2] picik"
+        }
+      ]
+    },
+    {
+      "lema": "son.tok2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "tumbuk; gocoh"
+        }
+      ]
+    },
+    {
+      "lema": "son.tok3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ suntuk2"
+        }
+      ]
+    }
+  ]
+}

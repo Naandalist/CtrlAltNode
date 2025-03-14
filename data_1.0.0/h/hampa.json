@@ -1,0 +1,50 @@
+{
+  "istilah": "hampa",
+  "entri": "ham.pa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kehampaan",
+    "menghampa",
+    "menghampakan",
+    "penghampaan"
+  ],
+  "gabunganKata": [
+    "hampa beras",
+    "hampa berat",
+    "hampa gravitasi",
+    "hampa layang",
+    "hampa tangan",
+    "hampa udara"
+  ],
+  "peribahasa": [
+    "bertanam biji hampa; menjual petai hampa; padi sekepuk hampa, emas seperti loyang, kerbau sekandang jalang; sekam menjadi hampa berat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ham.pa",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berisi; kosong: padi yang -- dibuang saja"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak bergairah; sepi: perasaannya (hatinya) --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sia-sia; tidak ada hasilnya: -- saja ia mencari pekerjaan di kota, di mana-mana tidak ada lowongan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "bodoh; tidak berpengetahuan: tidak ada gunanya bertukar pikiran dengan orang --"
+        }
+      ]
+    }
+  ]
+}

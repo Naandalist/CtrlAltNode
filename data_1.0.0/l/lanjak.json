@@ -1,0 +1,33 @@
+{
+  "istilah": "lanjak",
+  "entri": "lan.jak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.jak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencapai usia tinggi"
+        }
+      ]
+    },
+    {
+      "lema": "lan.jak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ss[Sasak: -]",
+          "deskripsi": "menendang dengan telapak kaki: dia punya keahlian untuk --"
+        }
+      ]
+    }
+  ]
+}

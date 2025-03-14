@@ -1,0 +1,28 @@
+{
+  "istilah": "terminologi",
+  "entri": "ter.mi.no.lo.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ter.mi.no.lo.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peristilahan (tentang kata-kata)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu mengenai batasan atau definisi istilah"
+        }
+      ]
+    }
+  ]
+}

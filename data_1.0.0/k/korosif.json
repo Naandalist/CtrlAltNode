@@ -1,0 +1,32 @@
+{
+  "istilah": "korosif",
+  "entri": "ko.ro.sif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.ro.sif",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Far[Farmasi dan Farmakologi: -]",
+          "deskripsi": "obat yang mengikis jaringan organ secara kimia atau secara peradangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan yang menyebabkan pengikisan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mampu merusak sesuatu secara progresif dengan proses kimiawi"
+        }
+      ]
+    }
+  ]
+}

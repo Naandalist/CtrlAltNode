@@ -1,0 +1,50 @@
+{
+  "istilah": "pulung",
+  "entri": "pu.lung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memulung",
+    "memulung",
+    "pemulung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.lung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bintang keberuntungan yang jatuh pada seseorang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "nasib baik"
+        }
+      ]
+    },
+    {
+      "lema": "pu.lung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "gentel"
+        }
+      ]
+    },
+    {
+      "lema": "pu.lung2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memulung"
+        }
+      ]
+    }
+  ]
+}

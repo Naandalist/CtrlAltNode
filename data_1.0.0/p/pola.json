@@ -1,0 +1,79 @@
+{
+  "istilah": "pola",
+  "entri": "po.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpola",
+    "memola",
+    "memolai",
+    "pemolaan"
+  ],
+  "gabunganKata": [
+    "pola analitis",
+    "pola antena",
+    "pola argumentatif",
+    "pola asuh otoritatif",
+    "pola bilangan",
+    "pola genetik",
+    "pola ilustratif",
+    "pola informasi",
+    "pola intonasi",
+    "pola kalimat",
+    "pola ketebalan",
+    "pola kontralateral",
+    "pola kurikulum",
+    "pola lakuan",
+    "pola linier",
+    "pola makan",
+    "pola pemikiran",
+    "pola pengeboran",
+    "pola permainan",
+    "pola pertahanan",
+    "pola pikir",
+    "pola rajut",
+    "pola tanam",
+    "pola V"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar yang dipakai untuk contoh batik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "corak batik atau tenun; ragi atau suri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potongan kertas yang dipakai sebagai contoh dalam membuat baju dan sebagainya; model"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem; cara kerja: -- permainan; -- pemerintahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk (struktur) yang tetap: -- kalimat; dalam puisi, -- adalah bentuk sajak yang dinyatakan dengan bunyi, gerak kata, atau arti"
+        }
+      ]
+    },
+    {
+      "lema": "po.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kal[Kaili: -]",
+          "deskripsi": "alat untuk mengikatkan kulit kayu, terbuat dari kayu tua berwarna hitam"
+        }
+      ]
+    }
+  ]
+}

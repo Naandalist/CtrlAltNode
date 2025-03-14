@@ -1,0 +1,39 @@
+{
+  "istilah": "skema",
+  "entri": "ske.ma bentuk tidak baku: sekema",
+  "bentukTidakBaku": "sekema",
+  "kataTurunan": [
+    "berskema",
+    "menskemakan",
+    "terskema"
+  ],
+  "gabunganKata": [
+    "skema Ponzi",
+    "skema warna",
+    "skema warna analog",
+    "skema warna komplementer",
+    "skema warna monokromatik",
+    "skema warna polikromatik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ske.ma bentuk tidak baku: sekema",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagan; rangka; kerangka (rancangan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis besar; denah"
+        }
+      ]
+    }
+  ]
+}

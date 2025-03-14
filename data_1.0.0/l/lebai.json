@@ -1,0 +1,36 @@
+{
+  "istilah": "lebai",
+  "entri": "le.bai1 /lêbai/",
+  "bentukTidakBaku": "lebay",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lebai malang",
+    "lebai penghulu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.bai1 /lêbai/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pegawai masjid atau orang yang mengurus suatu pekerjaan yang bertalian dengan agama Islam di dusun (kampung)"
+        }
+      ]
+    },
+    {
+      "lema": "le.bai2 /lêbai/bentuk tidak baku: lebay",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berlebih-lebihan dalam mengekspresikan sesuatu; laku lajak: orang itu -- sekali"
+        }
+      ]
+    }
+  ]
+}

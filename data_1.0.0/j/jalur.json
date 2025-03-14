@@ -1,0 +1,97 @@
+{
+  "istilah": "jalur",
+  "entri": "ja.lur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjalur",
+    "berjalur-jalur"
+  ],
+  "gabunganKata": [
+    "jalur alternatif",
+    "jalur anabolik",
+    "jalur awan panjang",
+    "jalur bus",
+    "jalur cepat",
+    "jalur degradatif",
+    "jalur hijau",
+    "jalur kabut",
+    "jalur katabolik",
+    "jalur kereta api khusus",
+    "jalur konvergen antartropik",
+    "jalur lambat",
+    "jalur lintas timur",
+    "jalur metabolik",
+    "jalur pantura",
+    "jalur pelindung",
+    "jalur pengaman",
+    "jalur pribadi",
+    "jalur pupuk",
+    "jalur rel ganda",
+    "jalur rempah",
+    "jalur sewa",
+    "jalur suara",
+    "jalur tengkorak",
+    "jalur tiga dalam satu",
+    "jalur tunggal",
+    "jalur turun",
+    "jalur udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.lur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kolom yang lurus; garis lebar; setrip lebar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang di antara dua garis pada permukaan yang luas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang memanjang di antara dua deret tanaman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "ruang memanjang antara dua garis batas lurus; ruang antara garis permainan tunggal dan garis permainan ganda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "suatu tahapan atau deret tahapan suatu proses metabolisme"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tautan antara dua simpul dalam sebuah jaringan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "rute yang dilalui oleh sistem operasi untuk menuju ke suatu berkas, dari direktori akar cakram dan subdirektori di bawahnya"
+        }
+      ]
+    },
+    {
+      "lema": "ja.lur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perahu belongkang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "perahu yang digerakkan dengan bantuan angin atau didayung"
+        }
+      ]
+    }
+  ]
+}

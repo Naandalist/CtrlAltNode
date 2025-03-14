@@ -1,0 +1,42 @@
+{
+  "istilah": "karantina",
+  "entri": "ka.ran.ti.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekarantinaan",
+    "mengarantina",
+    "mengarantinakan",
+    "mengkarantina",
+    "pengarantinaan",
+    "perkarantinaan"
+  ],
+  "gabunganKata": [
+    "karantina mandiri",
+    "karantina wilayah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.ran.ti.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat penampungan yang lokasinya terpencil guna mencegah terjadinya penularan (pengaruh dan sebagainya) penyakit dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "tempat untuk menahan ternak impor yang baru datang dari luar negeri, guna mencegah penyebaran penyakit menular"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "upaya untuk memisahkan dan membatasi pergerakan dan interaksi orang sehat yang mungkin terpapar penyakit menular untuk memantau dan mengetahui perkembangan kondisi mereka selanjutnya, dilakukan untuk mencegah penyebaran penyakit"
+        }
+      ]
+    }
+  ]
+}

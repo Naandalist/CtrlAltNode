@@ -1,0 +1,50 @@
+{
+  "istilah": "kodrat",
+  "entri": "kod.rat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekodratan"
+  ],
+  "gabunganKata": [
+    "kodrat alam",
+    "kodrat ilahi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kekuasaan; kemampuan",
+    "kataAsal": "qudrah"
+  },
+  "data": [
+    {
+      "lema": "kod.rat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekuasaan (Tuhan): manusia tidak akan mampu menentang -- atas dirinya sebagai makhluk hidup"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hukum (alam): benih itu tumbuh menurut --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat asli; sifat bawaan: kita harus bersikap dan bertindak sesuai dengan -- kita masing-masing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berkuasa, sifat yang wajib bagi Allah Swt."
+        }
+      ]
+    },
+    {
+      "lema": "Kod.rat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Keluarga Olahraga Tarung Derajat"
+        }
+      ]
+    }
+  ]
+}

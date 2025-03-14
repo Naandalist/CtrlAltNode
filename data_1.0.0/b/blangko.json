@@ -1,0 +1,32 @@
+{
+  "istilah": "blangko",
+  "entri": "blang.ko bentuk tidak baku: belangko, blanko",
+  "bentukTidakBaku": "belangko, blanko",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "blang.ko bentuk tidak baku: belangko, blanko",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kosong (belum diisi)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak memberikan suara (dalam pemungutan suara): yang setuju 116 suara, yang tidak setuju 51 suara, dan yang -- 7 suara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat isian: -- pos wesel"
+        }
+      ]
+    }
+  ]
+}

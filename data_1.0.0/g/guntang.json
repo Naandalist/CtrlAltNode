@@ -1,0 +1,35 @@
+{
+  "istilah": "guntang",
+  "entri": "gun.tang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "guntang-guntang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gun.tang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pelampung pada pancing"
+        }
+      ]
+    },
+    {
+      "lema": "gun.tang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian perkakas tenun yang berbentuk torak yang di dalamnya berisi benang"
+        }
+      ]
+    }
+  ]
+}

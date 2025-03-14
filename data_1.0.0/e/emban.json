@@ -1,0 +1,40 @@
+{
+  "istilah": "emban",
+  "entri": "em.ban1 /êmban/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengemban",
+    "pengemban"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "yang membawa atau yang melingkungi; pembantu dan pengawal (seseorang putri bangsawan)",
+    "kataAsal": "ěmban"
+  },
+  "data": [
+    {
+      "lema": "em.ban1 /êmban/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain pembebat badan (dada, susu, perut)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali pembebat perut (pada kuda)"
+        }
+      ]
+    },
+    {
+      "lema": "em.ban2 /êmban/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "inang pengasuh: permaisuri dikelilingi oleh empat orang --nya"
+        }
+      ]
+    }
+  ]
+}

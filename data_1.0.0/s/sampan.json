@@ -1,0 +1,33 @@
+{
+  "istilah": "sampan",
+  "entri": "sam.pan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersampan",
+    "bersampan-sampan"
+  ],
+  "gabunganKata": [
+    "sampan bidar",
+    "sampan pukat",
+    "sampan seludang"
+  ],
+  "peribahasa": [
+    "ada sampan, hendak berenang; dari jung turun ke sampan; sampan ada, pengayuh tidak; sampan rompong, pengayuh sompek"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "perahu kecil",
+    "kataAsal": "sam pán"
+  },
+  "data": [
+    {
+      "lema": "sam.pan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu kecil"
+        }
+      ]
+    }
+  ]
+}

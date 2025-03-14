@@ -1,0 +1,41 @@
+{
+  "istilah": "galah",
+  "entri": "ga.lah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergalah",
+    "menggalah",
+    "menggalahkan",
+    "sepenggalah"
+  ],
+  "gabunganKata": [
+    "galah canggah",
+    "galah pancang",
+    "galah panjang",
+    "galah sanggamara",
+    "galah unjam"
+  ],
+  "peribahasa": [
+    "bagai galah di tengah arus; bagai galah dijual"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lembing, tongkat",
+    "kataAsal": "galah"
+  },
+  "data": [
+    {
+      "lema": "ga.lah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkat yang panjang (dari bambu atau kayu dan sebagainya untuk menjolok buah-buahan, menolak perahu, menjemur pakaian, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tombak (untuk memburu babi hutan dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

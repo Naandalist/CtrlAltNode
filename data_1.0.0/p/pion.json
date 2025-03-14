@@ -1,0 +1,36 @@
+{
+  "istilah": "pion",
+  "entri": "pi.on",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.on",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bidak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "partikel elementer yang berusia pendek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -] ki[kiasan]",
+          "deskripsi": "perintis; pelopor: TNI harus menjadi -- pembangunan di semua pelosok"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -] ki[kiasan]",
+          "deskripsi": "orang suruhan; bawahan"
+        }
+      ]
+    }
+  ]
+}

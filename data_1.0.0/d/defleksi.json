@@ -1,0 +1,32 @@
+{
+  "istilah": "defleksi",
+  "entri": "de.flek.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.flek.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyimpangan arah, misalnya penyimpangan arah angin yang disebabkan oleh rotasi bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "hilangnya infleksi, misalnya apabila dua akhiran kasus bergabung menjadi satu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "terjadinya pergantian morfem inflektif oleh unsur lain"
+        }
+      ]
+    }
+  ]
+}

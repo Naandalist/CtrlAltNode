@@ -1,0 +1,50 @@
+{
+  "istilah": "rubiah",
+  "entri": "ru.bi.ah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "wanita saleh",
+    "kataAsal": "rubbiyyah"
+  },
+  "data": [
+    {
+      "lema": "ru.bi.ah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wanita yang saleh; ruhbanat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "istri ulama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wanita yang menjadi guru mengaji (Alquran)"
+        }
+      ]
+    },
+    {
+      "lema": "ru.bi.ah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ riba2"
+        }
+      ]
+    },
+    {
+      "lema": "ru.bi.ah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyanyi tunggal dalam musik berahi yang juga bertugas sebagai pengarah dan pengontrol setiap syair yang ditembangkan oleh penyanyi lain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "melapuk",
+  "entri": "lapuk1 » me.la.puk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lapuk1 » me.la.puk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi lapuk: hati-hati, lantai jembatan itu sudah mulai ~"
+        }
+      ]
+    },
+    {
+      "lema": "lapuk2 » me.la.puk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menepuk; menampar"
+        }
+      ]
+    }
+  ]
+}

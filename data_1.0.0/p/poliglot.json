@@ -1,0 +1,28 @@
+{
+  "istilah": "poliglot",
+  "entri": "po.li.glot",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.li.glot",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dapat mengetahui, menggunakan, dan menulis dalam banyak bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang pandai dalam berbagai bahasa"
+        }
+      ]
+    }
+  ]
+}

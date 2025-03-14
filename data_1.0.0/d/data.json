@@ -1,0 +1,59 @@
+{
+  "istilah": "data",
+  "entri": "da.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendata",
+    "mendatakan",
+    "pendata",
+    "pendataan"
+  ],
+  "gabunganKata": [
+    "data alfanumerik",
+    "data analog",
+    "data dasar pasien",
+    "data digital",
+    "data dukung",
+    "data kategoris",
+    "data kendali program",
+    "data kualitatif",
+    "data kuantitatif",
+    "data langsung",
+    "data lapangan",
+    "data lisan",
+    "data numerik",
+    "data penunjuk",
+    "data pribadi",
+    "data primer",
+    "data raya",
+    "data relevan",
+    "data sekunder",
+    "data tertulis",
+    "data warisan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan yang benar dan nyata: pengumpulan -- untuk memperoleh keterangan tentang kehidupan petani"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan atau bahan nyata yang dapat dijadikan dasar kajian (analisis atau kesimpulan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "informasi dalam bentuk yang dapat diproses oleh komputer, seperti representasi digital dari teks, angka, gambar grafis, atau suara"
+        }
+      ]
+    }
+  ]
+}

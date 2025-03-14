@@ -1,0 +1,41 @@
+{
+  "istilah": "disimilasi",
+  "entri": "di.si.mi.la.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "disimilasi dekat",
+    "disimilasi jauh",
+    "disimilasi progresif",
+    "disimilasi regresif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.si.mi.la.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tindakan atau hal membuat berbeda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "proses yang mengakibatkan penguraian senyawa atau zat organik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "katabolisme"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "proses yang mengakibatkan dua hal yang sama menjadi tidak sama, misalnya pasangan bunyi r dan r dihindarkan dan menjadi l dan r, seperti kata belajar (dari berajar), telantar (dari terantar)"
+        }
+      ]
+    }
+  ]
+}

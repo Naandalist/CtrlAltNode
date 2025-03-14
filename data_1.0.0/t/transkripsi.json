@@ -1,0 +1,41 @@
+{
+  "istilah": "transkripsi",
+  "entri": "tran.skrip.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mentranskripsikan",
+    "pentranskripsi",
+    "pentranskripsian"
+  ],
+  "gabunganKata": [
+    "transkripsi fonemis",
+    "transkripsi fonetis",
+    "transkripsi halus",
+    "transkripsi kasar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tran.skrip.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pengalihan tuturan (yang berwujud bunyi) ke dalam bentuk tulisan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "penulisan kata, kalimat, atau teks dengan menggunakan lambang-lambang bunyi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "proses penyalinan informasi genetik DNA dalam bentuk RNA"
+        }
+      ]
+    }
+  ]
+}

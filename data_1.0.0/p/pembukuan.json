@@ -1,0 +1,28 @@
+{
+  "istilah": "pembukuan",
+  "entri": "buku1 » pem.bu.ku.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buku1 » pem.bu.ku.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pencatatan dalam buku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "proses pemindahan transaksi dari jurnal ke buku besar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "istilah": "bujur",
+  "entri": "bu.jur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dibujurkan",
+    "membujur",
+    "membujurkan",
+    "terbujur"
+  ],
+  "gabunganKata": [
+    "bujur sangkar",
+    "bujur sirih",
+    "bujur standar",
+    "bujur telur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.jur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panjang dari suatu bidang: tanah itu --nya 15 m dan lintangnya 10 m"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panjang: muka --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "posisi timur atau barat suatu tempat di permukaan bumi, yang ditentukan atau diukur dengan meridian"
+        }
+      ]
+    },
+    {
+      "lema": "bu.jur2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ mujur2"
+        }
+      ]
+    }
+  ]
+}

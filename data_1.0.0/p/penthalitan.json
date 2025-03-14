@@ -1,0 +1,41 @@
+{
+  "istilah": "penthalitan",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jw[Jawa: -]",
+          "deskripsi": "jungkir balik"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Jw[Jawa: -] ki[kiasan]",
+          "deskripsi": "kurang ajar; tidak sopan (tentang perilaku)"
+        }
+      ]
+    },
+    {
+      "lema": "penthalitan",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jawa: -]",
+          "deskripsi": "jungkir balik"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Jawa: -] [kiasan]",
+          "deskripsi": "kurang ajar; tidak sopan (tentang perilaku)"
+        }
+      ]
+    }
+  ]
+}

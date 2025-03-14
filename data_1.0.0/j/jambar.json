@@ -1,0 +1,45 @@
+{
+  "istilah": "jambar",
+  "entri": "jam.bar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjambar",
+    "sejambar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jam.bar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "gubuk atau bangsal untuk beristirahat dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "jam.bar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hidangan"
+        }
+      ]
+    },
+    {
+      "lema": "jam.bar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "hak bagian atau hak perolehan dari milik bersama yang dibagikan pada setiap anggota masyarakat adat"
+        }
+      ]
+    }
+  ]
+}

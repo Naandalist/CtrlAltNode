@@ -1,0 +1,33 @@
+{
+  "istilah": "sage",
+  "entri": "sa.ge1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.ge1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerita rakyat berdasarkan cerita sejarah yang sudah ditambah imajinasi masyarakat"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ge2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman yang termasuk keluarga min, tingginya dapat mencapai 70 cm, daunnya berbentuk oval, keras, berbulu halus, beraroma tajam, dan biasa digunakan sebagai bumbu masakan〔Salvia officinalis〕"
+        }
+      ]
+    }
+  ]
+}

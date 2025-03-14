@@ -1,0 +1,42 @@
+{
+  "istilah": "nazir",
+  "entri": "na.zir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengawas; direktur; pengawas zakat",
+    "kataAsal": "nāẓir"
+  },
+  "data": [
+    {
+      "lema": "na.zir1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ nadir4"
+        }
+      ]
+    },
+    {
+      "lema": "na.zir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyampai berita duka"
+        }
+      ]
+    },
+    {
+      "lema": "na.zir3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok orang atau badan hukum yang bertugas memelihara dan mengurus benda wakaf"
+        }
+      ]
+    }
+  ]
+}

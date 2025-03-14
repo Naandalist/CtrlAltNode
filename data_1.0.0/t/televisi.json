@@ -1,0 +1,37 @@
+{
+  "istilah": "televisi",
+  "entri": "te.le.vi.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pertelevisian"
+  ],
+  "gabunganKata": [
+    "televisi berbayar",
+    "televisi hitam putih",
+    "televisi kabel",
+    "televisi layar datar",
+    "televisi pintar",
+    "televisi warna"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.le.vi.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem penyiaran gambar yang disertai dengan bunyi (suara) melalui kabel atau melalui angkasa dengan menggunakan alat yang mengubah cahaya (gambar) dan bunyi (suara) menjadi gelombang listrik dan mengubahnya kembali menjadi berkas cahaya yang dapat dilihat dan bunyi yang dapat didengar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pesawat penerima gambar siaran televisi"
+        }
+      ]
+    }
+  ]
+}

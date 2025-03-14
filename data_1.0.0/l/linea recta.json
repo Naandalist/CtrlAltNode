@@ -1,0 +1,41 @@
+{
+  "istilah": "linea recta",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "dalam garis lurus"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -] ki[kiasan]",
+          "deskripsi": "secara langsung, tidak berliku-liku atau berbelit-belit"
+        }
+      ]
+    },
+    {
+      "lema": "linea recta",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "dalam garis lurus"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -] [kiasan]",
+          "deskripsi": "secara langsung, tidak berliku-liku atau berbelit-belit"
+        }
+      ]
+    }
+  ]
+}

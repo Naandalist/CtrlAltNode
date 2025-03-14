@@ -1,0 +1,44 @@
+{
+  "istilah": "kertang",
+  "entri": "ker.tang1 /kêrtang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengertangkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ker.tang1 /kêrtang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kotor karena ada sesuatu yang melekat"
+        }
+      ]
+    },
+    {
+      "lema": "ker.tang2 /kêrtang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tiruan bunyi seperti bunyi kaleng dipukul"
+        }
+      ]
+    },
+    {
+      "lema": "ker.tang3 /kêrtang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut〔Epinephelus pantherinus〕"
+        }
+      ]
+    }
+  ]
+}

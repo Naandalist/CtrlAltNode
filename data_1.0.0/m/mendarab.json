@@ -1,0 +1,37 @@
+{
+  "istilah": "mendarab",
+  "entri": "darab1 » men.da.rab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "darab1 » men.da.rab",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memukul keras-keras"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memacu kuda atau melarikan kuda cepat-cepat: sang wazir ~ kudanya pergi menjauh"
+        }
+      ]
+    },
+    {
+      "lema": "darab2 » men.da.rab",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengalikan; memperkalikan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "peptik",
+  "entri": "pep.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pep.tik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "borok pada lapisan selaput lendir lambung"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "mengenai pencernaan; berkaitan dengan pepsin"
+        }
+      ]
+    }
+  ]
+}

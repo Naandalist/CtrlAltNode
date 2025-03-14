@@ -1,0 +1,45 @@
+{
+  "istilah": "gerit",
+  "entri": "ge.rit1 /gêrit/bentuk tidak baku: gerip2",
+  "bentukTidakBaku": "gerip2",
+  "kataTurunan": [
+    "gerit-gerit putih",
+    "gerit-gerit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.rit1 /gêrit/bentuk tidak baku: gerip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi benda keras (pena dan sebagainya) digariskan dan sebagainya: saya mendengar -- kursi"
+        }
+      ]
+    },
+    {
+      "lema": "ge.rit2 /gêrit/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "gerit-gerit putih"
+        }
+      ]
+    },
+    {
+      "lema": "ge.rit3 /gêrit/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "gerit-gerit"
+        }
+      ]
+    }
+  ]
+}

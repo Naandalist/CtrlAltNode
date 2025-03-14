@@ -1,0 +1,37 @@
+{
+  "istilah": "granulasi",
+  "entri": "gra.nu.la.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gra.nu.la.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembentukan butir-butir kecil menjadi kristal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dirg[Kedirgantaraan: -]",
+          "deskripsi": "butir-butir atau bintik-bintik kecil pada lapisan fotosfer matahari"
+        }
+      ]
+    },
+    {
+      "lema": "gra.nu.la.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses penutupan luka"
+        }
+      ]
+    }
+  ]
+}

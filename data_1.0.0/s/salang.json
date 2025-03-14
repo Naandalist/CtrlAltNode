@@ -1,0 +1,39 @@
+{
+  "istilah": "salang",
+  "entri": "sa.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyalang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "hiasan tertentu",
+    "kataAsal": "salaṅ"
+  },
+  "data": [
+    {
+      "lema": "sa.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "keris panjang"
+        }
+      ]
+    },
+    {
+      "lema": "sa.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bakul yang tergantung (untuk tempat makanan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkaran dari rotan dan sebagainya yang diberi tali gantungan (untuk menempatkan bakul dan sebagainya atau untuk tempat pemikulnya)"
+        }
+      ]
+    }
+  ]
+}

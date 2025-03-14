@@ -1,0 +1,30 @@
+{
+  "istilah": "tulup",
+  "entri": "tu.lup",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menulup"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tulup, sumpitan",
+    "kataAsal": "tulup"
+  },
+  "data": [
+    {
+      "lema": "tu.lup",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumpit"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tiup"
+        }
+      ]
+    }
+  ]
+}

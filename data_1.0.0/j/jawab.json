@@ -1,0 +1,32 @@
+{
+  "istilah": "jawab",
+  "entri": "ja.wab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjawab",
+    "berjawab-jawaban",
+    "jawab-jinawab",
+    "jawaban",
+    "menjawab",
+    "penjawab",
+    "terjawab"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sahut",
+    "kataAsal": "jawāb"
+  },
+  "data": [
+    {
+      "lema": "ja.wab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sahut; balas"
+        }
+      ]
+    }
+  ]
+}

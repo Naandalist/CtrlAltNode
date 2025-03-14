@@ -1,0 +1,33 @@
+{
+  "istilah": "melontar",
+  "entri": "lontar1 » me.lon.tar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lontar1 » me.lon.tar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melempar"
+        }
+      ]
+    },
+    {
+      "lema": "lontar2 » me.lon.tar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bio[Biologi: -]",
+          "deskripsi": "memiliki lembaran yang bertekstur tipis, legap, dan agak kuat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "istilah": "terak",
+  "entri": "te.rak1 /têrak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.rak1 /têrak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ampas leburan logam (timah dan sebagainya) yang dilebur dalam tanur tinggi, rupanya sebagai batu kaca"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisa kokas atau arang batu yang tidak terbakar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisa bara api; kerak"
+        }
+      ]
+    },
+    {
+      "lema": "te.rak2 /têrak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sarang tempat ayam bertelur dan mengeram; petarangan: tikus itu makan telur yang ada di --"
+        }
+      ]
+    },
+    {
+      "lema": "te.rak3 /têrak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bale-bale"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "istilah": "medan",
+  "entri": "me.dan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "medan dingin",
+    "medan kunci",
+    "medan laga",
+    "medan listrik",
+    "medan magnet",
+    "medan magnet permanen",
+    "medan panas",
+    "medan pandang sesaat",
+    "medan penglihatan",
+    "medan perang",
+    "medan pertempuran",
+    "medan tombol"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "lapangan",
+    "kataAsal": "maidān"
+  },
+  "data": [
+    {
+      "lema": "me.dan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah lapang; tempat yang luas (untuk berpacu kuda dan sebagainya); alun-alun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "lingkungan; ruang lingkup: -- juang tentara mencakupi pula -- pembangunan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "lokasi; daerah: untuk mencapai tempat pesawat jatuh amat sulit karena berada di hutan lebat dan --nya menanjak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -] ki[kiasan]",
+          "deskripsi": "batas sentuhan antara dua massa udara yang berbeda keadaannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -] ki[kiasan]",
+          "deskripsi": "ruang yang mengandung pengaruh gaya, misalnya -- magnet, -- listrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -] ki[kiasan]",
+          "deskripsi": "himpunan takkosong dengan dua operasi biner, yaitu penjumlahan dan perkalian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "lokasi dalam rekaman tempat jenis data tertentu disimpan"
+        }
+      ]
+    },
+    {
+      "lema": "Me.dan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota (madya) yang juga menjadi ibu kota Provinsi Sumatera Utara, terkenal dengan sebutan Kota Melayu Deli"
+        }
+      ]
+    }
+  ]
+}

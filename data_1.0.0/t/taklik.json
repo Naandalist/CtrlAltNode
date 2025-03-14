@@ -1,0 +1,39 @@
+{
+  "istilah": "taklik",
+  "entri": "tak.lik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertaklik",
+    "menaklik",
+    "penaklik"
+  ],
+  "gabunganKata": [
+    "taklik talak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penangguhan; pengaitan; catatan pinggir",
+    "kataAsal": "ta‘līq"
+  },
+  "data": [
+    {
+      "lema": "tak.lik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perjanjian (kawin dan sebagainya); pernyataan"
+        }
+      ]
+    },
+    {
+      "lema": "tak.lik2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menaklik"
+        }
+      ]
+    }
+  ]
+}

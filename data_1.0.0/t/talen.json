@@ -1,0 +1,33 @@
+{
+  "istilah": "talen",
+  "entri": "ta.len1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.len1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang (uang logam) bernilai 25 sen (pada zaman Hindia Belanda)"
+        }
+      ]
+    },
+    {
+      "lema": "ta.len2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ talenta"
+        }
+      ]
+    }
+  ]
+}

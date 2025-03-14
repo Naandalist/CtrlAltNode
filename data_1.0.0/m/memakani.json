@@ -1,0 +1,37 @@
+{
+  "istilah": "memakani",
+  "entri": "makan1 » me.ma.kan.i",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "makan1 » me.ma.kan.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberi pakan (untuk binatang)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memakan berkali-kali atau banyak: kawanan burung gelatik ~ padi yang sedang dijemur; musang itu ~ buah kopi yang masak"
+        }
+      ]
+    },
+    {
+      "lema": "pakan1 » me.ma.kan.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberi pakan"
+        }
+      ]
+    }
+  ]
+}

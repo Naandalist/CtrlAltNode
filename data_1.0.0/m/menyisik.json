@@ -1,0 +1,40 @@
+{
+  "istilah": "menyisik",
+  "entri": "sisik1 » me.nyi.sik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sisik1 » me.nyi.sik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuang sisiknya (tentang ikan sebelum dimasak)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meraut (bambu, pensil, lidi, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membersihkan pohon atau batang dari duri-durinya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memeriksa baik buruknya ayam sabung dengan menilik sisik pada kaki ayam itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menangkap ikan dengan menyebarkan sisik ikan ke aliran air selokan dan menunggu ikan dengan tangguk"
+        }
+      ]
+    }
+  ]
+}

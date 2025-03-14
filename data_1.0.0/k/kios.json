@@ -1,0 +1,33 @@
+{
+  "istilah": "kios",
+  "entri": "ki.os1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.os1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "toko kecil (tempat berjual buku, koran, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ki.os2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "komputer atau terminal dalam wadah yang berdiri bebas dan menyediakan informasi kepada publik"
+        }
+      ]
+    }
+  ]
+}

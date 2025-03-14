@@ -1,0 +1,46 @@
+{
+  "istilah": "mores",
+  "entri": "mo.res",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.res",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "daun pandan yang telah diolah kecil-kecil untuk bahan anyaman"
+        }
+      ]
+    },
+    {
+      "lema": "mo.res2 /morês/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna campuran (tentang bulu dan tubuh binatang)"
+        }
+      ]
+    },
+    {
+      "lema": "mo.res1 /morês (1)/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adat istiadat yang mengandung arti hukum susila"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sopan santun"
+        }
+      ]
+    }
+  ]
+}

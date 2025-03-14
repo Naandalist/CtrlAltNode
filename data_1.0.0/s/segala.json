@@ -1,0 +1,56 @@
+{
+  "istilah": "segala",
+  "entri": "se.ga.la1 /sêgala/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "segala-galanya",
+    "segalanya"
+  ],
+  "gabunganKata": [
+    "segala apa"
+  ],
+  "peribahasa": [
+    "ada padi, segala menjadi; berbuat jahat jangan sekali, terbawa cemar segala ahli; segala senang hati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "total, semua, seluruh",
+    "kataAsal": "sakala"
+  },
+  "data": [
+    {
+      "lema": "se.ga.la1 /sêgala/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "sekalian (tidak ada kecualinya); semua: sebelum pindah, ia berusaha melunasi -- utangnya; -- sesuatu sudah selesai"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "seluruh; segenap: -- isi dunia"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "sama sekali; serba: anak-anak sekolah berpakaian -- putih; kita -- salah"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "para (untuk menyatakan banyak): hikayat -- rasul"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "(untuk memaki) terlalu; benar-benar: dikatakannya saya ini -- udiklah, kampunganlah"
+        }
+      ]
+    },
+    {
+      "lema": "se.ga.la2 /sêgala/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "bambu yang ditarik oleh dua ekor sapi (seperti karapan sapi), digunakan untuk membajak sawah untuk menggemburkan tanah yang keras"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "singkir",
+  "entri": "sing.kir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyingkir",
+    "menyingkiri",
+    "menyingkirkan",
+    "penyingkir",
+    "penyingkiran",
+    "tersingkir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menghindar",
+    "kataAsal": "siṅkir"
+  },
+  "data": [
+    {
+      "lema": "sing.kir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyingkir"
+        }
+      ]
+    }
+  ]
+}

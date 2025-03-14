@@ -1,0 +1,32 @@
+{
+  "istilah": "keenakan",
+  "entri": "enak » ke.e.nak.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "enak » ke.e.nak.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesenangan; kenyamanan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlalu merasa enak"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menjadi terbiasa (biasanya hal-hal yang kurang baik): jangan dibiasakan memanjakan anak, nanti dia ~ bermanja-manja pada setiap orang"
+        }
+      ]
+    }
+  ]
+}

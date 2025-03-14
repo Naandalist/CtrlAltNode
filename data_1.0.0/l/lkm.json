@@ -1,0 +1,28 @@
+{
+  "istilah": "lkm",
+  "entri": "LKM",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "LKM",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Lembaga Keuangan Masyarakat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "latihan kepemimpinan mahasiswa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "benteng",
+  "entri": "ben.teng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbenteng",
+    "membentengi",
+    "pembentengan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.teng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan tempat berlindung atau bertahan (dari serangan musuh): hanya yang sempat berlindung di dalam --lah yang selamat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dinding (tembok) untuk menahan serangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "nama salah satu buah catur yang penempatannya pada posisi awal permainan di kotak sudut paling kiri dan sudut paling kanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang dipakai untuk memperkuat atau mempertahankan kedudukan dan sebagainya: agama adalah -- pribadi yang akan melindungi diri dari serangan nafsu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan anak-anak yang dilakukan dalam dua kelompok dengan cara tiap-tiap kelompok membentuk benteng (berupa tiang, batu, dan sebagainya) dan berusaha menjaga bentengnya dari serangan lawan"
+        }
+      ]
+    }
+  ]
+}

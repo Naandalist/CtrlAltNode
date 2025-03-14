@@ -1,0 +1,40 @@
+{
+  "istilah": "melek",
+  "entri": "me.lek /mêlek/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemelekan",
+    "melek-melekan"
+  ],
+  "gabunganKata": [
+    "melek aksara",
+    "melek huruf",
+    "melek pemilu",
+    "melek teknologi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.lek /mêlek/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak tidur; jaga: sepanjang malam ia -- untuk menyelesaikan pekerjaannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "celik mata; dapat melihat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "insaf; mengerti"
+        }
+      ]
+    }
+  ]
+}

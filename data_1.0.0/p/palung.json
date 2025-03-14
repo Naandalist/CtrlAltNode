@@ -1,0 +1,42 @@
+{
+  "istilah": "palung",
+  "entri": "pa.lung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "palungan"
+  ],
+  "gabunganKata": [
+    "palung angin baratan",
+    "palung baratan",
+    "palung bawah angin",
+    "palung bayi",
+    "palung dinamik",
+    "palung dingin",
+    "palung ikan",
+    "palung khatulistiwa",
+    "palung laut",
+    "palung paras atas",
+    "palung timuran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.lung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah yang berlekuk dalam dan berisi air; paluh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "daerah yang terletak di antara dua daerah tekanan tinggi dan mempunyai tekanan udara lebih rendah daripada tekanan udara di sekitarnya"
+        }
+      ]
+    }
+  ]
+}

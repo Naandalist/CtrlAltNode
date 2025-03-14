@@ -1,0 +1,38 @@
+{
+  "istilah": "lugas",
+  "entri": "lu.gas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelugasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berpisah, bercerai, terlepas, longgar, kendur",
+    "kataAsal": "lugas"
+  },
+  "data": [
+    {
+      "lema": "lu.gas",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengenai yang pokok-pokok (yang perlu-perlu) saja: pembicaraannya selalu --, tidak pernah menyimpang ke sana sini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat seperti apa adanya; lugu; serba bersahaja; serba sederhana: cara berdandannya --, tidak mencolok"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berbelit-belit: kalimatnya --, tidak berbunga-bunga"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak bersifat pribadi; objektif: masalah itu dapat diselesaikan secara --"
+        }
+      ]
+    }
+  ]
+}

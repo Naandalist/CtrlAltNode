@@ -1,0 +1,35 @@
+{
+  "istilah": "kumat",
+  "entri": "ku.mat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kumatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.mat1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "kembali sakit; bentan; angot; kambuh: penyakitnya -- lagi sesudah beberapa lama sembuh"
+        }
+      ]
+    },
+    {
+      "lema": "ku.mat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ komat-kamit"
+        }
+      ]
+    }
+  ]
+}

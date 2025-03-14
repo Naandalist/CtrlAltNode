@@ -1,0 +1,58 @@
+{
+  "istilah": "sehat",
+  "entri": "se.hat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesehatan",
+    "menyehatkan",
+    "penyehat",
+    "penyehatan"
+  ],
+  "gabunganKata": [
+    "sehat akal",
+    "sehat dan afiat",
+    "sehat pikiran",
+    "sehat walafiat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "terbebas kepada penyakit",
+    "kataAsal": "ṣiḥḥah"
+  },
+  "data": [
+    {
+      "lema": "se.hat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "baik seluruh badan serta bagian-bagiannya (bebas dari sakit); waras: sampai tua ia tetap -- karena rajin berolahraga"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(yang) mendatangkan kebaikan pada badan: makanan dan lingkungan yang -- diperlukan bagi pertumbuhan anak-anak"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sembuh dari sakit: dokter yang merawatnya menyatakan ia telah -- dan boleh pulang segera"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "baik dan normal (tentang pikiran)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "boleh dipercaya atau masuk akal (tentang pendapat, usul, alasan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "berjalan dengan baik atau sebagaimana mestinya (tentang keadaan keuangan, ekonomi, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "dijalankan dengan hati-hati dan baik-baik (tentang politik dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

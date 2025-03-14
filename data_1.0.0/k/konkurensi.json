@@ -1,0 +1,33 @@
+{
+  "istilah": "konkurensi",
+  "entri": "kon.ku.ren.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.ku.ren.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perlawanan; persaingan; persengketaan"
+        }
+      ]
+    },
+    {
+      "lema": "kon.ku.ren.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "data atau sumber daya yang diakses oleh lebih dari seorang pengguna atau aplikasi pada waktu yang sama"
+        }
+      ]
+    }
+  ]
+}

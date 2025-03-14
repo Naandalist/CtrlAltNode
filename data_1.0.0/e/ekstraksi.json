@@ -1,0 +1,59 @@
+{
+  "istilah": "ekstraksi",
+  "entri": "eks.trak.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengekstraksi",
+    "pengekstraksi"
+  ],
+  "gabunganKata": [
+    "ekstraksi gigi",
+    "ekstraksi informasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.trak.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ringkasan atau ikhtisar; kutipan kata, contoh, atau bagian dari buku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keturunan (suatu bangsa)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "penarikan ke luar; pencabutan: -- peluru dari luka korban penembakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pencurian: -- informasi dari seseorang yang tidak mau memberikannya"
+        }
+      ]
+    },
+    {
+      "lema": "eks.trak.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Min[Mineralogi: -]",
+          "deskripsi": "penambangan batu bara atau bijih dari cebakannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "pemisahan suatu bahan dari campurannya, biasanya dengan menggunakan pelarut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "adopsi anak dari sebuah keluarga secara paksa"
+        }
+      ]
+    }
+  ]
+}

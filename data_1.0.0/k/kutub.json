@@ -1,0 +1,52 @@
+{
+  "istilah": "kutub",
+  "entri": "ku.tub",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkutub",
+    "mengutub",
+    "pengutuban",
+    "terkutub"
+  ],
+  "gabunganKata": [
+    "kutub angkasa",
+    "kutub janubi",
+    "kutub magnet",
+    "kutub magnet bumi",
+    "kutub magnetik bumi",
+    "kutub negatif",
+    "kutub positif",
+    "kutub selatan",
+    "kutub syamali",
+    "kutub utara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.tub",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujung poros atau sumbu bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujung batang magnet yang mempunyai sifat menarik besi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujung baterai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujung dari garis (rentangan dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

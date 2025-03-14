@@ -1,0 +1,33 @@
+{
+  "istilah": "bondol",
+  "entri": "bon.dol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sebangsa burung, jenis keluarga burung padi, kepala berbulu merah dengan bintik-bintik putih",
+    "kataAsal": "boṇḍol"
+  },
+  "data": [
+    {
+      "lema": "bon.dol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung kecil berkepala putih〔Munia maja〕"
+        }
+      ]
+    },
+    {
+      "lema": "bon.dol2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pendek (tentang potongan rambut): perempuan tomboi berambut --"
+        }
+      ]
+    }
+  ]
+}

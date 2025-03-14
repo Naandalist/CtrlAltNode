@@ -1,0 +1,83 @@
+{
+  "istilah": "dasar",
+  "entri": "da.sar1 bentuk tidak baku: mudasir2",
+  "bentukTidakBaku": "mudasir2",
+  "kataTurunan": [
+    "berdasar",
+    "berdasarkan",
+    "dasaran",
+    "mendasar",
+    "mendasari",
+    "mendasarkan"
+  ],
+  "gabunganKata": [
+    "dasar awan",
+    "dasar bersama",
+    "dasar laut",
+    "dasar mudasir",
+    "dasar terikat",
+    "dasar warna"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dasar, alas, bagian bawah",
+    "kataAsal": "ḍasar"
+  },
+  "data": [
+    {
+      "lema": "da.sar1 bentuk tidak baku: mudasir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah di bawah air (tentang kali, laut, dan sebagainya): ia berhasil menyelam sampai ke -- laut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian terbawah (tentang kuali, botol, dan sebagainya) di sebelah dalam atau luar: isi botol itu tinggal 1 cm dari --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lantai: rumah papan --nya ubin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "latar (warna yang menjadi alas gambar dan sebagainya): gambar bulan sabit putih pada -- warna hijau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapisan terbawah: meni dipakai sebagai cat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bakat atau pembawaan sejak lahir: tidak ada -- dagang padanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alas; fondasi: gotong-royong adalah -- masyarakat Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pokok atau pangkal suatu pendapat (ajaran, aturan); asas: apa yang akan dijadikan -- pembicaraan kita nanti; tindakan itu bertentangan dengan -- demokrasi yang sebenarnya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memang begitu (tentang adat, tabiat, kelakuan, dan sebagainya): -- pencuri, di mana pun tetap juga mencuri; -- miliknya, walaupun sudah dua hari hilang akhirnya ditemukan juga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bentuk gramatikal yang menjadi asal dari suatu bentukan"
+        }
+      ]
+    },
+    {
+      "lema": "da.sar2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "memang: -- bandel biar sudah diberi tahu masih bersikap masa bodoh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "sanggup",
+  "entri": "sang.gup",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkesanggupan",
+    "kesanggupan",
+    "menyanggupi",
+    "menyanggupkan",
+    "sesanggup"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "janji, pernyataan kesanggupan",
+    "kataAsal": "saṅgup"
+  },
+  "data": [
+    {
+      "lema": "sang.gup",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersedia; mau: saya -- menunaikan tugas itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mampu; dapat: pekerja itu -- mengangkat peti seberat itu"
+        }
+      ]
+    }
+  ]
+}

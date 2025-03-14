@@ -1,0 +1,41 @@
+{
+  "istilah": "menyerampang",
+  "entri": "serampang1 » me.nye.ram.pang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "serampang1 » me.nye.ram.pang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menombak dengan serampang (dengan cara ditusukkan atau dilemparkan)"
+        }
+      ]
+    },
+    {
+      "lema": "serampang3 » me.nye.ram.pang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melempar secara melintang dan seakan-akan sejajar dengan tanah (tentang barang yang berukuran panjang): ia ~ kaki anjing itu dengan alu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memukul (menyerang) dan sebagainya dengan sembarangan saja; merawak; merambang (mengawur): pikir dulu, jangan asal ~ saja"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mencuri dengan sembarangan saja; menyerobot: ia telah ~ apa saja yang tertinggal di luar"
+        }
+      ]
+    }
+  ]
+}

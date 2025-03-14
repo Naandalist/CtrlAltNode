@@ -1,0 +1,37 @@
+{
+  "istilah": "gayang",
+  "entri": "ga.yang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.yang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terhuyung-huyung atau tidak tegak berdiri karena mabuk (pusing kepala, pening, dan sebagainya): ia tidak dapat diajak mufakat karena masih --"
+        }
+      ]
+    },
+    {
+      "lema": "ga.yang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang tingginya bisa 35—40 meter, berasal dari Papua, buahnya mirip buah kakao, berbuah sepanjang tahun, kandungan vitamin C-nya tinggi〔Inocarpus fagifer〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah gayang"
+        }
+      ]
+    }
+  ]
+}

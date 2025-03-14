@@ -1,0 +1,34 @@
+{
+  "istilah": "kelarai",
+  "entri": "ke.la.rai /kêlarai/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengelarai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.la.rai /kêlarai/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "corak (tenunan, anyaman, dan sebagainya) yang berbentuk tapak catur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "simpul anyaman di pinggir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sulaman (tekat) pada tepi kain"
+        }
+      ]
+    }
+  ]
+}

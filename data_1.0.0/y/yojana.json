@@ -1,0 +1,28 @@
+{
+  "istilah": "yojana",
+  "entri": "yo.ja.na bentuk tidak baku: ujana1",
+  "bentukTidakBaku": "ujana1",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jalur, koneksi, ukuran jarak, jarak yang setara dengan 9 mil",
+    "kataAsal": "yojana"
+  },
+  "data": [
+    {
+      "lema": "yo.ja.na bentuk tidak baku: ujana1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "satuan ukuran panjang, sama dengan 9 mil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "jarak: se-- mata sejauh mata memandang"
+        }
+      ]
+    }
+  ]
+}

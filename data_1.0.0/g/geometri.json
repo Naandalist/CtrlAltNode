@@ -1,0 +1,28 @@
+{
+  "istilah": "geometri",
+  "entri": "ge.o.met.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.o.met.ri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "cabang matematika tentang sifat-sifat garis, sudut, bidang, dan ruang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "ilmu ukur"
+        }
+      ]
+    }
+  ]
+}

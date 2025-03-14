@@ -1,0 +1,33 @@
+{
+  "istilah": "tb",
+  "entri": "TB1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "TB1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "titik berkumpul"
+        }
+      ]
+    },
+    {
+      "lema": "TB2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "tuberkulosis"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "istilah": "cupak",
+  "entri": "cu.pak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencupak",
+    "secupak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "adat sepanjang jalan, cupak sepanjang betung; mandi dalam cupak; membawakan cupak ke negeri orang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cu.pak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "takaran beras (biasanya 1 cupak = ¼ gantang)"
+        }
+      ]
+    },
+    {
+      "lema": "cu.pak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala pengudut (tempat candu dibakar)"
+        }
+      ]
+    },
+    {
+      "lema": "cu.pak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "struktur berbentuk gelembung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "dasar bunga yang berkembang menggelembung berfungsi untuk melindungi buah"
+        }
+      ]
+    },
+    {
+      "lema": "cu.pak4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "alat dari kain atau semacamnya berbentuk lipatan-lipatan yang kedap cahaya dan/atau kedap udara, dipakai pada kamera atau alat untuk mengembus udara"
+        }
+      ]
+    }
+  ]
+}

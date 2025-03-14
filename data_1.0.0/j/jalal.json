@@ -1,0 +1,28 @@
+{
+  "istilah": "jalal",
+  "entri": "ja.lal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "keagungan",
+    "kataAsal": "jalāl"
+  },
+  "data": [
+    {
+      "lema": "ja.lal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kemuliaan; keluhuran; kebesaran"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "mahamulia"
+        }
+      ]
+    }
+  ]
+}

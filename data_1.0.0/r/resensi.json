@@ -1,0 +1,31 @@
+{
+  "istilah": "resensi",
+  "entri": "re.sen.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meresensi",
+    "peresensi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.sen.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertimbangan atau pembicaraan tentang buku; ulasan buku: majalah itu memuat -- buku-buku yang baru terbit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "pendapat atau pertimbangan redaksi tentang hasil kesenian, kesusastraan, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

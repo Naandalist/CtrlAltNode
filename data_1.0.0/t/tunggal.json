@@ -1,0 +1,52 @@
+{
+  "istilah": "tunggal",
+  "entri": "tung.gal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketunggalan",
+    "menunggal",
+    "menunggalkan",
+    "setunggal"
+  ],
+  "gabunganKata": [
+    "tunggal beleng",
+    "tunggal putra",
+    "tunggal putra remaja",
+    "tunggal putri remaja"
+  ],
+  "peribahasa": [
+    "hidung seperti dasun tunggal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tung.gal",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "satu-satunya: camat adalah penguasa -- di wilayahnya; agen --; anak --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "bukan jamak (bukan majemuk); mufrad: kalimat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "utuh; bulat-bulat: ia selalu beramal dengan -- hati"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "yang menjadi satu (tentang kata majemuk): -- rasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebelah: berdiri berkaki -- berdiri dengan kaki sebelah"
+        }
+      ]
+    }
+  ]
+}

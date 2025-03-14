@@ -1,0 +1,32 @@
+{
+  "istilah": "buku biru",
+  "entri": "buku1 » buku biru",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buku1 » buku biru",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "buku yang memuat nama-nama orang terkemuka"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "buku yang memuat saran, pertimbangan, dan usulan tentang suatu masalah: laporan berbentuk -- biru itu menyatakan bahwa roket pelambung harus diuji coba dalam kedudukan horizontal"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "buku laporan pemerintah"
+        }
+      ]
+    }
+  ]
+}

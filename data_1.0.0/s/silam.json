@@ -1,0 +1,40 @@
+{
+  "istilah": "silam",
+  "entri": "si.lam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyilam",
+    "menyilamkan",
+    "tersilam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.lam",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gelap; kelam; redup: hari sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah tenggelam (tentang matahari): pada -- matahari pada waktu senja"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lenyap; hilang: ia terus saja mengenang kejayaan dan kebesaran nenek moyangnya yang telah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah lampau (tentang masa dan sebagainya): masa -- [1] masa lalu [2] zaman dahulu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "calang",
+  "entri": "ca.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencalang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.lang1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencalang"
+        }
+      ]
+    },
+    {
+      "lema": "ca.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tidak banyak daunnya; gundul (tentang pohon)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] ki[kiasan]",
+          "deskripsi": "tidak memakai perhiasan (perabotan dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

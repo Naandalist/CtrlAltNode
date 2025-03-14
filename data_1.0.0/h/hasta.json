@@ -1,0 +1,33 @@
+{
+  "istilah": "hasta",
+  "entri": "has.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menghasta",
+    "sehasta"
+  ],
+  "gabunganKata": [
+    "hasta karya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tangan, lengan; perbintangan yang berkenaan dengan bulan kesebelas; ukuran panjang",
+    "kataAsal": "hasta"
+  },
+  "data": [
+    {
+      "lema": "has.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran sepanjang lengan bawah, sama dengan ¼ depa (dari siku sampai ke ujung jari tengah): panjangnya enam --"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Skt[Sanskerta: -]",
+          "deskripsi": "delapan"
+        }
+      ]
+    }
+  ]
+}

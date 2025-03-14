@@ -1,0 +1,49 @@
+{
+  "istilah": "padu",
+  "entri": "pa.du",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpadu",
+    "berpadu-padu",
+    "berpaduan",
+    "kepaduan",
+    "keterpaduan",
+    "memadu",
+    "memadukan",
+    "memperpadukan",
+    "paduan",
+    "pemadu",
+    "pemaduan",
+    "perpaduan",
+    "terpadu"
+  ],
+  "gabunganKata": [
+    "padu mancung",
+    "padu padan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sudut; sisi, tepi, pinggir (pertemuaan dua permukaan)",
+    "kataAsal": "padu"
+  },
+  "data": [
+    {
+      "lema": "pa.du",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "padat; pejal; kimpal (tentang logam dan sebagainya): batu bara yang --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah bercampur dan sudah menjadi satu benar: bersatu -- bersatu benar-benar (seia sekata, sehidup semati)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "utuh dan kuat; kompak: rakyat dan TNI merupakan kesatuan yang --"
+        }
+      ]
+    }
+  ]
+}

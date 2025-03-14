@@ -1,0 +1,40 @@
+{
+  "istilah": "kunjung",
+  "entri": "kun.jung1 bentuk tidak baku: unjung1",
+  "bentukTidakBaku": "unjung1",
+  "kataTurunan": [
+    "berkunjung",
+    "berkunjung-kunjungan",
+    "kunjung-mengunjungi",
+    "kunjungan",
+    "mengunjungi",
+    "pengunjung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kun.jung1 bentuk tidak baku: unjung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "datang untuk menjumpai; bertandang; berziarah"
+        }
+      ]
+    },
+    {
+      "lema": "kun.jung2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lekas; pernah: dian yang tidak -- padam"
+        }
+      ]
+    }
+  ]
+}

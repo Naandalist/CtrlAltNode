@@ -1,0 +1,29 @@
+{
+  "istilah": "lamar",
+  "entri": "la.mar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lamaran",
+    "melamar",
+    "melamarkan",
+    "pelamar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "melamar",
+    "kataAsal": "lamar"
+  },
+  "data": [
+    {
+      "lema": "la.mar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pinang"
+        }
+      ]
+    }
+  ]
+}

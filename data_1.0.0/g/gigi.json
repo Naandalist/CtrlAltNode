@@ -1,0 +1,62 @@
+{
+  "istilah": "gigi",
+  "entri": "gi.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergerigi",
+    "bergigi",
+    "bergigi-gigi",
+    "gerigi",
+    "pergigian"
+  ],
+  "gabunganKata": [
+    "gigi air",
+    "gigi asu",
+    "gigi bungsu",
+    "gigi busuk",
+    "gigi cekat",
+    "gigi gergaji",
+    "gigi hutan",
+    "gigi kapak",
+    "gigi laut",
+    "gigi mati",
+    "gigi nonvitral",
+    "gigi palsu",
+    "gigi seri",
+    "gigi sulung",
+    "gigi sumbi",
+    "gigi susu",
+    "gigi telur"
+  ],
+  "peribahasa": [
+    "gigi dengan lidah, adakalanya bergigit juga; gigi tanggal, rawan murah; lunak gigi dari lidah; lunak gigi dari lidah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gi.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tulang keras dan kecil-kecil berwarna putih yang tumbuh tersusun berakar di dalam gusi dan kegunaannya untuk mengunyah atau menggigit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang bentuknya seperti gigi: -- sisir; -- gergaji"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kekuasaan: ia mulai memperlihatkan (menunjukkan) --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "persneling"
+        }
+      ]
+    }
+  ]
+}

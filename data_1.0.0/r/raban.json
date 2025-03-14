@@ -1,0 +1,35 @@
+{
+  "istilah": "raban",
+  "entri": "ra.ban1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meraban"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.ban1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi ujar anak yang berusia sekitar 5–8 bulan, berupa pengulangan bunyi yang mirip suku kata, sebelum anak berhasil mengucapkan kata-kata, misalnya ma ma ma, ba ba ba"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ban2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Klm[Melayu Kalimantan: -]",
+          "deskripsi": "kandang ternak, biasanya dibuat di bawah rumah atau di belakang rumah"
+        }
+      ]
+    }
+  ]
+}

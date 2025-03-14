@@ -1,0 +1,33 @@
+{
+  "istilah": "kerikil",
+  "entri": "ke.ri.kil /kêrikil/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkerikil",
+    "mengerikil",
+    "mengerikili",
+    "pengerikilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kerikil",
+    "kataAsal": "karikil"
+  },
+  "data": [
+    {
+      "lema": "ke.ri.kil /kêrikil/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butiran batu lebih besar daripada pasir dan lebih kecil daripada kerakal (kira-kira sebesar biji kacang tanah atau biji nangka)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "endapan batuan yang komponennya bulat, biasanya bercampur dengan tanah liat dan pasir"
+        }
+      ]
+    }
+  ]
+}

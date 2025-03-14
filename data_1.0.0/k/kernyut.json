@@ -1,0 +1,37 @@
+{
+  "istilah": "kernyut",
+  "entri": "ker.nyut1 /kêrnyut/bentuk tidak baku: kerenyut, kerinyut",
+  "bentukTidakBaku": "kerenyut, kerinyut",
+  "kataTurunan": [
+    "bekernyut",
+    "bekernyutan",
+    "mengernyut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ker.nyut1 /kêrnyut/bentuk tidak baku: kerenyut, kerinyut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerut; kedut"
+        }
+      ]
+    },
+    {
+      "lema": "ker.nyut2 /kêrnyut/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi seperti gigi bergesekan"
+        }
+      ]
+    }
+  ]
+}

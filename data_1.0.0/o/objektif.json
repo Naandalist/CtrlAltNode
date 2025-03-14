@@ -1,0 +1,35 @@
+{
+  "istilah": "objektif",
+  "entri": "ob.jek.tif1 bentuk tidak baku: obyektif",
+  "bentukTidakBaku": "obyektif",
+  "kataTurunan": [
+    "berobjektif"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ob.jek.tif1 bentuk tidak baku: obyektif",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengenai keadaan yang sebenarnya tanpa dipengaruhi pendapat atau pandangan pribadi"
+        }
+      ]
+    },
+    {
+      "lema": "ob.jek.tif2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "kanta (lensa) pada peralatan optis yang terletak paling dekat dengan benda yang diamati"
+        }
+      ]
+    }
+  ]
+}

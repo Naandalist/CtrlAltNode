@@ -1,0 +1,45 @@
+{
+  "istilah": "tual",
+  "entri": "tu.al1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertual-tual",
+    "menual"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.al1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potongan kayu (balok) pendek-pendek: kayu ini akan dikerat menjadi beberapa --"
+        }
+      ]
+    },
+    {
+      "lema": "tu.al2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tiang bendera"
+        }
+      ]
+    },
+    {
+      "lema": "Tu.al3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota di Provinsi Maluku"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "jarong",
+  "entri": "ja.rong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.rong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "gulma yang tumbuh di pinggir jalan, berbatang kayu segi empat, bercabang banyak, berdaun tunggal silang berhadapan, bunga bulir memanjang, berbuah kecil, berkhasiat sebagai obat radang sendi dan radang amandel〔Achyranthes aspera〕"
+        }
+      ]
+    },
+    {
+      "lema": "ja.rong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "landep"
+        }
+      ]
+    },
+    {
+      "lema": "ja.rong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin kampung"
+        }
+      ]
+    }
+  ]
+}

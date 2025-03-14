@@ -1,0 +1,33 @@
+{
+  "istilah": "parako",
+  "entri": "pa.ra.ko1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ra.ko1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "para komando"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ra.ko2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "tempat perapian berupa bidang persegi empat yang dibatasi kayu dan diisi tanah supaya api tidak mencapai lantai kayu"
+        }
+      ]
+    }
+  ]
+}

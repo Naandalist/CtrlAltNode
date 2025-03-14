@@ -1,0 +1,42 @@
+{
+  "istilah": "pemayang",
+  "entri": "mayang3 » pe.ma.yang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mayang3 » pe.ma.yang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu mayang"
+        }
+      ]
+    },
+    {
+      "lema": "payang1 » pe.ma.yang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jaring besar; pukat: perahu ~"
+        }
+      ]
+    },
+    {
+      "lema": "pe.ma.yang /pêmayang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat payang1"
+        }
+      ]
+    }
+  ]
+}

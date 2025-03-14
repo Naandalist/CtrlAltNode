@@ -1,0 +1,24 @@
+{
+  "istilah": "pembaca kartu",
+  "entri": "baca » pembaca » pembaca kartu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "baca » pembaca » pembaca kartu",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "peranti untuk membaca kode data pada pita magnetis di bagian belakang kartu dan mengubahnya ke dalam kode biner untuk diproses melalui komputer"
+        }
+      ]
+    }
+  ]
+}

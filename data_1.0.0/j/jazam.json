@@ -1,0 +1,28 @@
+{
+  "istilah": "jazam",
+  "entri": "ja.zam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tanda baca huruf Arab (°) yang ditaruh di atas huruf, menyatakan bahwa huruf itu mati atau tidak diucapkan",
+    "kataAsal": "jazm"
+  },
+  "data": [
+    {
+      "lema": "ja.zam",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "memotong; memenggal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "tanda baca huruf Arab (°) yang ditaruh di atas huruf, menyatakan bahwa huruf itu mati atau tidak diucapkan"
+        }
+      ]
+    }
+  ]
+}

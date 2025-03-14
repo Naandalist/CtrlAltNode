@@ -1,0 +1,33 @@
+{
+  "istilah": "colloquium doctum",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "penyelidikan tentang pengetahuan seseorang oleh guru besar sebagai ganti ujian"
+        }
+      ]
+    },
+    {
+      "lema": "colloquium doctum",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "penyelidikan tentang pengetahuan seseorang oleh guru besar sebagai ganti ujian"
+        }
+      ]
+    }
+  ]
+}

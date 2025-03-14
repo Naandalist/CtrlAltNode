@@ -1,0 +1,62 @@
+{
+  "istilah": "sabak",
+  "entri": "sa.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyabak",
+    "menyabak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.bak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "muram; suram: mukanya -- seperti sedang dirundung kesusahan; matanya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "redup (tentang cuaca); mendung: hari --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "berlinang (tentang air mata)"
+        }
+      ]
+    },
+    {
+      "lema": "sa.bak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menyabak"
+        }
+      ]
+    },
+    {
+      "lema": "sa.bak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat tulis yang dibuat dari batu berkutub papan tipis diberi bingkai; batu tulis: pada zaman penjajahan (Belanda dan Jepang) kebanyakan murid menulis di atas --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.bak4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sebak"
+        }
+      ]
+    }
+  ]
+}

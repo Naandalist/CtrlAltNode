@@ -1,0 +1,33 @@
+{
+  "istilah": "makmum",
+  "entri": "mak.mum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermakmum",
+    "memakmumi"
+  ],
+  "gabunganKata": [
+    "makmum masbuk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengikut",
+    "kataAsal": "ma’mūm"
+  },
+  "data": [
+    {
+      "lema": "mak.mum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dipimpin (dalam salat berjemaah) oleh imam: orang itu segera berdiri dalam saf -- yang paling belakang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pengikut; penurut: apa katanya kita -- saja"
+        }
+      ]
+    }
+  ]
+}

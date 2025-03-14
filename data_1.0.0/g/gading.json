@@ -1,0 +1,68 @@
+{
+  "istilah": "gading",
+  "entri": "ga.ding1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergading",
+    "menggading"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagai tanduk bersendi gading; harimau mati meninggalkan belang, gajah mati meninggalkan gading; harimau mati meninggalkan belang, gajah mati meninggalkan gading, orang mati meninggalkan nama; manusia mati meninggalkan nama (harimau mati meninggalkan belang, gajah mati meninggalkan gading); sudah dapat gading bertuah, tanduk tiada berguna lagi; tak ada gading yang tak retak; telah dapat gading bertuah, terbuang tanduk kerbau mati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gading gajah; gading",
+    "kataAsal": "gaḍiṅ"
+  },
+  "data": [
+    {
+      "lema": "ga.ding1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "taring panjang dan tajam pada binatang (gajah, walrus) yang berguna untuk menggali atau sebagai senjata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tulang keras putih dan bersih dari gading: keris berhulu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(warna) putih kekuning-kuningan seperti gading"
+        }
+      ]
+    },
+    {
+      "lema": "ga.ding2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "dua orang anak perempuan yang mengipasi pengantin di pelaminan"
+        }
+      ]
+    },
+    {
+      "lema": "ga.ding3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Gy[Gayo: -]",
+          "deskripsi": "biji kemiri yang sudah tertanam atau tertimbun lama dan tempurungnya sudah memutih"
+        }
+      ]
+    },
+    {
+      "lema": "ga.ding4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bagian dalam perahu yang berupa sekat-sekat untuk menempelkan papan agar perahu menjadi kuat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penampang badan perahu secara keseluruhan"
+        }
+      ]
+    }
+  ]
+}

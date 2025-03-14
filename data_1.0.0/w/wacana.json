@@ -1,0 +1,46 @@
+{
+  "istilah": "wacana",
+  "entri": "wa.ca.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mewacanakan"
+  ],
+  "gabunganKata": [
+    "wacana langsung",
+    "wacana pembeberan",
+    "wacana penuturan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "janji, arah, saran, aturan, ucapan atau ungkapan, rumor, kata, pernyataan",
+    "kataAsal": "vacana"
+  },
+  "data": [
+    {
+      "lema": "wa.ca.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "komunikasi verbal; percakapan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "keseluruhan tutur yang merupakan suatu kesatuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan bahasa terlengkap yang direalisasikan dalam bentuk karangan atau laporan utuh, seperti novel, buku, artikel, pidato, atau khotbah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kemampuan atau prosedur berpikir secara sistematis; kemampuan atau proses memberikan pertimbangan berdasarkan akal sehat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pertukaran ide secara verbal"
+        }
+      ]
+    }
+  ]
+}

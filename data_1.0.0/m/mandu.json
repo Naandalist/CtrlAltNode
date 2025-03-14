@@ -1,0 +1,33 @@
+{
+  "istilah": "mandu",
+  "entri": "man.du1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.du1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendirian; kaidah"
+        }
+      ]
+    },
+    {
+      "lema": "man.du2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kor[Korea: ]",
+          "deskripsi": "pangsit khas Korea, biasanya menggunakan tofu"
+        }
+      ]
+    }
+  ]
+}

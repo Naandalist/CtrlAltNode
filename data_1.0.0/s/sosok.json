@@ -1,0 +1,52 @@
+{
+  "istilah": "sosok",
+  "entri": "so.sok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersosok",
+    "menyosok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "seperti dicurahkan",
+    "kataAsal": "sosok"
+  },
+  "data": [
+    {
+      "lema": "so.sok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang (pada jerat dan sebagainya); lubang kancing baju; kelim (pelipit) yang berlubang (untuk memasukkan tali, tongkat, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "so.sok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk wujud atau rupa; rangka (perahu dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk (rupa) tubuh: -- tubuhnya sama seperti ayahnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bayangan badan: baru saja ia keluar, dua -- mengendap-endap mengikutinya dari belakang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "bakal (ladang, negeri, dan sebagainya); permulaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tokoh; pribadi"
+        }
+      ]
+    }
+  ]
+}

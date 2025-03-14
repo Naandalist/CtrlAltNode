@@ -1,0 +1,49 @@
+{
+  "istilah": "pulas",
+  "entri": "pu.las1 bentuk tidak baku: pules",
+  "bentukTidakBaku": "pules",
+  "kataTurunan": [
+    "kepulasan",
+    "memulas",
+    "terpulas",
+    "berpulasan",
+    "memulas",
+    "pulasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.las1 bentuk tidak baku: pules",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nyenyak (tentang tidur): anak-anak sudah --; sesudah itu, dia pun -- mendengkur"
+        }
+      ]
+    },
+    {
+      "lema": "pu.las2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memulas"
+        }
+      ]
+    },
+    {
+      "lema": "pu.las3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "memulas"
+        }
+      ]
+    }
+  ]
+}

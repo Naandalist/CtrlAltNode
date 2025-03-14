@@ -1,0 +1,38 @@
+{
+  "istilah": "jengkang",
+  "entri": "jeng.kang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jengkang-jengkot",
+    "menjengkang",
+    "menjengkang",
+    "terjengkang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jatuh terjengkang",
+    "kataAsal": "jěṅkaṅ"
+  },
+  "data": [
+    {
+      "lema": "jeng.kang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengangkat kaki sebelah"
+        }
+      ]
+    },
+    {
+      "lema": "jeng.kang /jêngkang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terjengkang"
+        }
+      ]
+    }
+  ]
+}

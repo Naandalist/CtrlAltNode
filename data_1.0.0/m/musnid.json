@@ -1,0 +1,24 @@
+{
+  "istilah": "musnid",
+  "entri": "mus.nid",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang menyandarkan",
+    "kataAsal": "musnid"
+  },
+  "data": [
+    {
+      "lema": "mus.nid",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "orang yang sudah mampu meriwayatkan hadis dengan menyebutkan sanadnya sekalipun belum tahu persis"
+        }
+      ]
+    }
+  ]
+}

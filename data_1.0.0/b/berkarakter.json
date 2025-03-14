@@ -1,0 +1,33 @@
+{
+  "istilah": "berkarakter",
+  "entri": "karakter1 » ber.ka.rak.ter",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "karakter1 » ber.ka.rak.ter",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memiliki karakter; mempunyai kepribadian; berwatak"
+        }
+      ]
+    },
+    {
+      "lema": "karakter2 » ber.ka.rak.ter",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memiliki karakter"
+        }
+      ]
+    }
+  ]
+}

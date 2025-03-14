@@ -1,0 +1,44 @@
+{
+  "istilah": "kutil",
+  "entri": "ku.til1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengutil",
+    "pengutil",
+    "sekutil"
+  ],
+  "gabunganKata": [
+    "kutil kelamin",
+    "kutil plantar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menderita bintil-bintil",
+    "kataAsal": "kutil"
+  },
+  "data": [
+    {
+      "lema": "ku.til1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bintil merah kecil, seperti jerawat pada kulit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisa kecil kelapa yang diparut"
+        }
+      ]
+    },
+    {
+      "lema": "ku.til2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "ambil sedikit-sedikit"
+        }
+      ]
+    }
+  ]
+}

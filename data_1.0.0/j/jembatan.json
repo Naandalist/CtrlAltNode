@@ -1,0 +1,55 @@
+{
+  "istilah": "jembatan",
+  "entri": "jem.ba.tan /jêmbatan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjembatani",
+    "penjembatanan",
+    "terjembatani"
+  ],
+  "gabunganKata": [
+    "jembatan angkat",
+    "jembatan belalai",
+    "jembatan dua tali",
+    "jembatan emas",
+    "jembatan gantung",
+    "jembatan gelagar",
+    "jembatan gelagar tunggal",
+    "jembatan keledai",
+    "jembatan langit",
+    "jembatan layang",
+    "jembatan panggung",
+    "jembatan penyeberangan orang",
+    "jembatan ponton",
+    "jembatan rakit terapung",
+    "jembatan tepi",
+    "jembatan terapung",
+    "jembatan timbang",
+    "jembatan Wheatstone"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jem.ba.tan /jêmbatan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan (dari bambu, kayu, beton, dan sebagainya) yang direntangkan di atas sungai (jurang, tepi pangkalan, dan sebagainya); titian besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "perantara; penghubung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "peranti yang menghubungkan dua jaringan area lokal, jaringan itu menggunakan protokol yang sama atau tidak, dan memungkinkan informasi mengalir di antara jaringan tersebut"
+        }
+      ]
+    }
+  ]
+}

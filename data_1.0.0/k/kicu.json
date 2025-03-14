@@ -1,0 +1,33 @@
+{
+  "istilah": "kicu",
+  "entri": "ki.cu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengicu",
+    "pengicu",
+    "pengicuan",
+    "terkicu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.cu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecoh; tipu: kena --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penipu"
+        }
+      ]
+    }
+  ]
+}

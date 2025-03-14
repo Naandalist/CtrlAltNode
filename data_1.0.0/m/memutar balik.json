@@ -1,0 +1,32 @@
+{
+  "istilah": "memutar balik",
+  "entri": "putar balik » me.mu.tar ba.lik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "putar balik » me.mu.tar ba.lik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memutar ke arah yang berlawanan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mengatakan (mengutarakan) yang tidak sebenarnya; memutar-mutar kenyataan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "membelit-belit (tentang perkataan, janji, kebenaran, berita, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

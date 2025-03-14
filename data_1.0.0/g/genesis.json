@@ -1,0 +1,37 @@
+{
+  "istilah": "genesis",
+  "entri": "ge.ne.sis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.ne.sis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "awal mula sesuatu; asal-usul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "asal mula pembentukan batuan atau mineral"
+        }
+      ]
+    },
+    {
+      "lema": "Ge.ne.sis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "kitab Kejadian"
+        }
+      ]
+    }
+  ]
+}

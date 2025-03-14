@@ -1,0 +1,87 @@
+{
+  "istilah": "selang",
+  "entri": "se.lang1 /sêlang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berselang",
+    "berselang-selang",
+    "menyelang",
+    "menyelang-nyelangkan",
+    "menyelangkan",
+    "penyelang",
+    "terselang",
+    "berselang-tenggang",
+    "memperselangi",
+    "memperselangkan",
+    "menyelang",
+    "menyelangi",
+    "menyelangkan"
+  ],
+  "gabunganKata": [
+    "selang antara",
+    "selang beberapa lama",
+    "selang sebulan",
+    "selang sehari",
+    "selang surup",
+    "selang waktu",
+    "selang waktu khusus dunia",
+    "selang tenggang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ganti, giliran, selingan; saling, satu sama lain",
+    "kataAsal": "sělaṅ"
+  },
+  "data": [
+    {
+      "lema": "se.lang1 /sêlang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "antara atau sela (waktu, peristiwa, ruang, dan sebagainya); lat: -- sebulan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang mengantarai; selangan: tanaman --"
+        }
+      ]
+    },
+    {
+      "lema": "se.lang2 /sêlang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "pinjam"
+        }
+      ]
+    },
+    {
+      "lema": "se.lang3 /sêlang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tempat di samping tangga yang masuk ke serambi (tempat membasuh kaki dan meletakkan terompah dan sebagainya sebelum masuk ke dalam rumah)"
+        }
+      ]
+    },
+    {
+      "lema": "selang4 /sêlang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ slang2"
+        }
+      ]
+    },
+    {
+      "lema": "se.lang5 /sêlang/",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sementara; pada waktu; sedang"
+        }
+      ]
+    }
+  ]
+}

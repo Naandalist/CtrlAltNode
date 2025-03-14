@@ -1,0 +1,33 @@
+{
+  "istilah": "benara",
+  "entri": "be.na.ra1 /bênara/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.na.ra1 /bênara/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penatu"
+        }
+      ]
+    },
+    {
+      "lema": "be.na.ra2 /bênara/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menara"
+        }
+      ]
+    }
+  ]
+}

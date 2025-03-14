@@ -1,0 +1,56 @@
+{
+  "istilah": "tumang",
+  "entri": "tu.mang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menumang",
+    "menumangkan"
+  ],
+  "gabunganKata": [
+    "tumang tungku"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.mang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancang kecil (untuk menyangga, tambatan tali kemah, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tu.mang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menumang"
+        }
+      ]
+    },
+    {
+      "lema": "tu.mang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah tepung sagu berbentuk piramida dan terbuat dari rumbia"
+        }
+      ]
+    },
+    {
+      "lema": "tu.mang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tungku dari pohon pisang"
+        }
+      ]
+    }
+  ]
+}

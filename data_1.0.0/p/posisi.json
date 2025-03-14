@@ -1,0 +1,54 @@
+{
+  "istilah": "posisi",
+  "entri": "po.si.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berposisi",
+    "memosisikan",
+    "memposisikan",
+    "pemosisian"
+  ],
+  "gabunganKata": [
+    "posisi anatomis standar",
+    "posisi beli",
+    "posisi defensif",
+    "posisi dominan",
+    "posisi elongasi",
+    "posisi jual",
+    "posisi kendur",
+    "posisi keuangan",
+    "posisi pelambatan",
+    "posisi pemain",
+    "posisi ramalan",
+    "posisi rentan",
+    "posisi serbu",
+    "posisi sintaktis",
+    "posisi tanah",
+    "posisi tawar",
+    "posisi tembak",
+    "posisi tipuan",
+    "posisi tubuh",
+    "posisi utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.si.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "letak: kedudukan (orang, barang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jabatan; pangkat (dalam jabatan)"
+        }
+      ]
+    }
+  ]
+}

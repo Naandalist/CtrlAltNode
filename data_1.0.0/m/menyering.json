@@ -1,0 +1,37 @@
+{
+  "istilah": "menyering",
+  "entri": "sering1 » me.nye.ring",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sering1 » me.nye.ring",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memilin erat-erat dengan lilin (tentang tali, benang)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengedapkan (menguatkan) tenunan (anyaman)"
+        }
+      ]
+    },
+    {
+      "lema": "sering4 » me.nye.ring",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengisap madu bunga; menyeri"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "jambe",
+  "entri": "jam.be1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jam.be1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pinang sirih〔Areca catechu〕"
+        }
+      ]
+    },
+    {
+      "lema": "jam.be2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "ayam jantan yang tua dan tidak berbulu"
+        }
+      ]
+    }
+  ]
+}

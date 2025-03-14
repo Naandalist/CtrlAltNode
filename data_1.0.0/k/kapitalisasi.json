@@ -1,0 +1,42 @@
+{
+  "istilah": "kapitalisasi",
+  "entri": "ka.pi.ta.li.sa.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengapitalisasi",
+    "mengapitalisasikan"
+  ],
+  "gabunganKata": [
+    "kapitalisasi pendidikan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.pi.ta.li.sa.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggunaan utang atau pengeluaran teranggarkan sebagai modal atau aset untuk pembangunan atau bisnis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan mengapitalkan"
+        }
+      ]
+    },
+    {
+      "lema": "ka.pi.ta.li.sa.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggunaan huruf kapital dalam tulisan atau cetakan: aplikasi itu akan secara otomatis melakukan -- huruf pertama di awal kalimat"
+        }
+      ]
+    }
+  ]
+}

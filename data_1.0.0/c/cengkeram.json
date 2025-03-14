@@ -1,0 +1,48 @@
+{
+  "istilah": "cengkeram",
+  "entri": "ceng.ke.ram1 /cêngkêram/bentuk tidak baku: cengkram",
+  "bentukTidakBaku": "cengkramcekeram",
+  "kataTurunan": [
+    "cengkeraman",
+    "mencengkeram",
+    "mencengkeramkan",
+    "pencengkeram",
+    "pencengkeraman",
+    "tercengkeram"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ceng.ke.ram1 /cêngkêram/bentuk tidak baku: cengkram",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memegang erat-erat dengan cakar (kuku)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menguasai (menggenggam)"
+        }
+      ]
+    },
+    {
+      "lema": "ceng.ke.ram2 /cêngkêram/bentuk tidak baku: cekeram",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang muka (sebelum pesanan dan sebagainya dikerjakan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang panjar; sesuatu yang dipakai sebagai tanggungan utang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "gelam",
+  "entri": "ge.lam1 /gêlam/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.lam1 /gêlam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, kayunya agak keras dan berat, berwarna putih kelabu, digunakan dalam pembuatan perahu-perahu kecil; daun yang muda menghasilkan sedikit minyak; kayu putih〔Melaleuca leucadendra〕"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lam2 /gêlam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna cokelat kemerah-merahan"
+        }
+      ]
+    }
+  ]
+}

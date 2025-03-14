@@ -1,0 +1,37 @@
+{
+  "istilah": "sodet",
+  "entri": "so.det1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyodet",
+    "penyodetan",
+    "sodetan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.det1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "sendok ceper besar yang terbuat dari seng dan sebagainya untuk mengaduk sesuatu yang sedang digoreng"
+        }
+      ]
+    },
+    {
+      "lema": "so.det2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "toreh atau robek"
+        }
+      ]
+    }
+  ]
+}

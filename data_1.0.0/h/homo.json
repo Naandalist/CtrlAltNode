@@ -1,0 +1,41 @@
+{
+  "istilah": "homo",
+  "entri": "ho.mo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhomo",
+    "menghomoi"
+  ],
+  "gabunganKata": [
+    "homo kuadratus",
+    "homo Neanderthalensis",
+    "homo Sapiens",
+    "homo Wajakensis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ho.mo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluarga manusia, termasuk famili Hominidae, selain meliputi makhluk manusia yang ada sekarang, juga meliputi makhluk manusia purba, seperti Neanderthal dan Pithecantropus"
+        }
+      ]
+    },
+    {
+      "lema": "ho.mo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "homoseksual"
+        }
+      ]
+    }
+  ]
+}

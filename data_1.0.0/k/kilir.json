@@ -1,0 +1,37 @@
+{
+  "istilah": "kilir",
+  "entri": "ki.lir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kiliran",
+    "mengilir",
+    "terkilir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.lir1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gosok; asah"
+        }
+      ]
+    },
+    {
+      "lema": "ki.lir2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terkilir"
+        }
+      ]
+    }
+  ]
+}

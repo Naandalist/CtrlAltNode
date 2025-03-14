@@ -1,0 +1,65 @@
+{
+  "istilah": "huruf",
+  "entri": "hu.ruf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhuruf"
+  ],
+  "gabunganKata": [
+    "huruf akik",
+    "huruf Arab Melayu",
+    "huruf awal",
+    "huruf balok",
+    "huruf besar",
+    "huruf biasa",
+    "huruf blasteran",
+    "huruf bunyi",
+    "huruf cetak",
+    "huruf harakat",
+    "huruf hias",
+    "huruf hidup",
+    "huruf hijaiah",
+    "huruf Jawi",
+    "huruf kamariah",
+    "huruf kapital",
+    "huruf kecil",
+    "huruf konsonan",
+    "huruf kursif",
+    "huruf kurus",
+    "huruf Latin",
+    "huruf lebar",
+    "huruf lemari atas",
+    "huruf lisani",
+    "huruf mati",
+    "huruf miring",
+    "huruf pameran",
+    "huruf pegon",
+    "huruf pertama",
+    "huruf Roman",
+    "huruf Romawi",
+    "huruf syamsiah",
+    "huruf tebal",
+    "huruf tegak",
+    "huruf timbul",
+    "huruf tulis",
+    "huruf vet",
+    "huruf vokal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pinggir; cara; aksara; dialek",
+    "kataAsal": "ḥurūf"
+  },
+  "data": [
+    {
+      "lema": "hu.ruf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda aksara dalam tata tulis yang merupakan anggota abjad yang melambangkan bunyi bahasa; aksara: -- Arab; -- Cina"
+        }
+      ]
+    }
+  ]
+}

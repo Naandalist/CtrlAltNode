@@ -1,0 +1,49 @@
+{
+  "istilah": "sorong",
+  "entri": "so.rong bentuk tidak baku: surung",
+  "bentukTidakBaku": "surung",
+  "kataTurunan": [
+    "menyorong",
+    "menyorong-nyorongkan",
+    "menyorongkan",
+    "sorongan",
+    "tersorong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "hidung tak mancung, pipi tersorong-sorong; tahan jerat, sorong kepala"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.rong bentuk tidak baku: surung",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bergeser maju: kotak --; pintu --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tolak; dorong: air -- buih air pasang turun; angin -- buritan angin yang datang dari sebelah perahu atau dari belakang perahu; gerobak -- gerobak yang beroda satu dan ditolak dari belakang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sogok (uang suap): kena (makan) --"
+        }
+      ]
+    },
+    {
+      "lema": "So.rong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota di Provinsi Papua Barat, dikenal sebagai Kota Minyak"
+        }
+      ]
+    }
+  ]
+}

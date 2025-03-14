@@ -1,0 +1,46 @@
+{
+  "istilah": "piting",
+  "entri": "pi.ting1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memiting",
+    "piting-memiting",
+    "pitingan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.ting1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "apit atau jepit (dengan kaki atau lengan)"
+        }
+      ]
+    },
+    {
+      "lema": "pi.ting2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tampuk lampu listrik"
+        }
+      ]
+    },
+    {
+      "lema": "pi.ting3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kepiting"
+        }
+      ]
+    }
+  ]
+}

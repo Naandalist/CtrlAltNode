@@ -1,0 +1,37 @@
+{
+  "istilah": "gili",
+  "entri": "gi.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gilian",
+    "menggili",
+    "menggili-gili"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gi.li1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gelitik"
+        }
+      ]
+    },
+    {
+      "lema": "gi.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ss[Sasak: -]",
+          "deskripsi": "pulau kecil"
+        }
+      ]
+    }
+  ]
+}

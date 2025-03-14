@@ -1,0 +1,39 @@
+{
+  "istilah": "papas",
+  "entri": "pa.pas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memapas",
+    "pemapasan",
+    "berpapasan",
+    "memapas",
+    "papasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menghadap, menantang, berlawanan",
+    "kataAsal": "papas"
+  },
+  "data": [
+    {
+      "lema": "pa.pas1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memapas; pemapasan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.pas2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jumpa"
+        }
+      ]
+    }
+  ]
+}

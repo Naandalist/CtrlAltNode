@@ -1,0 +1,34 @@
+{
+  "istilah": "sinus",
+  "entri": "si.nus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sinus etmoid",
+    "sinus frontalis",
+    "sinus maksila",
+    "sinus maksilaris",
+    "sinus stenoid"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.nus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "rongga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "ruang atau saluran tempat nanah keluar"
+        }
+      ]
+    }
+  ]
+}

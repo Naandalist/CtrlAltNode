@@ -1,0 +1,28 @@
+{
+  "istilah": "lepau",
+  "entri": "le.pau /lêpau/bentuk tidak baku: lapo",
+  "bentukTidakBaku": "lapo",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.pau /lêpau/bentuk tidak baku: lapo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warung kecil; kedai nasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "beranda di belakang rumah (untuk dapur dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

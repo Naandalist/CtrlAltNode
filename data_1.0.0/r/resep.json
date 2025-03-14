@@ -1,0 +1,31 @@
+{
+  "istilah": "resep",
+  "entri": "re.sep /rêsep/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meresepkan",
+    "peresepan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.sep /rêsep/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan dokter tentang obat serta takarannya, yang harus dipakai oleh si sakit dan dapat ditukar dengan obat di apotek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan tentang bahan dan cara meracik obat (memasak makanan)"
+        }
+      ]
+    }
+  ]
+}

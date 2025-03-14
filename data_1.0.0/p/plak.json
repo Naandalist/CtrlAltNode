@@ -1,0 +1,39 @@
+{
+  "istilah": "plak",
+  "entri": "plak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "plak gigi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "plak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "daerah bening di sekeliling sel-sel yang peka, disebabkan oleh replikasi virus"
+        }
+      ]
+    },
+    {
+      "lema": "plak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "sesuatu yang menempel atau melekat; tepek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "lapisan tipis pada gigi, biasanya lengket dan tak berwarna, yang terbentuk dari sisa-sisa makanan dan mengandung bakteri"
+        }
+      ]
+    }
+  ]
+}

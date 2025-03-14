@@ -1,0 +1,24 @@
+{
+  "istilah": "morfosintaksis",
+  "entri": "mor.fo.sin.tak.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mor.fo.sin.tak.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "telaah tentang kategori gramatikal yang secara bersamaan mempertimbangkan kriteria morfologi dan sintaksis"
+        }
+      ]
+    }
+  ]
+}

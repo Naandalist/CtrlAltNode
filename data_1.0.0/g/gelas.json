@@ -1,0 +1,58 @@
+{
+  "istilah": "gelas",
+  "entri": "ge.las1 /gêlas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergelas-gelas",
+    "bergelas-gelasan",
+    "gelasan",
+    "menggelas",
+    "segelas"
+  ],
+  "gabunganKata": [
+    "gelas bir",
+    "gelas brendi",
+    "gelas duga",
+    "gelas fiber",
+    "gelas goblet",
+    "gelas isap",
+    "gelas kimia",
+    "gelas koktail",
+    "gelas piala",
+    "gelas sampanye",
+    "gelas takar",
+    "gelas timpus",
+    "gelas ukur",
+    "gelas wiski"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.las1 /gêlas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat untuk minum, berbentuk tabung terbuat dari kaca dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kaca"
+        }
+      ]
+    },
+    {
+      "lema": "ge.las2 /gêlas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekal; persediaan; simpanan (menghadapi saat atau waktu susah)"
+        }
+      ]
+    }
+  ]
+}

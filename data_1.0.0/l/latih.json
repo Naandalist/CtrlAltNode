@@ -1,0 +1,31 @@
+{
+  "istilah": "latih",
+  "entri": "la.tih",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlatih",
+    "latihan",
+    "melatih",
+    "pelatih",
+    "pelatihan",
+    "terlatih"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berhasil, laku, menangkap banyak",
+    "kataAsal": "latih"
+  },
+  "data": [
+    {
+      "lema": "la.tih",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ajar"
+        }
+      ]
+    }
+  ]
+}

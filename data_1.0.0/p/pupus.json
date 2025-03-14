@@ -1,0 +1,37 @@
+{
+  "istilah": "pupus",
+  "entri": "pu.pus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memupus",
+    "memupuskan",
+    "terpupus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "daun pisang dan palma lirang muda (yang sedang membuka)",
+    "kataAsal": "pupus"
+  },
+  "data": [
+    {
+      "lema": "pu.pus1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "habis sama sekali; hilang lenyap; punah: harta bendanya telah --; -- harapan"
+        }
+      ]
+    },
+    {
+      "lema": "pu.pus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pucuk yang masih muda; daun muda: -- daun pisang"
+        }
+      ]
+    }
+  ]
+}

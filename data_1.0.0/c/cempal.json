@@ -1,0 +1,37 @@
+{
+  "istilah": "cempal",
+  "entri": "cem.pal2 /cêm.pal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cem.pal2 /cêm.pal/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "memberi hadiah berupa kain, uang, pakaian, atau makanan untuk bayi yang baru lahir"
+        }
+      ]
+    },
+    {
+      "lema": "cem.pal1 /cêmpal/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun dan sebagainya yang dipakai untuk mengambil kotoran dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain atau sarung tangan tebal yang digunakan untuk mengangkat panci, wajan, atau loyang yang panas dari kompor atau oven; lampin"
+        }
+      ]
+    }
+  ]
+}

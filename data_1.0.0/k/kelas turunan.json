@@ -1,0 +1,24 @@
+{
+  "istilah": "kelas turunan",
+  "entri": "kelas1 » kelas turunan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kelas1 » kelas turunan",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "kelas yang diciptakan dari kelas lain, yang disebut kelas dasar dalam pemrograman berorientasi objek"
+        }
+      ]
+    }
+  ]
+}

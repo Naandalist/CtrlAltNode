@@ -1,0 +1,53 @@
+{
+  "istilah": "rombong",
+  "entri": "rom.bong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merombong",
+    "rombongan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rom.bong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bakul besar yang bertutup, terutama yang dibuat dari daun mengkuang (untuk tempat padi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kambut besar dari daun pandan tempat menyimpan padi atau beras"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kambut kecil dari daun pandan tempat menyimpan sirih dengan alat-alatnya atau tempat menyimpan jahitan"
+        }
+      ]
+    },
+    {
+      "lema": "rom.bong2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merombong"
+        }
+      ]
+    },
+    {
+      "lema": "rom.bong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerobak dorong untuk berjualan pedagang kaki lima"
+        }
+      ]
+    }
+  ]
+}

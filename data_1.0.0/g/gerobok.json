@@ -1,0 +1,40 @@
+{
+  "istilah": "gerobok",
+  "entri": "ge.ro.bok1 /gêrobok/bentuk tidak baku: gerubuk1",
+  "bentukTidakBaku": "gerubuk1",
+  "kataTurunan": [
+    "bergerobok",
+    "menggerobok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.ro.bok1 /gêrobok/bentuk tidak baku: gerubuk1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bergerobok; menggerobok"
+        }
+      ]
+    },
+    {
+      "lema": "ge.ro.bok2 /gêrobok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "lemari dari bambu (tempat menyimpan makanan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "peti besar (tempat pakaian dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

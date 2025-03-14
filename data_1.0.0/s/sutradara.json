@@ -1,0 +1,35 @@
+{
+  "istilah": "sutradara",
+  "entri": "sut.ra.da.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesutradaraan",
+    "menyutradarai",
+    "penyutradaraan"
+  ],
+  "gabunganKata": [
+    "sutradara teknik",
+    "sutradara televisi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "menjadi kepala atau orang yang memimpin pertunjukan, pemimpin panggung atau pentas, ahli bangunan, tukang kayu",
+    "kataAsal": "sūtradhāra"
+  },
+  "data": [
+    {
+      "lema": "sut.ra.da.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memberi pengarahan dan bertanggung jawab atas masalah artistik dan teknis dalam pementasan drama, pembuatan film, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "sosok guru, pimpinan, pengelola yang berperan terhadap keberhasilan pertunjukan"
+        }
+      ]
+    }
+  ]
+}

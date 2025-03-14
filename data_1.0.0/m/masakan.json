@@ -1,0 +1,43 @@
+{
+  "istilah": "masakan",
+  "entri": "masak1 » ma.sak.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "jikalau tidak berada-ada (ada berada, ada mengada), masakan tempua bersarang rendah; kalau tak ada api, masakan ada asap"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "masak1 » ma.sak.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil memasak (lauk-pauk, penganan, dan sebagainya): ~ restoran ini terkenal enak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan atau lauk-pauk yang dimasak: banyak orang menyukai ~ padang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "bukan sebenarnya; buatan: kabar itu ~ manusia iseng saja"
+        }
+      ]
+    },
+    {
+      "lema": "masak2 » ma.sa.kan",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "masak"
+        }
+      ]
+    }
+  ]
+}

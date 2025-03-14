@@ -1,0 +1,62 @@
+{
+  "istilah": "samak",
+  "entri": "sa.mak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyamak",
+    "penyamak",
+    "penyamakan",
+    "menyamak",
+    "penyamakan",
+    "menyamakkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pendengaran",
+    "kataAsal": "sam‘"
+  },
+  "data": [
+    {
+      "lema": "sa.mak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan yang menghasilkan bahan (zat) untuk memasak kulit binatang agar menjadi berwarna dan tahan lama (banyak macamnya, seperti -- paya, -- pulut, -- pasir, dan -- serai)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat (bahan) untuk memasak kulit binatang"
+        }
+      ]
+    },
+    {
+      "lema": "sa.mak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan gelasan benang layang-layang"
+        }
+      ]
+    },
+    {
+      "lema": "sa.mak3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "susah; gundah: tampak pemuda itu -- karena ditinggalkan kekasihnya"
+        }
+      ]
+    },
+    {
+      "lema": "sa.mak4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mendengar, sifat yang wajib bagi Allah"
+        }
+      ]
+    }
+  ]
+}

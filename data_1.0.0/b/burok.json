@@ -1,0 +1,33 @@
+{
+  "istilah": "burok",
+  "entri": "bu.rok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.rok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengarakan boneka pengantin tebu untuk menandai dimulainya musim giling tebu di Cirebon"
+        }
+      ]
+    },
+    {
+      "lema": "bu.rok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "batu karang yang tampak di dalam laut"
+        }
+      ]
+    }
+  ]
+}

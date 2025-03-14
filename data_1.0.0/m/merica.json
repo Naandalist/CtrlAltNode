@@ -1,0 +1,32 @@
+{
+  "istilah": "merica",
+  "entri": "me.ri.ca /mêrica/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "merica batak",
+    "merica hitam",
+    "merica putih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "lada, sejenis kemangi atau selasih, lada hitam",
+    "kataAsal": "marica"
+  },
+  "data": [
+    {
+      "lema": "me.ri.ca /mêrica/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman merambat, seperti sirih, buahnya bulat kecil〔Piper nigrum〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah tanaman merica; lada; sahang"
+        }
+      ]
+    }
+  ]
+}

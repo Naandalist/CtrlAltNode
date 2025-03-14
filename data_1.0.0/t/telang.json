@@ -1,0 +1,44 @@
+{
+  "istilah": "telang",
+  "entri": "te.lang1 /têlang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertelang-telang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.lang1 /têlang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buluh yang tipis sekali, biasa dipakai untuk memasak lemang dan biasa dianyam menjadi dinding"
+        }
+      ]
+    },
+    {
+      "lema": "te.lang2 /têlang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat bunga1"
+        }
+      ]
+    },
+    {
+      "lema": "te.lang3 /têlang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis-garis seperti kulit harimau"
+        }
+      ]
+    }
+  ]
+}

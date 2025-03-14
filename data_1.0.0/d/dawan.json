@@ -1,0 +1,37 @@
+{
+  "istilah": "dawan",
+  "entri": "da.wan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.wan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang-barang milik pribadi di suku Dayak"
+        }
+      ]
+    },
+    {
+      "lema": "Da.wan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami beberapa daerah yang tersebar di Pulau Timor, Provinsi Nusa Tenggara Timur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Dawan"
+        }
+      ]
+    }
+  ]
+}

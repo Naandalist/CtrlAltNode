@@ -1,0 +1,37 @@
+{
+  "istilah": "lauh",
+  "entri": "la.uh1",
+  "bentukTidakBaku": "loh",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kepingan kayu sebagai alas menulis; papan",
+    "kataAsal": "lauḥ"
+  },
+  "data": [
+    {
+      "lema": "la.uh1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang hidup di laut atau payau, ukurannya mencapai 13 cm, hidup di dasar perairan tropis, tersebar di perairan Thailand, Malaysia, dan Indonesia sampai Papua Nugini〔Filimanus heptadactyla〕"
+        }
+      ]
+    },
+    {
+      "lema": "la.uh2 bentuk tidak baku: loh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kepingan dari batu atau kayu sebagai alas menulis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "kepingan batu atau kayu yang bertuliskan kitab Taurat yang diterima Nabi Musa a.s. setelah bermunajat di Gunung Sinai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "istilah": "ganda",
+  "entri": "gan.da1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berganda",
+    "berganda-ganda",
+    "ganda-berganda",
+    "memperganda-gandakan",
+    "mempergandakan",
+    "mengganda",
+    "menggandakan",
+    "pengganda",
+    "penggandaan",
+    "pergandaan"
+  ],
+  "gabunganKata": [
+    "ganda campuran",
+    "ganda putra remaja",
+    "ganda putri remaja",
+    "ganda rasa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gan.da1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(tentang hitungan) kali; lipat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbayang (seakan-akan ada dua): dengan teknik pemotretan tertentu kita dapat menghasilkan gambar --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berpasangan (terdiri atas dua); berpasangan dua-dua (dalam bulu tangkis, tenis, dan sebagainya): pemain --"
+        }
+      ]
+    },
+    {
+      "lema": "gan.da2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bau"
+        }
+      ]
+    },
+    {
+      "lema": "gan.da3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berani melawan (meskipun tidak seimbang)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sanggup mengerjakan sesuatu dengan tenaga yang lebih sedikit (meremehkan)"
+        }
+      ]
+    }
+  ]
+}

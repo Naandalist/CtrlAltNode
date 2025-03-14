@@ -1,0 +1,32 @@
+{
+  "istilah": "merunut",
+  "entri": "runut » me.ru.nut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "runut » me.ru.nut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengikuti jejak: mereka ~ jejak itu sampai ke hilir sungai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mengusut perkara; menyelidiki; mencari pencuri (keterangan): polisi ~ perkara pembunuhan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menelusuri kembali (asal bentuk bahasa dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

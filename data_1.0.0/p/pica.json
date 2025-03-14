@@ -1,0 +1,36 @@
+{
+  "istilah": "pica",
+  "entri": "pi.ca1 bentuk tidak baku: picah",
+  "bentukTidakBaku": "picah",
+  "kataTurunan": [
+    "memicakan",
+    "terpica"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.ca1 bentuk tidak baku: picah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memicakan"
+        }
+      ]
+    },
+    {
+      "lema": "pi.ca2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pecah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "darab",
+  "entri": "da.rab1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendarab",
+    "mendarab"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pukulan",
+    "kataAsal": "ḍarb"
+  },
+  "data": [
+    {
+      "lema": "da.rab1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pukulan keras: -- cemeti Johan Alam mengenai penghulu pendekar itu"
+        }
+      ]
+    },
+    {
+      "lema": "da.rab2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "hasil kali"
+        }
+      ]
+    }
+  ]
+}

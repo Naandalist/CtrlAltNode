@@ -1,0 +1,38 @@
+{
+  "istilah": "tegun",
+  "entri": "te.gun1 /têgun/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertegun",
+    "menegun",
+    "tertegun",
+    "tertegun-tegun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.gun1 /têgun/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menegun"
+        }
+      ]
+    },
+    {
+      "lema": "te.gun2 /têgun/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kuat dan tegar: ia -- sebagai serdadu jaga"
+        }
+      ]
+    }
+  ]
+}

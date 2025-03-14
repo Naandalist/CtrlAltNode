@@ -1,0 +1,35 @@
+{
+  "istilah": "kapan",
+  "entri": "ka.pan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kapan-kapan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.pan1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk menanyakan waktu: -- dia akan pergi?"
+        }
+      ]
+    },
+    {
+      "lema": "ka.pan2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kafan"
+        }
+      ]
+    }
+  ]
+}

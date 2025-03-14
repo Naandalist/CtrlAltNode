@@ -1,0 +1,53 @@
+{
+  "istilah": "lebar",
+  "entri": "le.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelebaran",
+    "melebar",
+    "melebarkan",
+    "memperlebar",
+    "pelebar",
+    "pelebaran",
+    "pemerlebar",
+    "selebar"
+  ],
+  "gabunganKata": [
+    "lebar bersih",
+    "lebar biakromial",
+    "lebar dada",
+    "lebar gelombang",
+    "lebar maksimum",
+    "lebar mulut",
+    "lebar perut",
+    "lebar pita",
+    "lebar telinga"
+  ],
+  "peribahasa": [
+    "dikatakan berhuma lebar, sesapan di halaman"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lebar, luas; watak manis, pemaaf, puas, sentosa, tenang, bebas dari kesusahan",
+    "kataAsal": "lěbā"
+  },
+  "data": [
+    {
+      "lema": "le.bar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak sempit; lapang: jalan yang akan dibangun, cukup --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lintang suatu bidang: panjang kebun itu 60 m, --nya 40 m"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "luas: padang itu -- sekali; dunia masih --"
+        }
+      ]
+    }
+  ]
+}

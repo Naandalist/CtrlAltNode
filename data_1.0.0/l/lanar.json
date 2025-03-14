@@ -1,0 +1,33 @@
+{
+  "istilah": "lanar",
+  "entri": "la.nar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.nar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "timbunan lumpur di tepi laut (yang dibawa oleh sungai atau air laut)"
+        }
+      ]
+    },
+    {
+      "lema": "la.nar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit tumbuh-tumbuhan"
+        }
+      ]
+    }
+  ]
+}

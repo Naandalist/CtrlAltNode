@@ -1,0 +1,54 @@
+{
+  "istilah": "lapuk",
+  "entri": "la.puk1 bentuk tidak baku: lepuk2",
+  "bentukTidakBaku": "lepuk2",
+  "kataTurunan": [
+    "berlapuk",
+    "kelapukan",
+    "melapuk",
+    "pelapukan",
+    "berlapuk-lapuk",
+    "melapuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "cekel berhabis, lapuk berteduh; lapuk oleh kain sehelai; tak lapuk di hujan, tak lekang di panas; tak lekang oleh panas, tak lapuk oleh hujan; tak lekang oleh panas, tak lapuk oleh hujan; usang dibarui, lapuk dikajangi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.puk1 bentuk tidak baku: lepuk2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bercendawan karena sudah lama: keranjang bambu ini sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rusak, busuk (karena sudah tua): rumah ini roboh karena tiang-tiangnya sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan penghancuran bahan yang berasal dari tumbuhan dan binatang oleh aktivitas jamur dan jasad renik lain"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "ketinggalan zaman; usang; kolot: orang tua itu masih menganut paham yang sudah --"
+        }
+      ]
+    },
+    {
+      "lema": "la.puk2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berlapuk-lapuk; melapuk"
+        }
+      ]
+    }
+  ]
+}

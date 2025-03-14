@@ -1,0 +1,73 @@
+{
+  "istilah": "sumbang",
+  "entri": "sum.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyumbang",
+    "menyumbangkan",
+    "menyumbang",
+    "menyumbangkan",
+    "penyumbang",
+    "penyumbangan",
+    "sumbangan"
+  ],
+  "gabunganKata": [
+    "sumbang balai melintang",
+    "sumbang kadim",
+    "sumbang langkah",
+    "sumbang pati",
+    "sumbang salah",
+    "sumbang pikiran",
+    "sumbang saran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sum.bang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersalah (tentang adat) melanggar adat (kebiasaan, kesopanan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berdosa; bermukah; berzina: pasangan muda-mudi yang duduk berdekatan dapat dianggap -- pada adat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "salah; keliru: langkah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "salah; keliru: langkah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "janggal; tidak selaras; sember atau palsu (tentang suara, bunyi); curang (tentang permainan dan sebagainya); tidak seimbang (setara)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "janggal; tidak selaras; sember atau palsu (tentang suara, bunyi)"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "curang (tentang permainan dan sebagainya); tidak seimbang (setara)"
+        }
+      ]
+    },
+    {
+      "lema": "sum.bang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beri"
+        }
+      ]
+    }
+  ]
+}

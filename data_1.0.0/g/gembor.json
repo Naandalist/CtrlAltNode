@@ -1,0 +1,37 @@
+{
+  "istilah": "gembor",
+  "entri": "gem.bor1 /gêmbor/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gem.bor1 /gêmbor/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerek besar, ujung pancurannya bertutup corong yang diberi lubang-lubang kecil, digunakan untuk menyiram tanaman"
+        }
+      ]
+    },
+    {
+      "lema": "gem.bor2 /gêmbor/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MKp[Melayu Kupang: Berdasarkan Peta Bahasa Kemdikbud, bahasa Melayu di NTT dikelompokkan sesuai wilayah adminstratif, Kupang dan Flores]",
+          "deskripsi": "pohon yang kayunya dapat digunakan sebagai bahan bangunan atau industri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu gembor"
+        }
+      ]
+    }
+  ]
+}

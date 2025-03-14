@@ -1,0 +1,28 @@
+{
+  "istilah": "mukhlis",
+  "entri": "mukh.lis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang murni dalam niat beribadah",
+    "kataAsal": "mukhliṣ"
+  },
+  "data": [
+    {
+      "lema": "mukh.lis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jujur, tulus ikhlas; lurus hati: ucapan seorang muslim yang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang ikhlas; orang yang lurus hati"
+        }
+      ]
+    }
+  ]
+}

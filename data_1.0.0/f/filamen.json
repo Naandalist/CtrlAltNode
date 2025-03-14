@@ -1,0 +1,32 @@
+{
+  "istilah": "filamen",
+  "entri": "fi.la.men",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berfilamen"
+  ],
+  "gabunganKata": [
+    "filamen poliester"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.la.men",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang berbentuk seperti benang yang tipis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "tangkai sari"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "sap",
+  "entri": "sap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kertas atau perca yang dapat mengisap tinta: kertas --"
+        }
+      ]
+    },
+    {
+      "lema": "sap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ saf"
+        }
+      ]
+    },
+    {
+      "lema": "SAP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "satuan acara perkuliahan"
+        }
+      ]
+    }
+  ]
+}

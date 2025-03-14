@@ -1,0 +1,28 @@
+{
+  "istilah": "fitokimia",
+  "entri": "fi.to.ki.mi.a bentuk tidak baku: fitokemikal",
+  "bentukTidakBaku": "fitokemikal",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.to.ki.mi.a bentuk tidak baku: fitokemikal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "ilmu tentang seluk-beluk senyawa kimia pada tumbuh-tumbuhan, khususnya gatra taksonominya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat tumbuhan yang terbentuk secara alami, berfungsi untuk melindungi diri terhadap penyakit; fitonutrisi"
+        }
+      ]
+    }
+  ]
+}

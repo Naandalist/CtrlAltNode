@@ -1,0 +1,42 @@
+{
+  "istilah": "wadi",
+  "entri": "wa.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "air bening yang keluar sehabis kencing atau bersyahwat",
+    "kataAsal": "wadī"
+  },
+  "data": [
+    {
+      "lema": "wa.di1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sungai kering di padang pasir (berisi air jika hujan turun)"
+        }
+      ]
+    },
+    {
+      "lema": "wa.di2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "bersifat rahasia"
+        }
+      ]
+    },
+    {
+      "lema": "wa.di3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "tetesan terakhir dari mani atau air kencing"
+        }
+      ]
+    }
+  ]
+}

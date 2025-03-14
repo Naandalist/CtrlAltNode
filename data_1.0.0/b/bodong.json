@@ -1,0 +1,42 @@
+{
+  "istilah": "bodong",
+  "entri": "bo.dong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.dong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tersembul pusatnya; bosot"
+        }
+      ]
+    },
+    {
+      "lema": "bo.dong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "angin kencang"
+        }
+      ]
+    },
+    {
+      "lema": "bo.dong3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "palsu: ijazah --; investasi --"
+        }
+      ]
+    }
+  ]
+}

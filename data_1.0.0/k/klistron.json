@@ -1,0 +1,28 @@
+{
+  "istilah": "klistron",
+  "entri": "klis.tron",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "klis.tron",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "tabung elektron yang mengubah aliran elektron menjadi gelombang cahaya berfrekuensi tinggi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "tabung elektron yang bekerja sebagai osilator dan pembangkit mikrogelombang elektromagnetik (yang berfrekuensi antara 1–100 gigahertz, 1 giga = 109)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "istilah": "sikat",
+  "entri": "si.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyikat",
+    "penyikat",
+    "penyikatan"
+  ],
+  "gabunganKata": [
+    "sikat alis",
+    "sikat bulu",
+    "sikat cukur",
+    "sikat duri",
+    "sikat gigi",
+    "sikat gigi listrik",
+    "sikat kain",
+    "sikat kawat",
+    "sikat kuku",
+    "sikat mandi",
+    "sikat punggung",
+    "sikat sepatu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.kat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembersih yang dibuat dari bulu (ijuk, serabut, dan sebagainya) diberi dasar dan pegangan (bermacam-macam rupanya): -- gigi; -- sepatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisir rambut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggaruk untuk menggemburkan tanah sesudah dibajak atau dicangkul; garu: koperasi tani menjual alat-alat pertanian, seperti --, bajak, dan pacul"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "rampas"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "makan sampai habis-habisan"
+        }
+      ]
+    },
+    {
+      "lema": "si.kat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat pohon1"
+        }
+      ]
+    },
+    {
+      "lema": "si.kat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rangkaian (pisang) yang tumbuh dalam satu sisir (bagian dari tandan): membeli se-- pisang di warung"
+        }
+      ]
+    }
+  ]
+}

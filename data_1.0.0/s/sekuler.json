@@ -1,0 +1,33 @@
+{
+  "istilah": "sekuler",
+  "entri": "se.ku.ler1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.ku.ler1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat duniawi atau kebendaan (bukan bersifat keagamaan atau kerohanian): kekuasaan --; pendidikan --"
+        }
+      ]
+    },
+    {
+      "lema": "se.ku.ler2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Astron[Astronomi: -]",
+          "deskripsi": "berlangsung lama sekali (tentang proses, perubahan), demikian lambat sehingga tidak mempunyai efek yang cukup besar untuk dicatat dalam waktu ratusan tahun"
+        }
+      ]
+    }
+  ]
+}

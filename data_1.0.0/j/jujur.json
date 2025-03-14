@@ -1,0 +1,46 @@
+{
+  "istilah": "jujur",
+  "entri": "ju.jur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjujur",
+    "jujuran",
+    "kejujuran",
+    "menjujuri"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ju.jur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lurus hati; tidak berbohong (misalnya dengan berkata apa adanya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak curang (misalnya dalam permainan, dengan mengikuti aturan yang berlaku): mereka itulah orang-orang yang -- dan disegani"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tulus; ikhlas"
+        }
+      ]
+    },
+    {
+      "lema": "ju.jur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "uang yang diberikan oleh pengantin laki-laki kepada calon mertuanya"
+        }
+      ]
+    }
+  ]
+}

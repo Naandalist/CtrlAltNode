@@ -1,0 +1,33 @@
+{
+  "istilah": "tabayun",
+  "entri": "ta.ba.yun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perbedaan pendapat",
+    "kataAsal": "tabāyun"
+  },
+  "data": [
+    {
+      "lema": "ta.ba.yun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "pemahaman; penjelasan: sebelum mengkritik kita perlu mendapatkan --"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ba.yun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perbedaan; ikhtilaf; kontradiksi: ada -- antara kedua pendapat itu"
+        }
+      ]
+    }
+  ]
+}

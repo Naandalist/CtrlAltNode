@@ -1,0 +1,48 @@
+{
+  "istilah": "semu",
+  "entri": "se.mu1 /sêmu/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyemu",
+    "menyemui",
+    "menyemukan",
+    "penyemu",
+    "penyemuan",
+    "tersemu",
+    "semu-semu"
+  ],
+  "gabunganKata": [
+    "semu daya",
+    "semu merah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "penampakan luar, rupa, menampakan atau memperdengarkan diri",
+    "kataAsal": "sěmu"
+  },
+  "data": [
+    {
+      "lema": "se.mu1 /sêmu/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tampak seperti asli (sebenarnya), padahal sama sekali bukan yang asli (sebenarnya): keramahannya kepada saya adalah -- karena di balik itu dia memfitnah saya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tipu; muslihat: pujuk Melayu, -- Jawa"
+        }
+      ]
+    },
+    {
+      "lema": "se.mu2 /sêmu/",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "dalam keadaan yang mendekati (agak)"
+        }
+      ]
+    }
+  ]
+}

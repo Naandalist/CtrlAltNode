@@ -1,0 +1,32 @@
+{
+  "istilah": "fonemik",
+  "entri": "fo.ne.mik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fo.ne.mik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu bahasa (linguistik) tentang sistem fonem"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem fonem suatu bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "prosedur untuk menentukan fonem suatu bahasa"
+        }
+      ]
+    }
+  ]
+}

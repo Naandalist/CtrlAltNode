@@ -1,0 +1,42 @@
+{
+  "istilah": "tapin",
+  "entri": "ta.pin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.pin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "taruhan (dalam sepak bola)"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Asm[Asmat: -]",
+          "deskripsi": "tikar yang terbuat dari sematan daun sagu"
+        }
+      ]
+    },
+    {
+      "lema": "Ta.pin3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Kalimantan Selatan"
+        }
+      ]
+    }
+  ]
+}

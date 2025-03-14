@@ -1,0 +1,33 @@
+{
+  "istilah": "cakep",
+  "entri": "ca.kep1 /cakêp/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mengambil dengan cepat-cepat",
+    "kataAsal": "cakěp"
+  },
+  "data": [
+    {
+      "lema": "ca.kep1 /cakêp/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ cakap1"
+        }
+      ]
+    },
+    {
+      "lema": "ca.kep2 /cakêp/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dapat terangkul hingga kedua ujung tangannya bertemu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "valensi",
+  "entri": "va.len.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "valensi bebas",
+    "valensi terarah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "va.len.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkat; derajat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tenaga gabungan reaksi atau interaksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "bilangan yang menyatakan kesanggupan bersenyawa suatu unsur dengan unsur lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "derajat penarikan hati perseorangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "hubungan sintaksis antara verba dan unsur di sekitarnya, mencakupi ketransitifan dan penguasaan verba atas argumen di sekitarnya"
+        }
+      ]
+    }
+  ]
+}

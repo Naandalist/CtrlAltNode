@@ -1,0 +1,41 @@
+{
+  "istilah": "pipis",
+  "entri": "pi.pis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memipis",
+    "memipiskan",
+    "pipisan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.pis1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memipis; memipiskan; pipisan"
+        }
+      ]
+    },
+    {
+      "lema": "pi.pis2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kencing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air kencing"
+        }
+      ]
+    }
+  ]
+}

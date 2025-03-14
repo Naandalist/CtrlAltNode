@@ -1,0 +1,33 @@
+{
+  "istilah": "dopis",
+  "entri": "do.pis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "do.pis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mesiu pada persumbuan senapan kuno yang digunakan untuk meledakkan mesiu bedil yang ada di dalam senapan; penggalak senapan"
+        }
+      ]
+    },
+    {
+      "lema": "do.pis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pp[Papua: -]",
+          "deskripsi": "bom rakitan untuk mencari ikan"
+        }
+      ]
+    }
+  ]
+}

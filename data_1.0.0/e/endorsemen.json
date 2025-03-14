@@ -1,0 +1,33 @@
+{
+  "istilah": "endorsemen",
+  "entri": "en.dor.se.men /endorsêmen/bentuk tidak baku: endosemen",
+  "bentukTidakBaku": "endosemen",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "endorsemen media sosial",
+    "endorsemen mutlak",
+    "endorsemen pinjam nama",
+    "endorsemen selebritas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.dor.se.men /endorsêmen/bentuk tidak baku: endosemen",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "pengesahan pemindahan hak milik dengan membubuhkan tanda tangan dan cap di balik sekuritas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "lampiran perubahan di dalam polis yang dapat memperluas atau mempersempit jaminan"
+        }
+      ]
+    }
+  ]
+}

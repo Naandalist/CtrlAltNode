@@ -1,0 +1,32 @@
+{
+  "istilah": "kinestesis",
+  "entri": "ki.nes.te.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.nes.te.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perasaan yang sangat kompleks yang ditimbulkan oleh rangsangan dalam otot, urat, dan pergelangan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat mempunyai daya menyadari gerakan otot; berkemampuan psikomotorik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "indra yang menerima rangsangan gerakan, keseimbangan, berat, dan posisi"
+        }
+      ]
+    }
+  ]
+}

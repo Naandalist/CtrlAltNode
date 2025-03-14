@@ -1,0 +1,39 @@
+{
+  "istilah": "salung",
+  "entri": "sa.lung1",
+  "bentukTidakBaku": "saluang",
+  "kataTurunan": [
+    "bersalung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.lung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan atau pondok yang diukir dengan indah, tempat meletakkan atau menyimpan jenazah yang sudah dimasukkan ke dalam peti: peti jenazah dimasukkan ke dalam --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.lung2 bentuk tidak baku: saluang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -] Mus[Musik: -]",
+          "deskripsi": "alat musik tiup yang terbuat dari bambu talang, berdiameter sekitar 3 cm, panjangnya sekitar 50 cm, mempunyai enam buah lubang pengatur nada berjarak sekitar 3 cm, pangkal ujungnya tidak bersumbat, ditiup dalam posisi miring dengan menempelkan pangkalnya ke pinggir kiri atau kanan bibir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tabung (bambu, pipa) untuk meniup api di tungku"
+        }
+      ]
+    }
+  ]
+}

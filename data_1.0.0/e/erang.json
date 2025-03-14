@@ -1,0 +1,47 @@
+{
+  "istilah": "erang",
+  "entri": "e.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "erang-erot",
+    "mengerang",
+    "erangan",
+    "mengerang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.rang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "biru kehitam-hitaman; hitam"
+        }
+      ]
+    },
+    {
+      "lema": "e.rang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "serong"
+        }
+      ]
+    },
+    {
+      "lema": "e.rang /êrang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluh atau rintih (karena kesakitan)"
+        }
+      ]
+    }
+  ]
+}

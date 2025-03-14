@@ -1,0 +1,36 @@
+{
+  "istilah": "beradat",
+  "entri": "adat1 » ber.a.dat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "adat1 » ber.a.dat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai adat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menurut atau melakukan secara adat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjalankan perhelatan dan sebagainya menurut adat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tahu sopan santun"
+        }
+      ]
+    }
+  ]
+}

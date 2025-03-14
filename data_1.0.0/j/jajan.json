@@ -1,0 +1,37 @@
+{
+  "istilah": "jajan",
+  "entri": "ja.jan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjajan",
+    "jajanan"
+  ],
+  "gabunganKata": [
+    "jajan pasar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.jan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kue; penganan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "membeli makanan (nasi, kue, dan sebagainya) di warung; berjajan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "bermain perempuan; pergi ke tempat wanita lacur"
+        }
+      ]
+    }
+  ]
+}

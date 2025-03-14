@@ -1,0 +1,38 @@
+{
+  "istilah": "mobilitas",
+  "entri": "mo.bi.li.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mobilitas ekologi",
+    "mobilitas geografis",
+    "mobilitas horizontal",
+    "mobilitas sosial",
+    "mobilitas vertikal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.bi.li.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesiapsiagaan untuk bergerak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan berpindah-pindah: ahli sosiologi itu sedang meneliti -- penduduk pulau itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Antr[Antropologi: -]",
+          "deskripsi": "gerak perubahan yang terjadi di antara warga masyarakat, baik secara fisik maupun secara sosial"
+        }
+      ]
+    }
+  ]
+}

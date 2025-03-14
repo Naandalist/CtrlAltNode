@@ -1,0 +1,40 @@
+{
+  "istilah": "klien",
+  "entri": "kli.en1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "klien rujukan",
+    "klien olah pesan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kli.en1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "orang yang memperoleh bantuan hukum dari seorang pengacara dalam pembelaan perkara di pengadilan: pengacara itu menuntut perusahaan yang telah memalsukan merek dagang --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang membeli sesuatu atau memperoleh layanan (seperti kesehatan, konsultasi jiwa) secara tetap; pelanggan: ia sudah lama menjadi -- dokter itu"
+        }
+      ]
+    },
+    {
+      "lema": "kli.en2 /kliên/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "komputer desktop atau stasiun kerja yang melekat pada jaringan dan bergantung pada satu atau beberapa server untuk beberapa sumber daya, yaitu berkas, peranti, dan layanan lainnya"
+        }
+      ]
+    }
+  ]
+}

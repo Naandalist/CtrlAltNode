@@ -1,0 +1,28 @@
+{
+  "istilah": "masyhadat",
+  "entri": "masy.ha.dat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat berkumpul",
+    "kataAsal": "masyhadah"
+  },
+  "data": [
+    {
+      "lema": "masy.ha.dat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "tempat orang berkumpul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "pertemuan; kerapatan"
+        }
+      ]
+    }
+  ]
+}

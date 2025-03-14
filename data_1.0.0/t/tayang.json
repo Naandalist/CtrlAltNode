@@ -1,0 +1,42 @@
+{
+  "istilah": "tayang",
+  "entri": "ta.yang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menayang",
+    "menayangkan",
+    "tertayang",
+    "menayangkan",
+    "penayang",
+    "penayangan",
+    "tayangan",
+    "tertayang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.yang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bawa (di telapak tangan)"
+        }
+      ]
+    },
+    {
+      "lema": "ta.yang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menayangkan"
+        }
+      ]
+    }
+  ]
+}

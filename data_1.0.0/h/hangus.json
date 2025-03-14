@@ -1,0 +1,42 @@
+{
+  "istilah": "hangus",
+  "entri": "ha.ngus bentuk tidak baku: angus1",
+  "bentukTidakBaku": "angus1",
+  "kataTurunan": [
+    "kehangusan",
+    "menghangus",
+    "menghanguskan",
+    "penghangus",
+    "penghangusan"
+  ],
+  "gabunganKata": [
+    "hangus hati"
+  ],
+  "peribahasa": [
+    "dibakar tak hangus, direndam tak basah; hangus tiada berapi, karam tiada berair; terlampau panggang hangus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.ngus bentuk tidak baku: angus1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbakar sampai menjadi hitam; gosong: para korban kebakaran itu semuanya --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbakar sampai habis: gedung itu telah -- dimakan api"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "batal: biaya yang sudah disediakan itu akan menjadi -- kalau tidak secepatnya dipakai"
+        }
+      ]
+    }
+  ]
+}

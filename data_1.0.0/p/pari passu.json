@@ -1,0 +1,41 @@
+{
+  "istilah": "pari passu",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "dengan perbandingan yang seimbang; dengan hak yang sama (tentang hukum)"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "sama langkah"
+        }
+      ]
+    },
+    {
+      "lema": "pari passu",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "dengan perbandingan yang seimbang; dengan hak yang sama (tentang hukum)"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "sama langkah"
+        }
+      ]
+    }
+  ]
+}

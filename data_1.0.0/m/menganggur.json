@@ -1,0 +1,41 @@
+{
+  "istilah": "menganggur",
+  "entri": "anggur1 » meng.ang.gur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "anggur1 » meng.ang.gur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak melakukan apa-apa; tidak bekerja: ia sudah berbulan-bulan ~"
+        }
+      ]
+    },
+    {
+      "lema": "anggur2 » meng.ang.gur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengerat cabang (batang) untuk ditanam: ia ~ batang mawar untuk ditanam di kebunnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menanam (ubi kayu dan sebagainya) dengan setek: Paman sedang ~ ubi kayu di ladang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menganjak atau memindahkan tanaman: kita harus ~ anak pohon pisang itu"
+        }
+      ]
+    }
+  ]
+}

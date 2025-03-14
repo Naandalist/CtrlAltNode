@@ -1,0 +1,36 @@
+{
+  "istilah": "centeng",
+  "entri": "cen.teng /cênteng/bentuk tidak baku: cinteng",
+  "bentukTidakBaku": "cinteng",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "penjaga malam; pemeriksa barang",
+    "kataAsal": "chhin teng"
+  },
+  "data": [
+    {
+      "lema": "cen.teng /cênteng/bentuk tidak baku: cinteng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjaga rumah (pabrik, gudang, dan sebagainya) pada waktu malam dan sebagainya; penjaga malam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mandor di tanah partikelir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "tukang pukul bayaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Jk[Melayu Jakarta: -]",
+          "deskripsi": "pengawas pada penjualan candu"
+        }
+      ]
+    }
+  ]
+}

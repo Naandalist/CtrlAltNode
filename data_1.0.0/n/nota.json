@@ -1,0 +1,50 @@
+{
+  "istilah": "nota",
+  "entri": "no.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bernota"
+  ],
+  "gabunganKata": [
+    "nota debit",
+    "nota dinas",
+    "nota kesepahaman",
+    "nota kredit",
+    "nota pengiriman",
+    "nota penjualan",
+    "nota penyerahan",
+    "nota serah terima",
+    "nota siap",
+    "nota terpisah",
+    "nota tiba"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "no.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat peringatan (penunjukan, catatan): dia datang kepada saya dengan membawa -- dari atasannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat keterangan resmi (dari duta besar kepada pemerintah suatu negara atau sebaliknya): Pemerintah Portugal telah menyampaikan -- kepada Duta Besar Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat penjelasan resmi dari jawatan (pemerintah, pemerintah daerah, dan sebagainya): presiden telah menyampaikan -- keuangan kepada DPR"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda jual beli secara kontan"
+        }
+      ]
+    }
+  ]
+}

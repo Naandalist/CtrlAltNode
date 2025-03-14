@@ -1,0 +1,35 @@
+{
+  "istilah": "sabar",
+  "entri": "sa.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersabar",
+    "kesabaran",
+    "mempersabar",
+    "menyabarkan",
+    "penyabar",
+    "tersabar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ketabahan",
+    "kataAsal": "ṣabr"
+  },
+  "data": [
+    {
+      "lema": "sa.bar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tahan menghadapi cobaan (tidak lekas marah, tidak lekas putus asa, tidak lekas patah hati); tabah: ia menerima nasibnya dengan --; hidup ini dihadapinya dengan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tenang; tidak tergesa-gesa; tidak terburu nafsu: segala usahanya dijalankannya dengan --"
+        }
+      ]
+    }
+  ]
+}

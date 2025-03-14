@@ -1,0 +1,78 @@
+{
+  "istilah": "sumpah",
+  "entri": "sum.pah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersumpah",
+    "bersumpah-sumpahan",
+    "mempersumpahkan",
+    "menyumpah",
+    "menyumpahi",
+    "penyumpah",
+    "penyumpahan",
+    "persumpahan",
+    "tersumpah",
+    "menyumpah",
+    "menyumpah-nyumpah",
+    "menyumpahi",
+    "penyumpah"
+  ],
+  "gabunganKata": [
+    "sumpah berselam air",
+    "sumpah bohong",
+    "sumpah ceker",
+    "sumpah celup",
+    "sumpah celur",
+    "sumpah dokter",
+    "sumpah Hipokrates",
+    "sumpah jabatan",
+    "sumpah menyelam",
+    "sumpah minum air keris",
+    "sumpah palsu",
+    "sumpah Pemuda",
+    "sumpah pocong",
+    "sumpah potong ayam",
+    "sumpah satir",
+    "sumpah setia",
+    "sumpah sepata",
+    "sumpah serampu",
+    "sumpah seranah",
+    "sumpah serapah"
+  ],
+  "peribahasa": [
+    "hidup tidak karena doa, mati tidak karena sumpah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sumpah, kutukan",
+    "kataAsal": "sumpah"
+  },
+  "data": [
+    {
+      "lema": "sum.pah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan yang diucapkan secara resmi dengan bersaksi kepada Tuhan atau kepada sesuatu yang dianggap suci (untuk menguatkan kebenaran dan kesungguhannya dan sebagainya): perkataannya itu dikuatkan dengan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan disertai tekad melakukan sesuatu untuk menguatkan kebenarannya atau berani menderita sesuatu kalau pernyataan itu tidak benar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "janji atau ikrar yang teguh (akan menunaikan sesuatu): seorang karateka harus menghayati -- dan pedoman karate"
+        }
+      ]
+    },
+    {
+      "lema": "sum.pah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata-kata yang buruk (makian dan sebagainya); kutuk; tulah: ia sakit lumpuh kena -- orang itu"
+        }
+      ]
+    }
+  ]
+}

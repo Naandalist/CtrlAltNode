@@ -1,0 +1,45 @@
+{
+  "istilah": "sempurna",
+  "entri": "sem.pur.na /sêmpurna/bentuk tidak baku: sampurna",
+  "bentukTidakBaku": "sampurna",
+  "kataTurunan": [
+    "kesempurnaan",
+    "menyempurnakan",
+    "penyempurna",
+    "penyempurnaan"
+  ],
+  "gabunganKata": [
+    "sempurna akal",
+    "sempurna umur",
+    "sempurna usia"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "mutlak, penuh atau lengkap, utuh, melimpah",
+    "kataAsal": "sampūrna"
+  },
+  "data": [
+    {
+      "lema": "sem.pur.na /sêmpurna/bentuk tidak baku: sampurna",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "utuh dan lengkap segalanya (tidak bercacat dan bercela): alam yang indah ini adalah ciptaan Tuhan yang sangat --; dengan selesainya pekerjaan ini, -- sudahlah tugas Anda"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lengkap; komplet: ia lahir muda dan belum --; kalimat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "selesai dengan sebaik-baiknya; teratur dengan sangat baiknya: segala perintah dilakukan dengan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "baik sekali; terbaik: saat yang -- untuk meminta maaf adalah pada hari Lebaran"
+        }
+      ]
+    }
+  ]
+}

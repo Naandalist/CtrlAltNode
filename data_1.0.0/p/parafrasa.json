@@ -1,0 +1,31 @@
+{
+  "istilah": "parafrasa",
+  "entri": "pa.ra.fra.sa bentuk tidak baku: parafrase",
+  "bentukTidakBaku": "parafrase",
+  "kataTurunan": [
+    "memarafrasakan",
+    "memparafrasakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ra.fra.sa bentuk tidak baku: parafrase",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pengungkapan kembali suatu tuturan dari sebuah tingkatan atau macam bahasa menjadi tuturan yang lain tanpa mengubah pengertian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "penguraian kembali suatu teks (karangan) dalam bentuk (susunan kata-kata) yang lain, dengan maksud untuk dapat menjelaskan makna yang tersembunyi"
+        }
+      ]
+    }
+  ]
+}

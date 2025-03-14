@@ -1,0 +1,33 @@
+{
+  "istilah": "rusip",
+  "entri": "ru.sip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.sip1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "bunga yang keluar dari jantung pisang berbentuk seperti buah pisang dan berisi air yang rasanya manis"
+        }
+      ]
+    },
+    {
+      "lema": "ru.sip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Plb[Palembang: -]",
+          "deskripsi": "bahan makanan terbuat dari ikan yang dicampur dengan tepung beras gongseng, diperam dalam botol selama 4–7 hari, ditumis dengan bawang dan cabai"
+        }
+      ]
+    }
+  ]
+}

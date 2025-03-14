@@ -1,0 +1,37 @@
+{
+  "istilah": "dosis",
+  "entri": "do.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdosis"
+  ],
+  "gabunganKata": [
+    "dosis ambang",
+    "dosis maut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "do.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "takaran obat untuk sekali pakai (dimakan, diminum, disuntikkan, dan sebagainya) dalam jangka waktu tertentu: pasien itu pingsan karena menelan pil melebihi -- yang ditentukan oleh dokter"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "ukuran pengobatan yang harus diberikan untuk jangka waktu tertentu (tentang radiasi atau penyinaran pada daerah atau bagian tubuh tertentu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "jumlah energi atau tenaga yang diberikan oleh zarah pengion kepada suatu satuan massa bahan yang disinari atau diradiasi pada tempat yang diselidiki atau diminati"
+        }
+      ]
+    }
+  ]
+}

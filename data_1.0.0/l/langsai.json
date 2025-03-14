@@ -1,0 +1,35 @@
+{
+  "istilah": "langsai",
+  "entri": "lang.sai1 bentuk tidak baku: lansai",
+  "bentukTidakBaku": "lansailelangse",
+  "kataTurunan": [
+    "melangsaikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.sai1 bentuk tidak baku: lansai",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah terbayar semua (tentang utang, janji); lunas: jika utang sudah --, jangan lagi membuat utang baru"
+        }
+      ]
+    },
+    {
+      "lema": "lang.sai2 bentuk tidak baku: lelangse",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tirai"
+        }
+      ]
+    }
+  ]
+}

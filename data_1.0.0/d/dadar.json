@@ -1,0 +1,39 @@
+{
+  "istilah": "dadar",
+  "entri": "da.dar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendadar",
+    "pendadaran"
+  ],
+  "gabunganKata": [
+    "dadar gulung",
+    "dadar jiwo"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.dar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "telur yang diaduk (dikocok) bersama bumbu (bawang, merica, garam, dan sebagainya) kemudian digoreng, berbentuk pipih"
+        }
+      ]
+    },
+    {
+      "lema": "da.dar2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pendadaran"
+        }
+      ]
+    }
+  ]
+}

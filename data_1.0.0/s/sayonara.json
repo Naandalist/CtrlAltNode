@@ -1,0 +1,33 @@
+{
+  "istilah": "sayonara",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jp[Jepang: -]",
+          "deskripsi": "selamat tinggal"
+        }
+      ]
+    },
+    {
+      "lema": "sayonara",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jepang: -]",
+          "deskripsi": "selamat tinggal"
+        }
+      ]
+    }
+  ]
+}

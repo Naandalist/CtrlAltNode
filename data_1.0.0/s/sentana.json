@@ -1,0 +1,44 @@
+{
+  "istilah": "sentana",
+  "entri": "sen.ta.na1 /sêntana/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersentana"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cari:",
+    "kataAsal": "saṃtāna"
+  },
+  "data": [
+    {
+      "lema": "sen.ta.na1 /sêntana/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kaum kerabat raja (orang bangsawan)"
+        }
+      ]
+    },
+    {
+      "lema": "sen.ta.na2 /sêntana/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kalau"
+        }
+      ]
+    },
+    {
+      "lema": "sen.ta.na3 /sêntana/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bersentana"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "mantri",
+  "entri": "man.tri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mantri cacar",
+    "mantri garam",
+    "mantri hewan",
+    "mantri kesehatan",
+    "mantri pasar",
+    "mantri polisi",
+    "mantri ukur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.tri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama pangkat atau jabatan tertentu untuk melaksanakan tugas (keahlian) khusus; juru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "juru rawat kepala (biasanya laki-laki); pembantu dokter"
+        }
+      ]
+    }
+  ]
+}

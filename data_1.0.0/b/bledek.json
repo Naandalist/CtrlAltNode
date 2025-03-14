@@ -1,0 +1,33 @@
+{
+  "istilah": "bledek",
+  "entri": "ble.dek /blêdek/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ble.dek /blêdek/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "daun jarak"
+        }
+      ]
+    },
+    {
+      "lema": "ble.dek /blêdêk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "daun tanaman jarak"
+        }
+      ]
+    }
+  ]
+}

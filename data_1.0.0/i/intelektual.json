@@ -1,0 +1,32 @@
+{
+  "istilah": "intelektual",
+  "entri": "in.te.lek.tu.al /intêlektual/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.te.lek.tu.al /intêlektual/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cerdas, berakal, dan berpikiran jernih berdasarkan ilmu pengetahuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mempunyai kecerdasan tinggi; cendekiawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "totalitas pengertian atau kesadaran, terutama yang menyangkut pemikiran dan pemahaman"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "busur",
+  "entri": "bu.sur1 bentuk tidak baku: busar",
+  "bentukTidakBaku": "busar",
+  "kataTurunan": [
+    "dibusur",
+    "membusur",
+    "busur-busur"
+  ],
+  "gabunganKata": [
+    "busur derajat",
+    "busur fajar",
+    "busur lingkar zenit",
+    "busur sekawan",
+    "busur senja",
+    "busur silang",
+    "busur tangen"
+  ],
+  "peribahasa": [
+    "tali busur tidak selamanya dapat diregang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.sur1 bentuk tidak baku: busar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilah kayu, bambu, dan sebagainya yang direntangkan dengan tali untuk melepaskan anak panah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat (perkakas) untuk membersihkan kapas (kapuk) yang bentuknya seperti busur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat berbentuk setengah lingkaran untuk mengukur derajat (dalam matematika)"
+        }
+      ]
+    },
+    {
+      "lema": "bu.sur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hak milik atas tanah perkebunan kopi (di Jawa Timur)"
+        }
+      ]
+    }
+  ]
+}

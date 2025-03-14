@@ -1,0 +1,44 @@
+{
+  "istilah": "kian",
+  "entri": "ki.an1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkian-kian",
+    "sekian"
+  ],
+  "gabunganKata": [
+    "kian kemari"
+  ],
+  "peribahasa": [
+    "bak ilmu padi, kian berisi kian runduk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "banyak, besar, jauh, luas",
+    "kataAsal": "kiyat"
+  },
+  "data": [
+    {
+      "lema": "ki.an1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebegitu; sebanyak itu (ini): sepuluh -- sekalipun kulawan juga sepuluh kali sebanyak itu"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "makin bertambah: matahari -- lama -- tinggi"
+        }
+      ]
+    },
+    {
+      "lema": "ki.an2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "sana; situ"
+        }
+      ]
+    }
+  ]
+}

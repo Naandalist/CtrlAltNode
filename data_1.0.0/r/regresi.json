@@ -1,0 +1,36 @@
+{
+  "istilah": "regresi",
+  "entri": "re.gre.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.gre.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(urutan dan sebagainya) mundur; urutan berbalik ke belakang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "penyusutan luas (air) laut yang disebabkan oleh faktor tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "proses berbalik ke tahap perkembangan perilaku sebelumnya yang dialami orang karena frustrasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hid[Hidrologi: -]",
+          "deskripsi": "hubungan rata-rata antarvariabel"
+        }
+      ]
+    }
+  ]
+}

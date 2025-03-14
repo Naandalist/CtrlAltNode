@@ -1,0 +1,28 @@
+{
+  "istilah": "makhraj",
+  "entri": "makh.raj bentuk tidak baku: mahraj",
+  "bentukTidakBaku": "mahraj",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat keluar; tempat artikulasi",
+    "kataAsal": "makhraj"
+  },
+  "data": [
+    {
+      "lema": "makh.raj bentuk tidak baku: mahraj",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "daerah artikulasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ketepatan ucapan"
+        }
+      ]
+    }
+  ]
+}

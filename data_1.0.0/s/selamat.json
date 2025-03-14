@@ -1,0 +1,66 @@
+{
+  "istilah": "selamat",
+  "entri": "se.la.mat /sêlamat/bentuk tidak baku: selamet, slamet",
+  "bentukTidakBaku": "selamet, slamet",
+  "kataTurunan": [
+    "berselamatan",
+    "keselamatan",
+    "menyelamati",
+    "menyelamatkan",
+    "penyelamat",
+    "penyelamatan",
+    "selamatan",
+    "terselamatkan"
+  ],
+  "gabunganKata": [
+    "selamat berbahagia",
+    "selamat berjumpa",
+    "selamat berpisah",
+    "selamat datang",
+    "selamat jalan",
+    "selamat malam",
+    "selamat menempuh hidup baru",
+    "selamat pagi",
+    "selamat petang",
+    "selamat sejahtera",
+    "selamat siang",
+    "selamat sore",
+    "selamat tinggal",
+    "selamat ulang tahun"
+  ],
+  "peribahasa": [
+    "kalau pandai meniti buih, selamat badan sampai ke seberang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bebas dari bahaya",
+    "kataAsal": "salāmah"
+  },
+  "data": [
+    {
+      "lema": "se.la.mat /sêlamat/bentuk tidak baku: selamet, slamet",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terbebas dari bahaya, malapetaka, bencana; terhindar dari bahaya, malapetaka, bencana; tidak kurang suatu apa; tidak mendapat gangguan, kerusakan, dan sebagainya: ia -- dari pembunuhan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sehat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tercapai maksud; tidak gagal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "doa (ucapan, pernyataan, dan sebagainya) yang mengandung harapan supaya sejahtera (beruntung, tidak kurang suatu apa, dan sebagainya): ketika ia kawin, banyak handai tolannya yang memberi ucapan -- kepadanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberian salam mudah-mudahan dalam keadaan baik (sejahtera, sehat dan afiat, dan sebagainya): -- datang; -- jalan; -- malam (pagi, siang); -- tahun baru; -- tinggal"
+        }
+      ]
+    }
+  ]
+}

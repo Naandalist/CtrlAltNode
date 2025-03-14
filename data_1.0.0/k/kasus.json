@@ -1,0 +1,106 @@
+{
+  "istilah": "kasus",
+  "entri": "ka.sus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkasus",
+    "mengasuskan"
+  ],
+  "gabunganKata": [
+    "kasus abesif",
+    "kasus ablatif",
+    "kasus adhesif",
+    "kasus akusatif",
+    "kasus alatif",
+    "kasus bahasa absolutif",
+    "kasus bahasa ergatif",
+    "kasus datif",
+    "kasus elatif",
+    "kasus ergatif",
+    "kasus esif",
+    "kasus genetif",
+    "kasus heli",
+    "kasus ilatif",
+    "kasus impor",
+    "kasus inesif",
+    "kasus instruktif",
+    "kasus instrumental",
+    "kasus kekerasan dalam rumah tangga",
+    "kasus komitatif",
+    "kasus korupsi",
+    "kasus kriminal",
+    "kasus lokatif",
+    "kasus lurus",
+    "kasus miring",
+    "kasus narkoba",
+    "kasus nominatif",
+    "kasus objektif",
+    "kasus partitif",
+    "kasus pelecehan",
+    "kasus pelecehan agama",
+    "kasus pelecehan seksual",
+    "kasus pembalakan liar",
+    "kasus pembunuhan",
+    "kasus pencurian",
+    "kasus penderita",
+    "kasus perampokan",
+    "kasus perceraian",
+    "kasus perdata",
+    "kasus pidana",
+    "kasus prolatif",
+    "kasus rumah tangga",
+    "kasus tabrakan",
+    "kasus translatif",
+    "kasus tujuan",
+    "kasus vokatif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.sus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan yang sebenarnya dari suatu urusan atau perkara; keadaan atau kondisi khusus yang berhubungan dengan seseorang atau suatu hal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "contoh: -- itu dapat dipertimbangkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masalah; soal; perkara: pengacara itu sedang menangani beberapa --; apa -- Anda tidak hadir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang diselidiki oleh orang profesional (dokter, polisi, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "fakta aktual: -- itu sudah diketahui orang banyak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "masalah yang diujikan dalam pengadilan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "argumen dan bukti yang diberikan dalam pengadilan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kategori gramatikal dari nomina, frasa nominal, pronomina, atau adjektiva yang menunjukkan hubungannya dengan kata lain dalam konstruksi sintaksis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "hubungan antara argumen dan predikator dalam suatu proposisi (dalam teori kasus)"
+        }
+      ]
+    }
+  ]
+}

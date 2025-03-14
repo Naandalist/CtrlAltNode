@@ -1,0 +1,49 @@
+{
+  "istilah": "sipat",
+  "entri": "si.pat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyipat",
+    "menyipati",
+    "menyipatkan",
+    "penyipatan",
+    "sipatan",
+    "menyipat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "penghitam mata",
+    "kataAsal": "sipat"
+  },
+  "data": [
+    {
+      "lema": "si.pat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arah: tali -- [1] tali untuk mengetahui lurus tidaknya [2] tali pengukur"
+        }
+      ]
+    },
+    {
+      "lema": "si.pat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celak: -- mata"
+        }
+      ]
+    },
+    {
+      "lema": "si.pat3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat daun"
+        }
+      ]
+    }
+  ]
+}

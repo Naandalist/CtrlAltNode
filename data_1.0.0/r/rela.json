@@ -1,0 +1,41 @@
+{
+  "istilah": "rela",
+  "entri": "re.la bentuk tidak baku: reda",
+  "bentukTidakBaku": "reda",
+  "kataTurunan": [
+    "kerelaan",
+    "merelai",
+    "merelakan",
+    "serelanya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sikap menerima dengan lapang dada",
+    "kataAsal": "riḍā"
+  },
+  "data": [
+    {
+      "lema": "re.la bentuk tidak baku: reda",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersedia dengan ikhlas hati: aku -- mati membela tanah tumpah darahku"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "izin (persetujuan); perkenan: kedatangan saya ini hendak meminta -- tuan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat diterima dengan senang hati: semua itu kuberikan kepadamu dengan --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak mengharap imbalan, dengan kehendak atau kemauan sendiri: dengan suka --"
+        }
+      ]
+    }
+  ]
+}

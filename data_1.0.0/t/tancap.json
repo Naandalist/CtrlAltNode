@@ -1,0 +1,33 @@
+{
+  "istilah": "tancap",
+  "entri": "tan.cap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menancap",
+    "menancapkan",
+    "penancap",
+    "penancapan",
+    "tancapan",
+    "tertancap"
+  ],
+  "gabunganKata": [
+    "tancap gas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menancap, menusuk dalam, menembus masuk",
+    "kataAsal": "tañcěb"
+  },
+  "data": [
+    {
+      "lema": "tan.cap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menancap"
+        }
+      ]
+    }
+  ]
+}

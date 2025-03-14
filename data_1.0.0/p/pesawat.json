@@ -1,0 +1,83 @@
+{
+  "istilah": "pesawat",
+  "entri": "pe.sa.wat1 /pêsawat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpesawat"
+  ],
+  "gabunganKata": [
+    "pesawat akrobatik",
+    "pesawat amfibi",
+    "pesawat angkut",
+    "pesawat antariksa",
+    "pesawat apung",
+    "pesawat asap",
+    "pesawat bersayap dua",
+    "pesawat bisnis",
+    "pesawat buru sergap",
+    "pesawat capung",
+    "pesawat intai",
+    "pesawat jet",
+    "pesawat jet supersonik",
+    "pesawat jumbo jet",
+    "pesawat kargo",
+    "pesawat komersial",
+    "pesawat layang",
+    "pesawat mengangkasa",
+    "pesawat militer",
+    "pesawat nirawak",
+    "pesawat pancar",
+    "pesawat pelempar bom",
+    "pesawat peluncur",
+    "pesawat pembuang bom",
+    "pesawat pemburu",
+    "pesawat pendingin",
+    "pesawat pengebom",
+    "pesawat pengintai",
+    "pesawat pengorbit",
+    "pesawat penyelundup",
+    "pesawat radar",
+    "pesawat radio",
+    "pesawat ringan",
+    "pesawat selam",
+    "pesawat siluman",
+    "pesawat sipil",
+    "pesawat tanker",
+    "pesawat telepon",
+    "pesawat tempur",
+    "pesawat terbang",
+    "pesawat udara",
+    "pesawat ulang alik",
+    "pesawat ultraringan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.sa.wat1 /pêsawat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat perkakas; mesin: motor itu dijalankan dengan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapal terbang: naik --"
+        }
+      ]
+    },
+    {
+      "lema": "pe.sa.wat2 /pêsawat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali (rotan, kulit, dan sebagainya) untuk menjalankan jentera, roda, perangkap, dan sebagainya: tali -- tali (kulit) untuk menjalankan jentera (roda)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "berolak",
+  "entri": "olak1 » ber.o.lak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "olak1 » ber.o.lak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berputar; berpusing; berkisar: bumi ~ pada porosnya"
+        }
+      ]
+    },
+    {
+      "lema": "olak3 » ber.o.lak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak kuat lagi (tentang badan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak manjur lagi (tentang obat)"
+        }
+      ]
+    }
+  ]
+}

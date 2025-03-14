@@ -1,0 +1,45 @@
+{
+  "istilah": "e",
+  "entri": "e2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata seru untuk menarik perhatian, mengingatkan, dan memanggil"
+        }
+      ]
+    },
+    {
+      "lema": "E1 varian: e",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf ke-5 abjad Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf e"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penanda ke-5 dalam urutan atau terendah (tentang mutu, nilai)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "nada ke-3 dalam tangga nada diatonik C mayor"
+        }
+      ]
+    }
+  ]
+}

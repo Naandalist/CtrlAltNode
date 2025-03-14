@@ -1,0 +1,54 @@
+{
+  "istilah": "rapi",
+  "entri": "ra.pi bentuk tidak baku: rapih",
+  "bentukTidakBaku": "rapih",
+  "kataTurunan": [
+    "kerapian",
+    "merapikan",
+    "perapi",
+    "terapi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.pi bentuk tidak baku: rapih",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "baik, teratur, dan bersih; apik: rambutnya selalu disisir --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "teratur baik; tertib: deretan rumah itu amat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "serba beres dan menyenangkan (pekerjaan dan sebagainya): pekerjaannya ditanggung -- dan memuaskan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "siap sedia; siaga: rumah penginapan tamu negara dikawal dengan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sebagaimana mestinya; tidak asal saja: pintu sudah terkunci --"
+        }
+      ]
+    },
+    {
+      "lema": "RAPI",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Radio Antarpenduduk Indonesia"
+        }
+      ]
+    }
+  ]
+}

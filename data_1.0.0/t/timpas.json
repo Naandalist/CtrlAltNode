@@ -1,0 +1,43 @@
+{
+  "istilah": "timpas",
+  "entri": "tim.pas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertimpas-timpas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tim.pas1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "surut yang serendah-rendahnya (tentang air dan sebagainya): air --; surut --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kering (tentang sungai, telaga, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "licin; tandas; habis (tentang uang, tenaga, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tim.pas2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertimpas-timpas"
+        }
+      ]
+    }
+  ]
+}

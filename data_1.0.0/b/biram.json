@@ -1,0 +1,41 @@
+{
+  "istilah": "biram",
+  "entri": "bi.ram1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.ram1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "gajah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "ular berkepala dua pada ujung dan pangkalnya (dalam dongeng)"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ram2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "merah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "intan berwarna merah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "istilah": "gana",
+  "entri": "ga.na1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kekayaan",
+    "kataAsal": "ganā’"
+  },
+  "data": [
+    {
+      "lema": "ga.na1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekayaan"
+        }
+      ]
+    },
+    {
+      "lema": "ga.na2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ ganar"
+        }
+      ]
+    },
+    {
+      "lema": "ga.na3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bentuk hiasan berupa anak kecil"
+        }
+      ]
+    },
+    {
+      "lema": "ga.na4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ri[Melayu Riau: -]",
+          "deskripsi": "memikul sesuatu berdua, satu orang memikul di depan, satu orang lagi di belakang: kalian -- kayu itu ke dalam truk"
+        }
+      ]
+    },
+    {
+      "lema": "ga.na5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "anak tawon atau tawon yang masih kecil"
+        }
+      ]
+    }
+  ]
+}

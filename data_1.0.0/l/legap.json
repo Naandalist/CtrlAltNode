@@ -1,0 +1,37 @@
+{
+  "istilah": "legap",
+  "entri": "le.gap1 /lêgap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.gap1 /lêgap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi debaran jantung (papan dipukul dan sebagainya); degap"
+        }
+      ]
+    },
+    {
+      "lema": "le.gap2 /lêgap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suram, tidak bercahaya, dan memberi kesan tidak rata"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tembus pandang"
+        }
+      ]
+    }
+  ]
+}

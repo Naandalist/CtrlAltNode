@@ -1,0 +1,34 @@
+{
+  "istilah": "sarjana",
+  "entri": "sar.ja.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesarjanaan"
+  ],
+  "gabunganKata": [
+    "sarjana muda",
+    "sarjana plus",
+    "sarjana utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "orang baik, orang terhormat, orang bijak",
+    "kataAsal": "sajjana"
+  },
+  "data": [
+    {
+      "lema": "sar.ja.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang pandai (ahli ilmu pengetahuan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar strata satu yang dicapai oleh seseorang yang telah menamatkan pendidikan tingkat terakhir di perguruan tinggi"
+        }
+      ]
+    }
+  ]
+}

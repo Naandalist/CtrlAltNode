@@ -1,0 +1,32 @@
+{
+  "istilah": "pbb",
+  "entri": "PBB",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "PBB",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Perserikatan Bangsa-Bangsa (organisasi politik negara-negara dunia yang didirikan pada 1945)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "peraturan baris-berbaris"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pajak bumi dan bangunan"
+        }
+      ]
+    }
+  ]
+}

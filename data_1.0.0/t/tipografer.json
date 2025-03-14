@@ -1,0 +1,28 @@
+{
+  "istilah": "tipografer",
+  "entri": "ti.po.gra.fer /tipografêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.po.gra.fer /tipografêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli tipografi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendesain yang ahli dalam pemilihan serta pengaturan gaya, tata letak, dan tampilan huruf atau fon pada cetakan"
+        }
+      ]
+    }
+  ]
+}

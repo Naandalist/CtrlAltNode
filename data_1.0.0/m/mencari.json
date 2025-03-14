@@ -1,0 +1,78 @@
+{
+  "istilah": "mencari",
+  "entri": "cari » men.ca.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mencari akal",
+    "mencari bagi",
+    "mencari bako",
+    "mencari bala",
+    "mencari bela",
+    "mencari berita",
+    "mencari daya upaya",
+    "mencari enaknya",
+    "mencari hindu",
+    "mencari hitungan",
+    "mencari ikan",
+    "mencari ikhtiar",
+    "mencari ilmu",
+    "mencari kesalahan",
+    "mencari kutu",
+    "mencari langkah",
+    "mencari lantaran",
+    "mencari lawan",
+    "mencari makan",
+    "mencari muka",
+    "mencari nafkah",
+    "mencari nama",
+    "mencari pasal",
+    "mencari perkara",
+    "mencari perlangkahan",
+    "mencari pikiran",
+    "mencari punca",
+    "mencari rezeki",
+    "mencari sebab",
+    "mencari selisih",
+    "mencari seteru",
+    "mencari susah",
+    "mencari tahu",
+    "mencari uang",
+    "mencari untung"
+  ],
+  "peribahasa": [
+    "dekat mencari indu, jauh mencari suku; dekat mencari suku, jauh mencari hindu; enau mencari (memanjat) sigai; lesung mencari alu; mencari belalang atas akar; mencari jejak dalam air; mencari kutu dalam ijuk; mencari lantai terjungkat; mencari umbut dalam batu; mencari yang sehasta sejengkal; rumput mencari kuda; tak beban, batu digalas (tiada beban mencari beban); telaga mencari timba; ulam mencari sambal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cari » men.ca.ri",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berusaha mendapatkan (menemukan, memperoleh)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berusaha mendapat nafkah (rezeki)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "memilih"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -]",
+          "deskripsi": "menemukan lokasi berkas"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -]",
+          "deskripsi": "mencari data tertentu di dalam berkas atau struktur data"
+        }
+      ]
+    }
+  ]
+}

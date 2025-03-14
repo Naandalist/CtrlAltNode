@@ -1,0 +1,43 @@
+{
+  "istilah": "sumba",
+  "entri": "sum.ba1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyumba"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sum.ba1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama zat pewarna merah yang dipakai untuk mewarnai kue dan sebagainya; kesumba"
+        }
+      ]
+    },
+    {
+      "lema": "Sum.ba2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami Pulau Sumba, Provinsi Nusa Tenggara Timur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Sumba"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pulau yang merupakan bagian dari Provinsi Nusa Tenggara Timur"
+        }
+      ]
+    }
+  ]
+}

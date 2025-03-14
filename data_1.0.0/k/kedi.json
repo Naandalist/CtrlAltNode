@@ -1,0 +1,41 @@
+{
+  "istilah": "kedi",
+  "entri": "ke.di",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dikebiri, banci",
+    "kataAsal": "kědi"
+  },
+  "data": [
+    {
+      "lema": "ke.di",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pramugolf"
+        }
+      ]
+    },
+    {
+      "lema": "ke.di /kêdi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laki-laki yang bertingkah laku seperti perempuan; perempuan yang bertingkah laku seperti laki-laki; banci"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perempuan yang tidak pernah datang bulan (haid, menstruasi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lemah syahwat; impoten"
+        }
+      ]
+    }
+  ]
+}

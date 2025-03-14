@@ -1,0 +1,47 @@
+{
+  "istilah": "susuh",
+  "entri": "su.suh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersusuhan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sarang",
+    "kataAsal": "susuh"
+  },
+  "data": [
+    {
+      "lema": "su.suh1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "duri yang besar (pada tumbuhan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang keras dan runcing pada kaki ayam; jalu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyemat atau pengait dari kayu; pasak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pacu pada tumit sepatu (untuk menggertak kuda)"
+        }
+      ]
+    },
+    {
+      "lema": "su.suh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sarang burung (atau hewan lain)"
+        }
+      ]
+    }
+  ]
+}

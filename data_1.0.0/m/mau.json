@@ -1,0 +1,45 @@
+{
+  "istilah": "mau",
+  "entri": "ma.u",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkemauan",
+    "kemauan",
+    "memau-mau",
+    "memaui",
+    "memaukan",
+    "semau",
+    "semau-maunya"
+  ],
+  "gabunganKata": [
+    "mau apa",
+    "mau tak mau"
+  ],
+  "peribahasa": [
+    "ada perahu mau berenang; bagai kerakap tumbuh di (di atas) batu, hidup enggan mati tak mau; enggan seribu daya, mau sepatah kata; tidak kelih mau tengok"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.u",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sungguh-sungguh suka hendak; suka akan; sudi: ia -- datang kalau dijemput"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "akan; hendak: ibu -- berangkat ke Surabaya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kehendak; maksud: apa --mu datang ke sini?; --nya begini"
+        }
+      ]
+    }
+  ]
+}

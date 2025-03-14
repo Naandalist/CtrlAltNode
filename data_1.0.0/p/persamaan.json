@@ -1,0 +1,38 @@
+{
+  "istilah": "persamaan",
+  "entri": "sama1 » per.sa.ma.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "persamaan linier"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sama1 » per.sa.ma.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal mempersamakan (tingginya, tingkatnya, dan sebagainya): perlu diperjuangkan terus ~ hak bagi semua orang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbandingan; perumpamaan; ibarat: ~ dalam peribahasa tepat benar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan yang sama atau yang serupa dengan yang lain; persesuaian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "kalimat terbuka yang memuat hubungan sama dengan \"=\" yang belum jelas kebenarannya, sehingga perlu dibuktikan dengan mencari pengganti nilai dari variabel (peubah) yang diberikan, misalnya x+2y=6"
+        }
+      ]
+    }
+  ]
+}

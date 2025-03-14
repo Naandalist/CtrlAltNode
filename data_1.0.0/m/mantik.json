@@ -1,0 +1,30 @@
+{
+  "istilah": "mantik",
+  "entri": "man.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermantik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perkataan; metode berpikir logis",
+    "kataAsal": "manṭiq"
+  },
+  "data": [
+    {
+      "lema": "man.tik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara berpikir yang hanya berdasarkan pikiran belaka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkataan yang benar"
+        }
+      ]
+    }
+  ]
+}

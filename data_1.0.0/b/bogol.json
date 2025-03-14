@@ -1,0 +1,33 @@
+{
+  "istilah": "bogol",
+  "entri": "bo.gol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.gol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "borgol"
+        }
+      ]
+    },
+    {
+      "lema": "bo.gol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MAb[Melayu Ambon: Bahasa di Maluku]",
+          "deskripsi": "luka yang sering berulang pada bagian yang sama di kaki sehingga dapat menebal"
+        }
+      ]
+    }
+  ]
+}

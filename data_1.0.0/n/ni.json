@@ -1,0 +1,69 @@
+{
+  "istilah": "ni",
+  "entri": "ni1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ni1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ini"
+        }
+      ]
+    },
+    {
+      "lema": "ni2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "nini"
+        }
+      ]
+    },
+    {
+      "lema": "ni3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -] kp[kependekan]",
+          "deskripsi": "uni (kakak perempuan)"
+        }
+      ]
+    },
+    {
+      "lema": "ni4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada wanita yang belum kawin; nona: keluarga Taman Siswa menggunakan kata -- sebagai pengganti nama"
+        }
+      ]
+    },
+    {
+      "lema": "-ni5",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat -i2"
+        }
+      ]
+    },
+    {
+      "lema": "-i1 varian: -iah, -wi, -wiah, -nientri varian: -iah, -wi, -wiah, -ni",
+      "arti": [
+        {
+          "kelas_kata": "sufiks[- : -]",
+          "deskripsi": "berkenaan dengan; berdasar pada: alami; alamiah; badani; badaniah; duniawi; duniawiah; surgawi; gerejani"
+        }
+      ]
+    }
+  ]
+}

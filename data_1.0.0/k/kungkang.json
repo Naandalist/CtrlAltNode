@@ -1,0 +1,37 @@
+{
+  "istilah": "kungkang",
+  "entri": "kung.kang1 bentuk tidak baku: kukang, pukang2",
+  "bentukTidakBaku": "kukang, pukang2",
+  "kataTurunan": [
+    "mengungkang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "agih-agih kungkang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jenis kodok besar yang khas",
+    "kataAsal": "kuṅkaṅ"
+  },
+  "data": [
+    {
+      "lema": "kung.kang1 bentuk tidak baku: kukang, pukang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "primata berukuran sedang, tidak berekor, berwarna abu-abu keputihan dan kuning kecoklatan, matanya bulat dan besar, aktif di malam hari〔Nycticebus spp.〕"
+        }
+      ]
+    },
+    {
+      "lema": "kung.kang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "katak besar"
+        }
+      ]
+    }
+  ]
+}

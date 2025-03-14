@@ -1,0 +1,35 @@
+{
+  "istilah": "katib",
+  "entri": "ka.tib1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "katib am"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penulis; intelektual",
+    "kataAsal": "kātib"
+  },
+  "data": [
+    {
+      "lema": "ka.tib1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penulis atau penyalin (tulisan); sekretaris: maka -- pun segera menuliskan surat sesuai dengan permintaan raja"
+        }
+      ]
+    },
+    {
+      "lema": "ka.tib2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ khatib"
+        }
+      ]
+    }
+  ]
+}

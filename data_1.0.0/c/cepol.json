@@ -1,0 +1,49 @@
+{
+  "istilah": "cepol",
+  "entri": "ce.pol1 /cêpol/bentuk tidak baku: cepal",
+  "bentukTidakBaku": "cepal",
+  "kataTurunan": [
+    "mencepol",
+    "mencepol"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.pol1 /cêpol/bentuk tidak baku: cepal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tercabut; terlepas (tentang barang yang melekat); terbantun"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "rusak (bejat)"
+        }
+      ]
+    },
+    {
+      "lema": "ce.pol2 /cêpol/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "tinju; tonjok"
+        }
+      ]
+    },
+    {
+      "lema": "ce.pol3 /cêpol/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sanggul"
+        }
+      ]
+    }
+  ]
+}

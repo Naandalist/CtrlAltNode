@@ -1,0 +1,42 @@
+{
+  "istilah": "metro",
+  "entri": "met.ro1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "met.ro1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jaringan jalan kereta api di bawah tanah: pembangunan -- sebagai sarana transportasi umum bawah tanah merupakan usaha mengurangi kepadatan lalu lintas"
+        }
+      ]
+    },
+    {
+      "lema": "met.ro2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kp[kependekan]",
+          "deskripsi": "metropolitan"
+        }
+      ]
+    },
+    {
+      "lema": "Me.tro3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota (madya) di Provinsi Lampung, terkenal dengan sebutan Kota Pendidikan"
+        }
+      ]
+    }
+  ]
+}

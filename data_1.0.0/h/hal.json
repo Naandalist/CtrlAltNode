@@ -1,0 +1,51 @@
+{
+  "istilah": "hal",
+  "entri": "hal1 bentuk tidak baku: terhal",
+  "bentukTidakBaku": "terhal",
+  "kataTurunan": [
+    "berhal",
+    "terhal"
+  ],
+  "gabunganKata": [
+    "hal ahwal",
+    "hal ihwal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "situasi yang sedang berlaku",
+    "kataAsal": "ḥāl"
+  },
+  "data": [
+    {
+      "lema": "hal1 bentuk tidak baku: terhal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan; peristiwa; kejadian (sesuatu yang terjadi): -- seperti itu tidak boleh terjadi lagi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkara, urusan, soal; masalah: pemuda itu mengadukan --nya kepada polisi; ia ahli dalam -- koperasi; lima -- yang menjadi pokok pertikaian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebab: apa pula --nya maka jadi begitu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tentang; mengenai: ceramah -- keluarga berencana"
+        }
+      ]
+    },
+    {
+      "lema": "hal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "besi tipis berlapis seng"
+        }
+      ]
+    }
+  ]
+}

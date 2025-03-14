@@ -1,0 +1,44 @@
+{
+  "istilah": "dalil",
+  "entri": "da.lil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdalil",
+    "mendalilkan"
+  ],
+  "gabunganKata": [
+    "dalil alhayat",
+    "dalil aqli",
+    "dalil naqli",
+    "dalil resonansi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "petunjuk",
+    "kataAsal": "dalīl"
+  },
+  "data": [
+    {
+      "lema": "da.lil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan yang dijadikan bukti atau alasan suatu kebenaran (terutama berdasarkan ayat Al-Qur'an)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "patokan dalam matematika dan sebagainya: salah satu -- segitiga sama sisi adalah bahwa ketiga sudutnya sama besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendapat yang dikemukakan dan dipertahankan sebagai suatu kebenaran: ia tidak dapat mempertahankan --nya yang dikemukakan pada rapat itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda; penunjukan"
+        }
+      ]
+    }
+  ]
+}

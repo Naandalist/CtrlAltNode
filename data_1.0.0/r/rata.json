@@ -1,0 +1,68 @@
+{
+  "istilah": "rata",
+  "entri": "ra.ta1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memperatakan",
+    "menyeratakan",
+    "merata",
+    "merata-ratakan",
+    "meratai",
+    "meratakan",
+    "pemerata",
+    "pemerataan",
+    "perata",
+    "perataan",
+    "purata",
+    "rata-rata",
+    "serata"
+  ],
+  "gabunganKata": [
+    "rata kanan",
+    "rata kanan kiri",
+    "rata tengah",
+    "rata terbang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kereta perang",
+    "kataAsal": "ratha"
+  },
+  "data": [
+    {
+      "lema": "ra.ta1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mempunyai permukaan yang sama tinggi dan/atau sama rendah; papar: karena baru dipangkas, tanaman itu tampak bersih dan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "meliputi semua bagian: tembok itu sudah dicat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tersebar ke segenap penjuru; terdapat (ditemukan) di seluruh tempat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sama-sama memperoleh jumlah yang sama: pusaka itu sudah dibagi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tampilan naskah dokumen yang merata di sebelah kiri"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ta2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kereta: Baginda pun menaiki --nya"
+        }
+      ]
+    }
+  ]
+}

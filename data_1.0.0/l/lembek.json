@@ -1,0 +1,44 @@
+{
+  "istilah": "lembek",
+  "entri": "lem.bek /lêmbek/bentuk tidak baku: lembik",
+  "bentukTidakBaku": "lembik",
+  "kataTurunan": [
+    "kelembekan",
+    "melembek",
+    "melembekkan",
+    "terlembek"
+  ],
+  "gabunganKata": [
+    "lembek otak",
+    "lembek tulang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lem.bek /lêmbek/bentuk tidak baku: lembik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lunak (seperti nasi, bubur): ia sudah boleh makan nasi yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang keras; agak empuk (tentang bantal dan sebagainya): bantalnya -- sekali"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kendur, kurang tegang (tentang tali, per): per mobil itu sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang (tidak) bersemangat; lemah hati: ia bermain sangat --"
+        }
+      ]
+    }
+  ]
+}

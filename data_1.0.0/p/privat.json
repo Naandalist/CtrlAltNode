@@ -1,0 +1,32 @@
+{
+  "istilah": "privat",
+  "entri": "pri.vat bentuk tidak baku: prive",
+  "bentukTidakBaku": "prive",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pri.vat bentuk tidak baku: prive",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pribadi: dia mengikuti les -- tari; mobil -- mobil milik pribadi (bukan mobil dinas)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tersendiri: ia mendapat pendidikan secara --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "partikelir; swasta: lembaga keluarga berencana, baik pemerintah maupun -- amat berperan"
+        }
+      ]
+    }
+  ]
+}

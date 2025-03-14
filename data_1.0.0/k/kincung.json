@@ -1,0 +1,33 @@
+{
+  "istilah": "kincung",
+  "entri": "kin.cung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kin.cung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kecoh; tipu"
+        }
+      ]
+    },
+    {
+      "lema": "kin.cung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecombrang"
+        }
+      ]
+    }
+  ]
+}

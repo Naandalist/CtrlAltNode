@@ -1,0 +1,35 @@
+{
+  "istilah": "pujut",
+  "entri": "pu.jut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memujut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.jut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memujut"
+        }
+      ]
+    },
+    {
+      "lema": "Pu.jut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "wuku ke-15"
+        }
+      ]
+    }
+  ]
+}

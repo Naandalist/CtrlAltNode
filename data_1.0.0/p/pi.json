@@ -1,0 +1,55 @@
+{
+  "istilah": "pi",
+  "entri": "pi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "labi-labi",
+    "kataAsal": "pih"
+  },
+  "data": [
+    {
+      "lema": "pi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "taruhan di perjudian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berjudi dengan taruhan yang dibayar belakangan: main --"
+        }
+      ]
+    },
+    {
+      "lema": "pi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bulus; labi-labi"
+        }
+      ]
+    },
+    {
+      "lema": "pi3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "papi"
+        }
+      ]
+    },
+    {
+      "lema": "pi4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-16 abjad Yunani"
+        }
+      ]
+    }
+  ]
+}

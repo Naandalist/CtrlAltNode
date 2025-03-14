@@ -1,0 +1,63 @@
+{
+  "istilah": "penuh",
+  "entri": "pe.nuh /pênuh/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepenuhan",
+    "memenuhi",
+    "pemenuhan",
+    "sepenuh",
+    "terpenuh",
+    "terpenuhi"
+  ],
+  "gabunganKata": [
+    "penuh bekat",
+    "penuh harapan",
+    "penuh kepala(ku)",
+    "penuh ketakutan",
+    "penuh padat",
+    "penuh pekak",
+    "penuh pekat",
+    "penuh pepak",
+    "penuh perut(ku)",
+    "penuh ruah",
+    "penuh sesak",
+    "penuh tumpat",
+    "penuh umpah"
+  ],
+  "peribahasa": [
+    "beriak tanda tak dalam, berguncang tanda tak penuh; berkocak tanda tak penuh; janji sampai, sukatan penuh; menyukat penuh sudah; seperti menating minyak penuh; seperti menating minyak penuh; sukatannya sudah penuh; telah penuh sebagai bersukat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "penuh, berisi; memenuhi, mengisi; lengkap jumlahnya; banyak sekali, berbondong-bondong",
+    "kataAsal": "pěnuh"
+  },
+  "data": [
+    {
+      "lema": "pe.nuh /pênuh/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah berisi seluruhnya (tidak ada yang terluang lagi)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "banyak memuat: pidato sambutan -- nasihat bagi kaum tua dan remaja"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "banyak sekali: di lapangan Monas pagi-pagi sudah -- anak berolahraga"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak kurang dari jumlah yang seharusnya: gajinya sudah dibayar --; ia bekerja selama satu bulan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "lengkap; sempurna: kita telah memperoleh kemerdekaan yang --"
+        }
+      ]
+    }
+  ]
+}

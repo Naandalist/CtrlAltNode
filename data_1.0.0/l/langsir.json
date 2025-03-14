@@ -1,0 +1,45 @@
+{
+  "istilah": "langsir",
+  "entri": "lang.sir1 bentuk tidak baku: lansir1",
+  "bentukTidakBaku": "lansir1",
+  "kataTurunan": [
+    "langsiran",
+    "melangsir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.sir1 bentuk tidak baku: lansir1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melangsir"
+        }
+      ]
+    },
+    {
+      "lema": "lang.sir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "serdadu (pasukan) bertombak"
+        }
+      ]
+    },
+    {
+      "lema": "lang.sir3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "kurus"
+        }
+      ]
+    }
+  ]
+}

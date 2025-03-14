@@ -1,0 +1,37 @@
+{
+  "istilah": "serunda",
+  "entri": "se.run.da1 /sêrunda/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyerunda",
+    "berserunda",
+    "terserunda"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.run.da1 /sêrunda/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerunda"
+        }
+      ]
+    },
+    {
+      "lema": "se.run.da2 /sêrunda/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berserunda; terserunda"
+        }
+      ]
+    }
+  ]
+}

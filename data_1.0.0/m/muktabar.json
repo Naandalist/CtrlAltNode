@@ -1,0 +1,32 @@
+{
+  "istilah": "muktabar",
+  "entri": "muk.ta.bar bentuk tidak baku: mutabar",
+  "bentukTidakBaku": "mutabar",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang diakui",
+    "kataAsal": "mu‘tabar"
+  },
+  "data": [
+    {
+      "lema": "muk.ta.bar bentuk tidak baku: mutabar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terpandang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mulia; terhormat; terkenal: beberapa buah kitab yang -- dikarang oleh para ahli"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang terhormat"
+        }
+      ]
+    }
+  ]
+}

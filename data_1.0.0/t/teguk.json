@@ -1,0 +1,38 @@
+{
+  "istilah": "teguk",
+  "entri": "te.guk1 /têguk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketegukan",
+    "meneguk",
+    "seteguk",
+    "terteguk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.guk1 /têguk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meneguk"
+        }
+      ]
+    },
+    {
+      "lema": "te.guk2 /têguk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tegar; keras kepala"
+        }
+      ]
+    }
+  ]
+}

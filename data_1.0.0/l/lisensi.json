@@ -1,0 +1,41 @@
+{
+  "istilah": "lisensi",
+  "entri": "li.sen.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlisensi",
+    "melisensikan"
+  ],
+  "gabunganKata": [
+    "lisensi ekspor",
+    "lisensi paksaan",
+    "lisensi puitis",
+    "lisensi suka rela",
+    "lisensi terbang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.sen.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(surat) izin untuk mengangkut barang dagangan, usaha, dan sebagainya: -- usaha"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pajak yang harus dibayarkan untuk memperoleh surat izin, terutama tentang ekspor-impor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "izin menggunakan oktroi pihak lain dalam hukum tentang milik industri, dapat diberikan oleh si pemegang oktroi atau berdasarkan ketetapan Dewan Oktroi"
+        }
+      ]
+    }
+  ]
+}

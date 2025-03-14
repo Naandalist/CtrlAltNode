@@ -1,0 +1,41 @@
+{
+  "istilah": "tembolok",
+  "entri": "tem.bo.lok1 /têmbolok/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "penembolokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "rajin mengais tembolok berisi; rajin mengais tembolok berisi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem.bo.lok1 /têmbolok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kantong tempat makanan pada leher (burung, ayam, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "perut"
+        }
+      ]
+    },
+    {
+      "lema": "tem.bo.lok2 /têmbolok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "memori komputer berkecepatan tinggi yang digunakan untuk penyimpanan sementara data yang sering digunakan"
+        }
+      ]
+    }
+  ]
+}

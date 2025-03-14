@@ -1,0 +1,47 @@
+{
+  "istilah": "taksir",
+  "entri": "tak.sir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menaksir",
+    "penaksir",
+    "penaksir",
+    "penaksiran",
+    "taksiran",
+    "tertaksir",
+    "menaksirkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kurang taksir, hilang laba"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengabaian",
+    "kataAsal": "taqṣīr"
+  },
+  "data": [
+    {
+      "lema": "tak.sir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kira-kira; hitungan (kasar)"
+        }
+      ]
+    },
+    {
+      "lema": "tak.sir2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "tidak mengindahkan; lalai; alpa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kelalaian; kealpaan"
+        }
+      ]
+    }
+  ]
+}

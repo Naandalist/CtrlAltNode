@@ -1,0 +1,44 @@
+{
+  "istilah": "oposisi",
+  "entri": "o.po.si.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengoposisi"
+  ],
+  "gabunganKata": [
+    "oposisi berarah",
+    "oposisi bertahap",
+    "oposisi bilateral",
+    "oposisi ekuipolen",
+    "oposisi leksikal",
+    "oposisi melintang",
+    "oposisi menyiku",
+    "oposisi multilateral",
+    "oposisi privatif",
+    "oposisi proporsional",
+    "oposisi taklangsung",
+    "oposisi ternetralkan",
+    "oposisi terpencil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.po.si.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pol[Politik dan Pemerintahan: -]",
+          "deskripsi": "partai penentang di dewan perwakilan dan sebagainya yang menentang dan mengkritik pendapat atau kebijaksanaan politik golongan yang berkuasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pertentangan antara dua unsur bahasa untuk memperlihatkan perbedaan arti"
+        }
+      ]
+    }
+  ]
+}

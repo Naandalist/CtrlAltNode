@@ -1,0 +1,28 @@
+{
+  "istilah": "wijaya",
+  "entri": "wi.ja.ya",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "unggul",
+    "kataAsal": "vijaya"
+  },
+  "data": [
+    {
+      "lema": "wi.ja.ya",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kemenangan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "menang"
+        }
+      ]
+    }
+  ]
+}

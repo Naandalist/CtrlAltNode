@@ -1,0 +1,42 @@
+{
+  "istilah": "umpama",
+  "entri": "um.pa.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berumpama",
+    "mengumpamai",
+    "mengumpamakan",
+    "perumpamaan",
+    "seumpama"
+  ],
+  "gabunganKata": [
+    "umpama kata"
+  ],
+  "peribahasa": [
+    "hidup sandar-menyandar umpama aur dengan tebing; umpama air, digenggam, tiada tiris; umpama ayakan dawai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kemiripan, perbandingan, citra, persamaan, setara",
+    "kataAsal": "upamā"
+  },
+  "data": [
+    {
+      "lema": "um.pa.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang menjadi contoh (persamaan, perbandingan) dengan yang lain-lain"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sama halnya dengan; bagaikan; seakan-akan (seumpama): aku ini -- burung dalam sangkar"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "yang diandaikan (bukan hal yang sebenarnya): ini baru -- saja, jadi belum benar-benar ada"
+        }
+      ]
+    }
+  ]
+}

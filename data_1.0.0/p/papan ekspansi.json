@@ -1,0 +1,24 @@
+{
+  "istilah": "papan ekspansi",
+  "entri": "papan » papan ekspansi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "papan » papan ekspansi",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "papan sirkuit yang terhubung dari komputer ke bus komputer untuk menambahkan fungsi lain atau sumber daya"
+        }
+      ]
+    }
+  ]
+}

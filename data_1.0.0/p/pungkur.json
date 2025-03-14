@@ -1,0 +1,32 @@
+{
+  "istilah": "pungkur",
+  "entri": "pung.kur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pemungkur"
+  ],
+  "gabunganKata": [
+    "pungkur sagu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sebelah belakang, punggung",
+    "kataAsal": "puṅkur"
+  },
+  "data": [
+    {
+      "lema": "pung.kur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belakang; punggung; burit(an); buntut: tulang -- tulang belakang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisa"
+        }
+      ]
+    }
+  ]
+}

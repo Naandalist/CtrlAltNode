@@ -1,0 +1,24 @@
+{
+  "istilah": "enklitik",
+  "entri": "en.kli.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.kli.tik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "unsur tata bahasa yang tidak berdiri sendiri, selalu bergabung dengan kata yang mendahuluinya (seperti -mu dan -nya dalam bahasa Indonesia)"
+        }
+      ]
+    }
+  ]
+}

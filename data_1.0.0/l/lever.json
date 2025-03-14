@@ -1,0 +1,35 @@
+{
+  "istilah": "lever",
+  "entri": "le.ver1 /levêr/bentuk tidak baku: liver",
+  "bentukTidakBaku": "liver",
+  "kataTurunan": [
+    "melever"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.ver1 /levêr/bentuk tidak baku: liver",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hati: penderita sakit -- tidak boleh makan makanan yang berlemak"
+        }
+      ]
+    },
+    {
+      "lema": "le.ver2 /levêr/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melever"
+        }
+      ]
+    }
+  ]
+}

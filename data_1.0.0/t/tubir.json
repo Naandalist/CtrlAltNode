@@ -1,0 +1,40 @@
+{
+  "istilah": "tubir",
+  "entri": "tu.bir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.bir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tebing (jurang dan sebagainya) yang curam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepi sesuatu yang dalam (seperti tepi jurang, tepi kawah, tepi sungai)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang dekat sekali dengan tepi sesuatu yang dalam (seperti tepi jurang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang dalam sekali (di laut dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "keadaan yang hampir pada sesuatu yang sangat berbahaya (mati dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

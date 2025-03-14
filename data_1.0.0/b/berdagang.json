@@ -1,0 +1,33 @@
+{
+  "istilah": "berdagang",
+  "entri": "dagang1 » ber.da.gang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dagang1 » ber.da.gang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjual beli; berniaga"
+        }
+      ]
+    },
+    {
+      "lema": "dagang2 » ber.da.gang entri varian: berdagang diri",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengembara ke negeri orang"
+        }
+      ]
+    }
+  ]
+}

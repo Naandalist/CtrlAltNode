@@ -1,0 +1,33 @@
+{
+  "istilah": "campursari",
+  "entri": "cam.pur.sa.ri1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cam.pur.sa.ri1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penganan yang dibuat dari ketela pohon yang diparut, diwarnai, diurap dengan kelapa yang digarami, dan dikukus"
+        }
+      ]
+    },
+    {
+      "lema": "cam.pur.sa.ri2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "seni musik dengan perpaduan antara tangga nada diatonik dan pentatonik"
+        }
+      ]
+    }
+  ]
+}

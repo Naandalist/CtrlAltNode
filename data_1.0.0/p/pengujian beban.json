@@ -1,0 +1,24 @@
+{
+  "istilah": "pengujian beban",
+  "entri": "uji1 » pengujian » pengujian beban",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "uji1 » pengujian » pengujian beban",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "pengujian kinerja yang dilakukan untuk mengevaluasi perilaku komponen atau sistem sehubungan dengan meningkatnya beban, misalnya jumlah pengguna paralel dan/atau jumlah transaksi, untuk menentukan apakah beban dapat ditangani oleh komponen atau sistem"
+        }
+      ]
+    }
+  ]
+}

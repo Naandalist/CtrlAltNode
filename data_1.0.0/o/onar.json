@@ -1,0 +1,40 @@
+{
+  "istilah": "onar",
+  "entri": "o.nar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keonaran",
+    "mengonarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.nar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huru-hara; gempar: ulahnya menimbulkan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keributan; kegaduhan: anak nakal itu sering membuat --"
+        }
+      ]
+    },
+    {
+      "lema": "o.nar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "akal busuk; tipu muslihat: pedagang sering melakukan -- terhadap pembeli"
+        }
+      ]
+    }
+  ]
+}

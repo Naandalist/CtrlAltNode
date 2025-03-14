@@ -1,0 +1,50 @@
+{
+  "istilah": "senyawa",
+  "entri": "nyawa » se.nya.wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersenyawa",
+    "persenyawaan",
+    "senyawaan",
+    "tersenyawa"
+  ],
+  "gabunganKata": [
+    "senyawa kitosan",
+    "senyawa aromatik",
+    "senyawa organik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nyawa » se.nya.wa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "padu benar; sudah menjadi satu arti (tentang kata majemuk); sudah menjadi satu zat (tentang unsur kimia)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "senyawaan"
+        }
+      ]
+    },
+    {
+      "lema": "se.nya.wa /sênyawa/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berpadu benar; bersatu padu; sudah menjadi satu arti (tentang kata majemuk)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat murni dan homogen yang terdiri atas dua unsur atau lebih yang berbeda dengan perbandingan tertentu, biasanya sifatnya sangat berbeda dari sifat unsur-unsurnya; senyawaan"
+        }
+      ]
+    }
+  ]
+}

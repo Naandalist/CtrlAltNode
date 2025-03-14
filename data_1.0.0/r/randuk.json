@@ -1,0 +1,35 @@
+{
+  "istilah": "randuk",
+  "entri": "ran.duk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meranduk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ran.duk1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meranduk"
+        }
+      ]
+    },
+    {
+      "lema": "ran.duk2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berjanggut dan berbulu panjang (tentang kambing)"
+        }
+      ]
+    }
+  ]
+}

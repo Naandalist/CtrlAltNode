@@ -1,0 +1,50 @@
+{
+  "istilah": "velum",
+  "entri": "ve.lum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ve.lum1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "struktur atau selaput mirip kudung kepala, terdapat di rahang bagian atas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian belakang dari langit-langit lunak"
+        }
+      ]
+    },
+    {
+      "lema": "ve.lum2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "bahan naskah yang biasa ditemukan di Timur Tengah, terbuat dari kulit biri-biri atau kambing"
+        }
+      ]
+    },
+    {
+      "lema": "ve.lum3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penutup kepala biarawati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "bagian dari busana liturgi yang dikenakan oleh imam pada bahu saat membawa sakramen mahakudus, berupa kain lebar berwarna putih, kuning, atau emas"
+        }
+      ]
+    }
+  ]
+}

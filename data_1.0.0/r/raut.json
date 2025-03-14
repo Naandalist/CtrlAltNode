@@ -1,0 +1,41 @@
+{
+  "istilah": "raut",
+  "entri": "ra.ut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meraut",
+    "peraut",
+    "rautan"
+  ],
+  "gabunganKata": [
+    "raut kecepatan logaritmik",
+    "raut badan",
+    "raut muka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.ut1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meraut"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tampang; potongan; bentuk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "terpotong",
+  "entri": "potong » ter.po.tong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "potong » ter.po.tong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terpenggal; kena potong"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah dipotong (dipenggal, diputus)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kena pengurangan (tentang gaji, harga)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak sengaja sudah digunting (tentang bahan pakaian)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kena tebang (tentang pohon, kayu)"
+        }
+      ]
+    }
+  ]
+}

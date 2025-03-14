@@ -1,0 +1,35 @@
+{
+  "istilah": "bolak-balik",
+  "entri": "bo.lak-ba.lik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbolak-balik",
+    "membolak-balikkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.lak-ba.lik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berulang-aling pergi dan pulang; berulang kali bergerak dari satu arah ke arah lain"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan kedua sisi kertas dan sebagainya: KTP itu difotokopi -- agar menghemat kertas"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berputar balik (tentang perkataan): katakan terus terang jangan --"
+        }
+      ]
+    }
+  ]
+}

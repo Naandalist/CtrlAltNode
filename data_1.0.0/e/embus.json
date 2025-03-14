@@ -1,0 +1,41 @@
+{
+  "istilah": "embus",
+  "entri": "em.bus1 /êmbus/",
+  "bentukTidakBaku": "hembus, rembus",
+  "kataTurunan": [
+    "berembus",
+    "mengembus",
+    "berembus",
+    "embusan",
+    "mengembus",
+    "mengembuskan",
+    "pengembus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.bus1 /êmbus/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "enyah; pergi: -- kau dari sini"
+        }
+      ]
+    },
+    {
+      "lema": "em.bus2 /êmbus/bentuk tidak baku: hembus, rembus",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tiup"
+        }
+      ]
+    }
+  ]
+}

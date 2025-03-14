@@ -1,0 +1,45 @@
+{
+  "istilah": "tilik",
+  "entri": "ti.lik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menilik",
+    "penilik",
+    "penilikan",
+    "tilik-menilik",
+    "tilikan",
+    "menilik",
+    "tilik-menilik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.lik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penglihatan yang teliti (terutama penglihatan dengan mata batin): ia memiliki daya -- yang baik dan tajam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sinar (pandangan) mata: orang itu jahat --nya"
+        }
+      ]
+    },
+    {
+      "lema": "ti.lik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tenung; teluh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "istilah": "eja",
+  "entri": "e.ja",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ejaan",
+    "mengeja",
+    "pengeja",
+    "pengejaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ja",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lafal huruf satu demi satu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "gemblak",
+  "entri": "gem.blak1 /gêmblak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gem.blak1 /gêmblak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penari (ronggeng) laki-laki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "ronggeng laki-laki yang menjadi piaraan laki-laki lain"
+        }
+      ]
+    },
+    {
+      "lema": "gem.blak2 /gêmblak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuat barang-barang dari kuningan"
+        }
+      ]
+    }
+  ]
+}

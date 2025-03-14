@@ -1,0 +1,24 @@
+{
+  "istilah": "koregistrasi",
+  "entri": "ko.re.gis.tra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.re.gis.tra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "penyelarasan terhadap beberapa citra radar karena terjadi distorsi yang menyebabkan pergeseran pada data citra"
+        }
+      ]
+    }
+  ]
+}

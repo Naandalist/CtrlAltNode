@@ -1,0 +1,33 @@
+{
+  "istilah": "overture",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -] Mus[Musik: -]",
+          "deskripsi": "komposisi musik dalam bentuk sonata"
+        }
+      ]
+    },
+    {
+      "lema": "overture",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -] [Musik: -]",
+          "deskripsi": "komposisi musik dalam bentuk sonata"
+        }
+      ]
+    }
+  ]
+}

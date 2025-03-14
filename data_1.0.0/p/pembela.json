@@ -1,0 +1,37 @@
+{
+  "istilah": "pembela",
+  "entri": "bela » pem.be.la",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bela » pem.be.la",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang merawat"
+        }
+      ]
+    },
+    {
+      "lema": "bela » pem.be.la",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang membela"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli hukum yang dipilih atau ditunjuk untuk membela terdakwa dalam sidang pengadilan; pengacara; advokat"
+        }
+      ]
+    }
+  ]
+}

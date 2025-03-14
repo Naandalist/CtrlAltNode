@@ -1,0 +1,39 @@
+{
+  "istilah": "jinjang",
+  "entri": "jin.jang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjinjang",
+    "jinjangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jin.jang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pemimpin atau ketua (golongan, hantu, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "dukun yang menguasai hantu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "badan atau orang yang kemasukan setan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "orang yang menemani utusan raja"
+        }
+      ]
+    }
+  ]
+}

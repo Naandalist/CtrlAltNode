@@ -1,0 +1,51 @@
+{
+  "istilah": "dahulu",
+  "entri": "da.hu.lu bentuk tidak baku: dulu",
+  "bentukTidakBaku": "dulu",
+  "kataTurunan": [
+    "berdahulu-dahuluan",
+    "bersidahulu",
+    "dahulu-mendahului",
+    "kedahuluan",
+    "mendahului",
+    "mendahulukan",
+    "pendahulu",
+    "pendahuluan",
+    "terdahulu",
+    "terdahului"
+  ],
+  "gabunganKata": [
+    "dahulu kala"
+  ],
+  "peribahasa": [
+    "bak menanti orang dahulu, bak melalah orang kudian; berguru dahulu sebelum bergurau; dahulu bajak daripada jawi; dahulu timah, sekarang besi; kalau sorok lebih dahulu daripada tokok, tidak mati babi; kata dahulu bertepati, kata kemudian kata bercari; kata dahulu bertepati, kata kemudian kata bercari; mensiang yang baru dicari, kampil ‘lah sudah dahulu; pahit dahulu, manis kemudian; pikir dahulu pendapatan, sesal kemudian tidak berguna; sedap dahulu, pahit kemudian; sesal (pikir) dahulu pendapatan, sesal kemudian tidak berguna; sesal dahulu yang bertuah, sesal kemudian yang celaka; seperti batang mengkudu, dahulu buah daripada bunga; seperti menanti orang dahulu, mengejar orang kemudian"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.hu.lu bentuk tidak baku: dulu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(waktu) yang telah lalu; (masa) lampau: lain -- lain sekarang"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "lebih awal; paling depan: -- bajak daripada jawi"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "yang mula-mula (dikerjakan, diperbuat, dan sebagainya); dulu: -- membaca, lalu menulis; silakan duduk --"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "lebih awal; sebelum: terlebih -- saya ucapkan terima kasih; -- daripada itu"
+        }
+      ]
+    }
+  ]
+}

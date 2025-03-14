@@ -1,0 +1,32 @@
+{
+  "istilah": "pembeda",
+  "entri": "beda » pem.be.da",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "beda » pem.be.da",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang membedakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang membedakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bilangan yang membedakan suku-suku dalam deret hitung, berupa selisih antara nilai-nilai suku yang berurutan"
+        }
+      ]
+    }
+  ]
+}

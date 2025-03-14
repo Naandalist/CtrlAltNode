@@ -1,0 +1,39 @@
+{
+  "istilah": "layu",
+  "entri": "la.yu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelayuan",
+    "layu-layuan",
+    "melayu",
+    "pelayuan"
+  ],
+  "gabunganKata": [
+    "layu bakteri",
+    "layu bunga",
+    "layu fusarium"
+  ],
+  "peribahasa": [
+    "bunga yang layu balik kembang; dianjak layu, dianggur mati; dianjak layu, dibubut mati; dianjak layu, dibubut mati; diasak layu, dicabut mati; pucuk layu disiram hujan; segar dipakai, layu dibuang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "layu, merana, lemah, kurus kering",
+    "kataAsal": "layu"
+  },
+  "data": [
+    {
+      "lema": "la.yu",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak segar lagi (tentang tumbuhan, bunga, daun, dan sebagainya); lusuh; loyo: karena musim kemarau yang panjang, tumbuh-tumbuhan banyak yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pucat dan lemah karena sudah tua, tidak sehat, dan sebagainya: badannya yang dulu menggairahkan, sekarang sudah --"
+        }
+      ]
+    }
+  ]
+}

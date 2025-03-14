@@ -1,0 +1,33 @@
+{
+  "istilah": "kalbu",
+  "entri": "kal.bu1 bentuk tidak baku: kolbu, qalbu, qolbu",
+  "bentukTidakBaku": "kolbu, qalbu, qolbu",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hati; perasaan",
+    "kataAsal": "qalb"
+  },
+  "data": [
+    {
+      "lema": "kal.bu1 bentuk tidak baku: kolbu, qalbu, qolbu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkal perasaan batin; hati yang suci (murni); hati"
+        }
+      ]
+    },
+    {
+      "lema": "kal.bu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "pengelompokan sosial dalam masyarakat pada masa Kesultanan Jambi"
+        }
+      ]
+    }
+  ]
+}

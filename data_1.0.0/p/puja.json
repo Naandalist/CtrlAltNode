@@ -1,0 +1,32 @@
+{
+  "istilah": "puja",
+  "entri": "pu.ja",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memuja",
+    "memuja-muja",
+    "pemuja",
+    "pemujaan",
+    "pujaan"
+  ],
+  "gabunganKata": [
+    "puja sastra"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "rasa hormat, penghormatan, pemujaan",
+    "kataAsal": "pūjā"
+  },
+  "data": [
+    {
+      "lema": "pu.ja",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "upacara penghormatan kepada dewa-dewa (berhala dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

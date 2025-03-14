@@ -1,0 +1,48 @@
+{
+  "istilah": "bukit",
+  "entri": "bu.kit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbukit",
+    "berbukit-bukit",
+    "membukit",
+    "perbukitan"
+  ],
+  "gabunganKata": [
+    "bukit abisal",
+    "bukit pasir",
+    "bukit perintang"
+  ],
+  "peribahasa": [
+    "bukit jadi paya; hati bagai baling-baling (baling-baling di atas bukit); ke bukit sama mendaki, ke lurah sama menurun; keras bagai batu, tinggi bagai bukit; kuda pelejang bukit; membandarkan air ke bukit; menjemur bangkai ke atas bukit; merawal memulang bukit, cerana menengah kota; sedatar saja lurah dengan bukit"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.kit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumpukan tanah yang lebih tinggi daripada tempat sekelilingnya, lebih rendah daripada gunung: anak --"
+        }
+      ]
+    },
+    {
+      "lema": "Bu.kit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami sebagian wilayah pedalaman Provinsi Kalimantan Selatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Bukit"
+        }
+      ]
+    }
+  ]
+}

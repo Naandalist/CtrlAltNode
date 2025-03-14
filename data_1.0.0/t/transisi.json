@@ -1,0 +1,32 @@
+{
+  "istilah": "transisi",
+  "entri": "tran.si.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tran.si.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peralihan dari keadaan (tempat, tindakan, dan sebagainya) pada yang lain: masa -- [1] masa peralihan [2] masa pancaroba; pada masa --, pada umumnya keadaan belum stabil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "perubahan keadaan sistem mekanika kuantum dari satu aras tenaga ke aras tenaga yang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "salah satu kategori penggunaan efek bunyi dan musik"
+        }
+      ]
+    }
+  ]
+}

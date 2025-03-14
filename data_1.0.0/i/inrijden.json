@@ -1,0 +1,41 @@
+{
+  "istilah": "inrijden",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "uji jalan mesin (baik mesin mobil maupun mesin bukan mobil, seperti mesin jahit)"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "melancarkan sesuatu dengan baik (misalnya mesin kendaraan) dengan menjalankannya secara berhati-hati selama jangka waktu tertentu"
+        }
+      ]
+    },
+    {
+      "lema": "inrijden",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "uji jalan mesin (baik mesin mobil maupun mesin bukan mobil, seperti mesin jahit)"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "melancarkan sesuatu dengan baik (misalnya mesin kendaraan) dengan menjalankannya secara berhati-hati selama jangka waktu tertentu"
+        }
+      ]
+    }
+  ]
+}

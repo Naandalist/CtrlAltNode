@@ -1,0 +1,27 @@
+{
+  "istilah": "sambi",
+  "entri": "sam.bi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyambi",
+    "penyambian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sambil, pada waktu yang sama",
+    "kataAsal": "sambi"
+  },
+  "data": [
+    {
+      "lema": "sam.bi",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menyambi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "perimping",
+  "entri": "pe.rim.ping1 /pêrimping/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.rim.ping1 /pêrimping/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perimpin"
+        }
+      ]
+    },
+    {
+      "lema": "pe.rim.ping2 /pêrimping/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat rumput"
+        }
+      ]
+    }
+  ]
+}

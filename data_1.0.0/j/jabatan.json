@@ -1,0 +1,38 @@
+{
+  "istilah": "jabatan",
+  "entri": "jabat » ja.bat.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jabatan fungsional",
+    "jabatan negeri",
+    "jabatan organik",
+    "jabatan rangkap",
+    "jabatan struktural"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jabat » ja.bat.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekerjaan (tugas) dalam pemerintahan atau organisasi: ia berhenti dari ~nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "fungsi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dinas; jawatan: surat ~"
+        }
+      ]
+    }
+  ]
+}

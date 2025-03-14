@@ -1,0 +1,53 @@
+{
+  "istilah": "nanti",
+  "entri": "nan.ti1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bernanti-nanti",
+    "nantinya",
+    "bernanti-nanti",
+    "bernantian",
+    "menanti",
+    "menanti-nanti",
+    "menantikan",
+    "nanti-nantian",
+    "penanti",
+    "penantian",
+    "ternanti-nanti"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menanti, tinggal, menetap, hidup; menantikan, mengharapkan, mengharap sungguh; tinggal di, mengakhiri, melewati (waktu)",
+    "kataAsal": "aṅanti"
+  },
+  "data": [
+    {
+      "lema": "nan.ti1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu yang tidak lama dari sekarang; waktu kemudian; kelak: hal itu akan kita bicarakan --; -- saya akan menelepon Anda lagi; sampai bertemu lagi --"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kalau tidak begitu; kalau tidak: dengarkan nasihatku baik-baik, -- engkau menyesal; jangan kauganggu, -- ia marah"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "akan: tidak -- menurut perintahmu"
+        }
+      ]
+    },
+    {
+      "lema": "nan.ti2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tunggu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "logaritma",
+  "entri": "lo.ga.rit.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.ga.rit.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "eksponen pangkat yang diperlukan untuk memangkatkan bilangan dasar supaya beroleh bilangan tertentu (jika bilangan dasarnya 10, maka log 100 = 2, artinya 10 pangkat 2 = 100); kebalikan dari hitungan pangkat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "toilet",
+  "entri": "toi.let1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "toi.let1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peranti untuk berhias, seperti bedak, cermin, dan sikat rambut: kamar -- kamar rias; meja -- meja rias (dengan cermin besar)"
+        }
+      ]
+    },
+    {
+      "lema": "toi.let2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat cuci tangan dan muka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kamar kecil (kakus): kertas -- (gulungan) kertas yang dipakai di kamar kecil"
+        }
+      ]
+    }
+  ]
+}

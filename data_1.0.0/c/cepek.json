@@ -1,0 +1,26 @@
+{
+  "istilah": "cepek",
+  "entri": "ce.pek /cêpek/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cepekan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Zhangzhou",
+    "arti": "seratus",
+    "kataAsal": "chi̍t peh"
+  },
+  "data": [
+    {
+      "lema": "ce.pek /cêpek/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Cn[Cina: -]",
+          "deskripsi": "seratus"
+        }
+      ]
+    }
+  ]
+}

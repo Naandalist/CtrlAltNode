@@ -1,0 +1,51 @@
+{
+  "istilah": "lila",
+  "entri": "li.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "lingkar lengan atas"
+        }
+      ]
+    },
+    {
+      "lema": "li.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "meriam kecil terbuat dari tembaga atau gangsa"
+        }
+      ]
+    },
+    {
+      "lema": "li.la3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rela"
+        }
+      ]
+    },
+    {
+      "lema": "li.la4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ungu muda"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "kibas",
+  "entri": "ki.bas1",
+  "bentukTidakBaku": "gibas1",
+  "kataTurunan": [
+    "kibasan",
+    "mengibas",
+    "mengibas-ngibas",
+    "mengibas-ngibaskan",
+    "mengibaskan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "domba jantan",
+    "kataAsal": "kibāsy"
+  },
+  "data": [
+    {
+      "lema": "ki.bas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan seperti mengipas"
+        }
+      ]
+    },
+    {
+      "lema": "ki.bas2 bentuk tidak baku: gibas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kambing yang bulunya panjang, tebal, dan keriting; domba; biri-biri〔Ovis aries〕"
+        }
+      ]
+    }
+  ]
+}

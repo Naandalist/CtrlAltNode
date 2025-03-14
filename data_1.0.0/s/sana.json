@@ -1,0 +1,46 @@
+{
+  "istilah": "sana",
+  "entri": "sa.na1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sana sini"
+  ],
+  "peribahasa": [
+    "di mana bumi dipijak, di sana langit dijunjung; di mana pinggan pecah, di sana tembikar tinggal; ke mana kelok lilin, ke sana kelok loyang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.na1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "penunjuk tempat yang jauh (atau dianggap jauh) dari pembicara: mereka bertempat tinggal di --; mereka berangkat ke --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.na2",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "dia: pihak -- yang berbuat curang"
+        }
+      ]
+    },
+    {
+      "lema": "sa.na3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ angsana"
+        }
+      ]
+    }
+  ]
+}

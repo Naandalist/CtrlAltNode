@@ -1,0 +1,33 @@
+{
+  "istilah": "gano",
+  "entri": "ga.no1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.no1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "pendengaran yang terganggu karena telinga tersumbat"
+        }
+      ]
+    },
+    {
+      "lema": "ga.no2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "hantu atau makhluk halus yang tinggal di sungai atau air: dia lari terbirit-birit karena melihat -- di sungai itu"
+        }
+      ]
+    }
+  ]
+}

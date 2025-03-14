@@ -1,0 +1,61 @@
+{
+  "istilah": "guling",
+  "entri": "gu.ling1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengguling",
+    "berguling",
+    "berguling-guling",
+    "bergulingan",
+    "mengguling",
+    "menggulingkan",
+    "terguling",
+    "terguling-guling",
+    "mengguling"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.ling1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bantal yang bentuknya bulat panjang"
+        }
+      ]
+    },
+    {
+      "lema": "gu.ling2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gulung berbolak-balik"
+        }
+      ]
+    },
+    {
+      "lema": "gu.ling3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "gerak benda pada suatu permukaan secara translasi dan rotasi sekaligus"
+        }
+      ]
+    },
+    {
+      "lema": "gu.ling4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masakan (berupa kambing dan sebagainya) yang dipanggang sepenuhnya"
+        }
+      ]
+    }
+  ]
+}

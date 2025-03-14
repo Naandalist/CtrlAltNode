@@ -1,0 +1,33 @@
+{
+  "istilah": "ladu",
+  "entri": "la.du1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.du1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kue bulat-bulat yang dibuat dari tepung beras"
+        }
+      ]
+    },
+    {
+      "lema": "la.du2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "abu panas gunung api yang dibawa angin, dan membahayakan bagi kehidupan yang dilaluinya; awan panas; lahar; lading3"
+        }
+      ]
+    }
+  ]
+}

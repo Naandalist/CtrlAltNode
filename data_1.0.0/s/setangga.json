@@ -1,0 +1,37 @@
+{
+  "istilah": "setangga",
+  "entri": "tangga » se.tang.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tangga » se.tang.ga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sama tingkatannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tetangga"
+        }
+      ]
+    },
+    {
+      "lema": "se.tang.ga /sêtangga/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tetangga"
+        }
+      ]
+    }
+  ]
+}

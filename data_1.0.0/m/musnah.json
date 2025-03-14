@@ -1,0 +1,33 @@
+{
+  "istilah": "musnah",
+  "entri": "mus.nah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemusnahan",
+    "memusnahkan",
+    "pemusnah",
+    "pemusnahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "hilang",
+    "kataAsal": "musna"
+  },
+  "data": [
+    {
+      "lema": "mus.nah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lenyap; binasa: segala hartanya -- dimakan api"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hilang: uap alkohol itu -- ke udara"
+        }
+      ]
+    }
+  ]
+}

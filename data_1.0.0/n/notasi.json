@@ -1,0 +1,45 @@
+{
+  "istilah": "notasi",
+  "entri": "no.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bernotasi"
+  ],
+  "gabunganKata": [
+    "notasi alfabetis",
+    "notasi analfabetis",
+    "notasi fonemis",
+    "notasi fonetis",
+    "notasi musik",
+    "notasi sintaks abstrak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "no.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seperangkat atau sistem lambang (tanda) yang menggambarkan bilangan (tentang aljabar), nada (tentang musik), dan ujaran (tentang fonetik)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses pelambangan bilangan, nada, atau ujaran dengan tanda (huruf)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "catatan pendek yang perlu diketahui atau untuk mengingatkan sesuatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "suatu metode pencatatan, sepanjang persiapan dan proses latihan, dalam rangka menyimpan alur perjalanan dari elemen penandaan yang berbeda-beda"
+        }
+      ]
+    }
+  ]
+}

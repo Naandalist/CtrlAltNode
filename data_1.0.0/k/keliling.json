@@ -1,0 +1,43 @@
+{
+  "istilah": "keliling",
+  "entri": "ke.li.ling /kêliling/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkeliling",
+    "berkeliling-keliling",
+    "mengelilingi",
+    "mengelilingkan",
+    "pengeliling",
+    "sekeliling"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berada atau berjalan keliling, mengelilingi, bulat atau lengkung",
+    "kataAsal": "kuliliṅ"
+  },
+  "data": [
+    {
+      "lema": "ke.li.ling /kêliling/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis yang membatasi suatu bidang: -- persegi panjang ialah dua kali panjang ditambah dua kali lebar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkungan di sekitar sesuatu: kebun di -- rumah itu ditanami pohon buah-buahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "lengkung tertutup sederhana yang merupakan batas suatu daerah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "keliling atau lilitan bola (tentang hoki, sepak bola)"
+        }
+      ]
+    }
+  ]
+}

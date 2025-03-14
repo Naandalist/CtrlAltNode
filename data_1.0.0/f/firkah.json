@@ -1,0 +1,28 @@
+{
+  "istilah": "firkah",
+  "entri": "fir.kah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kelompok",
+    "kataAsal": "firqah"
+  },
+  "data": [
+    {
+      "lema": "fir.kah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang terpisah dari kesatuan; pecahan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "deposito",
+  "entri": "de.po.si.to",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendepositokan",
+    "pendepositoan"
+  ],
+  "gabunganKata": [
+    "deposito antarbank",
+    "deposito berjangka",
+    "deposito primer"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.po.si.to",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "uang yang disimpan dalam rekening"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "tindakan menyimpan uang di bank"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "kredit yang diberikan bank kepada seseorang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "hak atas saldo uang di bank bagi mereka yang telah menyimpannya di bank"
+        }
+      ]
+    }
+  ]
+}

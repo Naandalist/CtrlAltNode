@@ -1,0 +1,44 @@
+{
+  "istilah": "radio",
+  "entri": "ra.di.o",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meradiokan"
+  ],
+  "gabunganKata": [
+    "radio dengkul",
+    "radio etnik",
+    "radio kaset",
+    "radio lokomotif",
+    "radio panggil",
+    "radio pencari arah",
+    "radio portabel",
+    "radio telepon jalan",
+    "radio transistor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.di.o",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "siaran (pengiriman) suara atau bunyi melalui udara: dia mendengarkan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemancar radio"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pesawat radio"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "impresi",
+  "entri": "im.pre.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "im.pre.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesan: saya mempunyai -- bahwa ia bukan orang yang dapat dipercaya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "efek pada indra: -- visual (melalui mata)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "efek atau pengaruh yang dalam terhadap pikiran atau perasaan: pidatonya memberikan -- yang dalam pada hadirin"
+        }
+      ]
+    },
+    {
+      "lema": "im.pre.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "lekukan pada suatu struktur karena adanya tekanan struktur lain"
+        }
+      ]
+    }
+  ]
+}

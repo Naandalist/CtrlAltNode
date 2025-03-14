@@ -1,0 +1,45 @@
+{
+  "istilah": "pukang",
+  "entri": "pu.kang1",
+  "bentukTidakBaku": "kubung1",
+  "kataTurunan": [
+    "memukang-mukang"
+  ],
+  "gabunganKata": [
+    "pukang domba"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "paha, pantat (kuda)",
+    "kataAsal": "pukaṅ"
+  },
+  "data": [
+    {
+      "lema": "pu.kang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "paha (lembu, kuda, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celah kangkang (antara kedua kaki)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sudut jangka dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "pu.kang2 bentuk tidak baku: kubung1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kungkang1"
+        }
+      ]
+    }
+  ]
+}

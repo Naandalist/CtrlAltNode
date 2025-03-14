@@ -1,0 +1,32 @@
+{
+  "istilah": "transgender",
+  "entri": "trans.gen.der /transgendêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trans.gen.der /transgendêr/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengganti jenis kelamin dengan operasi: saat dewasa memutuskan untuk --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "transeksual"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan transeksual: model --"
+        }
+      ]
+    }
+  ]
+}

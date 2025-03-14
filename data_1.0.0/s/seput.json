@@ -1,0 +1,37 @@
+{
+  "istilah": "seput",
+  "entri": "se.put1 /sêput/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.put1 /sêput/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lekas; segera; cepat: kereta api --; kiriman --"
+        }
+      ]
+    },
+    {
+      "lema": "se.put2 /sêput/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suram; luntur (tentang warna dan sebagainya): baju saya baru sekali dicuci sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kusam, tidak berkilat (tentang warna logam)"
+        }
+      ]
+    }
+  ]
+}

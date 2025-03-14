@@ -1,0 +1,32 @@
+{
+  "istilah": "penambah",
+  "entri": "tambah » pe.nam.bah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tambah » pe.nam.bah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dipakai untuk menambah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bilangan yang ditambahkan kepada bilangan lain (dalam penjumlahan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "peranti yang data keluarannya adalah jumlah aritmatika dari dua atau lebih data masukan"
+        }
+      ]
+    }
+  ]
+}

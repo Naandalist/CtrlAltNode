@@ -1,0 +1,58 @@
+{
+  "istilah": "cara",
+  "entri": "ca.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "secara"
+  ],
+  "gabunganKata": [
+    "cara artikulasi",
+    "cara penyajian"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pergerakan, perjalanan; cara, praktIk, latihan",
+    "kataAsal": "cāra"
+  },
+  "data": [
+    {
+      "lema": "ca.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan (aturan, sistem) melakukan (berbuat dan sebagainya) sesuatu: begitulah -- orang membuat tapai; bagaimana -- menulis huruf ini?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gaya; ragam (seperti bentuk, corak): ia mempunyai baju -- Cina; ia pandai menari -- Sunda, Jawa, dan Bali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adat kebiasaan; perbuatan (kelakuan) yang sudah menjadi kebiasaan: jika berada di negeri orang, jangan membawa --mu sendiri; perkawinan -- Barat tidak sama dengan -- kita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa; logat (dialek): ia menjawab dalam -- Cina; dalam -- Jakarta disebut “tampek,” -- Jawa “gabak,” dan -- Melayu “campak”"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan yang harus ditempuh: ia sedang memikirkan satu -- untuk membebaskan dirinya dari cengkeraman lawannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "usaha; ikhtiar: hal itu adalah suatu -- untuk memupuk rasa nasionalisme"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MAb[Melayu Ambon: Bahasa di Maluku]",
+          "deskripsi": "penganan khas Ambon, terbuat dari adonan tepung terigu, telur, susu, mentega, garam, gula, dan santan cair, yang dimasukkan ke dalam cetakan khusus dengan diberi isian berupa irisan ikan cakalang dan bumbu yang ditumis, di atasnya diberi pugasan berupa irisan cabai merah, kemudian dipanggang"
+        }
+      ]
+    }
+  ]
+}

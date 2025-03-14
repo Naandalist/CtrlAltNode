@@ -1,0 +1,24 @@
+{
+  "istilah": "pemindai virus",
+  "entri": "pindai » pemindai » pemindai virus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pindai » pemindai » pemindai virus",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "program antivirus yang mencari tanda-tanda keberadaan virus dalam sistem yang telah melekat pada program dan aplikasi yang dapat dieksekusi, seperti klien surat elektronik"
+        }
+      ]
+    }
+  ]
+}

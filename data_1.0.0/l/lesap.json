@@ -1,0 +1,36 @@
+{
+  "istilah": "lesap",
+  "entri": "le.sap /lêsap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melesapkan",
+    "pelesap",
+    "pelesapan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.sap /lêsap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hilang; lenyap; lucut: air itu -- diisap tanah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghilang secara berangsur-angsur (suara, gambar)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ling[Linguistik: -]",
+          "deskripsi": "hilang satu dari dua unsur atau bagian konstruksi yang koreferensial, seperti subjek anak kalimat pada sebelum pergi, dia menulis surat"
+        }
+      ]
+    }
+  ]
+}

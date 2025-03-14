@@ -1,0 +1,37 @@
+{
+  "istilah": "jejaring",
+  "entri": "je.ja.ring /jêjaring/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjejaring"
+  ],
+  "gabunganKata": [
+    "jejaring kebudayaan",
+    "jejaring sosial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.ja.ring /jêjaring/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jaring-jaring; jaringan (komunikasi): dengan -- luas dan pemikiran global, mereka bisa dengan mudah menerobos pasar ekspor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "sistem komputer terminal dan pangkalan data yang dihubungkan dengan saluran telekomunikasi untuk pertukaran data; jaringan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hubungan antara individu, kelompok atau institusi untuk mempertukarkan informasi atau mengembangan kontak sosial atau profesional"
+        }
+      ]
+    }
+  ]
+}

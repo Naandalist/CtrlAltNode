@@ -1,0 +1,64 @@
+{
+  "istilah": "hawa",
+  "entri": "ha.wa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhawa",
+    "menghawa",
+    "menghawakan",
+    "penghawaan"
+  ],
+  "gabunganKata": [
+    "hawa daba",
+    "hawa nafsu"
+  ],
+  "peribahasa": [
+    "hawa pantang kerendahan, nafsu pantang kekurangan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "istri Nabi Adam",
+    "kataAsal": "ḥawwā’"
+  },
+  "data": [
+    {
+      "lema": "ha.wa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "campuran berbagai-bagai gas yang meliputi bumi; udara: angin terjadi karena gerakan --; bukalah jendela itu supaya -- masuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan udara pada suatu tempat; iklim: -- bersih; -- panas; -- dingin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan udara (bukan suhu, cuaca, dan lain-lain): di pagi hari -- masih sejuk dan segar"
+        }
+      ]
+    },
+    {
+      "lema": "ha.wa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keinginan; nafsu"
+        }
+      ]
+    },
+    {
+      "lema": "Ha.wa3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Siti Hawa, istri Nabi Adam a.s."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "(ditulis dengan huruf kecil) perempuan: kaum --"
+        }
+      ]
+    }
+  ]
+}

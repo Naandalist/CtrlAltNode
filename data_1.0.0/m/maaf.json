@@ -1,0 +1,41 @@
+{
+  "istilah": "maaf",
+  "entri": "ma.af",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermaaf-maafan",
+    "maaf-memaafkan",
+    "memaafi",
+    "memaafkan",
+    "pemaaf",
+    "pemaafan",
+    "permaafan",
+    "termaafkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang diberikan kesehatan; yang dijaga; dipersilakan",
+    "kataAsal": "mu‘āfan"
+  },
+  "data": [
+    {
+      "lema": "ma.af",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembebasan seseorang dari hukuman (tuntutan, denda, dan sebagainya) karena suatu kesalahan; ampun: minta --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ungkapan permintaan ampun atau penyesalan: --, saya datang terlambat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ungkapan permintaan izin untuk melakukan sesuatu: --, bolehkah saya bertanya"
+        }
+      ]
+    }
+  ]
+}

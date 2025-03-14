@@ -1,0 +1,36 @@
+{
+  "istilah": "tepis",
+  "entri": "te.pis1 /têpis/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menepis",
+    "menepis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.pis1 /têpis/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tangkis dengan belakang tangan"
+        }
+      ]
+    },
+    {
+      "lema": "te.pis2 /têpis/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menepis"
+        }
+      ]
+    }
+  ]
+}

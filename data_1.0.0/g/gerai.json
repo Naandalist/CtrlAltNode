@@ -1,0 +1,60 @@
+{
+  "istilah": "gerai",
+  "entri": "ge.rai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggeraikan",
+    "tergerai",
+    "tergerai-gerai",
+    "menggerai"
+  ],
+  "gabunganKata": [
+    "gerai kudapan",
+    "gerai lapor keluar",
+    "gerai lapor masuk",
+    "gerai resepsi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.rai",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menggeraikan; tergerai; tergerai-gerai"
+        }
+      ]
+    },
+    {
+      "lema": "ge.rai1 /gêrai/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat duduk pengantin; pelaminan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balai-balai untuk tempat tidur dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedai kecil, meja, dan sebagainya tempat melayani pengunjung (pembeli, pelanggan) di hotel, bank, dan sebagainya; konter2"
+        }
+      ]
+    },
+    {
+      "lema": "ge.rai2 /gêrai/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gali; gorek"
+        }
+      ]
+    }
+  ]
+}

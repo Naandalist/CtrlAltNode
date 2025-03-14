@@ -1,0 +1,32 @@
+{
+  "istilah": "kelabat",
+  "entri": "ke.la.bat /kêlabat/bentuk tidak baku: kelabet, klabet",
+  "bentukTidakBaku": "kelabet, klabet",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kelabat (Trigonella foenumgraecum)",
+    "kataAsal": "ḥulbah"
+  },
+  "data": [
+    {
+      "lema": "ke.la.bat /kêlabat/bentuk tidak baku: kelabet, klabet",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan yang dibudidayakan, bijinya berbau harum dan mempunyai sifat penyegar, dibuat campuran param atau digunakan sebagai obat untuk mengurangi rasa sakit〔Trigonella foenumgraecum〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "biji kelabat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hulbah"
+        }
+      ]
+    }
+  ]
+}

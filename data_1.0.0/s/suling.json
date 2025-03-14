@@ -1,0 +1,58 @@
+{
+  "istilah": "suling",
+  "entri": "su.ling1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyuling",
+    "seruling",
+    "menyuling",
+    "penyuling",
+    "penyulingan",
+    "sulingan",
+    "menyulingkan",
+    "tersuling"
+  ],
+  "gabunganKata": [
+    "suling daling",
+    "suling paling"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.ling1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seruling; bangsi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peluit (kapal, kereta api, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "su.ling2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyuling"
+        }
+      ]
+    },
+    {
+      "lema": "su.ling3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "dalam keadaan kepala di bawah dan kaki di atas (tentang sikap badan); jungkir; tunggang"
+        }
+      ]
+    }
+  ]
+}

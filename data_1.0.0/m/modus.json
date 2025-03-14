@@ -1,0 +1,48 @@
+{
+  "istilah": "modus",
+  "entri": "mo.dus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "modus desideratif",
+    "modus imperatif",
+    "modus indikatif",
+    "modus interogatif",
+    "modus operandi",
+    "modus operasi",
+    "modus optatif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.dus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bentuk verba yang mengungkapkan suasana kejiwaan sehubungan dengan perbuatan menurut tafsiran pembicara tentang apa yang diucapkannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "nilai yang paling besar frekuensinya dalam suatu deretan nilai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "angka statistik yang paling sering muncul dalam populasi atau sampel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "nilai yang paling banyak muncul dalam suatu deret nilai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "wa",
+  "entri": "wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "dan; demi",
+    "kataAsal": "wa"
+  },
+  "data": [
+    {
+      "lema": "wa",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "dan (dalam beberapa ungkapan Arab): wallahu alam dan hanya Allah yang paling mengetahui"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "demi (diucapkan untuk bersumpah dalam ungkapan Arab): wallahi demi Allah"
+        }
+      ]
+    }
+  ]
+}

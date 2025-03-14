@@ -1,0 +1,32 @@
+{
+  "istilah": "nektar",
+  "entri": "nek.tar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nek.tar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman para dewa (Yunani dan Romawi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman yang dapat memberikan kenikmatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "cairan manis yang terdapat pada bunga yang biasa diserap lebah, merupakan bahan utama untuk madu"
+        }
+      ]
+    }
+  ]
+}

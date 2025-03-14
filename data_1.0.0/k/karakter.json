@@ -1,0 +1,49 @@
+{
+  "istilah": "karakter",
+  "entri": "ka.rak.ter1 /karaktêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkarakter",
+    "pengarakteran",
+    "berkarakter"
+  ],
+  "gabunganKata": [
+    "karakter amoral",
+    "karakter anal",
+    "karakter permintaan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.rak.ter1 /karaktêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat-sifat kejiwaan, akhlak atau budi pekerti yang membedakan seseorang dari yang lain; tabiat; watak: ia mempunyai -- agak aneh dibandingkan dengan kakaknya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.rak.ter2 /karaktêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "huruf, angka, ruang, simbol khusus yang dapat dimunculkan pada layar dengan papan ketik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "simbol grafis yang tampak sebagai tanda cetakan atau tampilan, seperti huruf alfabet, angka, atau tanda baca"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "simbol berupa angka atau huruf yang merepresentasikan suatu informasi"
+        }
+      ]
+    }
+  ]
+}

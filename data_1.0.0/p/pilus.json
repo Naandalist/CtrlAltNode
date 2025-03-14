@@ -1,0 +1,33 @@
+{
+  "istilah": "pilus",
+  "entri": "pi.lus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.lus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang digoreng, dibuat dari tepung beras dan gula, berbentuk bulat panjang"
+        }
+      ]
+    },
+    {
+      "lema": "pi.lus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "awan tambahan berbentuk tudung, biasanya terdapat di puncak awan kumulus atau kumulonimbus"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "besut",
+  "entri": "be.sut1 /bêsut/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "besutan",
+    "membesut",
+    "pembesut",
+    "pembesutan",
+    "besutan",
+    "membesut",
+    "membesutkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.sut1 /bêsut/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gosok (logam dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "asuh; latih"
+        }
+      ]
+    },
+    {
+      "lema": "be.sut2 /bêsut/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sembur (tentang darah, air, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "cempaka",
+  "entri": "cem.pa.ka1 /cêmpaka/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "cempaka ambon",
+    "cempaka bulus",
+    "cempaka gondok",
+    "cempaka kuning",
+    "cempaka putih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bunga cempaka [Magnolia champaca]",
+    "kataAsal": "campaka"
+  },
+  "data": [
+    {
+      "lema": "cem.pa.ka1 /cêmpaka/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, tinggi hingga 25 m, kayu teras dapat dibuat sarung senjata yang indah, bunganya berwarna kuning dan berbau harum; cempaka kuning; kantil〔Michelia champaca〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunga cempaka"
+        }
+      ]
+    },
+    {
+      "lema": "cem.pa.ka2 /cêmpaka/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu permata yang warnanya kuning muda"
+        }
+      ]
+    }
+  ]
+}

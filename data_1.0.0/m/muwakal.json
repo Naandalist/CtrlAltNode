@@ -1,0 +1,28 @@
+{
+  "istilah": "muwakal",
+  "entri": "mu.wa.kal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang dipasrahkan",
+    "kataAsal": "muwakkal"
+  },
+  "data": [
+    {
+      "lema": "mu.wa.kal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wakil"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam keadaan mencakupi; representatif"
+        }
+      ]
+    }
+  ]
+}

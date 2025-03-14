@@ -1,0 +1,69 @@
+{
+  "istilah": "kereta",
+  "entri": "ke.re.ta /kêreta/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkereta",
+    "perkeretaan"
+  ],
+  "gabunganKata": [
+    "kereta angin",
+    "kereta baja",
+    "kereta balik",
+    "kereta barang",
+    "kereta bogi",
+    "kereta cepat",
+    "kereta dorong",
+    "kereta gandeng",
+    "kereta gantung",
+    "kereta jenazah",
+    "kereta kamera",
+    "kereta klutuk",
+    "kereta kuda",
+    "kereta landasan",
+    "kereta lereng",
+    "kereta makan",
+    "kereta mati",
+    "kereta mayat",
+    "kereta merta",
+    "kereta monorel",
+    "kereta pelangkin",
+    "kereta penumpang",
+    "kereta pos",
+    "kereta rel",
+    "kereta rel diesel",
+    "kereta rel listrik",
+    "kereta ringan",
+    "kereta saji",
+    "kereta salju",
+    "kereta sorong",
+    "kereta troli"
+  ],
+  "peribahasa": [
+    "hitam, hitam kereta api, putihputih kapur sirih"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.re.ta /kêreta/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kendaraan yang beroda dua atau empat (biasanya ditarik oleh kuda)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kereta api"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepeda motor"
+        }
+      ]
+    }
+  ]
+}

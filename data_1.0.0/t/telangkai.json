@@ -1,0 +1,41 @@
+{
+  "istilah": "telangkai",
+  "entri": "te.lang.kai1 /têlangkai/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menelangkai",
+    "penelangkaian",
+    "menelangkai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.lang.kai1 /têlangkai/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perantara dalam perkawinan (juga dalam perundingan): akhirnya pemuda itu menyuruh seorang -- meminang gadis idamannya untuk menjadi istrinya; dalam -- sudah dipinang orang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perantara (wakil): orang tua tadi yang menjadi -- dalam penjualan kerbau itu"
+        }
+      ]
+    },
+    {
+      "lema": "te.lang.kai2 /têlangkai/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menelangkai"
+        }
+      ]
+    }
+  ]
+}

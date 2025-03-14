@@ -1,0 +1,32 @@
+{
+  "istilah": "diapositif",
+  "entri": "di.a.po.si.tif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.a.po.si.tif",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "gambar fotografi positif di atas alas bening, digunakan sebagai bias yang diproyeksikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "transparansi kecil yang dicetak dari negatif hasil pemotretan udara untuk keperluan kontur peta relief"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil cetakan yang dasarnya berwarna pekat, gambar atau teksnya putih; dias"
+        }
+      ]
+    }
+  ]
+}

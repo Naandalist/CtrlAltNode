@@ -1,0 +1,40 @@
+{
+  "istilah": "sair",
+  "entri": "sa.ir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepenyairan",
+    "penyair"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "api; kobaran api",
+    "kataAsal": "sa‘īr"
+  },
+  "data": [
+    {
+      "lema": "sa.ir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "syair"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "api neraka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "neraka"
+        }
+      ]
+    }
+  ]
+}

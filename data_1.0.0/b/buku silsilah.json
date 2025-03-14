@@ -1,0 +1,28 @@
+{
+  "istilah": "buku silsilah",
+  "entri": "buku1 » buku silsilah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buku1 » buku silsilah",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "buku yang berisikan catatan asal-usul keturunan seseorang"
+        },
+        {
+          "kelas_kata": "Tern[Peternakan: -]",
+          "deskripsi": "buku yang berisikan catatan asal-usul ternak (mengenai keturunan asalnya) yang dilengkapi dengan kemampuan produksinya masing-masing"
+        }
+      ]
+    }
+  ]
+}

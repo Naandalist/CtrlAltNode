@@ -1,0 +1,33 @@
+{
+  "istilah": "gazal",
+  "entri": "ga.zal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembicaraan perihal asmara",
+    "kataAsal": "gazal"
+  },
+  "data": [
+    {
+      "lema": "ga.zal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "puisi yang berasal dari Persia, terdiri atas delapan baris, tiap bait berisi perihal asmara dan tiap baris berakhir dengan kata yang sama"
+        }
+      ]
+    },
+    {
+      "lema": "ga.zal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "musik yang dimainkan oleh masyarakat Jambi, dengan menggabungkan irama gambus, zapin, dan langgam, berfungsi sebagai musik hiburan pada hari besar Islam dan pada pesta perkawinan"
+        }
+      ]
+    }
+  ]
+}

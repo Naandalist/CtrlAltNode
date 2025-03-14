@@ -1,0 +1,32 @@
+{
+  "istilah": "katode",
+  "entri": "ka.to.de /katodê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.to.de /katodê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "kutub negatif dari sel elektrolit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "kutub positif sel primer atau baterai penyimpan (basah) yang mengalirkan arus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "elektrode yang bermuatan elektrik negatif"
+        }
+      ]
+    }
+  ]
+}

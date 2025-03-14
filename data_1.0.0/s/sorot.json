@@ -1,0 +1,37 @@
+{
+  "istilah": "sorot",
+  "entri": "so.rot",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyorot",
+    "menyoroti",
+    "menyorotkan",
+    "penyorot",
+    "penyorotan",
+    "sorotan",
+    "tersorot"
+  ],
+  "gabunganKata": [
+    "sorot balik",
+    "sorot belakang",
+    "sorot iringan",
+    "sorot profil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sinar, cahaya",
+    "kataAsal": "sorot"
+  },
+  "data": [
+    {
+      "lema": "so.rot",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sinar; cahaya (seri): -- lampu senter"
+        }
+      ]
+    }
+  ]
+}

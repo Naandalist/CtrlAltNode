@@ -1,0 +1,41 @@
+{
+  "istilah": "tetak",
+  "entri": "te.tak1 /têtak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertetakan",
+    "menetak",
+    "menetakkan",
+    "penetak",
+    "penetakan",
+    "menetak",
+    "menetakkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.tak1 /têtak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menetak"
+        }
+      ]
+    },
+    {
+      "lema": "te.tak2 /têtak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menetak"
+        }
+      ]
+    }
+  ]
+}

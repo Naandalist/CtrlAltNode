@@ -1,0 +1,42 @@
+{
+  "istilah": "tapas",
+  "entri": "ta.pas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.pas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sabut untuk mencuci peralatan dapur, terbuat dari serat sintetis yang bertekstur kasar"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sp[Spanyol: -]",
+          "deskripsi": "makanan penutup yang terdiri atas berbagai macam makanan dalam porsi kecil"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pas3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "camilan porsi kecil ala Spanyol, biasanya disajikan bersama minuman"
+        }
+      ]
+    }
+  ]
+}

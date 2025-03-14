@@ -1,0 +1,30 @@
+{
+  "istilah": "konsol",
+  "entri": "kon.sol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "konsol permainan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.sol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "balok yang satu ujungnya terpasang pada suatu penopang tetap dan ujung lainnya bebas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "unit kendali (misalnya terminal) yang dapat digunakan oleh pengguna untuk berkomunikasi dengan komputer"
+        }
+      ]
+    }
+  ]
+}

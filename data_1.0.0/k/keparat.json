@@ -1,0 +1,37 @@
+{
+  "istilah": "keparat",
+  "entri": "ke.pa.rat1 /kêparat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang tidak pandai bersyukur",
+    "kataAsal": "kafarah"
+  },
+  "data": [
+    {
+      "lema": "ke.pa.rat1 /kêparat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kafir; tidak bertuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "bangsat; jahanam; terkutuk (kata makian): engkau ini anak --"
+        }
+      ]
+    },
+    {
+      "lema": "ke.pa.rat2 /kêparat/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kafarat2"
+        }
+      ]
+    }
+  ]
+}

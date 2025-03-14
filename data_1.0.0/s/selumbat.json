@@ -1,0 +1,33 @@
+{
+  "istilah": "selumbat",
+  "entri": "se.lum.bat1 /sêlumbat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.lum.bat1 /sêlumbat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sula untuk mengupas buah kelapa"
+        }
+      ]
+    },
+    {
+      "lema": "se.lum.bat2 /sêlumbat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "serat kayu atau bambu yang tajam dan dapat menusuk kulit"
+        }
+      ]
+    }
+  ]
+}

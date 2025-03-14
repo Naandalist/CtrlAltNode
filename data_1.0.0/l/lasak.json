@@ -1,0 +1,39 @@
+{
+  "istilah": "lasak",
+  "entri": "la.sak1 bentuk tidak baku: lesak2, lesek",
+  "bentukTidakBaku": "lesak2, lesek",
+  "kataTurunan": [
+    "pelasak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.sak1 bentuk tidak baku: lesak2, lesek",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "selalu dipakai (digunakan) sehari-hari; lasah"
+        }
+      ]
+    },
+    {
+      "lema": "la.sak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "selalu ingin bergerak; tidak dapat tenang (diam)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "selalu ingin mengerjakan sesuatu: jangan --, duduklah baik-baik"
+        }
+      ]
+    }
+  ]
+}

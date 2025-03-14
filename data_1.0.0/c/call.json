@@ -1,0 +1,49 @@
+{
+  "istilah": "call",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "permintaan agar memperlihatkan kartu (dalam permainan kartu)"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "penawaran (dalam perbankan)"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "peluang untuk membeli sejumlah saham atau barang dengan harga tertentu pada waktu tertentu"
+        }
+      ]
+    },
+    {
+      "lema": "call",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "permintaan agar memperlihatkan kartu (dalam permainan kartu)"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "penawaran (dalam perbankan)"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "peluang untuk membeli sejumlah saham atau barang dengan harga tertentu pada waktu tertentu"
+        }
+      ]
+    }
+  ]
+}

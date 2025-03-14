@@ -1,0 +1,28 @@
+{
+  "istilah": "zimologi",
+  "entri": "zi.mo.lo.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "zi.mo.lo.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang fermentasi dan aktivitas enzim ketika proses berlangsung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "kajian tentang tindakan dan susunan fermen atau enzim"
+        }
+      ]
+    }
+  ]
+}

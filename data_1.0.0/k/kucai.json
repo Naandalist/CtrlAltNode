@@ -1,0 +1,40 @@
+{
+  "istilah": "kucai",
+  "entri": "ku.cai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengucai",
+    "terkucai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "sayur sejenis daun bawang yang berukuran lebih kecil",
+    "kataAsal": "kú chhaì"
+  },
+  "data": [
+    {
+      "lema": "ku.cai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "terna berumbi yang daunnya memita, perbungaannya memayung, buahnya membulat telur sungsang, tumbuh di bioma empat musim, biasa dimanfaatkan untuk sayuran; sigando〔Allium ramosum〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun kucai"
+        }
+      ]
+    },
+    {
+      "lema": "ku.cai2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "pencil; kucil"
+        }
+      ]
+    }
+  ]
+}

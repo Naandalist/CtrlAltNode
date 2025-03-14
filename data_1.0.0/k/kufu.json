@@ -1,0 +1,26 @@
+{
+  "istilah": "kufu",
+  "entri": "ku.fu bentuk tidak baku: kupu1",
+  "bentukTidakBaku": "kupu1",
+  "kataTurunan": [
+    "sekufu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kesamaan derajat",
+    "kataAsal": "kuf’"
+  },
+  "data": [
+    {
+      "lema": "ku.fu bentuk tidak baku: kupu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kesamaan derajat (martabat)"
+        }
+      ]
+    }
+  ]
+}

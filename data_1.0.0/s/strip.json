@@ -1,0 +1,33 @@
+{
+  "istilah": "strip",
+  "entri": "strip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "strip1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "penyakit tumbuhan yang ditandai dengan gejala perubahan warna berbentuk garis panjang-panjang tidak menentu, yang umumnya menyerang batang atau daun yang penulangannya sejajar"
+        }
+      ]
+    },
+    {
+      "lema": "strip2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ setrip"
+        }
+      ]
+    }
+  ]
+}

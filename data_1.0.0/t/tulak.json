@@ -1,0 +1,33 @@
+{
+  "istilah": "tulak",
+  "entri": "tu.lak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.lak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "motif kain berbentuk kotak-kotak, dengan warna hitam putih"
+        }
+      ]
+    },
+    {
+      "lema": "tu.lak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "pergi pulang dalam satu hari tanpa menginap"
+        }
+      ]
+    }
+  ]
+}

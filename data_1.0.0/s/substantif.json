@@ -1,0 +1,33 @@
+{
+  "istilah": "substantif",
+  "entri": "sub.stan.tif1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sub.stan.tif1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "nomina; kata benda"
+        }
+      ]
+    },
+    {
+      "lema": "sub.stan.tif2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nyata; penting: peran politikus itu tidak --"
+        }
+      ]
+    }
+  ]
+}

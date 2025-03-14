@@ -1,0 +1,33 @@
+{
+  "istilah": "rat",
+  "entri": "rat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "alam; jagat; dunia"
+        }
+      ]
+    },
+    {
+      "lema": "RAT",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "rapat anggota tahunan"
+        }
+      ]
+    }
+  ]
+}

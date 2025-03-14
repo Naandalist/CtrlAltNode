@@ -1,0 +1,44 @@
+{
+  "istilah": "robot",
+  "entri": "ro.bot1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merobot",
+    "perobotan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.bot1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "merobot"
+        }
+      ]
+    },
+    {
+      "lema": "ro.bot2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat berupa orang-orangan dan sebagainya yang dapat bergerak (berbuat seperti manusia) yang dikendalikan oleh mesin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang menurut saja perintah orang lain: pakailah otakmu, jangan menjadi -- saja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang bertindak tanpa pikiran dan perasaan"
+        }
+      ]
+    }
+  ]
+}

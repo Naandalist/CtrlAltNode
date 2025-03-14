@@ -1,0 +1,55 @@
+{
+  "istilah": "pala",
+  "entri": "pa.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sepala-pala"
+  ],
+  "gabunganKata": [
+    "pala gumantung",
+    "pala kependem",
+    "pala kesimpar",
+    "pala kirna"
+  ],
+  "peribahasa": [
+    "sepala-pala mandi biarlah basah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cari:",
+    "kataAsal": "phala"
+  },
+  "data": [
+    {
+      "lema": "pa.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon besar yang tingginya mencapai 20 m, bercabang banyak, bentuk pohonnya seperti kerucut〔Myristica fragrans〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah batu yang berdaging kuning muda kehijau-hijauan untuk dibuat manisan, berbentuk bulat lonjong dan beralur memanjang, bijinya dibuat bumbu penyedap atau ramuan obat"
+        }
+      ]
+    },
+    {
+      "lema": "pa.la2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "sepala-pala"
+        }
+      ]
+    },
+    {
+      "lema": "pa.la3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "perlengkapan misa berupa kain keras putih persegi empat, digunakan untuk menutupi piala dan menjaga kesakralan darah Kristus"
+        }
+      ]
+    }
+  ]
+}

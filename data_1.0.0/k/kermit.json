@@ -1,0 +1,24 @@
+{
+  "istilah": "kermit",
+  "entri": "ker.mit /kêrmit/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ker.mit /kêrmit/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "protokol transfer berkas yang ditempatkan di dalam domain publik dan digunakan untuk mentransfer berkas dari komputer ke komputer bingkai utama melalui saluran telepon standar"
+        }
+      ]
+    }
+  ]
+}

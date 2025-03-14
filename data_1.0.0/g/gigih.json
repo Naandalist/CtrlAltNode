@@ -1,0 +1,49 @@
+{
+  "istilah": "gigih",
+  "entri": "gi.gih1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kegigihan",
+    "menggigih"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gi.gih1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tetap teguh pada pendirian atau pikiran; keras hati; mengotot: ia dikenal sebagai seorang pejuang yang -- menen-tang penjajahan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ulet (dalam usaha)"
+        }
+      ]
+    },
+    {
+      "lema": "gi.gih2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gigil"
+        }
+      ]
+    },
+    {
+      "lema": "gi.gih3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "nasi yang baru setengah masak"
+        }
+      ]
+    }
+  ]
+}

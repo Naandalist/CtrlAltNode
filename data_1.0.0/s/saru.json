@@ -1,0 +1,56 @@
+{
+  "istilah": "saru",
+  "entri": "sa.ru1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyaru",
+    "menyarukan",
+    "penyaru",
+    "penyaruan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "keras (suara)",
+    "kataAsal": "saru"
+  },
+  "data": [
+    {
+      "lema": "sa.ru1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak nyata kelihatan (kedengaran); tidak terbedakan rupanya (suaranya dan sebagainya) karena bercampur atau tidak terbedakan antara yang satu dan yang lainnya; samar: bunyinya -- dengan bunyi meriam"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ru2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tidak semenggah (tentang perkataan atau perbuatan); tidak senonoh"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ru3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "cemara2"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ru4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ seru1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "rumah tangga",
+  "entri": "ru.mah tang.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berumah tangga",
+    "kerumahtanggaan",
+    "perumah tangga"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.mah tang.ga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang berkenaan dengan urusan kehidupan dalam rumah (seperti hal belanja rumah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berkenaan dengan keluarga"
+        }
+      ]
+    }
+  ]
+}

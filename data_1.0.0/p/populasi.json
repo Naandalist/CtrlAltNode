@@ -1,0 +1,40 @@
+{
+  "istilah": "populasi",
+  "entri": "po.pu.la.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpopulasi"
+  ],
+  "gabunganKata": [
+    "populasi baku"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.pu.la.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seluruh jumlah orang atau penduduk di suatu daerah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah orang atau pribadi yang mempunyai ciri-ciri yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah penghuni, baik manusia maupun makhluk hidup lainnya pada suatu satuan ruang tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekelompok orang, benda, atau hal yang menjadi sumber pengambilan sampel; suatu kumpulan yang memenuhi syarat tertentu yang berkaitan dengan masalah penelitian"
+        }
+      ]
+    }
+  ]
+}

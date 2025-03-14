@@ -1,0 +1,60 @@
+{
+  "istilah": "cahaya",
+  "entri": "ca.ha.ya bentuk tidak baku: caya",
+  "bentukTidakBaku": "caya",
+  "kataTurunan": [
+    "bercahaya",
+    "mencahayai",
+    "mencahayakan",
+    "pencahaya",
+    "pencahayaan",
+    "percahayaan"
+  ],
+  "gabunganKata": [
+    "cahaya awan",
+    "cahaya biru",
+    "cahaya hilang",
+    "cahaya kutub",
+    "cahaya lampu akting",
+    "cahaya lembayung",
+    "cahaya masuk",
+    "cahaya mata",
+    "cahaya muka",
+    "cahaya pantul",
+    "cahaya serta",
+    "cahaya tampak",
+    "cahaya tebar",
+    "cahaya tembus"
+  ],
+  "peribahasa": [
+    "buah hati cahaya mata"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sinar, matahari, bayangan, naungan, refleksi",
+    "kataAsal": "chāyā"
+  },
+  "data": [
+    {
+      "lema": "ca.ha.ya bentuk tidak baku: caya",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sinar atau terang (dari sesuatu yang bersinar seperti matahari, bulan, lampu) yang memungkinkan mata menangkap bayangan benda-benda di sekitarnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kilau gemerlap (dari emas, berlian): --nya berkilau bagai intan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kejernihan yang terpancar dari air muka: -- mukanya berseri-seri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bentuk gelombang elektromagnetik dalam kurun frekuensi getar tertentu yang dapat ditangkap oleh mata manusia"
+        }
+      ]
+    }
+  ]
+}

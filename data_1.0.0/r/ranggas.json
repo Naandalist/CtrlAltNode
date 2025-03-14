@@ -1,0 +1,35 @@
+{
+  "istilah": "ranggas",
+  "entri": "rang.gas1 bentuk tidak baku: rangkas, rengges",
+  "bentukTidakBaku": "rangkas, rengges",
+  "kataTurunan": [
+    "meranggas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gundul, tanpa daun",
+    "kataAsal": "ragas"
+  },
+  "data": [
+    {
+      "lema": "rang.gas1 bentuk tidak baku: rangkas, rengges",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berdaun lagi; luruh (kering) daunnya"
+        }
+      ]
+    },
+    {
+      "lema": "rang.gas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis burung kuau yang hidup di atas tanah"
+        }
+      ]
+    }
+  ]
+}

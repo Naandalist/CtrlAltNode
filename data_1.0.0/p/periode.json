@@ -1,0 +1,49 @@
+{
+  "istilah": "periode",
+  "entri": "pe.ri.o.de /periodê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "seperiode"
+  ],
+  "gabunganKata": [
+    "periode akuntansi",
+    "periode bulan madu",
+    "periode embrionik",
+    "periode internasional",
+    "periode janin",
+    "periode kompensasi",
+    "periode kritis",
+    "periode laten",
+    "periode masa bayi",
+    "periode prenatal",
+    "periode refraktori",
+    "periode refraktori absolut",
+    "periode teknik",
+    "periode ulang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ri.o.de /periodê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kurun waktu; lingkaran waktu (masa): -- 1945–1950 merupakan masa revolusi; -- Kerajaan Majapahit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "kelompok bilangan yang selalu berulang dalam pecahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "baris mendatar dari unsur-unsur dalam tabel periodik"
+        }
+      ]
+    }
+  ]
+}

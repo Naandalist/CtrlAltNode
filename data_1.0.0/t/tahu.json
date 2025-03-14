@@ -1,0 +1,111 @@
+{
+  "istilah": "tahu",
+  "entri": "ta.hu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpengetahuan",
+    "bertahu-tahu",
+    "bertahuan",
+    "bertahukan",
+    "ketahu",
+    "ketahuan",
+    "menahui",
+    "mengetahui",
+    "pengetahuan",
+    "sepengetahuan",
+    "setahu",
+    "tahu-menahu",
+    "tahu-tahu"
+  ],
+  "gabunganKata": [
+    "tahu adat",
+    "tahu angin bertiup",
+    "tahu balas",
+    "tahu beres",
+    "tahu di alif",
+    "tahu di alif lempang",
+    "tahu di angin berkisar",
+    "tahu di kadar diri",
+    "tahu di untung",
+    "tahu diri",
+    "tahu mata",
+    "tahu sama tahu",
+    "tahu aci",
+    "tahu bacem",
+    "tahu bakso",
+    "tahu bulat",
+    "tahu campur",
+    "tahu cina",
+    "tahu gejrot",
+    "tahu guling",
+    "tahu gunting",
+    "tahu isi",
+    "tahu jeletot",
+    "tahu jepang",
+    "tahu kediri",
+    "tahu kok",
+    "tahu kupat",
+    "tahu mambo",
+    "tahu petis",
+    "tahu pong",
+    "tahu siksa",
+    "tahu sumedang",
+    "tahu susu",
+    "tahu sutra",
+    "tahu takwa",
+    "tahu tek",
+    "tahu walik"
+  ],
+  "peribahasa": [
+    "alah menang tak tahu, bersorak boleh; belum tahu di pedas lada; belum tahu di pedas lada; dalam laut boleh diajuk, dalam hati siapa tahu; kalau kubuka tempayan budu, baharu tahu; kalau laba bercikun-cikun, buruk diberi tahu orang; monyet mendapat bunga, adakah ia tahu akan faedah bunga itu?; seperti kepiting tidak tahu bungkuknya (sebagai udang tak tahu bungkuknya); sudah gaharu, cendana pula (sudah tahu, bertanya pula); sudah tahu peria pahit; tahu asam garamnya; tahu di angin berkisar; tahu di angin turun naik; tahu di asin garam; tahu di dalam lubuk; tahu makan, tahu simpan; tidak tahu antah terkunyah; tidak tahu hulu hilirnya; tuah ayam boleh dilihat, tuah manusia siapa tahu; udang tak tahu bungkuknya; udang tak tahu di bungkuknya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "tahu",
+    "kataAsal": "tāu hū"
+  },
+  "data": [
+    {
+      "lema": "ta.hu1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengerti sesudah melihat (menyaksikan, mengalami, dan sebagainya): ia -- bahwa saya yang menolongnya; perkara mesin, dia lebih -- daripada saya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kenal (akan); mengenal: ia tidak -- akan sanak saudaranya lagi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengindahkan; memedulikan: ia sudah tidak mau -- lagi kepada anaknya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengerti; berpengertian: siapa yang -- apa maksud tanda ini?"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pandai; cakap: sedikit-sedikit saya -- juga tentang mesin"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "insaf; sadar: dia tidak -- akan kekurangannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pernah: petinju itu tidak -- menang; adikku tidak -- membolos"
+        }
+      ]
+    },
+    {
+      "lema": "ta.hu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan dari kedelai putih yang digiling halus-halus, direbus, dan dicetak"
+        }
+      ]
+    }
+  ]
+}

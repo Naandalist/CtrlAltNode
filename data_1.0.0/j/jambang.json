@@ -1,0 +1,30 @@
+{
+  "istilah": "jambang",
+  "entri": "jam.bang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jambangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jam.bang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menaruh bunga untuk hiasan; pasu bunga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasu; belanga besar"
+        }
+      ]
+    }
+  ]
+}

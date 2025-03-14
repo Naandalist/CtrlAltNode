@@ -1,0 +1,42 @@
+{
+  "istilah": "pelancar",
+  "entri": "lancar1 » pe.lan.car",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lancar1 » pe.lan.car",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk melancarkan (jalannya sesuatu)"
+        }
+      ]
+    },
+    {
+      "lema": "lancar2 » pe.lan.car",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balok penghubung tiang rumah"
+        }
+      ]
+    },
+    {
+      "lema": "pe.lan.car /pêlancar/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat lancar2"
+        }
+      ]
+    }
+  ]
+}

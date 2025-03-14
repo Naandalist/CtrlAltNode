@@ -1,0 +1,37 @@
+{
+  "istilah": "mengupak",
+  "entri": "kupak » me.ngu.pak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kupak » me.ngu.pak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mematah(kan); merusakkan; membejatkan: pencuri masuk dengan cara ~ jendela nako"
+        }
+      ]
+    },
+    {
+      "lema": "upak » meng.u.pak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyalakan api (yang hampir padam)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "membangkitkan kemarahan; menghasut"
+        }
+      ]
+    }
+  ]
+}

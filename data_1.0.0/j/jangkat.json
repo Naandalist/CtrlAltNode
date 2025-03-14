@@ -1,0 +1,33 @@
+{
+  "istilah": "jangkat",
+  "entri": "jang.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jang.kat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bakul (keranjang)"
+        }
+      ]
+    },
+    {
+      "lema": "jang.kat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bagian yang dangkal di sungai dan sebagainya untuk tempat menyeberang (memandikan kerbau dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

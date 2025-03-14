@@ -1,0 +1,41 @@
+{
+  "istilah": "kepul",
+  "entri": "ke.pul1 /kêpul/bentuk tidak baku: kebul1",
+  "bentukTidakBaku": "kebul1",
+  "kataTurunan": [
+    "berkepul",
+    "berkepul-kepul",
+    "kepulan",
+    "mengepul",
+    "mengepulkan",
+    "pengepulan",
+    "pengepul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.pul1 /kêpul/bentuk tidak baku: kebul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gumpalan asap (awan) yang tampak tebal"
+        }
+      ]
+    },
+    {
+      "lema": "ke.pul2 /kêpul/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pengepul"
+        }
+      ]
+    }
+  ]
+}

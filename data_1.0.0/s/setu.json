@@ -1,0 +1,39 @@
+{
+  "istilah": "setu",
+  "entri": "se.tu1 /sêtu/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyetui"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "baiklah!, biarlah!, baik!",
+    "kataAsal": "astu"
+  },
+  "data": [
+    {
+      "lema": "se.tu1 /sêtu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "berkat; restu"
+        }
+      ]
+    },
+    {
+      "lema": "se.tu2 /sêtu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan laut yang buahnya dapat dimakan〔Enalus acoroides〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah setu"
+        }
+      ]
+    }
+  ]
+}

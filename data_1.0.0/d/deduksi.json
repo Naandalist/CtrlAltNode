@@ -1,0 +1,28 @@
+{
+  "istilah": "deduksi",
+  "entri": "de.duk.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.duk.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penarikan kesimpulan dari keadaan yang umum; penyimpulan dari yang umum ke yang khusus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "pengurangan setiap biaya dari pendapatan"
+        }
+      ]
+    }
+  ]
+}

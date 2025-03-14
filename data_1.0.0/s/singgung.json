@@ -1,0 +1,41 @@
+{
+  "istilah": "singgung",
+  "entri": "sing.gung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersinggungan",
+    "ketersinggungan",
+    "menyinggung",
+    "penyinggung",
+    "persinggungan",
+    "singgungan",
+    "tersinggung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sing.gung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyinggung"
+        }
+      ]
+    },
+    {
+      "lema": "sing.gung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sigung2"
+        }
+      ]
+    }
+  ]
+}

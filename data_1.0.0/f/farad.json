@@ -1,0 +1,24 @@
+{
+  "istilah": "farad",
+  "entri": "fa.rad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fa.rad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "satuan kapasitas listrik (kapasitas satu farad berarti apabila kapasitas diberi beda potensial 1 volt, akan tersimpan muatan sebesar satu coulomb pada setiap pelat)"
+        }
+      ]
+    }
+  ]
+}

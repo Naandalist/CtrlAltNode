@@ -1,0 +1,56 @@
+{
+  "istilah": "sangkak",
+  "entri": "sang.kak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersangkak",
+    "sesangkak",
+    "menyangkak",
+    "menyangkak",
+    "menyangkaki"
+  ],
+  "gabunganKata": [
+    "sangkak ayam"
+  ],
+  "peribahasa": [
+    "menjunjung sangkak ayam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sang.kak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "cabang kayu; dahan: katapel itu dibuat dari -- kayu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tempat bertelur ayam yang dibuat dari anyaman bambu berbentuk kerucut terbalik; sarang ayam: pakailah jerami itu untuk pelapis -- ayam"
+        }
+      ]
+    },
+    {
+      "lema": "sang.kak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyangkak"
+        }
+      ]
+    },
+    {
+      "lema": "sang.kak3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "rintang, cegah"
+        }
+      ]
+    }
+  ]
+}

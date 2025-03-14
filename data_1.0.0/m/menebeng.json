@@ -1,0 +1,43 @@
+{
+  "istilah": "menebeng",
+  "entri": "tebeng1 » me.ne.beng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "menebeng dada"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tebeng1 » me.ne.beng",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memampangkan, merentangkan (kajang, layar, dan sebagainya) untuk pendinding"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membeberkan (membentangkan kain dan sebagainya) untuk diperlihatkan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menutup-nutupi kejahatan (kesalahan)"
+        }
+      ]
+    },
+    {
+      "lema": "tebeng2 » me.ne.beng",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menumpang (makan, merokok, membaca surat kabar, dan sebagainya) tanpa membayar: ia membawa mobil dan kami ikut ~ keliling kota"
+        }
+      ]
+    }
+  ]
+}

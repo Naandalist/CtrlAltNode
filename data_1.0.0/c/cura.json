@@ -1,0 +1,41 @@
+{
+  "istilah": "cura",
+  "entri": "cu.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercura",
+    "bercura-bura",
+    "bercura-cura"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cu.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelakar; olok-olok"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lucu: sembah si Lamat, hamba yang --; semuanya berbuat --"
+        }
+      ]
+    },
+    {
+      "lema": "cu.ra2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bercura-bura; bercura-cura"
+        }
+      ]
+    }
+  ]
+}

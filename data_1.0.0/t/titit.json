@@ -1,0 +1,33 @@
+{
+  "istilah": "titit",
+  "entri": "ti.tit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.tit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kemaluan anak laki-laki"
+        }
+      ]
+    },
+    {
+      "lema": "ti.tit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "anak entok"
+        }
+      ]
+    }
+  ]
+}

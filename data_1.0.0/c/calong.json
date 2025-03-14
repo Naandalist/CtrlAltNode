@@ -1,0 +1,37 @@
+{
+  "istilah": "calong",
+  "entri": "ca.long1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.long1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "jenis calung renteng (di Kalimantan), memiliki empat bilah dengan ukuran yang tidak terlalu panjang, talinya diikat pada kedua ibu jari kaki pemain yang memainkannya sambil duduk mengangkang"
+        }
+      ]
+    },
+    {
+      "lema": "ca.long2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "cangkir besar terbuat dari aluminium: paman membuat kopi dalam --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penakar beras yang terbuat dari kaleng susu kental manis dan dilubangi bagian atasnya"
+        }
+      ]
+    }
+  ]
+}

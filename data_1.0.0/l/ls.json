@@ -1,0 +1,28 @@
+{
+  "istilah": "ls",
+  "entri": "LS",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "LS",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "salam pembuka surat, artinya 'Pembaca yang terhormat'; dari lectori salutem"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "lintang selatan"
+        }
+      ]
+    }
+  ]
+}

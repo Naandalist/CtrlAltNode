@@ -1,0 +1,39 @@
+{
+  "istilah": "sipu",
+  "entri": "si.pu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesipu-sipuan",
+    "kesipuan",
+    "tersipu",
+    "tersipu-sipu",
+    "tersipu-sipu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.pu1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merasa segan karena belum kenal; malu: gadis itu tidak menjawab, tetapi tersenyum --"
+        }
+      ]
+    },
+    {
+      "lema": "si.pu2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "tersipu-sipu"
+        }
+      ]
+    }
+  ]
+}

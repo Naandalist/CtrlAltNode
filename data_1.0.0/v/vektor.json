@@ -1,0 +1,35 @@
+{
+  "istilah": "vektor",
+  "entri": "vek.tor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "vektor angin"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vek.tor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hewan (serangga dan sebagainya) yang menjadi perantara menularnya (pembawa dan penyebar) penyakit: nyamuk dapat menjadi -- dari berbagai penyakit"
+        }
+      ]
+    },
+    {
+      "lema": "vek.tor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "besaran yang memiliki ukuran dan arah, misalnya gaya kecepatan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "transmisi",
+  "entri": "trans.mi.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menransmisikan",
+    "mentransmisikan",
+    "tertransmisikan"
+  ],
+  "gabunganKata": [
+    "transmisi multilintasan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trans.mi.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengiriman (penerusan) pesan dan sebagainya dari seseorang kepada orang (benda) lain: -- berita; jaringan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penularan, penyebaran, penjangkitan penyakit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian kendaraan bermotor yang memindahkan atau meneruskan tenaga dari mesin ke as belakang; persneling"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "penurunan sebagian naskah yang diubah oleh penyalin untuk disesuaikan dengan selera pembaca sehingga dapat menimbulkan kekeliruan pemahaman"
+        }
+      ]
+    }
+  ]
+}

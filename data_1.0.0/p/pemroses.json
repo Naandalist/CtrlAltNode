@@ -1,0 +1,31 @@
+{
+  "istilah": "pemroses",
+  "entri": "proses » pem.ro.ses",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pemroses bahasa perakit",
+    "pemroses kata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "proses » pem.ro.ses",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang memproses"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk memproses; prosesor"
+        }
+      ]
+    }
+  ]
+}

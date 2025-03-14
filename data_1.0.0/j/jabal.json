@@ -1,0 +1,37 @@
+{
+  "istilah": "jabal",
+  "entri": "ja.bal1",
+  "bentukTidakBaku": "jabel",
+  "kataTurunan": [
+    "menjabal",
+    "menjabal",
+    "penjabalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "gunung",
+    "kataAsal": "jabal"
+  },
+  "data": [
+    {
+      "lema": "ja.bal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "gunung atau bukit (terdapat dalam nama, seperti jabal Kaf; jabal Uhud)"
+        }
+      ]
+    },
+    {
+      "lema": "ja.bal2 bentuk tidak baku: jabel",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "rampas, begal"
+        }
+      ]
+    }
+  ]
+}

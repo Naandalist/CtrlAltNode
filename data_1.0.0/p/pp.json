@@ -1,0 +1,42 @@
+{
+  "istilah": "pp",
+  "entri": "PP1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "PP1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pendidikan dan pengajaran"
+        }
+      ]
+    },
+    {
+      "lema": "PP2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "peraturan pemerintah"
+        }
+      ]
+    },
+    {
+      "lema": "PP3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pamong praja"
+        }
+      ]
+    }
+  ]
+}

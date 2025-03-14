@@ -1,0 +1,45 @@
+{
+  "istilah": "debit",
+  "entri": "de.bit1 bentuk tidak baku: debet",
+  "bentukTidakBaku": "debet",
+  "kataTurunan": [
+    "mendebitkan",
+    "pendebitan"
+  ],
+  "gabunganKata": [
+    "debit bank",
+    "debit air",
+    "debit hujan",
+    "debit limpasan hujan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.bit1 bentuk tidak baku: debet",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang yang harus ditagih dari orang lain; piutang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "catatan pada pos pembukuan yang menambah nilai aktiva atau mengurangi jumlah kewajiban; jumlah yang mengurangi deposito pemegang rekening pada banknya"
+        }
+      ]
+    },
+    {
+      "lema": "de.bit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "volume air yang mengalir dari suatu saluran melalui penampang lintang tertentu dalam satuan waktu"
+        }
+      ]
+    }
+  ]
+}

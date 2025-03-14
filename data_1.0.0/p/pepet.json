@@ -1,0 +1,52 @@
+{
+  "istilah": "pepet",
+  "entri": "pe.pet",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepepet",
+    "memepet",
+    "memepeti",
+    "memepetkan",
+    "terpepet"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dirintangi, dihalangi, dipotong, diputus, dipencilkan, diblokir, ditutupi, diliputi; menyelubungi, menyelimuti",
+    "kataAsal": "pěpět"
+  },
+  "data": [
+    {
+      "lema": "pe.pet",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memepet"
+        }
+      ]
+    },
+    {
+      "lema": "pe.pet1 /pêpêt/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "tanda “^” untuk menyatakan bunyi /ə/ dalam kata seperti segar, lekas"
+        }
+      ]
+    },
+    {
+      "lema": "pe.pet2 /pêpêt/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "buntu; tertutup"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -] ki[kiasan]",
+          "deskripsi": "hilang akal; tidak bisa mencari jalan lain"
+        }
+      ]
+    }
+  ]
+}

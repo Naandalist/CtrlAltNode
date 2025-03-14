@@ -1,0 +1,54 @@
+{
+  "istilah": "ketek",
+  "entri": "ke.tek1 bentuk tidak baku: katek1",
+  "bentukTidakBaku": "katek1",
+  "kataTurunan": [
+    "mengeteki",
+    "seketek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.tek1 bentuk tidak baku: katek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "ketiak"
+        }
+      ]
+    },
+    {
+      "lema": "ke.tek2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "kecil; sedikit"
+        }
+      ]
+    },
+    {
+      "lema": "ke.tek3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu bermotor"
+        }
+      ]
+    },
+    {
+      "lema": "ke.tek /kêtek/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "monyet; kera〔Mecacus synomolgus〕"
+        }
+      ]
+    }
+  ]
+}

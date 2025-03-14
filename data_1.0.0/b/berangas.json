@@ -1,0 +1,44 @@
+{
+  "istilah": "berangas",
+  "entri": "be.ra.ngas1 /bêrangas/",
+  "bentukTidakBaku": "brangas",
+  "kataTurunan": [
+    "keberangasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ra.ngas1 /bêrangas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teritip"
+        }
+      ]
+    },
+    {
+      "lema": "be.ra.ngas2 /bêrangas/bentuk tidak baku: brangas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghanguskan atau membakar ujung-ujung yang menonjol untuk membersihkan bulu-bulu rambut yang terdapat pada karkas unggas"
+        }
+      ]
+    },
+    {
+      "lema": "be.ra.ngas3 /bêrangas/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ganas; kasar"
+        }
+      ]
+    }
+  ]
+}

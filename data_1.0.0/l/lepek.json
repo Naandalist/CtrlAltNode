@@ -1,0 +1,48 @@
+{
+  "istilah": "lepek",
+  "entri": "le.pek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melepek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.pek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapik; alas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "piring kecil alas cangkir (gelas dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "le.pek2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "basah kuyup; basah sekali"
+        }
+      ]
+    },
+    {
+      "lema": "le.pek3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "melepek"
+        }
+      ]
+    }
+  ]
+}

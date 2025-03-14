@@ -1,0 +1,33 @@
+{
+  "istilah": "kenceng",
+  "entri": "ken.ceng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "bor yang diputar dengan busur",
+    "kataAsal": "keng tsǹg"
+  },
+  "data": [
+    {
+      "lema": "ken.ceng1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "gurdi (bor) yang diputar dengan busur"
+        }
+      ]
+    },
+    {
+      "lema": "ken.ceng2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kawah (kuali besar) bertelinga (dibuat dari besi atau tembaga)"
+        }
+      ]
+    }
+  ]
+}

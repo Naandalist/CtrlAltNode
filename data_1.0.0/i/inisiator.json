@@ -1,0 +1,37 @@
+{
+  "istilah": "inisiator",
+  "entri": "i.ni.si.a.tor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.ni.si.a.tor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang mempunyai inisiatif; yang mempunyai prakarsa; yang memprakarsai: pembangunan tugu peringatan itu pasti akan berhasil jika ada --nya"
+        }
+      ]
+    },
+    {
+      "lema": "i.ni.si.a.tor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dirg[Kedirgantaraan: -]",
+          "deskripsi": "orang yang ditugasi memprakarsai jejak pada sistem pertahanan udara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -]",
+          "deskripsi": "alat yang digunakan untuk mengawali ledakan atau alat piroteknik untuk menimbulkan detonasi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "tangkis",
+  "entri": "tang.kis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menangkis",
+    "penangkis",
+    "penangkisan",
+    "tangkisan",
+    "tertangkis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tang.kis",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menangkis"
+        }
+      ]
+    }
+  ]
+}

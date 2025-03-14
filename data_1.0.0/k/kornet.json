@@ -1,0 +1,33 @@
+{
+  "istilah": "kornet",
+  "entri": "kor.net1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kor.net1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daging giling yang diawetkan dalam kaleng"
+        }
+      ]
+    },
+    {
+      "lema": "kor.net2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat musik berkatup, terdiri atas pipa berbentuk kerucut lengkung dan sebuah genta lebar"
+        }
+      ]
+    }
+  ]
+}

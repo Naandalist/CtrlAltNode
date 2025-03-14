@@ -1,0 +1,46 @@
+{
+  "istilah": "ceria",
+  "entri": "ce.ria1 /cêria/",
+  "bentukTidakBaku": "ceri",
+  "kataTurunan": [
+    "keceriaan",
+    "menceriakan",
+    "penceriaan",
+    "seceria"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kegiatan, tingkah laku",
+    "kataAsal": "caryā"
+  },
+  "data": [
+    {
+      "lema": "ce.ria1 /cêria/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersih; suci; murni"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berseri-seri (tentang air muka, wajah); bersinar; cerah"
+        }
+      ]
+    },
+    {
+      "lema": "ce.ria2 /cêria/bentuk tidak baku: ceri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "perkataan tertentu (seperti mantra) yang dibacakan ketika penobatan raja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "aturan-aturan dan adat kebiasaan terhadap raja (semacam pernyataan setia)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "warak",
+  "entri": "wa.rak1 bentuk tidak baku: warik",
+  "bentukTidakBaku": "warik",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sikap menjauhi perkara yang belum jelas status hukum halal dan haramnya karena takut khawatir pada keharamannya",
+    "kataAsal": "wara‘"
+  },
+  "data": [
+    {
+      "lema": "wa.rak1 bentuk tidak baku: warik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Isl[Agama Islam: -]",
+          "deskripsi": "bersifat menjauhi perkara yang belum jelas status hukum halal dan haramnya karena takut khawatir pada keharamannya: kita harus -- dalam mencari rezeki"
+        }
+      ]
+    },
+    {
+      "lema": "wa.rak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "badak"
+        }
+      ]
+    }
+  ]
+}

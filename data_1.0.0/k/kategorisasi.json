@@ -1,0 +1,32 @@
+{
+  "istilah": "kategorisasi",
+  "entri": "ka.te.go.ri.sa.si /katêgorisasi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.te.go.ri.sa.si /katêgorisasi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyusunan berdasarkan kategori; penggolongan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "proses dan hasil pengelompokan unsur bahasa dan bagian pengalaman manusia yang digambarkan ke dalam kategori"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "cara untuk mengungkapkan makna dengan pelbagai potensi yang ada dalam bahasa"
+        }
+      ]
+    }
+  ]
+}

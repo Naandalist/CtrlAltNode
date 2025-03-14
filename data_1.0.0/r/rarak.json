@@ -1,0 +1,35 @@
+{
+  "istilah": "rarak",
+  "entri": "ra.rak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berarakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berderet, berbaris, dalam kelompok",
+    "kataAsal": "rarak"
+  },
+  "data": [
+    {
+      "lema": "ra.rak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berarakan"
+        }
+      ]
+    },
+    {
+      "lema": "ra.rak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "musik tradisional yang terdiri atas celempong, gong, dan gendang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "pepton",
+  "entri": "pep.ton",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pep.ton",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil hidrolisis dari protein yang dapat larut dalam air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan yang telah dicerna atau dihancurkan oleh pepsin"
+        }
+      ]
+    }
+  ]
+}

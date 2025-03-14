@@ -1,0 +1,45 @@
+{
+  "istilah": "larau",
+  "entri": "la.rau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melarau",
+    "melarau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.rau1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melarau"
+        }
+      ]
+    },
+    {
+      "lema": "la.rau2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melarau"
+        }
+      ]
+    },
+    {
+      "lema": "la.rau3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "tanda tempo lebih lambat dari largo ketika sebuah lagu akan dinyanyikan"
+        }
+      ]
+    }
+  ]
+}

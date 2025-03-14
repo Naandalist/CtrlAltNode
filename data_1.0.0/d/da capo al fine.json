@@ -1,0 +1,33 @@
+{
+  "istilah": "da capo al fine",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -] Mus[Musik: -]",
+          "deskripsi": "dari awal sampai akhir"
+        }
+      ]
+    },
+    {
+      "lema": "da capo al fine",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -] [Musik: -]",
+          "deskripsi": "dari awal sampai akhir"
+        }
+      ]
+    }
+  ]
+}

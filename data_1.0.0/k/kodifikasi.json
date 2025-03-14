@@ -1,0 +1,39 @@
+{
+  "istilah": "kodifikasi",
+  "entri": "ko.di.fi.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengodifikasikan",
+    "pengodifikasian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.di.fi.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "himpunan berbagai peraturan menjadi undang-undang; hal penyusunan kitab perundang-undangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "penggolongan hukum dan undang-undang berdasarkan asas-asas tertentu dalam buku undang-undang yang baku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pencatatan norma yang telah dihasilkan oleh pembakuan dalam bentuk buku tata bahasa, seperti pedoman lafal, pedoman ejaan, pedoman pembentukan istilah, atau kamus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "pemberian nomor atau lambang pada perkiraan pos, jurnal, faktur, atau dokumen lain yang berfungsi sebagai alat untuk membedakan pos yang satu dengan lainnya yang termasuk satu golongan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "riap",
+  "entri": "ri.ap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meriap",
+    "meriapkan",
+    "meriap",
+    "riap-riap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ri.ap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal tumbuh atau bertambah besar (tentang binatang, tumbuhan)"
+        }
+      ]
+    },
+    {
+      "lema": "ri.ap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "meriap; riap-riap"
+        }
+      ]
+    }
+  ]
+}

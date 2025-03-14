@@ -1,0 +1,33 @@
+{
+  "istilah": "ikhtiar",
+  "entri": "ikh.ti.ar bentuk tidak baku: ihtiar",
+  "bentukTidakBaku": "ihtiar",
+  "kataTurunan": [
+    "berikhtiar",
+    "mengikhtiarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ikhtiar menjalani untung menyudahi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pilihan (hasil memilih)",
+    "kataAsal": "ikhtiyār"
+  },
+  "data": [
+    {
+      "lema": "ikh.ti.ar bentuk tidak baku: ihtiar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat, syarat untuk mencapai maksud; daya upaya: segala -- sudah kujalankan, tetapi tidak berhasil juga; mencari -- mencari daya upaya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pilihan (pertimbangan, kehendak, pendapat, dan sebagainya) bebas: hal itu terserah kepada -- masing-masing"
+        }
+      ]
+    }
+  ]
+}

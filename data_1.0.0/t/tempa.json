@@ -1,0 +1,32 @@
+{
+  "istilah": "tempa",
+  "entri": "tem.pa /têmpa/bentuk tidak baku: tapa4",
+  "bentukTidakBaku": "tapa4",
+  "kataTurunan": [
+    "menempa",
+    "penempa",
+    "penempaan",
+    "tempa-menempa",
+    "tempaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "hitam tahan tempa, putih tahan sesah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "susah, sakit, panas",
+    "kataAsal": "tāpa"
+  },
+  "data": [
+    {
+      "lema": "tem.pa /têmpa/bentuk tidak baku: tapa4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menempa"
+        }
+      ]
+    }
+  ]
+}

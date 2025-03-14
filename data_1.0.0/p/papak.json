@@ -1,0 +1,55 @@
+{
+  "istilah": "papak",
+  "entri": "pa.pak1",
+  "bentukTidakBaku": "mapak",
+  "kataTurunan": [
+    "berpapakan",
+    "memapak",
+    "pemapakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.pak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "papar; tidak lancip; rata; tidak merunjung (tentang atap dan sebagainya): rumah -- rumah yang atapnya rata (tidak merunjung)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.pak2 bentuk tidak baku: mapak",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berpapakan; memapak; pemapakan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.pak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman keras; tuak"
+        }
+      ]
+    },
+    {
+      "lema": "pa.pak4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "sistem taruhan dalam aduan ketika kedua lawan dinilai seimbang, yang kalah membayar sama besar dengan nilai taruhan"
+        }
+      ]
+    }
+  ]
+}

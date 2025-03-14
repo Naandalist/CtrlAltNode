@@ -1,0 +1,41 @@
+{
+  "istilah": "julur",
+  "entri": "ju.lur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "julur-julur",
+    "menjulur",
+    "menjulur-julurkan",
+    "menjulurkan",
+    "penjuluran",
+    "terjulur",
+    "menjulur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ju.lur1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keluar memanjang"
+        }
+      ]
+    },
+    {
+      "lema": "ju.lur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rayap; rayap tanah; semut putih; anai-anai; rangas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "lentang",
+  "entri": "len.tang1 /lêntang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melentang",
+    "terlentang",
+    "lentang-lentung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "len.tang1 /lêntang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melentang"
+        }
+      ]
+    },
+    {
+      "lema": "len.tang2 /lêntang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi keras seperti bunyi kaleng dipukul"
+        }
+      ]
+    }
+  ]
+}

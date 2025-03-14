@@ -1,0 +1,31 @@
+{
+  "istilah": "galib",
+  "entri": "ga.lib bentuk tidak baku: ralip2",
+  "bentukTidakBaku": "ralip2",
+  "kataTurunan": [
+    "kegaliban",
+    "menggalibkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "lazim",
+    "kataAsal": "gālib"
+  },
+  "data": [
+    {
+      "lema": "ga.lib bentuk tidak baku: ralip2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "umum; lazim: pada --nya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jaya; menang; beruntung"
+        }
+      ]
+    }
+  ]
+}

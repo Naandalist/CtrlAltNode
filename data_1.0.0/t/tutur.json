@@ -1,0 +1,58 @@
+{
+  "istilah": "tutur",
+  "entri": "tu.tur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertutur",
+    "bertutur-tutur",
+    "mempertuturkan",
+    "menuturkan",
+    "penutur",
+    "penuturan",
+    "pertuturan",
+    "petutur",
+    "petuturan",
+    "tertutur",
+    "tuturan",
+    "tuturan",
+    "penuturan"
+  ],
+  "gabunganKata": [
+    "tutur kata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.tur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ucapan; kata; perkataan: -- dan kata; -- sepatah"
+        }
+      ]
+    },
+    {
+      "lema": "tu.tur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tuturan"
+        }
+      ]
+    },
+    {
+      "lema": "tu.tur3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "penuturan"
+        }
+      ]
+    }
+  ]
+}

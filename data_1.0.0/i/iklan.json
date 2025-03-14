@@ -1,0 +1,59 @@
+{
+  "istilah": "iklan",
+  "entri": "ik.lan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beriklan",
+    "mengiklankan",
+    "pengiklan",
+    "pengiklanan",
+    "periklanan"
+  ],
+  "gabunganKata": [
+    "iklan baris",
+    "iklan berita",
+    "iklan bersandi",
+    "iklan blok",
+    "iklan buku telepon",
+    "iklan buta",
+    "iklan dagang",
+    "iklan halaman muka",
+    "iklan kecil",
+    "iklan keluarga",
+    "iklan kolom",
+    "iklan komik",
+    "iklan kuping",
+    "iklan langsung",
+    "iklan layanan masyarakat",
+    "iklan majalah",
+    "iklan mini",
+    "iklan muhibah",
+    "iklan pulau",
+    "iklan ragaan",
+    "iklan sinema",
+    "iklan sponsor",
+    "iklan surat kabar",
+    "iklan udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemberitahuan",
+    "kataAsal": "i‘lān"
+  },
+  "data": [
+    {
+      "lema": "ik.lan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berita pesanan untuk mendorong, membujuk khalayak ramai agar tertarik pada barang dan jasa yang ditawarkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberitahuan kepada khalayak mengenai barang atau jasa yang dijual, dipasang di dalam media massa (seperti surat kabar dan majalah) atau di tempat umum"
+        }
+      ]
+    }
+  ]
+}

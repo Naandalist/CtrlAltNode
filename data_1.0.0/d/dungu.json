@@ -1,0 +1,35 @@
+{
+  "istilah": "dungu",
+  "entri": "du.ngu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kedunguan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "du.ngu1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat tumpul otaknya; tidak cerdas; bebal; bodoh"
+        }
+      ]
+    },
+    {
+      "lema": "du.ngu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "tungku peleburan timah dan tembaga"
+        }
+      ]
+    }
+  ]
+}

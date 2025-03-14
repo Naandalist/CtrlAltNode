@@ -1,0 +1,28 @@
+{
+  "istilah": "magnetometer",
+  "entri": "mag.ne.to.me.ter /magnetometêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mag.ne.to.me.ter /magnetometêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur atau menentukan tempat bahan galian besi, bahan besi yang ada di dalam tanah yang dapat mengubah jarum kompas dengan tiba-tiba"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur kuat medan magnet bumi"
+        }
+      ]
+    }
+  ]
+}

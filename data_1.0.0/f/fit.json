@@ -1,0 +1,33 @@
+{
+  "istilah": "fit",
+  "entri": "fit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fit1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berdaya tahan (tentang tubuh) untuk melakukan aktivitas fisik: pemain bulu tangkis kita cukup -- untuk bertanding di kejuaraan internasional kali ini"
+        }
+      ]
+    },
+    {
+      "lema": "fit2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ketat dan tidak longgar; pas (tentang pakaian)"
+        }
+      ]
+    }
+  ]
+}

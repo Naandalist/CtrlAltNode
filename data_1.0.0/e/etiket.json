@@ -1,0 +1,33 @@
+{
+  "istilah": "etiket",
+  "entri": "e.ti.ket1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ti.ket1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "carik kertas yang ditempelkan pada kemasan barang (dagangan) yang memuat keterangan (misalnya nama, sifat, isi, asal) mengenai barang tersebut"
+        }
+      ]
+    },
+    {
+      "lema": "e.ti.ket2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tata cara (adat sopan santun, dan sebagainya) dalam masyarakat beradab dalam memelihara hubungan baik antara sesama manusia"
+        }
+      ]
+    }
+  ]
+}

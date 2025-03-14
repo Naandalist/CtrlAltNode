@@ -1,0 +1,40 @@
+{
+  "istilah": "motor",
+  "entri": "mo.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermotor",
+    "memotori",
+    "pemotor"
+  ],
+  "gabunganKata": [
+    "motor bodong",
+    "motor gede",
+    "motor tempel"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mesin yang menjadi tenaga penggerak: pompa air itu digerakkan oleh -- listrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sepeda motor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "orang yang memegang peranan penting atas jalannya organisasi dan sebagainya: dialah yang menjadi -- perkumpulan itu"
+        }
+      ]
+    }
+  ]
+}

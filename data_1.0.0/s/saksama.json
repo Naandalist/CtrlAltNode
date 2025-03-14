@@ -1,0 +1,30 @@
+{
+  "istilah": "saksama",
+  "entri": "sak.sa.ma bentuk tidak baku: seksama",
+  "bentukTidakBaku": "seksama",
+  "kataTurunan": [
+    "kesaksamaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kesabaran; ketahanan; kesenangan; pengampunan",
+    "kataAsal": "kṣamā"
+  },
+  "data": [
+    {
+      "lema": "sak.sa.ma bentuk tidak baku: seksama",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "teliti; cermat: surat-surat itu diperiksanya dengan --; semuanya dikerjakan dengan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tepat benar; jitu: segala pertanyaan dijawab dengan --; kita harus mendidik anak-anak agar biasa mengerjakan hitungan dengan --"
+        }
+      ]
+    }
+  ]
+}

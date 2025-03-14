@@ -1,0 +1,33 @@
+{
+  "istilah": "dong",
+  "entri": "dong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dong1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata yang dipakai di belakang kata atau kalimat untuk pemanis atau pelembut maksud: kalau bukan kamu, siapa -- yang harus membiayai adikmu?"
+        }
+      ]
+    },
+    {
+      "lema": "dong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang Vietnam"
+        }
+      ]
+    }
+  ]
+}

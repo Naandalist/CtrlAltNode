@@ -1,0 +1,41 @@
+{
+  "istilah": "veem",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "perseroan yang bergerak dalam bidang pemeliharaan gudang beserta barang yang tersimpan di dalamnya"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "gudang besar untuk menyimpan barang"
+        }
+      ]
+    },
+    {
+      "lema": "veem",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "perseroan yang bergerak dalam bidang pemeliharaan gudang beserta barang yang tersimpan di dalamnya"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "gudang besar untuk menyimpan barang"
+        }
+      ]
+    }
+  ]
+}

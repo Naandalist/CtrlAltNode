@@ -1,0 +1,28 @@
+{
+  "istilah": "psikoterapi",
+  "entri": "psi.ko.te.ra.pi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "psi.ko.te.ra.pi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara pengobatan dengan menggunakan pengaruh (kekuatan batin) dokter atas jiwa (rohani) penderita, dengan cara tidak menggunakan obat-obatan, tetapi dengan metode sugesti, nasihat, hiburan, hipnosis, dan sebagainya; terapi psikologi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "penggunaan teknik psikologi yang terdiri atas behavioristik, kognitif, humanistik, dan psikoanalisis"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "istilah": "umur",
+  "entri": "u.mur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berumur",
+    "seumur"
+  ],
+  "gabunganKata": [
+    "umur biologis",
+    "umur emosi",
+    "umur es",
+    "umur fisik",
+    "umur gelombang",
+    "umur kependidikan",
+    "umur kronologis",
+    "umur masuk",
+    "umur mental",
+    "umur moral",
+    "umur panen",
+    "umur paruh",
+    "umur penilaian",
+    "umur setara",
+    "umur sosial",
+    "umur subur",
+    "umur ulang tahun berikut",
+    "umur ulang tahun terdekat"
+  ],
+  "peribahasa": [
+    "ada nyawa (umur), ada rezeki; umur setahun jagung (darah setampuk pinang)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nyawa",
+    "kataAsal": "‘umr"
+  },
+  "data": [
+    {
+      "lema": "u.mur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lama waktu hidup atau ada (sejak dilahirkan atau diadakan); usia: --ku 22 tahun; dalam -- tuanya dalam masa ia sudah tua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "hidup; nyawa: ada --, ada rezeki selama masih hidup tentu mendapatkan rezeki; kalau masih ada -- kalau masih hidup"
+        }
+      ]
+    }
+  ]
+}

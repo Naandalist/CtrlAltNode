@@ -1,0 +1,35 @@
+{
+  "istilah": "gizi",
+  "entri": "gi.zi bentuk tidak baku: gisi1",
+  "bentukTidakBaku": "gisi1",
+  "kataTurunan": [
+    "bergizi"
+  ],
+  "gabunganKata": [
+    "gizi bayi",
+    "gizi buruk",
+    "gizi klinis",
+    "gizi makro",
+    "gizi mikro",
+    "gizi olahraga",
+    "gizi personal",
+    "gizi salah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "zat makanan pokok yang diperlukan bagi pertumbuhan dan kesehatan badan",
+    "kataAsal": "giżā’"
+  },
+  "data": [
+    {
+      "lema": "gi.zi bentuk tidak baku: gisi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat makanan pokok yang diperlukan bagi pertumbuhan dan kesehatan badan"
+        }
+      ]
+    }
+  ]
+}

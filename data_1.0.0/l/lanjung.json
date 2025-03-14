@@ -1,0 +1,37 @@
+{
+  "istilah": "lanjung",
+  "entri": "lan.jung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.jung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kecil tinggi (tentang batang tebu, pohon pinang, dan sebagainya); kecil panjang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tinggi"
+        }
+      ]
+    },
+    {
+      "lema": "lan.jung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "bakul besar dari rotan"
+        }
+      ]
+    }
+  ]
+}

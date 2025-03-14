@@ -1,0 +1,33 @@
+{
+  "istilah": "garai",
+  "entri": "ga.rai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.rai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sorgum"
+        }
+      ]
+    },
+    {
+      "lema": "ga.rai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pp[Papua: -]",
+          "deskripsi": "penyakit kulit semacam kadas dan kurap yang menyebabkan gatal"
+        }
+      ]
+    }
+  ]
+}

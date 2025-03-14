@@ -1,0 +1,33 @@
+{
+  "istilah": "mentok",
+  "entri": "men.tok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "men.tok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "itik keturunan mentok liar, berwarna dominan hitam, pial berwarna merah dan hitam, berbadan gemuk dan berkaki pendek, berhabitat di perairan, memakan moluska, krustasea, pucuk tumbuhan, dan sebagainya, tersebar di Meksiko, Amerika Tengah, dan Amerika Selatan"
+        }
+      ]
+    },
+    {
+      "lema": "men.tok /mêntok/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Jk[Melayu Jakarta: -]",
+          "deskripsi": "terantuk (pada); tidak dapat terus (tentang jalan dan sebagainya); buntu"
+        }
+      ]
+    }
+  ]
+}

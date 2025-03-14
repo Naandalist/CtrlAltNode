@@ -1,0 +1,38 @@
+{
+  "istilah": "trek",
+  "entri": "trek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengetrek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemindahan orang dan sebagainya dari daerah atau negeri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pemindahan bola dari pemain sayap ke tengah untuk diteruskan ke gawang lawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "jalur atau jalan yang dipakai untuk arena balap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "jalur pada cakram dan disket tempat informasi direkam; lintas"
+        }
+      ]
+    }
+  ]
+}

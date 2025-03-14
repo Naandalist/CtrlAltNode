@@ -1,0 +1,31 @@
+{
+  "istilah": "bujet",
+  "entri": "bu.jet",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbujet",
+    "membujetkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.jet",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anggaran pemasukan dan pengeluaran uang; anggaran belanja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "rencana anggaran terperinci sebagai pedoman untuk menjalankan operasi pada masa yang akan datang dan juga digunakan sebagai dasar untuk melakukan penilaian atas pelaksanaan"
+        }
+      ]
+    }
+  ]
+}

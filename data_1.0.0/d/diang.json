@@ -1,0 +1,38 @@
+{
+  "istilah": "diang",
+  "entri": "di.ang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdiang",
+    "didiang",
+    "mendiang",
+    "pendiangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.ang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "panasi (sesuatu) di atas api"
+        }
+      ]
+    },
+    {
+      "lema": "di.ang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sh[Sahu: Bahasa di Maluku Utara]",
+          "deskripsi": "tempat sampah di pinggir atau batas kebun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "insan",
+  "entri": "in.san",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "insanan",
+    "menginsankan",
+    "penginsanan"
+  ],
+  "gabunganKata": [
+    "insan film",
+    "insan kamil",
+    "insan periklanan",
+    "insan pers"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "manusia",
+    "kataAsal": "insān"
+  },
+  "data": [
+    {
+      "lema": "in.san",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "manusia"
+        }
+      ]
+    }
+  ]
+}

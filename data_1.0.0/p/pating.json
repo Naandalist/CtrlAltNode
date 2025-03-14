@@ -1,0 +1,35 @@
+{
+  "istilah": "pating",
+  "entri": "pa.ting1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memating"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "partikel yang menunjukkan kelanjutan atau sambungan, pengulangan atau variasi atau selingan dalam tindakan atau keadaan (berulang-ulang, berulang kali, berkali-kali, di sana-sini, dalam berbagai cara, dengan terus menerus, tak henti-hentinya); dalam hal tindakan, biasanya dengan konotasi bahwa tak ada maksud, perintah atau objek tertentu (secara serampangan, dengan sembarangan, dengan sembrana, tanpa arah, tak bertujuan, yang membabi buta, tak pandang bulu)",
+    "kataAsal": "patiṅ"
+  },
+  "data": [
+    {
+      "lema": "pa.ting1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasak atau paku kayu (biasa dipantekkan di pohon untuk tumpuan memanjat dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ting2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] Jw[Jawa: -]",
+          "deskripsi": "kata yang memberi makna banyak atau berkali-kali pada perbuatan atau sifat"
+        }
+      ]
+    }
+  ]
+}

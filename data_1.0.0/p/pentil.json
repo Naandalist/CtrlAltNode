@@ -1,0 +1,52 @@
+{
+  "istilah": "pentil",
+  "entri": "pen.til",
+  "bentukTidakBaku": "bentil",
+  "kataTurunan": [
+    "mementil"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pen.til",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat terbuat dari karet tempat memasukkan udara (gas) ke dalam ban (bola dan sebagainya) dan menahan udara (gas) yang sudah masuk: -- ban sepeda"
+        }
+      ]
+    },
+    {
+      "lema": "pen.til1 /pêntil/bentuk tidak baku: bentil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "puting susu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cembul kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah yang masih muda sekali"
+        }
+      ]
+    },
+    {
+      "lema": "pen.til2 /pêntil/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sentil; jentik"
+        }
+      ]
+    }
+  ]
+}

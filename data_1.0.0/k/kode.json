@@ -1,0 +1,76 @@
+{
+  "istilah": "kode",
+  "entri": "ko.de /kodê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkode",
+    "mengkodekan",
+    "mengodekan",
+    "pengkodean",
+    "pengode",
+    "pengodean"
+  ],
+  "gabunganKata": [
+    "kode akses",
+    "kode area",
+    "kode bar",
+    "kode batang",
+    "kode biner",
+    "kode bita",
+    "kode bita Java",
+    "kode buta",
+    "kode diplomatik",
+    "kode etik",
+    "kode etik jurnalistik",
+    "kode etik kedokteran",
+    "kode etik periklanan",
+    "kode etik perusahaan pers",
+    "kode etik sosial",
+    "kode genetika",
+    "kode instruksi",
+    "kode jenis transaksi",
+    "kode kendali",
+    "kode mesin",
+    "kode meteorologi",
+    "kode morse",
+    "kode objek",
+    "kode operasi",
+    "kode pembatalan",
+    "kode pos",
+    "kode Pos Indonesia",
+    "kode rakit",
+    "kode respons cepat",
+    "kode sinoptis internasional",
+    "kode sumber",
+    "kode terpakai ulang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.de /kodê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda (kata-kata, tulisan) yang disepakati untuk maksud tertentu (untuk menjamin kerahasiaan berita, pemerintah, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan peraturan yang bersistem"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan prinsip yang bersistem"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "aturan transformasi data atau informasi lainnya dari satu bentuk simbolik ke bentuk lainnya"
+        }
+      ]
+    }
+  ]
+}

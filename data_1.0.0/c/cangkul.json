@@ -1,0 +1,41 @@
+{
+  "istilah": "cangkul",
+  "entri": "cang.kul1",
+  "bentukTidakBaku": "cangkolan",
+  "kataTurunan": [
+    "bercangkul",
+    "mencangkul",
+    "mencangkuli",
+    "pencangkul",
+    "pencangkulan",
+    "secangkul",
+    "cangkulan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cang.kul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menggali dan mengaduk tanah, dibuat dari lempeng besi dan diberi tangkai panjang untuk pegangan; pacul"
+        }
+      ]
+    },
+    {
+      "lema": "cang.kul2 bentuk tidak baku: cangkolan",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "cangkulan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "korban",
+  "entri": "kor.ban",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkorban",
+    "mengorbankan",
+    "pengorbanan"
+  ],
+  "gabunganKata": [
+    "korban jiwa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "persembahan pada Allah sebagai bentuk ketaatan dan wasilah; penyembelihan hewan ternak sebagai bentuk ketaatan pada Allah",
+    "kataAsal": "qurbān"
+  },
+  "data": [
+    {
+      "lema": "kor.ban",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberian untuk menyatakan kebaktian, kesetiaan, dan sebagainya; kurban: jangankan harta, jiwa sekalipun kami berikan sebagai --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang, binatang, dan sebagainya yang menjadi menderita (mati dan sebagainya) akibat suatu kejadian, perbuatan jahat, dan sebagainya: sepuluh orang -- tabrakan itu dirawat di rumah sakit Bogor"
+        }
+      ]
+    }
+  ]
+}

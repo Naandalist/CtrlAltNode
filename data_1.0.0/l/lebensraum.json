@@ -1,0 +1,41 @@
+{
+  "istilah": "lebensraum",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "ruang yang diperlukan untuk hidup dan berkembang; habitat"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "daerah-daerah yang menurut paham Nazi Jerman perlu untuk kehidupan nasional dan kehidupan ekonomi berdikari"
+        }
+      ]
+    },
+    {
+      "lema": "Lebensraum",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "ruang yang diperlukan untuk hidup dan berkembang; habitat"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "daerah-daerah yang menurut paham Nazi Jerman perlu untuk kehidupan nasional dan kehidupan ekonomi berdikari"
+        }
+      ]
+    }
+  ]
+}

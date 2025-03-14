@@ -1,0 +1,40 @@
+{
+  "istilah": "rutin",
+  "entri": "ru.tin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerutinan",
+    "merutinkan",
+    "terutin"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.tin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "prosedur yang teratur dan tidak berubah-ubah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal membiasanya prosedur, kegiatan, pekerjaan, dan sebagainya: rapat koperasi itu bersifat -- dan tradisional"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "serangkaian instruksi yang dirancang untuk beberapa tujuan tertentu dan memiliki penggunaan umum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "prosedur utama yang dilaksanakan oleh suatu program"
+        }
+      ]
+    }
+  ]
+}

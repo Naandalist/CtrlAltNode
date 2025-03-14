@@ -1,0 +1,46 @@
+{
+  "istilah": "rani",
+  "entri": "ra.ni1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nyanyian",
+    "kataAsal": "agānī"
+  },
+  "data": [
+    {
+      "lema": "ra.ni1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "raja (perempuan); ratu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permaisuri"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ni2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kaya; gani"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ni3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tinggi rendah suara; nada; laras; lagu"
+        }
+      ]
+    }
+  ]
+}

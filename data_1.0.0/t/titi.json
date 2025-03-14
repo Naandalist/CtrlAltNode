@@ -1,0 +1,38 @@
+{
+  "istilah": "titi",
+  "entri": "ti.ti1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meniti",
+    "titian"
+  ],
+  "gabunganKata": [
+    "titi tali tinggi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.ti1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meniti"
+        }
+      ]
+    },
+    {
+      "lema": "ti.ti2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "cermat; teliti"
+        }
+      ]
+    }
+  ]
+}

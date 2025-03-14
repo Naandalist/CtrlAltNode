@@ -1,0 +1,39 @@
+{
+  "istilah": "dedes",
+  "entri": "de.des1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendedes"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.des1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "musang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesturi yang harum baunya"
+        }
+      ]
+    },
+    {
+      "lema": "de.des2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mendedes"
+        }
+      ]
+    }
+  ]
+}

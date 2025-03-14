@@ -1,0 +1,91 @@
+{
+  "istilah": "efek",
+  "entri": "e.fek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berefek"
+  ],
+  "gabunganKata": [
+    "efek aditif",
+    "efek Auger",
+    "efek autokinetik",
+    "efek barnum",
+    "efek berganda",
+    "efek bola salju",
+    "efek bunyi",
+    "efek Coriolis",
+    "efek demonstrasi",
+    "efek domino",
+    "efek erupsi",
+    "efek Flynn",
+    "efek fotoelektrik",
+    "efek fotovoltaik",
+    "efek glikemik",
+    "efek halo",
+    "efek Hawthorne",
+    "efek interferensi kontekstual",
+    "efek jenuh",
+    "efek Jevon",
+    "efek kemurahan hati",
+    "efek kronis",
+    "efek kulit",
+    "efek langgar pantangan",
+    "efek lintas",
+    "efek Magnus",
+    "efek Mandela",
+    "efek membentuk",
+    "efek organisasi",
+    "efek paduan",
+    "efek pascastres",
+    "efek pemanasan",
+    "efek pendapatan",
+    "efek pengasingan",
+    "efek penyejukan",
+    "efek plasebo",
+    "efek posisi",
+    "efek primasi",
+    "efek resensi",
+    "efek rumah kaca",
+    "efek rumah-kaca",
+    "efek samping",
+    "efek senjata",
+    "efek suara",
+    "efek substitusi",
+    "efek tanduk",
+    "efek terbang",
+    "efek tiru",
+    "efek umker",
+    "efek yoyo",
+    "efek beragun aset"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.fek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akibat; pengaruh: penaikan harga bensin mempunyai -- terhadap harga barang kebutuhan sehari-hari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesan yang timbul pada pikiran penonton, pendengar, pembaca, dan sebagainya (sesudah mendengar atau melihat sesuatu)"
+        }
+      ]
+    },
+    {
+      "lema": "e.fek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "surat berharga yang dapat diperdagangkan (seperti surat saham, surat obligasi)"
+        }
+      ]
+    }
+  ]
+}

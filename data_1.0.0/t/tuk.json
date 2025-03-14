@@ -1,0 +1,42 @@
+{
+  "istilah": "tuk",
+  "entri": "tuk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi pintu dan sebagainya diketuk"
+        }
+      ]
+    },
+    {
+      "lema": "tuk2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] kp[kependekan]",
+          "deskripsi": "untuk"
+        }
+      ]
+    },
+    {
+      "lema": "tuk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata air"
+        }
+      ]
+    }
+  ]
+}

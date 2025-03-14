@@ -1,0 +1,37 @@
+{
+  "istilah": "hitungan",
+  "entri": "hitung » hi.tung.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hitungan angka-angka",
+    "hitungan luar kepala",
+    "hitungan soal",
+    "hitungan soalan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hitung » hi.tung.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendapatan (hasil) menghitung: ia belum yakin akan kebenaran ~ itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "soal (bilangan dan sebagainya) yang harus dihitung: ~ ini sukar sekali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhitungan"
+        }
+      ]
+    }
+  ]
+}

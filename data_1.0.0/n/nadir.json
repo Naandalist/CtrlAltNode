@@ -1,0 +1,51 @@
+{
+  "istilah": "nadir",
+  "entri": "na.dir1 bentuk tidak baku: nadirat",
+  "bentukTidakBaku": "nadiratnazir1",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengawas; direktur; pengawas zakat",
+    "kataAsal": "nāẓir"
+  },
+  "data": [
+    {
+      "lema": "na.dir1 bentuk tidak baku: nadirat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jarang ada; jarang didapat; luar biasa"
+        }
+      ]
+    },
+    {
+      "lema": "na.dir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "titik yang paling rendah dari bulatan cakrawala (bola langit) yang terletak tepat di bawah kaki pengamat; titik kaki"
+        }
+      ]
+    },
+    {
+      "lema": "na.dir3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu (di Malaka)"
+        }
+      ]
+    },
+    {
+      "lema": "na.dir4 bentuk tidak baku: nazir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pengawas; inspektur"
+        }
+      ]
+    }
+  ]
+}

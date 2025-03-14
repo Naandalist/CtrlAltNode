@@ -1,0 +1,49 @@
+{
+  "istilah": "segmen",
+  "entri": "seg.men",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersegmen"
+  ],
+  "gabunganKata": [
+    "segmen lingkaran",
+    "segmen pasar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "seg.men",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "tembereng"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "ulas (tentang limau), pangsa (tentang durian), dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "satuan rangkaian yang pada dasarnya mempunyai struktur yang sama; bagian ruas tubuh yang berbentuk cincin, seperti ruas tubuh cacing tanah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan; daerah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan bahasa yang diabstraksikan dari kesatuan wicara atau teks"
+        }
+      ]
+    }
+  ]
+}

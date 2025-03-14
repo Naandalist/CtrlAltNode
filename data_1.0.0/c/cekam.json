@@ -1,0 +1,39 @@
+{
+  "istilah": "cekam",
+  "entri": "ce.kam1 /cêkam/bentuk tidak baku: cukam",
+  "bentukTidakBaku": "cukam",
+  "kataTurunan": [
+    "cekaman",
+    "mencekam",
+    "pencekaman",
+    "tercekam",
+    "mencekam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.kam1 /cêkam/bentuk tidak baku: cukam",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pegang erat-erat dengan kuku atau tangan"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kam2 /cêkam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tugal"
+        }
+      ]
+    }
+  ]
+}

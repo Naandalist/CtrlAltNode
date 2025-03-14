@@ -1,0 +1,33 @@
+{
+  "istilah": "lir",
+  "entri": "lir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "alat untuk menggulung atau mengulur tali atau rantai, digerakkan dengan tangan atau mesin, biasa digunakan pada mesin jangkar atau derek muatan di kapal"
+        }
+      ]
+    },
+    {
+      "lema": "lir2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "seperti, bagaikan: -- intan seperti intan"
+        }
+      ]
+    }
+  ]
+}

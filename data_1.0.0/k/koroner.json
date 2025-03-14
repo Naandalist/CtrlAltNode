@@ -1,0 +1,33 @@
+{
+  "istilah": "koroner",
+  "entri": "ko.ro.ner1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.ro.ner1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuluh nadi tajuk jantung"
+        }
+      ]
+    },
+    {
+      "lema": "ko.ro.ner2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "petugas yang melakukan pemeriksaan mayat dalam hal kematian mendadak akibat kekerasan atau akibat hal-hal yang tidak dapat dijelaskan"
+        }
+      ]
+    }
+  ]
+}

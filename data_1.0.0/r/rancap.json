@@ -1,0 +1,36 @@
+{
+  "istilah": "rancap",
+  "entri": "ran.cap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merancap",
+    "merancap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ran.cap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal memuaskan nafsu syahwat dengan jalan tidak wajar (dengan tangan dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ran.cap2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tajam sekali (tentang senjata); runcing; rancung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "terserampang",
+  "entri": "serampang1 » ter.se.ram.pang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "serampang1 » ter.se.ram.pang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kena serampang"
+        }
+      ]
+    },
+    {
+      "lema": "serampang2 » ter.se.ram.pang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terkait (seperti layang-layang tersangkut di pohon); tersangkut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tertahan (seperti perahu yang terhenti); tersekat; terhenti"
+        }
+      ]
+    }
+  ]
+}

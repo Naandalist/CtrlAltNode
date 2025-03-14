@@ -1,0 +1,45 @@
+{
+  "istilah": "mundur",
+  "entri": "mun.dur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemunduran",
+    "memundurkan",
+    "pemunduran"
+  ],
+  "gabunganKata": [
+    "mundur eksponensial",
+    "mundur eksponensial biner",
+    "mundur maju",
+    "mundur teratur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mundurnya; mundur: mengundurkan diri, mundur, menarik diri, meninggalkan",
+    "kataAsal": "undur"
+  },
+  "data": [
+    {
+      "lema": "mun.dur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjalan (bergerak) ke belakang: melangkah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "berkurang (mutu, kecakapan, dan sebagainya); menjadi buruk (kurang sehat, kurang baik, dan sebagainya): setelah kecelakaan itu kepandaiannya --; hasil panen tahun ini --; kesehatannya makin --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "kurang maju, laku, ramai, dan sebagainya (tentang perdagangan dan sebagainya): selama resesi ekonomi dunia, usahanya menjadi --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -]",
+          "deskripsi": "menunda pengiriman ulang yang dipaksakan oleh protokol kontrol akses medium setelah sebuah simpul jaringan dengan data yang ditransmisikan menentukan bahwa media fisik sudah digunakan"
+        }
+      ]
+    }
+  ]
+}

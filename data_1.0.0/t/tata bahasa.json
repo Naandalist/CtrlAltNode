@@ -1,0 +1,38 @@
+{
+  "istilah": "tata bahasa",
+  "entri": "ta.ta ba.ha.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketatabahasaan"
+  ],
+  "gabunganKata": [
+    "tata bahasa baku",
+    "tata bahasa filosofis",
+    "tata bahasa normatif",
+    "tata bahasa pendidikan",
+    "tata bahasa pengajaran",
+    "tata bahasa preskriptif",
+    "tata bahasa sekolah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.ta ba.ha.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan kaidah tentang struktur gramatikal bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku tentang kaidah bahasa yang meliputi kaidah fonologi, morfologi, dan sintaksis"
+        }
+      ]
+    }
+  ]
+}

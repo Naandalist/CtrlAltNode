@@ -1,0 +1,32 @@
+{
+  "istilah": "mengkreditkan",
+  "entri": "kredit1 » meng.kre.dit.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kredit1 » meng.kre.dit.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjual barang dengan pembayaran secara mengangsur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meminjamkan uang dengan pengembalian secara mengangsur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "meminjamkan uang dengan tanggungan barang"
+        }
+      ]
+    }
+  ]
+}

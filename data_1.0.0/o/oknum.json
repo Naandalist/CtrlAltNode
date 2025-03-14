@@ -1,0 +1,32 @@
+{
+  "istilah": "oknum",
+  "entri": "ok.num",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ok.num",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "penyebut diri Tuhan dalam agama Katolik; pribadi: kesatuan antara Bapa, Putra, dan Roh Kudus sebagai tiga -- keesaan Tuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang seorang; perseorangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang atau anasir (dengan arti yang kurang baik): -- yang bertindak sewenang-wenang itu sudah ditahan"
+        }
+      ]
+    }
+  ]
+}

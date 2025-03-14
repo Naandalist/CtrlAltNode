@@ -1,0 +1,33 @@
+{
+  "istilah": "mahatma",
+  "entri": "ma.hat.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.hat.ma1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jiwa besar (sebutan untuk mendiang Gandhi, pemimpin besar India)"
+        }
+      ]
+    },
+    {
+      "lema": "ma.hat.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "maju sehat bersama"
+        }
+      ]
+    }
+  ]
+}

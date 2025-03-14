@@ -1,0 +1,47 @@
+{
+  "istilah": "kontak",
+  "entri": "kon.tak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkontak",
+    "mengontak",
+    "pengontak",
+    "terkontak"
+  ],
+  "gabunganKata": [
+    "kontak bahasa",
+    "kontak dagang",
+    "kontak estetis",
+    "kontak estetis panggung",
+    "kontak fatis",
+    "kontak kebudayaan",
+    "kontak pandang",
+    "kontak senjata",
+    "kontak sosial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.tak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hubungan satu dengan yang lain: sejak berpisah kami kehilangan -- satu sama lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sambungan arus listrik: walaupun kabelnya dipasang, jika belum ada --nya, lampu listrik itu belum bisa menyala"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bertemu (dengan); tembak-menembak: patroli kita -- dengan musuh di dekat pelabuhan"
+        }
+      ]
+    }
+  ]
+}

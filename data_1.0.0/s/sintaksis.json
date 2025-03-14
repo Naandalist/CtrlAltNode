@@ -1,0 +1,32 @@
+{
+  "istilah": "sintaksis",
+  "entri": "sin.tak.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sin.tak.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pengaturan dan hubungan kata dengan kata atau dengan satuan lain yang lebih besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "cabang linguistik tentang susunan kalimat dan bagiannya; ilmu tata kalimat; ilmu nahu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "subsistem ilmu bahasa yang mencakup hal tersebut"
+        }
+      ]
+    }
+  ]
+}

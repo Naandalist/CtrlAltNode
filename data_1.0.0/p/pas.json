@@ -1,0 +1,75 @@
+{
+  "istilah": "pas",
+  "entri": "pas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengepas",
+    "mengepaskan",
+    "pas-pasan"
+  ],
+  "gabunganKata": [
+    "pas naik",
+    "pas badan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat keterangan yang menyatakan boleh berjalan (masuk) ke daerah lain atau ke tempat terlarang, misalnya pelabuhan"
+        }
+      ]
+    },
+    {
+      "lema": "pas2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kena benar; tepat: tembakannya -- benar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak lebih tidak kurang (tentang jumlah): bayarlah dengan uang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "cocok; tidak longgar; tidak sempit (tentang pakaian): -- benar baju itu di badanmu"
+        }
+      ]
+    },
+    {
+      "lema": "pas3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "opas; sapaan kepada opas"
+        }
+      ]
+    },
+    {
+      "lema": "pas4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan pintas sempit di daerah pegunungan: Puncak --"
+        }
+      ]
+    },
+    {
+      "lema": "pas5",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mal[Melayu Malaysia: -]",
+          "deskripsi": "lulus (dalam ujian)"
+        }
+      ]
+    }
+  ]
+}

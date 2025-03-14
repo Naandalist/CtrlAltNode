@@ -1,0 +1,44 @@
+{
+  "istilah": "bumbun",
+  "entri": "bum.bun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membumbun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bum.bun1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rimbun; rindang"
+        }
+      ]
+    },
+    {
+      "lema": "bum.bun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dangau tempat pemburu mengintai buruan"
+        }
+      ]
+    },
+    {
+      "lema": "bum.bun3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "timbunan padi, tanah, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

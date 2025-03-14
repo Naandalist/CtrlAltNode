@@ -1,0 +1,34 @@
+{
+  "istilah": "jemaah",
+  "entri": "je.ma.ah /jêmaah/bentuk tidak baku: jamaah",
+  "bentukTidakBaku": "jamaah",
+  "kataTurunan": [
+    "berjemaah",
+    "menjemaahkan"
+  ],
+  "gabunganKata": [
+    "jemaah haji",
+    "jemaah umrah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perkumpulan",
+    "kataAsal": "jamā‘ah"
+  },
+  "data": [
+    {
+      "lema": "je.ma.ah /jêmaah/bentuk tidak baku: jamaah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan atau rombongan orang beribadah: -- haji"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang banyak; publik"
+        }
+      ]
+    }
+  ]
+}

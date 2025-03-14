@@ -1,0 +1,51 @@
+{
+  "istilah": "kik",
+  "entri": "kik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkakas tenun (bingkai tenunan)"
+        }
+      ]
+    },
+    {
+      "lema": "kik2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ akik"
+        }
+      ]
+    },
+    {
+      "lema": "kik3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kantong kulit, tempat air (air anggur, madu, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "KIK",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kredit investasi kecil"
+        }
+      ]
+    }
+  ]
+}

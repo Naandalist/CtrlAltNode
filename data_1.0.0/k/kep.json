@@ -1,0 +1,42 @@
+{
+  "istilah": "kep",
+  "entri": "kep1 bentuk tidak baku: kip1",
+  "bentukTidakBaku": "kip1",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kep1 bentuk tidak baku: kip1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggalak (tentang senapan)"
+        }
+      ]
+    },
+    {
+      "lema": "kep2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jambul"
+        }
+      ]
+    },
+    {
+      "lema": "KEP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gz[Ilmu Gizi: ] sing[singkatan]",
+          "deskripsi": "kurang energi protein"
+        }
+      ]
+    }
+  ]
+}

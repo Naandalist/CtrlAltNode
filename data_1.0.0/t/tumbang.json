@@ -1,0 +1,40 @@
+{
+  "istilah": "tumbang",
+  "entri": "tum.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menumbangkan",
+    "menumbang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tum.bang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "rebah (tentang kayu besar yang terangkat akarnya dan sebagainya): pohon satu-satunya tempat bernaung -- karena hujan yang disertai angin kencang itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "jatuh; runtuh (tentang negara, kekuasaan, dan sebagainya): kekuasaan imperialis di Timur Tengah telah --"
+        }
+      ]
+    },
+    {
+      "lema": "tum.bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "penganan dibuat dari (keladi, pisang, ubi) yang direbus, ditumbuk halus dan dicampur dengan gula dan parutan kelapa"
+        }
+      ]
+    }
+  ]
+}

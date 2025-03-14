@@ -1,0 +1,32 @@
+{
+  "istilah": "redundansi",
+  "entri": "re.dun.dan.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.dun.dan.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemubaziran; kelewahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "duplikasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "repetisi; pengulangan"
+        }
+      ]
+    }
+  ]
+}

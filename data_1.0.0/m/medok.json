@@ -1,0 +1,43 @@
+{
+  "istilah": "medok",
+  "entri": "me.dok1 /mêdok/bentuk tidak baku: meduk",
+  "bentukTidakBaku": "meduk",
+  "kataTurunan": [
+    "memedokkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.dok1 /mêdok/bentuk tidak baku: meduk",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "berlubang-lubang (seperti spons dan roti)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kotor; dekil"
+        }
+      ]
+    },
+    {
+      "lema": "me.dok2 /mêdok/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "agak pekat dan kental karena banyak bumbunya (tentang kuah, gado-gado)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kentara sekali aksen daerahnya: ucapannya masih -- sekali"
+        }
+      ]
+    }
+  ]
+}

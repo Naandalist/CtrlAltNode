@@ -1,0 +1,33 @@
+{
+  "istilah": "delap",
+  "entri": "de.lap1 /dêlap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.lap1 /dêlap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "api dan asap yang keluar dari mulut senapan pada saat ditembakkan"
+        }
+      ]
+    },
+    {
+      "lema": "de.lap2 /dêlap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "suka meminta sesuatu kepada orang lain tanpa mempunyai rasa malu"
+        }
+      ]
+    }
+  ]
+}

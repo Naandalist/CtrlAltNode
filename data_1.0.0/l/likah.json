@@ -1,0 +1,33 @@
+{
+  "istilah": "likah",
+  "entri": "li.kah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.kah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "bilah dari kayu atau bambu yang melintang pada bagian bawah tempat tidur di bawah galar"
+        }
+      ]
+    },
+    {
+      "lema": "li.kah2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bt[Batak: -]",
+          "deskripsi": "rusak tertindih, tetapi masih bisa digunakan: dia memakai tutup cerek yang -- untuk menutup mangkuk tersebut"
+        }
+      ]
+    }
+  ]
+}

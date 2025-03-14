@@ -1,0 +1,33 @@
+{
+  "istilah": "embat",
+  "entri": "em.bat /êmbat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengembat",
+    "mengembatkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "laksana manau, seribu kali embat haram tak patah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.bat /êmbat/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pukul dengan benda panjang dan tipis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "tempo dalam lagu tradisional yang ditentukan oleh jumlah ketukan instrumen dalam satu detik"
+        }
+      ]
+    }
+  ]
+}

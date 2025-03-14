@@ -1,0 +1,35 @@
+{
+  "istilah": "jojol",
+  "entri": "jo.jol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjojol"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jo.jol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiang (pancang, cerocok) yang ditancapkan di sungai untuk membendung air dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "jo.jol2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menjojol"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "jatah",
+  "entri": "ja.tah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjatah",
+    "menjatah",
+    "menjatahi",
+    "penjatahan"
+  ],
+  "gabunganKata": [
+    "jatah air",
+    "jatah waktu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.tah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah atau banyaknya barang dan sebagainya yang telah ditentukan (untuk suatu maksud atau untuk suatu daerah): anak-anak yang kelaparan mendapat -- makanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah atau banyaknya orang yang telah ditentukan (untuk imigrasi, pergi haji, dan sebagainya); kuota: jemaah haji setiap tahun ditentukan oleh --nya"
+        }
+      ]
+    }
+  ]
+}

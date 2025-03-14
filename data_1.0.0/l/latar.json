@@ -1,0 +1,53 @@
+{
+  "istilah": "latar",
+  "entri": "la.tar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melatari",
+    "pelataran"
+  ],
+  "gabunganKata": [
+    "latar klinis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.tar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permukaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "halaman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rata; datar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dasar warna (pada kain dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "keterangan mengenai waktu, ruang, dan suasana terjadinya lakuan dalam karya sastra"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan atau situasi (yang menyertai ujaran atau percakapan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "dekor pemandangan yang dipakai dalam pementasan drama, seperti pengaturan tempat kejadian, perlengkapan, dan pencahayaan"
+        }
+      ]
+    }
+  ]
+}

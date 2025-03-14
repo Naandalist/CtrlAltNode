@@ -1,0 +1,62 @@
+{
+  "istilah": "saham",
+  "entri": "sa.ham",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersaham"
+  ],
+  "gabunganKata": [
+    "saham aktif",
+    "saham biasa",
+    "saham bonus",
+    "saham dibayar penuh",
+    "saham diutamakan",
+    "saham donasi",
+    "saham global",
+    "saham gorengan",
+    "saham indikator",
+    "saham lapis dua",
+    "saham lapis tiga",
+    "saham luar bursa",
+    "saham lunas",
+    "saham nonaktif",
+    "saham preferen",
+    "saham syariah",
+    "saham takaktif",
+    "saham terdaftar",
+    "saham terizin",
+    "saham termaktub",
+    "saham tidur",
+    "saham unggulan",
+    "saham yoyo"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bagian",
+    "kataAsal": "sahm"
+  },
+  "data": [
+    {
+      "lema": "sa.ham",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian; andil; sero (tentang permodalan): --nya tertanam dalam berbagai perusahaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sumbangan (pikiran dan tenaga): --nya dalam perjuangan kemerdekaan sangat besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -] ki[kiasan]",
+          "deskripsi": "surat bukti pemilikan bagian modal perseroan terbatas yang memberi hak atas dividen dan lain-lain menurut besar kecilnya modal yang disetor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -] ki[kiasan]",
+          "deskripsi": "hak yang dimiliki orang (pemegang saham) terhadap perusahaan berkat penyerahan bagian modal sehingga dianggap berbagi dalam pemilikan dan pengawasan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "dempak",
+  "entri": "dem.pak1 /dêmpak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdempak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dem.pak1 /dêmpak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rendah papak; tidak merunjung (tentang rumah, topi, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "papak (tentang haluan perahu)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lebar bilahnya (tentang pisau dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pendek gemuk (tentang tubuh)"
+        }
+      ]
+    },
+    {
+      "lema": "dem.pak2 /dêmpak/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berdempak"
+        }
+      ]
+    }
+  ]
+}

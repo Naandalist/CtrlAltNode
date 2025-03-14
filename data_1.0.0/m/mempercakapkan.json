@@ -1,0 +1,37 @@
+{
+  "istilah": "mempercakapkan",
+  "entri": "cakap1 » mem.per.ca.kap.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cakap1 » mem.per.ca.kap.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempercakap"
+        }
+      ]
+    },
+    {
+      "lema": "cakap2 » mem.per.ca.kap.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membicarakan; memperkatakan; memperbincangkan: mereka sedang ~ sebab-sebab kebakaran di situ"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengucapkan; menggunakan bahasa: ia mengerti bahasa Jawa, tetapi tidak dapat ~nya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "sapo",
+  "entri": "sa.po",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.po",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "wadah dari tanah liat atau tembikar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "makanan berkuah yang dimasak dan disajikan dalam wadah berbahan tanah liat atau tembikar, biasanya terdapat tofu: -- tahu"
+        }
+      ]
+    }
+  ]
+}

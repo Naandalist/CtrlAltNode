@@ -1,0 +1,46 @@
+{
+  "istilah": "garing",
+  "entri": "ga.ring1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.ring1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "semah yang memiliki cuping lebih pendek pada dagunya, panjang moncong sama dengan panjang duri sirip dorsal terakhir〔Tor douronensis〕"
+        }
+      ]
+    },
+    {
+      "lema": "ga.ring2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keras dan kering (seperti biskuit); kering"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "tidak lucu (tentang lelucon): penonton tidak bereaksi mendengarkan lawakannya yang -- itu"
+        }
+      ]
+    },
+    {
+      "lema": "ga.ring3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keranjang (terbuat dari rotan)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "najis",
+  "entri": "na.jis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bernajis",
+    "kenajisan",
+    "menajiskan"
+  ],
+  "gabunganKata": [
+    "najis berat",
+    "najis besar",
+    "najis hakiki",
+    "najis hukmi",
+    "najis kecil",
+    "najis ringan",
+    "najis sedang"
+  ],
+  "peribahasa": [
+    "membasuh najis dengan malu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kotor",
+    "kataAsal": "najis"
+  },
+  "data": [
+    {
+      "lema": "na.jis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Isl[Agama Islam: -]",
+          "deskripsi": "kotor yang menjadi sebab terhalangnya seseorang untuk beribadah kepada Allah Swt., seperti terkena jilatan anjing: tempat yang --; makanan yang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotoran (tinja, air kencing)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jijik: aku -- mendengar perkataan itu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "tol",
+  "entri": "tol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pajak untuk memasuki jalan tertentu (misalnya jalan bebas hambatan, jalan layang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan yang mengenakan bea bagi pemakainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bea masuk kendaraan dan barang impor lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pintu cukai; gerbang cukai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "rancang",
+  "entri": "ran.cang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merancang",
+    "berancang",
+    "merancang",
+    "merancangkan",
+    "perancang",
+    "perancangan",
+    "rancangan"
+  ],
+  "gabunganKata": [
+    "rancang bangun",
+    "rancang busana"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ran.cang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancang yang berujung tajam untuk dicucukkan ke dalam tanah (untuk tanda, batas, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancang yang berpulut untuk menangkap burung dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ran.cang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merancang"
+        }
+      ]
+    }
+  ]
+}

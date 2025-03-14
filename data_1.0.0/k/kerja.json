@@ -1,0 +1,77 @@
+{
+  "istilah": "kerja",
+  "entri": "ker.ja /kêrja/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bekerja",
+    "berkinerja",
+    "kerjaan",
+    "kinerja",
+    "mempekerjakan",
+    "mengerjakan",
+    "pekerja",
+    "pekerjaan",
+    "pengerjaan",
+    "sekerja",
+    "sepekerjaan",
+    "tekerjakan"
+  ],
+  "gabunganKata": [
+    "kerja antara",
+    "kerja bakti",
+    "kerja bendang",
+    "kerja bersama",
+    "kerja borongan",
+    "kerja eksternal",
+    "kerja fisik",
+    "kerja internal",
+    "kerja kasar",
+    "kerja ladang",
+    "kerja lapangan",
+    "kerja lembur",
+    "kerja paksa",
+    "kerja raja",
+    "kerja rodi",
+    "kerja sama",
+    "kerja sama rahasia",
+    "kerja samben",
+    "kerja sambilan",
+    "kerja sampingan",
+    "kerja sawah",
+    "kerja tangan",
+    "kerja tulis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "perbuatan, tindakan, urusan, pekerjaan, fungsi",
+    "kataAsal": "kārya"
+  },
+  "data": [
+    {
+      "lema": "ker.ja /kêrja/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kegiatan melakukan sesuatu; yang dilakukan (diperbuat): --nya makan dan minum saja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dilakukan untuk mencari nafkah; mata pencaharian: selama lima tahun --nya berdagang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perayaan yang berhubungan dengan perkawinan, khitanan, dan sebagainya; pesta perjamuan: -- nikah akan dilaksanakan pada tanggal 10 Syawal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pekerjaan: menguli merupakan -- yang memerlukan tenaga fisik"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bekerja: hari ini ia tidak -- karena sakit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "istilah": "telangkup",
+  "entri": "te.lang.kup /têlangkup/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertelangkup",
+    "menelangkupkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "telangkup (khusus sikap tangan dalam menghormat, sěmbah); tepuk tangan",
+    "kataAsal": "talaṅkup"
+  },
+  "data": [
+    {
+      "lema": "te.lang.kup /têlangkup/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "berbaring dengan perut di bawah; telungkup"
+        }
+      ]
+    }
+  ]
+}

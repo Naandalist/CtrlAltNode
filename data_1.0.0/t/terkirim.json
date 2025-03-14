@@ -1,0 +1,32 @@
+{
+  "istilah": "terkirim",
+  "entri": "kirim » ter.ki.rim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kirim » ter.ki.rim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dikirim(kan): maaf suratmu belum ~, saya belum sempat ke kantor pos"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dapat dikirim: anakku membutuhkan uang untuk membeli sepeda, tetapi uang sebanyak itu belum ~"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dikirimi: pihak ~ mengembalikan kiriman itu"
+        }
+      ]
+    }
+  ]
+}

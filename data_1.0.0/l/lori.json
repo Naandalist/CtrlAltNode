@@ -1,0 +1,46 @@
+{
+  "istilah": "lori",
+  "entri": "lo.ri1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.ri1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerobak yang berjalan di atas rel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mobil pengangkut barang"
+        }
+      ]
+    },
+    {
+      "lema": "lo.ri2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nuri"
+        }
+      ]
+    },
+    {
+      "lema": "lo.ri3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "pintu sorong dari bambu"
+        }
+      ]
+    }
+  ]
+}

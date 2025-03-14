@@ -1,0 +1,34 @@
+{
+  "istilah": "dekor",
+  "entri": "de.kor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendekor"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.kor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "perlengkapan panggung teater yang diatur sedemikian rupa sehingga menggambarkan tempat kejadian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "latar belakang suara (dalam siaran sandiwara radio)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hiasan"
+        }
+      ]
+    }
+  ]
+}

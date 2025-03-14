@@ -1,0 +1,51 @@
+{
+  "istilah": "bilang",
+  "entri": "bi.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbilang",
+    "berbilang-bilang",
+    "bilangan",
+    "kebilangan",
+    "membilang",
+    "membilangkan",
+    "pembilang",
+    "pembilangan",
+    "sebilang",
+    "sebilangan",
+    "terbilang",
+    "membilang",
+    "membilangi",
+    "membilangkan",
+    "perbilangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "rendah bilang-bilang disuruki, tinggi kayu ara dilangkahi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.lang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hitung"
+        }
+      ]
+    },
+    {
+      "lema": "bi.lang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berkata; mengatakan: siapa -- ia anak yang bodoh?"
+        }
+      ]
+    }
+  ]
+}

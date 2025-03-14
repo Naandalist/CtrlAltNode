@@ -1,0 +1,24 @@
+{
+  "istilah": "kamus data aktif",
+  "entri": "kamus1 » kamus data aktif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kamus1 » kamus data aktif",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "kamus yang isinya dapat dimutakhirkan secara otomatis oleh sistem manajemen pangkalan data pada saat terjadi perubahan terhadap struktur pangkalan data atau aplikasi"
+        }
+      ]
+    }
+  ]
+}

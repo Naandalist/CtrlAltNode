@@ -1,0 +1,31 @@
+{
+  "istilah": "surga",
+  "entri": "sur.ga bentuk tidak baku: sorga, suarga, swarga, syorga, syurga",
+  "bentukTidakBaku": "sorga, suarga, swarga, syorga, syurga",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "surga dunia",
+    "surga jannah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "surga, tempat kediaman cahaya dan dewa-dewa",
+    "kataAsal": "svarga"
+  },
+  "data": [
+    {
+      "lema": "sur.ga bentuk tidak baku: sorga, suarga, swarga, syorga, syurga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alam akhirat yang membahagiakan roh manusia yang hendak tinggal di dalamnya (dalam keabadian)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayangan tempat kediaman Batara Guru (Siwa); surgaloka"
+        }
+      ]
+    }
+  ]
+}

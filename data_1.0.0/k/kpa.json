@@ -1,0 +1,33 @@
+{
+  "istilah": "kpa",
+  "entri": "KPA1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "KPA1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kuasa pengguna anggaran"
+        }
+      ]
+    },
+    {
+      "lema": "KPA2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kredit pemilikan apartemen"
+        }
+      ]
+    }
+  ]
+}

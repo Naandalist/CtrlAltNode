@@ -1,0 +1,46 @@
+{
+  "istilah": "memelas",
+  "entri": "melas1 » memelas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "melas1 » memelas",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "menimbulkan rasa belas kasihan: terdengar suara rintihan yang ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memohon belas kasih: dengan wajah ~ dia mengantarku ke perantauan"
+        }
+      ]
+    },
+    {
+      "lema": "pelas » me.me.las",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Lay[Pelayaran: -]",
+          "deskripsi": "mengikat tali perahu (supaya bersambung dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "me.me.las /mêmêlas/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat melas1"
+        }
+      ]
+    }
+  ]
+}

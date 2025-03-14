@@ -1,0 +1,38 @@
+{
+  "istilah": "setop",
+  "entri": "se.top1 /sêtop/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyetop",
+    "penyetop",
+    "penyetopan",
+    "setopan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.top1 /sêtop/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berhenti; terhenti"
+        }
+      ]
+    },
+    {
+      "lema": "se.top2 /sêtop/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ setup"
+        }
+      ]
+    }
+  ]
+}

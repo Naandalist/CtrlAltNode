@@ -1,0 +1,51 @@
+{
+  "istilah": "raba",
+  "entri": "ra.ba1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meraba",
+    "meraba-raba",
+    "merabai",
+    "peraba",
+    "perabaan",
+    "raba-rabaan",
+    "rabaan",
+    "teraba",
+    "teraba-raba",
+    "meraba",
+    "peraba"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "telah meraba-raba tepi kain"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.ba1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jamah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terka; duga"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ba2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "meraba; peraba"
+        }
+      ]
+    }
+  ]
+}

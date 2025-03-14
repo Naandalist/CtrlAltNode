@@ -1,0 +1,32 @@
+{
+  "istilah": "menyuap",
+  "entri": "suap » me.nyu.ap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "suap » me.nyu.ap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "makan dengan tangan (tidak dengan sendok dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberi makan dengan memasukkan makanan ke dalam mulut yang disuapi: ~ anak"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "memberi uang sogok; menyogok; menyuapi: sebenarnya uang sebanyak itu disediakan untuk ~ orang-orang yang berpengaruh"
+        }
+      ]
+    }
+  ]
+}

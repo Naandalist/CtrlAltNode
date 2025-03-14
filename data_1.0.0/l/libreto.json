@@ -1,0 +1,32 @@
+{
+  "istilah": "libreto",
+  "entri": "li.bre.to bentuk tidak baku: libereto",
+  "bentukTidakBaku": "libereto",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.bre.to bentuk tidak baku: libereto",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "naskah (teks) opera, operet, atau gubahan musik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku libreto"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "syair lagu yang ditulis bersama dengan notasinya"
+        }
+      ]
+    }
+  ]
+}

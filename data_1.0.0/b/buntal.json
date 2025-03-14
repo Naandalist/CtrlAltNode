@@ -1,0 +1,37 @@
+{
+  "istilah": "buntal",
+  "entri": "bun.tal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "buntal durian",
+    "buntal landak",
+    "buntal pisang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bun.tal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "gembung; buncit"
+        }
+      ]
+    },
+    {
+      "lema": "bun.tal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut yang berbisa, dapat menggembungkan perutnya apabila tersentuh, berduri besar dan membahayakan terdapat di laut tropis; bermacam-macam jenisnya〔Diodon hystrix〕"
+        }
+      ]
+    }
+  ]
+}

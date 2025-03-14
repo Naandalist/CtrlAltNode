@@ -1,0 +1,40 @@
+{
+  "istilah": "palak",
+  "entri": "pa.lak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepalakan",
+    "memalak",
+    "memalaki",
+    "mempalak",
+    "palakan",
+    "pemalak",
+    "pemalakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.lak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "panas badan (karena berkeringat); gerah: badannya -- dingin"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "panas hati; marah; merasa benci; kesal: bangkit (naik) -- menjadi marah; akibat tindakan penguasa yang tidak adil rakyat menjadi -- dan memberontak"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "sangat berani; nekat: pasukan itu memang --"
+        }
+      ]
+    }
+  ]
+}

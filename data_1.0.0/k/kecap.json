@@ -1,0 +1,53 @@
+{
+  "istilah": "kecap",
+  "entri": "ke.cap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkecap",
+    "mengecap",
+    "kecapan",
+    "mengecap",
+    "pengecap",
+    "pengecapan",
+    "terkecap-kecap"
+  ],
+  "gabunganKata": [
+    "kecap asin",
+    "kecap ikan",
+    "kecap inggris",
+    "kecap jamur",
+    "kecap jepang",
+    "kecap manis",
+    "kecap lemes"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "decak, bunyi dibuat dengan bibir atau lidah; ucapan kata, pembicaraan, ocehan; kecap; membuat suara celaan;nsuara air jatuh",
+    "kataAsal": "kěcap"
+  },
+  "data": [
+    {
+      "lema": "ke.cap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan atau saus hasil olahan kacang kedelai yang diberi gula dan rempah-rempah untuk penyedap rasa masakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "bual; omong kosong"
+        }
+      ]
+    },
+    {
+      "lema": "ke.cap /kêcap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan mulut (membuka dan mengatup) seperti ketika makan (hingga menimbulkan bunyi “cap, cap”)"
+        }
+      ]
+    }
+  ]
+}

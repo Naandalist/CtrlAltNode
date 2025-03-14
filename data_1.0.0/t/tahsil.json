@@ -1,0 +1,28 @@
+{
+  "istilah": "tahsil",
+  "entri": "tah.sil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "proses menyeleksi sesuatu yang diperoleh",
+    "kataAsal": "taḥṣīl"
+  },
+  "data": [
+    {
+      "lema": "tah.sil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal mendapat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengumpulan hasil (pajak dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

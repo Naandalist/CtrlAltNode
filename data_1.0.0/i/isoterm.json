@@ -1,0 +1,28 @@
+{
+  "istilah": "isoterm",
+  "entri": "i.so.term",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.so.term",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "garis dalam peta cuaca yang menghubungkan tempat yang mempunyai temperatur rata-rata yang sama pada periode tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "garis yang menghubungkan titik dengan suhu sama dalam ruang"
+        }
+      ]
+    }
+  ]
+}

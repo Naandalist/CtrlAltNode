@@ -1,0 +1,41 @@
+{
+  "istilah": "om",
+  "entri": "om1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "om santi santi santi om",
+    "om swastiastu",
+    "om senang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memang, tentu saja, sungguh-sungguh, benar-benar, dengan sesungguhnya, bahwasanya, begitulah, demikianlah, juga sebagai pengantar dalam tata cara atau sapaan hormat",
+    "kataAsal": "om"
+  },
+  "data": [
+    {
+      "lema": "om1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "aksara suci; suku kata suci yang digunakan sebagai pembuka doa kepada dewa dalam agama Hindu dan Buddha; ong"
+        }
+      ]
+    },
+    {
+      "lema": "om2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kakak atau adik laki-laki ayah atau ibu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata sapaan kepada laki-laki yang agak tua"
+        }
+      ]
+    }
+  ]
+}

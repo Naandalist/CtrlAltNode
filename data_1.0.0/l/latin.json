@@ -1,0 +1,32 @@
+{
+  "istilah": "latin",
+  "entri": "La.tin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "La.tin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang digunakan pada masa Romawi kuno, dalam sejarah digunakan secara luas untuk ilmu pengetahuan dan administrasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penduduk asli suatu negara dengan bahasa yang dikembangkan dari bahasa Latin, misalnya Spanyol atau Italia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang lahir atau tinggal di Amerika Latin, misalnya Brasil atau Meksiko"
+        }
+      ]
+    }
+  ]
+}

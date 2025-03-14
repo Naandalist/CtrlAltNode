@@ -1,0 +1,46 @@
+{
+  "istilah": "pelang",
+  "entri": "pe.lang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.lang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perahu dagang: hanyut Puan dari hulu, berisi ambar kasturi, -- Jawa memuat kelapa"
+        }
+      ]
+    },
+    {
+      "lema": "pe.lang1 /pêlang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalur berwarna (seperti pada bendera, bulu harimau); loreng"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buluh yang kulitnya belang-belang hitam"
+        }
+      ]
+    },
+    {
+      "lema": "pe.lang2 /pêlang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "papan (nama dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

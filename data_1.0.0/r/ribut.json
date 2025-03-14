@@ -1,0 +1,45 @@
+{
+  "istilah": "ribut",
+  "entri": "ri.but1",
+  "bentukTidakBaku": "rebet2",
+  "kataTurunan": [
+    "keributan",
+    "meributkan",
+    "meribut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ri.but1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sibuk sekali; banyak pekerjaan: menjelang Lebaran orang -- membeli barang, terutama pakaian dan bahan makanan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "recok; gaduh; ingar; ramai (rusuh) tidak keruan; marah-marah (mengamuk): kelas itu sangat --, mungkin gurunya belum datang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bertengkar mulut: seringkali ia -- dengan suaminya"
+        }
+      ]
+    },
+    {
+      "lema": "ri.but2 bentuk tidak baku: rebet2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kencang, gemuruh, dan tidak tentu arahnya (tentang angin)"
+        }
+      ]
+    }
+  ]
+}

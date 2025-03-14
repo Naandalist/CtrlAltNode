@@ -1,0 +1,33 @@
+{
+  "istilah": "boko",
+  "entri": "bo.ko1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.ko1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menemukan kembali barang yang dicuri atau barang yang hilang (di Sulawesi)"
+        }
+      ]
+    },
+    {
+      "lema": "bo.ko2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mr[Mandar: -]",
+          "deskripsi": "nama pakaian adat perempuan Mandar yang sudah agak lanjut usia, biasanya berwarna putih, hitam, cokelat, atau biru, dipakai pada acara-acara penting"
+        }
+      ]
+    }
+  ]
+}

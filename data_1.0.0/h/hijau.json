@@ -1,0 +1,62 @@
+{
+  "istilah": "hijau",
+  "entri": "hi.jau bentuk tidak baku: ijo",
+  "bentukTidakBaku": "ijo",
+  "kataTurunan": [
+    "hijauan",
+    "kehijau-hijauan",
+    "kehijauan",
+    "menghijau",
+    "menghijaukan",
+    "penghijau",
+    "penghijauan"
+  ],
+  "gabunganKata": [
+    "hijau asetat",
+    "hijau daun",
+    "hijau gadung",
+    "hijau jelak",
+    "hijau lestari",
+    "hijau lumut",
+    "hijau maya-maya",
+    "hijau muda",
+    "hijau paris",
+    "hijau tua",
+    "hijau zamrud"
+  ],
+  "peribahasa": [
+    "menengadah ke langit hijau"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.jau bentuk tidak baku: ijo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna yang serupa dengan warna daun pada umumnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gabungan warna biru dan kuning dalam spektrum"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengandung atau memperlihatkan warna yang serupa dengan hijau"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "belum berpengalaman: masih --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "berkaitan dengan gerakan, semangat, isu dan sebagainya yang bertujuan untuk mengurangi efek rumah kaca dan pemanasan global: mobil --; kampus --"
+        }
+      ]
+    }
+  ]
+}

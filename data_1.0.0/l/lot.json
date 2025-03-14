@@ -1,0 +1,42 @@
+{
+  "istilah": "lot",
+  "entri": "lot1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lot1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "undian; lotre"
+        }
+      ]
+    },
+    {
+      "lema": "lot2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Idt[Perindustrian dan Kerajinan: -]",
+          "deskripsi": "kelompok satuan hasil produksi yang dibuat dengan kondisi yang sama dan berasal dari bahan yang sama"
+        }
+      ]
+    },
+    {
+      "lema": "lot3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "jumlah obligasi atau saham dalam perdagangan tunggal"
+        }
+      ]
+    }
+  ]
+}

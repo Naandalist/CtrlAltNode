@@ -1,0 +1,33 @@
+{
+  "istilah": "pah",
+  "entri": "pah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] kp[kependekan]",
+          "deskripsi": "papah"
+        }
+      ]
+    },
+    {
+      "lema": "pah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pak1"
+        }
+      ]
+    }
+  ]
+}

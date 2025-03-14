@@ -1,0 +1,35 @@
+{
+  "istilah": "timbel",
+  "entri": "tim.bel1 /timbêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menimbel"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tim.bel1 /timbêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "logam lunak berwarna abu-abu, dipakai untuk paduan membuat huruf (pada percetakan); plumbum; unsur dengan nomor atom 82, lambang Pb dan berbobot atom 207,21"
+        }
+      ]
+    },
+    {
+      "lema": "tim.bel2 /timbêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "bekal berupa nasi dan lauk-pauknya yang dibawa dalam perjalanan dan sebagainya: dia biasanya membawa -- ke sawah"
+        }
+      ]
+    }
+  ]
+}

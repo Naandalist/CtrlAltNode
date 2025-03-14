@@ -1,0 +1,46 @@
+{
+  "istilah": "kendur",
+  "entri": "ken.dur /kêndur/bentuk tidak baku: kendor",
+  "bentukTidakBaku": "kendor",
+  "kataTurunan": [
+    "berkendur-kendur",
+    "kekenduran",
+    "mengendur",
+    "mengendurkan",
+    "pengendur",
+    "pengenduran",
+    "terkendur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kendur menyusut, tegang memutus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ken.dur /kêndur/bentuk tidak baku: kendor",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tegang (tentang tali dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak erat (tentang ikatan)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "menjadi lembap; tidak kencang: tambur itu -- sehingga suaranya tidak baik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "melemah; berkurang: semangatnya --"
+        }
+      ]
+    }
+  ]
+}

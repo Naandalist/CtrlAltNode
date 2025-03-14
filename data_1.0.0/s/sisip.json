@@ -1,0 +1,45 @@
+{
+  "istilah": "sisip",
+  "entri": "si.sip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesisipan",
+    "ketersisipan",
+    "mempersisipkan",
+    "menyisip",
+    "menyisipkan",
+    "penyisip",
+    "penyisipan",
+    "sisipan",
+    "tersisip"
+  ],
+  "gabunganKata": [
+    "sisip keris"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menyerempet, bersentuhan, tidak mengenai sasaran dengan sepenuhnya; terserempet, hanya terluka sedikit, tidak terkena dengan benar; salah, di samping sasaran",
+    "kataAsal": "sisip"
+  },
+  "data": [
+    {
+      "lema": "si.sip1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyisip"
+        }
+      ]
+    },
+    {
+      "lema": "si.sip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "jeruji pada sangkar burung, terbuat dari bambu atau lidi"
+        }
+      ]
+    }
+  ]
+}

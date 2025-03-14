@@ -1,0 +1,102 @@
+{
+  "istilah": "kartu",
+  "entri": "kar.tu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkartu",
+    "mengartukan",
+    "pengartuan",
+    "perkartuan"
+  ],
+  "gabunganKata": [
+    "kartu adaptor jaringan",
+    "kartu akselerator",
+    "kartu anggota",
+    "kartu antarmuka jaringan",
+    "kartu as",
+    "kartu baca",
+    "kartu besar",
+    "kartu buku induk",
+    "kartu ceki",
+    "kartu data",
+    "kartu debit",
+    "kartu domino",
+    "kartu ekspansi",
+    "kartu Eropa",
+    "kartu identitas",
+    "kartu jam",
+    "kartu jawaban",
+    "kartu kecil",
+    "kartu keluarga",
+    "kartu kendali",
+    "kartu kendali surat keluar",
+    "kartu kendali surat masuk",
+    "kartu kredit",
+    "kartu kunci",
+    "kartu kuning",
+    "kartu Lebaran",
+    "kartu mati",
+    "kartu memori",
+    "kartu memori PC",
+    "kartu menuju sehat",
+    "kartu nama",
+    "kartu nasabah",
+    "kartu Natal",
+    "kartu pemercepat",
+    "kartu penebukan",
+    "kartu penumpang",
+    "kartu peringatan",
+    "kartu permainan",
+    "kartu pers",
+    "kartu persediaan",
+    "kartu pindah",
+    "kartu pintar",
+    "kartu plastik",
+    "kartu pos",
+    "kartu prabayar",
+    "kartu pribadi",
+    "kartu putih",
+    "kartu remi",
+    "kartu rencana studi",
+    "kartu saran",
+    "kartu suara",
+    "kartu tamu",
+    "kartu tanda anggota",
+    "kartu tanda penduduk",
+    "kartu tarot",
+    "kartu terbuka",
+    "kartu tindak lanjut",
+    "kartu truf",
+    "kartu tumbuk",
+    "kartu ucapan",
+    "kartu ulang tahun",
+    "kartu undangan",
+    "kartu valentin",
+    "kartu waktu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kar.tu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kertas tebal, berbentuk persegi panjang (untuk berbagai keperluan, hampir sama dengan karcis)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembar empat persegi panjang untuk permainan beragam, memiliki gambar, tanda, dan nomor di sisinya dan terbagi dalam empat macam rupa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "papan sirkuit terbuat dari plastik, biasanya dipakai sebagai dasar tempel untuk cip"
+        }
+      ]
+    }
+  ]
+}

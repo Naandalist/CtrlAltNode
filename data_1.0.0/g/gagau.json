@@ -1,0 +1,38 @@
+{
+  "istilah": "gagau",
+  "entri": "ga.gau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergagau-gagau",
+    "menggagau",
+    "bergagau-gagau",
+    "tergagau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.gau1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "raba"
+        }
+      ]
+    },
+    {
+      "lema": "ga.gau2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bergagau-gagau; tergagau"
+        }
+      ]
+    }
+  ]
+}

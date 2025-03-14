@@ -1,0 +1,28 @@
+{
+  "istilah": "musnad",
+  "entri": "mus.nad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang disandarkan pada",
+    "kataAsal": "musnad"
+  },
+  "data": [
+    {
+      "lema": "mus.nad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "hadis yang sanadnya bersambung dari para rawinya sampai ke Nabi Muhammad saw."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "kitab kumpulan hadis berdasarkan rawinya"
+        }
+      ]
+    }
+  ]
+}

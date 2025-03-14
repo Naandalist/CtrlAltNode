@@ -1,0 +1,28 @@
+{
+  "istilah": "filatelis",
+  "entri": "fi.la.te.lis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.la.te.lis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang ahli dalam filateli"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang gemar membuat koleksi dan menyelidiki prangko"
+        }
+      ]
+    }
+  ]
+}

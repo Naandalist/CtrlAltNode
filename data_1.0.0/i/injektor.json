@@ -1,0 +1,32 @@
+{
+  "istilah": "injektor",
+  "entri": "in.jek.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.jek.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menginjeksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat penyemprot bahan bakar sebagai penyempurna pembakaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mendorong air ke ketel uap"
+        }
+      ]
+    }
+  ]
+}

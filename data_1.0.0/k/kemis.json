@@ -1,0 +1,31 @@
+{
+  "istilah": "kemis",
+  "entri": "Ke.mis /kêmis/bentuk tidak baku: emis",
+  "bentukTidakBaku": "emis",
+  "kataTurunan": [
+    "mengemis",
+    "pengemis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hari ke-5 dalam jangka waktu satu minggu",
+    "kataAsal": "khamīs"
+  },
+  "data": [
+    {
+      "lema": "Ke.mis /kêmis/bentuk tidak baku: emis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "Kamis"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "minta (asalnya dilakukan pada hari Kamis)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "tagar",
+  "entri": "ta.gar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertagar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.gar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(bunyi) guruh atau guntur: -- berdegar-degar antara ada dan tidak ada bunyinya"
+        }
+      ]
+    },
+    {
+      "lema": "ta.gar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -] akr[akronim]",
+          "deskripsi": "tanda pagar, digunakan sebagai tanda untuk merujuk pada topik sebuah kiriman status dalam media jejaring sosial"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "usut",
+  "entri": "u.sut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengusut",
+    "mengusut",
+    "pengusut",
+    "pengusutan",
+    "usutan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.sut1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengusut"
+        }
+      ]
+    },
+    {
+      "lema": "u.sut2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "periksa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "jirus",
+  "entri": "ji.rus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjirus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ji.rus1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "siram"
+        }
+      ]
+    },
+    {
+      "lema": "ji.rus2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "makin ke ujung makin kecil; meruncing; tirus"
+        }
+      ]
+    }
+  ]
+}

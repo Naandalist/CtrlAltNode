@@ -1,0 +1,37 @@
+{
+  "istilah": "proyeksi",
+  "entri": "pro.yek.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memproyeksikan",
+    "terproyeksi"
+  ],
+  "gabunganKata": [
+    "proyeksi penduduk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.yek.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar suatu benda yang dibuat rata (mendatar) atau berupa garis pada bidang datar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkiraan tentang keadaan masa yang akan datang dengan menggunakan data yang ada (sekarang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "mekanisme pertahanan diri seseorang secara tidak sadar yang disalurkan kepada orang lain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "pengembangan inkremen",
+  "entri": "kembang1 » pengembangan » pengembangan inkremen",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kembang1 » pengembangan » pengembangan inkremen",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "proses pengembangan perangkat lunak yang definisi persyaratan, desain, implementasi, dan pengujiannya tumpang tindih, sehingga secara iteratif (bukan sekuensial) menyebabkan penyelesaian inkremental dari produk perangkat lunak secara keseluruhan"
+        }
+      ]
+    }
+  ]
+}

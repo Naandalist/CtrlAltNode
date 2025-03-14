@@ -1,0 +1,37 @@
+{
+  "istilah": "runjung",
+  "entri": "run.jung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merunjung"
+  ],
+  "gabunganKata": [
+    "runjung betina",
+    "runjung jantan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "run.jung",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbentuk seperti kerucut"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bio[Biologi: -]",
+          "deskripsi": "kumpulan bunga atau buah yang padat memanjang pada suatu sumbu memanjang dan menyerupai kerucut tidak teratur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "kumpulan sporofil yang tersusun seperti kerucut di ujung batang yang beruas pendek"
+        }
+      ]
+    }
+  ]
+}

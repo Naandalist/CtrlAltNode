@@ -1,0 +1,32 @@
+{
+  "istilah": "melibas",
+  "entri": "libas » me.li.bas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "libas » me.li.bas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melebas; memukulkan (cambuk dan sebagainya); menyebat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengalahkan; menundukkan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "mengakali; menipu"
+        }
+      ]
+    }
+  ]
+}

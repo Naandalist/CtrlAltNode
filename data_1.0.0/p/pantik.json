@@ -1,0 +1,39 @@
+{
+  "istilah": "pantik",
+  "entri": "pan.tik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memantik",
+    "pemantik",
+    "terpantik",
+    "memantik",
+    "pemantikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.tik1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memantik"
+        }
+      ]
+    },
+    {
+      "lema": "pan.tik2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memantik; pemantikan"
+        }
+      ]
+    }
+  ]
+}

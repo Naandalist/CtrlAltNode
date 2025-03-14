@@ -1,0 +1,43 @@
+{
+  "istilah": "pustaka",
+  "entri": "pus.ta.ka1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepustakaan",
+    "pemustaka",
+    "perpustakaan"
+  ],
+  "gabunganKata": [
+    "pustaka acuan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pus.ta.ka1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kitab; buku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku primbon"
+        }
+      ]
+    },
+    {
+      "lema": "pus.ta.ka2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "kumpulan bahan-bahan rujukan dan perkakas perangkat lunak"
+        }
+      ]
+    }
+  ]
+}

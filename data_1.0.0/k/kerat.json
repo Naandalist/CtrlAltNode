@@ -1,0 +1,46 @@
+{
+  "istilah": "kerat",
+  "entri": "ke.rat1 /kêrat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkerat-kerat",
+    "keratan",
+    "mengerat",
+    "pengerat",
+    "pengeratan",
+    "terkerat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kerat rotan, patah arang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa kuno",
+    "arti": "kerat, potong, penggal",
+    "kataAsal": "kěrět"
+  },
+  "data": [
+    {
+      "lema": "ke.rat1 /kêrat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi tupai menggerek kelapa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potong; iris; penggal"
+        }
+      ]
+    },
+    {
+      "lema": "ke.rat2 /kêrat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah berbentuk kotak yang bagian atasnya terbuka, dibuat dari kayu atau plastik berbahan keras, terdiri atas sekat-sekat yang berfungsi untuk tempat menyimpan botol"
+        }
+      ]
+    }
+  ]
+}

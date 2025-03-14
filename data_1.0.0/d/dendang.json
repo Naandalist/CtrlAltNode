@@ -1,0 +1,49 @@
+{
+  "istilah": "dendang",
+  "entri": "den.dang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdendang",
+    "mendendangkan",
+    "pendendang"
+  ],
+  "gabunganKata": [
+    "dendang air",
+    "dendang laut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "den.dang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nyanyian ungkapan rasa senang, gembira, dan sebagainya (sambil bekerja atau diiringi bunyi-bunyian)"
+        }
+      ]
+    },
+    {
+      "lema": "den.dang1 /dêndang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(burung) gagak; dandang"
+        }
+      ]
+    },
+    {
+      "lema": "den.dang2 /dêndang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ dandang2"
+        }
+      ]
+    }
+  ]
+}

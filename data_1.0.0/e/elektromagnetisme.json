@@ -1,0 +1,32 @@
+{
+  "istilah": "elektromagnetisme",
+  "entri": "e.lek.tro.mag.ne.tis.me /elektromagnetismê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.lek.tro.mag.ne.tis.me /elektromagnetismê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "medan magnet yang ditimbulkan oleh aliran listrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "ilmu tentang pengaruh timbal balik antara listrik dan magnet"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "hubungan gejala antara listrik dan magnet"
+        }
+      ]
+    }
+  ]
+}

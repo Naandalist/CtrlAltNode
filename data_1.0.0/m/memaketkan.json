@@ -1,0 +1,32 @@
+{
+  "istilah": "memaketkan",
+  "entri": "paket1 » me.ma.ket.kan bentuk tidak baku: mempaketkan",
+  "bentukTidakBaku": "mempaketkan",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "paket1 » me.ma.ket.kan bentuk tidak baku: mempaketkan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadikan paket"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengirimkan barang melalui pos, biro perjalanan, atau perusahaan ekspedisi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasangkan"
+        }
+      ]
+    }
+  ]
+}

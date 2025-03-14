@@ -1,0 +1,32 @@
+{
+  "istilah": "jintan",
+  "entri": "jin.tan bentuk tidak baku: jinten",
+  "bentukTidakBaku": "jinten",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jintan hitam",
+    "jintan manis",
+    "jintan putih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Zhangzhou",
+    "arti": "tumbuhan jintan",
+    "kataAsal": "jîn tan"
+  },
+  "data": [
+    {
+      "lema": "jin.tan bentuk tidak baku: jinten",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan menjalar yang bijinya dapat dipakai untuk rempah-rempah dan untuk obat-obatan〔Carum roxburghianum〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "biji-bijian berbentuk agak pipih lembut, berwarna kuning kecokelat-cokelatan, berbau sedap, dipakai untuk rempah-rempah atau ramuan obat"
+        }
+      ]
+    }
+  ]
+}

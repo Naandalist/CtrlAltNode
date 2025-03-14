@@ -1,0 +1,36 @@
+{
+  "istilah": "pauk",
+  "entri": "pa.uk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memauk",
+    "pemauk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.uk1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat lauk"
+        }
+      ]
+    },
+    {
+      "lema": "pa.uk2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kait"
+        }
+      ]
+    }
+  ]
+}

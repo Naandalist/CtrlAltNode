@@ -1,0 +1,50 @@
+{
+  "istilah": "punjung",
+  "entri": "pun.jung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memunjung",
+    "memunjungi",
+    "punjungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "puñjuṅ"
+  },
+  "data": [
+    {
+      "lema": "pun.jung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anyaman dari bilah, seperti para-para atau lengkung, tempat menjalarkan tanaman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah kecil (di kebun dan sebagainya) yang diberi tanaman menjalar: duduk-duduk di dalam -- di taman bunga"
+        }
+      ]
+    },
+    {
+      "lema": "pun.jung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memunjung"
+        }
+      ]
+    },
+    {
+      "lema": "pun.jung3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memunjungi; punjungan"
+        }
+      ]
+    }
+  ]
+}

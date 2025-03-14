@@ -1,0 +1,40 @@
+{
+  "istilah": "tuntun",
+  "entri": "tun.tun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertuntun",
+    "menuntun",
+    "penuntun",
+    "tuntunan",
+    "bertuntun",
+    "menuntun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tun.tun1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menuntun"
+        }
+      ]
+    },
+    {
+      "lema": "tun.tun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sesuatu yang digunakan untuk penutup mata (muka)"
+        }
+      ]
+    }
+  ]
+}

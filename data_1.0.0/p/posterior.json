@@ -1,0 +1,28 @@
+{
+  "istilah": "posterior",
+  "entri": "pos.te.ri.or",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pos.te.ri.or",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terletak di belakang; lebih kemudian dari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bagian yang letaknya lebih dekat ke bagian akhir tubuh (pada hewan adalah bagian belakang tubuh, pada manusia adalah punggung)"
+        }
+      ]
+    }
+  ]
+}

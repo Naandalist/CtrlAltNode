@@ -1,0 +1,32 @@
+{
+  "istilah": "singkong",
+  "entri": "sing.kong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "singkong aci",
+    "singkong karet",
+    "singkong kembang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sing.kong",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ubi kayu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun singkong"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "sulam",
+  "entri": "su.lam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersulam",
+    "menyulam",
+    "penyulam",
+    "penyulaman",
+    "sulaman",
+    "menyulam",
+    "penyulaman"
+  ],
+  "gabunganKata": [
+    "sulam alis",
+    "sulam bibir",
+    "sulam emas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.lam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bordir; suji; tekat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tato: -- alis; -- bibir"
+        }
+      ]
+    },
+    {
+      "lema": "su.lam2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tukar"
+        }
+      ]
+    }
+  ]
+}

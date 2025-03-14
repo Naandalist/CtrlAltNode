@@ -1,0 +1,33 @@
+{
+  "istilah": "peninsula",
+  "entri": "pe.nin.su.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.nin.su.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suatu wilayah yang hampir seluruhnya dikelilingi oleh perairan, tetapi dihubungkan dengan wilayah lain yang lebih besar"
+        }
+      ]
+    },
+    {
+      "lema": "pe.nin.su.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "meja tambahan yang menjorok keluar dan membentuk ruang mati di dapur, desainnya harus menyesuaikan dengan set dapur yang ada"
+        }
+      ]
+    }
+  ]
+}

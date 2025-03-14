@@ -1,0 +1,50 @@
+{
+  "istilah": "dewa",
+  "entri": "de.wa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kedewaan",
+    "memperdewa",
+    "memperdewakan",
+    "mendewa-dewakan",
+    "mendewakan",
+    "pendewaan"
+  ],
+  "gabunganKata": [
+    "dewa api",
+    "dewa perang",
+    "dewa raja",
+    "Dewa Agung",
+    "Dewa Ayu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "Tuhan, raja, pangeran, pendeta, yang mulia",
+    "kataAsal": "deva"
+  },
+  "data": [
+    {
+      "lema": "de.wa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "roh halus yang dianggap atau dipercayai sebagai penguasa alam dan manusia: Batara Surya ialah -- matahari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] ki[kiasan]",
+          "deskripsi": "orang atau sesuatu yang sangat dipuja"
+        }
+      ]
+    },
+    {
+      "lema": "De.wa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Bl[Bali: -] ki[kiasan]",
+          "deskripsi": "gelar kasta (golongan) Brahmana"
+        }
+      ]
+    }
+  ]
+}

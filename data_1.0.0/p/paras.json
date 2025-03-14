@@ -1,0 +1,54 @@
+{
+  "istilah": "paras",
+  "entri": "pa.ras1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berparas",
+    "memaras",
+    "pemaras",
+    "separas"
+  ],
+  "gabunganKata": [
+    "paras air",
+    "paras awan",
+    "paras beku",
+    "paras leleh",
+    "paras pengembunan",
+    "paras pengembunan galikan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "batu paras, tanah paras (jenis batu (tanah) yang lebih lunak)",
+    "kataAsal": "paras"
+  },
+  "data": [
+    {
+      "lema": "pa.ras1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rupa muka; wajah: parasnya tidak secantik semasa ia masih muda"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ras2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sejajar dengan permukaan; sama rata; rata"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ras3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "batu atau lapisan tanah keras yang berupa pasir padat; batu paras"
+        }
+      ]
+    }
+  ]
+}

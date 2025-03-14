@@ -1,0 +1,64 @@
+{
+  "istilah": "kasar",
+  "entri": "ka.sar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekasaran",
+    "memperkasar",
+    "mengasari",
+    "mengasarkan"
+  ],
+  "gabunganKata": [
+    "kasar tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "keras, kasar, kokoh, tetap",
+    "kataAsal": "karkaśa"
+  },
+  "data": [
+    {
+      "lema": "ka.sar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "agak besar; tidak halus: pasir -- cocok untuk menutup jalan berlubang itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bertingkah laku tidak lemah lembut: sambil memaki-maki dengan --, dia bersumpah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kasap; kesat; tidak halus waktu diraba: kertas ini -- benar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak baik buatannya; gabas: bajunya merah tua, sarungnya tenun --, dan destarnya kain hitam"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hanya dalam garis-garis besarnya (tidak dengan saksama, tidak dengan perincian yang teliti, hanya perkara yang besar-besar): paling sedikit rencana itu sudah diwujudkan dalam bentuk -- menurut kebutuhan atau pesanan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dapat diraba (dilihat dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mentah; belum dibersihkan"
+        }
+      ]
+    },
+    {
+      "lema": "ka.sar2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ qasar"
+        }
+      ]
+    }
+  ]
+}

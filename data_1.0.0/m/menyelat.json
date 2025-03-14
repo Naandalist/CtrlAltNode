@@ -1,0 +1,37 @@
+{
+  "istilah": "menyelat",
+  "entri": "selat1 » me.nye.lat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "selat1 » me.nye.lat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlayar melalui selat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berubah atau berbentuk seperti selat"
+        }
+      ]
+    },
+    {
+      "lema": "selat2 » me.nye.lat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "masuk di sela-sela; menyelip; menyelit"
+        }
+      ]
+    }
+  ]
+}

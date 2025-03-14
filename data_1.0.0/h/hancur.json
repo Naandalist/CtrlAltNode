@@ -1,0 +1,49 @@
+{
+  "istilah": "hancur",
+  "entri": "han.cur bentuk tidak baku: mumur, ancur1",
+  "bentukTidakBaku": "mumur, ancur1",
+  "kataTurunan": [
+    "berhancuran",
+    "hancur-hancuran",
+    "hancur-menghancurkan",
+    "hancuran",
+    "kehancuran",
+    "menghancurkan",
+    "penghancur",
+    "penghancuran"
+  ],
+  "gabunganKata": [
+    "hancur mumur"
+  ],
+  "peribahasa": [
+    "garam dikulumnya tak hancur; hancur badan dikandung tanah, budi baik terkenang jua"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "han.cur bentuk tidak baku: mumur, ancur1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pecah menjadi kecil-kecil; remuk: kaca mobil yang bertabrakan itu -- berantakan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak tampak lagi wujudnya; luluh; larut: gula itu -- dalam air panas"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "rusak; binasa: pada waktu Perang Dunia II banyak kota besar yang --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "sangat sedih (tentang hati): -- hatinya mendengar berita bahwa suaminya gugur di medan perang"
+        }
+      ]
+    }
+  ]
+}

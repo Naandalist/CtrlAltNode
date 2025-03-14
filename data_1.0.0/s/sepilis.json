@@ -1,0 +1,42 @@
+{
+  "istilah": "sepilis",
+  "entri": "se.pi.lis1 /sêpilis/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.pi.lis1 /sêpilis/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "sekularisme, pluralisme, liberalisme"
+        }
+      ]
+    },
+    {
+      "lema": "se.pi.lis2 /sêpilis/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sifilis"
+        }
+      ]
+    },
+    {
+      "lema": "se.pi.lis3 /sêpilis/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "langit-langit rumah: -- rumah itu berwarna kuning gading"
+        }
+      ]
+    }
+  ]
+}

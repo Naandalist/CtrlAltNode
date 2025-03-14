@@ -1,0 +1,74 @@
+{
+  "istilah": "pisang",
+  "entri": "pi.sang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "perpisangan",
+    "pisang-pisang",
+    "pisang-pisang",
+    "pisang-pisang"
+  ],
+  "gabunganKata": [
+    "pisang air",
+    "pisang ambon",
+    "pisang aroma",
+    "pisang barangan",
+    "pisang cokelat",
+    "pisang epek",
+    "pisang goreng",
+    "pisang ijo",
+    "pisang kapik",
+    "pisang kepok",
+    "pisang manila",
+    "pisang raja",
+    "pisang raja serai",
+    "pisang tongka langit",
+    "pisang uli"
+  ],
+  "peribahasa": [
+    "bagai budak-budak makan pisang; bagai pucuk pisang didiang; bukan budak makan pisang; mendapat pisang berkubak; mulut disuapi pisang, pantat dikait dengan onak (mulut manis hati berkait); orang tua diajar makan pisang; pisang tidak berbuah dua kali"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.sang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman jenis Musa, buahnya berdaging dan dapat dimakan, ada bermacam-macam, seperti -- ambon, -- barangan, -- raja, -- raja serai, -- uli"
+        }
+      ]
+    },
+    {
+      "lema": "pi.sang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pisang-pisang"
+        }
+      ]
+    },
+    {
+      "lema": "pi.sang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pisang-pisang"
+        }
+      ]
+    },
+    {
+      "lema": "Pi.sang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku di Provinsi Sumatra Barat"
+        }
+      ]
+    }
+  ]
+}

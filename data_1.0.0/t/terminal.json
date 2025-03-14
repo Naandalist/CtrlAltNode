@@ -1,0 +1,38 @@
+{
+  "istilah": "terminal",
+  "entri": "ter.mi.nal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "terminal agribisnis",
+    "terminal bayangan",
+    "terminal listrik",
+    "terminal pembayaran elektronik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ter.mi.nal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhentian penghabisan (bus, kereta api, dan sebagainya); stasiun"
+        }
+      ]
+    },
+    {
+      "lema": "ter.mi.nal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk berkomunikasi dengan komputer, terdiri atas panel yang dilengkapi layar video atau suatu mekanisme pencetak, seperti mesin tik: komputer ini memiliki 32 --"
+        }
+      ]
+    }
+  ]
+}

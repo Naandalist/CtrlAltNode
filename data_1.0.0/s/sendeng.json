@@ -1,0 +1,51 @@
+{
+  "istilah": "sendeng",
+  "entri": "sen.deng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersendeng",
+    "bersendengan",
+    "menyendeng",
+    "menyendengkan",
+    "tersendeng-sendeng"
+  ],
+  "gabunganKata": [
+    "sendeng mendeng"
+  ],
+  "peribahasa": [
+    "tersendeng-sendeng bagai sepat di bawah mengkuang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.deng1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tinggi sebelah; tidak rata (tentang bahu); miring letaknya (tentang kopiah di kepala); senget; condong"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "juling (tentang mata)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang ingatan; agak gila"
+        }
+      ]
+    },
+    {
+      "lema": "sen.deng2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "aliran dalam pencak silat yang mengandalkan ketepatan serangan dan kecepatan menghindar dari serangan lawan"
+        }
+      ]
+    }
+  ]
+}

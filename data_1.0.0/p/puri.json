@@ -1,0 +1,45 @@
+{
+  "istilah": "puri",
+  "entri": "pu.ri1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kota, istana, benteng, tubuh",
+    "kataAsal": "purī"
+  },
+  "data": [
+    {
+      "lema": "pu.ri1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "benteng (kota) yang dikelilingi parit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "ruang di dalam istana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "istana; keraton"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tempat persemayaman raja yang merupakan penjelmaan dewa dalam konsep Hindu"
+        }
+      ]
+    },
+    {
+      "lema": "pu.ri2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "roti goreng khas India, terbuat dari tepung gandum, tidak beragi, berongga, dan biasanya disajikan saat sarapan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "istilah": "kutu",
+  "entri": "ku.tu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkutu",
+    "berkutu-kutuan",
+    "kutuan",
+    "mengutui",
+    "berkutu"
+  ],
+  "gabunganKata": [
+    "kutu air",
+    "kutu anjing",
+    "kutu beras",
+    "kutu buku",
+    "kutu busuk",
+    "kutu daun",
+    "kutu kebul",
+    "kutu lak",
+    "kutu loncat",
+    "kutu palmetto",
+    "kutu perisai",
+    "kutu putih",
+    "kutu putih pepaya",
+    "kutu putih singkong",
+    "kutu sisik",
+    "kutu ternak"
+  ],
+  "peribahasa": [
+    "kecil-kecil lada api (padi, kutu); mencari kutu dalam ijuk; pantang kutu dicukur, pantang manusia dihinakan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "serangga, ulat atau cacing, kotoran",
+    "kataAsal": "kīṭa"
+  },
+  "data": [
+    {
+      "lema": "ku.tu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serangga parasit yang berukuran kecil dan pipih, tidak bersayap, buta, tubuhnya tidak berwarna, hidup pada inang yang berupa hewan berdarah panas, seperti burung dan mamalia, memakan kulit, kotoran, atau mengisap darah inangnya, dan merupakan vektor penyakit〔Phthiraptera〕"
+        }
+      ]
+    },
+    {
+      "lema": "ku.tu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "perkumpulan dagang dan sebagainya; sekutu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "kamis",
+  "entri": "ka.mis2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "Kamis Putih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hari ke-5 dalam jangka waktu satu minggu",
+    "kataAsal": "khamīs"
+  },
+  "data": [
+    {
+      "lema": "ka.mis2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ gamis"
+        }
+      ]
+    },
+    {
+      "lema": "Ka.mis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari ke-5 dalam jangka waktu satu minggu"
+        }
+      ]
+    }
+  ]
+}

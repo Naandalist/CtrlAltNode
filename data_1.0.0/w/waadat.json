@@ -1,0 +1,24 @@
+{
+  "istilah": "waadat",
+  "entri": "wa.a.dat bentuk tidak baku: waadah",
+  "bentukTidakBaku": "waadah",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perjanjian",
+    "kataAsal": "wa‘dah"
+  },
+  "data": [
+    {
+      "lema": "wa.a.dat bentuk tidak baku: waadah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perjanjian"
+        }
+      ]
+    }
+  ]
+}

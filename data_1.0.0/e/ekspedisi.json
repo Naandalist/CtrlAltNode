@@ -1,0 +1,40 @@
+{
+  "istilah": "ekspedisi",
+  "entri": "eks.pe.di.si /ekspêdisi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.pe.di.si /ekspêdisi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengiriman surat, barang, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perusahaan pengangkutan barang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "salinan yang sama bunyinya (tentang vonis atau akta)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perjalanan penyelidikan ilmiah di suatu daerah yang kurang dikenal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -]",
+          "deskripsi": "pengiriman tentara untuk memerangi (menyerang, menaklukkan) musuh di suatu daerah yang jauh letaknya"
+        }
+      ]
+    }
+  ]
+}

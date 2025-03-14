@@ -1,0 +1,36 @@
+{
+  "istilah": "umat",
+  "entri": "u.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keumatan"
+  ],
+  "gabunganKata": [
+    "umat manusia"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pandangan hidup; agama; generasi; kurun",
+    "kataAsal": "ummah"
+  },
+  "data": [
+    {
+      "lema": "u.mat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "para penganut (pemeluk, pengikut) suatu agama; penganut nabi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makhluk manusia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "kumpulan pemeluk agama Katolik yang sedang merayakan liturgi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "elung",
+  "entri": "e.lung1 /êlung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.lung1 /êlung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lengkung"
+        }
+      ]
+    },
+    {
+      "lema": "e.lung2 /êlung/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lung2"
+        }
+      ]
+    }
+  ]
+}

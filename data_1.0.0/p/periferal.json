@@ -1,0 +1,28 @@
+{
+  "istilah": "periferal",
+  "entri": "pe.ri.fe.ral",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ri.fe.ral",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mengenai pokoknya; kurang penting; perifer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "peranti komputer yang dihubungkan dengan kompresor, seperti monitor tampilan, panel kunci ketik, pencetak, penggerak disket"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "bobo",
+  "entri": "bo.bo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.bo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kal[Kaili: -]",
+          "deskripsi": "tempurung kelapa yang utuh, untuk menyimpan air"
+        }
+      ]
+    },
+    {
+      "lema": "bo.bo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gor[Gorontalo: -]",
+          "deskripsi": "tempat minyak tanah atau minyak kelapa berbentuk bulat yang terbuat dari kulit buah kabila yang telah mengeras"
+        }
+      ]
+    }
+  ]
+}

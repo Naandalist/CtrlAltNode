@@ -1,0 +1,37 @@
+{
+  "istilah": "stok",
+  "entri": "stok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menstok",
+    "menyetok"
+  ],
+  "gabunganKata": [
+    "stok penyangga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "stok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persediaan barang keperluan untuk perbekalan: dengan -- yang ada, tidak akan terpenuhi segala keperluan kita untuk satu bulan ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dag[Perdagangan: -]",
+          "deskripsi": "sediaan barang yang diperdagangkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "kelompok organisme yang berhubungan"
+        }
+      ]
+    }
+  ]
+}

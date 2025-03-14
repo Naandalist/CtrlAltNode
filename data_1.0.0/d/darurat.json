@@ -1,0 +1,39 @@
+{
+  "istilah": "darurat",
+  "entri": "da.ru.rat bentuk tidak baku: gelorat",
+  "bentukTidakBaku": "gelorat",
+  "kataTurunan": [
+    "kedaruratan",
+    "mendaruratkan"
+  ],
+  "gabunganKata": [
+    "darurat iklim",
+    "darurat militer",
+    "darurat sipil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "keterpaksaan; penting",
+    "kataAsal": "ḍarūrah"
+  },
+  "data": [
+    {
+      "lema": "da.ru.rat bentuk tidak baku: gelorat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan sukar (sulit) yang tidak tersangka-sangka (dalam bahaya, kelaparan, dan sebagainya) yang memerlukan penanggulangan segera: dalam keadaan -- Pemerintah harus dapat bertindak cepat untuk mengatasi keadaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan terpaksa: dalam keadaan -- Pemerintah dapat segera memutuskan tindakan yang tepat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan sementara: mereka ditampung dalam suatu bangunan --"
+        }
+      ]
+    }
+  ]
+}

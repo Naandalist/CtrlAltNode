@@ -1,0 +1,56 @@
+{
+  "istilah": "gala",
+  "entri": "ga.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergala",
+    "gala-gala"
+  ],
+  "gabunganKata": [
+    "gala lembut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "damar, tali",
+    "kataAsal": "gala"
+  },
+  "data": [
+    {
+      "lema": "ga.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "damar"
+        }
+      ]
+    },
+    {
+      "lema": "ga.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "leher"
+        }
+      ]
+    },
+    {
+      "lema": "ga.la3",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Pr[Prancis: -]",
+          "deskripsi": "pertama; perdana (tentang pertunjukan film, drama, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ga.la4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pesta atau perayaan, terutama acara sosial atau hiburan yang mewah"
+        }
+      ]
+    }
+  ]
+}

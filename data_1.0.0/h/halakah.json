@@ -1,0 +1,28 @@
+{
+  "istilah": "halakah",
+  "entri": "ha.la.kah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "lingkar; sekumpulan orang yang melingkar",
+    "kataAsal": "ḥalqah"
+  },
+  "data": [
+    {
+      "lema": "ha.la.kah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "lingkungan; gelanggang; kalangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "diskusi yang pesertanya duduk membentuk lingkaran untuk membahas masalah keislaman (biasanya di masjid, musala); sarasehan"
+        }
+      ]
+    }
+  ]
+}

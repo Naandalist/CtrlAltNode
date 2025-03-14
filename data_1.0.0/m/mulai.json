@@ -1,0 +1,31 @@
+{
+  "istilah": "mulai",
+  "entri": "mu.lai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memulai",
+    "pemulai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "asal, dasar, akar, sumber, dasar",
+    "kataAsal": "mūla"
+  },
+  "data": [
+    {
+      "lema": "mu.lai",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengawali berbuat (bertindak, melakukan, dan sebagainya): orang-orang sudah hampir selesai, kita baru --"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "sejak: penataran berlangsung -- tanggal 5–18 Januari tahun ini"
+        }
+      ]
+    }
+  ]
+}

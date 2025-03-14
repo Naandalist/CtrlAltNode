@@ -1,0 +1,50 @@
+{
+  "istilah": "lansir",
+  "entri": "lan.sir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lansiran",
+    "melansir",
+    "melansirkan",
+    "pelansir",
+    "pelansiran",
+    "terlansir",
+    "melansir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.sir1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ langsir1"
+        }
+      ]
+    },
+    {
+      "lema": "lan.sir2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "siar"
+        }
+      ]
+    },
+    {
+      "lema": "lan.sir3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melansir"
+        }
+      ]
+    }
+  ]
+}

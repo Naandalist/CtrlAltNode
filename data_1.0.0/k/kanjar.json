@@ -1,0 +1,55 @@
+{
+  "istilah": "kanjar",
+  "entri": "kan.jar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkanjar",
+    "berkanjar-kanjar",
+    "terkanjar-kanjar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "kañjar"
+  },
+  "data": [
+    {
+      "lema": "kan.jar1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ khanjar"
+        }
+      ]
+    },
+    {
+      "lema": "kan.jar2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berkanjar"
+        }
+      ]
+    },
+    {
+      "lema": "kan.jar3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berkanjar-kanjar; terkanjar-kanjar"
+        }
+      ]
+    },
+    {
+      "lema": "kan.jar4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Klm[Melayu Kalimantan: -]",
+          "deskripsi": "tari persembahan dari Kutai yang dimainkan oleh pria dan wanita untuk menghormati tamu"
+        }
+      ]
+    }
+  ]
+}

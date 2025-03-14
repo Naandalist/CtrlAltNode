@@ -1,0 +1,28 @@
+{
+  "istilah": "tedak",
+  "entri": "te.dak /têdak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menuruni dengan tiba-tiba",
+    "kataAsal": "těḍak"
+  },
+  "data": [
+    {
+      "lema": "te.dak /têdak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "turun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "keturunan (anak cucu)"
+        }
+      ]
+    }
+  ]
+}

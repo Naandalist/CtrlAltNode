@@ -1,0 +1,41 @@
+{
+  "istilah": "keropos",
+  "entri": "ke.ro.pos /kêropos/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengeropos",
+    "pengeroposan"
+  ],
+  "gabunganKata": [
+    "keropos tulang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ro.pos /kêropos/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada isinya (tentang kelapa dan sebagainya); tidak bernas (tentang padi, biji-bijian)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lapuk di dalam (tentang kayu)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lapuk karena berkarat (tentang besi, logam, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "bodoh; tidak mempunyai pikiran; lemah; keropok"
+        }
+      ]
+    }
+  ]
+}

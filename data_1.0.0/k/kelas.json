@@ -1,0 +1,93 @@
+{
+  "istilah": "kelas",
+  "entri": "ke.las1 /kêlas/bentuk tidak baku: klas",
+  "bentukTidakBaku": "klas",
+  "kataTurunan": [
+    "berkelas",
+    "mengelaskan",
+    "mengelas"
+  ],
+  "gabunganKata": [
+    "kelas alamat",
+    "kelas analitik",
+    "kelas atas",
+    "kelas bantam",
+    "kelas baru",
+    "kelas bawah",
+    "kelas berat",
+    "kelas berat ringan",
+    "kelas bisnis",
+    "kelas bulu",
+    "kelas ekonomi",
+    "kelas embun",
+    "kelas kakap",
+    "kelas kambing",
+    "kelas kapal",
+    "kelas kata",
+    "kelas layang",
+    "kelas madya",
+    "kelas menengah",
+    "kelas menengah ringan",
+    "kelas penguasa",
+    "kelas perkawinan",
+    "kelas politik",
+    "kelas ringan",
+    "kelas satu",
+    "kelas sosial",
+    "kelas tempe",
+    "kelas terbang",
+    "kelas terbuka",
+    "kelas teri",
+    "kelas tertutup",
+    "kelas turunan",
+    "kelas umur",
+    "kelas welter",
+    "kelas welter ringan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.las1 /kêlas/bentuk tidak baku: klas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkat: ia naik ke -- tiga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang tempat belajar di sekolah: gedung sekolah itu terdiri atas enam --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok masyarakat berdasarkan pendidikan, penghasilan, kekuasaan, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan, kumpulan (berdasarkan persamaan berbagai sifat tertentu): manusia termasuk di dalam -- mamalia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "satuan taksonomi (takson) yang tingkatnya di antara bangsa dan divisi, serta mewadahi bangsa-bangsa yang erat hubungan kekerabatannya, seperti mamalia〔Dicotyledoneae〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "struktur fundamental dari pemrograman berbasis objek, terdiri atas semua metode (fungsi dan prosedur) dan data yang diperlukan untuk merepresentasikan beberapa objek"
+        }
+      ]
+    },
+    {
+      "lema": "ke.las2 /kêlas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "antara pasang dan surut"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "fi",
+  "entri": "fi1 bentuk tidak baku: phi",
+  "bentukTidakBaku": "phi",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi1 bentuk tidak baku: phi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-21 abjad Yunani"
+        }
+      ]
+    },
+    {
+      "lema": "fi2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Stn[Sentani: -]",
+          "deskripsi": "meramu sagu"
+        }
+      ]
+    }
+  ]
+}

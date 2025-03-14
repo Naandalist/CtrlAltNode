@@ -1,0 +1,28 @@
+{
+  "istilah": "filsuf",
+  "entri": "fil.suf bentuk tidak baku: filosof",
+  "bentukTidakBaku": "filosof",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pecinta kebijaksanaan",
+    "kataAsal": "failasūf"
+  },
+  "data": [
+    {
+      "lema": "fil.suf bentuk tidak baku: filosof",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli filsafat; ahli pikir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang berfilsafat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "istilah": "layat",
+  "entri": "la.yat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melayat",
+    "pelayat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pergi, berangkat (terutama dari rumah atau keluarga)",
+    "kataAsal": "layat"
+  },
+  "data": [
+    {
+      "lema": "la.yat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melawat"
+        }
+      ]
+    }
+  ]
+}

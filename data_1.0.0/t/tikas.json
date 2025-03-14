@@ -1,0 +1,40 @@
+{
+  "istilah": "tikas",
+  "entri": "ti.kas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertikas",
+    "menikas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.kas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "deret sampah daun-daun kering (sarap) yang terjadi dari lumut, sampah, dan sebagainya yang tertinggal di pantai bekas air pasang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekas tekanan; kesan"
+        }
+      ]
+    },
+    {
+      "lema": "ti.kas2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menikas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "lenguh",
+  "entri": "le.nguh1 /lênguh/bentuk tidak baku: languh, tenguh",
+  "bentukTidakBaku": "languh, tenguh",
+  "kataTurunan": [
+    "melenguh"
+  ],
+  "gabunganKata": [
+    "lenguh lesu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.nguh1 /lênguh/bentuk tidak baku: languh, tenguh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi lembu"
+        }
+      ]
+    },
+    {
+      "lema": "le.nguh2 /lênguh/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tidak bertenaga; lumpuh"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "penat; lesu"
+        }
+      ]
+    }
+  ]
+}

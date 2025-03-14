@@ -1,0 +1,28 @@
+{
+  "istilah": "lekum",
+  "entri": "le.kum /lêkum/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tenggorok",
+    "kataAsal": "ḥulqūm"
+  },
+  "data": [
+    {
+      "lema": "le.kum /lêkum/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tenggorok; merih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jakun"
+        }
+      ]
+    }
+  ]
+}

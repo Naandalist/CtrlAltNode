@@ -1,0 +1,30 @@
+{
+  "istilah": "mendung",
+  "entri": "men.dung /mêndung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mendung bawah (lapisan)"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gelap, mengandung air; awan hitam, awan hujan",
+    "kataAsal": "měṇḍuṅ"
+  },
+  "data": [
+    {
+      "lema": "men.dung /mêndung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "awan yang mengandung hujan: -- hitam sudah merata di langit, sebentar lagi turun hujan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam keadaan langit yang agak gelap, tidak ada sinar matahari (karena tertutup awan): cucian tidak kering karena sepanjang hari cuaca --"
+        }
+      ]
+    }
+  ]
+}

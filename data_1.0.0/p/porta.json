@@ -1,0 +1,42 @@
+{
+  "istilah": "porta",
+  "entri": "por.ta1",
+  "bentukTidakBaku": "port",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "porta inframerah",
+    "porta panel datar digital",
+    "porta permainan",
+    "porta serial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "por.ta1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "pintu masuk, terutama tempat masuk pembuluh yang membawa dan mengangkut darah dari suatu organ"
+        }
+      ]
+    },
+    {
+      "lema": "por.ta2 bentuk tidak baku: port",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "soket eksternal dalam unit pengolah utama komputer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "kegiatan mengubah perangkat lunak agar dapat bekerja pada sistem operasi yang berbeda"
+        }
+      ]
+    }
+  ]
+}

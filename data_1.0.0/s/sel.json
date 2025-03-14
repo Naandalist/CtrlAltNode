@@ -1,0 +1,89 @@
+{
+  "istilah": "sel",
+  "entri": "sel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersel",
+    "disel"
+  ],
+  "gabunganKata": [
+    "sel adipose",
+    "sel air",
+    "sel anak",
+    "sel badai guntur",
+    "sel batang",
+    "sel berhubungan",
+    "sel bibir",
+    "sel darah",
+    "sel darah merah",
+    "sel darah putih",
+    "sel embrio",
+    "sel enteroendokrin",
+    "sel germinal",
+    "sel Hadley",
+    "sel haploid",
+    "sel induk",
+    "sel induk megaspora",
+    "sel kecambah",
+    "sel kelamin",
+    "sel keranjang",
+    "sel kerucut",
+    "sel konveksi",
+    "sel meridional",
+    "sel Merkel",
+    "sel nutfah",
+    "sel penutup",
+    "sel perawat",
+    "sel punca",
+    "sel raksasa",
+    "sel ratu",
+    "sel somatik",
+    "sel tumor",
+    "sel udara",
+    "sel isolasi",
+    "sel bahan bakar",
+    "sel beban",
+    "sel fotovoltaik",
+    "sel kering",
+    "sel surya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sel1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian atau bentuk terkecil dari organisme, terdiri atas satu atau lebih inti, protoplasma, dan zat-zat mati yang dikelilingi oleh selaput sel"
+        }
+      ]
+    },
+    {
+      "lema": "sel2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilik kecil dan sempit (dalam penjara, biara, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "sel3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "petak pada alat penghasil tenaga listrik dengan reaksi kimia, biasanya pada baterai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang memuat elektrolit yang dapat menghasilkan arus listrik atau digunakan dalam elektrolisis"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "rakyat",
+  "entri": "rak.yat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerakyatan",
+    "merakyat",
+    "merakyatkan",
+    "perakyatan"
+  ],
+  "gabunganKata": [
+    "rakyat biasa",
+    "rakyat gembel",
+    "rakyat jelata",
+    "rakyat kebanyakan",
+    "rakyat kecil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hewan ternak yang digembala; orang kebanyakan",
+    "kataAsal": "ra‘iyyah"
+  },
+  "data": [
+    {
+      "lema": "rak.yat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penduduk suatu negara: segenap -- Indonesia berdiri di belakang pemerintah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang kebanyakan; orang biasa: bioskop untuk --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pasukan (bala tentara): maka raksasa itu pun terbang diiringkan segenap -- lengkap dengan senjatanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "anak buah; bawahan: Lurah harus melindungi --nya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "setan",
+  "entri": "se.tan bentuk tidak baku: syaitan",
+  "bentukTidakBaku": "syaitan",
+  "kataTurunan": [
+    "kesetanan",
+    "mempersetan",
+    "mempersetankan",
+    "menyetan",
+    "persetan"
+  ],
+  "gabunganKata": [
+    "setan gundul",
+    "setan jalanan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "roh jahat yang merusak dan mengganggu manusia; ular yang mengerikan; makhluk durhaka",
+    "kataAsal": "syaiṭān"
+  },
+  "data": [
+    {
+      "lema": "se.tan bentuk tidak baku: syaitan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "roh jahat (yang selalu menggoda manusia supaya berlaku jahat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata untuk menyatakan kemarahan; sumpah serapah: -- kau, enyah dari sini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "orang yang sangat buruk perangainya (suka mengadu domba dan sebagainya): pikiran --nya bangkit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "nafsu",
+  "entri": "naf.su bentuk tidak baku: napsu",
+  "bentukTidakBaku": "napsu",
+  "kataTurunan": [
+    "bernafsu"
+  ],
+  "gabunganKata": [
+    "nafsu amarah",
+    "nafsu iblis",
+    "nafsu lawamah",
+    "nafsu mutmainah",
+    "nafsu radiah",
+    "nafsu setan",
+    "nafsu tabiat"
+  ],
+  "peribahasa": [
+    "hawa pantang kerendahan, nafsu pantang kekurangan; nafsu nafsi, raja di mata, sultan di hati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "roh; jiwa; manusia; jasad; zat",
+    "kataAsal": "nafs"
+  },
+  "data": [
+    {
+      "lema": "naf.su bentuk tidak baku: napsu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keinginan (kecenderungan, dorongan) hati yang kuat: karena kecewa, --nya untuk belajar mulai berkurang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dorongan hati yang kuat untuk berbuat kurang baik; hawa nafsu: tidak mungkin hal baik itu dilakukan tanpa melawan -- pribadi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selera; gairah atau keinginan (makan): ikan asin dan sayur asam menambah -- makan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panas hati; marah; meradang: --nya meluap ketika melihat saingannya itu"
+        }
+      ]
+    }
+  ]
+}

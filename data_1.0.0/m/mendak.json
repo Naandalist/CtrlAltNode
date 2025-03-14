@@ -1,0 +1,33 @@
+{
+  "istilah": "mendak",
+  "entri": "men.dak1 /mêndak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mengendap (tentang badan); tunduk",
+    "kataAsal": "aměṇḍak"
+  },
+  "data": [
+    {
+      "lema": "men.dak1 /mêndak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengendap (tentang badan); tunduk"
+        }
+      ]
+    },
+    {
+      "lema": "men.dak2 /mêndak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "melaksanakan selamatan tahunan untuk memperingati orang yang telah meninggal"
+        }
+      ]
+    }
+  ]
+}

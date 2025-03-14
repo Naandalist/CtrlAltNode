@@ -1,0 +1,77 @@
+{
+  "istilah": "saka",
+  "entri": "sa.ka1 bentuk tidak baku: soko",
+  "bentukTidakBaku": "soko",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "saka guru",
+    "saka tatal",
+    "saka baka",
+    "saka bahari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "nama suku atau ras yang khas; berhubungan dengan tahun Śaka",
+    "kataAsal": "śaka"
+  },
+  "data": [
+    {
+      "lema": "sa.ka1 bentuk tidak baku: soko",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiang rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "pusaka (bendera): Sang -- Merah Putih bendera pusaka Merah Putih"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ka2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "keluarga dari pihak ibu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "pangkat adat dari kaum yang bersifat turun-temurun"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ka4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "gula tebu"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ka5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "satuan karya pramuka"
+        }
+      ]
+    },
+    {
+      "lema": "Sa.ka3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tahun Jawa (berdasarkan cerita tentang kedatangan Aji Saka ke tanah Jawa, dimulai 78 tahun sesudah Masehi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tahun yang umurnya terdiri atas 210 hari atau 6 bulan: umat Hindu merayakan Hari Nyepi dalam rangka memperingati Tahun Baru --"
+        }
+      ]
+    }
+  ]
+}

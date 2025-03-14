@@ -1,0 +1,33 @@
+{
+  "istilah": "renceh",
+  "entri": "ren.ceh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ren.ceh1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kecil (digunakan dalam beberapa perkataan saja): selar --"
+        }
+      ]
+    },
+    {
+      "lema": "ren.ceh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sisa; kelebihan"
+        }
+      ]
+    }
+  ]
+}

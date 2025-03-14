@@ -1,0 +1,37 @@
+{
+  "istilah": "lalu lintas",
+  "entri": "la.lu lin.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlalu lintas",
+    "perlalulintasan"
+  ],
+  "gabunganKata": [
+    "lalu lintas giral"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.lu lin.tas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(berjalan) bolak-balik; hilir mudik: banyak kendaraan -- di jalan raya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal perjalanan di jalan dan sebagainya: pedagang-pedagang di tepi jalan sangat mengganggu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhubungan antara sebuah tempat dengan tempat yang lain (dengan jalan pelayaran, kereta api, dan sebagainya): -- di Kalimantan banyak dilakukan melalui sungai"
+        }
+      ]
+    }
+  ]
+}

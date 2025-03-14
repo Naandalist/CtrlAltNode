@@ -1,0 +1,31 @@
+{
+  "istilah": "sutra",
+  "entri": "su.tra bentuk tidak baku: sutera",
+  "bentukTidakBaku": "sutera",
+  "kataTurunan": [
+    "menyutra"
+  ],
+  "gabunganKata": [
+    "sutra kembang",
+    "sutra tiruan"
+  ],
+  "peribahasa": [
+    "jerat halus kelindan sutra; jual sutra, beli mastuli; ujung jarum halus kelindan sutra"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tali, kawat, benang, serabut, garis",
+    "kataAsal": "sūtra"
+  },
+  "data": [
+    {
+      "lema": "su.tra bentuk tidak baku: sutera",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benang halus dan lembut yang berasal dari kepompong ulat sutra: kain --"
+        }
+      ]
+    }
+  ]
+}

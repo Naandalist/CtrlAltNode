@@ -1,0 +1,36 @@
+{
+  "istilah": "getap",
+  "entri": "ge.tap1 /gêtap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggetap",
+    "getapan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.tap1 /gêtap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pecah; kerkah; kertak"
+        }
+      ]
+    },
+    {
+      "lema": "ge.tap2 /gêtap/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "getapan"
+        }
+      ]
+    }
+  ]
+}

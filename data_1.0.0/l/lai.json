@@ -1,0 +1,37 @@
+{
+  "istilah": "lai",
+  "entri": "lai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, tinggi hingga 20 m, daunnya berwarna hijau pada permukaannya, sedangkan bagian bawahnya berwarna cokelat, bunganya berwarna merah tua, buahnya berduri mirip durian berbentuk lonjong, daging buahnya berwarna kuning dan rasanya agak manis; sekawi〔Durio kutejensis〕"
+        },
+        {
+          "kelas_kata": "Bot[Botani: -]",
+          "deskripsi": "buah lai"
+        }
+      ]
+    },
+    {
+      "lema": "lai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "helai"
+        }
+      ]
+    }
+  ]
+}

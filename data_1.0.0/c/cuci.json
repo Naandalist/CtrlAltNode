@@ -1,0 +1,46 @@
+{
+  "istilah": "cuci",
+  "entri": "cu.ci",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cucian",
+    "ketercucian",
+    "mencuci",
+    "mencucikan",
+    "pencuci",
+    "pencucian",
+    "tercuci"
+  ],
+  "gabunganKata": [
+    "cuci air panas",
+    "cuci asam",
+    "cuci darah",
+    "cuci gudang",
+    "cuci kampung",
+    "cuci lantai",
+    "cuci mata",
+    "cuci mobil otomatis",
+    "cuci muka",
+    "cuci otak",
+    "cuci perut",
+    "cuci salju",
+    "cuci tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jujur, bersih, cerah, murni, putih, tak bersalah",
+    "kataAsal": "śuci"
+  },
+  "data": [
+    {
+      "lema": "cu.ci",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membersihkan sesuatu dengan air dan sebagainya; kumbah"
+        }
+      ]
+    }
+  ]
+}

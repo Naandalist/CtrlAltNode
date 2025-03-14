@@ -1,0 +1,35 @@
+{
+  "istilah": "oklusi",
+  "entri": "ok.lu.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "oklusi dingin",
+    "oklusi punggung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ok.lu.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "udara yang keluar dari jalan pernapasan mendapat hambatan penuh ketika suara di daerah artikulasi akan keluar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "penyerapan suatu zat ke dalam zat lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "penyumbatan saluran anatomis (misalnya pembuluh arteri) oleh plak"
+        }
+      ]
+    }
+  ]
+}

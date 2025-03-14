@@ -1,0 +1,41 @@
+{
+  "istilah": "rezeki",
+  "entri": "re.ze.ki /rêzêki/bentuk tidak baku: rejeki, rizeki, rizki",
+  "bentukTidakBaku": "rejeki, rizeki, rizki",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "rezeki batin",
+    "rezeki halal",
+    "rezeki kaget",
+    "rezeki mahal",
+    "rezeki mata",
+    "rezeki meninggi",
+    "rezeki merendah",
+    "rezeki murah",
+    "rezeki musang",
+    "rezeki nomplok"
+  ],
+  "peribahasa": [
+    "ada nyawa (umur), ada rezeki; mara jangan dipukat, rezeki jangan ditolak; rezeki elang tak akan dapat (dimakan) oleh musang (burung pipit)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "segala sesuatu yang dipakai untuk memelihara kehidupan (yang diberikan oleh Tuhan)",
+    "kataAsal": "rizq"
+  },
+  "data": [
+    {
+      "lema": "re.ze.ki /rêzêki/bentuk tidak baku: rejeki, rizeki, rizki",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segala sesuatu yang dipakai untuk memelihara kehidupan (yang diberikan oleh Tuhan); makanan (sehari-hari); nafkah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "penghidupan; pendapatan (uang dan sebagainya untuk memelihara kehidupan); keuntungan; kesempatan mendapat makan"
+        }
+      ]
+    }
+  ]
+}

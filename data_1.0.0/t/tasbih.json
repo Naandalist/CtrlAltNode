@@ -1,0 +1,39 @@
+{
+  "istilah": "tasbih",
+  "entri": "tas.bih",
+  "bentukTidakBaku": "sebih",
+  "kataTurunan": [
+    "bertasbih"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "puji-pujian",
+    "kataAsal": "tešboḥtā"
+  },
+  "data": [
+    {
+      "lema": "tas.bih",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pembacaan puji-pujian kepada Allah Swt. dengan mengucap subhanallah ‘Maha Suci Allah’ atau subhana rabbiyal azim (a’la) ‘segala kemuliaan bagi Tuhanku Yang Maha Besar (Maha Tinggi)’"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "untaian manik-manik yang dipakai untuk menghitung ucapan tahlil, tasbih, dan sebagainya: -- itu, ada yang maniknya berjumlah 33 dan ada yang berjumlah 100"
+        }
+      ]
+    },
+    {
+      "lema": "tas.bih2 bentuk tidak baku: sebih",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman hias berbunga besar, pelepah daunnya seperti pohon pisang, bunganya beraneka ragam, berwarna merah tua, kuning, berbintik-bintik merah, merah muda, dan sebagainya〔Canna orientalis〕"
+        }
+      ]
+    }
+  ]
+}

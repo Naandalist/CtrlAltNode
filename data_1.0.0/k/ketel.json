@@ -1,0 +1,61 @@
+{
+  "istilah": "ketel",
+  "entri": "ke.tel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berketel",
+    "berketel-ketel",
+    "seketel"
+  ],
+  "gabunganKata": [
+    "ketel angin",
+    "ketel bantu",
+    "ketel domestik",
+    "ketel induk",
+    "ketel pendidih",
+    "ketel uap"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.tel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuali besi untuk menanak nasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangki di kapal, lokomotif, dan sebagainya untuk memanaskan air yang tenaga uapnya dipakai menggerakkan mesin"
+        }
+      ]
+    },
+    {
+      "lema": "ke.tel /kêtel/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "titik (air); tetes"
+        }
+      ]
+    },
+    {
+      "lema": "ke.tel /kêtêl/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "rimbun daunnya, lebat (daun dan buahnya); padat (penduduknya); tebal (rambutnya)"
+        }
+      ]
+    }
+  ]
+}

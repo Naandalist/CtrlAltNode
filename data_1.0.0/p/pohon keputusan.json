@@ -1,0 +1,24 @@
+{
+  "istilah": "pohon keputusan",
+  "entri": "pohon1 » pohon keputusan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pohon1 » pohon keputusan",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "instrumen analisis yang merepresentasikan hasil dari beberapa kondisi dalam bentuk cabang yang dapat menghasilkan cabang-cabang lain"
+        }
+      ]
+    }
+  ]
+}

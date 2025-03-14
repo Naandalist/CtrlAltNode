@@ -1,0 +1,40 @@
+{
+  "istilah": "umpat",
+  "entri": "um.pat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengumpat",
+    "pengumpat",
+    "pengumpatan",
+    "umpatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "umpat tidak membunuh, puji tidak mengenyang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "um.pat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkataan yang keji (kotor dan sebagainya) yang diucapkan karena marah (jengkel, kecewa, dan sebagainya); cercaan; makian; sesalan; umpatan: -- dan puji tidak pernah bercerai, selalu ada yang mencela dan ada yang memuji; tindakannya itu mengakibatkan sesal dan -- dari keluarga sendiri"
+        }
+      ]
+    },
+    {
+      "lema": "um.pat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ umpet"
+        }
+      ]
+    }
+  ]
+}

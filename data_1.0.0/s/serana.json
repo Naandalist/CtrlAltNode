@@ -1,0 +1,35 @@
+{
+  "istilah": "serana",
+  "entri": "se.ra.na1 /sêrana/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyerana"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kematian, pembunuhan, penghancuran, kesulitan",
+    "kataAsal": "maraṇa"
+  },
+  "data": [
+    {
+      "lema": "se.ra.na1 /sêrana/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "menyerana"
+        }
+      ]
+    },
+    {
+      "lema": "se.ra.na2 /sêrana/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sarana"
+        }
+      ]
+    }
+  ]
+}

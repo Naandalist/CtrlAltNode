@@ -1,0 +1,31 @@
+{
+  "istilah": "teorema",
+  "entri": "te.o.re.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "teorema nilai final",
+    "teorema nilai inisial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.o.re.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "formula atau proposisi dalam matematika atau logika yang dapat dibuktikan dengan aksioma dan asumsi dasar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ide yang diterima sebagai kebenaran"
+        }
+      ]
+    }
+  ]
+}

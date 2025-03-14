@@ -1,0 +1,40 @@
+{
+  "istilah": "kata kunci",
+  "entri": "kata1 » kata kunci",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kata1 » kata kunci",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kata atau ungkapan yang mewakili konsep atau gagasan yang menandai suatu zaman atau suatu kelompok"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "kata atau ungkapan yang mewakili konsep yang telah disebutkan: -- kunci kalimat itu adalah “pembangunan”"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "kata dalam pemrograman bahasa yang menggambarkan perintah yang dikenali oleh komputer"
+        },
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "kata yang dicadangkan dalam bahasa pemrograman atau perintah; kata sandi"
+        },
+        {
+          "kelas_kata": "Sen[Kesenian: -]",
+          "deskripsi": "kata penting dalam dialog yang dapat mengungkap maksud dialog tersebut"
+        }
+      ]
+    }
+  ]
+}

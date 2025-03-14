@@ -1,0 +1,39 @@
+{
+  "istilah": "simpang siur",
+  "entri": "sim.pang si.ur bentuk tidak baku: siur1",
+  "bentukTidakBaku": "siur1",
+  "kataTurunan": [
+    "bersimpang siur",
+    "kesimpangsiuran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sim.pang si.ur bentuk tidak baku: siur1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "silang-menyilang tidak keruan (tentang jalan, garis)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lilit-melilit tidak keruan (tentang sulur, pita, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sangat rapat dan silang-menyilang (seperti kawat telepon di kota-kota besar)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "banyak seluk-beluknya (liku-likunya dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

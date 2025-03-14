@@ -1,0 +1,36 @@
+{
+  "istilah": "pakat",
+  "entri": "pa.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpakat",
+    "memakati"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kesepakatan",
+    "kataAsal": "muwāfaqah"
+  },
+  "data": [
+    {
+      "lema": "pa.kat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepakat; setuju; sependapat; mufakat"
+        }
+      ]
+    },
+    {
+      "lema": "pa.kat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pekat1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "wadak",
+  "entri": "wa.dak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perpisahan",
+    "kataAsal": "wadā‘"
+  },
+  "data": [
+    {
+      "lema": "wa.dak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat jasmani; ragawi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nyata: kuasa gaib yang mahabesar akan turun ke dunia yang -- ini"
+        }
+      ]
+    },
+    {
+      "lema": "wa.dak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perpisahan: haji --"
+        }
+      ]
+    }
+  ]
+}

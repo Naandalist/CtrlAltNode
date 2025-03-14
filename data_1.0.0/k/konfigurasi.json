@@ -1,0 +1,36 @@
+{
+  "istilah": "konfigurasi",
+  "entri": "kon.fi.gu.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.fi.gu.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk; wujud (untuk menggambarkan orang atau benda): ribuan pelajar SLTP di Stadion Utama Senayan membentuk -- kata ASEAN"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "bentuk horizontal dan vertikal bagian bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "kedudukan atom yang satu terhadap atom yang lain dalam molekul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bentuk geometri atau kombinasi unsur geometri, seperti titik, garis, lengkung, dan permukaan"
+        }
+      ]
+    }
+  ]
+}

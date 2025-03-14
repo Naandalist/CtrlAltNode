@@ -1,0 +1,33 @@
+{
+  "istilah": "ciu",
+  "entri": "ciu1 bentuk tidak baku: ciau",
+  "bentukTidakBaku": "ciaucu",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "arak",
+    "kataAsal": "chiú"
+  },
+  "data": [
+    {
+      "lema": "ciu1 bentuk tidak baku: ciau",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tikar rangkap tiga dihiasi emas (perak): Baginda dipersilakan bersemayam di atas -- keemasan"
+        }
+      ]
+    },
+    {
+      "lema": "ci.u2 bentuk tidak baku: cu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "minuman keras; arak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "histogram",
+  "entri": "his.to.gram",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "his.to.gram",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "diagram balok"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "grafik statistik distribusi frekuensi yang digambarkan oleh empat persegi panjang vertikal dengan ketinggian berbeda yang proporsional dengan frekuensi yang terkait"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "grafik yang menggambarkan distribusi data dalam bentuk empat persegi panjang atau garis dalam dua dimensi"
+        }
+      ]
+    }
+  ]
+}

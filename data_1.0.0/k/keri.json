@@ -1,0 +1,39 @@
+{
+  "istilah": "keri",
+  "entri": "ke.ri1 /kêri/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengeri"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ri1 /kêri/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sabit kecil (untuk menyiangi rumput dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "tendangan (dalam olahraga karate, kempo)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ri2 /kêri/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "serat daun nenas"
+        }
+      ]
+    }
+  ]
+}

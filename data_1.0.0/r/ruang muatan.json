@@ -1,0 +1,28 @@
+{
+  "istilah": "ruang muatan",
+  "entri": "ruang » ruang muatan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ruang » ruang muatan",
+      "arti": [
+        {
+          "kelas_kata": "Kap[Perkapalan: -]",
+          "deskripsi": "ruang di kapal untuk menampung muatan"
+        },
+        {
+          "kelas_kata": "Kap[Perkapalan: -]",
+          "deskripsi": "tangki untuk menampung muatan cair"
+        }
+      ]
+    }
+  ]
+}

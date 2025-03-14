@@ -1,0 +1,33 @@
+{
+  "istilah": "menyampak",
+  "entri": "sampak1 » me.nyam.pak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sampak1 » me.nyam.pak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasang sampak; memberi sampak"
+        }
+      ]
+    },
+    {
+      "lema": "sampak2 » me.nyam.pak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melempar; membuang"
+        }
+      ]
+    }
+  ]
+}

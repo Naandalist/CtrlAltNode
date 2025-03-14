@@ -1,0 +1,115 @@
+{
+  "istilah": "kepala",
+  "entri": "ke.pa.la1 /kêpala/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkepala",
+    "kepala-kepalaan",
+    "mengepalai",
+    "mengepalakan"
+  ],
+  "gabunganKata": [
+    "kepala air",
+    "kepala angin",
+    "kepala bagian",
+    "kepala bahu",
+    "kepala batu",
+    "kepala berat",
+    "kepala busung",
+    "kepala daerah",
+    "kepala desa",
+    "kepala dingin",
+    "kepala dua",
+    "kepala gudang",
+    "kepala guntur",
+    "kepala kain",
+    "kepala kampung",
+    "kepala karangan",
+    "kepala keluarga",
+    "kepala kereta api",
+    "kepala kodi",
+    "kepala lakon",
+    "kepala lorong",
+    "kepala negara",
+    "kepala negeri",
+    "kepala not",
+    "kepala pasukan",
+    "kepala payung",
+    "kepala pelayan",
+    "kepala pulau",
+    "kepala putik",
+    "kepala raja",
+    "kepala sari",
+    "kepala sarung",
+    "kepala sekolah",
+    "kepala stasiun",
+    "kepala stik",
+    "kepala suku",
+    "kepala surat",
+    "kepala susu",
+    "kepala tahun",
+    "kepala timah",
+    "kepala tirai",
+    "kepala tongkat",
+    "kepala udang",
+    "kepala waris",
+    "kepala wilayah",
+    "kepala zakar"
+  ],
+  "peribahasa": [
+    "ada kepala tidak mematuk, ada buntut tidak melilit; awak tikus hendak menampar kepala kucing; bagai ayam kena kepala; diberi kepala, hendak bahu; kaki naik, kepala turun; kepala sama berbulu, pendapat berlain-lainan; kepala sama hitam (berbulu), pendapat berlain-lain; memikul di bahu, menjunjung di kepala; mengepit kepala harimau; sakit kepala panjang rambut; sakit kepala panjang rambut, patah selera banyak makan; sembunyi tuma (kepala tersuruk), ekor kelihatan; sembunyi tuma (kepala tersuruk), ekor kelihatan); silap mata, pecah kepala; silap mata, pecah kepala; tahan jerat, sorong kepala; tak tentu kepala ekornya; tanduk di kepala tak dapat digelengkan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tengkorak, kepala",
+    "kataAsal": "kapāla"
+  },
+  "data": [
+    {
+      "lema": "ke.pa.la1 /kêpala/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian tubuh yang di atas leher (pada manusia dan beberapa jenis hewan merupakan tempat otak, pusat jaringan saraf, dan beberapa pusat indra): mayat wanita itu ditemukan tanpa --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian tubuh yang di atas leher tempat tumbuhnya rambut: --nya botak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "bagian suatu benda yang sebelah atas (ujung, depan, dan sebagainya): -- tongkat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "bagian yang terutama (yang penting, yang pokok, dan sebagainya): -- lakon"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pemimpin; ketua (kantor, pekerjaan, perkumpulan, dan sebagainya): -- pasukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "otak (pikiran, akal, budi): jika kita masih punya --, kita harus diberi jatah satu kilogram gula"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong bagi manusia; orang: biaya pemondokan dihitung per --, bukan per kamar"
+        }
+      ]
+    },
+    {
+      "lema": "ke.pa.la2 /kêpala/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "mekanisme baca atau tulis dalam cakram atau penggerak pita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian pengodean yang mendahului tubuh dokumen dan digunakan untuk menggambarkan dokumen itu sendiri"
+        }
+      ]
+    }
+  ]
+}

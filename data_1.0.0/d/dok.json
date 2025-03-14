@@ -1,0 +1,39 @@
+{
+  "istilah": "dok",
+  "entri": "dok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "dok apung",
+    "dok benam",
+    "dok darat",
+    "dok gali",
+    "dok tarik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "galangan kapal (untuk menggalang kapal yang akan diperbaiki dan sebagainya); limbung; guri"
+        }
+      ]
+    },
+    {
+      "lema": "dok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "dokter"
+        }
+      ]
+    }
+  ]
+}

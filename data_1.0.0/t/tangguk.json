@@ -1,0 +1,34 @@
+{
+  "istilah": "tangguk",
+  "entri": "tang.guk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menangguk",
+    "penangguk",
+    "tertangguk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "semisal udang dalam tangguk; tangguk lerek dengan bingkainya; tangguk rapat, keruntung bubus; udang dalam tangguk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tang.guk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keranjang dari rotan atau jaring berbingkai (untuk menangkap ikan, udang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tipu muslihat (untuk menjebak dan sebagainya): sekalian --nya mengena"
+        }
+      ]
+    }
+  ]
+}

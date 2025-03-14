@@ -1,0 +1,33 @@
+{
+  "istilah": "paranim",
+  "entri": "pa.ra.nim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ra.nim1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama ilmiah yang penulisan ejaannya sangat mirip dengan nama lain sehingga dapat menimbulkan kekeliruan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ra.nim2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendamping yang bertugas mencatat dan menyampaikan pertanyaan dari para penguji kepada promovendus dalam sidang promosi doktor"
+        }
+      ]
+    }
+  ]
+}

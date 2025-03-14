@@ -1,0 +1,28 @@
+{
+  "istilah": "cincu",
+  "entri": "cin.cu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kapten kapal; wakil pemilik kapal",
+    "kataAsal": "tsûn tsú"
+  },
+  "data": [
+    {
+      "lema": "cin.cu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "wakil pemilik perusahaan kapal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "nakhoda kapal"
+        }
+      ]
+    }
+  ]
+}

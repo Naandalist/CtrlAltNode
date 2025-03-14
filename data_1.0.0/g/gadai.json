@@ -1,0 +1,48 @@
+{
+  "istilah": "gadai",
+  "entri": "ga.dai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergadai",
+    "gadaian",
+    "menggadai",
+    "menggadaikan",
+    "pegadai",
+    "pegadaian",
+    "penggadai",
+    "penggadaian",
+    "tergadai",
+    "tergadaikan"
+  ],
+  "gabunganKata": [
+    "gadai gelap",
+    "gadai ulang"
+  ],
+  "peribahasa": [
+    "gadai terdorong kepada Cina"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gadai",
+    "kataAsal": "gaḍay"
+  },
+  "data": [
+    {
+      "lema": "ga.dai",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meminjam uang dalam batas waktu tertentu dengan menyerahkan barang sebagai tanggungan, jika telah sampai pada waktunya tidak ditebus, barang itu menjadi hak yang memberi pinjaman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang diserahkan sebagai tanggungan utang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kredit jangka pendek dengan jaminan yang berlaku tiga bulan dan setiap kali dapat diperpanjang apabila tidak dihentikan oleh salah satu pihak yang bersangkutan"
+        }
+      ]
+    }
+  ]
+}

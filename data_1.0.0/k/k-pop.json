@@ -1,0 +1,33 @@
+{
+  "istilah": "k-pop",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "pop Korea; musik pop asal Korea Selatan yang menggabungkan berbagai macam gaya musik (termasuk musik Barat), sering digunakan untuk merujuk pada musik yang dibawakan oleh penyanyi idola muda"
+        }
+      ]
+    },
+    {
+      "lema": "K-pop",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "pop Korea; musik pop asal Korea Selatan yang menggabungkan berbagai macam gaya musik (termasuk musik Barat), sering digunakan untuk merujuk pada musik yang dibawakan oleh penyanyi idola muda"
+        }
+      ]
+    }
+  ]
+}

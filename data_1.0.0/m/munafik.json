@@ -1,0 +1,30 @@
+{
+  "istilah": "munafik",
+  "entri": "mu.na.fik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemunafikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang berpura-pura percaya atau setia dan sebagainya kepada agama dan sebagainya, tetapi sebenarnya dalam hatinya tidak",
+    "kataAsal": "munāfiq"
+  },
+  "data": [
+    {
+      "lema": "mu.na.fik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berpura-pura percaya atau setia dan sebagainya kepada agama dan sebagainya, tetapi sebenarnya dalam hatinya tidak; suka (selalu) mengatakan sesuatu yang tidak sesuai dengan perbuatannya; bermuka dua: ia tidak pernah berpura-pura, selalu jujur dan tidak --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "orang yang berpura-pura percaya atau setia kepada agama, tetapi sebenarnya dalam hatinya tidak demikian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "ventilasi",
+  "entri": "ven.ti.la.si bentuk tidak baku: pentilasi",
+  "bentukTidakBaku": "pentilasi",
+  "kataTurunan": [
+    "berventilasi"
+  ],
+  "gabunganKata": [
+    "ventilasi alam",
+    "ventilasi bantu",
+    "ventilasi mekanik",
+    "ventilasi paru",
+    "ventilasi searah",
+    "ventilasi silang",
+    "ventilasi tambang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ven.ti.la.si bentuk tidak baku: pentilasi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertukaran udara; perputaran udara secara bebas di dalam ruangan: rumah yang cukup -- dan cahaya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(lubang) tempat udara dapat keluar masuk secara bebas: antara dinding dan atap terdapat jeruji besi sebagai --"
+        }
+      ]
+    }
+  ]
+}

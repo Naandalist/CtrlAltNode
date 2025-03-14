@@ -1,0 +1,35 @@
+{
+  "istilah": "pakter",
+  "entri": "pak.ter1 /paktêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pakter tuak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pak.ter1 /paktêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengepak (tanah, sawah, dan sebagainya); penyewa tanah, sawah, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "pak.ter2 /paktêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warung kecil; kedai"
+        }
+      ]
+    }
+  ]
+}

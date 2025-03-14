@@ -1,0 +1,34 @@
+{
+  "istilah": "pinjam",
+  "entri": "pin.jam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meminjam",
+    "meminjami",
+    "meminjamkan",
+    "peminjam",
+    "peminjaman",
+    "pinjam-meminjam",
+    "pinjaman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "utang (pinjam) kayu ara"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pin.jam",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meminjam"
+        }
+      ]
+    }
+  ]
+}

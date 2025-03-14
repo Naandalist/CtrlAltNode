@@ -1,0 +1,42 @@
+{
+  "istilah": "limar",
+  "entri": "li.mar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "nama jenis sutra",
+    "kataAsal": "limar"
+  },
+  "data": [
+    {
+      "lema": "li.mar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "motif yang terdapat pada batik Garut, terdiri atas susunan bidang belah ketupat, di dalamnya diisi garis-garis horizontal"
+        }
+      ]
+    },
+    {
+      "lema": "li.mar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kain sutra bercorak, biasa dipakai untuk sabuk dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "li.mar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Plb[Palembang: -]",
+          "deskripsi": "nama motif songket"
+        }
+      ]
+    }
+  ]
+}

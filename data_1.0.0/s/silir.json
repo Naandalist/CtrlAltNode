@@ -1,0 +1,39 @@
+{
+  "istilah": "silir",
+  "entri": "si.lir1 bentuk tidak baku: semilir",
+  "bentukTidakBaku": "semilir",
+  "kataTurunan": [
+    "bersilir-silir",
+    "semilir",
+    "silir-semilir",
+    "silir-silir",
+    "siliran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gerakan (dengan lemah lembut), menghembus, mengalir, mengalir, membawa, melayang sepoi-sepoi",
+    "kataAsal": "silir"
+  },
+  "data": [
+    {
+      "lema": "si.lir1 bentuk tidak baku: semilir",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sejuk karena ada angin yang bertiup perlahan-lahan"
+        }
+      ]
+    },
+    {
+      "lema": "si.lir2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kemeja"
+        }
+      ]
+    }
+  ]
+}

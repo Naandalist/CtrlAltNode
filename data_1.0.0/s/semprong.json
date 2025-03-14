@@ -1,0 +1,47 @@
+{
+  "istilah": "semprong",
+  "entri": "sem.prong1 /sêmprong/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersemprong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sem.prong1 /sêmprong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tabung kaca penutup nyala lampu; corong lampu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "salung api"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "salung asap; serombong"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teropong; keker"
+        }
+      ]
+    },
+    {
+      "lema": "sem.prong2 /sêmprong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis kue kering yang bentuknya seperti semprong"
+        }
+      ]
+    }
+  ]
+}

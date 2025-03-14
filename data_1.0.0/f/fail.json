@@ -1,0 +1,31 @@
+{
+  "istilah": "fail",
+  "entri": "fa.il",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "fail komputer",
+    "fail terkunci"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fa.il",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rak untuk menyimpan dokumen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dokumen; berkas"
+        }
+      ]
+    }
+  ]
+}

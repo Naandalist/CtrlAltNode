@@ -1,0 +1,35 @@
+{
+  "istilah": "emat",
+  "entri": "e.mat1 /êmat/",
+  "bentukTidakBaku": "mat1",
+  "kataTurunan": [
+    "mengemat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.mat1 /êmat/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata seru untuk menyatakan bahwa raja atau perdana menteri dalam permainan catur terancam bahaya"
+        }
+      ]
+    },
+    {
+      "lema": "e.mat2 /êmat/bentuk tidak baku: mat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ukuran (baju, celana, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

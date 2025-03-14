@@ -1,0 +1,40 @@
+{
+  "istilah": "dokumen",
+  "entri": "do.ku.men",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "dokumen medis",
+    "dokumen perjalanan",
+    "dokumen wisata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "do.ku.men",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat yang tertulis atau tercetak yang dapat dipakai sebagai bukti keterangan (seperti akta kelahiran, surat nikah, surat perjanjian)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang cetakan atau naskah karangan yang dikirim melalui pos"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rekaman suara, gambar dalam film, dan sebagainya yang dapat dijadikan bukti keterangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "berkas yang berisi teks yang dibuat dengan perangkat lunak pengolah kata"
+        }
+      ]
+    }
+  ]
+}

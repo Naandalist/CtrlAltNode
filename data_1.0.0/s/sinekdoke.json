@@ -1,0 +1,32 @@
+{
+  "istilah": "sinekdoke",
+  "entri": "si.nek.do.ke",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.nek.do.ke",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "majas pertautan yang menyebutkan nama bagian sebagai pengganti nama keseluruhannya; pars pro toto"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "majas pertautan yang menyebutkan nama keseluruhan sebagai pengganti nama bagiannya; totem pro parte"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "majas pertautan yang menyebutkan nama bahan sebagai pengganti nama barang yang terbuat dari bahan itu"
+        }
+      ]
+    }
+  ]
+}

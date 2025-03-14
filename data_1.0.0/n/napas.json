@@ -1,0 +1,41 @@
+{
+  "istilah": "napas",
+  "entri": "na.pas1 bentuk tidak baku: nafas",
+  "bentukTidakBaku": "nafas",
+  "kataTurunan": [
+    "bernapas",
+    "bernapaskan",
+    "menapaskan",
+    "pernapasan",
+    "senapas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "napas tidak sampai ke hidung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "udara yang keluar kepada hidung dan mulut",
+    "kataAsal": "nafas"
+  },
+  "data": [
+    {
+      "lema": "na.pas1 bentuk tidak baku: nafas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "udara yang diisap melalui hidung atau mulut dan dikeluarkan kembali dari paru-paru"
+        }
+      ]
+    },
+    {
+      "lema": "na.pas2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kuning kemerah-merahan (tentang warna bulu, terutama kuda)"
+        }
+      ]
+    }
+  ]
+}

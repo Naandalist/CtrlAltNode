@@ -1,0 +1,36 @@
+{
+  "istilah": "bukut",
+  "entri": "bu.kut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membukut",
+    "pembukut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.kut1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bungkus; tutup"
+        }
+      ]
+    },
+    {
+      "lema": "bu.kut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang ditugaskan khusus untuk menjaga kamar tempat penyimpanan makanan pada acara pesta sebelum makanan disajikan"
+        }
+      ]
+    }
+  ]
+}

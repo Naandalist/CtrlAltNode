@@ -1,0 +1,33 @@
+{
+  "istilah": "korselet",
+  "entri": "kor.se.let1 /korsêlet/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kor.se.let1 /korsêlet/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baju baja untuk pelindung badan"
+        }
+      ]
+    },
+    {
+      "lema": "kor.se.let2 /korsêlet/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kutang"
+        }
+      ]
+    }
+  ]
+}

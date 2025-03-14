@@ -1,0 +1,33 @@
+{
+  "istilah": "onderhuur",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "penyewa bawahan atau seseorang atau pihak yang menyewa sesuatu dari seorang penyewa dan bukan dari pemiliknya; menyewakan kembali barang yang disewa yang dilarang kecuali dengan seizin pemiliknya"
+        }
+      ]
+    },
+    {
+      "lema": "onderhuur",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "penyewa bawahan atau seseorang atau pihak yang menyewa sesuatu dari seorang penyewa dan bukan dari pemiliknya; menyewakan kembali barang yang disewa yang dilarang kecuali dengan seizin pemiliknya"
+        }
+      ]
+    }
+  ]
+}

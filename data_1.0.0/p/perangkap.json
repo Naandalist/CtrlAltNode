@@ -1,0 +1,35 @@
+{
+  "istilah": "perangkap",
+  "entri": "pe.rang.kap /pêrangkap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memerangkap",
+    "terperangkap"
+  ],
+  "gabunganKata": [
+    "perangkap elektron"
+  ],
+  "peribahasa": [
+    "seperti tikus masuk perangkap"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.rang.kap /pêrangkap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menangkap binatang (seperti kandang atau sangkar yang dapat menutup sendiri apabila binatang sudah masuk): -- telah mengena perangkap telah dimasuki binatang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tipu muslihat untuk memperdaya orang: masuk --"
+        }
+      ]
+    }
+  ]
+}

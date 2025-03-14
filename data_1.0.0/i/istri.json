@@ -1,0 +1,35 @@
+{
+  "istilah": "istri",
+  "entri": "is.tri bentuk tidak baku: isteri",
+  "bentukTidakBaku": "isteri",
+  "kataTurunan": [
+    "beristri",
+    "beristrikan",
+    "memperistri",
+    "memperistrikan"
+  ],
+  "gabunganKata": [
+    "istri gelap"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "wanita, istri, feminin",
+    "kataAsal": "strī"
+  },
+  "data": [
+    {
+      "lema": "is.tri bentuk tidak baku: isteri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wanita yang menikah dengan pria secara sah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wanita yang dinikahi: almarhum meninggalkan seorang -- dan dua orang anak"
+        }
+      ]
+    }
+  ]
+}

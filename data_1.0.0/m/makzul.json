@@ -1,0 +1,27 @@
+{
+  "istilah": "makzul",
+  "entri": "mak.zul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memakzulkan",
+    "pemakzulan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang disingkirkan",
+    "kataAsal": "ma‘zūl"
+  },
+  "data": [
+    {
+      "lema": "mak.zul",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhenti memegang jabatan; turun takhta"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "sum",
+  "entri": "sum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kapal Siam: maka Baginda pun menyuruh menyiapkan delapan ratus --, selain perahu kecil-kecil yang tiada terbilang jumlahnya"
+        }
+      ]
+    },
+    {
+      "lema": "Sum2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat Dayak Sum"
+        }
+      ]
+    }
+  ]
+}

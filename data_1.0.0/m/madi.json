@@ -1,0 +1,33 @@
+{
+  "istilah": "madi",
+  "entri": "ma.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bersifat kebendaan",
+    "kataAsal": "māddī"
+  },
+  "data": [
+    {
+      "lema": "ma.di1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat kebendaan; mengenai benda: hukum --"
+        }
+      ]
+    },
+    {
+      "lema": "ma.di2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ mazi"
+        }
+      ]
+    }
+  ]
+}

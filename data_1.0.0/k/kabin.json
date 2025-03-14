@@ -1,0 +1,32 @@
+{
+  "istilah": "kabin",
+  "entri": "ka.bin bentuk tidak baku: kebin",
+  "bentukTidakBaku": "kebin",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.bin bentuk tidak baku: kebin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kamar di dalam kapal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang di dalam pesawat terbang tempat para penumpang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang penumpang dalam mobil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "tarikh",
+  "entri": "ta.rikh bentuk tidak baku: tawarikh",
+  "bentukTidakBaku": "tawarikh",
+  "kataTurunan": [
+    "menarikhkan",
+    "penarikhan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sejarah",
+    "kataAsal": "tārīkh"
+  },
+  "data": [
+    {
+      "lema": "ta.rikh bentuk tidak baku: tawarikh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhitungan tahun: -- Hijriah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "angka (bilangan) tahun: -- 305 tahun Sebelum Masehi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanggal (hari, bulan, dan tahun): menilik --nya, naskah itu ditulis pada akhir pemerintahan Hayam Wuruk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "sejarah; tambo; riwayat"
+        }
+      ]
+    }
+  ]
+}

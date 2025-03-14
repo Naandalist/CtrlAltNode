@@ -1,0 +1,62 @@
+{
+  "istilah": "sumbu",
+  "entri": "sum.bu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersumbu",
+    "menyumbui",
+    "persumbuan"
+  ],
+  "gabunganKata": [
+    "sumbu bakar",
+    "sumbu ledak",
+    "sumbu rotor",
+    "sumbu antisiklon",
+    "sumbu bumi",
+    "sumbu depresi",
+    "sumbu mata",
+    "sumbu mendatar",
+    "sumbu palung",
+    "sumbu punggung",
+    "sumbu simetri",
+    "sumbu tegak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sum.bu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benang (kapas dan sebagainya) yang berfungsi sebagai jalan peresapan minyak dan sebagainya ke bagian yang disulut (tentang lampu, kompor, dan sebagainya): -- pelita; menyembulkan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tunam (pada petasan, meriam kuno, dan sebagainya); murang: -- meriam; -- mercon"
+        }
+      ]
+    },
+    {
+      "lema": "sum.bu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gandar roda; poros: pedati itu patah --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis lurus yang di sekelilingnya terdapat simetri: -- torak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bagian frasa eksosentris yang berupa kata, frasa, atau klausa, seperti frasa atau klausa yang mengikuti preposisi atau konjungtor"
+        }
+      ]
+    }
+  ]
+}

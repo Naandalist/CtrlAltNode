@@ -1,0 +1,65 @@
+{
+  "istilah": "kabung",
+  "entri": "ka.bung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkabung",
+    "perkabungan",
+    "mengabung",
+    "mengabung-ngabung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.bung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain putih yang diikatkan di kepala sebagai tanda berdukacita"
+        }
+      ]
+    },
+    {
+      "lema": "ka.bung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran panjang (= 4 hasta = 2 m)"
+        }
+      ]
+    },
+    {
+      "lema": "ka.bung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "enau"
+        }
+      ]
+    },
+    {
+      "lema": "ka.bung4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "kerat; penggal; potong"
+        }
+      ]
+    },
+    {
+      "lema": "ka.bung5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Als[Alas: -]",
+          "deskripsi": "pekerjaan pertama yang dilakukan dalam bersawah"
+        }
+      ]
+    }
+  ]
+}

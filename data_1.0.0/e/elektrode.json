@@ -1,0 +1,28 @@
+{
+  "istilah": "elektrode",
+  "entri": "e.lek.tro.de bentuk tidak baku: elektroda",
+  "bentukTidakBaku": "elektroda",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.lek.tro.de bentuk tidak baku: elektroda",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dua kutub (anode, katode) dari baterai listrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lempeng logam atau kawat untuk mengalirkan arus listrik dalam elektrolit"
+        }
+      ]
+    }
+  ]
+}

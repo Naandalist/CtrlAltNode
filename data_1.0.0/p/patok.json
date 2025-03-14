@@ -1,0 +1,40 @@
+{
+  "istilah": "patok",
+  "entri": "pa.tok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpatokan",
+    "mematok",
+    "mematokkan",
+    "patokan",
+    "pematok",
+    "pematokan",
+    "terpatok"
+  ],
+  "gabunganKata": [
+    "patok kilometer",
+    "patok lalu lintas",
+    "patok pembatas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.tok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran untuk luas tanah persawahan (kurang lebih 2.300 m²): petani dibebani ongkos penyemprotan sebanyak Rp10.000,00 per --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancang; tonggak"
+        }
+      ]
+    }
+  ]
+}

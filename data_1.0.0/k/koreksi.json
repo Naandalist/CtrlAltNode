@@ -1,0 +1,50 @@
+{
+  "istilah": "koreksi",
+  "entri": "ko.rek.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "koreksian",
+    "mengoreksi",
+    "pengoreksi",
+    "pengoreksian",
+    "terkoreksi"
+  ],
+  "gabunganKata": [
+    "koreksi akhir",
+    "koreksi altimeter",
+    "koreksi gaya berat",
+    "koreksi kapasitas",
+    "koreksi kapilaritas",
+    "koreksi kepadatan",
+    "koreksi suhu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.rek.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembetulan; pemeriksaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembetulan kesalahan (pada cetak coba, naskah, dan sebagainya); pembetulan hasil susunan untuk disesuaikan dengan contohnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "pembacaan dan pembetulan cetak coba dengan tanda-tanda tertentu untuk menjamin kecocokan cetak coba dengan naskahnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemeriksaan hasil ujian"
+        }
+      ]
+    }
+  ]
+}

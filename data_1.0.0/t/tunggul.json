@@ -1,0 +1,58 @@
+{
+  "istilah": "tunggul",
+  "entri": "tung.gul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tetunggul",
+    "tunggul-tunggul",
+    "menunggul"
+  ],
+  "gabunganKata": [
+    "tunggul pungur",
+    "tunggul angin",
+    "tunggul pelangi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tung.gul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkal pohon yang masih tinggal tertanam di dalam tanah sehabis ditebang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pokok batang yang masih tertinggal sehabis dituai, disabit, dan sebagainya: -- padi; -- jagung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tonggak (untuk menambatkan perahu dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tung.gul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bendera; panji-panji: dua orang pembawa -- berjalan kaki di belakang pasukan"
+        }
+      ]
+    },
+    {
+      "lema": "tung.gul3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menunggul"
+        }
+      ]
+    }
+  ]
+}

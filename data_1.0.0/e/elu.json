@@ -1,0 +1,36 @@
+{
+  "istilah": "elu",
+  "entri": "e.lu /êlu/bentuk tidak baku: alu2",
+  "bentukTidakBaku": "alu2",
+  "kataTurunan": [
+    "mengelu-elukan",
+    "mengelukan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.lu /êlu/bentuk tidak baku: alu2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "longok"
+        }
+      ]
+    },
+    {
+      "lema": "e.lu2 /êlu/",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Jk[Melayu Jakarta: -]",
+          "deskripsi": "lo2; lu"
+        }
+      ]
+    }
+  ]
+}

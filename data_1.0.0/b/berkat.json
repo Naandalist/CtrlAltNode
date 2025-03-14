@@ -1,0 +1,51 @@
+{
+  "istilah": "berkat",
+  "entri": "ber.kat1 /bêrkat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keberkatan",
+    "memberkati",
+    "pemberkat",
+    "pemberkatan",
+    "teberkati"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penambahan kebaikan",
+    "kataAsal": "barakah"
+  },
+  "data": [
+    {
+      "lema": "ber.kat1 /bêrkat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karunia Tuhan yang membawa kebaikan dalam hidup manusia: semoga Tuhan melimpahkan --Nya kepada kita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "doa restu dan pengaruh baik (yang mendatangkan selamat dan bahagia) dari orang yang dihormati atau dianggap suci (keramat), seperti orang tua, guru, pemuka agama: sebelum berangkat meninggalkan kampung halaman, dia memohon -- kepada gurunya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan dan sebagainya yang dibawa pulang sehabis kenduri: undangan itu masing-masing pulang dengan membawa -- ke rumahnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mendatangkan kebaikan; bermanfaat; berkah: uangnya banyak, tetapi tidak --"
+        }
+      ]
+    },
+    {
+      "lema": "ber.kat2 /bêrkat/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "karena; akibat dari: -- bantuannyalah kami dapat selamat kembali ke kampung"
+        }
+      ]
+    }
+  ]
+}

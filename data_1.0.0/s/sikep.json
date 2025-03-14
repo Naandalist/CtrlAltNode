@@ -1,0 +1,32 @@
+{
+  "istilah": "sikep",
+  "entri": "si.kep /sikêp/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.kep /sikêp/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Jw[Jawa: -]",
+          "deskripsi": "orang dari desa yang mempunyai kewajiban melakukan kerja bakti untuk orang yang terpandang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pemetik sarang burung (lawet dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "warna hitam (tentang bulu itik)"
+        }
+      ]
+    }
+  ]
+}

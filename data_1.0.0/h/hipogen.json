@@ -1,0 +1,24 @@
+{
+  "istilah": "hipogen",
+  "entri": "hi.po.gen",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.po.gen",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "terbentuk (terjadi) dari pembekuan magma pijar jauh di bawah tanah, misalnya plutonik"
+        }
+      ]
+    }
+  ]
+}

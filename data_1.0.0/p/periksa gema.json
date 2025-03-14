@@ -1,0 +1,24 @@
+{
+  "istilah": "periksa gema",
+  "entri": "periksa » periksa gema",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "periksa » periksa gema",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "mengembalikan karakter yang diterima oleh terminal ke pemancar dan memeriksa keakurasian transmisi data"
+        }
+      ]
+    }
+  ]
+}

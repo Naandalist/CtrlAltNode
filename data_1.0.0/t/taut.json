@@ -1,0 +1,40 @@
+{
+  "istilah": "taut",
+  "entri": "ta.ut1 bentuk tidak baku: taup1",
+  "bentukTidakBaku": "taup1",
+  "kataTurunan": [
+    "bertaut",
+    "kebertautan",
+    "mempertautkan",
+    "menautkan",
+    "pertautan",
+    "tautan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.ut1 bentuk tidak baku: taup1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertaut"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali yang diberi kail (untuk menangkap ikan): anak-anak membuat -- untuk memancing ikan"
+        }
+      ]
+    }
+  ]
+}

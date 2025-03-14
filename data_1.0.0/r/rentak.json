@@ -1,0 +1,50 @@
+{
+  "istilah": "rentak",
+  "entri": "ren.tak bentuk tidak baku: rintak",
+  "bentukTidakBaku": "rintakrentak",
+  "kataTurunan": [
+    "menyerentakkan",
+    "merentak",
+    "serentak",
+    "merentak",
+    "terentak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "rentak sedegam, langkah sepijak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ren.tak bentuk tidak baku: rintak",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ rentak2"
+        }
+      ]
+    },
+    {
+      "lema": "ren.tak1 /rêntak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "entakan kaki bersama-sama: berkata dengan -- dan marahnya"
+        }
+      ]
+    },
+    {
+      "lema": "ren.tak2 /rêntak/bentuk tidak baku: rentak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sentak; renggut"
+        }
+      ]
+    }
+  ]
+}

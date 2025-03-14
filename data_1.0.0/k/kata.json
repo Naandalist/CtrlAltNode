@@ -1,0 +1,118 @@
+{
+  "istilah": "kata",
+  "entri": "ka.ta1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkata",
+    "berkata-kata",
+    "memperkatakan",
+    "mengata",
+    "mengata-ngatai",
+    "mengatai",
+    "mengatakan",
+    "perkataan",
+    "terkatakan"
+  ],
+  "gabunganKata": [
+    "kata adat",
+    "kata asli",
+    "kata bantu bilangan",
+    "kata benda",
+    "kata bentukan",
+    "kata berimbuhan",
+    "kata bersayap",
+    "kata bersusun",
+    "kata bertimbal",
+    "kata bilangan",
+    "kata dasar",
+    "kata deiktis",
+    "kata dengung",
+    "kata depan",
+    "kata fonologis",
+    "kata ganti",
+    "kata ganti milik",
+    "kata ganti orang",
+    "kata ganti taktentu",
+    "kata generik",
+    "kata gramatikal",
+    "kata hati",
+    "kata hubung",
+    "kata instruksi",
+    "kata jadian",
+    "kata keadaan",
+    "kata kepala",
+    "kata kerja",
+    "kata kerja bantu",
+    "kata keterangan",
+    "kata klise",
+    "kata kunci",
+    "kata leksikal",
+    "kata lewat",
+    "kata majemuk",
+    "kata morfemis",
+    "kata mubazir",
+    "kata nama",
+    "kata nama abstrak",
+    "kata nonreferensial",
+    "kata ortografis",
+    "kata pembimbing",
+    "kata pendahuluan",
+    "kata pengantar",
+    "kata penggolong",
+    "kata penghubung",
+    "kata petunjuk",
+    "kata pinjaman",
+    "kata pivot",
+    "kata pungutan",
+    "kata pustaka",
+    "kata putus",
+    "kata sambung",
+    "kata sambutan",
+    "kata sandang",
+    "kata sandi",
+    "kata sapaan",
+    "kata sepakat",
+    "kata serapan",
+    "kata seru",
+    "kata sifat",
+    "kata taktergolong",
+    "kata tambahan",
+    "kata tanya",
+    "kata transisi",
+    "kata tugas",
+    "kata turunan",
+    "kata ulang",
+    "kata wantahan"
+  ],
+  "peribahasa": [
+    "adapun kata ada pangkalnya; berkata-kata dengan lutut; bermalam di bawah nyiur pinang orang, kata orang diturut; bulat air oleh pembuluh, bulat kata oleh mufakat; elok kata dalam mufakat, buruk kata di luar mufakat; enak lauk dikunyah-kunyah, enak kata diperkatakan; enggan seribu daya, mau sepatah kata; gayung bersambut, kata berjawab; kata berjawab, gayung bersambut; kata dahulu bertepati, kata kemudian kata bercari; kata dahulu bertepati, kata kemudian kata bercari; tertumbuk biduk dikelokkan, tertumbuk kata dipikiri; tertumbuk biduk dikelokkan, tertumbuk kata dipikiri"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cerita, kisah, percakapan, diskusi, sebutan",
+    "kataAsal": "kathā"
+  },
+  "data": [
+    {
+      "lema": "ka.ta1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "unsur bahasa yang diucapkan atau dituliskan yang merupakan perwujudan kesatuan perasaan dan pikiran yang dapat digunakan dalam berbahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujar; bicara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "morfem atau kombinasi morfem yang oleh bahasawan dianggap sebagai satuan terkecil yang dapat diujarkan sebagai bentuk yang bebas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan bahasa yang dapat berdiri sendiri, terjadi dari morfem tunggal (misalnya batu, rumah, datang) atau gabungan morfem (misalnya pejuang, pancasila, mahakuasa)"
+        }
+      ]
+    }
+  ]
+}

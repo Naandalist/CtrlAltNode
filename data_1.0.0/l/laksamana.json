@@ -1,0 +1,33 @@
+{
+  "istilah": "laksamana",
+  "entri": "lak.sa.ma.na bentuk tidak baku: laksmana",
+  "bentukTidakBaku": "laksmana",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "laksamana besar TNI",
+    "laksamana madya TNI",
+    "laksamana muda TNI",
+    "laksamana pertama TNI"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tanda",
+    "kataAsal": "lakṣmaṇa"
+  },
+  "data": [
+    {
+      "lema": "lak.sa.ma.na bentuk tidak baku: laksmana",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok pangkat perwira tinggi dalam angkatan laut, meliputi laksamana besar TNI, laksamana TNI, laksamana madya TNI, laksamana muda TNI, dan laksamana pertama TNI; perwira tinggi (dalam angkatan laut)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkat perwira tinggi peringkat kedua dalam angkatan laut, setaraf dengan jenderal TNI dalam angkatan darat, atau marsekal dalam angkatan udara (tanda pangkatnya empat bintang emas di bahu baju)"
+        }
+      ]
+    }
+  ]
+}

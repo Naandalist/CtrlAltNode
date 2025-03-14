@@ -1,0 +1,45 @@
+{
+  "istilah": "kuti",
+  "entri": "ku.ti1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menguti",
+    "kuti-kuti"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.ti1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "cabik"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ti2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "cela"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ti3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bud[Agama Buddha: -]",
+          "deskripsi": "tempat tinggal para biksu dan biksuni di lingkungan wihara"
+        }
+      ]
+    }
+  ]
+}

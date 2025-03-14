@@ -1,0 +1,62 @@
+{
+  "istilah": "gandar",
+  "entri": "gan.dar1 bentuk tidak baku: kandar2",
+  "bentukTidakBaku": "kandar2",
+  "kataTurunan": [
+    "gandaran",
+    "menggandar",
+    "penggandar",
+    "gandaran",
+    "menggandar"
+  ],
+  "gabunganKata": [
+    "gandar mata",
+    "gandar poros"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gan.dar1 bentuk tidak baku: kandar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkat untuk memikul; pikulan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumbu; poros"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangkai timba sumur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangan (lengan) neraca (timbangan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "tongkat atau batang kayu untuk penggesek rebab"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangkai serampang  dari  kayu, bambu, atau rotan"
+        }
+      ]
+    },
+    {
+      "lema": "gan.dar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kendara"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "serep",
+  "entri": "se.rep /serêp/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berserep",
+    "menyerepi",
+    "menyerepkan",
+    "menyerepi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.rep /serêp/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persediaan untuk mengganti apabila ada yang perlu diganti (misalnya rusak, hilang); cadangan: mereka hanya membawa sebuah ban --"
+        }
+      ]
+    },
+    {
+      "lema": "se.rep1 /sêrêp/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ serap"
+        }
+      ]
+    },
+    {
+      "lema": "se.rep2 /sêrêp/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menyerepi"
+        }
+      ]
+    }
+  ]
+}

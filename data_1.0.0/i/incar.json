@@ -1,0 +1,39 @@
+{
+  "istilah": "incar",
+  "entri": "in.car1 bentuk tidak baku: incer",
+  "bentukTidakBaku": "incer",
+  "kataTurunan": [
+    "incaran",
+    "mengincar",
+    "pengincar",
+    "pengincaran",
+    "mengincar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "bor",
+    "kataAsal": "ín chhah"
+  },
+  "data": [
+    {
+      "lema": "in.car1 bentuk tidak baku: incer",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bidik"
+        }
+      ]
+    },
+    {
+      "lema": "in.car2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk membuat lubang pada kayu, besi, dan sebagainya; gurdi; bor (kecil); jara"
+        }
+      ]
+    }
+  ]
+}

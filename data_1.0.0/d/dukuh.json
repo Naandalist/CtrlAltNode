@@ -1,0 +1,46 @@
+{
+  "istilah": "dukuh",
+  "entri": "du.kuh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pedukuhan",
+    "perdukuhan",
+    "sedukuh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pertapaan di hutan",
+    "kataAsal": "ḍukuh"
+  },
+  "data": [
+    {
+      "lema": "du.kuh1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dusun atau kampung kecil; bagian dari desa"
+        }
+      ]
+    },
+    {
+      "lema": "du.kuh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang pekerjaannya menyembelih ternak (di Bali, Lombok)"
+        }
+      ]
+    },
+    {
+      "lema": "du.kuh3",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] Ri[Melayu Riau: -]",
+          "deskripsi": "kata sapaan untuk anak tunggal"
+        }
+      ]
+    }
+  ]
+}

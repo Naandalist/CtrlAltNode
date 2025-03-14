@@ -1,0 +1,48 @@
+{
+  "istilah": "lekas",
+  "entri": "le.kas1 /lêkas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlekas-lekas",
+    "berlekas-lekasan",
+    "lekas-lekas",
+    "melekaskan",
+    "memperlekas",
+    "selekas-lekasnya",
+    "selekasnya",
+    "melekas"
+  ],
+  "gabunganKata": [
+    "lekas hilang",
+    "lekas luruh",
+    "lekas mungkin"
+  ],
+  "peribahasa": [
+    "manis jangan lekas ditelan, pahit jangan lekas dimuntahkan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.kas1 /lêkas/",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "tidak berlama-lama; dalam waktu yang singkat; cepat; segera: kalau kita kerjakan beramai-ramai, pekerjaan ini -- selesai; ia -- marah"
+        }
+      ]
+    },
+    {
+      "lema": "le.kas2 /lêkas/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bl[Bali: -]",
+          "deskripsi": "melekas"
+        }
+      ]
+    }
+  ]
+}

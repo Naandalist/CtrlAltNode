@@ -1,0 +1,50 @@
+{
+  "istilah": "jenderal",
+  "entri": "jen.de.ral1 /jêndêral/bentuk tidak baku: jendral",
+  "bentukTidakBaku": "jendral",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jenderal besar TNI",
+    "jenderal lapangan",
+    "jenderal polisi",
+    "jenderal TNI"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jen.de.ral1 /jêndêral/bentuk tidak baku: jendral",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok pangkat perwira tinggi dalam angkatan darat yang meliputi jenderal besar TNI, jenderal TNI, letnan jenderal TNI, mayor jenderal TNI, dan brigadir jenderal TNI"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok pangkat perwira tinggi dalam kepolisian yang meliputi jenderal polisi, komisaris jenderal polisi, inspektur jenderal polisi, dan brigadir jenderal polisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkat perwira tinggi dalam angkatan darat, sepadan dengan laksamana TNI dalam angkatan laut atau marsekal TNI dalam angkatan udara (tanda pangkatnya empat bintang emas yang ditempatkan di bahu baju)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang yang paling berpengaruh (menentukan dan sebagainya) dalam organisasi"
+        }
+      ]
+    },
+    {
+      "lema": "jen.de.ral2 /jêndêral/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat keseluruhan: ada tiga orang perempuan, tiga orang anak-anak, dan dua orang laki-laki. Total --, ada delapan orang di rumah itu"
+        }
+      ]
+    }
+  ]
+}

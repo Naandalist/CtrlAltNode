@@ -1,0 +1,24 @@
+{
+  "istilah": "model pangkalan data",
+  "entri": "model1 » model pangkalan data",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "model1 » model pangkalan data",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "metode yang digunakan oleh sistem manajemen pangkalan data untuk mengatur struktur pangkalan data"
+        }
+      ]
+    }
+  ]
+}

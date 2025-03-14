@@ -1,0 +1,47 @@
+{
+  "istilah": "sukar",
+  "entri": "su.kar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesukaran",
+    "mempersukar",
+    "menyukarkan",
+    "tersukar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "mahal dibeli, sukar dijual (mahal tak dapat dibeli, murah tak dapat diminta); mudah juga pada yang ada, sukar jua pada yang tidak; sukar kaji pada orang alim, sukar uang pada orang kaya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sulit, tidak dapat dilaksanakan dengan mudah",
+    "kataAsal": "asukara"
+  },
+  "data": [
+    {
+      "lema": "su.kar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sulit dipecahkan atau diselesaikan; susah: hitungan ini -- benar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "muskil; tidak mudah: -- melafalkan huruf ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mudah mendapat; jarang ada: sekarang ini sedang -- mencari pekerjaan; -- bandingannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "dalam kekurangan; miskin: hidupnya selalu --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak mudah sembuh (tentang penyakit): penyakitnya terlalu --"
+        }
+      ]
+    }
+  ]
+}

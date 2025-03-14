@@ -1,0 +1,37 @@
+{
+  "istilah": "su",
+  "entri": "SU1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "SU1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "sarjana utama (gelar pendidikan setara magister yang sudah tidak digunakan lagi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "sidang umum"
+        }
+      ]
+    },
+    {
+      "lema": "SU2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Film[Perfilman: -] sing[singkatan]",
+          "deskripsi": "semua umur"
+        }
+      ]
+    }
+  ]
+}

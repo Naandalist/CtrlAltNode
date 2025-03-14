@@ -1,0 +1,35 @@
+{
+  "istilah": "jet",
+  "entri": "jet",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jet radial",
+    "jet siluman"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jet",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancaran gas (air, uap, dan sebagainya) dari lubang kecil yang menghasilkan tenaga dorong yang kuat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pesawat terbang bermesin yang digerakkan oleh tenaga pancaran gas; pesawat pancar gas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "pancaran zat alir termampatkan yang kuat dan berukuran tertentu yang keluar melalui lubang (mulut) kecil ataupun yang mengalir di dalam pipa yang sempit; semburan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "lamban",
+  "entri": "lam.ban1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelambanan",
+    "melambankan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lam.ban1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak cekatan (dalam bekerja dan sebagainya); tidak tangkas; lembam: tidak semua orang yang gemuk -- bekerja"
+        }
+      ]
+    },
+    {
+      "lema": "lam.ban2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "ujung kain yang dilipat berbentuk zig-zag dan dililitkan sehingga lipatannya berada di bagian depan tubuh"
+        }
+      ]
+    }
+  ]
+}

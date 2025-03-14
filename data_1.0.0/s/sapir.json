@@ -1,0 +1,42 @@
+{
+  "istilah": "sapir",
+  "entri": "sa.pir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.pir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "serdadu bagian zeni"
+        }
+      ]
+    },
+    {
+      "lema": "sa.pir2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ safir"
+        }
+      ]
+    },
+    {
+      "lema": "sa.pir3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ musafir"
+        }
+      ]
+    }
+  ]
+}

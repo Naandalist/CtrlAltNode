@@ -1,0 +1,49 @@
+{
+  "istilah": "produksi",
+  "entri": "pro.duk.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berproduksi",
+    "memproduksi",
+    "pemroduksi",
+    "pemroduksian"
+  ],
+  "gabunganKata": [
+    "produksi arus",
+    "produksi berat hidup",
+    "produksi bersih",
+    "produksi kotor",
+    "produksi massa",
+    "produksi pertanian",
+    "produksi primer",
+    "produksi susu",
+    "produksi telur",
+    "produksi telur per ekor",
+    "produksi ternak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.duk.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses mengeluarkan hasil; penghasilan: ongkos -- barang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil: buku itu merupakan --nya yang pertama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuatan: -- film itu menelan biaya cukup besar"
+        }
+      ]
+    }
+  ]
+}

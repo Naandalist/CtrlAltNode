@@ -1,0 +1,36 @@
+{
+  "istilah": "difusi",
+  "entri": "di.fu.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "difusi cahaya",
+    "difusi hukum",
+    "difusi leksikal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.fu.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "percampuran gas atau zat cair di luar daya mekanik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyebaran atau perembesan sesuatu (kebudayaan, teknologi, ide) dari satu pihak ke pihak lain; penghamburan; pemencaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pengaruh migrasi dan pengalihan pranata budaya melewati batas-batas bahasa, khususnya inovasi dan peminjaman"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "istilah": "sikap",
+  "entri": "si.kap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersikap",
+    "mensikapi",
+    "menyikapi",
+    "menyikap"
+  ],
+  "gabunganKata": [
+    "sikap asertif",
+    "sikap bahasa",
+    "sikap hidup",
+    "sikap istirahat",
+    "sikap penghormatan",
+    "sikap sempurna",
+    "sikap tubuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.kap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tokoh atau bentuk tubuh: --nya tegap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara berdiri (tegak, teratur, atau dipersiapkan untuk bertindak); kuda-kuda (tentang pencak dan sebagainya): hebat sekali --nya ketika akan mengucapkan sumpah; tepat sekali -- adik ketika menangkis pukulan itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan dan sebagainya yang berdasarkan pada pendirian, keyakinan: rakyat akan selalu mengutuk -- pemimpin-pemimpinnya yang kurang adil itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perilaku; gerak-gerik: --nya di panggung sangat berbeda dengan --nya sehari-hari"
+        }
+      ]
+    },
+    {
+      "lema": "si.kap2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sigap"
+        }
+      ]
+    },
+    {
+      "lema": "si.kap3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat burung"
+        }
+      ]
+    },
+    {
+      "lema": "si.kap4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat baju"
+        }
+      ]
+    },
+    {
+      "lema": "si.kap5",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "peluk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "joget",
+  "entri": "jo.get bentuk tidak baku: joged",
+  "bentukTidakBaku": "joged",
+  "kataTurunan": [
+    "berjoget",
+    "menjoget"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jo.get bentuk tidak baku: joged",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "tari (sebarang tarian)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "tarian dan lagu Melayu yang agak rancak iramanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "andak; ronggeng"
+        }
+      ]
+    }
+  ]
+}

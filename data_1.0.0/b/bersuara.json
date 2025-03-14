@@ -1,0 +1,36 @@
+{
+  "istilah": "bersuara",
+  "entri": "suara » ber.su.a.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "suara » ber.su.a.ra",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengeluarkan suara"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "turut menentukan sesuatu (dalam pemerintahan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mengemukakan pendapat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ling[Linguistik: -] ki[kiasan]",
+          "deskripsi": "dihasilkan dengan getaran pita suara, misalnya bunyi [b], [d], [g]"
+        }
+      ]
+    }
+  ]
+}

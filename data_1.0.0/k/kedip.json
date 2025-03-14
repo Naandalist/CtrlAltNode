@@ -1,0 +1,47 @@
+{
+  "istilah": "kedip",
+  "entri": "ke.dip1 /kêdip/bentuk tidak baku: kerdip, kersip",
+  "bentukTidakBaku": "kerdip, kersip",
+  "kataTurunan": [
+    "berkedap-kedip",
+    "berkedip",
+    "berkedip-kedip",
+    "kedipan",
+    "mengedip",
+    "mengedip-ngedipkan",
+    "mengedipkan",
+    "terkedip",
+    "terkedip-kedip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.dip1 /kêdip/bentuk tidak baku: kerdip, kersip",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerak kelopak mata (membuka dan menutup berganti-ganti); kejap: ia memberi isyarat dengan -- mata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerak nyala api dan sebagainya yang kecil (sebentar kelihatan padam, sebentar menyala lagi); kelip"
+        }
+      ]
+    },
+    {
+      "lema": "ke.dip2 /kêdip/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan waktu sebesar 10-5 atau 0,864 sekon"
+        }
+      ]
+    }
+  ]
+}

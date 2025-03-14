@@ -1,0 +1,30 @@
+{
+  "istilah": "maknawi",
+  "entri": "mak.na.wi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemaknawian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "berkenaan dengan makna",
+    "kataAsal": "ma‘nawī"
+  },
+  "data": [
+    {
+      "lema": "mak.na.wi",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengenai makna; berkenaan dengan makna; menurut artinya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "asasi; penting"
+        }
+      ]
+    }
+  ]
+}

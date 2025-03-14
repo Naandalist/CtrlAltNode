@@ -1,0 +1,33 @@
+{
+  "istilah": "bidat",
+  "entri": "bi.dat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.dat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "limbah terakhir dari pengolahan sagu, berbentuk seperti serabut, dapat dijadikan pakan ternak: ambilkan sedikit -- itu untuk pakan ternak sore nanti"
+        }
+      ]
+    },
+    {
+      "lema": "bi.dat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "persekutuan kecil Kristen yang dengan sengaja memisahkan diri dari gereja besar dan mengembangkan doktrin baru yang bertentangan dengan doktrin esensial; bidah"
+        }
+      ]
+    }
+  ]
+}

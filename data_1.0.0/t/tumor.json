@@ -1,0 +1,30 @@
+{
+  "istilah": "tumor",
+  "entri": "tu.mor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tumor pituitari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.mor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pembengkakan jaringan tubuh karena ketidaknormalan kondisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "bengkak sebagai akibat dari radang; tumbuh ganda"
+        }
+      ]
+    }
+  ]
+}

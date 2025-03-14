@@ -1,0 +1,37 @@
+{
+  "istilah": "berkutu",
+  "entri": "kutu1 » ber.ku.tu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kutu1 » ber.ku.tu",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai kutu: rambutnya ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencari kutu di kepala; menyelisik kepala sendiri"
+        }
+      ]
+    },
+    {
+      "lema": "kutu2 » ber.ku.tu",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "berkumpul; berserikat; bersekutu"
+        }
+      ]
+    }
+  ]
+}

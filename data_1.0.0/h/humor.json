@@ -1,0 +1,40 @@
+{
+  "istilah": "humor",
+  "entri": "hu.mor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhumor",
+    "pehumor"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hu.mor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang lucu: ia mempunyai rasa --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan (dalam cerita dan sebagainya) yang menggelikan hati; kejenakaan; kelucuan"
+        }
+      ]
+    },
+    {
+      "lema": "hu.mor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan atau zat setengah cair dalam tubuh"
+        }
+      ]
+    }
+  ]
+}

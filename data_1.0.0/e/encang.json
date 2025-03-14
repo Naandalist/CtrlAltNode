@@ -1,0 +1,45 @@
+{
+  "istilah": "encang",
+  "entri": "en.cang1 /êncang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengencang",
+    "mengencang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.cang1 /êncang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "injak"
+        }
+      ]
+    },
+    {
+      "lema": "en.cang2 /êncang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pukul"
+        }
+      ]
+    },
+    {
+      "lema": "en.cang3 /êncang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kakak dari ibu atau bapak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "isi ulang",
+  "entri": "i.si u.lang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.si u.lang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengisi kembali: -- token listrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "produk yang digunakan untuk mengisi kembali persediaan bahan dalam suatu wadah yang sudah habis: sabun --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang disediakan kembali, misalnya minuman di rumah makan: es teh --"
+        }
+      ]
+    }
+  ]
+}

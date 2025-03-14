@@ -1,0 +1,37 @@
+{
+  "istilah": "mengoyak",
+  "entri": "koyak » me.ngo.yak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "koyak » me.ngo.yak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencabik"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memecah(kan); mengganggu: suara ledakan dahsyat tiba-tiba ~ kesunyian malam"
+        }
+      ]
+    },
+    {
+      "lema": "oyak2 » meng.o.yak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengejar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "kata leksikal",
+  "entri": "kata1 » kata leksikal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kata1 » kata leksikal",
+      "arti": [
+        {
+          "kelas_kata": "Ling[Linguistik: -]",
+          "deskripsi": "satuan bahasa yang dianggap satuan terkecil dan menjadi unsur dari leksikon suatu bahasa, dan umumnya diterangkan dalam kamus sebagai entri"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "istilah": "mayang",
+  "entri": "ma.yang2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermayang",
+    "semayang",
+    "pemayang"
+  ],
+  "gabunganKata": [
+    "mayang mekar",
+    "mayang mengurai",
+    "mayang sondek"
+  ],
+  "peribahasa": [
+    "mayang menolak seludang; seludang menolakkan mayang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.yang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkol bunga palem (kelapa, enau, pinang, dan sebagainya yang terbungkus seludang)"
+        }
+      ]
+    },
+    {
+      "lema": "ma.yang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu layar untuk menangkap ikan di laut yang dibuat dari kayu, berlayar, bertiang satu atau lebih (biasanya dengan menggunakan jaring atau pukat); perahu pukat; perahu mayang"
+        }
+      ]
+    },
+    {
+      "lema": "Ma.yang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "Virgo; Kanya; Sunbulat"
+        }
+      ]
+    }
+  ]
+}

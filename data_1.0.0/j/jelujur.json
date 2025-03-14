@@ -1,0 +1,39 @@
+{
+  "istilah": "jelujur",
+  "entri": "je.lu.jur1 /jêlujur/bentuk tidak baku: delujur",
+  "bentukTidakBaku": "delujur",
+  "kataTurunan": [
+    "jelujuran",
+    "menjelujur",
+    "menjelujuri"
+  ],
+  "gabunganKata": [
+    "jelujur penanda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.lu.jur1 /jêlujur/bentuk tidak baku: delujur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jahit dengan jarak jarang"
+        }
+      ]
+    },
+    {
+      "lema": "je.lu.jur2 /jêlujur/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu (bambu) yang dipasang mendatar sebagai penutup pintu kandang (pagar dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "olahraga",
+  "entri": "o.lah.ra.ga bentuk tidak baku: olah raga",
+  "bentukTidakBaku": "olah raga",
+  "kataTurunan": [
+    "berolahraga",
+    "keolahragaan",
+    "memberolahragakan",
+    "mengolahragakan",
+    "peolahraga"
+  ],
+  "gabunganKata": [
+    "olahraga bela diri",
+    "olahraga berkuda",
+    "olahraga bersepeda",
+    "olahraga demonstrasi",
+    "olahraga dirgantara",
+    "olahraga ekshibisi",
+    "olahraga elektronik",
+    "olahraga kardio",
+    "olahraga memanah",
+    "olahraga menembak",
+    "olahraga ski",
+    "olahraga tarung",
+    "olahraga udara",
+    "olahraga uji"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "warna, nada, harmoni, lagu, corak, melodi; nafsu, gairah; badan",
+    "kataAsal": "rāga"
+  },
+  "data": [
+    {
+      "lema": "o.lah.ra.ga bentuk tidak baku: olah raga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aktivitas (gerak badan, kegiatan) yang memerlukan ketangkasan, kemahiran, atau tenaga (seperti sepak bola, berenang, catur, lempar lembing) yang dilakukan untuk menguatkan dan menyehatkan tubuh atau sebagai acara permainan, pertandingan, dan sebagainya"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "aktivitas yang melibatkan fisik dan keterampilan dari individu atau tim, dilakukan untuk hiburan"
+        }
+      ]
+    }
+  ]
+}

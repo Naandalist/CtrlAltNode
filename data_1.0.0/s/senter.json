@@ -1,0 +1,40 @@
+{
+  "istilah": "senter",
+  "entri": "sen.ter1 /sentêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersenter",
+    "menyenteri"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.ter1 /sentêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menerangi gelap, berupa tabung dengan bola lampu kecil di ujungnya, yang tertutup kaca dan baterai untuk menyalakannya; lampu senter"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lampu yang dapat menyorotkan sinar jauh-jauh; lampu corong: gambar -- [1] gambar bayangan pada lampu yang tidak bergerak [2] gambar sorot"
+        }
+      ]
+    },
+    {
+      "lema": "sen.ter2 /sentêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pusat; tengah; sentral"
+        }
+      ]
+    }
+  ]
+}

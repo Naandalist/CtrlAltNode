@@ -1,0 +1,44 @@
+{
+  "istilah": "rantus",
+  "entri": "ran.tus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "harapan tak putus sampai jerat tersentak rantus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ran.tus1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "putus; rantas"
+        }
+      ]
+    },
+    {
+      "lema": "ran.tus2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "terjangkit penyakit; tertulari"
+        }
+      ]
+    },
+    {
+      "lema": "ran.tus3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "rancangan keputusan"
+        }
+      ]
+    }
+  ]
+}

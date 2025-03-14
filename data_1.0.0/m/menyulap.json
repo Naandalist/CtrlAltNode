@@ -1,0 +1,36 @@
+{
+  "istilah": "menyulap",
+  "entri": "sulap1 » me.nyu.lap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sulap1 » me.nyu.lap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengubah rupa barang dan sebagainya dengan cara yang ajaib; bermain sulap: sejak umur dua belas tahun, ia sudah belajar ~; ia ~ kertas menjadi saputangan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mengubah sesuatu dengan cepat: pengusaha itu ~ 25 ha tanah kering menjadi kebun cengkih"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menggelapkan (uang, barang, dan sebagainya): ia telah ~ uang perkumpulan kita"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memalsukan: ia ~ surat jalan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "sitasi",
+  "entri": "si.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kutipan"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "referensi dalam sebuah karya ilmiah ke tulisan lain yang diambil dari buku, makalah, atau sumber lain"
+        }
+      ]
+    }
+  ]
+}

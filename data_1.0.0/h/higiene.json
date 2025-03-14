@@ -1,0 +1,32 @@
+{
+  "istilah": "higiene",
+  "entri": "hi.gi.e.ne /higienê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "higiene mental",
+    "higiene pangan",
+    "higiene sanitasi makanan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.gi.e.ne /higienê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang kesehatan dan berbagai usaha untuk mempertahankan atau memperbaiki kesehatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "praktik atau prinsip kebersihan: -- kerja"
+        }
+      ]
+    }
+  ]
+}

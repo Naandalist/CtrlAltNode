@@ -1,0 +1,51 @@
+{
+  "istilah": "kedut",
+  "entri": "ke.dut1 /kêdut/",
+  "bentukTidakBaku": "kerdut",
+  "kataTurunan": [
+    "berkedut",
+    "kedutan",
+    "mengedut",
+    "mengedutkan",
+    "mengedut",
+    "berkedut",
+    "berkedut-kedut",
+    "kedutan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gigil, gemetar, berkejang (khususnya tentang syaraf)",
+    "kataAsal": "kědut"
+  },
+  "data": [
+    {
+      "lema": "ke.dut1 /kêdut/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lipatan pada kulit, kain, dan sebagainya; renyuk-renyuk (pada kertas dan sebagainya); kerut"
+        }
+      ]
+    },
+    {
+      "lema": "ke.dut2 /kêdut/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "renggut; rebut"
+        }
+      ]
+    },
+    {
+      "lema": "ke.dut3 /kêdut/bentuk tidak baku: kerdut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerak jaringan karena tarikan urat"
+        }
+      ]
+    }
+  ]
+}

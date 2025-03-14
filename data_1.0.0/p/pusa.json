@@ -1,0 +1,54 @@
+{
+  "istilah": "pusa",
+  "entri": "pu.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pusa linear",
+    "pusa sudut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.sa1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ puso"
+        }
+      ]
+    },
+    {
+      "lema": "pu.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dorongan (desakan, keinginan) hati"
+        }
+      ]
+    },
+    {
+      "lema": "pu.sa3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "besaran yang berkaitan dengan benda yang besarnya sama dengan hasil kali (darab) massa benda yang bergerak itu dan kecepatan geraknya; momentum"
+        }
+      ]
+    },
+    {
+      "lema": "pu.sa4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mks[Makassar: -]",
+          "deskripsi": "keranjang dari daun lontar yang dianyam untuk menyimpan garam yang dibawa oleh nelayan"
+        }
+      ]
+    }
+  ]
+}

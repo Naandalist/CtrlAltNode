@@ -1,0 +1,51 @@
+{
+  "istilah": "kotok",
+  "entri": "ko.tok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.tok1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat jawer"
+        }
+      ]
+    },
+    {
+      "lema": "ko.tok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tahi ayam"
+        }
+      ]
+    },
+    {
+      "lema": "ko.tok3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kotong"
+        }
+      ]
+    },
+    {
+      "lema": "ko.tok4",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "rabun senja; buta ayam"
+        }
+      ]
+    }
+  ]
+}

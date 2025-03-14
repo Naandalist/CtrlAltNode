@@ -1,0 +1,42 @@
+{
+  "istilah": "kelenteng",
+  "entri": "ke.len.teng /kêlenteng/bentuk tidak baku: klenteng",
+  "bentukTidakBaku": "klentengklentengklenteng",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kuil Dewi Kwan Im",
+    "kataAsal": "koan im têng"
+  },
+  "data": [
+    {
+      "lema": "ke.len.teng /kêlenteng/bentuk tidak baku: klenteng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi lonceng dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ke.len.teng /kêlêntèng/bentuk tidak baku: klenteng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan tempat memuja (berdoa, bersembahyang) dan melakukan upacara keagamaan bagi penganut Konghucu"
+        }
+      ]
+    },
+    {
+      "lema": "ke.len.teng /kêlêntêng/bentuk tidak baku: klenteng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "biji buah randu (kapuk)"
+        }
+      ]
+    }
+  ]
+}

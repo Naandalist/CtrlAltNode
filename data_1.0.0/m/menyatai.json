@@ -1,0 +1,37 @@
+{
+  "istilah": "menyatai",
+  "entri": "satai1 » me.nya.tai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "satai1 » me.nya.tai",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuat satai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "makan satai"
+        }
+      ]
+    },
+    {
+      "lema": "satai2 » me.nya.tai",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempersatai"
+        }
+      ]
+    }
+  ]
+}

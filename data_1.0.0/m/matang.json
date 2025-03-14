@@ -1,0 +1,55 @@
+{
+  "istilah": "matang",
+  "entri": "ma.tang1 bentuk tidak baku: mateng",
+  "bentukTidakBaku": "mateng",
+  "kataTurunan": [
+    "kematangan",
+    "mematangkan",
+    "pematangan"
+  ],
+  "gabunganKata": [
+    "matang sempurna"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "masak",
+    "kataAsal": "matěṅ"
+  },
+  "data": [
+    {
+      "lema": "ma.tang1 bentuk tidak baku: mateng",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah tua dan sudah sampai waktunya untuk dipetik, dimakan, dan sebagainya (tentang buah-buahan); masak: mangganya dibiarkan -- di pohon"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah empuk (kering dan sebagainya) dan sudah sampai waktunya untuk diambil, diangkat, dan sebagainya (tentang makanan); masak: ubi yang direbus itu sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah dipikirkan (dipertimbangkan) baik-baik; sudah diputuskan (disetujui bersama); sudah sempurna atau sudah pada tingkatan yang terbaik (terakhir): memerlukan pertimbangan yang --; rencana yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mulai dewasa (tentang perkembangan manusia secara fisik dan psikologis)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sudah selesai dikerjakan (dididik, disiapkan, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ma.tang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "tanah tinggi yang letaknya di tengah-tengah daerah datar atau berpaya-paya"
+        }
+      ]
+    }
+  ]
+}

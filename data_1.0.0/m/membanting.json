@@ -1,0 +1,42 @@
+{
+  "istilah": "membanting",
+  "entri": "banting1 » mem.ban.ting",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "membanting cucian",
+    "membanting harga",
+    "membanting kaki",
+    "membanting setir",
+    "membanting tulang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "banting1 » mem.ban.ting",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memukul keras-keras (tentang ombak dan sebagainya); mengempas: ombak ~ ke pantai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjatuhkan (mencampakkan) kuat-kuat ke bawah; mengempaskan; membantingkan: ia ~ tikus itu sampai mati"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berguncang keras: mobil yang terlalu keras bannya dan sedikit muatannya tentu ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "membelokkan; membuang ke kiri atau ke kanan (tentang setir mobil): ia ~ setir mobilnya agar tidak terjadi kecelakaan"
+        }
+      ]
+    }
+  ]
+}

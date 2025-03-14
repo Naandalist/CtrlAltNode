@@ -1,0 +1,33 @@
+{
+  "istilah": "redum",
+  "entri": "re.dum1 /rêdum/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.dum1 /rêdum/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi benda besar jatuh ke air"
+        }
+      ]
+    },
+    {
+      "lema": "re.dum2 /rêdum/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "suram; redup; mendung; redam"
+        }
+      ]
+    }
+  ]
+}

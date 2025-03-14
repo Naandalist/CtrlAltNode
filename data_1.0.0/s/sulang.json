@@ -1,0 +1,39 @@
+{
+  "istilah": "sulang",
+  "entri": "su.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersulang-sulangan",
+    "menyulang",
+    "menyulangi",
+    "menyulangkan",
+    "sulang-menyulang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.lang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyulang"
+        }
+      ]
+    },
+    {
+      "lema": "su.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asap lampu yang hitam yang menimbulkan jelaga"
+        }
+      ]
+    }
+  ]
+}

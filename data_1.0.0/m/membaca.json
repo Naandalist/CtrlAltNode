@@ -1,0 +1,48 @@
+{
+  "istilah": "membaca",
+  "entri": "baca » mem.ba.ca",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "membaca bahasa",
+    "membaca batin",
+    "membaca bibir",
+    "membaca cepat",
+    "membaca dalam hati",
+    "membaca pikiran",
+    "membaca teknis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "baca » mem.ba.ca",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melihat serta memahami isi apa yang tertulis (dengan melisankan atau hanya dalam hati): dia jangan diganggu, karena sedang ~ buku"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengeja atau melafalkan apa yang tertulis"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengucapkan: ~ doa; ~ mantra"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengetahui; meramalkan: ia dapat ~ suratan tangan (garis-garis pada telapak tangan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memperhitungkan; memahami: seorang pemain yang baik harus pandai ~ permainan lawan"
+        }
+      ]
+    }
+  ]
+}

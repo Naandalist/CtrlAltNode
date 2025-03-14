@@ -1,0 +1,28 @@
+{
+  "istilah": "syafaat",
+  "entri": "sya.fa.at bentuk tidak baku: safaat, syapaat, syufaat",
+  "bentukTidakBaku": "safaat, syapaat, syufaat",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "permohonan; pertolongan kepada orang saleh untuk meringankan azab atau beban seseorang di akhirat",
+    "kataAsal": "syafā‘at"
+  },
+  "data": [
+    {
+      "lema": "sya.fa.at bentuk tidak baku: safaat, syapaat, syufaat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perantaraan (pertolongan) untuk menyampaikan permohonan (kepada Allah): segala permintaannya telah dikabulkan oleh Allah Swt. dengan -- Nabi Muhammad saw."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pertolongan yang, antara lain, diberikan oleh malaikat, para nabi, atau orang-orang mukmin pilihan atas izin Allah Swt.  untuk meringankan azab atau beban seseorang di akhirat"
+        }
+      ]
+    }
+  ]
+}

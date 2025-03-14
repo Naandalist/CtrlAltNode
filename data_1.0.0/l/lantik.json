@@ -1,0 +1,42 @@
+{
+  "istilah": "lantik",
+  "entri": "lan.tik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melantik",
+    "pelantik",
+    "pelantikan",
+    "terlantik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.tik1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melantik"
+        }
+      ]
+    },
+    {
+      "lema": "lan.tik2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "bengkok"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "lentik"
+        }
+      ]
+    }
+  ]
+}

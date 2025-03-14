@@ -1,0 +1,36 @@
+{
+  "istilah": "habitus",
+  "entri": "ha.bi.tus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.bi.tus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lt[Latin: -]",
+          "deskripsi": "bentuk badan; perawakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sos[Sosiologi: -] Sos[Sosiologi]",
+          "deskripsi": "gaya hidup, nilai, kecenderungan, dan harapan kelompok sosial tertentu yang diperoleh melalui kegiatan dan pengalaman kehidupan sehari-hari: seorang pendidik seharusnya mempunyai -- membaca, menulis, dan berdiskusi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecenderungan untuk bertindak dengan cara tertentu yang diperoleh dengan pengulangan tindakan yang sama sampai menjadi kebiasaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "karakteristik praktik yang bersifat instingtif pada hewan atau kecenderungan alamiah pada tumbuhan"
+        }
+      ]
+    }
+  ]
+}

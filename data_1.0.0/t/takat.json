@@ -1,0 +1,46 @@
+{
+  "istilah": "takat",
+  "entri": "ta.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "setakat"
+  ],
+  "gabunganKata": [
+    "takat layu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.kat1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "setakat"
+        }
+      ]
+    },
+    {
+      "lema": "ta.kat2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tahan menderita sakit (tidak mudah atau tidak lekas mati)"
+        }
+      ]
+    },
+    {
+      "lema": "ta.kat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "tumpukan pasir di tengah laut yang hampir menjadi pulau"
+        }
+      ]
+    }
+  ]
+}

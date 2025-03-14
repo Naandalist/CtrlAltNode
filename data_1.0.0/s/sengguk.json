@@ -1,0 +1,39 @@
+{
+  "istilah": "sengguk",
+  "entri": "seng.guk1 /sêngguk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyengguk",
+    "tersengguk",
+    "tersengguk-sengguk",
+    "sesengguk-sengguk",
+    "sesenggukan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "seng.guk1 /sêngguk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyengguk"
+        }
+      ]
+    },
+    {
+      "lema": "seng.guk2 /sêngguk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "sesenggukan"
+        }
+      ]
+    }
+  ]
+}

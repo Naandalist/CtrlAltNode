@@ -1,0 +1,33 @@
+{
+  "istilah": "rel",
+  "entri": "rel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "rel ganda",
+    "rel gerigi",
+    "rel geser",
+    "rel tunggal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "besi batang untuk landasan jalan kereta api (trem dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang lurus (baik dan sebagainya); aturan (kebiasaan umum): tingkah lakunya sudah di luar --"
+        }
+      ]
+    }
+  ]
+}

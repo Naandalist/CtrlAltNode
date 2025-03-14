@@ -1,0 +1,32 @@
+{
+  "istilah": "purnama",
+  "entri": "pur.na.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "purnama penuh",
+    "purnama raya",
+    "purnama sidi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "purnama",
+    "kataAsal": "pūrṇamā"
+  },
+  "data": [
+    {
+      "lema": "pur.na.ma",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "saat bulan bundar benar (tanggal 15 bulan Kamariah): di bawah sinar bulan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bulan (30 atau 31 hari): sudah beberapa -- mereka berlayar, tetapi belum juga kembali"
+        }
+      ]
+    }
+  ]
+}

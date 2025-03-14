@@ -1,0 +1,39 @@
+{
+  "istilah": "geruh",
+  "entri": "ge.ruh1 /gêruh/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "geruh-gerah",
+    "kegeruhan",
+    "menggeruh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "geruh tak mencium bau"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.ruh1 /gêruh/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "celaka; malang; nasib buruk; sial: -- dia kena peluru menyasar"
+        }
+      ]
+    },
+    {
+      "lema": "ge.ruh2 /gêruh/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dengkur"
+        }
+      ]
+    }
+  ]
+}

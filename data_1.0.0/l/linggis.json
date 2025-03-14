@@ -1,0 +1,36 @@
+{
+  "istilah": "linggis",
+  "entri": "ling.gis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melinggis",
+    "linggisan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "liṅgis"
+  },
+  "data": [
+    {
+      "lema": "ling.gis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepotong besi yang tajam ujungnya (untuk menggali tanah yang keras, membelah batu, dan sebagainya); perejang; alabangka"
+        }
+      ]
+    },
+    {
+      "lema": "ling.gis2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "linggisan"
+        }
+      ]
+    }
+  ]
+}

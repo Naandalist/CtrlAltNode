@@ -1,0 +1,52 @@
+{
+  "istilah": "jamu",
+  "entri": "ja.mu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jejamu",
+    "berjamu",
+    "jamuan",
+    "memperjamu",
+    "menjamu",
+    "menjamukan",
+    "penjamuan",
+    "perjamuan"
+  ],
+  "gabunganKata": [
+    "jamu bersalin",
+    "jamu gendong",
+    "jamu godokan",
+    "jamu jawa",
+    "jamu pembasuh negeri",
+    "jamu rebusan",
+    "jamu sukut"
+  ],
+  "peribahasa": [
+    "makan sudah terhidang, jamu belum jua datang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.mu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat tradisional yang dibuat dari akar-akaran, daun-daunan, dan sebagainya yang digunakan dengan cara diminum"
+        }
+      ]
+    },
+    {
+      "lema": "ja.mu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang datang berkunjung (bertandang, melawat, dan sebagainya); (te)tamu"
+        }
+      ]
+    }
+  ]
+}

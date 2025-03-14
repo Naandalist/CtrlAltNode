@@ -1,0 +1,33 @@
+{
+  "istilah": "griya",
+  "entri": "gri.ya",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "griya kinarya",
+    "griya produksi",
+    "griya rehabilitasi",
+    "griya tawang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bangunan rumah, candi, habitat",
+    "kataAsal": "gṛha"
+  },
+  "data": [
+    {
+      "lema": "gri.ya",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan tempat tinggal; rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kompleks perumahan; permukiman"
+        }
+      ]
+    }
+  ]
+}

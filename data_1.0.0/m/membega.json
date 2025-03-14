@@ -1,0 +1,33 @@
+{
+  "istilah": "membega",
+  "entri": "bega1 » mem.be.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bega1 » mem.be.ga",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbega"
+        }
+      ]
+    },
+    {
+      "lema": "bega2 » mem.be.ga",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membidik"
+        }
+      ]
+    }
+  ]
+}

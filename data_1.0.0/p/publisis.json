@@ -1,0 +1,28 @@
+{
+  "istilah": "publisis",
+  "entri": "pub.li.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pub.li.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli dalam bidang publikasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyiar berita; wartawan: hari depan para -- sangat cerah"
+        }
+      ]
+    }
+  ]
+}

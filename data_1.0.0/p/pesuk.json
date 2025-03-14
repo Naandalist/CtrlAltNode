@@ -1,0 +1,33 @@
+{
+  "istilah": "pesuk",
+  "entri": "pe.suk /pêsuk/bentuk tidak baku: pesok",
+  "bentukTidakBaku": "pesok",
+  "kataTurunan": [
+    "berpesuk-pesuk",
+    "memesukkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "mengegungkan gung pesuk; mengisi gantang pesuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.suk /pêsuk/bentuk tidak baku: pesok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lekuk (pada topi dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

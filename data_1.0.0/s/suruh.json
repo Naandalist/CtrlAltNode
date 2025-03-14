@@ -1,0 +1,42 @@
+{
+  "istilah": "suruh",
+  "entri": "su.ruh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyuruh",
+    "menyuruhkan",
+    "penyuruh",
+    "pesuruh",
+    "suruh-suruhan",
+    "suruhan"
+  ],
+  "gabunganKata": [
+    "suruh dan tegah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "daun sirih",
+    "kataAsal": "suruh"
+  },
+  "data": [
+    {
+      "lema": "su.ruh1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perintah (supaya melakukan sesuatu)"
+        }
+      ]
+    },
+    {
+      "lema": "su.ruh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sirih"
+        }
+      ]
+    }
+  ]
+}

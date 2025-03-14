@@ -1,0 +1,33 @@
+{
+  "istilah": "maria",
+  "entri": "ma.ri.a1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.ri.a1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mare"
+        }
+      ]
+    },
+    {
+      "lema": "Ma.ri.a2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "ibu dari Yesus, dikenal sebagai Perawan Maria, Bunda Maria, atau Santa Maria, menurut Injil merupakan seorang perawan yang mengandung Yesus dengan kuasa Roh Kudus"
+        }
+      ]
+    }
+  ]
+}

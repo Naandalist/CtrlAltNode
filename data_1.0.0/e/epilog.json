@@ -1,0 +1,32 @@
+{
+  "istilah": "epilog",
+  "entri": "e.pi.log",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.pi.log",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "bagian penutup pada karya sastra, yang fungsinya menyampaikan inti sari cerita atau menafsirkan maksud karya itu oleh seorang aktor pada akhir cerita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "pidato singkat pada akhir drama yang memuat komentar tentang apa yang dilakonkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "peristiwa terakhir yang menyelesaikan peristiwa induk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "istilah": "um",
+  "entri": "um1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "induk; ibu",
+    "kataAsal": "umm"
+  },
+  "data": [
+    {
+      "lema": "um1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ibu"
+        }
+      ]
+    },
+    {
+      "lema": "um2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dn[Dani: Bahasa di Papua]",
+          "deskripsi": "telur udang"
+        }
+      ]
+    },
+    {
+      "lema": "UM1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Universitas Negeri Malang"
+        }
+      ]
+    },
+    {
+      "lema": "UM2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Terb[Penerbangan: -] sing[singkatan]",
+          "deskripsi": "penumpang anak (berusia 6-12 tahun) yang bepergian menggunakan pesawat tanpa didampingi oleh orang dewasa; dari unaccompanied minor"
+        }
+      ]
+    }
+  ]
+}

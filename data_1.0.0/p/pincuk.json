@@ -1,0 +1,45 @@
+{
+  "istilah": "pincuk",
+  "entri": "pin.cuk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepincuk",
+    "memincuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pin.cuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rujak buah (dengan gula, lombok, belacan, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "pin.cuk2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pikat2"
+        }
+      ]
+    },
+    {
+      "lema": "pin.cuk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah (rujak, gado-gado, dan sebagainya) dari daun pisang yang dilipat dan disemat dengan lidi sehingga membentuk lekukan: satu -- pecel harganya lima ribu rupiah"
+        }
+      ]
+    }
+  ]
+}

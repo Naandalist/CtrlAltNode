@@ -1,0 +1,33 @@
+{
+  "istilah": "lepok",
+  "entri": "le.pok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.pok1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "salah lipat (baju dan sebagainya): baju itu --"
+        }
+      ]
+    },
+    {
+      "lema": "le.pok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "luka bakar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "genetika",
+  "entri": "ge.ne.ti.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "genetika perilaku",
+    "genetika populasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.ne.ti.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabang biologi yang membahas sifat turun-temurun organisme"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susunan genetik suatu organisme"
+        }
+      ]
+    }
+  ]
+}

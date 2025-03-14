@@ -1,0 +1,46 @@
+{
+  "istilah": "kuras",
+  "entri": "ku.ras1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menguras",
+    "pengurasan",
+    "terkuras"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kumpulan kertas yang disiapkan untuk menulis",
+    "kataAsal": "kurrās"
+  },
+  "data": [
+    {
+      "lema": "ku.ras1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "kertas yang telah dicetak dan sudah dilipat sedikitnya dua kali, merupakan bagian dari buku, biasanya terdapat huruf atau angka pada bagian bawah halaman pertama sebagai pedoman bagi penjilidan"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ras2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersihkan dengan air"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ras3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan yang berbatang besar dan lurus, kulit kayunya berwara abu-abu keungu-unguan, kayunya dapat digunakan sebagai kapur dan daunnya dapat dijadikan ulam, terdapat di Sumatra, Kalimantan, dan Semenanjung Malaya〔Dryobalanops oblongifolia〕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "kata dasar",
+  "entri": "kata1 » kata dasar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kata1 » kata dasar",
+      "arti": [
+        {
+          "kelas_kata": "Ling[Linguistik: -]",
+          "deskripsi": "kata-kata yang menjadi dasar bentukan kata yang lebih besar, misalnya jual menjadi dasar bentuk jualan kata jualan menjadi dasar bentukan kata berjualan"
+        }
+      ]
+    }
+  ]
+}

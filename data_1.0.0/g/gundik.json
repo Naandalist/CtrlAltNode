@@ -1,0 +1,34 @@
+{
+  "istilah": "gundik",
+  "entri": "gun.dik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mempergundik",
+    "mempergundikkan",
+    "pergundikan"
+  ],
+  "gabunganKata": [
+    "gundik candik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pembantu perempuan",
+    "kataAsal": "guṇḍik"
+  },
+  "data": [
+    {
+      "lema": "gun.dik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "istri tidak resmi; selir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perempuan piaraan (bini gelap)"
+        }
+      ]
+    }
+  ]
+}

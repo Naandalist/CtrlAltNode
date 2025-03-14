@@ -1,0 +1,28 @@
+{
+  "istilah": "buku besar",
+  "entri": "buku1 » buku besar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buku1 » buku besar",
+      "arti": [
+        {
+          "kelas_kata": "Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "kumpulan prakiraan yang digunakan oleh sebuah perusahaan untuk mencatat transaksi yang telah dilakukannya"
+        },
+        {
+          "kelas_kata": "Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "buku yang digunakan untuk mencatat segala perkiraan"
+        }
+      ]
+    }
+  ]
+}

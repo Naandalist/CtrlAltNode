@@ -1,0 +1,80 @@
+{
+  "istilah": "hujan",
+  "entri": "hu.jan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhujan",
+    "berhujan-hujan",
+    "hujan-hujanan",
+    "kehujanan",
+    "memperhujankan",
+    "menghujan",
+    "menghujan-hujankan",
+    "menghujani",
+    "menghujankan"
+  ],
+  "gabunganKata": [
+    "hujan abu",
+    "hujan air mata",
+    "hujan asam",
+    "hujan badai",
+    "hujan batu",
+    "hujan beku",
+    "hujan buatan",
+    "hujan bubuk",
+    "hujan curah",
+    "hujan curah massa udara",
+    "hujan darah",
+    "hujan deras",
+    "hujan ekuinoks",
+    "hujan es",
+    "hujan gerimis",
+    "hujan halau mentua",
+    "hujan kuning",
+    "hujan lalu",
+    "hujan lari",
+    "hujan lebat",
+    "hujan lokal",
+    "hujan lumpur",
+    "hujan merah",
+    "hujan meteor",
+    "hujan musiman",
+    "hujan poyan",
+    "hujan renyai",
+    "hujan ringan",
+    "hujan rintik-rintik",
+    "hujan salju",
+    "hujan setempat",
+    "hujan silantang",
+    "hujan suri",
+    "hujan susulan",
+    "hujan terpencar"
+  ],
+  "peribahasa": [
+    "ada angin, ada pohonnya (hujan berpohon, panas berasal); ada hujan ada panas, ada hari boleh balas; bumi mana yang tak kena hujan; disangka panas sampai petang, kiranya hujan tengah hari; emping terserak hari hujan; emping terserak hari hujan; hilang kabus, teduh hujan; hinggap bak langau, titik bak hujan; hujan berbalik ke langit; hujan berpohon, panas berasal; hujan emas di negeri orang, hujan batu di negeri sendiri, baik jua di negeri sendiri; hujan jatuh ke pasir; hujan keris lembing di negeri kita, hujan emas perak di negeri orang, baik jua di negeri kita; hujan menimpa bumi; hujan panas permainan hari, senang susah permainan hidup; hujan tak sekali jatuh, simpai tak sekali erat; hujan tempat berteduh, panas tempat berlindung; ke mana tumpah hujan dari bubungan, kalau tidak ke cucuran atap; laksana jentayu menantikan hujan; laut mana yang tak berombak, bumi mana yang tak ditimpa hujan; panas setahun dihapuskan oleh hujan sehari; pucuk layu disiram hujan; sedia payung sebelum hujan; sedikit hujan banyak yang basah; selama hujan, akan panas jua; tak lapuk di hujan, tak lekang di panas; tak lekang oleh panas, tak lapuk oleh hujan; tak lekang oleh panas, tak lapuk oleh hujan; tampak gabak di hulu (gabak di hulu tanda akan hujan); terang kabut, teduh hujan; tidak hujan lagi becek, ini pula hujan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hu.jan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "titik-titik air yang berjatuhan dari udara karena proses pendinginan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "yang datang dan sebagainya banyak-banyak: -- uang; -- peluru; -- tinju"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "turun hujan"
+        }
+      ]
+    }
+  ]
+}

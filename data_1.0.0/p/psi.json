@@ -1,0 +1,33 @@
+{
+  "istilah": "psi",
+  "entri": "psi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "psi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-23 abjad Yunani"
+        }
+      ]
+    },
+    {
+      "lema": "PSI",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Persatuan Squash Indonesia"
+        }
+      ]
+    }
+  ]
+}

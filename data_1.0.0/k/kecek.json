@@ -1,0 +1,39 @@
+{
+  "istilah": "kecek",
+  "entri": "ke.cek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkecek-kecek",
+    "dikecek",
+    "mengecek",
+    "mengecekkan",
+    "pengecek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.cek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "celoteh, cakap, omong (yang bukan-bukan dan bersifat negatif)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.cek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan anak-anak dengan buah yang keras atau uang"
+        }
+      ]
+    }
+  ]
+}

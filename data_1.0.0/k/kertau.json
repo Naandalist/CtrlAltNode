@@ -1,0 +1,37 @@
+{
+  "istilah": "kertau",
+  "entri": "ker.tau1 /kêrtau/bentuk tidak baku: keratau",
+  "bentukTidakBaku": "keratau",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ker.tau1 /kêrtau/bentuk tidak baku: keratau",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "andalas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "murbei"
+        }
+      ]
+    },
+    {
+      "lema": "ker.tau2 /kêrtau/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "roh jahat"
+        }
+      ]
+    }
+  ]
+}

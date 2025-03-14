@@ -1,0 +1,47 @@
+{
+  "istilah": "sifat",
+  "entri": "si.fat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersifat",
+    "menyifati",
+    "menyifatkan",
+    "penyifatan",
+    "tersifatkan"
+  ],
+  "gabunganKata": [
+    "sifat hakiki",
+    "sifat mengeram",
+    "sifat perah",
+    "sifat tabiat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ciri khas yang ada pada sesuatu",
+    "kataAsal": "ṣifah"
+  },
+  "data": [
+    {
+      "lema": "si.fat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rupa dan keadaan yang tampak pada suatu benda; tanda lahiriah: kalau menilik --nya, tentulah ini sejenis serangga; tidak tentu --nya, kadang-kadang bulat kadang-kadang bulat panjang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peri keadaan yang menurut kodratnya ada pada sesuatu (benda, orang, dan sebagainya): salah satu -- anjing adalah setia kepada tuannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ciri khas yang ada pada sesuatu (untuk membedakan dari yang lain): -- puisi lain daripada -- prosa; -- perawakan anak itu sudah dicatat polisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dasar watak (dibawa sejak lahir); tabiat: ia tidak mempunyai -- kesatria"
+        }
+      ]
+    }
+  ]
+}

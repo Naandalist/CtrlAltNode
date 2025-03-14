@@ -1,0 +1,48 @@
+{
+  "istilah": "kasap",
+  "entri": "ka.sap1",
+  "bentukTidakBaku": "kasab1",
+  "kataTurunan": [
+    "kekasapan"
+  ],
+  "gabunganKata": [
+    "kasap dek",
+    "kasap mesin",
+    "kasap jantan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.sap1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak halus; tidak lembut (jika diraba); kesat: kulitnya berbulu --"
+        }
+      ]
+    },
+    {
+      "lema": "ka.sap2 bentuk tidak baku: kasab1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "awak kapal yang bertanggung jawab atas gudang, perlengkapan, bahan kerja atau peralatan kapal dan lain-lain: seorang -- harus teliti dalam hal keluar masuknya bahan makanan"
+        }
+      ]
+    },
+    {
+      "lema": "ka.sap3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kasap jantan"
+        }
+      ]
+    }
+  ]
+}

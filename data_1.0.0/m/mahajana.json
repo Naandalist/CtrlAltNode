@@ -1,0 +1,33 @@
+{
+  "istilah": "mahajana",
+  "entri": "ma.ha.ja.na1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "orang, manusia, subjek, makhluk",
+    "kataAsal": "jana"
+  },
+  "data": [
+    {
+      "lema": "ma.ha.ja.na1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "orang yang amat ternama; orang besar"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ha.ja.na2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "masyarakat; umum: di -- di depan umum; jangan pula diajarkan segala masalah yang sulit-sulit di -- sekaliannya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "ulp",
+  "entri": "ULP1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ULP1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "unit layanan pengadaan"
+        }
+      ]
+    },
+    {
+      "lema": "ULP2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "uang lauk-pauk"
+        }
+      ]
+    }
+  ]
+}

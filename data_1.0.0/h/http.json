@@ -1,0 +1,24 @@
+{
+  "istilah": "http",
+  "entri": "HTTP",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "HTTP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "protokol yang digunakan untuk membawa permintaan dari peramban ke server web dan untuk mengangkut halaman dari server web kembali ke peramban yang meminta; dari Hypertext Transfer Protocol"
+        }
+      ]
+    }
+  ]
+}

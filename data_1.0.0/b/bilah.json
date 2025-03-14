@@ -1,0 +1,58 @@
+{
+  "istilah": "bilah",
+  "entri": "bi.lah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbilah",
+    "membilah-bilah"
+  ],
+  "gabunganKata": [
+    "bilah judul",
+    "bilah kemudi",
+    "bilah pemindah",
+    "bilah rotor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.lah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belahan bambu (kayu dan sebagainya) yang tipis dan panjang: pagar dari -- buluh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang menyerupai bilah (terutama pisau, pedang, dan sebagainya): didapatnya -- keris tua di dalam gua itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong bagi sesuatu yang tipis dan panjang: dua -- pedang; dua -- papan"
+        }
+      ]
+    },
+    {
+      "lema": "bi.lah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "belah menjadi dua atau lebih bagian"
+        }
+      ]
+    },
+    {
+      "lema": "bi.lah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian buldoser yang berfungsi sebagai alat gali dan dorong"
+        }
+      ]
+    }
+  ]
+}

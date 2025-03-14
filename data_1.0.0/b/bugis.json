@@ -1,0 +1,37 @@
+{
+  "istilah": "bugis",
+  "entri": "bu.gis2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.gis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penganan yang terbuat dari tepung ketan dicampur parutan kelapa muda dengan isian gula merah dan dibungkus daun pisang"
+        }
+      ]
+    },
+    {
+      "lema": "Bu.gis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang berasal atau mendiami sebagian besar daerah Sulawesi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Bugis"
+        }
+      ]
+    }
+  ]
+}

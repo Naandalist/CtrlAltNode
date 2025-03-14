@@ -1,0 +1,35 @@
+{
+  "istilah": "singsat",
+  "entri": "sing.sat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyingsatkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sing.sat1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "menyingsatkan"
+        }
+      ]
+    },
+    {
+      "lema": "sing.sat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ singset"
+        }
+      ]
+    }
+  ]
+}

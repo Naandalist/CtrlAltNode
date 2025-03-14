@@ -1,0 +1,32 @@
+{
+  "istilah": "tabib",
+  "entri": "ta.bib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pertabiban"
+  ],
+  "gabunganKata": [
+    "tabib Cina"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "dokter",
+    "kataAsal": "ṭabīb"
+  },
+  "data": [
+    {
+      "lema": "ta.bib",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang pekerjaannya mengobati orang sakit secara tradisional, seperti dukun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dokter"
+        }
+      ]
+    }
+  ]
+}

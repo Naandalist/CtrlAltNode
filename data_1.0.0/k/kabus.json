@@ -1,0 +1,43 @@
+{
+  "istilah": "kabus",
+  "entri": "ka.bus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "hilang kabus, teduh hujan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.bus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabut"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kabur; tidak nyata kelihatan (seakan-akan tertutup kabut karena jauh dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak jernih (tentang mata, kaca, dan sebagainya seakan-akan berkabut)"
+        }
+      ]
+    },
+    {
+      "lema": "ka.bus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerbong yang dirangkaikan di ujung kereta untuk operator kereta, seperti juru rem"
+        }
+      ]
+    }
+  ]
+}

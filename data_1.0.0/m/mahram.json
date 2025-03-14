@@ -1,0 +1,28 @@
+{
+  "istilah": "mahram",
+  "entri": "mah.ram bentuk tidak baku: muhrim2",
+  "bentukTidakBaku": "muhrim2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pria atau wanita yang haram dinikahi",
+    "kataAsal": "maḥram"
+  },
+  "data": [
+    {
+      "lema": "mah.ram bentuk tidak baku: muhrim2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang (perempuan, laki-laki) yang masih termasuk sanak saudara dekat karena keturunan, sesusuan, atau hubungan perkawinan sehingga tidak boleh menikah di antaranya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang laki-laki yang dianggap dapat melindungi wanita yang akan melakukan ibadah haji (suami, anak laki-laki, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

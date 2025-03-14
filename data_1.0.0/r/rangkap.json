@@ -1,0 +1,49 @@
+{
+  "istilah": "rangkap",
+  "entri": "rang.kap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merangkap",
+    "berangkap",
+    "berangkap-rangkapan",
+    "merangkap",
+    "merangkapkan",
+    "perangkapan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rang.kap1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merangkap"
+        }
+      ]
+    },
+    {
+      "lema": "rang.kap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dua tiga helai melekat menjadi satu; lipat dua (tiga dan sebagainya); kembar; ganda: diketik tiga --"
+        }
+      ]
+    },
+    {
+      "lema": "rang.kap3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jodoh; pasangan: belum mendapat --"
+        }
+      ]
+    }
+  ]
+}

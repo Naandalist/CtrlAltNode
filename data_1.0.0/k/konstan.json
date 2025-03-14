@@ -1,0 +1,33 @@
+{
+  "istilah": "konstan",
+  "entri": "kon.stan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.stan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tetap tidak berubah; terus-menerus: hasil produksi pabrik itu -- selama lima tahun terakhir ini"
+        }
+      ]
+    },
+    {
+      "lema": "kon.stan2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ konstanta"
+        }
+      ]
+    }
+  ]
+}

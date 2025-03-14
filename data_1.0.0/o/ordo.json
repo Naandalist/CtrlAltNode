@@ -1,0 +1,46 @@
+{
+  "istilah": "ordo",
+  "entri": "or.do1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "or.do1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "perkumpulan para biarawan atau biarawati yang anggotanya hidup sesuai dengan aturan masing-masing, umumnya sudah ada sebelum abad ke-12; orde: -- Serikat Yesus; -- Ursulin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "tarekat biarawan"
+        }
+      ]
+    },
+    {
+      "lema": "or.do2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "klasifikasi dalam biologi yang lebih rendah daripada kelas dan lebih tinggi daripada famili"
+        }
+      ]
+    },
+    {
+      "lema": "or.do3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung pemakan biji-bijian, famili Plocedere dari jenis burung berkicau"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "tingting",
+  "entri": "ting.ting1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ting.ting1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(kue) tengteng"
+        }
+      ]
+    },
+    {
+      "lema": "ting.ting2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi uang logam yang jatuh ke lantai"
+        }
+      ]
+    }
+  ]
+}

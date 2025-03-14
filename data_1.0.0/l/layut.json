@@ -1,0 +1,36 @@
+{
+  "istilah": "layut",
+  "entri": "la.yut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melayut",
+    "melayut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cara khusus bermain gamelan (bagian tertentu dalam melodi)",
+    "kataAsal": "layut"
+  },
+  "data": [
+    {
+      "lema": "la.yut1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melentur"
+        }
+      ]
+    },
+    {
+      "lema": "la.yut2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melayut"
+        }
+      ]
+    }
+  ]
+}

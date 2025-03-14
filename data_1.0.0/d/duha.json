@@ -1,0 +1,32 @@
+{
+  "istilah": "duha",
+  "entri": "du.ha bentuk tidak baku: loha",
+  "bentukTidakBaku": "loha",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "waktu menjelang tengah hari",
+    "kataAsal": "ḍuḥa"
+  },
+  "data": [
+    {
+      "lema": "du.ha bentuk tidak baku: loha",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu menjelang tengah hari (kurang lebih pukul 10.00): kira-kira pukul 10.00 ia melakukan salat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "(huruf awal ditulis dengan kapital) salat sunah yang rutin dilakukan Rasulullah, minimal dua rakaat dan maksimal delapan rakaat, dilakukan sekitar 20 menit setelah matahari terbit: salat -- dapat menjadi perantara memperlancar rezeki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "surah ke-93 dalam Al-Qur'an (diawali dengan ad-)"
+        }
+      ]
+    }
+  ]
+}

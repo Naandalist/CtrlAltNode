@@ -1,0 +1,41 @@
+{
+  "istilah": "kurus",
+  "entri": "ku.rus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekurusan",
+    "kurusan",
+    "mengurus",
+    "menguruskan",
+    "pengurusan"
+  ],
+  "gabunganKata": [
+    "kurus kering",
+    "kurus mering"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.rus",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang berdaging; tidak gemuk (tentang tubuh dan sebagainya): badannya -- karena kurang makan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tandus; tidak subur (tentang tanah dan sebagainya): lahan yang -- itu harus dipupuk supaya subur"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang berkayu; kurang lebat daunnya (tentang pohon, tebu, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "kpk",
+  "entri": "KPK1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "KPK1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Komisi Pemberantasan Korupsi (lembaga negara independen yang berfungsi melakukan pemberantasan korupsi)"
+        }
+      ]
+    },
+    {
+      "lema": "KPK2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -] sing[singkatan]",
+          "deskripsi": "kelipatan persekutuan terkecil (nilai kelipatan terkecil dari persekutuan dua bilangan atau lebih)"
+        }
+      ]
+    }
+  ]
+}

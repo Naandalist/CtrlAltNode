@@ -1,0 +1,58 @@
+{
+  "istilah": "neraca",
+  "entri": "ne.ra.ca /nêraca/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "neraca air",
+    "neraca bahan",
+    "neraca dapur",
+    "neraca elektronik",
+    "neraca gen",
+    "neraca jasa",
+    "neraca kliring",
+    "neraca lajur",
+    "neraca lengan",
+    "neraca mikro",
+    "neraca oksigen",
+    "neraca panas",
+    "neraca pegas",
+    "neraca pembayaran",
+    "neraca pembayaran transfer",
+    "neraca perdagangan",
+    "neraca radiasi",
+    "neraca renik",
+    "neraca roberval"
+  ],
+  "peribahasa": [
+    "neraca palingan bungkal, hati palingan Tuhan; neraca yang palingan, bungkal yang piawai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "anak panah besi; segala macam anak panah",
+    "kataAsal": "nārāca"
+  },
+  "data": [
+    {
+      "lema": "ne.ra.ca /nêraca/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur berat (terutama yang berukuran kecil), biasanya berupa batang lurus dengan dua mangkuk yang digantungkan pada kedua ujungnya untuk tempat anak timbangan dan benda yang ditimbang, seperti alat yang dipakai untuk menimbang emas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dag[Perdagangan: -]",
+          "deskripsi": "catatan perbandingan untung rugi, utang piutang, pemasukan dan pengeluaran, dan sebagainya: tiap akhir tahun perusahaan harus membuat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dag[Perdagangan: -]",
+          "deskripsi": "perimbangan (politik, kekuatan, dan sebagainya): -- politik di Vietnam bergeser ke kiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "peranti untuk menimbang massa benda"
+        }
+      ]
+    }
+  ]
+}

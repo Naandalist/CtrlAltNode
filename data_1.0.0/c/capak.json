@@ -1,0 +1,50 @@
+{
+  "istilah": "capak",
+  "entri": "ca.pak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mempercapak",
+    "mencapak",
+    "tercapak",
+    "mencapak",
+    "mencapak-capak",
+    "celapak",
+    "tercapak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.pak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak mengindahkan; abai"
+        }
+      ]
+    },
+    {
+      "lema": "ca.pak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kecap (sewaktu makan atau mengecap sesuatu)"
+        }
+      ]
+    },
+    {
+      "lema": "ca.pak3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "duduk dengan posisi kaki terbuka lebar"
+        }
+      ]
+    }
+  ]
+}

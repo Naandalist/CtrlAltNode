@@ -1,0 +1,37 @@
+{
+  "istilah": "pacul",
+  "entri": "pa.cul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memacul",
+    "memacul",
+    "terpacul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "pacul"
+  },
+  "data": [
+    {
+      "lema": "pa.cul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkakas petani berupa lempeng baja tipis dengan tangkai panjang untuk menggali, mengaduk, dan membalik tanah; cangkul"
+        }
+      ]
+    },
+    {
+      "lema": "pa.cul2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memacul; terpacul"
+        }
+      ]
+    }
+  ]
+}

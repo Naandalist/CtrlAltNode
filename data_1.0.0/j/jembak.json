@@ -1,0 +1,40 @@
+{
+  "istilah": "jembak",
+  "entri": "jem.bak1 /jêmbak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjembak",
+    "terjembak-jembak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jem.bak1 /jêmbak/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menjembak; terjembak-jembak"
+        }
+      ]
+    },
+    {
+      "lema": "jem.bak2 /jêmbak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sayur yang tumbuh di tempat yang becek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun bawang: ibu menggoreng nasi dengan --"
+        }
+      ]
+    }
+  ]
+}

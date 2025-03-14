@@ -1,0 +1,48 @@
+{
+  "istilah": "gamat",
+  "entri": "ga.mat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergamat",
+    "menggamat",
+    "menggamat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "laksana mestika gamat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.mat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teripang berukuran besar"
+        }
+      ]
+    },
+    {
+      "lema": "ga.mat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lagu; dendang"
+        }
+      ]
+    },
+    {
+      "lema": "ga.mat3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sentuh; gamit"
+        }
+      ]
+    }
+  ]
+}

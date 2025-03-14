@@ -1,0 +1,28 @@
+{
+  "istilah": "sonar",
+  "entri": "so.nar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.nar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "peranti untuk mengamati (mendeteksi, menyidik) keberadaan dan lokasi benda di bawah permukaan laut dengan menggunakan gelombang suara yang dikirim dari peranti itu dan dipantulkan kembali oleh benda (objek) yang diamati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "alat yang menggunakan gelombang suara frekuensi tinggi untuk menemukan benda dan menentukan letaknya di bawah permukaan air"
+        }
+      ]
+    }
+  ]
+}

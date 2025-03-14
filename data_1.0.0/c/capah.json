@@ -1,0 +1,37 @@
+{
+  "istilah": "capah",
+  "entri": "ca.pah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.pah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cakah"
+        }
+      ]
+    },
+    {
+      "lema": "ca.pah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bejana atau jambangan besar yang dibuat dari kayu untuk tempat air dan sebagainya; capar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "piring besar, bulat, dan datar terbuat dari kayu"
+        }
+      ]
+    }
+  ]
+}

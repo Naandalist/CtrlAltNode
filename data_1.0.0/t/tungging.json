@@ -1,0 +1,39 @@
+{
+  "istilah": "tungging",
+  "entri": "tung.ging1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersetungging",
+    "menungging",
+    "menunggingkan",
+    "setungging",
+    "tertungging"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tung.ging1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menungging"
+        }
+      ]
+    },
+    {
+      "lema": "tung.ging2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari keempat sejak hari ini; sesudah tulat; tubin"
+        }
+      ]
+    }
+  ]
+}

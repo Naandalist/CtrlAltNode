@@ -1,0 +1,46 @@
+{
+  "istilah": "wajah",
+  "entri": "wa.jah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berwajah",
+    "perwajahan"
+  ],
+  "gabunganKata": [
+    "wajah bentuk hati",
+    "wajah buku",
+    "wajah bulat",
+    "wajah oval",
+    "wajah panjang",
+    "wajah persegi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bagian depan dari segala hal; arah; zat",
+    "kataAsal": "wajh"
+  },
+  "data": [
+    {
+      "lema": "wa.jah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian depan dari kepala; roman muka; muka: ketika aku datang tampak -- ibunya berseri-seri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tokoh (pemain dan sebagainya): -- baru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "apa-apa yang tampak lebih dulu: Jakarta adalah -- Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "gambaran; corak: -- remaja sekarang tidak menggembirakan, apalagi dengan banyak remaja yang terlibat penggunaan obat terlarang"
+        }
+      ]
+    }
+  ]
+}

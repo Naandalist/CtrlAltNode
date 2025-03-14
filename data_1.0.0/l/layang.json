@@ -1,0 +1,60 @@
+{
+  "istilah": "layang",
+  "entri": "la.yang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dilayangkan",
+    "layang-layang",
+    "layangan",
+    "melayang",
+    "melayang-layang",
+    "melayangkan",
+    "pelayangan",
+    "selayang",
+    "terlayang",
+    "terlayang-layang",
+    "dilayang",
+    "melayang",
+    "pelayangan"
+  ],
+  "gabunganKata": [
+    "layang gantung"
+  ],
+  "peribahasa": [
+    "layang-layang putus talinya; seperti memegang tali layang-layang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.yang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbang"
+        }
+      ]
+    },
+    {
+      "lema": "la.yang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "iris; sayat"
+        }
+      ]
+    },
+    {
+      "lema": "la.yang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pelayangan"
+        }
+      ]
+    }
+  ]
+}

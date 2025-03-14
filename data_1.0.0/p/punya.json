@@ -1,0 +1,41 @@
+{
+  "istilah": "punya",
+  "entri": "pu.nya",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpunya",
+    "kepunyaan",
+    "mempunyai",
+    "mempunyakan"
+  ],
+  "gabunganKata": [
+    "punya kerja"
+  ],
+  "peribahasa": [
+    "belum punya kuku, hendak mencubit; kerbau punya susu, sapi punya nama"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.nya",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menaruh (dalam arti memiliki): ia sudah -- uang pembeli sepeda"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memiliki: siapa yang -- rumah ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "milik; yang dimiliki: yang hilang -- saya, bukan -- Tuan"
+        }
+      ]
+    }
+  ]
+}

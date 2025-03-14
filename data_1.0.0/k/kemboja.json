@@ -1,0 +1,30 @@
+{
+  "istilah": "kemboja",
+  "entri": "kem.bo.ja /kêmboja/bentuk tidak baku: kamboja1",
+  "bentukTidakBaku": "kamboja1",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kemboja jepang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kem.bo.ja /kêmboja/bentuk tidak baku: kamboja1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang berbatang bengkok dan berkayu lunak, tinggi hingga 6 m, bunganya harum berwarna putih kekuning-kuningan, merah tua, dan sebagainya, biasa ditanam di pekuburan〔Plumiera acuminata〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunga kemboja"
+        }
+      ]
+    }
+  ]
+}

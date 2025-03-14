@@ -1,0 +1,62 @@
+{
+  "istilah": "pukul",
+  "entri": "pu.kul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpukul-pukulan",
+    "berpukulan",
+    "memperpukuli",
+    "memperpukulkan",
+    "memukul",
+    "memukul-mukul",
+    "memukul-mukulkan",
+    "memukuli",
+    "memukulkan",
+    "pemukul",
+    "pemukulan",
+    "pukul-memukul",
+    "pukulan",
+    "terpukul"
+  ],
+  "gabunganKata": [
+    "pukul besar",
+    "pukul kilas balik",
+    "pukul merambang"
+  ],
+  "peribahasa": [
+    "pukul anak, sindir menantu; pukul anak, sindir menantu; pukul curi; seperti ular kena bedal (palu, pukul)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.kul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan] ki[kiasan] ki[kiasan] ki[kiasan]",
+          "deskripsi": "ketuk (dengan sesuatu yang keras atau berat, dipakai juga dalam arti kiasan): kena --  [1] kena ketuk (diketuk) [2] kena rugi (marah, tipu, dan sebagainya); salah --  [1] salah memukul (mengetuk) [2] salah terima [3] salah menuduh dan sebagainya; sekali --  [1] satu kali memukul (mengetuk) [2] satu kali berbuat (bertindak, bekerja, dan sebagainya); tukang -- [1] orang yang biasa memukul orang (dengan menerima upah) [2] samseng [3] jagoan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memukul (mengetuk dan sebagainya): pakailah taktik dan cari kelemahan lawan jangan asal --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ambil: -- dulu, bayar belakang barang diambil dulu, soal membayar urusan belakang"
+        }
+      ]
+    },
+    {
+      "lema": "pu.kul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saat yang menyatakan waktu: hari sudah -- lima sore"
+        }
+      ]
+    }
+  ]
+}

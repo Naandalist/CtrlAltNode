@@ -1,0 +1,33 @@
+{
+  "istilah": "combong",
+  "entri": "com.bong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "com.bong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "pisau (sikin) yang berlubang pada bilahnya (dianggap bertuah)"
+        }
+      ]
+    },
+    {
+      "lema": "com.bong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "gadis yang sudah tidak perawan"
+        }
+      ]
+    }
+  ]
+}

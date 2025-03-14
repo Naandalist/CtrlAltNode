@@ -1,0 +1,98 @@
+{
+  "istilah": "kadar",
+  "entri": "ka.dar1 bentuk tidak baku: kedar",
+  "bentukTidakBaku": "kedar",
+  "kataTurunan": [
+    "sekadar",
+    "berkadar",
+    "mengadar"
+  ],
+  "gabunganKata": [
+    "kadar air",
+    "kadar disosiasi",
+    "kadar kognitif",
+    "kadar susut",
+    "kadar susut adiabat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "cari:",
+    "kataAsal": "qadr"
+  },
+  "data": [
+    {
+      "lema": "ka.dar1 bentuk tidak baku: kedar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuasa; kekuatan: ala --nya menurut kuasa (kekuatan) masing-masing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketentuan Tuhan (takdir): percaya kepada -- dan takdir Tuhan bukan berarti kita tidak perlu lagi bekerja keras untuk mencapai cita-cita; segala kepercayaan akan -- dan takdir terbit dari ajaran tauhid"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "untung malang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kodrat; sifat bawaan: menyalahi -- hidupnya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.dar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran untuk menentukan suatu norma: belum ada -- yang pasti dalam hal mengatakan salah atau benarnya bukti itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "isi atau bagian yang tulen (tentang emas, perak, dan sebagainya): emas ini --nya 0,800, berarti yang tulen ⅘nya dari nilai itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nilai, harga, taraf (tingkatan): dalam pertemuan antara para ahli itulah, baru ia tahu akan -- dirinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lebih kurang; kira-kira: jumlah anggotanya -- lima ratus orang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Antr[Antropologi: -]",
+          "deskripsi": "jumlah hasil pengukuran dalam persentase mengenai gejala tertentu yang terdapat pada populasi tertentu dalam keadaan dan jangka waktu tertentu"
+        }
+      ]
+    },
+    {
+      "lema": "ka.dar3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengadar"
+        }
+      ]
+    },
+    {
+      "lema": "ka.dar4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kain tenunan sendiri untuk dipakai sendiri"
+        }
+      ]
+    },
+    {
+      "lema": "ka.dar5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kadah"
+        }
+      ]
+    }
+  ]
+}

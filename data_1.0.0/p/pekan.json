@@ -1,0 +1,39 @@
+{
+  "istilah": "pekan",
+  "entri": "pe.kan /pêkan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sepekan"
+  ],
+  "gabunganKata": [
+    "pekan budaya",
+    "pekan raya",
+    "pekan seni",
+    "pekan suci"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pasar; pekan (lima hari)",
+    "kataAsal": "pěkan"
+  },
+  "data": [
+    {
+      "lema": "pe.kan /pêkan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasar: mereka pergi ke -- membeli sayuran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minggu (7 hari): harapanku dia datang -- ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertemuan atau acara yang dibuat untuk memperlombakan sesuatu (tentang olahraga, seni, dan sebagainya): -- Olahraga Nasional dilaksanakan empat tahun sekali; -- sastra"
+        }
+      ]
+    }
+  ]
+}

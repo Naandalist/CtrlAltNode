@@ -1,0 +1,52 @@
+{
+  "istilah": "sial",
+  "entri": "si.al1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesialan",
+    "menyialkan",
+    "sialan"
+  ],
+  "gabunganKata": [
+    "sial dangkal",
+    "sial majal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.al1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mujur dan segala usahanya selalu tidak berhasil (seperti sukar mendapat rezeki, sukar mendapat jodoh): -- benar ia hari ini; membawa -- (kepada) menyebabkan tidak mujur; membuang -- menghilangkan segala apa yang menyebabkan sial (seperti menjual barang dengan harga murah sekali dengan maksud supaya jangan sial lagi); gadis -- sukar mendapat jodoh (tidak ada yang meminang)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "malang; celaka; buruk nasibnya: anak -- [1] anak yang malang [2] anak yang membawa sial"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "yang mendatangkan kecelakaan (kemalangan dan sebagainya); buruk pengaruhnya: keris yang dianggap -- itu sudah dijualnya; hari --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "si celaka; jahanam: -- lu"
+        }
+      ]
+    },
+    {
+      "lema": "si.al2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -] akr[akronim]",
+          "deskripsi": "lapisan batuan atas kerak bumi yang kaya akan silika dan alumina, dapat menghasilkan magma granit; lapisan granit; silika alumina"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "semantik",
+  "entri": "se.man.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "semantik filsafat",
+    "semantik generatif",
+    "semantik gramatikal",
+    "semantik historis",
+    "semantik interpretif",
+    "semantik kognitif",
+    "semantik kombinatoris",
+    "semantik leksikal",
+    "semantik struktural"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.man.tik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "ilmu tentang makna kata dan kalimat; pengetahuan mengenai seluk-beluk dan pergeseran arti kata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bagian struktur bahasa yang berhubungan dengan makna ungkapan atau struktur makna suatu wicara"
+        }
+      ]
+    }
+  ]
+}

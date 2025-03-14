@@ -1,0 +1,33 @@
+{
+  "istilah": "kmb",
+  "entri": "KMB",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "KMB",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Konferensi Meja Bundar (sebuah pertemuan yang bertempat di Den Haag, Belanda, dari 23 Agustus–2 November 1949 antara perwakilan Republik Indonesia, Belanda, dan BFO yang menghasilkan kesediaan Belanda untuk menyerahkan kedaulatan kepada Republik Indonesia Serikat)"
+        }
+      ]
+    },
+    {
+      "lema": "KMB2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kelayakan menggunakan bangunan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "tabuh",
+  "entri": "ta.buh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menabuh",
+    "penabuh",
+    "tabuh-tabuhan",
+    "tabuhan",
+    "tertabuh",
+    "tetabuhan"
+  ],
+  "gabunganKata": [
+    "tabuh fitrah",
+    "tabuh larangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.buh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gendang raya; beduk (dalam masjid, surau, dan sebagainya): memukul -- sambil bertakbir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menabuh bunyi-bunyian (gamelan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi beduk sebagai alamat"
+        }
+      ]
+    }
+  ]
+}

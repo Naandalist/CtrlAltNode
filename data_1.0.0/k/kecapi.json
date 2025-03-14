@@ -1,0 +1,37 @@
+{
+  "istilah": "kecapi",
+  "entri": "ke.ca.pi1 /kêcapi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jenis pohon yang khas (sěntul, sandoricum)",
+    "kataAsal": "kacapi"
+  },
+  "data": [
+    {
+      "lema": "ke.ca.pi1 /kêcapi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat musik petik tradisional yang berdawai (bersenar) tiga, lima, enam dan sebagainya, tidak bergaris nada, dan dimainkan dengan jari"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ca.pi2 /kêcapi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, yang batangnya tumbuh tegak dan lurus, tingginya mencapai 25–30 m, berdaun majemuk dan beranak daun tiga, buahnya bulat, kulit buahnya tebal berwarna kuning kehijau-hijauan, daging buahnya berwarna putih lunak, masam, dan dapat dimakan; sentul〔Sandoricum koecape〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah kecapi"
+        }
+      ]
+    }
+  ]
+}

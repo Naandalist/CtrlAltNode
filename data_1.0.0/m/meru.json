@@ -1,0 +1,36 @@
+{
+  "istilah": "meru",
+  "entri": "me.ru",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gunung (mitologik) pusat Jambudwipa (dan dunia); bangunan seperti pagoda dalam kompleks percandian dengan atap berjumlah ganjil",
+    "kataAsal": "meru"
+  },
+  "data": [
+    {
+      "lema": "me.ru",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gunung dalam mitologi Hindu tempat persemayaman para dewa dan makhluk kedewaan, serta menjadi pusat jagat raya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ragam hias berbentuk segitiga sebagai lambang persemayaman dewa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan yang terdapat di kuil, merupakan tempat persembahan, terdiri atas 3–11 atap atau tingkat (di Bali)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "atap bangunan pura yang bersusun dan makin ke atas makin kecil"
+        }
+      ]
+    }
+  ]
+}

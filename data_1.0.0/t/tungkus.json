@@ -1,0 +1,35 @@
+{
+  "istilah": "tungkus",
+  "entri": "tung.kus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menungkus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tung.kus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bungkus (dengan daun pisang dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tung.kus2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terbenam, tenggelam"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "istilah": "panel",
+  "entri": "pa.nel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpanel"
+  ],
+  "gabunganKata": [
+    "panel hiasan",
+    "panel komunikasi",
+    "panel kontrol",
+    "panel pengatur",
+    "panel proyeksi LCD",
+    "panel surya",
+    "panel akses"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.nel1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari permukaan pintu (dinding, langit-langit, dan sebagainya) berupa papan tipis dan sebagainya, biasanya berbentuk persegi panjang, dipasang di dalam bingkai, terletak lebih rendah atau lebih tinggi daripada permukaan sekitarnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potongan bahan dari jenis atau warna yang berbeda yang disisipkan pada pakaian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembaran tipis (dari papan atau logam) tempat melekatkan alat (peranti) pengontrol: di dekat kemudi ada -- berisi tombol-tombol untuk mengontrol lampu dan oli"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "papan peraga untuk pameran, berbentuk persegi panjang, terbuat dari papan lapis, logam, atau bahan lain, digunakan untuk menempelkan foto, gambar, teks yang dipamerkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotak atau kerangka dalam komik yang berisi gambar atau adegan yang terangkai menjadi suatu cerita"
+        }
+      ]
+    },
+    {
+      "lema": "pa.nel2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok pembicara yang dipilih untuk berbicara dalam diskusi dan menjawab pertanyaan di depan hadirin (penonton, pendengar)"
+        }
+      ]
+    }
+  ]
+}

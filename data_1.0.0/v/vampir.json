@@ -1,0 +1,32 @@
+{
+  "istilah": "vampir",
+  "entri": "vam.pir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vam.pir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelelawar raksasa yang mengisap darah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makhluk yang menurut kepercayaan (orang Barat) bangkit kembali dari kubur, kemudian keluar pada malam hari dan mengisap darah manusia yang sedang tidur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pemeras"
+        }
+      ]
+    }
+  ]
+}

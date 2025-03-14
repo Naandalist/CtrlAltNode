@@ -1,0 +1,28 @@
+{
+  "istilah": "guarani",
+  "entri": "Gu.a.ra.ni",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Gu.a.ra.ni",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan di Paraguai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang Paraguai"
+        }
+      ]
+    }
+  ]
+}

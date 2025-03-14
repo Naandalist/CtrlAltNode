@@ -1,0 +1,49 @@
+{
+  "istilah": "tap",
+  "entri": "tap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengetap",
+    "mengetap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tap1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tuang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sadap"
+        }
+      ]
+    },
+    {
+      "lema": "tap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumbat untuk menutup lubang dalam tong"
+        }
+      ]
+    },
+    {
+      "lema": "tap3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang berfungsi untuk membuat ulir dalam (ulir untuk mur)"
+        }
+      ]
+    }
+  ]
+}

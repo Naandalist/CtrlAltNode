@@ -1,0 +1,29 @@
+{
+  "istilah": "faktur",
+  "entri": "fak.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "faktur bervisa",
+    "faktur dagang",
+    "faktur konsuler",
+    "faktur penjualan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fak.tur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dag[Perdagangan: -]",
+          "deskripsi": "daftar barang kiriman yang dilengkapi keterangan nama, jumlah, dan harga yang harus dibayar; invois"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "rodong",
+  "entri": "ro.dong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merodong",
+    "merodongkan",
+    "merodong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.dong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "karib (tentang persahabatan dan sebagainya): sahabat -- teman dalam perjalanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sahabat karib"
+        }
+      ]
+    },
+    {
+      "lema": "ro.dong2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merodong"
+        }
+      ]
+    }
+  ]
+}

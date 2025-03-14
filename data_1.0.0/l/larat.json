@@ -1,0 +1,69 @@
+{
+  "istilah": "larat",
+  "entri": "la.rat1 bentuk tidak baku: melarat2",
+  "bentukTidakBaku": "melarat2",
+  "kataTurunan": [
+    "berlarat-larat",
+    "kemelaratan",
+    "melarat",
+    "memperlarat"
+  ],
+  "gabunganKata": [
+    "larat hati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.rat1 bentuk tidak baku: melarat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hanyut dan tidak menyangkut: sauh kapal itu -- hingga tidak dapat mengait dasar laut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertambah jauh (panjang, luas, mendalam, dan sebagainya): sakitnya bertambah --; kalau tidak kuat, -- jadi penyakit"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pergi jauh meninggalkan kampung halaman; mengembara; merantau: kita telah lama -- ke negeri orang untuk mencari peruntungan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sedih sekali; melantur-lantur (tentang perasaan dan pikiran): -- pikirannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "terharu (tentang perasaan); iba: -- hatinya mendengar perkataan anak itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjalan sendiri tanpa masinis (tentang kereta)"
+        }
+      ]
+    },
+    {
+      "lema": "la.rat2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "dapat; mampu; sanggup"
+        }
+      ]
+    },
+    {
+      "lema": "la.rat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anggrek"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "caba",
+  "entri": "ca.ba1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.ba1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak keruan (tentang tingkah laku); sembarangan"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ba2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "calon bintara"
+        }
+      ]
+    }
+  ]
+}

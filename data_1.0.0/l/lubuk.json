@@ -1,0 +1,39 @@
+{
+  "istilah": "lubuk",
+  "entri": "lu.buk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lubuk dingin",
+    "lubuk hati",
+    "lubuk jiwa",
+    "lubuk panas"
+  ],
+  "peribahasa": [
+    "asing lubuk, asing ikannya; bagai batu jatuh ke lubuk; ikan pulang ke lubuk; lain ladang lain belalang, lain lubuk lain ikannya; lain ladang lain belalang, lain lubuk lain ikannya; lubuk akal lautan (= tepian) ilmu (= budi); lubuk dalam, si kitang yang empunya; lubuk menjadi pantai, pantai menjadi lubuk; tahu di dalam lubuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lubang, ruang, rongga",
+    "kataAsal": "lubuk"
+  },
+  "data": [
+    {
+      "lema": "lu.buk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang dalam di sungai (laut, danau, dan sebagainya): menangkap ikan di --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berlekuk dalam; jeluk: piring --; pinggan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Hid[Hidrologi: -]",
+          "deskripsi": "daerah hidrosfer yang kedalamannya dapat mencapai 6.000 kaki atau lebih di lautan dan 1.000 kaki atau lebih di danau dan yang tidak tertembus oleh cahaya matahari"
+        }
+      ]
+    }
+  ]
+}

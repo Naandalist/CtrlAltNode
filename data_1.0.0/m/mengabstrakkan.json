@@ -1,0 +1,33 @@
+{
+  "istilah": "mengabstrakkan",
+  "entri": "abstrak1 » meng.ab.strak.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "abstrak1 » meng.ab.strak.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadikan abstrak"
+        }
+      ]
+    },
+    {
+      "lema": "abstrak2 » meng.ab.strak.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuat abstrak (ringkasan dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

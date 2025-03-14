@@ -1,0 +1,98 @@
+{
+  "istilah": "suku",
+  "entri": "su.ku1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersuku",
+    "bersuku-suku",
+    "kesukuan",
+    "persukuan",
+    "sepersukuan",
+    "sesuku"
+  ],
+  "gabunganKata": [
+    "suku bangsa",
+    "suku buka",
+    "suku bunga",
+    "suku bunga acuan",
+    "suku bunga bank",
+    "suku bunga mengambang",
+    "suku cadang",
+    "suku dinas",
+    "suku kalimat",
+    "suku kata",
+    "suku padang pasir",
+    "suku pelengkap",
+    "suku sakat",
+    "suku tahun",
+    "suku tertutup"
+  ],
+  "peribahasa": [
+    "dekat mencari indu, jauh mencari suku; dekat mencari suku, jauh mencari hindu; suku tak boleh dianjak, malu tak boleh diagih"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kaki (dari gunung)",
+    "kataAsal": "suku"
+  },
+  "data": [
+    {
+      "lema": "su.ku1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kaki: -- lembu (kerbau)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebagian dari empat; seperempat: (se)-- jam seperempat jam; tiga -- tiga perempat; pukul lima kurang se-- pukul lima kurang seperempat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tengahan rupiah (Rp0,50): dibayar lima -- dibagi dua setengah rupiah; uang -- uang tengahan rupiah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang emas yang dipakai juga sebagai ukuran berat emas; suku emas: gelang lima -- gelang yang beratnya sama dengan 5 keping uang suku (emas)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian; sebagian dari: -- kalimat; -- kata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilangan yang menjadi bagian dari perbandingan atau jajaran bilangan: 1:2, maka 1 dan 2 itu disebut --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan orang-orang (keluarga) yang seturunan; suku sakat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan bangsa sebagai bagian dari bangsa yang besar, seperti -- Sunda, -- Jawa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "golongan orang sebagai bagian dari kaum yang seketurunan: -- Koto; -- Piliang; -- Bodi; -- Caniago"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "takson dalam satuan taksonomi yang berada di antara marga dan bangsa (nama suku tumbuhan selalu berakhiran -ceae-, suku hewan berakhiran -ideae); famili"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bilangan yang menyusun deret"
+        }
+      ]
+    },
+    {
+      "lema": "su.ku2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teks berupa tanggal, nomor halaman, dan judul dokumen yang diletakkan di bagian bawah halaman dokumen"
+        }
+      ]
+    }
+  ]
+}

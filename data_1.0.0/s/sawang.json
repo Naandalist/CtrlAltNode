@@ -1,0 +1,79 @@
+{
+  "istilah": "sawang",
+  "entri": "sa.wang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sawangan",
+    "persawangan",
+    "pesawangan"
+  ],
+  "gabunganKata": [
+    "sawang langit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jaring laba-laba",
+    "kataAsal": "sawaṅ"
+  },
+  "data": [
+    {
+      "lema": "sa.wang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sawangan"
+        }
+      ]
+    },
+    {
+      "lema": "sa.wang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "persawangan; pesawangan"
+        }
+      ]
+    },
+    {
+      "lema": "sa.wang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sarang laba-laba"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotoran yang melekat di langit-langit rumah dan sebagainya: rumah tua itu penuh dengan --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.wang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "andong〔Cordyline fruticosa〕"
+        }
+      ]
+    },
+    {
+      "lema": "sa.wang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung jenis punai: punai --"
+        }
+      ]
+    },
+    {
+      "lema": "Sa.wang6",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang hidup berpindah-pindah di perairan laut di wilayah Riau, Jambi, dan sekitarnya"
+        }
+      ]
+    }
+  ]
+}

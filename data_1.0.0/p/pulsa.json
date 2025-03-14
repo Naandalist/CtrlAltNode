@@ -1,0 +1,36 @@
+{
+  "istilah": "pulsa",
+  "entri": "pul.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pul.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "denyut nadi yang terjadi karena detak jantung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tegangan atau arus yang berlangsung beberapa lama berbentuk segi empat atau gelombang sinus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan dalam perhitungan biaya telepon"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "rangkaian denyutan berulang secara teratur yang terasa dalam musik, jika pulsa itu terdengar disebut ketukan"
+        }
+      ]
+    }
+  ]
+}

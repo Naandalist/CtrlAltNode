@@ -1,0 +1,28 @@
+{
+  "istilah": "takyin",
+  "entri": "tak.yin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penentuan",
+    "kataAsal": "ta‘yīn"
+  },
+  "data": [
+    {
+      "lema": "tak.yin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penentuan; pengkhususan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penugasan"
+        }
+      ]
+    }
+  ]
+}

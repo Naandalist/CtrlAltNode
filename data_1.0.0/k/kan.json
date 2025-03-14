@@ -1,0 +1,70 @@
+{
+  "istilah": "kan",
+  "entri": "kan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "tak kan lari gunung dikejar, hilang kabut tampaklah dia"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "langkan (pada perahu)"
+        }
+      ]
+    },
+    {
+      "lema": "kan2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] kp[kependekan]",
+          "deskripsi": "bukan"
+        }
+      ]
+    },
+    {
+      "lema": "kan3",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] kp[kependekan]",
+          "deskripsi": "akan"
+        }
+      ]
+    },
+    {
+      "lema": "kan4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat memasak air teh; morong; teko"
+        }
+      ]
+    },
+    {
+      "lema": "-kan5",
+      "arti": [
+        {
+          "kelas_kata": "sufiks pembentuk verba[- : -]",
+          "deskripsi": "menjadikan: jalankan; datangkan; hitamkan"
+        },
+        {
+          "kelas_kata": "sufiks pembentuk verba[- : -]",
+          "deskripsi": "sungguh-sungguh: dengarkan; camkan"
+        },
+        {
+          "kelas_kata": "sufiks pembentuk verba[- : -]",
+          "deskripsi": "untuk; kepada orang lain: sewakan; bacakan"
+        }
+      ]
+    }
+  ]
+}

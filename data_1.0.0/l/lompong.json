@@ -1,0 +1,39 @@
+{
+  "istilah": "lompong",
+  "entri": "lom.pong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melompong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lom.pong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kosong; hampa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "bodoh"
+        }
+      ]
+    },
+    {
+      "lema": "lom.pong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "talas"
+        }
+      ]
+    }
+  ]
+}

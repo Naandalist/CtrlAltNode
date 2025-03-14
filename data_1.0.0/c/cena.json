@@ -1,0 +1,30 @@
+{
+  "istilah": "cena",
+  "entri": "ce.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kecenaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tanda, merek, simbol",
+    "kataAsal": "cihna"
+  },
+  "data": [
+    {
+      "lema": "ce.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ciri; tanda; bukti; bekas luka yang sudah baik kembali (bagi ayam sabungan yang menandakan tidak dapat dikalahkan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah sembuh (tentang ayam sabungan yang terluka)"
+        }
+      ]
+    }
+  ]
+}

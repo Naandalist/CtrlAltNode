@@ -1,0 +1,37 @@
+{
+  "istilah": "sangai",
+  "entri": "sa.ngai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersangai",
+    "menyangai",
+    "tersangai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.ngai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tudung kukusan; tudung saji yang kasar (misalnya dari daun nipah atau daun kelapa)"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ngai2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menyangai"
+        }
+      ]
+    }
+  ]
+}

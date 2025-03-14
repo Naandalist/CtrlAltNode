@@ -1,0 +1,59 @@
+{
+  "istilah": "rusuk",
+  "entri": "ru.suk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merusuk"
+  ],
+  "gabunganKata": [
+    "rusuk jalan",
+    "rusuk palsu",
+    "rusuk sejati",
+    "rusuk surat"
+  ],
+  "peribahasa": [
+    "tiba di rusuk menjeriau"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.suk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisi; samping; lambung (sebelah tubuh dan sebagainya): kandang kerbau itu bersambung dengan -- rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepi; pinggir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "iga (tulang-tulang dari tulang belakang ke tulang dada)"
+        }
+      ]
+    },
+    {
+      "lema": "ru.suk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah untuk sementara waktu (di Mentawai)"
+        }
+      ]
+    },
+    {
+      "lema": "ru.suk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pemain depan yang ditempatkan di bagian samping atau sayap (dalam permainan sepak bola): serangan dari -- kanan"
+        }
+      ]
+    }
+  ]
+}

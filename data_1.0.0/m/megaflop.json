@@ -1,0 +1,24 @@
+{
+  "istilah": "megaflop",
+  "entri": "me.ga.flop",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.ga.flop",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "ukuran daya komputasi dan kecepatan yang sama dengan satu juta instruksi titik mengambang per detik; Mflops"
+        }
+      ]
+    }
+  ]
+}

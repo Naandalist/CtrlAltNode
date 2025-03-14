@@ -1,0 +1,43 @@
+{
+  "istilah": "carut",
+  "entri": "ca.rut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercarut",
+    "bercarut-carut",
+    "carut-marut",
+    "mempercaruti",
+    "mencarut-carut",
+    "pencarut",
+    "carut-marut"
+  ],
+  "gabunganKata": [
+    "carut capai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.rut1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keji, kotor, cabul (tentang perkataan)"
+        }
+      ]
+    },
+    {
+      "lema": "ca.rut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "luka bekas goresan"
+        }
+      ]
+    }
+  ]
+}

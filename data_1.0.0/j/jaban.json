@@ -1,0 +1,33 @@
+{
+  "istilah": "jaban",
+  "entri": "ja.ban1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.ban1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "sewa yang diterima oleh pemilik sawah dari pemilik bebek karena tanahnya dijadikan kandang ketika panen usai"
+        }
+      ]
+    },
+    {
+      "lema": "ja.ban2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "klimaks dari suatu pertandingan, pertarungan, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

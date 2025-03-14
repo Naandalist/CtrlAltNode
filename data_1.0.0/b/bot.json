@@ -1,0 +1,37 @@
+{
+  "istilah": "bot",
+  "entri": "bot",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bot",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis sepatu yang menutup seluruh kaki, kadang-kadang sampai ke tungkai"
+        }
+      ]
+    },
+    {
+      "lema": "bot2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "robot"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "program komputer otonom yang dapat menirukan perilaku manusia, misalnya dalam bernalar, mengambil keputusan, serta melakukan tugas rutin dan tugas yang memerlukan banyak waktu"
+        }
+      ]
+    }
+  ]
+}

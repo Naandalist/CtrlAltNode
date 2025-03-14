@@ -1,0 +1,37 @@
+{
+  "istilah": "bersibar",
+  "entri": "sibar1 » ber.si.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sibar1 » ber.si.bar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai sibar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertambah dengan didirikannya rumah di kanan atau di kiri rumah besar: rumahnya ~"
+        }
+      ]
+    },
+    {
+      "lema": "sibar3 » ber.si.bar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bercucuran; memercik-mercik"
+        }
+      ]
+    }
+  ]
+}

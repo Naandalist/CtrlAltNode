@@ -1,0 +1,33 @@
+{
+  "istilah": "nan",
+  "entri": "nan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nan1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "yang: kekasihku -- jauh di mata"
+        }
+      ]
+    },
+    {
+      "lema": "nan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] In[India: bahasa di India]",
+          "deskripsi": "roti pipih beragi yang terbuat dari tepung gandum, permukaannya ditaburi wijen atau jintan hitam, dibumbui dengan bawang dan berbagai rempah, makanan yang populer di beberapa negara Asia"
+        }
+      ]
+    }
+  ]
+}

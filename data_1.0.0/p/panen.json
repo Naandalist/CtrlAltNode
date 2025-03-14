@@ -1,0 +1,35 @@
+{
+  "istilah": "panen",
+  "entri": "pa.nen",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpanen",
+    "memanen",
+    "panenan",
+    "pemanenan"
+  ],
+  "gabunganKata": [
+    "panen perdana"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.nen",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemungutan (pemetikan) hasil sawah atau ladang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beroleh keuntungan atau rezeki (dengan mudah): penjual es -- duit pada musim kemarau ini"
+        }
+      ]
+    }
+  ]
+}

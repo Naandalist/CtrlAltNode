@@ -1,0 +1,33 @@
+{
+  "istilah": "kades",
+  "entri": "ka.des",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.des",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "kepala desa"
+        }
+      ]
+    },
+    {
+      "lema": "ka.des /kadês/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lumut laut"
+        }
+      ]
+    }
+  ]
+}

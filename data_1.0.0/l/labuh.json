@@ -1,0 +1,53 @@
+{
+  "istilah": "labuh",
+  "entri": "la.buh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlabuh",
+    "kepelabuhan",
+    "labuhan",
+    "melabuh",
+    "melabuhkan",
+    "pelabuhan",
+    "labuhan"
+  ],
+  "gabunganKata": [
+    "labuh api",
+    "labuh batu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.buh1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam keadaan turun atau tergelantung ke bawah seperti kelambu, tali, jangkar, tirai, atau layar panggung"
+        }
+      ]
+    },
+    {
+      "lema": "la.buh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "penggolong benda bagi tirai: tirai se--"
+        }
+      ]
+    },
+    {
+      "lema": "la.buh3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "melarung; menghanyutkan"
+        }
+      ]
+    }
+  ]
+}

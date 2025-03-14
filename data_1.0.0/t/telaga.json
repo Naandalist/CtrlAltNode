@@ -1,0 +1,45 @@
+{
+  "istilah": "telaga",
+  "entri": "te.la.ga1 /têlaga/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "telaga tahi"
+  ],
+  "peribahasa": [
+    "telaga di bawah gunung; telaga mencari timba"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kolam, tangki, perangkap",
+    "kataAsal": "taḍāga"
+  },
+  "data": [
+    {
+      "lema": "te.la.ga1 /têlaga/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "danau (di pegunungan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kolam; perigi; balong: adakah dari -- yang jernih mengalir air yang keruh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Min[Mineralogi: -]",
+          "deskripsi": "sumur pengeboran sumber minyak tanah"
+        }
+      ]
+    },
+    {
+      "lema": "Te.la.ga2 /têlaga/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami wilayah Kabupaten Pontianak, Provinsi Kalimantan Barat"
+        }
+      ]
+    }
+  ]
+}

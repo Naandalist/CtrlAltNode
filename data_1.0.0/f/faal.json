@@ -1,0 +1,41 @@
+{
+  "istilah": "faal",
+  "entri": "fa.al1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memfaalkan"
+  ],
+  "gabunganKata": [
+    "faal getah bening"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tanda baik",
+    "kataAsal": "fa’l"
+  },
+  "data": [
+    {
+      "lema": "fa.al1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan; kerja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "kerja alat tubuh sebagaimana mestinya: -- jantung berfungsi sebagai pemompa darah ke seluruh dalam tubuh"
+        }
+      ]
+    },
+    {
+      "lema": "fa.al2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "alamat yang meramalkan sesuatu (nasib dan sebagainya); tanda"
+        }
+      ]
+    }
+  ]
+}

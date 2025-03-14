@@ -1,0 +1,30 @@
+{
+  "istilah": "pergola",
+  "entri": "per.go.la /pêrgola/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bepergola"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per.go.la /pêrgola/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "struktur luar ruangan, atapnya tersusun dari rusuk kayu yang sejajar berseling, berfungsi sebagai peneduh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "displang"
+        }
+      ]
+    }
+  ]
+}

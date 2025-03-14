@@ -1,0 +1,51 @@
+{
+  "istilah": "ganja",
+  "entri": "gan.ja1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengganja"
+  ],
+  "gabunganKata": [
+    "ganja datang (rawan)",
+    "ganja iras (menumpu)"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bagian atas mata keris",
+    "kataAsal": "gañja"
+  },
+  "data": [
+    {
+      "lema": "gan.ja1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bagian keris yang melekat pada bilah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "gagang atau pegangan kujang"
+        }
+      ]
+    },
+    {
+      "lema": "gan.ja2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman setahun yang mudah tumbuh, merupakan tumbuhan berumah dua (dalam satu pohon hanya ada bunga jantan saja atau bunga betina saja), pada bunga betina terdapat tudung bulu-bulu runcing yang mengeluarkan sejenis damar yang kemudian dikeringkan, damar dan daunnya mengandung zat narkotik aktif, terutama tetrahidrokanabinol yang dapat memabukkan, sering dijadikan campuran tembakau untuk rokok〔Cannabis sativa〕"
+        }
+      ]
+    },
+    {
+      "lema": "gan.ja3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mdr[Madura: -]",
+          "deskripsi": "nada suara remaja yang berubah menjadi besar karena mulai dewasa"
+        }
+      ]
+    }
+  ]
+}

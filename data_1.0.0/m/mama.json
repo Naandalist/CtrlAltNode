@@ -1,0 +1,46 @@
+{
+  "istilah": "mama",
+  "entri": "ma.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.ma1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang tua perempuan; ibu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada ibu"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "kelenjar susu"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ma3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "bentuk-bentuk menonjol pada bagian bawah awan yang sering ditemukan pada awan sirus, sirokumulus, altostratus, altokumulus, stratokumulus, dan kumulonimbus"
+        }
+      ]
+    }
+  ]
+}

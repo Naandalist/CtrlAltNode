@@ -1,0 +1,33 @@
+{
+  "istilah": "benta",
+  "entri": "ben.ta1 /bênta/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.ta1 /bênta/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bisul dalam daging (di bibir sebelah atas)"
+        }
+      ]
+    },
+    {
+      "lema": "ben.ta2 /bênta/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "rumput banto"
+        }
+      ]
+    }
+  ]
+}

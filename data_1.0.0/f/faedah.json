@@ -1,0 +1,34 @@
+{
+  "istilah": "faedah",
+  "entri": "fa.e.dah bentuk tidak baku: paedah, faidah",
+  "bentukTidakBaku": "paedah, faidah",
+  "kataTurunan": [
+    "berfaedah",
+    "kefaedahan",
+    "memfaedahkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "monyet mendapat bunga, adakah ia tahu akan faedah bunga itu?"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang menguntungkan",
+    "kataAsal": "fā’idah"
+  },
+  "data": [
+    {
+      "lema": "fa.e.dah bentuk tidak baku: paedah, faidah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "guna; manfaat; maslahat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang menguntungkan; untung; laba"
+        }
+      ]
+    }
+  ]
+}

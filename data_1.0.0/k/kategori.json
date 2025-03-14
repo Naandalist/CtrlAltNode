@@ -1,0 +1,44 @@
+{
+  "istilah": "kategori",
+  "entri": "ka.te.go.ri /katêgori/bentuk tidak baku: katagori",
+  "bentukTidakBaku": "katagori",
+  "kataTurunan": [
+    "berkategori",
+    "mengategorikan",
+    "mengkategorikan",
+    "terkategori"
+  ],
+  "gabunganKata": [
+    "kategori gramatikal",
+    "kategori leksikal",
+    "kategori primer",
+    "kategori sekunder",
+    "kategori semantis",
+    "kategori sintaksis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.te.go.ri /katêgori/bentuk tidak baku: katagori",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari sistem klasifikasi (golongan, jenis pangkat, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "golongan satuan bahasa yang anggotanya mempunyai perilaku sintaksis dan sifat hubungan yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tn[Ilmu Tanah: ilmu tanah]",
+          "deskripsi": "peringkat dalam sistem klasifikasi tanah yang pengelompokannya berdasarkan sifat-sifat khusus tanah"
+        }
+      ]
+    }
+  ]
+}

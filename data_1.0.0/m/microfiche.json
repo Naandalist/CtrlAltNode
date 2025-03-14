@@ -1,0 +1,33 @@
+{
+  "istilah": "microfiche",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "mikrofilm berukuran kira-kira 10 x 12 cm yang memuat rekaman di beberapa halaman buku"
+        }
+      ]
+    },
+    {
+      "lema": "microfiche",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "mikrofilm berukuran kira-kira 10 x 12 cm yang memuat rekaman di beberapa halaman buku"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "tedas",
+  "entri": "te.das1 /têdas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.das1 /têdas/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nyata; jelas: berkata dengan --; tampak --; hitam --; merah --"
+        }
+      ]
+    },
+    {
+      "lema": "te.das2 /têdas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelang-gelang (lingkaran) timbul pada tiang, pilar, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "te.das3 /têdas/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mampu menggigit (tentang gigi)"
+        }
+      ]
+    }
+  ]
+}

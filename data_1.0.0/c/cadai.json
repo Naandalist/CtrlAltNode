@@ -1,0 +1,35 @@
+{
+  "istilah": "cadai",
+  "entri": "ca.dai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencadai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.dai1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencadai"
+        }
+      ]
+    },
+    {
+      "lema": "ca.dai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain basahan untuk mandi"
+        }
+      ]
+    }
+  ]
+}

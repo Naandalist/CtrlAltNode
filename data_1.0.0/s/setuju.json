@@ -1,0 +1,45 @@
+{
+  "istilah": "setuju",
+  "entri": "tuju1 » se.tu.ju",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tuju1 » se.tu.ju",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "setujuan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sepakat; semufakat; sependapat (tidak bertentangan, tidak berselisih): kedua belah pihak sudah ~; saya ~ dengan usul Saudara"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "cocok; serasi; sesuai: saksi ~ dengan yang tertulis dalam berita acara; warna bajunya ~ benar dengan kulitnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merasa senang atau tertarik hati; suka; berkenan: kalau ~, boleh Tuan beli; rupanya ia ~ benar melihat gadis itu"
+        }
+      ]
+    },
+    {
+      "lema": "se.tu.ju /sêtuju/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat tuju1"
+        }
+      ]
+    }
+  ]
+}

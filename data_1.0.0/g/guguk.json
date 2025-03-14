@@ -1,0 +1,54 @@
+{
+  "istilah": "guguk",
+  "entri": "gu.guk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengguguk",
+    "terguguk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.guk1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengguguk; terguguk"
+        }
+      ]
+    },
+    {
+      "lema": "gu.guk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "bukit kecil"
+        }
+      ]
+    },
+    {
+      "lema": "gu.guk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Plb[Palembang: -]",
+          "deskripsi": "kelompok masyarakat dalam satu wilayah berdasarkan kesamaan keturunan, pekerjaan, atau gelar"
+        }
+      ]
+    },
+    {
+      "lema": "gu.guk4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "anjing (bahasa anak-anak)"
+        }
+      ]
+    }
+  ]
+}

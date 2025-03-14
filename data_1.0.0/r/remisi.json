@@ -1,0 +1,32 @@
+{
+  "istilah": "remisi",
+  "entri": "re.mi.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.mi.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "pengurangan hukuman yang diberikan kepada orang yang terhukum: narapidana itu mendapat -- karena membantu membongkar kejahatan narkotika"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berkurangnya gejala penyakit atau hilangnya gejala penyakit untuk sementara waktu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembebasan dari utang, penalti, atau kewajiban"
+        }
+      ]
+    }
+  ]
+}

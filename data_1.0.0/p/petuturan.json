@@ -1,0 +1,28 @@
+{
+  "istilah": "petuturan",
+  "entri": "tutur1 » pe.tu.tur.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tutur1 » pe.tu.tur.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lafal; sebutan; ucapan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "percakapan; sebut-sebutan"
+        }
+      ]
+    }
+  ]
+}

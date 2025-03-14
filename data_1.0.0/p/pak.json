@@ -1,0 +1,62 @@
+{
+  "istilah": "pak",
+  "entri": "pak1 bentuk tidak baku: pah2",
+  "bentukTidakBaku": "pah2",
+  "kataTurunan": [
+    "mengepak",
+    "mengepakkan",
+    "pengepak",
+    "pengepakan",
+    "mengepak",
+    "mengepakkan"
+  ],
+  "gabunganKata": [
+    "pak itam",
+    "pak lung",
+    "pak ngah",
+    "Pak Ogah",
+    "pak turut",
+    "pak temurun"
+  ],
+  "peribahasa": [
+    "mujur Pak Belang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pak1 bentuk tidak baku: pah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] kp[kependekan]",
+          "deskripsi": "bapak"
+        }
+      ]
+    },
+    {
+      "lema": "pak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bungkusan dari pabrik berisi barang dalam jumlah tertentu (tentang rokok, teh, garam, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peti berisi barang-barang; kemasan barang; bendela"
+        }
+      ]
+    },
+    {
+      "lema": "pak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hak mengusahakan milik (tanah dan sebagainya) orang atau memborong sesuatu yang mendatangkan hasil dengan membayar sewa (pajak) setiap tahun"
+        }
+      ]
+    }
+  ]
+}

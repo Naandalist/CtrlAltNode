@@ -1,0 +1,35 @@
+{
+  "istilah": "tewas",
+  "entri": "te.was /tèwas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketewasan",
+    "menewaskan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.was /tèwas/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kalah: tim sepak bola itu -- pada babak semifinal"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "cela; salah (luput); kekurangan (sesuatu yang kurang baik): apa --nya maka Duli Dipertuan tiada boleh mengurus ke benua Siam itu; ia masih merasa -- dalam ilmu keprajuritan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mati (dalam perang, bencana, dan sebagainya): enam gerilyawan dan puluhan tentara -- dalam pertempuran itu"
+        }
+      ]
+    }
+  ]
+}

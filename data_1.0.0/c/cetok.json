@@ -1,0 +1,37 @@
+{
+  "istilah": "cetok",
+  "entri": "ce.tok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.tok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "alat untuk mencedok adukan semen, tanah, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ce.tok /cêtok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "tudung kepala (seperti yang dipakai oleh petani Cina)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "topi gabus"
+        }
+      ]
+    }
+  ]
+}

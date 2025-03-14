@@ -1,0 +1,54 @@
+{
+  "istilah": "jarang",
+  "entri": "ja.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jarang-jarang",
+    "memperjarang",
+    "menjarang",
+    "menjarangkan",
+    "penjarang",
+    "penjarangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "jaras dikatakan raga jarang; kawan gelak banyak, kawan menangis jarang bersua"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.rang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "renggang atau lebar jaraknya (tidak rapat tentang tulisan, tumbuhan, tanaman, gigi, dan sebagainya); bersela-sela; tidak kerap (tentang tenunan, anyaman, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak merata (hanya di sana sini)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak padat (tentang penduduk di suatu daerah)"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "tidak sering"
+        }
+      ]
+    },
+    {
+      "lema": "ja.rang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ jerang"
+        }
+      ]
+    }
+  ]
+}

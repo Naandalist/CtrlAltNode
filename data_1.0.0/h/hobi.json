@@ -1,0 +1,31 @@
+{
+  "istilah": "hobi",
+  "entri": "ho.bi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhobi",
+    "pehobi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ho.bi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kegemaran; kesenangan istimewa pada waktu senggang, bukan pekerjaan utama: melukis itu sebagai -- saja, bukan sebagai mata pencahariannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "suka; gemar: mereka -- sekali menonton film kartun"
+        }
+      ]
+    }
+  ]
+}

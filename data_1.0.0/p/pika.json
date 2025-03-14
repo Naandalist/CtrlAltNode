@@ -1,0 +1,33 @@
+{
+  "istilah": "pika",
+  "entri": "pi.ka1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.ka1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kebiasaan memakan benda-benda yang tidak lazim dimakan, seperti makan tanah atau serpihan tembok"
+        }
+      ]
+    },
+    {
+      "lema": "pi.ka2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "ukuran huruf dari alat cetak yang besarnya 1/6 inci"
+        }
+      ]
+    }
+  ]
+}

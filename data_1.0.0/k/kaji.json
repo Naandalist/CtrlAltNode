@@ -1,0 +1,50 @@
+{
+  "istilah": "kaji",
+  "entri": "ka.ji1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kajian",
+    "mengaji",
+    "mengajikan",
+    "mengkaji",
+    "pengajian",
+    "pengkajian",
+    "terkaji"
+  ],
+  "gabunganKata": [
+    "kaji lama",
+    "kaji ulang kredit"
+  ],
+  "peribahasa": [
+    "lancar kaji karena diulang, pasar jalan karena diturut; pasar jalan karena diturut, lancar kaji karena diulang; sukar kaji pada orang alim, sukar uang pada orang kaya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.ji1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelajaran (agama dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyelidikan (tentang sesuatu)"
+        }
+      ]
+    },
+    {
+      "lema": "ka.ji2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut〔Plectorynchus spp.〕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "upacara",
+  "entri": "u.pa.ca.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengupacarai"
+  ],
+  "gabunganKata": [
+    "upacara adat",
+    "upacara ancak",
+    "upacara bendera",
+    "upacara inisiasi",
+    "upacara karo",
+    "upacara kenduri blang",
+    "upacara kenegaraan",
+    "upacara liele rahuipo",
+    "upacara lingkaran hidup",
+    "upacara menari",
+    "upacara nampo tawar",
+    "upacara panggih",
+    "upacara pariwanga",
+    "upacara penyucian diri",
+    "upacara piodalan",
+    "upacara pitra yadnya",
+    "upacara potong gigi",
+    "upacara tiba pisah",
+    "upacara tiba rakik",
+    "upacara tolak bala"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "perayaan, latihan, kehadiran, penghormatan",
+    "kataAsal": "upacāra"
+  },
+  "data": [
+    {
+      "lema": "u.pa.ca.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda-tanda kebesaran (seperti payung kerajaan): dayang-dayang mengiringkan raja, masing-masing membawa --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peralatan (menurut adat istiadat); rangkaian tindakan atau perbuatan yang terikat pada aturan tertentu menurut adat atau agama: -- perkawinan dilakukan secara sederhana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan atau perayaan yang dilakukan atau diadakan sehubungan dengan peristiwa penting (seperti pelantikan pejabat, pembukaan gedung baru): -- peringatan Kemerdekaan Republik Indonesia; -- pelantikan bupati; -- peresmian pabrik pupuk yang baru"
+        }
+      ]
+    }
+  ]
+}

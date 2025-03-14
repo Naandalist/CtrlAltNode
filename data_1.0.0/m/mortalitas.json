@@ -1,0 +1,36 @@
+{
+  "istilah": "mortalitas",
+  "entri": "mor.ta.li.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mor.ta.li.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kodrat bahwa setiap manusia pada akhirnya harus meninggal dunia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "angka rata-rata kematian penduduk di suatu daerah atau wilayah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proporsi kematian akibat penyakit tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kematian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "mezzo forte",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -] Mus[Musik: -]",
+          "deskripsi": "sedikit nyaring; lambangnya mf, m.f."
+        }
+      ]
+    },
+    {
+      "lema": "mezzo forte",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -] [Musik: -]",
+          "deskripsi": "sedikit nyaring; lambangnya mf, m.f."
+        }
+      ]
+    }
+  ]
+}

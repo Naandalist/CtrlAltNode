@@ -1,0 +1,37 @@
+{
+  "istilah": "kortison",
+  "entri": "kor.ti.son1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kor.ti.son1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "hormon yang dikeluarkan oleh kelenjar kulit adrenal〈C21H28O5〉"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "hormon yang dilepaskan oleh otak ketika seseorang dalam keadaan atau situasi stres, berefek negatif pada hipokasmus atau pusat memori"
+        }
+      ]
+    },
+    {
+      "lema": "kor.ti.son2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ hidrokortison"
+        }
+      ]
+    }
+  ]
+}

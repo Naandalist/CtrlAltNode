@@ -1,0 +1,64 @@
+{
+  "istilah": "tangga",
+  "entri": "tang.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertangga",
+    "setangga"
+  ],
+  "gabunganKata": [
+    "tangga berjalan",
+    "tangga beroda",
+    "tangga geser",
+    "tangga jenjang",
+    "tangga karier",
+    "tangga lagu",
+    "tangga lipat",
+    "tangga monyet",
+    "tangga nada",
+    "tangga nada mayor",
+    "tangga pandu",
+    "tangga picak",
+    "tangga pilin",
+    "tangga sambung",
+    "tangga sigai",
+    "tangga sokong",
+    "tangga sosial",
+    "tangga spiral",
+    "tangga tali",
+    "tangga teras",
+    "tangga ulir",
+    "tangga universal"
+  ],
+  "peribahasa": [
+    "dinding teretas, tangga terpasang; jatuh diimpit tangga; sudah jatuh, ditimpa tangga; tolak tangga, berayun kaki"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tang.ga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumpuan untuk naik turun dibuat dari kayu (papan, batu, dan sebagainya) bersusun berlenggek-lenggek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk tumpuan memanjat, ada bermacam-macam rupa dan namanya (seperti -- lipat, -- pilin, -- senigai), dibuat dari bambu (kayu, besi, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "injak-injak (tumpuan naik ke mobil, kereta, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang bertingkat-tingkat; alat belajar dan sebagainya yang kesukarannya berjenjang meningkat; tingkatan"
+        }
+      ]
+    }
+  ]
+}

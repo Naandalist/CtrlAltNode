@@ -1,0 +1,53 @@
+{
+  "istilah": "timur",
+  "entri": "ti.mur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketimuran",
+    "menimur"
+  ],
+  "gabunganKata": [
+    "Timur Dekat",
+    "Timur Jauh",
+    "timur laut",
+    "timur membentang",
+    "timur menenggara",
+    "Timur Tengah"
+  ],
+  "peribahasa": [
+    "timur beralih ke sebelah barat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.mur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata angin yang arahnya berlawanan dengan barat; asal matahari terbit: matahari terbit di sebelah --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang, bangsa, benua di bagian timur dunia; khususnya di benua Asia: filsafat dan kebudayaan --; -- Dekat; -- Jauh; -- Tengah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "blok timur"
+        }
+      ]
+    },
+    {
+      "lema": "ti.mur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar di Kasunan Surakarta untuk anak perempuan tertua urutan keenam dari permaisuri ketika sudah dewasa"
+        }
+      ]
+    }
+  ]
+}

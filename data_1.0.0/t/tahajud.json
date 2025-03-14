@@ -1,0 +1,30 @@
+{
+  "istilah": "tahajud",
+  "entri": "ta.ha.jud",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertahajud"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "aktivitas bangun kepada tidur untuk melakukan salat malam",
+    "kataAsal": "tahajjud"
+  },
+  "data": [
+    {
+      "lema": "ta.ha.jud",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidur sambil berjaga agar siap melakukan salat tengah malam atau membaca Al-Qur'an"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "(ditulis dengan huruf awal kapital) salat sunah pada tengah malam, seusai tidur"
+        }
+      ]
+    }
+  ]
+}

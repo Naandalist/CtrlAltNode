@@ -1,0 +1,35 @@
+{
+  "istilah": "manual",
+  "entri": "ma.nu.al1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "manual pengguna"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.nu.al1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dilakukan dengan tangan: tenunan itu masih dikerjakan secara --"
+        }
+      ]
+    },
+    {
+      "lema": "ma.nu.al2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "buku petunjuk praktis tentang suatu jenis pekerjaan atau tentang cara kerja suatu alat atau peranti tertentu: -- radio; -- televisi"
+        }
+      ]
+    }
+  ]
+}

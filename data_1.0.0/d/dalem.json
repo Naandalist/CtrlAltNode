@@ -1,0 +1,42 @@
+{
+  "istilah": "dalem",
+  "entri": "da.lem1 /dalêm/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.lem1 /dalêm/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "rumah; istana"
+        }
+      ]
+    },
+    {
+      "lema": "da.lem2 /dalêm/",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] hor[Hormat: menandai kata yang digunakan dalam ragam resmi] Jw[Jawa: -]",
+          "deskripsi": "saya"
+        }
+      ]
+    },
+    {
+      "lema": "da.lem3 /dalêm/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "sebutan untuk bupati zaman dulu"
+        }
+      ]
+    }
+  ]
+}

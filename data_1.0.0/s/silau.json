@@ -1,0 +1,42 @@
+{
+  "istilah": "silau",
+  "entri": "si.lau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesilauan",
+    "menyilaukan",
+    "tersilau",
+    "menyilau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.lau1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkilau-kilau pandangannya, tidak dapat melihat nyata karena terlampau terang cahayanya: -- mata apabila memandang matahari"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sangat kagum (tertarik, terpesona) sehingga tidak dapat melihat kenyataan (yang sebenarnya): dia -- dengan kekayaannya hingga mau saja dikawini"
+        }
+      ]
+    },
+    {
+      "lema": "si.lau2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "menyilau"
+        }
+      ]
+    }
+  ]
+}

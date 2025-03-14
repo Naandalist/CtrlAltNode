@@ -1,0 +1,33 @@
+{
+  "istilah": "pepe",
+  "entri": "pe.pe1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.pe1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kue manis yang dibuat dari adonan tepung yang berlapis-lapis dalam cetakan"
+        }
+      ]
+    },
+    {
+      "lema": "pe.pe2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kain yang keras seperti kain dril; kain pepe"
+        }
+      ]
+    }
+  ]
+}

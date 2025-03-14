@@ -1,0 +1,33 @@
+{
+  "istilah": "toto",
+  "entri": "to.to1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.to1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "totalisator"
+        }
+      ]
+    },
+    {
+      "lema": "to.to2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gor[Gorontalo: -]",
+          "deskripsi": "batang kayu yang digunakan untuk melekatkan rangka perahu"
+        }
+      ]
+    }
+  ]
+}

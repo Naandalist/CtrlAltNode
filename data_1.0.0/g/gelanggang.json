@@ -1,0 +1,54 @@
+{
+  "istilah": "gelanggang",
+  "entri": "ge.lang.gang /gêlanggang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergelanggang",
+    "menggelanggang",
+    "segelanggang"
+  ],
+  "gabunganKata": [
+    "gelanggang ayam",
+    "gelanggang bulan",
+    "gelanggang dagang",
+    "gelanggang mata",
+    "gelanggang matahari",
+    "gelanggang olahraga",
+    "gelanggang pacuan kuda",
+    "gelanggang perang",
+    "gelanggang perjuangan",
+    "gelanggang permainan",
+    "gelanggang pertempuran",
+    "gelanggang politik",
+    "gelanggang remaja",
+    "gelanggang renang",
+    "gelanggang samudra",
+    "gelanggang susu",
+    "gelanggang tinju"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.lang.gang /gêlanggang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang atau lapangan tempat menyabung ayam, bertinju, berpacu (kuda), berolahraga, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "medan perang (pertempuran, perjuangan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkaran yang mengelilingi (bulan, matahari, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

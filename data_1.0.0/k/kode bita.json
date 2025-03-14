@@ -1,0 +1,24 @@
+{
+  "istilah": "kode bita",
+  "entri": "kode » kode bita",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kode » kode bita",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bentuk-bentuk instruksi Java yang dapat diaplikasikan pada mesin virtual Java"
+        }
+      ]
+    }
+  ]
+}

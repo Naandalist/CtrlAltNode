@@ -1,0 +1,30 @@
+{
+  "istilah": "folder",
+  "entri": "fol.der /foldêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berfolder-folder"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fol.der /foldêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selebaran (barang cetakan) yang dilipat sedemikian rupa sehingga bagian yang tercetak tidak terkena lipatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "pengaturan elemen pada sistem komputer yang digunakan untuk mengelompokkan fail komputer"
+        }
+      ]
+    }
+  ]
+}

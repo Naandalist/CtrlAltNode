@@ -1,0 +1,42 @@
+{
+  "istilah": "rusa",
+  "entri": "ru.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "rusa bawean",
+    "rusa beruang",
+    "rusa rangau",
+    "rusa sambar",
+    "rusa timor",
+    "rusa totol"
+  ],
+  "peribahasa": [
+    "gajah lalu dibeli, rusa tidak terbeli; mati rusa karena tanduknya; seperti rusa kena tambat; seperti rusa masuk kampung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mamalia berkuku genap yang termasuk dalam kelompok ruminansia, bertanduk panjang dan bercabang-cabang, rambutnya berwarna cokelat tua dan bergaris-garis atau berbintik-bintik putih〔Cervidae〕"
+        }
+      ]
+    },
+    {
+      "lema": "ru.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "peti lompatan kecil (dalam senam)"
+        }
+      ]
+    }
+  ]
+}

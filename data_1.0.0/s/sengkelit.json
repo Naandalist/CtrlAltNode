@@ -1,0 +1,49 @@
+{
+  "istilah": "sengkelit",
+  "entri": "seng.ke.lit1 /sêngkêlit/bentuk tidak baku: serampat",
+  "bentukTidakBaku": "serampat",
+  "kataTurunan": [
+    "bersengkelit",
+    "bersengkelit",
+    "menyengkelit",
+    "menyengkelit"
+  ],
+  "gabunganKata": [
+    "sengkelit sabuk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cari:",
+    "kataAsal": "saṅkalita"
+  },
+  "data": [
+    {
+      "lema": "seng.ke.lit1 /sêngkêlit/bentuk tidak baku: serampat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali yang diikatkan pada kedua belah kaki untuk memudahkan memanjat pohon yang licin (misalnya batang kelapa, pinang)"
+        }
+      ]
+    },
+    {
+      "lema": "seng.ke.lit2 /sêngkêlit/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "desak"
+        }
+      ]
+    },
+    {
+      "lema": "seng.ke.lit3 /sêngkêlit/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menyengkelit"
+        }
+      ]
+    }
+  ]
+}

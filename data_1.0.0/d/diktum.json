@@ -1,0 +1,32 @@
+{
+  "istilah": "diktum",
+  "entri": "dik.tum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dik.tum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ucapan (pernyataan) resmi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keputusan; bagian dari ketetapan yang mengandung keputusan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "bagian yang memuat hal yang ditetapkan hakim dalam putusan pengadilan; amar putusan"
+        }
+      ]
+    }
+  ]
+}

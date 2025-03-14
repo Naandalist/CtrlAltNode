@@ -1,0 +1,33 @@
+{
+  "istilah": "fa",
+  "entri": "fa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama huruf ke-20 abjad Arab",
+    "kataAsal": "fā’"
+  },
+  "data": [
+    {
+      "lema": "fa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-20 abjad Arab"
+        }
+      ]
+    },
+    {
+      "lema": "fa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "nada ke-4 pada urutan tangga nada diatonik, dilambangkan dengan angka 4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "pembaca",
+  "entri": "baca » pem.ba.ca",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pembaca berita",
+    "pembaca dokumen",
+    "pembaca editor",
+    "pembaca kartu",
+    "pembaca naskah",
+    "pembaca pruf",
+    "pembaca senyap",
+    "pembaca tanda optik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "baca » pem.ba.ca",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang membaca"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang gemar dan berbakat membacakan (puisi, cerita, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "orang yang oleh pencetak diberi tugas membaca cetak coba dengan kopinya untuk meyakinkan bahwa semua pembetulan sudah dikerjakan dengan baik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "orang yang menggunakan bahan bacaan di perpustakaan; anggota perpustakaan yang sering meminjam buku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk membaca"
+        }
+      ]
+    }
+  ]
+}

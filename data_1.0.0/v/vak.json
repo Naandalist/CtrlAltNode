@@ -1,0 +1,32 @@
+{
+  "istilah": "vak",
+  "entri": "vak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata pelajaran; mata kuliah: dalam kurikulum itu -- agama juga tercantum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepandaian khusus tentang suatu hal (keterampilan dan sebagainya): setiap kali melamar pekerjaan, ia selalu ditanya --nya apa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekolah yang mendidik murid-muridnya dalam penguasaan keterampilan khusus; kejuruan: sekolah --"
+        }
+      ]
+    }
+  ]
+}

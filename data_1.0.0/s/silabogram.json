@@ -1,0 +1,28 @@
+{
+  "istilah": "silabogram",
+  "entri": "si.la.bo.gram",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.la.bo.gram",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem tulisan dengan satuan dasar berupa suku kata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda grafis yang dipakai dalam beberapa sistem aksara untuk menandai suku kata"
+        }
+      ]
+    }
+  ]
+}

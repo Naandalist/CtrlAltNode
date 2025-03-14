@@ -1,0 +1,58 @@
+{
+  "istilah": "sepat",
+  "entri": "se.pat /sêpat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sepat jawa",
+    "sepat mutiara",
+    "sepat rawa",
+    "sepat siam"
+  ],
+  "peribahasa": [
+    "bagai anak sepat ketohoran; bodoh-bodoh sepat, tak makan pancing emas; tersendeng-sendeng bagai sepat di bawah mengkuang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sepat (nama umum untuk jenis ikan Trichopodus)",
+    "kataAsal": "sěpat"
+  },
+  "data": [
+    {
+      "lema": "se.pat /sêpat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sbw[Sumbawa: diubah singkatan label karena ada bahasa ]",
+          "deskripsi": "makanan terbuat dari ikan bakar dengan santan yang diragi khusus"
+        }
+      ]
+    },
+    {
+      "lema": "se.pat1 /sêpat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan air tawar yang ukurannya dapat mencapai 25 cm, tubuhnya pipih memanjang dengan sirip dada membentuk filamen〔Trichopodus spp.〕"
+        }
+      ]
+    },
+    {
+      "lema": "se.pat2 /sêpat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rasa kelat seperti rasa salak mentah"
+        }
+      ]
+    },
+    {
+      "lema": "se.pat3 /sêpat/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kayu1"
+        }
+      ]
+    }
+  ]
+}

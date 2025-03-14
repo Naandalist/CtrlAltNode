@@ -1,0 +1,53 @@
+{
+  "istilah": "racik",
+  "entri": "ra.cik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meracik",
+    "peracik",
+    "peracikan",
+    "racikan",
+    "seracik",
+    "meracik",
+    "meracik",
+    "peracik",
+    "peracikan",
+    "racikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "membuat pengolahan dari (dengan ramuan yang tepat), mencampur",
+    "kataAsal": "racik"
+  },
+  "data": [
+    {
+      "lema": "ra.cik1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "iris"
+        }
+      ]
+    },
+    {
+      "lema": "ra.cik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jerat (dari ijuk, rambut kuda) untuk menangkap burung"
+        }
+      ]
+    },
+    {
+      "lema": "ra.cik3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ramu"
+        }
+      ]
+    }
+  ]
+}

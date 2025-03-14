@@ -1,0 +1,28 @@
+{
+  "istilah": "tesis",
+  "entri": "te.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan atau teori yang didukung oleh argumen yang dikemukakan dalam karangan; untuk mendapatkan gelar kesarjanaan pada perguruan tinggi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karangan ilmiah yang ditulis untuk mendapatkan gelar kesarjanaan pada suatu universitas (perguruan tinggi); disertasi"
+        }
+      ]
+    }
+  ]
+}

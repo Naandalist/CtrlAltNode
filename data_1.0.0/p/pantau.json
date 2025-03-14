@@ -1,0 +1,43 @@
+{
+  "istilah": "pantau",
+  "entri": "pan.tau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memantau",
+    "pantauan",
+    "pemantau",
+    "pemantauan",
+    "terpantau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.tau1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seluang yang ukurannya dapat mencapai 13 cm, terdapat bercak hitam pada ujung sirip ekor, tersebar di perairan Indonesia (Sumatra, Jawa, dan Kalimantan), Malaysia, dan Thailand〔Rasbora trilineata〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan air tawar yang ukurannya dapat mencapai 5 cm, tubuhnya pipih memanjang, bersisik, bagian belakang jari-jari terakhir sirip punggung halus, tidak memiliki sungut pada moncong, warnanya keperakan dengan bercak hitam sepanjang tubuhnya, warna sirip punggung oranye dengan tepian berwarna hitam, endemik Sumatra〔Oliotius oligolepis〕"
+        }
+      ]
+    },
+    {
+      "lema": "pan.tau2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memantau; pantauan; pemantau; pemantauan; terpantau"
+        }
+      ]
+    }
+  ]
+}

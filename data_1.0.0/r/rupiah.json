@@ -1,0 +1,28 @@
+{
+  "istilah": "rupiah",
+  "entri": "ru.pi.ah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "serupiah"
+  ],
+  "gabunganKata": [
+    "rupiah sikah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sesuatu yang dibuat dari silver atau perak, koin berstempel",
+    "kataAsal": "rūpya"
+  },
+  "data": [
+    {
+      "lema": "ru.pi.ah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang Indonesia"
+        }
+      ]
+    }
+  ]
+}

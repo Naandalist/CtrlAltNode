@@ -1,0 +1,55 @@
+{
+  "istilah": "rak",
+  "entri": "rak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "rak buku",
+    "rak handuk",
+    "rak kaset",
+    "rak makanan",
+    "rak pendingin",
+    "rak penggulung",
+    "rak sepatu",
+    "rak sepeda",
+    "rak telur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi pena digoreskan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi cabang kayu patah; derak"
+        }
+      ]
+    },
+    {
+      "lema": "rak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "para-para kayu untuk meletakkan piring; mangkuk, alat-alat dapur, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lemari yang tidak berpintu atau kepingan papan diberi tiang untuk tempat buku, sepatu, dan barang-barang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat (wadah) yang bersusun tempat menyimpan barang"
+        }
+      ]
+    }
+  ]
+}

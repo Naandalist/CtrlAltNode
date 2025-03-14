@@ -1,0 +1,28 @@
+{
+  "istilah": "pancasuara",
+  "entri": "pan.ca.su.a.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bunyi, vokal, nada, kegaduhan",
+    "kataAsal": "svara"
+  },
+  "data": [
+    {
+      "lema": "pan.ca.su.a.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "macam-macam suara (bunyi) yang bercampur-baur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bunyi (suara) yang janggal kedengarannya"
+        }
+      ]
+    }
+  ]
+}

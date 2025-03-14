@@ -1,0 +1,52 @@
+{
+  "istilah": "lela",
+  "entri": "le.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlela",
+    "melela",
+    "melelakan"
+  ],
+  "gabunganKata": [
+    "lela rambang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "daya tarik, pesona, kecantikan, permainan, hiburan, pengalihan, kesenangan",
+    "kataAsal": "līlā"
+  },
+  "data": [
+    {
+      "lema": "le.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "gerak-gerik tangan dan sebagainya yang elok; tingkah laku atau gerak-gerik yang elok (indah, menyenangkan, dan sebagainya): undur ke belakang, tegak tapak perlangkahan -- sembah sambil mengetik-ngetikkan kepala dan kakinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tingkah; ragam: banyak --"
+        }
+      ]
+    },
+    {
+      "lema": "le.la2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat rajalela"
+        }
+      ]
+    },
+    {
+      "lema": "le.la3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "meriam yang dapat berputar; rentaka"
+        }
+      ]
+    }
+  ]
+}

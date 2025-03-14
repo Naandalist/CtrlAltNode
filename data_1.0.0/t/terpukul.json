@@ -1,0 +1,28 @@
+{
+  "istilah": "terpukul",
+  "entri": "pukul1 » ter.pu.kul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pukul1 » ter.pu.kul",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kena pukul"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tidak berdaya; kalah: tampaknya dia benar-benar merasa ~"
+        }
+      ]
+    }
+  ]
+}

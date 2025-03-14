@@ -1,0 +1,35 @@
+{
+  "istilah": "pacuk",
+  "entri": "pa.cuk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memacuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "pacuk"
+  },
+  "data": [
+    {
+      "lema": "pa.cuk1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memacuk"
+        }
+      ]
+    },
+    {
+      "lema": "pa.cuk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tabung buluh untuk tempat air dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

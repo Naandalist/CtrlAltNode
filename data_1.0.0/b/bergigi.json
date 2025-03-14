@@ -1,0 +1,38 @@
+{
+  "istilah": "bergigi",
+  "entri": "gigi » ber.gi.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "belum bergigi, hendak mengunyah (menggigit); mengunyah orang bergigi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gigi » ber.gi.gi",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ada giginya; giginya telah tumbuh"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai gigi-gigi: roda itu ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "berkuasa"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bio[Biologi: -]",
+          "deskripsi": "memiliki pinggiran yang bergerigi"
+        }
+      ]
+    }
+  ]
+}

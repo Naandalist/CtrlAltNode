@@ -1,0 +1,33 @@
+{
+  "istilah": "curie",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "satuan radioaktivitas suatu zat; 1 curie sama dengan 3,7 x 1010 tiap detik; peluruhan per detik; disingkat c"
+        }
+      ]
+    },
+    {
+      "lema": "curie",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "satuan radioaktivitas suatu zat; 1 curie sama dengan 3,7 x 1010 tiap detik; peluruhan per detik; disingkat c"
+        }
+      ]
+    }
+  ]
+}

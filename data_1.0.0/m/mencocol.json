@@ -1,0 +1,33 @@
+{
+  "istilah": "mencocol",
+  "entri": "cocol1 » men.co.col",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cocol1 » men.co.col",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyentuh sedikit (sambal, air gula, dan sebagainya); mencecah; mencolek"
+        }
+      ]
+    },
+    {
+      "lema": "cocol2 » men.co.col",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menonjol ke luar; mencuar di atas: di atas kepalanya ~ sanggul semat"
+        }
+      ]
+    }
+  ]
+}

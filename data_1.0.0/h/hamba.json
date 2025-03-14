@@ -1,0 +1,50 @@
+{
+  "istilah": "hamba",
+  "entri": "ham.ba bentuk tidak baku: ambo1",
+  "bentukTidakBaku": "ambo1",
+  "kataTurunan": [
+    "berhamba",
+    "diperhamba",
+    "memperhamba",
+    "memperhambakan",
+    "menghamba",
+    "menghambai",
+    "menghambakan",
+    "penghamba",
+    "penghambaan",
+    "perhambaan"
+  ],
+  "gabunganKata": [
+    "hamba (orang) tebusan",
+    "hamba Allah",
+    "hamba hukum",
+    "hamba nafsu",
+    "hamba raja",
+    "hamba sahaya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "hamba, sahaya, abdi, pelayan, serdadu biasa, kawan",
+    "kataAsal": "hamba"
+  },
+  "data": [
+    {
+      "lema": "ham.ba bentuk tidak baku: ambo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "abdi; budak belian: memerdekakan -- adalah perbuatan yang terpuji"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "saya (untuk merendahkan diri): -- tidak berani mengatakannya, Tuanku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "ya, Tuan (sangat takzim): “Betulkah ini anakmu?” “--!”"
+        }
+      ]
+    }
+  ]
+}

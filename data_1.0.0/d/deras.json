@@ -1,0 +1,53 @@
+{
+  "istilah": "deras",
+  "entri": "de.ras1 /dêras/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menderas",
+    "penderas",
+    "penderasan",
+    "sederas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ke mana angin yang deras, ke situ condongnya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.ras1 /dêras/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat cepat (tentang aliran, gerakan, dan sebagainya): air itu mengalir dengan --nya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lebat (tentang hujan): hujan -- seperti dicurahkan dari langit"
+        }
+      ]
+    },
+    {
+      "lema": "de.ras2 /dêras/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ daras"
+        }
+      ]
+    },
+    {
+      "lema": "de.ras3 /dêras/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi sampah atau pasir dituang"
+        }
+      ]
+    }
+  ]
+}

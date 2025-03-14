@@ -1,0 +1,35 @@
+{
+  "istilah": "borang",
+  "entri": "bo.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "borangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.rang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "ranjau"
+        }
+      ]
+    },
+    {
+      "lema": "bo.rang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "formulir"
+        }
+      ]
+    }
+  ]
+}

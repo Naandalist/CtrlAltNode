@@ -1,0 +1,39 @@
+{
+  "istilah": "salon",
+  "entri": "sa.lon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyalonkan"
+  ],
+  "gabunganKata": [
+    "salon kecantikan",
+    "salon kuku",
+    "salon mobil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.lon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang (kamar) yang diatur dan dihias dengan baik (untuk menerima tamu dan sebagainya): tamu itu dipersilakan duduk di --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.lon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat pengeras suara (pada radio dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

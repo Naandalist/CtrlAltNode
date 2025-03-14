@@ -1,0 +1,56 @@
+{
+  "istilah": "pelesit",
+  "entri": "lesit4 » pe.le.sit bentuk tidak baku: palasik",
+  "bentukTidakBaku": "palasik",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pelesit bangkai",
+    "pelesit hidung",
+    "pelesit kudung"
+  ],
+  "peribahasa": [
+    "pelesit dua sejinjang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lesit4 » pe.le.sit bentuk tidak baku: palasik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal yang mengisap (darah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belalang kecil; belalang bajang; pelasik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hantu yang konon gemar sekali mengisap darah perempuan yang baru melahirkan dan anak yang baru lahir atau masih kecil sekali (kepercayaan lama)"
+        }
+      ]
+    },
+    {
+      "lema": "pe.le.sit1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat lesit4"
+        }
+      ]
+    },
+    {
+      "lema": "pe.le.sit2 /pêlêsit/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peluit"
+        }
+      ]
+    }
+  ]
+}

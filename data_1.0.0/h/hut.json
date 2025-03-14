@@ -1,0 +1,33 @@
+{
+  "istilah": "hut",
+  "entri": "Hut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pises; ikan paus",
+    "kataAsal": "ḥūt"
+  },
+  "data": [
+    {
+      "lema": "Hut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "Pises; Mina"
+        }
+      ]
+    },
+    {
+      "lema": "HUT",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "hari ulang tahun"
+        }
+      ]
+    }
+  ]
+}

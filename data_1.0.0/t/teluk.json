@@ -1,0 +1,44 @@
+{
+  "istilah": "teluk",
+  "entri": "te.luk1 /têluk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berteluk"
+  ],
+  "gabunganKata": [
+    "teluk belanga",
+    "teluk rantau"
+  ],
+  "peribahasa": [
+    "adat gunung tempatan kabut, adat teluk timbunan kapal (kapar)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.luk1 /têluk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian laut yang menjorok ke darat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluk (di pantai)"
+        }
+      ]
+    },
+    {
+      "lema": "te.luk2 /têluk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "berteluk"
+        }
+      ]
+    }
+  ]
+}

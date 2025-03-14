@@ -1,0 +1,28 @@
+{
+  "istilah": "buku bacaan",
+  "entri": "buku1 » buku bacaan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buku1 » buku bacaan",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "buku untuk pelajaran membaca (bagi anak sekolah)"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "buku yang dibaca sebagai pengisi waktu"
+        }
+      ]
+    }
+  ]
+}

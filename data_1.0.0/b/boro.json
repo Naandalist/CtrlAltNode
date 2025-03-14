@@ -1,0 +1,37 @@
+{
+  "istilah": "boro",
+  "entri": "bo.ro1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.ro1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "kain beludru untuk menyelipkan keris"
+        }
+      ]
+    },
+    {
+      "lema": "bo.ro2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "mencari nafkah sampai keluar daerah: sebagian warga desa memilih -- kerja di desa lain karena sulitnya lapangan pekerjaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "surat yang dikeluarkan oleh perangkat desa ketika ada warga yang menumpang menikah dengan warga di desa lain: masyarakat yang mengajukan -- nikah harus melengkapi beberapa persyaratan"
+        }
+      ]
+    }
+  ]
+}

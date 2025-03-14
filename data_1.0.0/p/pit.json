@@ -1,0 +1,42 @@
+{
+  "istilah": "pit",
+  "entri": "pit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kuas Cina",
+    "kataAsal": "pit"
+  },
+  "data": [
+    {
+      "lema": "pit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepeda: -- motor sepeda motor"
+        }
+      ]
+    },
+    {
+      "lema": "pit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pensil (potlot) cina; mopit"
+        }
+      ]
+    },
+    {
+      "lema": "pit3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat berhenti untuk memperbaiki kerusakan mobil atau motor (dalam arena balap)"
+        }
+      ]
+    }
+  ]
+}

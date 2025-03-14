@@ -1,0 +1,43 @@
+{
+  "istilah": "ganjil",
+  "entri": "gan.jil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengganjilkan",
+    "seganjil",
+    "keganjilan",
+    "mengganjil",
+    "mengganjilkan"
+  ],
+  "gabunganKata": [
+    "ganjil genap"
+  ],
+  "peribahasa": [
+    "dibilang genap, dipagar ganjil; keluar tak mengganjilkan, masuk tak menggenapkan (masuk tidak genap, keluar tidak ganjil); masuk tak genap, keluar tak ganjil"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gan.jil1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gasal; tidak genap: lima adalah bilangan yang --"
+        }
+      ]
+    },
+    {
+      "lema": "gan.jil2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lain daripada yang lain; tidak sebagaimana biasa; aneh; ajaib: bagi saya tidak ada yang --, semuanya biasa saja; tingkah lakunya sangat --"
+        }
+      ]
+    }
+  ]
+}

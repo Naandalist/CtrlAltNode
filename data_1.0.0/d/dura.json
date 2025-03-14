@@ -1,0 +1,48 @@
+{
+  "istilah": "dura",
+  "entri": "du.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "dura mater"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jauh, panjang (tentang jarak)",
+    "kataAsal": "dūra"
+  },
+  "data": [
+    {
+      "lema": "du.ra1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "susah; khawatir"
+        }
+      ]
+    },
+    {
+      "lema": "du.ra2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "jauh"
+        }
+      ]
+    },
+    {
+      "lema": "du.ra3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempurung tebal (tentang kelapa sawit)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dura mater"
+        }
+      ]
+    }
+  ]
+}

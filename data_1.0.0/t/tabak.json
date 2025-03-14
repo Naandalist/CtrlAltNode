@@ -1,0 +1,44 @@
+{
+  "istilah": "tabak",
+  "entri": "ta.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menabak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "cari:",
+    "kataAsal": "ṭabaq"
+  },
+  "data": [
+    {
+      "lema": "ta.bak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "talam besar tempat menghidangkan makanan"
+        }
+      ]
+    },
+    {
+      "lema": "ta.bak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menabak"
+        }
+      ]
+    },
+    {
+      "lema": "ta.bak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuali (belanga) tempat memasak nasi"
+        }
+      ]
+    }
+  ]
+}

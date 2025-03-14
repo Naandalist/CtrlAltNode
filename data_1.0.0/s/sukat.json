@@ -1,0 +1,56 @@
+{
+  "istilah": "sukat",
+  "entri": "su.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersukat",
+    "menyukat",
+    "penyukat",
+    "penyukatan",
+    "sesukat",
+    "sukatan"
+  ],
+  "gabunganKata": [
+    "sukat condong",
+    "sukat curahan berlonggok",
+    "sukat hujan akumulatif",
+    "sukat hujan takrekam",
+    "sukat salju"
+  ],
+  "peribahasa": [
+    "sukat air menjadi batu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.kat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "takaran yang isinya empat gantang: beras lima --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran (panjang, luas, isi); sukatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur kedalaman air"
+        }
+      ]
+    },
+    {
+      "lema": "su.kat2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "asalkan; kalau: adapun negeri Malaka itu -- binasa maka barulah puas hatiku"
+        }
+      ]
+    }
+  ]
+}

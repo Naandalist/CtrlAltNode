@@ -1,0 +1,28 @@
+{
+  "istilah": "haud",
+  "entri": "ha.ud",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "telaga",
+    "kataAsal": "ḥauḍ"
+  },
+  "data": [
+    {
+      "lema": "ha.ud",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangki; tempat air; bak air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "telaga"
+        }
+      ]
+    }
+  ]
+}

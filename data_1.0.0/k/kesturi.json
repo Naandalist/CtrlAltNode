@@ -1,0 +1,43 @@
+{
+  "istilah": "kesturi",
+  "entri": "kes.tu.ri1 /kêsturi/bentuk tidak baku: seturi2",
+  "bentukTidakBaku": "seturi2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kesturi mati karena baunya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "wewangian dari rusa jantan, sejenis tanaman Amaryllis Zeylanica",
+    "kataAsal": "kastūrī"
+  },
+  "data": [
+    {
+      "lema": "kes.tu.ri1 /kêsturi/bentuk tidak baku: seturi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "zat yang harum baunya, berasal dari musang kesturi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan yang mengeluarkan bau harum (seperti bunga --, kayu --, limau --)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat lembut seperti pasta, diperoleh dari tanduk banteng atau kerbau"
+        }
+      ]
+    },
+    {
+      "lema": "kes.tu.ri2 /kêsturi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serindit〔Loriculus galgulus〕"
+        }
+      ]
+    }
+  ]
+}

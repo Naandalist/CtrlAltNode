@@ -1,0 +1,40 @@
+{
+  "istilah": "lantar",
+  "entri": "lan.tar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lantaran",
+    "melantarkan",
+    "pelantar",
+    "pelantaran",
+    "pelantar",
+    "pelantaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "lantar"
+  },
+  "data": [
+    {
+      "lema": "lan.tar1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lantaran; melantarkan; pelantar; pelantaran"
+        }
+      ]
+    },
+    {
+      "lema": "lan.tar2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pelantar; pelantaran"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "istilah": "pipa",
+  "entri": "pi.pa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpipa",
+    "pemipaan",
+    "perpipaan"
+  ],
+  "gabunganKata": [
+    "pipa balas",
+    "pipa benam",
+    "pipa beton",
+    "pipa bor",
+    "pipa duga",
+    "pipa embus",
+    "pipa Eustachius",
+    "pipa gas buang",
+    "pipa isi",
+    "pipa kuras",
+    "pipa lampu",
+    "pipa laut",
+    "pipa limpah",
+    "pipa pabrik",
+    "pipa panas",
+    "pipa pemanas",
+    "pipa pesat",
+    "pipa PVC",
+    "pipa rantai",
+    "pipa udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.pa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang bentuknya bulat panjang, tengahnya berongga dari ujung ke ujung, digunakan untuk mengalirkan barang cair atau gas; pembuluh; buluh-buluh: -- air; -- minyak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menyambung rokok (dibuat dari tulang, gading, dan sebagainya): -- rokok; -- tembakau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerobong: -- pabrik gula"
+        }
+      ]
+    }
+  ]
+}

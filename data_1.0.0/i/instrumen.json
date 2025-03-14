@@ -1,0 +1,47 @@
+{
+  "istilah": "instrumen",
+  "entri": "in.stru.men",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "instrumen keuangan",
+    "instrumen kredit",
+    "instrumen navigasi",
+    "instrumen petik",
+    "instrumen pukul",
+    "instrumen tiup"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.stru.men",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang dipakai untuk mengerjakan sesuatu (seperti alat yang dipakai oleh pekerja teknik, alat-alat kedokteran, optik, dan kimia); perkakas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sarana penelitian (berupa seperangkat tes dan sebagainya) untuk mengumpulkan data sebagai bahan pengolahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat-alat musik (seperti piano, biola, gitar, suling, trompet)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang dipakai sebagai alat (diperalat) orang lain (pihak lain)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "dokumen resmi seperti akta, surat obligasi"
+        }
+      ]
+    }
+  ]
+}

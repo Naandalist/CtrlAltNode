@@ -1,0 +1,46 @@
+{
+  "istilah": "bertunda",
+  "entri": "tunda1 » ber.tun.da",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tunda1 » ber.tun.da",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ada tundanya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sedang menarik tunda (sampan dan sebagainya): sekoci ~"
+        }
+      ]
+    },
+    {
+      "lema": "tunda2 » ber.tun.da",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berlama-lama: ia mandi ~ di sungai itu"
+        }
+      ]
+    },
+    {
+      "lema": "tunda3 » ber.tun.da",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertolak: katakan segala pesan Ibu, kapal akan segera ~"
+        }
+      ]
+    }
+  ]
+}

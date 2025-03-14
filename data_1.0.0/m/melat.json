@@ -1,0 +1,33 @@
+{
+  "istilah": "melat",
+  "entri": "me.lat1 /mê.lat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.lat1 /mê.lat/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "melilitkan tali pada sepetak sawah supaya padi tidak roboh"
+        }
+      ]
+    },
+    {
+      "lema": "me.lat2 /mêlat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ri[Melayu Riau: -]",
+          "deskripsi": "suka mempermainkan kemaluannya sendiri (tentang anak laki-laki)"
+        }
+      ]
+    }
+  ]
+}

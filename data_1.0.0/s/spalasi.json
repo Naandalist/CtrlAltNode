@@ -1,0 +1,28 @@
+{
+  "istilah": "spalasi",
+  "entri": "spa.la.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "spa.la.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "pengeboman inti sasaran sehingga inti melontarkan beberapa partikel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "reaksi nuklir yang disebabkan oleh berondongan zarah bertenaga tinggi, sehingga beberapa fragmen dan zarah dipancarkan dari inti lesan itu secara simultan"
+        }
+      ]
+    }
+  ]
+}

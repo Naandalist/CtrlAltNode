@@ -1,0 +1,40 @@
+{
+  "istilah": "gedung",
+  "entri": "ge.dung /gêdung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergedung"
+  ],
+  "gabunganKata": [
+    "Gedung Arca",
+    "gedung bicara",
+    "Gedung Gajah",
+    "gedung parkir",
+    "gedung pencakar langit",
+    "gedung pola",
+    "Gedung Putih",
+    "Gedung Sate",
+    "gedung sekolah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.dung /gêdung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan tembok dan sebagainya yang berukuran besar sebagai tempat kegiatan seperti perkantoran, pertemuan, perniagaan, pertunjukan, atau olahraga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah tembok yang berukuran besar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "rintik",
+  "entri": "rin.tik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berintik-rintik",
+    "merintik-rintik",
+    "rintik-rintik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rin.tik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "titik (kurik) pada dasar warna yang lain: -- pada bulu ayam itu seperti diatur saja; -- pada kulitnya menyebabkan ia merasa rendah diri"
+        }
+      ]
+    },
+    {
+      "lema": "rin.tik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "titik (percik air dan sebagainya): -- embun; -- hujan"
+        }
+      ]
+    }
+  ]
+}

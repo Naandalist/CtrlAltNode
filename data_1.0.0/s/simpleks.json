@@ -1,0 +1,28 @@
+{
+  "istilah": "simpleks",
+  "entri": "sim.pleks /simplêks/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sim.pleks /simplêks/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sederhana"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Komp[Komputer: -]",
+          "deskripsi": "mengenai pengiriman data searah"
+        }
+      ]
+    }
+  ]
+}

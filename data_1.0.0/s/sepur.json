@@ -1,0 +1,28 @@
+{
+  "istilah": "sepur",
+  "entri": "se.pur /sêpur/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.pur /sêpur/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kereta api: ia berangkat dengan naik --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalur kereta api"
+        }
+      ]
+    }
+  ]
+}

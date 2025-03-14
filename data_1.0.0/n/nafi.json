@@ -1,0 +1,35 @@
+{
+  "istilah": "nafi",
+  "entri": "na.fi bentuk tidak baku: napi1",
+  "bentukTidakBaku": "napi1",
+  "kataTurunan": [
+    "menafikan",
+    "penafian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penegasian",
+    "kataAsal": "nafy"
+  },
+  "data": [
+    {
+      "lema": "na.fi bentuk tidak baku: napi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penolakan; penampikan; pengingkaran"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sifat negatif"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak mau; tidak menurut"
+        }
+      ]
+    }
+  ]
+}

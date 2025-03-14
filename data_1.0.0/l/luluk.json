@@ -1,0 +1,38 @@
+{
+  "istilah": "luluk",
+  "entri": "lu.luk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berluluk",
+    "terluluk",
+    "meluluk",
+    "peluluk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.luk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "lumpur"
+        }
+      ]
+    },
+    {
+      "lema": "lu.luk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "mata-mata; pelupuk"
+        }
+      ]
+    }
+  ]
+}

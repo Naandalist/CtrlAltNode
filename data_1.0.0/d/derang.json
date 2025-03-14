@@ -1,0 +1,37 @@
+{
+  "istilah": "derang",
+  "entri": "de.rang1 /dêrang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berderang",
+    "menderang",
+    "berderang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.rang1 /dêrang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi genderang"
+        }
+      ]
+    },
+    {
+      "lema": "de.rang2 /dêrang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berderang"
+        }
+      ]
+    }
+  ]
+}

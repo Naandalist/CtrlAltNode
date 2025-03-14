@@ -1,0 +1,39 @@
+{
+  "istilah": "getir",
+  "entri": "ge.tir1 /gêtir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kegetiran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.tir1 /gêtir/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rasa pahit agak pedas (seperti rasa kulit jeruk)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "susah dan sengsara (tentang kehidupan): ia sudah merasai pahit -- kehidupan sudah banyak pengalaman (senang dan susah) dalam kehidupan"
+        }
+      ]
+    },
+    {
+      "lema": "ge.tir2 /gêtir/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ getil"
+        }
+      ]
+    }
+  ]
+}

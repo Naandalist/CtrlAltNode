@@ -1,0 +1,59 @@
+{
+  "istilah": "peran",
+  "entri": "pe.ran1 /pêran/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berperan",
+    "berperanan",
+    "memerankan",
+    "pemeran",
+    "pemeranan",
+    "peranan"
+  ],
+  "gabunganKata": [
+    "peran dalam",
+    "peran ganda",
+    "peran gender",
+    "peran komikal",
+    "peran lintas",
+    "peran meniru",
+    "peran natural",
+    "peran seks",
+    "peran selintas",
+    "peran watak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ran1 /pêran/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemain sandiwara (film): -- utama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tukang lawak pada permainan makyong"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangkat tingkah yang diharapkan dimiliki oleh orang yang berkedudukan dalam masyarakat"
+        }
+      ]
+    },
+    {
+      "lema": "pe.ran2 /pêran/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balok yang menghubungkan tiang-tiang rumah di sebelah atas, tempat kasau-kasau bertumpu"
+        }
+      ]
+    }
+  ]
+}

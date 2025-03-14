@@ -1,0 +1,42 @@
+{
+  "istilah": "hartal",
+  "entri": "har.tal1 bentuk tidak baku: retal",
+  "bentukTidakBaku": "retal",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bedak arsenik bewarna kuning",
+    "kataAsal": "haritāla"
+  },
+  "data": [
+    {
+      "lema": "har.tal1 bentuk tidak baku: retal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bedak kuning dari berangan yang dicampur belerang, dipakai untuk bahan obat (boreh dan sebagainya), lulur pengantin, dan pemain wayang orang"
+        }
+      ]
+    },
+    {
+      "lema": "har.tal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemogokan umum (salah satu cara perjuangan Gandhi melawan Inggris di India sebelum kemerdekaan)"
+        }
+      ]
+    },
+    {
+      "lema": "har.tal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna kuning biasa seperti warna bijih besi"
+        }
+      ]
+    }
+  ]
+}

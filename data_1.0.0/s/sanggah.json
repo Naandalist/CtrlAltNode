@@ -1,0 +1,38 @@
+{
+  "istilah": "sanggah",
+  "entri": "sang.gah1",
+  "bentukTidakBaku": "senggah",
+  "kataTurunan": [
+    "menyanggah",
+    "penyanggah",
+    "penyanggahan",
+    "sanggahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "salah pendapat, salah paham, khilaf",
+    "kataAsal": "saṅgah"
+  },
+  "data": [
+    {
+      "lema": "sang.gah1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bantah; sanggah"
+        }
+      ]
+    },
+    {
+      "lema": "sang.gah2 bentuk tidak baku: senggah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pura keluarga milik golongan waisya dan sudra, umumnya terletak di pekarangan depan rumah"
+        }
+      ]
+    }
+  ]
+}

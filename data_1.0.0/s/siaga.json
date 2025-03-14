@@ -1,0 +1,34 @@
+{
+  "istilah": "siaga",
+  "entri": "si.a.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersiaga",
+    "kesiagaan",
+    "menyiagakan"
+  ],
+  "gabunganKata": [
+    "siaga tempur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "siap, sedia, lengkap",
+    "kataAsal": "saniga"
+  },
+  "data": [
+    {
+      "lema": "si.a.ga",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "siap sedia: mereka dalam keadaan -- untuk menolong korban kecelakaan itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Prm[Pramuka: Usulan untuk penambahan bidang baru]",
+          "deskripsi": "anggota gerakan pramuka yang berusia  7-10 tahun"
+        }
+      ]
+    }
+  ]
+}

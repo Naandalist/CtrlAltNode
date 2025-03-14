@@ -1,0 +1,35 @@
+{
+  "istilah": "rezim",
+  "entri": "re.zim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "rezim militer"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.zim1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tata pemerintah negara; pemerintahan yang berkuasa: diberitahukan bahwa -- lama sudah jatuh"
+        }
+      ]
+    },
+    {
+      "lema": "re.zim2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "ciri dan distribusi unsur iklim dalam suatu daerah"
+        }
+      ]
+    }
+  ]
+}

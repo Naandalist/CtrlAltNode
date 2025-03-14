@@ -1,0 +1,36 @@
+{
+  "istilah": "suit",
+  "entri": "su.it1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersuit",
+    "suitan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.it1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi siulan; bunyi peluit"
+        }
+      ]
+    },
+    {
+      "lema": "su.it2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara mengundi untuk dua orang dengan cara mengadu jari untuk menentukan siapa yang menang; suten"
+        }
+      ]
+    }
+  ]
+}

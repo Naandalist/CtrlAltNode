@@ -1,0 +1,41 @@
+{
+  "istilah": "persona non grata",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "orang yang tidak disukai (disenangi)"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "sikap politik yang dilaksanakan oleh pemerintah terhadap warga negara asing yang berada di wilayah negara tersebut dan mempunyai kekebalan diplomatik"
+        }
+      ]
+    },
+    {
+      "lema": "persona non grata",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "orang yang tidak disukai (disenangi)"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "sikap politik yang dilaksanakan oleh pemerintah terhadap warga negara asing yang berada di wilayah negara tersebut dan mempunyai kekebalan diplomatik"
+        }
+      ]
+    }
+  ]
+}

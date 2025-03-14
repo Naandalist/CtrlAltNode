@@ -1,0 +1,48 @@
+{
+  "istilah": "kekar",
+  "entri": "ke.kar1 /kêkar/bentuk tidak baku: kakar",
+  "bentukTidakBaku": "kakar",
+  "kataTurunan": [
+    "mengekar",
+    "mengekarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.kar1 /kêkar/bentuk tidak baku: kakar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kembang; mekar: bunga --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bercerai-berai (tidak berkumpul atau berdekatan lagi): nasinya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rekah (tentang batuan)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.kar2 /kêkar/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kerap dan padat (tentang anyaman, tenunan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tegap kuat (tentang tubuh): walaupun usianya sudah tua, badannya masih --"
+        }
+      ]
+    }
+  ]
+}

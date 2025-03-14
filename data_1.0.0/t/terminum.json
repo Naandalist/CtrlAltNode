@@ -1,0 +1,34 @@
+{
+  "istilah": "terminum",
+  "entri": "minum » ter.mi.num",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "tertangkup sama termakan tanah, telentang sama terminum air; tertelentang sama terminum air, tertelungkup sama termakan tanah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "minum » ter.mi.num",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah diminum: dua botol bir ~ habis"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak sengaja diminum: minumanku ~ olehmu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat diminum: jamu itu tidak ~ olehku karena pahitnya"
+        }
+      ]
+    }
+  ]
+}

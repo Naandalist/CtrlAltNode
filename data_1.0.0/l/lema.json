@@ -1,0 +1,50 @@
+{
+  "istilah": "lema",
+  "entri": "le.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.ma1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata atau frasa masukan dalam kamus di luar definisi atau penjelasan lain yang diberikan dalam entri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butir masukan; entri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "pernyataan yang kebenarannya harus dibuktikan untuk dipakai dalam pembuktian dalil yang lebih besar"
+        }
+      ]
+    },
+    {
+      "lema": "le.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan kembung"
+        }
+      ]
+    },
+    {
+      "lema": "le.ma /lêma/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Rj[- : -]",
+          "deskripsi": "masakan khas suku Rejang, berbahan dasar rebung dan ikan mujair atau ikan sepat yang difermentasi, beraroma menyengat"
+        }
+      ]
+    }
+  ]
+}

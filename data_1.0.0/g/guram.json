@@ -1,0 +1,40 @@
+{
+  "istilah": "guram",
+  "entri": "gu.ram1",
+  "bentukTidakBaku": "gurem",
+  "kataTurunan": [
+    "keguraman",
+    "mengguram"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.ram1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suram; muram; tidak bercahaya: betapa sepi dan --nya hidup saya tahun-tahun terakhir ini"
+        }
+      ]
+    },
+    {
+      "lema": "gu.ram2 bentuk tidak baku: gurem",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tungau yang berkaki panjang, biasanya bertubuh putih keabu-abuan yang menjadi cokelat kemerahan saat membesar, ektoparasit pada unggas, nokturnal, merupakan vektor penyakit"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -] ki[kiasan]",
+          "deskripsi": "kecil dan tidak bermutu; tidak diperhitungkan: dalam percaturan politik partai-partai -- biasanya tersisihkan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "menyalin",
+  "entri": "salin1 » me.nya.lin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "salin1 » me.nya.lin",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menukar (mengganti) dengan yang lain: artis biasanya ~ nama dengan nama yang populer"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menurun (tulisan); menulis kembali; meniru: ia terpaksa harus ~ pelajaran itu dari buku temannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menerjemahkan: ia telah ~ beberapa buku Inggris ke dalam bahasa Indonesia"
+        }
+      ]
+    }
+  ]
+}

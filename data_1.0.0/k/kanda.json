@@ -1,0 +1,39 @@
+{
+  "istilah": "kanda",
+  "entri": "kan.da1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kanda manda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "volume; bagian",
+    "kataAsal": "kāṇḍa"
+  },
+  "data": [
+    {
+      "lema": "kan.da1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan hormat kepada kakak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "kakanda"
+        }
+      ]
+    },
+    {
+      "lema": "kan.da2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tradisi; legenda"
+        }
+      ]
+    }
+  ]
+}

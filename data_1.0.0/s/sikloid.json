@@ -1,0 +1,28 @@
+{
+  "istilah": "sikloid",
+  "entri": "sik.lo.id",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sik.lo.id",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mendekati bundar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "lintasan yang dilalui oleh suatu titik pada keliling lingkaran jika titik itu bergulir sepanjang garis lurus"
+        }
+      ]
+    }
+  ]
+}

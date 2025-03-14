@@ -1,0 +1,39 @@
+{
+  "istilah": "cuka",
+  "entri": "cu.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercuka"
+  ],
+  "gabunganKata": [
+    "cuka anggur",
+    "cuka apel",
+    "cuka balsam",
+    "cuka belanda",
+    "cuka beras",
+    "cuka jawa"
+  ],
+  "peribahasa": [
+    "bak tengguli ditukar cuka; dengan sesendok madu dapat lebih banyak ditangkap serangga daripada dengan cuka sesendok; rindu jadi batasnya, maka manis tak jadi cuka"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cairan yang dibuat dari asam asetat",
+    "kataAsal": "cukra"
+  },
+  "data": [
+    {
+      "lema": "cu.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan yang masam rasanya, dibuat dari nira dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat cair yang mengandung 3–6% asam asetat, diperoleh pada oksidasi etanol karena tindakan bakterium pada anggur; bir"
+        }
+      ]
+    }
+  ]
+}

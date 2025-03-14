@@ -1,0 +1,40 @@
+{
+  "istilah": "mencacak",
+  "entri": "cacak1 » men.ca.cak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mencacak lari",
+    "mencacak tonggak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cacak1 » men.ca.cak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berdiri tegak lurus"
+        }
+      ]
+    },
+    {
+      "lema": "cacak2 » men.ca.cak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "mencubit"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "mencopet"
+        }
+      ]
+    }
+  ]
+}

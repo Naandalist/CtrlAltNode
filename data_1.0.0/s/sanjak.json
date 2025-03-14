@@ -1,0 +1,24 @@
+{
+  "istilah": "sanjak",
+  "entri": "san.jak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bentuk karya sastra yang penyajiannya dilakukan dalam baris-baris yang teratur dan terikat",
+    "kataAsal": "saja‘"
+  },
+  "data": [
+    {
+      "lema": "san.jak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karangan pendek dengan bentuk tertentu (seperti syair, pantun, gurindam): -- yang baru dibacakan tadi karangan siapa?"
+        }
+      ]
+    }
+  ]
+}

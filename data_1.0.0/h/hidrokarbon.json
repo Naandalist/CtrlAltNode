@@ -1,0 +1,30 @@
+{
+  "istilah": "hidrokarbon",
+  "entri": "hid.ro.kar.bon",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hidrokarbon alifatik",
+    "hidrokarbon aromatik",
+    "hidrokarbon jenuh",
+    "hidrokarbon siklik",
+    "hidrokarbon takjenuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hid.ro.kar.bon",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "senyawa kimia yang hanya mengandung unsur hidrogen dan karbon"
+        }
+      ]
+    }
+  ]
+}

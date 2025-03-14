@@ -1,0 +1,44 @@
+{
+  "istilah": "manah",
+  "entri": "ma.nah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermanah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pandangan, ide, pikiran, kepercayaan, opini; mental",
+    "kataAsal": "manas"
+  },
+  "data": [
+    {
+      "lema": "ma.nah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "amanah; amanat"
+        }
+      ]
+    },
+    {
+      "lema": "ma.nah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "hati; perhatian; perasaan"
+        }
+      ]
+    },
+    {
+      "lema": "ma.nah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "harta benda (dari nenek moyang)"
+        }
+      ]
+    }
+  ]
+}

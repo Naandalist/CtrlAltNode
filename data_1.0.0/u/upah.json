@@ -1,0 +1,51 @@
+{
+  "istilah": "upah",
+  "entri": "u.pah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berupah",
+    "mengupah",
+    "mengupahi",
+    "mengupahkan",
+    "pengupah",
+    "pengupahan",
+    "upah-mengupah",
+    "upahan"
+  ],
+  "gabunganKata": [
+    "upah bersih",
+    "upah borongan",
+    "upah harian",
+    "upah hati",
+    "upah lembur",
+    "upah minimum",
+    "upah perangsang",
+    "upah premi",
+    "upah pungut",
+    "upah terutang",
+    "upah wajar"
+  ],
+  "peribahasa": [
+    "upah lalu, bandar tak masuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.pah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang dan sebagainya yang dibayarkan sebagai pembalas jasa atau sebagai pembayar tenaga yang sudah dikeluarkan untuk mengerjakan sesuatu; gaji; imbalan: para buruh meminta supaya --nya dinaikkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "hasil sebagai akibat (dari suatu perbuatan); risiko"
+        }
+      ]
+    }
+  ]
+}

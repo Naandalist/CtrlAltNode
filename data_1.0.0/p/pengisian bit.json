@@ -1,0 +1,24 @@
+{
+  "istilah": "pengisian bit",
+  "entri": "isi » pengisian » pengisian bit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "isi » pengisian » pengisian bit",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "teknik yang digunakan untuk memastikan bahwa pola bit tertentu tidak pernah terjadi pada data yang ditransmisikan melalui saluran komunikasi"
+        }
+      ]
+    }
+  ]
+}

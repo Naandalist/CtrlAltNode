@@ -1,0 +1,53 @@
+{
+  "istilah": "x",
+  "entri": "X1 varian: x",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "X1 varian: x",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf ke-24 abjad Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lambang bilangan sepuluh angka Romawi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lambang bilangan 10.000 angka Romawi (ditulis dengan huruf kapital bergaris atas)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengganti nama orang atau sesuatu yang tidak (belum) diketahui nama sebenarnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengganti nama orang yang sedang dibicarakan walaupun nama orang tersebut sudah diketahui (untuk menjaga nama baiknya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "kesatuan yang tidak (belum) diketahui"
+        }
+      ]
+    },
+    {
+      "lema": "X2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat sinar1"
+        }
+      ]
+    }
+  ]
+}

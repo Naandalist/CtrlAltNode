@@ -1,0 +1,38 @@
+{
+  "istilah": "mamah",
+  "entri": "ma.mah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mamahan",
+    "memamah",
+    "memamahkan",
+    "pemamah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.mah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu"
+        }
+      ]
+    },
+    {
+      "lema": "ma.mah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kunyah"
+        }
+      ]
+    }
+  ]
+}

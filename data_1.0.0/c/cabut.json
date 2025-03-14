@@ -1,0 +1,42 @@
+{
+  "istilah": "cabut",
+  "entri": "ca.but",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercabut",
+    "cabutan",
+    "cerabut",
+    "mencabut",
+    "mencabuti",
+    "mencabutkan",
+    "pencabut",
+    "pencabutan",
+    "tercabut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.but",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencabut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "meniadakan naskah yang sudah diset"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "keluar (pergi, lari) dari suatu tempat: jangan biarkan dia -- dari sekolah"
+        }
+      ]
+    }
+  ]
+}

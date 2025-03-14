@@ -1,0 +1,37 @@
+{
+  "istilah": "tiris",
+  "entri": "ti.ris",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meniris",
+    "meniriskan",
+    "penirisan",
+    "tirisan"
+  ],
+  "gabunganKata": [
+    "tiris miris"
+  ],
+  "peribahasa": [
+    "biduk tiris menanti karam; menggenggam tiada tiris; umpama air, digenggam, tiada tiris"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.ris",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bocor (terutama tentang atap, genting, dan perahu): atapnya -- karena gentingnya pecah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merembes dan bertitik-titik"
+        }
+      ]
+    }
+  ]
+}

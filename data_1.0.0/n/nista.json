@@ -1,0 +1,40 @@
+{
+  "istilah": "nista",
+  "entri": "nis.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kenistaan",
+    "menista",
+    "menistakan",
+    "nistaan",
+    "penista",
+    "penistaan",
+    "ternista"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "terkecil, termuda, terendah, terlemah",
+    "kataAsal": "kaniṣṭha"
+  },
+  "data": [
+    {
+      "lema": "nis.ta",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hina; rendah: perbuatan itu sangat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak enak didengar: kata-kata --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "aib; cela; noda: -- yang tidak terhapuskan lagi"
+        }
+      ]
+    }
+  ]
+}

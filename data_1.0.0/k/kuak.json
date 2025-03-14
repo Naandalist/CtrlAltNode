@@ -1,0 +1,56 @@
+{
+  "istilah": "kuak",
+  "entri": "ku.ak1",
+  "bentukTidakBaku": "kowak1",
+  "kataTurunan": [
+    "menguak",
+    "menguak",
+    "menguakkan",
+    "terkuak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "lebar; luas",
+    "kataAsal": "khoah"
+  },
+  "data": [
+    {
+      "lema": "ku.ak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kerbau atau bunyi katak"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ak2 bentuk tidak baku: kowak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung hantu; kuar〔Nycticorax griseus 〕"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ak3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "buka; sibak"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ak4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "katak besar〔Rana catesbeiana〕"
+        }
+      ]
+    }
+  ]
+}

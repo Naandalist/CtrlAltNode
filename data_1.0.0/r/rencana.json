@@ -1,0 +1,62 @@
+{
+  "istilah": "rencana",
+  "entri": "ren.ca.na /rêncana/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berencana",
+    "merencana",
+    "merencanakan",
+    "perencana",
+    "perencanaan",
+    "terencana"
+  ],
+  "gabunganKata": [
+    "rencana asuhan",
+    "rencana detail tata ruang",
+    "rencana induk",
+    "rencana tapak",
+    "rencana usaha",
+    "rencana usaha tani"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tindakan mengatur; susunan, struktur, konstruksi, rancangan, pertunjukan, persipan pembuatan; karya sastra, komposisi sastra, gaya sastra; cara mengenakan (pakaian), penemuan, ciptaan; ornamen, hiasan, gedung indah",
+    "kataAsal": "rañcana"
+  },
+  "data": [
+    {
+      "lema": "ren.ca.na /rêncana/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "cerita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rancangan; buram (rangka sesuatu yang akan dikerjakan): -- kerja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "konsep; naskah (surat dan sebagainya); buram (surat): mana -- surat ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laporan pemberitaan; catatan mengenai pembicaraan dalam rapat dan sebagainya: penulis dipersilakan membacakan -- rapat anggota yang lalu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "acara (pembicaraan); program: usulnya tercantum dalam -- yang akan dibicarakan dalam rapat besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "artikel; makalah; kertas kerja: ia menulis -- untuk seminar bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maksud; niat"
+        }
+      ]
+    }
+  ]
+}

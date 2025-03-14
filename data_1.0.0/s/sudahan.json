@@ -1,0 +1,28 @@
+{
+  "istilah": "sudahan",
+  "entri": "sudah » su.dah.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sudah » su.dah.an",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sudah selesai: kita ~ saja belajarnya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sudah begitu; sesudah itu; selain itu: dia selalu makan banyak, ~ dia jarang olahraga, bagaimana tidak gemuk?"
+        }
+      ]
+    }
+  ]
+}

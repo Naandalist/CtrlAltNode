@@ -1,0 +1,40 @@
+{
+  "istilah": "menara",
+  "entri": "me.na.ra /mênara/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "menara air",
+    "menara anemometer",
+    "menara api",
+    "menara bor",
+    "menara derek",
+    "menara dingin",
+    "menara gading",
+    "menara komando",
+    "menara lonceng",
+    "menara pendingin",
+    "menara suar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat cahaya; tempat untuk azan pada masa lalu",
+    "kataAsal": "manārah"
+  },
+  "data": [
+    {
+      "lema": "me.na.ra /mênara/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan yang tinggi (seperti di masjid, gereja); bagian bangunan yang dibuat jauh lebih tinggi daripada bangunan induknya: -- masjid itu dapat dilihat dari jarak lima kilometer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan tinggi untuk mengawasi daerah sekitar atau yang menjadi petunjuk bagi kapal dan sebagainya yang sedang berlayar: untuk mengawasi hutan margasatwa itu didirikan -- pengawas"
+        }
+      ]
+    }
+  ]
+}

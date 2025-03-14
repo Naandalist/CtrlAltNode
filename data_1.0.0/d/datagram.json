@@ -1,0 +1,24 @@
+{
+  "istilah": "datagram",
+  "entri": "da.ta.gram",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.ta.gram",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan informasi dalam internet, biasanya sekaligus berisi alamat asal dan alamat tujuan pengirim"
+        }
+      ]
+    }
+  ]
+}

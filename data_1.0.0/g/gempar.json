@@ -1,0 +1,40 @@
+{
+  "istilah": "gempar",
+  "entri": "gem.par1 /gêmpar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kegemparan",
+    "menggemparkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gem.par1 /gêmpar/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "geger atau ramai sekali (karena ada kabar buruk, kerusuhan, hal yang ajaib, keributan): mendengar anak-anaknya terlanggar mobil --lah seisi rumah itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "seru; hebat"
+        }
+      ]
+    },
+    {
+      "lema": "gem.par2 /gêmpar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut, berbentuk pipih, berwarna keperakan, panjang mencapai 14 cm, hidup di dasar perairan tropis dengan kedalaman sampai 40 m, tersebar di perairan Teluk Aden, sepanjang Pantai India dan Sri Lanka, Pakistan, bagian timur sampai Filipina〔Leiognathus daura〕"
+        }
+      ]
+    }
+  ]
+}

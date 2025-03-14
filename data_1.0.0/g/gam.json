@@ -1,0 +1,33 @@
+{
+  "istilah": "gam",
+  "entri": "gam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi gemuruh seperti meriam dan sebagainya; degam"
+        }
+      ]
+    },
+    {
+      "lema": "GAM",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Gerakan Aceh Merdeka (organisasi separatis yang menginginkan Aceh lepas dari Negara Kesatuan Republik Indonesia)"
+        }
+      ]
+    }
+  ]
+}

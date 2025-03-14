@@ -1,0 +1,33 @@
+{
+  "istilah": "renvooi",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "pembetulan, perbaikan, tambahan dalam suatu akta autentik dengan memberikan tanda-tanda di pinggir dan harus diparaf"
+        }
+      ]
+    },
+    {
+      "lema": "renvooi",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "pembetulan, perbaikan, tambahan dalam suatu akta autentik dengan memberikan tanda-tanda di pinggir dan harus diparaf"
+        }
+      ]
+    }
+  ]
+}

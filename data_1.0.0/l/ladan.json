@@ -1,0 +1,37 @@
+{
+  "istilah": "ladan",
+  "entri": "la.dan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.dan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang menghasilkan damar untuk perabot atau ramuan obat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perekat yang dibuat dari damar"
+        }
+      ]
+    },
+    {
+      "lema": "la.dan2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat minyak"
+        }
+      ]
+    }
+  ]
+}

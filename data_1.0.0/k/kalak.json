@@ -1,0 +1,33 @@
+{
+  "istilah": "kalak",
+  "entri": "ka.lak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jenis pohon yang khas dan bunganya ( Uvaria rufa, kenanga liar, kel Anonaceae)",
+    "kataAsal": "kalak"
+  },
+  "data": [
+    {
+      "lema": "ka.lak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan memanjat, panjang hingga 10 m, batangnya liat dan awet, digunakan sebagai tali pengikat rakit; akar layak〔Uvaria purpurea〕"
+        }
+      ]
+    },
+    {
+      "lema": "ka.lak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Us[Using: -]",
+          "deskripsi": "masakan atau lauk semacam satai yang dimasak atau dipanggang dengan rempahnya"
+        }
+      ]
+    }
+  ]
+}

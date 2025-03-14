@@ -1,0 +1,35 @@
+{
+  "istilah": "suduk",
+  "entri": "su.duk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "suduk selira"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sebarang senjata atau alat untuk menusuk atau menembus, keris, tombak",
+    "kataAsal": "suduk"
+  },
+  "data": [
+    {
+      "lema": "su.duk1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "tikam"
+        }
+      ]
+    },
+    {
+      "lema": "su.duk2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sodok2"
+        }
+      ]
+    }
+  ]
+}

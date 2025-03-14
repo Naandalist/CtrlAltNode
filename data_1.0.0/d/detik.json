@@ -1,0 +1,39 @@
+{
+  "istilah": "detik",
+  "entri": "de.tik1 /dêtik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdetik",
+    "detikan",
+    "mendetik",
+    "sedetik",
+    "detik-detik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.tik1 /dêtik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi arloji dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "de.tik2 /dêtik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran satuan waktu 1/60 menit; sekon: dia hanya memerlukan waktu sepuluh -- untuk lari seratus meter"
+        }
+      ]
+    }
+  ]
+}

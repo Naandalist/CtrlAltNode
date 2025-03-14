@@ -1,0 +1,48 @@
+{
+  "istilah": "kacau",
+  "entri": "ka.cau bentuk tidak baku: kaco",
+  "bentukTidakBaku": "kaco",
+  "kataTurunan": [
+    "berkacau",
+    "kacauan",
+    "kekacauan",
+    "memperkacaukan",
+    "mengacau",
+    "mengacaukan",
+    "pengacau",
+    "pengacauan",
+    "terkacau"
+  ],
+  "gabunganKata": [
+    "kacau abu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.cau bentuk tidak baku: kaco",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "campur aduk (sehingga tidak terbeda-bedakan lagi); bancuh: kelompokkan surat-surat itu berdasarkan tanggal dan nomornya, jangan sampai --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kusut (kalut) tidak keruan: pikirannya bertambah -- mendengar berita itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rusuh; tidak aman; tidak tenteram: keadaan di negeri itu makin --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bercampur aduk dengan (tidak dibeda-bedakan dengan); bertukar-tukar dengan: pemakaian kata teras /téras/ kerap kali -- dengan kata teras"
+        }
+      ]
+    }
+  ]
+}

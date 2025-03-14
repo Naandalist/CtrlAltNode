@@ -1,0 +1,31 @@
+{
+  "istilah": "hapus buku",
+  "entri": "ha.pus bu.ku",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menghapus buku",
+    "penghapusbukuan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.pus bu.ku",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "penghapusan pinjaman yang macet dari neraca dan dicatat pada rekening administratif"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pencoretan barang tertentu dari daftar inventaris atau kekayaan"
+        }
+      ]
+    }
+  ]
+}

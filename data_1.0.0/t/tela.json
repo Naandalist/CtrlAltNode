@@ -1,0 +1,71 @@
+{
+  "istilah": "tela",
+  "entri": "te.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pertelaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "terang, jelas, cemerlang, nyaring lagi merdu",
+    "kataAsal": "tela"
+  },
+  "data": [
+    {
+      "lema": "te.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dapur-dapur pada senapan model kuno; telinga bedil"
+        }
+      ]
+    },
+    {
+      "lema": "te.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertelaan"
+        }
+      ]
+    },
+    {
+      "lema": "te.la3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terang; nyata"
+        }
+      ]
+    },
+    {
+      "lema": "te.la4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ ketela"
+        }
+      ]
+    },
+    {
+      "lema": "te.la5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jaringan atau membran tipis yang menyerupai sarang laba-laba"
+        }
+      ]
+    },
+    {
+      "lema": "te.la /têla/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "rumah belakang yang dibangun bersambung dengan istana, menjadi tempat tinggal wanita"
+        }
+      ]
+    }
+  ]
+}

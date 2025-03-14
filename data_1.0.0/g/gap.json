@@ -1,0 +1,37 @@
+{
+  "istilah": "gap",
+  "entri": "gap1",
+  "bentukTidakBaku": "gep",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi meja ditepuk, jantung berdebar, dan sebagainya; degap"
+        }
+      ]
+    },
+    {
+      "lema": "gap2 bentuk tidak baku: gep",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jurang pemisah; kesenjangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "lungsur",
+  "entri": "lung.sur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melungsur",
+    "lungsuran",
+    "melungsurkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "luṅsur"
+  },
+  "data": [
+    {
+      "lema": "lung.sur1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melungsur"
+        }
+      ]
+    },
+    {
+      "lema": "lung.sur2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lungsuran; melungsurkan"
+        }
+      ]
+    }
+  ]
+}

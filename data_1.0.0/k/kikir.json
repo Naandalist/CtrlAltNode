@@ -1,0 +1,43 @@
+{
+  "istilah": "kikir",
+  "entri": "ki.kir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkikir",
+    "kikiran",
+    "mengikir",
+    "kekikiran"
+  ],
+  "gabunganKata": [
+    "kikir belah rotan",
+    "kikir kuku",
+    "kikir pari",
+    "kikir parut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kikir",
+    "kataAsal": "kikir"
+  },
+  "data": [
+    {
+      "lema": "ki.kir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat dari besi baja yang bergerigi, dipakai untuk meratakan (menajamkan dan sebagainya) sesuatu: Ayah mengambil -- untuk menajamkan mata gergaji"
+        }
+      ]
+    },
+    {
+      "lema": "ki.kir2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlampau hemat memakai harta bendanya; pelit; lokek; kedekut: orang yang -- tidak banyak sahabat"
+        }
+      ]
+    }
+  ]
+}

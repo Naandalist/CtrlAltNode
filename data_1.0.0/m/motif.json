@@ -1,0 +1,38 @@
+{
+  "istilah": "motif",
+  "entri": "mo.tif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermotif"
+  ],
+  "gabunganKata": [
+    "motif dasar",
+    "motif hiasan",
+    "motif intrinsik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.tif",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pola; corak: ia menyukai kain batik dengan -- parang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "salah satu dari beberapa gagasan yang dominan di dalam karya sastra, yang dapat berupa peran, citra yang berulang, atau pola pemakaian kata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alasan (sebab) seseorang melakukan sesuatu: polisi belum menemukan -- pembunuhan itu"
+        }
+      ]
+    }
+  ]
+}

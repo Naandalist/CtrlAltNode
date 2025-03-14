@@ -1,0 +1,52 @@
+{
+  "istilah": "saleh",
+  "entri": "sa.leh1 bentuk tidak baku: sholeh, soleh, salih",
+  "bentukTidakBaku": "sholeh, soleh, salih",
+  "kataTurunan": [
+    "kesalehan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang taat; yang baik; Nabi yang diutus oleh Allah Swt. untuk kaum Samud",
+    "kataAsal": "ṣāliḥ"
+  },
+  "data": [
+    {
+      "lema": "sa.leh1 bentuk tidak baku: sholeh, soleh, salih",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "taat dan sungguh-sungguh menjalankan ibadah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suci dan beriman: mudah-mudahan ia akan menjadi anak yang --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.leh2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "datang: silakan Tuanku -- kembali esok pagi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pergi: -- berlancang"
+        }
+      ]
+    },
+    {
+      "lema": "Sa.leh3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nabi dan rasul kelima yang diutus Allah Swt."
+        }
+      ]
+    }
+  ]
+}

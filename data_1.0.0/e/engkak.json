@@ -1,0 +1,51 @@
+{
+  "istilah": "engkak",
+  "entri": "eng.kak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eng.kak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut kecil"
+        }
+      ]
+    },
+    {
+      "lema": "eng.kak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kue pai dengan isi selai, agar-agar, atau setup buah"
+        }
+      ]
+    },
+    {
+      "lema": "eng.kak1 /êngkak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "gagak kecil〔Corvus enca〕"
+        }
+      ]
+    },
+    {
+      "lema": "eng.kak2 /êngkak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Plb[Palembang: -]",
+          "deskripsi": "penganan dibuat dari adonan tepung ketan, telur, dan santan, lalu dibakar dalam loyang"
+        }
+      ]
+    }
+  ]
+}

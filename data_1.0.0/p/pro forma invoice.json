@@ -1,0 +1,33 @@
+{
+  "istilah": "pro forma invoice",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "faktur sementara, yang tidak harus sama dengan faktur sesungguhnya, yang diperlukan untuk menyalin pembayaran atau izin"
+        }
+      ]
+    },
+    {
+      "lema": "pro forma invoice",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "faktur sementara, yang tidak harus sama dengan faktur sesungguhnya, yang diperlukan untuk menyalin pembayaran atau izin"
+        }
+      ]
+    }
+  ]
+}

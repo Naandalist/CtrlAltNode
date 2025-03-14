@@ -1,0 +1,36 @@
+{
+  "istilah": "karar",
+  "entri": "ka.rar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ketenangan; kemenetapan",
+    "kataAsal": "qarār"
+  },
+  "data": [
+    {
+      "lema": "ka.rar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tenang; tenteram; aman: hendaklah senantiasa -- hatinya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tetap tenang: maka negeri Malaka pun --lah pada zaman Laksamana menjadi hulubalang itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menetap; berdiam di: Sultan itu pindahlah ke istana barunya, --lah dia di sana selama-lamanya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang gerak: kebiasaan -- merupakan ancaman kesehatan seseorang"
+        }
+      ]
+    }
+  ]
+}

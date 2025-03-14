@@ -1,0 +1,45 @@
+{
+  "istilah": "simbar",
+  "entri": "sim.bar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "simbar badak",
+    "simbar menjangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tumbuhan parasit pada kulit pohon, tumbuhan kecil seperti pakis, hiasan atau dekorasi pada daun",
+    "kataAsal": "simbar"
+  },
+  "data": [
+    {
+      "lema": "sim.bar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan berakar rimpang yang hidup melekat pada kayu tertentu, batu, dan sebagainya〔Drynaria sparsisora〕"
+        }
+      ]
+    },
+    {
+      "lema": "sim.bar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bulu yang tumbuh di dada laki-laki"
+        }
+      ]
+    },
+    {
+      "lema": "sim.bar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "antefiks"
+        }
+      ]
+    }
+  ]
+}

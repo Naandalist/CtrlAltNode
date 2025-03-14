@@ -1,0 +1,39 @@
+{
+  "istilah": "sayur",
+  "entri": "sa.yur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyayur",
+    "sayur-mayur",
+    "sayur-sayuran",
+    "sayuran"
+  ],
+  "gabunganKata": [
+    "sayur asam",
+    "sayur babi",
+    "sayur bening"
+  ],
+  "peribahasa": [
+    "seperti sayur dengan rumput"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.yur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun-daunan (seperti sawi), tumbuh-tumbuhan (taoge), polongan (kapri, buncis) dan sebagainya, yang dapat dimasak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masakan yang berkuah (seperti gulai, sup): -- asam; -- bening"
+        }
+      ]
+    }
+  ]
+}

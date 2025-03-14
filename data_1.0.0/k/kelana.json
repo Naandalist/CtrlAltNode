@@ -1,0 +1,43 @@
+{
+  "istilah": "kelana",
+  "entri": "ke.la.na1 /kêlana/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkelana",
+    "mengelana",
+    "pengelana"
+  ],
+  "gabunganKata": [
+    "kelana alam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mengelana, mengembara",
+    "kataAsal": "kalana"
+  },
+  "data": [
+    {
+      "lema": "ke.la.na1 /kêlana/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mengadakan perjalanan ke mana-mana tanpa tujuan tertentu; kembara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "penggunaan telepon seluler di luar area jangkauan lokal"
+        }
+      ]
+    },
+    {
+      "lema": "ke.la.na2 /kêlana/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar kehormatan untuk orang Bugis di Kepulauan Riau"
+        }
+      ]
+    }
+  ]
+}

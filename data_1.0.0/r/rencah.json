@@ -1,0 +1,47 @@
+{
+  "istilah": "rencah",
+  "entri": "ren.cah1 /rêncah/",
+  "bentukTidakBaku": "rancah2",
+  "kataTurunan": [
+    "merencah",
+    "terencah",
+    "merencah",
+    "perencah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ren.cah1 /rêncah/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merencah"
+        }
+      ]
+    },
+    {
+      "lema": "ren.cah2 /rêncah/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merencah"
+        }
+      ]
+    },
+    {
+      "lema": "ren.cah3 /rêncah/bentuk tidak baku: rancah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "campuran bumbu (rempah) untuk menyedapkan makanan: -- gulai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "istilah": "selir",
+  "entri": "se.lir1 /sêlir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memperselir",
+    "memperselirkan",
+    "menyelir",
+    "selir-menyelir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "sělir"
+  },
+  "data": [
+    {
+      "lema": "se.lir1 /sêlir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "gundik"
+        }
+      ]
+    },
+    {
+      "lema": "se.lir2 /sêlir/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menyelir; selir-menyelir"
+        }
+      ]
+    },
+    {
+      "lema": "se.lir3 /sêlir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "cadar; selubung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tirai (jendela dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "nomad",
+  "entri": "no.mad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "no.mad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok orang yang tidak mempunyai tempat tinggal tetap, berkelana dari satu tempat ke tempat lain, biasanya pindah pada musim tertentu ke tempat tertentu sesuai dengan keperluan kelompok itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "(hidup) berkelana, tidak menetap"
+        }
+      ]
+    }
+  ]
+}

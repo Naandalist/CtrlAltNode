@@ -1,0 +1,36 @@
+{
+  "istilah": "eksposisi",
+  "entri": "eks.po.si.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.po.si.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uraian; paparan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pameran (barang hasil industri, karya seni, kerajinan tangan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "bagian awal karya sastra yang berisi keterangan tentang tokoh dan latar; paparan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "teks yang berisi uraian atau informasi, bertujuan untuk menyampaikan pendapat atau gagasan, disajikan dengan fakta untuk memperkuat informasi"
+        }
+      ]
+    }
+  ]
+}

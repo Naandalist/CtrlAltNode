@@ -1,0 +1,49 @@
+{
+  "istilah": "sendal",
+  "entri": "sen.dal1 /sêndal/",
+  "bentukTidakBaku": "sandal2",
+  "kataTurunan": [
+    "kesendalan",
+    "menyendal",
+    "menyendalkan",
+    "sendalan",
+    "tersendal",
+    "menyendal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menarik dengan sentakan, menyentakkan, merenggut",
+    "kataAsal": "sěṇḍal"
+  },
+  "data": [
+    {
+      "lema": "sen.dal1 /sêndal/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sandal1"
+        }
+      ]
+    },
+    {
+      "lema": "sen.dal2 /sêndal/bentuk tidak baku: sandal2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menyendal"
+        }
+      ]
+    },
+    {
+      "lema": "sen.dal3 /sêndal/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "ganjal"
+        }
+      ]
+    }
+  ]
+}

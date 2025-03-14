@@ -1,0 +1,35 @@
+{
+  "istilah": "radar",
+  "entri": "ra.dar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "radar bistatis",
+    "radar cuaca",
+    "radar pelacak awan",
+    "radar pendaratan",
+    "radar pengawas permukaan laut",
+    "radar pengawasan udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.dar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat (yang memakai gelombang radio) untuk mendeteksi jarak, kecepatan, dan arah benda yang bergerak atau benda yang diam (biasanya dipakai dalam penerbangan dan pelayaran); dari radio detecting and ranging〔Myrmecodia pendans〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pengamatan; incaran: pemain itu sudah masuk dalam -- manajer dalam beberapa bulan terakhir"
+        }
+      ]
+    }
+  ]
+}

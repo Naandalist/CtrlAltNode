@@ -1,0 +1,72 @@
+{
+  "istilah": "talang",
+  "entri": "ta.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menalang",
+    "menalangi",
+    "penalang",
+    "talangan"
+  ],
+  "gabunganKata": [
+    "talang kuda",
+    "talang pati",
+    "talang uang",
+    "talang perindu"
+  ],
+  "peribahasa": [
+    "tak air talang dipancung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bambu/pipa saluran air, talang",
+    "kataAsal": "talang"
+  },
+  "data": [
+    {
+      "lema": "ta.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut〔Chorinemus lysan〕"
+        }
+      ]
+    },
+    {
+      "lema": "ta.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saluran air (dari buluh, seng, dan sebagainya) pada cucuran atap"
+        }
+      ]
+    },
+    {
+      "lema": "ta.lang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perantara dalam jual beli; makelar"
+        }
+      ]
+    },
+    {
+      "lema": "ta.lang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buluh tipis yang banyak mengandung air; biasanya untuk tabung memasak lemang〔Schizostachyum brachycladum〕"
+        }
+      ]
+    },
+    {
+      "lema": "ta.lang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dusun kecil dekat hutan (di peladangan)"
+        }
+      ]
+    }
+  ]
+}

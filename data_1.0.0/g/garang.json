@@ -1,0 +1,58 @@
+{
+  "istilah": "garang",
+  "entri": "ga.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kegarangan",
+    "menggarang",
+    "menggarangkan",
+    "segarang",
+    "garangan",
+    "menggarang",
+    "penggarang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.rang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pemarah lagi bengis; galak; ganas: bininya sangat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "kuat (hebat, gemar) sekali: -- bekerja"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "terik (tentang panas matahari)"
+        }
+      ]
+    },
+    {
+      "lema": "ga.rang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "panggang"
+        }
+      ]
+    },
+    {
+      "lema": "ga.rang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "bagian dapur tempat mencuci beras, piring, dan peralatan dapur yang lain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "tikam",
+  "entri": "ti.kam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertikam-tikaman",
+    "menikam",
+    "menikamkan",
+    "penikam",
+    "penikaman",
+    "pertikaman",
+    "tertikam",
+    "tikam-menikam",
+    "tikaman",
+    "menikam",
+    "tikaman"
+  ],
+  "gabunganKata": [
+    "tikam membunuh",
+    "tikam dadu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.kam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tusukan (dengan barang yang tajam, misalnya keris atau tombak): luka kena -- luka karena tertusuk senjata tajam"
+        }
+      ]
+    },
+    {
+      "lema": "ti.kam2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menikam"
+        }
+      ]
+    }
+  ]
+}

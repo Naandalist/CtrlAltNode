@@ -1,0 +1,33 @@
+{
+  "istilah": "sawab",
+  "entri": "sa.wab1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pahala",
+    "kataAsal": "ṡawāb"
+  },
+  "data": [
+    {
+      "lema": "sa.wab1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "sesuatu yang benar; kebenaran"
+        }
+      ]
+    },
+    {
+      "lema": "sa.wab2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ganjaran (di akhirat); pahala"
+        }
+      ]
+    }
+  ]
+}

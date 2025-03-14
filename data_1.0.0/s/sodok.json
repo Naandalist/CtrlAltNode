@@ -1,0 +1,40 @@
+{
+  "istilah": "sodok",
+  "entri": "so.dok1",
+  "bentukTidakBaku": "suduk2",
+  "kataTurunan": [
+    "menyodok",
+    "penyodok",
+    "penyodokan",
+    "tersodok",
+    "menyodok",
+    "sodok-sodokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.dok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekop; tajak"
+        }
+      ]
+    },
+    {
+      "lema": "so.dok2 bentuk tidak baku: suduk2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tolak, dorong, atau sorong"
+        }
+      ]
+    }
+  ]
+}

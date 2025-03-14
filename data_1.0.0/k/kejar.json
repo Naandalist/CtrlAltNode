@@ -1,0 +1,49 @@
+{
+  "istilah": "kejar",
+  "entri": "ke.jar1 /kêjar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkejar-kejaran",
+    "berkejaran",
+    "bersikejar",
+    "dikejar",
+    "kejar-mengejar",
+    "kejaran",
+    "mengejar",
+    "mengejar-ngejar",
+    "mengejarkan",
+    "pengejar",
+    "pengejaran",
+    "terkejar",
+    "terkejar-kejar"
+  ],
+  "gabunganKata": [
+    "kejar tayang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.jar1 /kêjar/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "susul dengan berlari"
+        }
+      ]
+    },
+    {
+      "lema": "ke.jar2 /kêjar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "kelompok belajar (program pendidikan kesetaraan yang difasilitasi oleh pemerintah bagi peserta didik yang tidak mampu bersekolah formal dan yang putus sekolah tetapi ingin melanjutkan pendidikan kembali, terdiri atas kejar paket A setara SD/MI, B setara SMP/MT, dan C setara SMA/MA)"
+        }
+      ]
+    }
+  ]
+}

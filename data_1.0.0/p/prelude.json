@@ -1,0 +1,46 @@
+{
+  "istilah": "prelude",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Pr[Prancis: -]",
+          "deskripsi": "bagian pendahuluan yang dimainkan sebelum bagian utama yang lebih panjang (tentang musik)"
+        }
+      ]
+    },
+    {
+      "lema": "prélude",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Prancis: -]",
+          "deskripsi": "bagian pendahuluan yang dimainkan sebelum bagian utama yang lebih panjang (tentang musik)"
+        }
+      ]
+    },
+    {
+      "lema": "pre.lu.de /preludê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "lagu pendek yang dicipta untuk mengawali atau mengantarkan pergelaran nyanyian atau musik yang sebenarnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pendahuluan yang mengisyaratkan atau menyebabkan suatu rangkaian kejadian"
+        }
+      ]
+    }
+  ]
+}

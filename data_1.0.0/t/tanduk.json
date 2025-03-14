@@ -1,0 +1,65 @@
+{
+  "istilah": "tanduk",
+  "entri": "tan.duk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertanduk",
+    "menanduk",
+    "menandukkan",
+    "penanduk",
+    "penandukan",
+    "tandukan"
+  ],
+  "gabunganKata": [
+    "tanduk belakang",
+    "tanduk lok"
+  ],
+  "peribahasa": [
+    "anak dibuang tama tanduk; bagai tanduk bersendi gading; bagai tanduk diberkas; biar dahi berluluk, asal tanduk mengena; kerbau runcing tanduk; meminta tanduk kepada kuda; runcing tanduk; runcing tanduk (bengkak kening); sudah dapat gading bertuah, tanduk tiada berguna lagi; tak tanduk, telinga dipulas; tanduk di berkas; tanduk di kepala tak dapat digelengkan; telah dapat gading bertuah, terbuang tanduk kerbau mati; telur di ujung tanduk; telur di ujung tanduk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menuju langsung kepada sesuatu, cara bertindak yang baik dan benar",
+    "kataAsal": "tanduk"
+  },
+  "data": [
+    {
+      "lema": "tan.duk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cula dua yang tumbuh di kepala (pada lembu, kerbau, kambing, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan dari tanduk: sisir dari --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang bentuknya seperti tanduk: pisang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjuluran kulit yang bersifat tanduk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian zat kelabu sumsum punggung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kekuasaan"
+        }
+      ]
+    },
+    {
+      "lema": "tan.duk2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat tindak"
+        }
+      ]
+    }
+  ]
+}

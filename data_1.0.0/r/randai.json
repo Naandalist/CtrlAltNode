@@ -1,0 +1,36 @@
+{
+  "istilah": "randai",
+  "entri": "ran.dai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merandai",
+    "berandai-randai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ran.dai1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "merandai"
+        }
+      ]
+    },
+    {
+      "lema": "ran.dai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "gerak tari dan silat yang dibawakan oleh sekelompok orang yang berkeliling membentuk lingkaran sambil bernyanyi dan bertepuk tangan, merupakan medium cerita “kaba”"
+        }
+      ]
+    }
+  ]
+}

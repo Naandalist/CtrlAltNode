@@ -1,0 +1,33 @@
+{
+  "istilah": "sowan",
+  "entri": "so.wan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menghadap, seseorang yang tinggi derajatnya",
+    "kataAsal": "sowan"
+  },
+  "data": [
+    {
+      "lema": "so.wan1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menghadap (kepada orang yang dianggap harus dihormati, seperti raja, guru, atasan, orang tua); berkunjung"
+        }
+      ]
+    },
+    {
+      "lema": "so.wan2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ soang"
+        }
+      ]
+    }
+  ]
+}

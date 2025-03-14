@@ -1,0 +1,37 @@
+{
+  "istilah": "moler",
+  "entri": "mo.ler1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.ler1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sundal; pelacur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelacuran"
+        }
+      ]
+    },
+    {
+      "lema": "mo.ler2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terpelintir layu (tentang daun bawang)"
+        }
+      ]
+    }
+  ]
+}

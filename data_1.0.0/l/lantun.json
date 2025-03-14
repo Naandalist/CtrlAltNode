@@ -1,0 +1,41 @@
+{
+  "istilah": "lantun",
+  "entri": "lan.tun1 bentuk tidak baku: lentun",
+  "bentukTidakBaku": "lentun",
+  "kataTurunan": [
+    "melantun",
+    "melantunkan",
+    "pelantun",
+    "lantunan",
+    "melantun",
+    "melantunkan",
+    "pelantun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.tun1 bentuk tidak baku: lentun",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melantun; melantunkan; pelantun"
+        }
+      ]
+    },
+    {
+      "lema": "lan.tun2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lantunan; melantun; melantunkan; pelantun"
+        }
+      ]
+    }
+  ]
+}

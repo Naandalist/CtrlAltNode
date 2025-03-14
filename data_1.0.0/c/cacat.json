@@ -1,0 +1,60 @@
+{
+  "istilah": "cacat",
+  "entri": "ca.cat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercacat",
+    "cacatan",
+    "kecacatan",
+    "mencacat",
+    "mencacati",
+    "pencacat",
+    "pencacatan",
+    "secacat",
+    "tercacat"
+  ],
+  "gabunganKata": [
+    "cacat badan",
+    "cacat bahasa",
+    "cacat bawaan",
+    "cacat cela",
+    "cacat naskah",
+    "cacat tetap",
+    "cacat tetap sebagian",
+    "cacat tetap seluruhnya",
+    "cacat total",
+    "cacat total sementara",
+    "cacat total tetap",
+    "cacat tubuh",
+    "cacat wicara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.cat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekurangan yang menyebabkan nilai atau mutunya kurang baik atau kurang sempurna (yang terdapat pada badan, benda, batin, atau akhlak): karena --nya itulah, ia tidak diterima di sekolah militer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lecet (kerusakan, noda) yang menyebabkan keadaannya menjadi kurang baik (kurang sempurna): coba periksa barang itu baik-baik, barangkali ada --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cela; aib: segala yang baik tentu ada --nya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak (kurang) sempurna: akibat kecelakaan itu, sekarang ia menjadi --"
+        }
+      ]
+    }
+  ]
+}

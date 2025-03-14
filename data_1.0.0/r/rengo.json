@@ -1,0 +1,33 @@
+{
+  "istilah": "rengo",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jp[Jepang: -]",
+          "deskripsi": "serikat dagang"
+        }
+      ]
+    },
+    {
+      "lema": "rengo",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jepang: -]",
+          "deskripsi": "serikat dagang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "informan",
+  "entri": "in.for.man",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.for.man",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memberi informasi: dia adalah -- polisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menjadi sumber data dalam penelitian; narasumber"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "seseorang yang mengumpulkan bahan berita tetapi tidak berpartisipasi dalam proses penulisan"
+        }
+      ]
+    }
+  ]
+}

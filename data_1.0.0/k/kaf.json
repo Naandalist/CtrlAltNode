@@ -1,0 +1,33 @@
+{
+  "istilah": "kaf",
+  "entri": "kaf1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kaf1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-22 abjad Arab"
+        }
+      ]
+    },
+    {
+      "lema": "kaf2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bld[Belanda: -]",
+          "deskripsi": "kertas sampul"
+        }
+      ]
+    }
+  ]
+}

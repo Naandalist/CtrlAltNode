@@ -1,0 +1,33 @@
+{
+  "istilah": "real",
+  "entri": "re.al1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.al1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nyata"
+        }
+      ]
+    },
+    {
+      "lema": "re.al2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ rial1"
+        }
+      ]
+    }
+  ]
+}

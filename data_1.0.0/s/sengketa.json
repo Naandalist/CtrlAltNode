@@ -1,0 +1,38 @@
+{
+  "istilah": "sengketa",
+  "entri": "seng.ke.ta /sêngketa/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersengketa",
+    "mempersengketakan",
+    "persengketaan"
+  ],
+  "gabunganKata": [
+    "sengketa wilayah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "genting atau kritis",
+    "kataAsal": "saṃkaṭa"
+  },
+  "data": [
+    {
+      "lema": "seng.ke.ta /sêngketa/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang menyebabkan perbedaan pendapat; pertengkaran; perbantahan: perkara yang kecil dapat juga menimbulkan -- besar; daerah -- daerah yang menjadi rebutan (pokok pertengkaran)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertikaian; perselisihan: -- di dalam partai itu akhirnya dapat diselesaikan dengan baik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkara (dalam pengadilan): tidak ada -- yang tidak dapat diselesaikan"
+        }
+      ]
+    }
+  ]
+}

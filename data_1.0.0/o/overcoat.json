@@ -1,0 +1,41 @@
+{
+  "istilah": "overcoat",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "jas hangat yang dipakai dalam hawa dingin"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "cat paling luar"
+        }
+      ]
+    },
+    {
+      "lema": "overcoat",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "jas hangat yang dipakai dalam hawa dingin"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "cat paling luar"
+        }
+      ]
+    }
+  ]
+}

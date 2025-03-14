@@ -1,0 +1,39 @@
+{
+  "istilah": "eban",
+  "entri": "e.ban1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dieban",
+    "mengeban",
+    "mengeban"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "pergi berempap, pulang eban"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ban1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "empas; banting; lempar ke sisi"
+        }
+      ]
+    },
+    {
+      "lema": "e.ban2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengeban"
+        }
+      ]
+    }
+  ]
+}

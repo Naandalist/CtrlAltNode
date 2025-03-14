@@ -1,0 +1,28 @@
+{
+  "istilah": "hawari",
+  "entri": "ha.wa.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penolong; penasihat; sahabat",
+    "kataAsal": "ḥawārī"
+  },
+  "data": [
+    {
+      "lema": "ha.wa.ri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sahabat Nabi Isa a.s."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sahabat yang tulus"
+        }
+      ]
+    }
+  ]
+}

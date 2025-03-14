@@ -1,0 +1,32 @@
+{
+  "istilah": "bilabial",
+  "entri": "bi.la.bi.al",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.la.bi.al",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan kedua bibir"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "dihasilkan dengan menyempitkan kedua bibir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bunyi atau fonem yang terjadi karena penyempitan kedua bibir (misalnya p, b, dan m)"
+        }
+      ]
+    }
+  ]
+}

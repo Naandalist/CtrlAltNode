@@ -1,0 +1,33 @@
+{
+  "istilah": "pesara",
+  "entri": "pe.sa.ra1 /pêsara/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.sa.ra1 /pêsara/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kubur; (pe)kuburan; pusara"
+        }
+      ]
+    },
+    {
+      "lema": "pe.sa.ra2 /pêsara/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pasar1"
+        }
+      ]
+    }
+  ]
+}

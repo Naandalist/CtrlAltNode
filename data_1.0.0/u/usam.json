@@ -1,0 +1,33 @@
+{
+  "istilah": "usam",
+  "entri": "u.sam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.sam1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kusam; suram; kurang bercahaya (tentang warna)"
+        }
+      ]
+    },
+    {
+      "lema": "u.sam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "ampas kelapa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "melas",
+  "entri": "me.las1 /mêlas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memelas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "wělas"
+  },
+  "data": [
+    {
+      "lema": "me.las1 /mêlas/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memelas"
+        }
+      ]
+    },
+    {
+      "lema": "me.las2 /mêlas/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Us[Using: -]",
+          "deskripsi": "memancing ikan dengan mengulurkan tali di belakang perahu (yang sedang berjalan), dengan memakai umpan buatan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "sanskerta",
+  "entri": "San.sker.ta /sanskêrta/bentuk tidak baku: Sangsekerta, Sanskrit, Sansekerta",
+  "bentukTidakBaku": "Sangsekerta, Sanskrit, Sansekerta",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "San.sker.ta /sanskêrta/bentuk tidak baku: Sangsekerta, Sanskrit, Sansekerta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa kesusastraan Hindu Kuno"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hin[Agama Hindu: -]",
+          "deskripsi": "bahasa kitab suci Weda"
+        }
+      ]
+    }
+  ]
+}

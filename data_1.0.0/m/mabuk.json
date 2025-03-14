@@ -1,0 +1,65 @@
+{
+  "istilah": "mabuk",
+  "entri": "ma.buk bentuk tidak baku: mabok",
+  "bentukTidakBaku": "mabok",
+  "kataTurunan": [
+    "bermabuk-mabukan",
+    "dimabuk",
+    "kemabukan",
+    "mabuk-mabukan",
+    "memabukkan",
+    "pemabuk"
+  ],
+  "gabunganKata": [
+    "mabuk andan",
+    "mabuk asmara",
+    "mabuk berahi",
+    "mabuk bunga raya",
+    "mabuk bunga selasih",
+    "mabuk cendawan",
+    "mabuk cinta",
+    "mabuk darah",
+    "mabuk darat",
+    "mabuk duit",
+    "mabuk empat tiang",
+    "mabuk gadung",
+    "mabuk gawai",
+    "mabuk gunung",
+    "mabuk kecubung",
+    "mabuk kepayang",
+    "mabuk laut",
+    "mabuk ombak",
+    "mabuk udara"
+  ],
+  "peribahasa": [
+    "bagai anak dara mabuk andam; mabuk agak-agak (kira-kira); mabuk di enggang lalu; sebagai orang mabuk gadung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.buk bentuk tidak baku: mabok",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa pening atau hilang kesadaran (karena terlalu banyak minum minuman keras, makan gadung, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbuat di luar kesadaran; lupa diri: rupa-rupanya dia sudah --, tergoda rayuan sehingga lupa bahwa dia sudah berkeluarga"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sangat gemar (suka): dia sedang -- berhias"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tergila-gila; sangat berahi: bentuk wajah yang mungil dengan sinar mata yang lembut itulah yang membuat aku -- kepadanya"
+        }
+      ]
+    }
+  ]
+}

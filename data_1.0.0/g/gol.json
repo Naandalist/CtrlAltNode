@@ -1,0 +1,39 @@
+{
+  "istilah": "gol",
+  "entri": "gol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengegolkan"
+  ],
+  "gabunganKata": [
+    "gol biasa",
+    "gol bunuh diri",
+    "gol emas",
+    "gol perak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gawang pada permainan bola: bola itu melambung tinggi melampaui mistar --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masuknya bola ke dalam gawang: wasit memutuskan -- kedua tidak sah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tercapai maksudnya (tujuan); berhasil (tentang mosi, rancangan, dan sebagainya): kenaikan upah yang dituntut oleh buruh telah --; kalau RUU itu --, hak cipta para pengarang akan terlindungi secara hukum"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "istilah": "bulan",
+  "entri": "bu.lan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbulan",
+    "berbulan-bulan",
+    "bulan-bulanan",
+    "bulanan",
+    "membulan",
+    "membulan-bulani",
+    "sebulan"
+  ],
+  "gabunganKata": [
+    "bulan bahasa dan sastra",
+    "bulan baru",
+    "bulan bintang",
+    "bulan biru",
+    "bulan darah",
+    "bulan dimakan Rahu",
+    "bulan gelap",
+    "bulan gerhana",
+    "bulan haji",
+    "bulan kapangan",
+    "bulan kembar",
+    "bulan kesiangan",
+    "bulan madu",
+    "bulan mati",
+    "bulan muda",
+    "bulan panen",
+    "bulan penuh",
+    "bulan puasa",
+    "bulan purnama",
+    "bulan Ruwah",
+    "bulan sabit",
+    "bulan sabit baru",
+    "Bulan Sabit Merah",
+    "bulan sabit tua",
+    "bulan suci",
+    "bulan Sura",
+    "bulan surut",
+    "bulan susut",
+    "bulan timbul",
+    "bulan tua"
+  ],
+  "peribahasa": [
+    "bagai bulan dengan matahari; bagai bulan kesiangan; bulan naik, matahari naik; pepat kuku seperti bulan tiga hari; si cebol hendak mencapai bulan (bintang); siang bagai hari, terang bagai bulan; seperti bulan kesiangan; seperti pungguk merindukan bulan; terang bagai bulan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.lan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "(huruf pertama biasa ditulis kapital) satelit alami yang mengitari bumi, tampak bersinar pada malam hari karena pantulan sinar matahari: pesawat antariksa Apollo berhasil mendarat di --; bumi bermandikan cahaya --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masa atau jangka waktu perputaran bulan mengitari bumi dari mulai tampaknya bulan sampai hilang kembali (29 atau 30 hari); masa yang lamanya 1/12 tahun: penataran itu berlangsung selama dua --; istrinya sedang hamil empat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "satelit alami suatu planet: Fobos adalah salah satu -- Mars"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "pit stop",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "tempat perhentian sementara untuk mengisi bahan bakar, mengganti ban dan sebagainya dalam perlombaan balap motor atau mobil"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "tempat perhentian untuk mengisi bahan bakar kendaraan, istirahat, makan, dan sebagainya ketika dalam perjalanan"
+        }
+      ]
+    },
+    {
+      "lema": "pit stop",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "tempat perhentian sementara untuk mengisi bahan bakar, mengganti ban dan sebagainya dalam perlombaan balap motor atau mobil"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "tempat perhentian untuk mengisi bahan bakar kendaraan, istirahat, makan, dan sebagainya ketika dalam perjalanan"
+        }
+      ]
+    }
+  ]
+}

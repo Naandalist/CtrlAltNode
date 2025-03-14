@@ -1,0 +1,44 @@
+{
+  "istilah": "kerpus",
+  "entri": "ker.pus1 /kêrpus/",
+  "bentukTidakBaku": "karpus",
+  "kataTurunan": [
+    "mengerpus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ker.pus1 /kêrpus/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kopiah tidur"
+        }
+      ]
+    },
+    {
+      "lema": "ker.pus2 /kêrpus/bentuk tidak baku: karpus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bubungan rumah yang dilepa (diturap)"
+        }
+      ]
+    },
+    {
+      "lema": "ker.pus3 /kêrpus/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rumah tahanan bagi prajurit"
+        }
+      ]
+    }
+  ]
+}

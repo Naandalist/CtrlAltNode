@@ -1,0 +1,48 @@
+{
+  "istilah": "dandang",
+  "entri": "dan.dang1",
+  "bentukTidakBaku": "dendang2, deret2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "jika tak lalu dandang di air, di gurun dirangkakkan (ditanjakkan)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dan.dang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "periuk besar untuk mengukus nasi dan makanan lainnya, biasanya dibuat dari tembaga atau aluminium"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah terbuka atau bertutup untuk menguapkan zat cair atau membangkitkan uap air"
+        }
+      ]
+    },
+    {
+      "lema": "dan.dang2 bentuk tidak baku: dendang2, deret2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu yang dibuat dari sebatang kayu yang besar; dendang"
+        }
+      ]
+    },
+    {
+      "lema": "dan.dang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gagak"
+        }
+      ]
+    }
+  ]
+}

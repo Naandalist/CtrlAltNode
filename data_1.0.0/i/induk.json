@@ -1,0 +1,71 @@
+{
+  "istilah": "induk",
+  "entri": "in.duk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berinduk",
+    "indukan",
+    "keindukan",
+    "menginduk",
+    "pengindukan",
+    "seperindukan"
+  ],
+  "gabunganKata": [
+    "induk bako",
+    "induk bala",
+    "induk bangsa",
+    "induk beras",
+    "induk buatan",
+    "induk domba",
+    "induk inang",
+    "induk jari",
+    "induk kalimat",
+    "induk karangan",
+    "induk kereta api",
+    "induk madu",
+    "induk pasukan",
+    "induk perusahaan",
+    "induk roti",
+    "induk rumah",
+    "induk samba",
+    "induk semang",
+    "induk tangan",
+    "induk tentara",
+    "induk utang"
+  ],
+  "peribahasa": [
+    "anak ayam kehilangan induk; sebagai di rumah induk bako; tersabung akan induk ayam (tersabung akan itik)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.duk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu (terutama tentang binatang); emak: -- ayam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "konstituen terpenting dalam konstruksi modifikasi yang berkemampuan menempati fungsi sintaktis yang sama dengan seluruh konstruksi itu, misalnya berjalan dalam berjalan cepat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "yang terutama; yang menjadi pokok atau pangkal yang menjadi asal: -- keributan itu adalah diganggunya gadis lugu itu oleh pemuda berandal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "inti; pati; bibit; biang: -- cuka; -- karbol"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pusat (yang menjadi penyatu bagian, cabang, dan sebagainya): -- perusahaan; -- organisasi"
+        }
+      ]
+    }
+  ]
+}

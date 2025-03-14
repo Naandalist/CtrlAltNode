@@ -1,0 +1,28 @@
+{
+  "istilah": "bopok",
+  "entri": "bo.pok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "rusak; sangat lemah (tentang tubuh)",
+    "kataAsal": "bô poh"
+  },
+  "data": [
+    {
+      "lema": "bo.pok",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "rusak; tidak terpakai lagi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lemah sekali (tentang badan)"
+        }
+      ]
+    }
+  ]
+}

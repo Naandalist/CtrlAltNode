@@ -1,0 +1,36 @@
+{
+  "istilah": "orok",
+  "entri": "o.rok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengorok",
+    "pengorok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.rok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bayi"
+        }
+      ]
+    },
+    {
+      "lema": "o.rok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dengkur"
+        }
+      ]
+    }
+  ]
+}

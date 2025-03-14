@@ -1,0 +1,30 @@
+{
+  "istilah": "kahat",
+  "entri": "ka.hat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekahatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kekeringan",
+    "kataAsal": "qaḥṭ"
+  },
+  "data": [
+    {
+      "lema": "ka.hat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kekeringan karena tidak turun hujan; kemarau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kekurangan makanan; (bencana) kelaparan"
+        }
+      ]
+    }
+  ]
+}

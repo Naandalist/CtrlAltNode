@@ -1,0 +1,47 @@
+{
+  "istilah": "hajat",
+  "entri": "ha.jat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhajat",
+    "berhajatan",
+    "hajatan",
+    "menghajati",
+    "menghajatkan"
+  ],
+  "gabunganKata": [
+    "hajat besar",
+    "hajat kecil",
+    "hajat masyarakat",
+    "hajat seni"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kebutuhan",
+    "kataAsal": "ḥājah"
+  },
+  "data": [
+    {
+      "lema": "ha.jat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maksud; keinginan; kehendak: apa --mu datang ke sini?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kebutuhan atau keperluan: aku merasa diberi -- hidup yang melimpah dan nikmat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selamatan: semua kenalan akan kami undang dalam -- itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotoran; tinja: siapa yang membuang -- di kebun?"
+        }
+      ]
+    }
+  ]
+}

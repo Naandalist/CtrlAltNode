@@ -1,0 +1,61 @@
+{
+  "istilah": "kepak",
+  "entri": "ke.pak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengepak",
+    "terkepak",
+    "berkepak",
+    "berkepak-kepak",
+    "mengepak-ngepakkan",
+    "mengepakkan",
+    "terkepak-kepak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kepak singkat, terbang hendak tinggi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.pak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gendong pada rusuk"
+        }
+      ]
+    },
+    {
+      "lema": "ke.pak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kapai"
+        }
+      ]
+    },
+    {
+      "lema": "ke.pak3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terkepak"
+        }
+      ]
+    },
+    {
+      "lema": "ke.pak /kêpak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sayap: -- burung"
+        }
+      ]
+    }
+  ]
+}

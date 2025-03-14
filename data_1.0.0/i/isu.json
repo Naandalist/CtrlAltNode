@@ -1,0 +1,32 @@
+{
+  "istilah": "isu",
+  "entri": "i.su",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengisukan"
+  ],
+  "gabunganKata": [
+    "isu turunan bawaan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.su",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masalah yang dikedepankan (untuk ditanggapi dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kabar yang tidak jelas asal usulnya dan tidak terjamin kebenarannya; kabar angin; desas-desus"
+        }
+      ]
+    }
+  ]
+}

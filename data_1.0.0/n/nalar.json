@@ -1,0 +1,43 @@
+{
+  "istilah": "nalar",
+  "entri": "na.lar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bernalar",
+    "kebernalaran",
+    "menalarkan",
+    "penalaran",
+    "pernalaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penglihatan; pemikiran",
+    "kataAsal": "naẓar"
+  },
+  "data": [
+    {
+      "lema": "na.lar1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "selalu"
+        }
+      ]
+    },
+    {
+      "lema": "na.lar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertimbangan tentang baik buruk dan sebagainya; akal budi: setiap keputusan harus didasarkan -- yang sehat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aktivitas yang memungkinkan seseorang berpikir logis; jangkauan pikir; kekuatan pikir"
+        }
+      ]
+    }
+  ]
+}

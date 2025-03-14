@@ -1,0 +1,33 @@
+{
+  "istilah": "crash",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "kegagalan beroperasinya sistem, perangkat, atau program komputer, biasanya disertai hilangnya data"
+        }
+      ]
+    },
+    {
+      "lema": "crash",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "kegagalan beroperasinya sistem, perangkat, atau program komputer, biasanya disertai hilangnya data"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "harga bersih",
+  "entri": "harga » harga bersih",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "harga » harga bersih",
+      "arti": [
+        {
+          "kelas_kata": "Keu[Keuangan: -]",
+          "deskripsi": "harga barang sesudah dikurangi diskon"
+        },
+        {
+          "kelas_kata": "Hot[Perhotelan: ]",
+          "deskripsi": "harga yang dikenakan hotel kepada agen perjalanan atau agen grosir, akan ditambahkan dengan biaya-biaya lain sebelum dijual ke pelanggan"
+        }
+      ]
+    }
+  ]
+}

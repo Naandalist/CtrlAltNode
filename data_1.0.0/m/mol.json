@@ -1,0 +1,35 @@
+{
+  "istilah": "mol",
+  "entri": "mol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mol ganda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuantitas dari senyawa atau unsur yang mempunyai bobot dalam gram sama dengan bobot molekul; gram molekul"
+        }
+      ]
+    },
+    {
+      "lema": "mol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "aksidental yang ditempatkan sebelum sebuah not yang menurunkannya setengah nada"
+        }
+      ]
+    }
+  ]
+}

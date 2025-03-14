@@ -1,0 +1,40 @@
+{
+  "istilah": "identifikasi",
+  "entri": "i.den.ti.fi.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengidentifikasi",
+    "mengidentifikasikan",
+    "pengidentifikasi",
+    "pengidentifikasian",
+    "teridentifikasi"
+  ],
+  "gabunganKata": [
+    "identifikasi nomor otomatis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.den.ti.fi.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda kenal diri; bukti diri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penentu atau penetapan identitas seseorang, benda, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "proses psikologi yang terjadi pada diri seseorang karena secara tidak sadar dia membayangkan dirinya seperti orang lain yang dikaguminya, lalu dia meniru tingkah laku orang yang dikaguminya itu"
+        }
+      ]
+    }
+  ]
+}

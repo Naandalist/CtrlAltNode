@@ -1,0 +1,40 @@
+{
+  "istilah": "potensial",
+  "entri": "po.ten.si.al",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "potensial aksi",
+    "potensial otak",
+    "potensial redoks"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.ten.si.al",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mempunyai potensi (kekuatan, kemampuan, kesanggupan); daya berkemampuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "tegangan listrik, lambang V; arus listrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "berbagai fungsi yang menunjukkan intensitas atau kecepatan pada setiap titik di suatu medan dapat dihitung dengan mudah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "usaha yang dibutuhkan untuk memindahkan muatan positif unit dari satu titik referensi ke titik yang dimaksud"
+        }
+      ]
+    }
+  ]
+}

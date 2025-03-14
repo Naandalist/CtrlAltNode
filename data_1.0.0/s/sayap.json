@@ -1,0 +1,43 @@
+{
+  "istilah": "sayap",
+  "entri": "sa.yap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersayap"
+  ],
+  "gabunganKata": [
+    "sayap ikan",
+    "sayap imbang",
+    "sayap kanan (kiri)",
+    "sayap panggung",
+    "sayap roda",
+    "sayap singkat"
+  ],
+  "peribahasa": [
+    "kuat burung karena sayap; kuat ikan karena radai (kuat burung karena sayap, kuat ketam karena sepit); kuat ketam karena sepit, kuat burung karena sayap, kuat ikan karena radai; patah sayap bertongkat paruh; patah tongkat berjeremang (patah sayap bertongkat paruh; patah tongkat bertelekan); sayap singkat, terbang hendak jauh"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.yap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian tubuh beberapa binatang (burung dan sebagainya) yang dapat digunakan untuk terbang; kepak: burung terbang dengan --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "segala sesuatu yang menyerupai sayap: -- pesawat terbang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "dua daun mahkota samping bunga kacang-kacangan"
+        }
+      ]
+    }
+  ]
+}

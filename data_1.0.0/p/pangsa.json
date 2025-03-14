@@ -1,0 +1,45 @@
+{
+  "istilah": "pangsa",
+  "entri": "pang.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpangsa",
+    "memangsakan",
+    "pemangsaan"
+  ],
+  "gabunganKata": [
+    "pangsa kerja",
+    "pangsa pasar"
+  ],
+  "peribahasa": [
+    "(sebagai durian) pangsa menunjukkan bangsa (sebagai durian menunjukkan pangsanya)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bagian, porsi, partisi",
+    "kataAsal": "aṃśa"
+  },
+  "data": [
+    {
+      "lema": "pang.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "petak-petak dalam buah-buahan (seperti dalam buah durian); ulas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian; jatah; jumlah banyaknya sesuatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis-garis pada tapak tangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "urat pada batu pualam"
+        }
+      ]
+    }
+  ]
+}

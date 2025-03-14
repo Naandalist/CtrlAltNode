@@ -1,0 +1,35 @@
+{
+  "istilah": "diagonal",
+  "entri": "di.a.go.nal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdiagonal",
+    "pendiagonalan"
+  ],
+  "gabunganKata": [
+    "diagonal poligon",
+    "diagonal segi banyak",
+    "diagonal utama matriks"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.a.go.nal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mat[Matematika: -]",
+          "deskripsi": "berhubungannya dua titik sudut yang tidak bersebelahan dalam suatu segi empat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis diagonal"
+        }
+      ]
+    }
+  ]
+}

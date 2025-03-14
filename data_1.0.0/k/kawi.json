@@ -1,0 +1,50 @@
+{
+  "istilah": "kawi",
+  "entri": "ka.wi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kuat",
+    "kataAsal": "qawī"
+  },
+  "data": [
+    {
+      "lema": "ka.wi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa Jawa Kuno"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa Jawa yang lazim dipakai dalam kesusastraan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pengarang; pujangga"
+        }
+      ]
+    },
+    {
+      "lema": "ka.wi2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kuat; kukuh; sakti: adat yang -- adat yang kuat berlaku sejak dahulu kala"
+        }
+      ]
+    },
+    {
+      "lema": "ka.wi3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bg[Bugis: -]",
+          "deskripsi": "mengikat sarung di dada atau di perut"
+        }
+      ]
+    }
+  ]
+}

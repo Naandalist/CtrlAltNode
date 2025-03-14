@@ -1,0 +1,53 @@
+{
+  "istilah": "pakan",
+  "entri": "pa.kan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpakan",
+    "berpakankan",
+    "memakani",
+    "memakankan",
+    "pakanan"
+  ],
+  "gabunganKata": [
+    "pakan hambur",
+    "pakan konsentrat",
+    "pakan olahan",
+    "pakan tambahan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memberi makan",
+    "kataAsal": "pakan"
+  },
+  "data": [
+    {
+      "lema": "pa.kan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benang yang dimasukkan melintang pada benang lungsin (ketika menenun kain)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.kan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang mencapai tinggi 27 m, kayunya jarang dipakai sebagai bahan bangunan karena kurang baik〔Croton argyratus〕"
+        }
+      ]
+    },
+    {
+      "lema": "pa.kan3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan ternak (hewan, ikan piaraan): -- burung; -- udang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "nutrisi",
+  "entri": "nut.ri.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bernutrisi",
+    "menutrisi",
+    "penutrisi",
+    "ternutrisi"
+  ],
+  "gabunganKata": [
+    "nutrisi esensial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nut.ri.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "proses pemasukan dan pengolahan zat makanan oleh tubuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "makanan bergizi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "ilmu tentang gizi"
+        }
+      ]
+    }
+  ]
+}

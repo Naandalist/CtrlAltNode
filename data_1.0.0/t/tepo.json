@@ -1,0 +1,24 @@
+{
+  "istilah": "tepo",
+  "entri": "te.po",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "main po",
+    "kataAsal": "teh pó"
+  },
+  "data": [
+    {
+      "lema": "te.po",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "permainan judi"
+        }
+      ]
+    }
+  ]
+}

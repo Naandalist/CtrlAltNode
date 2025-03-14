@@ -1,0 +1,37 @@
+{
+  "istilah": "mengolak",
+  "entri": "kolak1 » me.ngo.lak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kolak1 » me.ngo.lak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasak kolak"
+        }
+      ]
+    },
+    {
+      "lema": "olak4 » meng.o.lak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melanting kembali; terpental lagi (karena tidak tembus dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "enggan atau tidak mau lagi (makan sesuatu)"
+        }
+      ]
+    }
+  ]
+}

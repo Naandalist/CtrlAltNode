@@ -1,0 +1,36 @@
+{
+  "istilah": "simbang",
+  "entri": "sim.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersimbang",
+    "menyimbang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sim.bang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "permainan dengan melambung-lambungkan batu (biji-biji, manik-manik, dan sebagainya) ke atas lalu ditangkap lagi"
+        }
+      ]
+    },
+    {
+      "lema": "sim.bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung laut suku Laridae"
+        }
+      ]
+    }
+  ]
+}

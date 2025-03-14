@@ -1,0 +1,35 @@
+{
+  "istilah": "kirik",
+  "entri": "ki.rik1 bentuk tidak baku: mengkirik",
+  "bentukTidakBaku": "mengkirik",
+  "kataTurunan": [
+    "mengirik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "anak anjing",
+    "kataAsal": "kirik"
+  },
+  "data": [
+    {
+      "lema": "ki.rik1 bentuk tidak baku: mengkirik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengirik"
+        }
+      ]
+    },
+    {
+      "lema": "ki.rik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "anak anjing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "kromo",
+  "entri": "kro.mo1 bentuk tidak baku: krama",
+  "bentukTidakBaku": "krama",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kromo inggil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sistem, tahapan, cara, kekuatan, perintah",
+    "kataAsal": "krama"
+  },
+  "data": [
+    {
+      "lema": "kro.mo1 bentuk tidak baku: krama",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkatan bahasa dalam bahasa Jawa yang termasuk ragam hormat"
+        }
+      ]
+    },
+    {
+      "lema": "kro.mo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "nama orang yang dipakai sebagai lambang yang menggambarkan rakyat kecil atau orang kebanyakan"
+        }
+      ]
+    }
+  ]
+}

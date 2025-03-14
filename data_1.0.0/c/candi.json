@@ -1,0 +1,33 @@
+{
+  "istilah": "candi",
+  "entri": "can.di",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "percandian"
+  ],
+  "gabunganKata": [
+    "candi apit",
+    "candi bentar",
+    "candi induk",
+    "candi kelir",
+    "candi perwosa",
+    "candi pewara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "candi, bangunan suci (tempat dewa-dewa turun, dipuja, dan hubungan dengan dicapai)",
+    "kataAsal": "caṇḍi"
+  },
+  "data": [
+    {
+      "lema": "can.di",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan kuno yang dibuat dari batu (sebagai tempat pemujaan, penyimpanan abu jenazah raja-raja, pendeta-pendeta Hindu atau Buddha pada zaman dulu)"
+        }
+      ]
+    }
+  ]
+}

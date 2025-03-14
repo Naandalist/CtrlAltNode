@@ -1,0 +1,30 @@
+{
+  "istilah": "kaki ayam",
+  "entri": "ka.ki a.yam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkaki ayam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.ki a.yam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tungkai ayam; cakar ayam"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tanpa alas kaki (sepatu dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "corek",
+  "entri": "co.rek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencorek",
+    "tercorek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.rek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis panjang; coret"
+        }
+      ]
+    },
+    {
+      "lema": "co.rek2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ curik1"
+        }
+      ]
+    }
+  ]
+}

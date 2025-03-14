@@ -1,0 +1,50 @@
+{
+  "istilah": "letak",
+  "entri": "le.tak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meletak",
+    "meletakkan",
+    "peletak",
+    "peletakan",
+    "perletakan",
+    "terletak"
+  ],
+  "gabunganKata": [
+    "letak sungsang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.tak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lemah sekali; tidak bertenaga; payah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lapar"
+        }
+      ]
+    },
+    {
+      "lema": "le.tak /lêtak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat beradanya sesuatu: di mana -- rumahnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedudukan; keadaan: coba jelaskan bagaimana -- persoalannya"
+        }
+      ]
+    }
+  ]
+}

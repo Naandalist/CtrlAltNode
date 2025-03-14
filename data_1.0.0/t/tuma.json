@@ -1,0 +1,35 @@
+{
+  "istilah": "tuma",
+  "entri": "tu.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "daging gajah sama dilapah, daging tuma sama dicecah; hati gajah sama dilapah, hati tuma (tungau) sama dicecah; karena pijat-pijat mati tuma; sembunyi tuma (kepala tersuruk), ekor kelihatan; sembunyi tuma (kepala tersuruk), ekor kelihatan); takutkan tuma, dibuang(kan) kain"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kutu",
+    "kataAsal": "tuma"
+  },
+  "data": [
+    {
+      "lema": "tu.ma1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kutu1"
+        }
+      ]
+    },
+    {
+      "lema": "tu.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat musik semacam gendang yang bentuknya memanjang yang dimainkan dengan dijepit di antara kedua kaki pemain, berasal dari Kalimantan Barat"
+        }
+      ]
+    }
+  ]
+}

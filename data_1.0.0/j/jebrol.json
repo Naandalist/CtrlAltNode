@@ -1,0 +1,30 @@
+{
+  "istilah": "jebrol",
+  "entri": "jeb.rol /jêbrol/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjebrolkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jeb.rol /jêbrol/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keluar (sekaligus)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lahir (tentang anak)"
+        }
+      ]
+    }
+  ]
+}

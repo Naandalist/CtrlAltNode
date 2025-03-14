@@ -1,0 +1,35 @@
+{
+  "istilah": "pematang",
+  "entri": "pe.ma.tang /pêmatang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpematang"
+  ],
+  "gabunganKata": [
+    "pematang alga",
+    "pematang jalan",
+    "pematang lebuh",
+    "pematang sawah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ma.tang /pêmatang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan kecil yang agak ditinggikan (di sawah, di tempat yang berpaya-paya, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "bagian tanah di sisi kotak penggalian yang dibiarkan sehingga tempat yang digali tampak dan dapat terus diteliti"
+        }
+      ]
+    }
+  ]
+}

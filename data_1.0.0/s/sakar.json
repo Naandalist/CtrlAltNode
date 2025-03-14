@@ -1,0 +1,54 @@
+{
+  "istilah": "sakar",
+  "entri": "sa.kar1 bentuk tidak baku: sagar2, syagar, syakar",
+  "bentukTidakBaku": "sagar2, syagar, syakar",
+  "kataTurunan": [
+    "menyakar",
+    "penyakar"
+  ],
+  "gabunganKata": [
+    "sakar emping",
+    "sakar nabati"
+  ],
+  "peribahasa": [
+    "laut madu berpantaikan sakar (gula); samun sakar berdarah tangan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama neraka",
+    "kataAsal": "saqar"
+  },
+  "data": [
+    {
+      "lema": "sa.kar1 bentuk tidak baku: sagar2, syagar, syakar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gula: ia membeli -- sekilo"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "zat gula dalam darah"
+        }
+      ]
+    },
+    {
+      "lema": "sa.kar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "neraka"
+        }
+      ]
+    },
+    {
+      "lema": "sa.kar3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "samun; rompak; rampas"
+        }
+      ]
+    }
+  ]
+}

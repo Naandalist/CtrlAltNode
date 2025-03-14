@@ -1,0 +1,42 @@
+{
+  "istilah": "megat",
+  "entri": "me.gat1 /mêgat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "seseorang yang diserahi jabatan atau kedudukan tinggi di istana",
+    "kataAsal": "měgět"
+  },
+  "data": [
+    {
+      "lema": "me.gat1 /mêgat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar bangsawan Melayu (ayahnya orang kebanyakan, ibunya keturunan raja)"
+        }
+      ]
+    },
+    {
+      "lema": "me.gat2 /mêgat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "masyhur; terkenal: sultan dan raja pada masa itu sangat -- dan megah"
+        }
+      ]
+    },
+    {
+      "lema": "me.gat3 /mêgat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berpusing (pada gasing); mejam; ligat"
+        }
+      ]
+    }
+  ]
+}

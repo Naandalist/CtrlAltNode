@@ -1,0 +1,33 @@
+{
+  "istilah": "sumpa",
+  "entri": "sum.pa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sum.pa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kal[Kaili: -]",
+          "deskripsi": "tempat menyimpan beras yang terbuat dari tanah liat"
+        }
+      ]
+    },
+    {
+      "lema": "sum.pa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mu[Muna: -]",
+          "deskripsi": "kesusastraan lisan yang suci di kalangan suku Muna, berupa rangkaian atau kumpulan kalimat suci yang diucapkan sebagai sumpah dalam menyumpah raja atau pucuk pimpinan pemerintahan"
+        }
+      ]
+    }
+  ]
+}

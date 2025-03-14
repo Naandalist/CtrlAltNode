@@ -1,0 +1,37 @@
+{
+  "istilah": "rurut",
+  "entri": "ru.rut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merurut"
+  ],
+  "gabunganKata": [
+    "rurut hati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.rut1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "gugur; jatuh: bunga itu telah -- sebelum mekar"
+        }
+      ]
+    },
+    {
+      "lema": "ru.rut2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merurut"
+        }
+      ]
+    }
+  ]
+}

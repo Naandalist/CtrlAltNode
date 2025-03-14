@@ -1,0 +1,33 @@
+{
+  "istilah": "ceduk",
+  "entri": "ce.duk1 /cêduk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.duk1 /cêduk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "cekung; caung (tentang pipi, mata)"
+        }
+      ]
+    },
+    {
+      "lema": "ce.duk2 /cêduk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "timbul: -- seleraku melihat makanan yang masam-masam itu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "seksi",
+  "entri": "sek.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sek.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari kesatuan (dewan, rapat, dan sebagainya) yang bertugas mengurus sesuatu; bagian dari daerah (kepolisian dan sebagainya); bagian jalan trem (kereta api dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(dalam ketentaraan) setengah peleton"
+        }
+      ]
+    },
+    {
+      "lema": "sek.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "tindakan memotong (mengiris); pemotongan; pengirisan"
+        }
+      ]
+    },
+    {
+      "lema": "sek.si3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merangsang rasa berahi (tentang bentuk badan, pakaian, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

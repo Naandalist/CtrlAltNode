@@ -1,0 +1,31 @@
+{
+  "istilah": "hipertrofi",
+  "entri": "hi.per.tro.fi /hipêrtrofi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hipertrofi adenoid",
+    "hipertrofi atletis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.per.tro.fi /hipêrtrofi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pertumbuhan yang tidak normal karena unsur jaringan yang membesar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "peningkatan ukuran serat otot"
+        }
+      ]
+    }
+  ]
+}

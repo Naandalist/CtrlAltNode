@@ -1,0 +1,30 @@
+{
+  "istilah": "titip",
+  "entri": "ti.tip",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menitip",
+    "menitipkan",
+    "penitip",
+    "penitipan",
+    "titipan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.tip",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menitip"
+        }
+      ]
+    }
+  ]
+}

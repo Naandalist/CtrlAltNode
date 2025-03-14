@@ -1,0 +1,37 @@
+{
+  "istilah": "pulan",
+  "entri": "pu.lan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.lan1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "belum masak benar (tentang nasi, ubi yang direbus, dan sebagainya): orang yang belum pandai bertanak kalau bertanak kerap kali -- nasinya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengkal (tentang buah): buah itu masih --, sebaiknya diperam dulu"
+        }
+      ]
+    },
+    {
+      "lema": "pu.lan2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "empuk dan enak (tentang nasi, ketela, dan sebagainya); pulen"
+        }
+      ]
+    }
+  ]
+}

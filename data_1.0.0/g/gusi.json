@@ -1,0 +1,33 @@
+{
+  "istilah": "gusi",
+  "entri": "gu.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daging tempat gigi tumbuh"
+        }
+      ]
+    },
+    {
+      "lema": "gu.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "layar yang dipasang di tiang belakang; layar baksi"
+        }
+      ]
+    }
+  ]
+}

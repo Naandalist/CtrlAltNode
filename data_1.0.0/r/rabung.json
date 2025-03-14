@@ -1,0 +1,42 @@
+{
+  "istilah": "rabung",
+  "entri": "ra.bung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berabungan",
+    "merabung",
+    "perabung",
+    "perabungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.bung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bubungan (puncak) rumah; perabung"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "besar; tinggi (tentang cakap, bicara): cakap --"
+        }
+      ]
+    },
+    {
+      "lema": "ra.bung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "bendungan sederhana untuk mengendalikan banjir dan kekeringan, dibuat dengan cara menyusun batu besar di sungai dan menyumpal sela batu dengan jalinan ilalang utk membendung air ketika banjir dan membukanya ketika musim kering"
+        }
+      ]
+    }
+  ]
+}

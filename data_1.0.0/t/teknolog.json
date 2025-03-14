@@ -1,0 +1,28 @@
+{
+  "istilah": "teknolog",
+  "entri": "tek.no.log",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tek.no.log",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli di suatu bidang teknologi tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekerja yang bertugas merawat peralatan teknis atau melakukan praktik di sebuah laboratorium"
+        }
+      ]
+    }
+  ]
+}

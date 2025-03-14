@@ -1,0 +1,30 @@
+{
+  "istilah": "surat kabar",
+  "entri": "su.rat ka.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "persuratkabaran"
+  ],
+  "gabunganKata": [
+    "surat kabar harian",
+    "surat kabar kuning",
+    "surat kabar pemerintah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.rat ka.bar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembaran-lembaran kertas bertuliskan berita dan sebagainya; koran"
+        }
+      ]
+    }
+  ]
+}

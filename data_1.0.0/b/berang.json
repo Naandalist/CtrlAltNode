@@ -1,0 +1,46 @@
+{
+  "istilah": "berang",
+  "entri": "be.rang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memberang",
+    "memberangi",
+    "pemberang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.rang",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat marah; sangat gusar: dia menjadi -- melihat kelakuan anaknya yang kurang ajar itu; Ayah tidak kuasa menahan berangnya melihat anaknya dipukul orang"
+        }
+      ]
+    },
+    {
+      "lema": "be.rang2 /bêrang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "pisau besar untuk merajang daun tembakau"
+        }
+      ]
+    },
+    {
+      "lema": "be.rang3 /bêrang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sbw[Sumbawa: diubah singkatan label karena ada bahasa ]",
+          "deskripsi": "senjata parang khas Sumbawa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "kultur",
+  "entri": "kul.tur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengultur"
+  ],
+  "gabunganKata": [
+    "kultur disiplin",
+    "kultur ekstensif",
+    "kultur jaringan",
+    "kultur murni",
+    "kultur tertutup"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kul.tur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kebudayaan: -- Barat; -- Timur"
+        }
+      ]
+    },
+    {
+      "lema": "kul.tur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ikn[Perikanan: -]",
+          "deskripsi": "pemeliharaan; pembudidayaan"
+        }
+      ]
+    }
+  ]
+}

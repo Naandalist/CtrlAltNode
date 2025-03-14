@@ -1,0 +1,36 @@
+{
+  "istilah": "sanggit",
+  "entri": "sang.git1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersanggit",
+    "menyanggit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sang.git1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyanggit"
+        }
+      ]
+    },
+    {
+      "lema": "sang.git2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bertemunya bagian motif yang terletak di bagian kanan dan bagian kiri (tentang batik)"
+        }
+      ]
+    }
+  ]
+}

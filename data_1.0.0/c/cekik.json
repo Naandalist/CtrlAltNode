@@ -1,0 +1,41 @@
+{
+  "istilah": "cekik",
+  "entri": "ce.kik1 /cêkik/bentuk tidak baku: cekek",
+  "bentukTidakBaku": "cekek",
+  "kataTurunan": [
+    "cekikan",
+    "mencekik",
+    "pencekik",
+    "pencekikan",
+    "tercekik",
+    "bercekik",
+    "mempercekikkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "cěkuk"
+  },
+  "data": [
+    {
+      "lema": "ce.kik1 /cêkik/bentuk tidak baku: cekek",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cekam leher"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kik2 /cêkik/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bercekik; mempercekikkan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "romantisisme",
+  "entri": "ro.man.tis.is.me /romantisismê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meromantisisme"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.man.tis.is.me /romantisismê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "haluan kesusastraan akhir abad ke-18 yang mengutamakan perasaan, pikiran, dan tindakan spontanitas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aliran dalam seni (drama) yang mengutamakan imajinasi, emosi, dan sentimen idealisme"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "aliran dan gagasan dalam pertunjukan teater yang mengutamakan imajinasi, emosi, dan sinisme terhadap idealisme"
+        }
+      ]
+    }
+  ]
+}

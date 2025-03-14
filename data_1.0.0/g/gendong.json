@@ -1,0 +1,46 @@
+{
+  "istilah": "gendong",
+  "entri": "gen.dong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gendongan",
+    "menggendong",
+    "menggendong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gen.dong1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bawa sesuatu dengan melekatkan pada tubuh, dapat menggunakan kain atau hanya dengan tangan (biasanya pada dada, pinggang, atau punggung)"
+        }
+      ]
+    },
+    {
+      "lema": "gen.dong2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menggendong"
+        }
+      ]
+    },
+    {
+      "lema": "gen.dong3 /gêndong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penopang reng pada plafon"
+        }
+      ]
+    }
+  ]
+}

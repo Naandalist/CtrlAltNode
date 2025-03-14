@@ -1,0 +1,30 @@
+{
+  "istilah": "maharaja",
+  "entri": "ma.ha.ra.ja",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemaharajaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "raja, pemimpin",
+    "kataAsal": "rājan"
+  },
+  "data": [
+    {
+      "lema": "ma.ha.ra.ja",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "raja besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sebutan untuk orang besar: Tumenggung Seri --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "istilah": "santung",
+  "entri": "san.tung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyantung",
+    "menyantung",
+    "menyantung"
+  ],
+  "gabunganKata": [
+    "santung pelalai",
+    "santung pintu"
+  ],
+  "peribahasa": [
+    "bagai kena santung pelalai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "san.tung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "erat: hubungan mereka sangat --, tidak ada rahasia di antara mereka"
+        }
+      ]
+    },
+    {
+      "lema": "san.tung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasak atau baji untuk menegangkan kulit rebana, gendang, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "san.tung3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "rakus"
+        }
+      ]
+    },
+    {
+      "lema": "san.tung4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "kain tenun polos yang memiliki permukaan agak tidak beraturan karena benang pengisinya tidak rata"
+        }
+      ]
+    }
+  ]
+}

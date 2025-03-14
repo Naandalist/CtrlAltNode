@@ -1,0 +1,32 @@
+{
+  "istilah": "mesti",
+  "entri": "mes.ti /mêsti/bentuk tidak baku: musti1",
+  "bentukTidakBaku": "musti1",
+  "kataTurunan": [
+    "kemestian",
+    "memestikan",
+    "semestinya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menentukan, memutuskan, menetapkan",
+    "kataAsal": "amaṣṭi"
+  },
+  "data": [
+    {
+      "lema": "mes.ti /mêsti/bentuk tidak baku: musti1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "pasti; tentu: kalau kauturuti nasihat itu, -- tercapai maksudmu"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "tidak boleh tidak; harus: engkau -- berangkat sekarang kalau engkau tidak ingin terlambat menghadiri pemakaman ayahmu"
+        }
+      ]
+    }
+  ]
+}

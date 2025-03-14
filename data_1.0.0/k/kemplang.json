@@ -1,0 +1,42 @@
+{
+  "istilah": "kemplang",
+  "entri": "kem.plang1 /kêmplang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemplangan",
+    "mengemplang",
+    "pengemplang",
+    "pengemplangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kem.plang1 /kêmplang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tempeleng"
+        }
+      ]
+    },
+    {
+      "lema": "kem.plang2 /kêmplang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerupuk yang dibuat dari sagu dan ikan, bentuknya bulat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan terbuat dari sagu atau singkong diparut yang diberi garam, dikukus, dijemur, kemudian digoreng, biasanya dibentuk dengan kepalan tangan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "benjut",
+  "entri": "ben.jut1 /bênjut/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.jut1 /bênjut/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "benjol"
+        }
+      ]
+    },
+    {
+      "lema": "ben.jut2 /bênjut/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "betul-betul hancur tentang berdagang, bertani, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

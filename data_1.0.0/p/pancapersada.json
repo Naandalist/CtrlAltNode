@@ -1,0 +1,32 @@
+{
+  "istilah": "pancapersada",
+  "entri": "pan.ca.per.sa.da /pancapêrsada/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "benteng, kastil, istana, candi, teras",
+    "kataAsal": "prāsāda"
+  },
+  "data": [
+    {
+      "lema": "pan.ca.per.sa.da /pancapêrsada/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lantai yang ditinggikan bertingkat-tingkat untuk tempat duduk pembesar kerajaan dalam upacara resmi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rumah pemandian yang bertingkat-tingkat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rumah bertingkat tempat bersenang-senang"
+        }
+      ]
+    }
+  ]
+}

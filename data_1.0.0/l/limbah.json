@@ -1,0 +1,51 @@
+{
+  "istilah": "limbah",
+  "entri": "lim.bah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlimbah",
+    "pelimbahan"
+  ],
+  "gabunganKata": [
+    "limbah alat suntik",
+    "limbah bangunan dan bongkaran",
+    "limbah berbahaya",
+    "limbah cair",
+    "limbah elektronik",
+    "limbah halaman",
+    "limbah industri",
+    "limbah medis",
+    "limbah metabolik",
+    "limbah padat",
+    "limbah perumahan",
+    "limbah plastik",
+    "limbah radioaktif",
+    "limbah rumah sakit",
+    "limbah rumah tangga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lim.bah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisa proses produksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan yang tidak mempunyai nilai atau tidak berharga untuk maksud biasa atau utama dalam pembuatan atau pemakaian: -- pabrik mencemarkan air di daerah sekitarnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang rusak atau cacat dalam proses produksi"
+        }
+      ]
+    }
+  ]
+}

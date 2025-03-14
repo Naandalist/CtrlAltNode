@@ -1,0 +1,43 @@
+{
+  "istilah": "mengirap",
+  "entri": "kirap » me.ngi.rap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mengirap sayap"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kirap » me.ngi.rap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mengepak-ngepakkan (sayap)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menangkis-nangkiskan (perisai) naik turun"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lenyap; hilang: lambat laun peristiwa itu ~ dari ingatannya"
+        }
+      ]
+    },
+    {
+      "lema": "me.ngi.rap /mêngirap/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kirap"
+        }
+      ]
+    }
+  ]
+}

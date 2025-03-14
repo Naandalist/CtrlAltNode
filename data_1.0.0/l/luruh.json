@@ -1,0 +1,53 @@
+{
+  "istilah": "luruh",
+  "entri": "lu.ruh1 bentuk tidak baku: ruruh",
+  "bentukTidakBaku": "ruruh",
+  "kataTurunan": [
+    "meluruh",
+    "meluruhkan",
+    "peluruh",
+    "peluruhan"
+  ],
+  "gabunganKata": [
+    "luruh bulu",
+    "luruh bulu paksa",
+    "luruh runtuh"
+  ],
+  "peribahasa": [
+    "pelepah bawah luruh, pelepah atas jangan gelak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jatuh, gugur (bunga, buah dan lain-lain), rontok",
+    "kataAsal": "luruh"
+  },
+  "data": [
+    {
+      "lema": "lu.ruh1 bentuk tidak baku: ruruh",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jatuh atau gugur karena sudah sampai waktunya (tentang buah, daun, rambut, dan sebagainya): daun petai -- sekali setahun"
+        }
+      ]
+    },
+    {
+      "lema": "lu.ruh2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "undur (surut) dari maksud semula: ia -- dari cita-citanya semula"
+        }
+      ]
+    },
+    {
+      "lema": "lu.ruh3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "daerah; daerah taklukan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "istilah": "setum",
+  "entri": "se.tum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyetum",
+    "penyetuman"
+  ],
+  "gabunganKata": [
+    "naik setum",
+    "setum barkas",
+    "setum ketel",
+    "setum wales"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.tum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "sekretariat umum"
+        }
+      ]
+    },
+    {
+      "lema": "se.tum1 /sêtum/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uap"
+        }
+      ]
+    },
+    {
+      "lema": "se.tum2 /sêtum/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "setekan yang sudah berakar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tunggul"
+        }
+      ]
+    }
+  ]
+}

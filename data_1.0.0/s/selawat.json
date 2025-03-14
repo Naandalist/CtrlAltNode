@@ -1,0 +1,39 @@
+{
+  "istilah": "selawat",
+  "entri": "se.la.wat /sêlawat/bentuk tidak baku: salawat, salwat, solawat, sholawat",
+  "bentukTidakBaku": "salawat, salwat, solawat, sholawat",
+  "kataTurunan": [
+    "berselawat",
+    "menyelawat",
+    "selawatan"
+  ],
+  "gabunganKata": [
+    "selawat badar",
+    "selawat dulang",
+    "selawat janenan",
+    "selawat jawi",
+    "selawat kompang",
+    "selawat talam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "doa; syafaat; berkat; salat",
+    "kataAsal": "ṣalawāt"
+  },
+  "data": [
+    {
+      "lema": "se.la.wat /sêlawat/bentuk tidak baku: salawat, salwat, solawat, sholawat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "permohonan kepada Tuhan; doa: membaca -- berdoa memohon berkat Tuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "doa kepada Allah untuk Nabi Muhammad saw. beserta keluarga dan sahabatnya"
+        }
+      ]
+    }
+  ]
+}

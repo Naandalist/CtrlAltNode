@@ -1,0 +1,35 @@
+{
+  "istilah": "temperas",
+  "entri": "tem.pe.ras1 /têmpêras/",
+  "bentukTidakBaku": "tempuras",
+  "kataTurunan": [
+    "bertemperasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem.pe.ras1 /têmpêras/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertemperasan"
+        }
+      ]
+    },
+    {
+      "lema": "tem.pe.ras2 /têmpêras/bentuk tidak baku: tempuras",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan darat〔Cyslocheilichtys apogon〕"
+        }
+      ]
+    }
+  ]
+}

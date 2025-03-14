@@ -1,0 +1,35 @@
+{
+  "istilah": "ontel",
+  "entri": "on.tel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ngontel"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "on.tel1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "bunga pohon sukun dan keluih"
+        }
+      ]
+    },
+    {
+      "lema": "on.tel2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepeda tua yang umum digunakan pada zaman Hindia Belanda hingga tahun 1970-an dengan ukuran ban 28 inci"
+        }
+      ]
+    }
+  ]
+}

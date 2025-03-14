@@ -1,0 +1,28 @@
+{
+  "istilah": "verbal",
+  "entri": "ver.bal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ver.bal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "secara lisan (bukan tertulis): bahasa asing itu dirasakan dapat membantu pengungkapan manusia secara -- dengan lebih teliti"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "bersifat verba"
+        }
+      ]
+    }
+  ]
+}

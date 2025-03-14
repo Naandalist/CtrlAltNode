@@ -1,0 +1,30 @@
+{
+  "istilah": "kerakap",
+  "entri": "ke.ra.kap /kêrakap/bentuk tidak baku: kerkap2",
+  "bentukTidakBaku": "kerkap2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagai kerakap tumbuh di (di atas) batu, hidup enggan mati tak mau"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ra.kap /kêrakap/bentuk tidak baku: kerkap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sirih yang daunnya lebar-lebar, lebih lebar daripada sirih biasa dan tidak enak rasanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "daun sirih yang tebal dan keras (lawan dari sirih carang)"
+        }
+      ]
+    }
+  ]
+}

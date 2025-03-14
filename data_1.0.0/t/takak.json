@@ -1,0 +1,36 @@
+{
+  "istilah": "takak",
+  "entri": "ta.kak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertakak",
+    "menakak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.kak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertakak"
+        }
+      ]
+    },
+    {
+      "lema": "ta.kak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ takik"
+        }
+      ]
+    }
+  ]
+}

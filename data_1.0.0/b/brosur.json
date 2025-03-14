@@ -1,0 +1,32 @@
+{
+  "istilah": "brosur",
+  "entri": "bro.sur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bro.sur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan informasi tertulis mengenai suatu masalah yang disusun secara bersistem"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cetakan yang hanya terdiri atas beberapa halaman dan dilipat tanpa dijilid"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "selebaran cetakan yang berisi keterangan singkat, tetapi lengkap (tentang perusahaan atau organisasi)"
+        }
+      ]
+    }
+  ]
+}

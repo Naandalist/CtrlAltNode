@@ -1,0 +1,66 @@
+{
+  "istilah": "pandai",
+  "entri": "pan.dai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpandai-pandai",
+    "kepandaian",
+    "memandai",
+    "memandai-mandai",
+    "memandaikan",
+    "pandai-pandai",
+    "sepandai-pandai",
+    "terpandai",
+    "memandaikan"
+  ],
+  "gabunganKata": [
+    "pandai berselit-belit",
+    "pandai hidup",
+    "pandai jatuh",
+    "pandai lukis"
+  ],
+  "peribahasa": [
+    "hemat pangkal kaya, rajin pangkal pandai; hulu mujur pandai bertenggang (bertengkar), hulu baik pandai memakai; kalau pandai menggulai badar pun menjadi tenggiri; kalau pandai menggulai, badar jadi tenggiri; kalau pandai meniti buih, selamat badan sampai ke seberang; pandai berminyak air; pergi tempat bertanya, pulang tempat berberita (berkenaan dengan orang cerdik pandai); sepandai-pandai membungkus, yang busuk berbau juga; sepandai-pandai tupai melompat, sekali gawal juga; sepandai-pandai tupai melompat, sekali waktu gawal juga; sepandai-pandai tupai meloncat, sekali gawal (terjatuh) juga"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "karyawan terlatih, pandai besi, pandai emas",
+    "kataAsal": "paṇḍay"
+  },
+  "data": [
+    {
+      "lema": "pan.dai1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cepat menangkap pelajaran dan mengerti sesuatu; pintar; cerdas: anak itu --, rajin, dan jujur"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mahir; cakap; terampil: karyawan itu -- lagi cekatan; ia -- berbahasa Inggris"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat; sanggup: anak itu sudah -- membaca"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berilmu: banyak orang -- di daerah ini"
+        }
+      ]
+    },
+    {
+      "lema": "pan.dai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tukang tempa: -- besi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "juru (tukang) ramu"
+        }
+      ]
+    }
+  ]
+}

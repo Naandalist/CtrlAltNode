@@ -1,0 +1,49 @@
+{
+  "istilah": "pahat",
+  "entri": "pa.hat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpahat",
+    "memahat",
+    "pahatan",
+    "pemahat",
+    "pemahatan"
+  ],
+  "gabunganKata": [
+    "pahat jantan",
+    "pahat lubang",
+    "pahat makaroni",
+    "pahat pating",
+    "pahat serong",
+    "pahat siku-siku",
+    "pahat jet"
+  ],
+  "peribahasa": [
+    "bagai pahat, tidak ditukul, tidak makan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.hat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat (perkakas) bertukang berupa bilah besi yang tajam pada ujungnya untuk melubangi atau mengukir kayu (ada bermacam-macam, seperti -- bulat, -- jantan, -- ketam, -- kuku)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.hat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pet[Petrologi dan Migas: -]",
+          "deskripsi": "bagian alat bor, biasanya terbuat dari baja paling keras dengan dua atau tiga pancang tirus dan gerigi tajam untuk memotong batuan atau membuat lubang"
+        }
+      ]
+    }
+  ]
+}

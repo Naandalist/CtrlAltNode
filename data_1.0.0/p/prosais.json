@@ -1,0 +1,32 @@
+{
+  "istilah": "prosais",
+  "entri": "pro.sa.is",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.sa.is",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat prosa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mengungkapkan daya kreasi; boyak; menjemukan: jika puisi dibaca secara --, puisi itu tidak memberikan daya evokasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengarang prosa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "endokrin",
+  "entri": "en.do.krin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.do.krin",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersekresi ke dalam tubuh, ke dalam darah atau limfa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelenjar yang tidak mempunyai saluran untuk mengalirkan hasil sekresinya"
+        }
+      ]
+    }
+  ]
+}

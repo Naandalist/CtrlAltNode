@@ -1,0 +1,33 @@
+{
+  "istilah": "inter alia",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "antara lain"
+        }
+      ]
+    },
+    {
+      "lema": "inter alia",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "antara lain"
+        }
+      ]
+    }
+  ]
+}

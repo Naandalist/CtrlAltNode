@@ -1,0 +1,32 @@
+{
+  "istilah": "bersumpah",
+  "entri": "sumpah1 » ber.sum.pah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sumpah1 » ber.sum.pah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyatakan kebenaran suatu hal atau kesetiaan dengan sumpah; mengangkat sumpah: Presiden harus ~ setia kepada Undang-Undang Dasar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjanji dengan sungguh-sungguh; berikrar: dia ~ akan membalas kematian saudaranya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah disumpah: belum semua pegawai negeri di kota itu ~; penerjemah ~"
+        }
+      ]
+    }
+  ]
+}

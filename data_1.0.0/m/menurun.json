@@ -1,0 +1,59 @@
+{
+  "istilah": "menurun",
+  "entri": "turun1 » me.nu.run",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ke bukit sama mendaki, ke lurah sama menurun"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "turun1 » me.nu.run",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "makin depan makin ke bawah; landai: setelah jalan mendaki, kemudian ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pergi ke bawah: tiap-tiap pagi penduduk kampung itu ~ menjual hasil ladangnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berangsur-angsur turun (berkurang, surut): harga emas mulai ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berpindah: penyakit orang tuanya ~ pada anaknya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "melemah (tentang kondisi tubuh): akibat penyakit yang dideritanya, kondisi tubuhnya makin lama makin ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mendekati hari-hari terakhir: puasanya ~"
+        }
+      ]
+    },
+    {
+      "lema": "turun2 » me.nu.run",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyalin (tulisan, surat, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencontoh atau meniru (pekerjaan orang lain)"
+        }
+      ]
+    }
+  ]
+}

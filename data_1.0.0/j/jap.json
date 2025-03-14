@@ -1,0 +1,41 @@
+{
+  "istilah": "jap",
+  "entri": "jap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jap1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "telah rapat sempurna (tentang anyaman)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "telah mendapat kata sepakat (tentang perundingan)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "telah menjadi satu (bulat, utuh)"
+        }
+      ]
+    },
+    {
+      "lema": "jap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ jab1"
+        }
+      ]
+    }
+  ]
+}

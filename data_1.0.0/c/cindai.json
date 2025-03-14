@@ -1,0 +1,57 @@
+{
+  "istilah": "cindai",
+  "entri": "cin.dai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercindai"
+  ],
+  "gabunganKata": [
+    "cindai kembang",
+    "cindai sari"
+  ],
+  "peribahasa": [
+    "mati berkafan cindai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ejenis sutra yang halus (bermotif bunga)",
+    "kataAsal": "cinde"
+  },
+  "data": [
+    {
+      "lema": "cin.dai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain sutra yang berbunga-bunga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sabuk dari sutra yang berbunga-bunga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain berikut selendang yang disimpan seorang gadis untuk dikenakan pada hari pernikahan; kain pitula"
+        }
+      ]
+    },
+    {
+      "lema": "cin.dai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kuntilanak"
+        }
+      ]
+    },
+    {
+      "lema": "cin.dai3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "sambungan kuku yang terbuat dari logam"
+        }
+      ]
+    }
+  ]
+}

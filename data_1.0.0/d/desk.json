@@ -1,0 +1,33 @@
+{
+  "istilah": "desk",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "bagian dari suatu organisasi yang mempunyai tugas tertentu, misalnya desk Eropa Barat di Departemen Luar Negeri"
+        }
+      ]
+    },
+    {
+      "lema": "desk",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "bagian dari suatu organisasi yang mempunyai tugas tertentu, misalnya desk Eropa Barat di Departemen Luar Negeri"
+        }
+      ]
+    }
+  ]
+}

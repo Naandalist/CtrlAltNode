@@ -1,0 +1,46 @@
+{
+  "istilah": "frekuensi",
+  "entri": "fre.ku.en.si bentuk tidak baku: frekwensi",
+  "bentukTidakBaku": "frekwensi",
+  "kataTurunan": [
+    "berfrekuensi"
+  ],
+  "gabunganKata": [
+    "frekuensi sangat rendah",
+    "frekuensi tekan",
+    "frekuensi ultratinggi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fre.ku.en.si bentuk tidak baku: frekwensi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekerapan: -- denyut jantungnya tidak normal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "jumlah pemakaian suatu unsur bahasa dalam suatu teks atau rekaman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "jumlah getaran gelombang suara per detik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "jumlah getaran gelombang elektrik per detik pada gelombang elektromagnetik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "jumlah siklus suatu peristiwa per detik"
+        }
+      ]
+    }
+  ]
+}

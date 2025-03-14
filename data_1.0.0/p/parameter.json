@@ -1,0 +1,39 @@
+{
+  "istilah": "parameter",
+  "entri": "pa.ra.me.ter /parametêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berparameter"
+  ],
+  "gabunganKata": [
+    "parameter bisnis",
+    "parameter Coriolis",
+    "parameter kekasapan",
+    "parameter kontrol"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ra.me.ter /parametêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "ukuran seluruh populasi dalam penelitian yang harus diperkirakan dari yang terdapat di dalam percontoh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan yang membatasi bagaimana sesuatu dilakukan atau apa yang dapat dilakukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuantitas terukur (misalnya temperatur) yang menentukan hasil eksperimen ilmiah dan dapat diubah untuk memperoleh hasil yang berbeda"
+        }
+      ]
+    }
+  ]
+}

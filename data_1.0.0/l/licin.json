@@ -1,0 +1,58 @@
+{
+  "istilah": "licin",
+  "entri": "li.cin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelicinan",
+    "melicinkan",
+    "pelicin",
+    "terlicin"
+  ],
+  "gabunganKata": [
+    "licin belut",
+    "licin lecat",
+    "licin licau",
+    "licin lindap",
+    "licin melecat",
+    "licin tandas"
+  ],
+  "peribahasa": [
+    "berminyak biar licin (lecak); licin bagai belut; licin karena minyak berminta, elok karena kain berselang; mati-mati berminyak biar licin; muka licin, ekor berkedal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bebas (kebebasan) dari segala gangguan, bebas dari nafsu, (gangguan emosi, kasih sayang, kewajiban duniawi, ikatan kekeluargaan, keduniawian), kesempurnaan, kesunyian, meninggalkan kenikmatan (makanan dan sebagainya), meninggalkan kenikmatan dunia, (berusaha keras atau telah mencapai) keadaan yang tenang sentosa, penuh kedamaian hati, kesempurnaan pertapa",
+    "kataAsal": "licin"
+  },
+  "data": [
+    {
+      "lema": "li.cin",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berminyak atau berlendir (seperti belut); tidak kasar; halus: ia tergelincir karena jalannya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ditumbuhi apa-apa (kepala yang botak, betis yang tidak berbulu)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berkerut (tentang pakaian): pakaiannya -- karena disetrika"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "habis sama sekali (tentang harta dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "pandai menipu (memutarbalikkan perkataan dan sebagainya); licik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak mudah tertangkap: pencuri yang --"
+        }
+      ]
+    }
+  ]
+}

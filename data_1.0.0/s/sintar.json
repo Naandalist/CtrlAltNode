@@ -1,0 +1,33 @@
+{
+  "istilah": "sintar",
+  "entri": "sin.tar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sin.tar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "sintal"
+        }
+      ]
+    },
+    {
+      "lema": "sin.tar2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat burung"
+        }
+      ]
+    }
+  ]
+}

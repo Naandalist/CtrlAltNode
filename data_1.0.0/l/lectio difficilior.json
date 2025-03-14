@@ -1,0 +1,33 @@
+{
+  "istilah": "lectio difficilior",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "bacaan yang sulit; dikatakan tentang naskah yang paling sulit, yang dianggap sebagai naskah yang tua karena proses penyalinan berjalan dari yang sulit ke yang mudah"
+        }
+      ]
+    },
+    {
+      "lema": "lectio difficilior",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "bacaan yang sulit; dikatakan tentang naskah yang paling sulit, yang dianggap sebagai naskah yang tua karena proses penyalinan berjalan dari yang sulit ke yang mudah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "jirat",
+  "entri": "ji.rat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "membuang bunga ke jirat; membuang bunga ke jirat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kunjungan",
+    "kataAsal": "ziyārah"
+  },
+  "data": [
+    {
+      "lema": "ji.rat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu kubur; nisan"
+        }
+      ]
+    },
+    {
+      "lema": "ji.rat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ jerat"
+        }
+      ]
+    }
+  ]
+}

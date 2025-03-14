@@ -1,0 +1,37 @@
+{
+  "istilah": "matras",
+  "entri": "mat.ras1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mat.ras1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tabung gelas kimia dengan ujung yang sebelah tertutup, badan bulat, dan lehernya panjang"
+        }
+      ]
+    },
+    {
+      "lema": "mat.ras2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kasur tebal dan padat yang diisi dengan kapuk (sabut kelapa dan sebagainya) untuk alas tempat tidur; bulsak; kasur karet busa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alas lantai untuk olahraga loncat dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

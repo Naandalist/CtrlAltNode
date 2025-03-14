@@ -1,0 +1,38 @@
+{
+  "istilah": "hoki",
+  "entri": "ho.ki1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhoki",
+    "pehoki"
+  ],
+  "gabunganKata": [
+    "hoki es"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "keberuntungan",
+    "kataAsal": "hok khì"
+  },
+  "data": [
+    {
+      "lema": "ho.ki1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "olahraga lapangan yang dimainkan oleh dua kesebelasan yang masing-masing terdiri atas sebelas orang pemain yang bertujuan memasukkan bola kecil ke dalam gawang lawan dengan menggunakan tongkat pemukul"
+        }
+      ]
+    },
+    {
+      "lema": "ho.ki2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "peruntungan; nasib"
+        }
+      ]
+    }
+  ]
+}

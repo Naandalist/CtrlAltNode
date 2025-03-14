@@ -1,0 +1,40 @@
+{
+  "istilah": "sejarah",
+  "entri": "se.ja.rah /sêjarah/bentuk tidak baku: syajarat",
+  "bentukTidakBaku": "syajarat",
+  "kataTurunan": [
+    "bersejarah",
+    "kesejarahan",
+    "menyejarah",
+    "menyejarahkan"
+  ],
+  "gabunganKata": [
+    "sejarah musik",
+    "sejarah umum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pohon",
+    "kataAsal": "syajarah"
+  },
+  "data": [
+    {
+      "lema": "se.ja.rah /sêjarah/bentuk tidak baku: syajarat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asal-usul (keturunan) silsilah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kejadian dan peristiwa yang benar-benar terjadi pada masa lampau; riwayat; tambo: cerita --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan atau uraian tentang peristiwa dan kejadian yang benar-benar terjadi dalam masa lampau; ilmu sejarah"
+        }
+      ]
+    }
+  ]
+}

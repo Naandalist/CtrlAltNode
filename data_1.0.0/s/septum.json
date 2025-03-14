@@ -1,0 +1,28 @@
+{
+  "istilah": "septum",
+  "entri": "sep.tum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sep.tum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "dinding pembatas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mik[Mikologi: -]",
+          "deskripsi": "partisi yang membagi hifa yang berbentuk filamen menjadi sel-sel pada fungi"
+        }
+      ]
+    }
+  ]
+}

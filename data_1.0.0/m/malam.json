@@ -1,0 +1,71 @@
+{
+  "istilah": "malam",
+  "entri": "ma.lam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermalam",
+    "bermalam-malam",
+    "kemalaman",
+    "malam-malam",
+    "memalami",
+    "memalamkan",
+    "mempermalamkan",
+    "pemalaman",
+    "permalaman",
+    "semalam",
+    "semalam-malaman",
+    "semalaman"
+  ],
+  "gabunganKata": [
+    "malam amal",
+    "malam buta",
+    "malam dansa",
+    "malam gembira",
+    "malam hari",
+    "malam inai",
+    "malam kesenian",
+    "malam Minggu (Senin dan sebagainya)",
+    "malam muda-mudi",
+    "malam Natal",
+    "malam panjang",
+    "malam sinaran",
+    "malam syukuran"
+  ],
+  "peribahasa": [
+    "ayam hitam terbang malam; berkata siang melihat-lihat, berkata malam mendengar-dengar; hilir malam mudik tak singgah, daun nipah dikatakan daun abu; kelam bagai malam dua puluh tujuh; malam berselimut embun, siang bertudung awan; masak malam, mentah pagi (siang); sebagai ayam diasak malam; siang bernapas, malam berembun (malam berselimut embun, siang bertudung awan); seperti siang dengan malam; sudah terlalu hilir malam, apa hendak dikata lagi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lilin",
+    "kataAsal": "malam"
+  },
+  "data": [
+    {
+      "lema": "ma.lam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu setelah matahari terbenam hingga matahari terbit"
+        }
+      ]
+    },
+    {
+      "lema": "ma.lam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lilin (dipakai untuk membatik): pedagang itu menjual --, nila, dan benang"
+        }
+      ]
+    },
+    {
+      "lema": "ma.lam3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "massa plastis amorf yang berasal dari mineral, tumbuhan, dan hewan"
+        }
+      ]
+    }
+  ]
+}

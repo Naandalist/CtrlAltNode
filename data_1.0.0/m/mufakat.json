@@ -1,0 +1,46 @@
+{
+  "istilah": "mufakat",
+  "entri": "mu.fa.kat bentuk tidak baku: mupakat",
+  "bentukTidakBaku": "mupakat",
+  "kataTurunan": [
+    "bermufakat",
+    "kemufakatan",
+    "memufakati",
+    "memufakatkan",
+    "pemufakatan",
+    "permufakatan",
+    "semufakat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bulat air oleh pembuluh, bulat kata oleh mufakat; elok kata dalam mufakat, buruk kata di luar mufakat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kesepakatan",
+    "kataAsal": "muwāfaqah"
+  },
+  "data": [
+    {
+      "lema": "mu.fa.kat bentuk tidak baku: mupakat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "setuju; seia sekata; sepakat: semuanya sudah --, tidak seorang pun yang menolak usul itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persetujuan; kata sepakat: telah tercapai -- antara kedua belah pihak; kebulatan -- persetujuan bulat; mendapat kata -- mencapai persetujuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pembicaraan; perundingan: ia tidak ikut dalam -- itu; baik diadakan -- antara kamu dan dia"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berunding; berbicara dengan: sebaiknya kita -- dulu dengan teman-teman"
+        }
+      ]
+    }
+  ]
+}

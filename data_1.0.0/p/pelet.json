@@ -1,0 +1,54 @@
+{
+  "istilah": "pelet",
+  "entri": "pe.let1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memelet",
+    "peletan"
+  ],
+  "gabunganKata": [
+    "pelet pucuk tebu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.let1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belang-belang pada kayu"
+        }
+      ]
+    },
+    {
+      "lema": "pe.let2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "getah untuk menangkap burung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "minyak (dari ikan duyung) untuk memikat hati orang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kata-kata manis untuk mengambil hati dan sebagainya; bujukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pesona: mereka telah terkena --; kena -- keindahan kota itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "guna-guna untuk memikat hati seseorang"
+        }
+      ]
+    }
+  ]
+}

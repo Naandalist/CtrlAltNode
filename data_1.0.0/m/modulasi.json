@@ -1,0 +1,42 @@
+{
+  "istilah": "modulasi",
+  "entri": "mo.du.la.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memodulasi",
+    "termodulasi"
+  ],
+  "gabunganKata": [
+    "modulasi amplitudo",
+    "modulasi frekuensi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.du.la.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses pengubahan gelombang pendukung untuk menyampaikan bunyi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "peralihan dari satu dasar nada ke dasar nada yang lain dengan melepaskan dasar nada pertama secara mutlak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "penyesuaian aktivitas neuron secara positif atau negatif"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggantian sudut pandang yang berhubungan dengan teks bahasa sumber (tentang penerjemahan)"
+        }
+      ]
+    }
+  ]
+}

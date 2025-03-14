@@ -1,0 +1,54 @@
+{
+  "istilah": "rancak",
+  "entri": "ran.cak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerancak-rancakan",
+    "kerancakan",
+    "merancak",
+    "rancakan",
+    "serancak"
+  ],
+  "gabunganKata": [
+    "rancak di labuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ran.cak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "bagus; elok; cantik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "giat; cepat; dinamis; gembira (tentang lagu, musik, tarian, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ran.cak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "merancak"
+        }
+      ]
+    },
+    {
+      "lema": "ran.cak3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "rancakan; serancak"
+        }
+      ]
+    }
+  ]
+}

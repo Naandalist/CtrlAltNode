@@ -1,0 +1,28 @@
+{
+  "istilah": "mardud",
+  "entri": "mar.dud",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tertolak",
+    "kataAsal": "mardūd"
+  },
+  "data": [
+    {
+      "lema": "mar.dud",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Isl[Agama Islam: -]",
+          "deskripsi": "ditolak karena diragukan kebenarannya (tentang hadis)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Isl[Agama Islam: -]",
+          "deskripsi": "ditolak karena kemusyrikan (tentang iman)"
+        }
+      ]
+    }
+  ]
+}

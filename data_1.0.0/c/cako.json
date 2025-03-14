@@ -1,0 +1,33 @@
+{
+  "istilah": "cako",
+  "entri": "ca.ko1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.ko1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bld[Belanda: -]",
+          "deskripsi": "topi serdadu"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ko2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "rentang waktu yang cukup lama dari waktu terjadinya peristiwa"
+        }
+      ]
+    }
+  ]
+}

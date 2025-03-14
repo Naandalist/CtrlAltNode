@@ -1,0 +1,35 @@
+{
+  "istilah": "tarup",
+  "entri": "ta.rup1 bentuk tidak baku: tarub",
+  "bentukTidakBaku": "tarub",
+  "kataTurunan": [
+    "menarupi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bangsal, ruang kerja, bengkel (pandai besi), tempat berteduh untuk perayaan",
+    "kataAsal": "tarub"
+  },
+  "data": [
+    {
+      "lema": "ta.rup1 bentuk tidak baku: tarub",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dipakai sebagai atap untuk sementara (selama upacara berlangsung dan sebagainya); pelampang"
+        }
+      ]
+    },
+    {
+      "lema": "ta.rup2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lumbung"
+        }
+      ]
+    }
+  ]
+}

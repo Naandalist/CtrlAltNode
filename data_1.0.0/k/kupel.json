@@ -1,0 +1,42 @@
+{
+  "istilah": "kupel",
+  "entri": "ku.pel1 /kupêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.pel1 /kupêl/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kopel"
+        }
+      ]
+    },
+    {
+      "lema": "ku.pel2 /kupêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kubah"
+        }
+      ]
+    },
+    {
+      "lema": "ku.pel3 /kupêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pintu masuk pasar; teras pasar"
+        }
+      ]
+    }
+  ]
+}

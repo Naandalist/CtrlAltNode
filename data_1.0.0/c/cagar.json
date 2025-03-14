@@ -1,0 +1,49 @@
+{
+  "istilah": "cagar",
+  "entri": "ca.gar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cagaran",
+    "mencagarkan",
+    "mencagarkan",
+    "pencagaran"
+  ],
+  "gabunganKata": [
+    "cagar alam",
+    "cagar biosfer",
+    "cagar budaya",
+    "cagar ikan",
+    "cagar nasional",
+    "cagar sumber daya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kepastian, jaminan",
+    "kataAsal": "cagěr"
+  },
+  "data": [
+    {
+      "lema": "ca.gar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang dipakai sebagai tanggungan utang; barang yang digadaikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panjar; uang muka"
+        }
+      ]
+    },
+    {
+      "lema": "ca.gar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah perlindungan untuk melestarikan tumbuh-tumbuhan, binatang, dan sebagainya; lindungan"
+        }
+      ]
+    }
+  ]
+}

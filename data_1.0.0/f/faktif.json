@@ -1,0 +1,28 @@
+{
+  "istilah": "faktif",
+  "entri": "fak.tif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fak.tif",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "verba yang mempunyai komplemen kalimat dan yang menyimpulkan kebenaran komplemen itu (misalnya tahu dalam para sarjana tahu bahwa mereka masih belajar)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "verba yang mempunyai dua komplemen, seperti memilih, mengangkat"
+        }
+      ]
+    }
+  ]
+}

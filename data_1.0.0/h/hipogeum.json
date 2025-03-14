@@ -1,0 +1,28 @@
+{
+  "istilah": "hipogeum",
+  "entri": "hi.po.ge.um",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.po.ge.um",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "ruang bawah tanah pada bangunan Romawi, pada amfiteater dijadikan sebagai ruang tunggu gladiator sebelum memasuki arena"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "ruang makam bawah tanah kuno, berukuran lebih kecil daripada katakomba, memiliki ceruk untuk menyimpan abu hasil kremasi dan rongga untuk menyimpan jenazah, biasanya merupakan makam keluarga"
+        }
+      ]
+    }
+  ]
+}

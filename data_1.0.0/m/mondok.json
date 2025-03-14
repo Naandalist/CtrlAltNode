@@ -1,0 +1,33 @@
+{
+  "istilah": "mondok",
+  "entri": "mon.dok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mon.dok1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pendek gemuk (tentang bentuk sesuatu)"
+        }
+      ]
+    },
+    {
+      "lema": "mon.dok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pondok"
+        }
+      ]
+    }
+  ]
+}

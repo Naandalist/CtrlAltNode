@@ -1,0 +1,38 @@
+{
+  "istilah": "hembalang",
+  "entri": "hem.ba.lang1 /hêmbalang/bentuk tidak baku: humbalang",
+  "bentukTidakBaku": "humbalang",
+  "kataTurunan": [
+    "berhembalang",
+    "terhembalang",
+    "menghembalang",
+    "menghembalangkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hem.ba.lang1 /hêmbalang/bentuk tidak baku: humbalang",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berhembalang; terhembalang"
+        }
+      ]
+    },
+    {
+      "lema": "hem.ba.lang2 /hêmbalang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghembalang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "surah",
+  "entri": "su.rah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bagian dalam Alquran",
+    "kataAsal": "sūrah"
+  },
+  "data": [
+    {
+      "lema": "su.rah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "bagian atau bab dalam Al-Qur'an (kitab suci Al-Qur'an mempunyai 114 surah): -- Al-Fatihah; -- Al-Baqarah"
+        }
+      ]
+    },
+    {
+      "lema": "su.rah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "kain lembut yang terbuat dari sutra atau rayon"
+        }
+      ]
+    }
+  ]
+}

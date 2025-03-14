@@ -1,0 +1,47 @@
+{
+  "istilah": "sigi",
+  "entri": "si.gi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyigi",
+    "penyigi",
+    "penyigian",
+    "menyigi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mencari-cari di mana-mana, berusaha menemukan",
+    "kataAsal": "sigi"
+  },
+  "data": [
+    {
+      "lema": "si.gi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suluh atau obor dibuat dari kayu berdamar atau dari bilah-bilah bambu"
+        }
+      ]
+    },
+    {
+      "lema": "si.gi2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyigi"
+        }
+      ]
+    },
+    {
+      "lema": "Si.gi3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Sulawesi Tengah, ibu kotanya Bora"
+        }
+      ]
+    }
+  ]
+}

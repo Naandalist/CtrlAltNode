@@ -1,0 +1,31 @@
+{
+  "istilah": "keok",
+  "entri": "ke.ok bentuk tidak baku: kiuk1",
+  "bentukTidakBaku": "kiuk1",
+  "kataTurunan": [
+    "berkeok-keok",
+    "berkeokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ok bentuk tidak baku: kiuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi ayam jika ditangkap atau kesakitan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kalah: dalam perundingan itu kesebelasan tuan rumah --"
+        }
+      ]
+    }
+  ]
+}

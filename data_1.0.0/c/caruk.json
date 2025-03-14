@@ -1,0 +1,72 @@
+{
+  "istilah": "caruk",
+  "entri": "ca.ruk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencaruk",
+    "mencaruk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memakai (mengambi, mengikuti dan lain-lain) dengan tidak memilih-milih",
+    "kataAsal": "caruk"
+  },
+  "data": [
+    {
+      "lema": "ca.ruk1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kupas (kulit)"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ruk2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lahap; rakus; pajuh"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ruk3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mdr[Madura: -]",
+          "deskripsi": "berkelahi satu lawan satu atau secara massal dengan menggunakan senjata tajam (celurit), dengan latar belakang wanita, dendam, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ruk4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "ruang antara dinding haluan dan buritan perahu"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ruk5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Us[Using: -]",
+          "deskripsi": "pertunjukan kesenian angklung Banyuwangi, terdiri atas dua kelompok pemain angklung yang diadu kemampuannya dalam memainkan angklung"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ruk6",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -] Sen[Kesenian: -]",
+          "deskripsi": "cara membunyikan saron, bonang, demung yang bersahut-sahutan"
+        }
+      ]
+    }
+  ]
+}

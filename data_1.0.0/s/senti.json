@@ -1,0 +1,28 @@
+{
+  "istilah": "senti",
+  "entri": "sen.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.ti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "sentimeter; seperseratus meter"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seperseratus (misalnya sentiliter, sentigram)"
+        }
+      ]
+    }
+  ]
+}

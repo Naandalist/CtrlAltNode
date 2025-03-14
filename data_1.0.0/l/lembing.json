@@ -1,0 +1,44 @@
+{
+  "istilah": "lembing",
+  "entri": "lem.bing1 /lêmbing/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlembing",
+    "melembing"
+  ],
+  "gabunganKata": [
+    "lembing kecil"
+  ],
+  "peribahasa": [
+    "hujan keris lembing di negeri kita, hujan emas perak di negeri orang, baik jua di negeri kita; tercacak seperti lembing tergadai; tohok lembing ke semak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lem.bing1 /lêmbing/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tombak pandak (dapat ditohokkan, dapat dilemparkan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tombak kayu atau bambu kecil panjang yang ujungnya berlapis logam yang runcing untuk berolahraga (dengan cara melemparkannya jauh-jauh)"
+        }
+      ]
+    },
+    {
+      "lema": "lem.bing2 /lêmbing/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "serangga sejenis kepik yang dalam jumlah banyak bisa menjadi hama padi"
+        }
+      ]
+    }
+  ]
+}

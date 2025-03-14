@@ -1,0 +1,66 @@
+{
+  "istilah": "cetak",
+  "entri": "ce.tak bentuk tidak baku: citak",
+  "bentukTidakBaku": "citak",
+  "kataTurunan": [
+    "bercetak",
+    "cetak-mencetak",
+    "cetakan",
+    "mencetak",
+    "mencetakkan",
+    "pencetak",
+    "pencetakan",
+    "percetakan",
+    "tercetak"
+  ],
+  "gabunganKata": [
+    "cetak awal",
+    "cetak balik",
+    "cetak balikan",
+    "cetak batu",
+    "cetak biru",
+    "cetak buta",
+    "cetak cahaya",
+    "cetak coba",
+    "cetak coba bersih",
+    "cetak coba repro",
+    "cetak dalam",
+    "cetak datar",
+    "cetak dupleks",
+    "cetak intaglio",
+    "cetak lepas",
+    "cetak linoleum",
+    "cetak litografi",
+    "cetak ofset",
+    "cetak oplah",
+    "cetak perada",
+    "cetak rangkap",
+    "cetak relief",
+    "cetak saring",
+    "cetak seni",
+    "cetak timbul",
+    "cetak tinggi",
+    "cetak ulang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.tak bentuk tidak baku: citak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cap (terutama yang dipakai untuk membuat buku dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "acuan (untuk membuat batu bata, kue, dan sebagainya); cetakan"
+        }
+      ]
+    }
+  ]
+}

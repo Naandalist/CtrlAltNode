@@ -1,0 +1,41 @@
+{
+  "istilah": "rush",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -] Dag[Perdagangan: -]",
+          "deskripsi": "permintaan kuat yang mendadak"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "cetakan film yang diproses langsung setelah pemotretan untuk dilihat sutradara atau produser"
+        }
+      ]
+    },
+    {
+      "lema": "rush",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -] [Perdagangan: -]",
+          "deskripsi": "permintaan kuat yang mendadak"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "cetakan film yang diproses langsung setelah pemotretan untuk dilihat sutradara atau produser"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "grafis",
+  "entri": "gra.fis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gra.fis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat graf; bersifat huruf; dilambangkan dengan huruf"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat matematika, statistika, dan sebagainya dalam wujud titik-titik, garis-garis, atau bidang-bidang yang secara visual dapat menjelaskan hubungan yang ingin disajikan secara terbaik; tentang penyajian hasil penghitungan; bersifat grafik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "leksikal",
+  "entri": "lek.si.kal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lek.si.kal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "berkaitan dengan kata"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "berkaitan dengan leksem"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "berkaitan dengan kosakata"
+        }
+      ]
+    }
+  ]
+}

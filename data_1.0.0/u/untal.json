@@ -1,0 +1,37 @@
+{
+  "istilah": "untal",
+  "entri": "un.tal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menguntal",
+    "menguntal",
+    "penguntal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "un.tal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gentel (obat); pel; gelintir; butir (biji)"
+        }
+      ]
+    },
+    {
+      "lema": "un.tal2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menguntal"
+        }
+      ]
+    }
+  ]
+}

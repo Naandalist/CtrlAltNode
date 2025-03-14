@@ -1,0 +1,36 @@
+{
+  "istilah": "pilar",
+  "entri": "pi.lar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpilar"
+  ],
+  "gabunganKata": [
+    "pilar tanah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.lar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiang penguat (dari batu, beton, dan sebagainya): sebuah monumen yang terdiri atas lima -- berdiri dengan megahnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "dasar (yang pokok); induk: partai itu disederhanakan menjadi tujuh organisasi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kap[Perkapalan: -] ki[kiasan]",
+          "deskripsi": "tiang berbentuk silinder pejal atau berongga untuk menyangga balok geladak atau bagian konstruksi lain di kapal"
+        }
+      ]
+    }
+  ]
+}

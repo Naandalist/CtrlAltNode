@@ -1,0 +1,62 @@
+{
+  "istilah": "beres",
+  "entri": "es2 » ber.es",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berberes",
+    "berberes-beres",
+    "beres-beres",
+    "keberesan",
+    "memberesi",
+    "membereskan",
+    "pemberesan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "es2 » ber.es",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ada esnya; mengandung es: air ~"
+        }
+      ]
+    },
+    {
+      "lema": "be.res1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "sejuk sekali"
+        }
+      ]
+    },
+    {
+      "lema": "be.res2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "teratur baik-baik; rapi; tidak kacau: keadaan perabotan di ruangan itu --; rumah tangganya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "selesai; tidak kusut: persoalannya sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lunas (tentang utang); habis: utang saya sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bagus (terlaksana dengan baik): jangan khawatir, pokoknya --"
+        }
+      ]
+    }
+  ]
+}

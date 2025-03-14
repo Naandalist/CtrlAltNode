@@ -1,0 +1,33 @@
+{
+  "istilah": "rangrang",
+  "entri": "rang.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rang.rang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "semut rangrang; semut angkrang; semut kerengga; kerengga"
+        }
+      ]
+    },
+    {
+      "lema": "rang.rang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "kain tenun khas Bali atau Lombok yang bercorak segitiga dengan warna-warni yang biasanya cerah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "kelotok",
+  "entri": "ke.lo.tok1 /kêlotok/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengelotok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.lo.tok1 /kêlotok/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengelotok"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lo.tok2 /kêlotok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan asin"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lo.tok3 /kêlotok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu bermotor (di daerah Kalimantan Selatan) terbuat dari kayu untuk kendaraan sungai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rakit bambu"
+        }
+      ]
+    }
+  ]
+}

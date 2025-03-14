@@ -1,0 +1,41 @@
+{
+  "istilah": "mabal",
+  "entri": "ma.bal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.bal",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "memakai jalan yang tidak biasa"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -] ki[kiasan]",
+          "deskripsi": "tersesat dari kepercayaan yang benar ke kepercayaan yang salah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -] ki[kiasan]",
+          "deskripsi": "membolos sekolah: anak sekarang banyak yang sering --"
+        }
+      ]
+    },
+    {
+      "lema": "Ma.bal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Markas Besar TNI Angkatan Laut"
+        }
+      ]
+    }
+  ]
+}

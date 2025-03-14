@@ -1,0 +1,30 @@
+{
+  "istilah": "simbol",
+  "entri": "sim.bol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersimbol",
+    "menyimbolkan"
+  ],
+  "gabunganKata": [
+    "simbol jeda",
+    "simbol kimia"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sim.bol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lambang"
+        }
+      ]
+    }
+  ]
+}

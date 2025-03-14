@@ -1,0 +1,28 @@
+{
+  "istilah": "toroid",
+  "entri": "to.ro.id",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.ro.id",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bahan magnetik yang permeabilitasnya tinggi dan berbentuk kue donat serta dililit satu atau lebih kumparan kawat berarus elektrik sehingga fluks magnetiknya hampir seluruhnya ada di dalamnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "tabung hampa berbentuk kue donat pada betatron atau sinkroton yang di dalamnya terdapat elektron yang bergerak melingkar"
+        }
+      ]
+    }
+  ]
+}

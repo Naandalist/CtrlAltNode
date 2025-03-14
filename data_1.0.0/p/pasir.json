@@ -1,0 +1,56 @@
+{
+  "istilah": "pasir",
+  "entri": "pa.sir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpasir"
+  ],
+  "gabunganKata": [
+    "pasir ambang",
+    "pasir besi",
+    "pasir embus",
+    "pasir gas",
+    "pasir kaca",
+    "pasir karang",
+    "pasir kuarsa",
+    "pasir layang",
+    "pasir malang",
+    "pasir melela",
+    "pasir minyak",
+    "pasir putih",
+    "pasir semen",
+    "pasir silika",
+    "pasir vulkanik"
+  ],
+  "peribahasa": [
+    "hujan jatuh ke pasir; lebih berharga mutiara sebutir daripada pasir sepantai; semanis-manis gula, ada pasir di dalamnya (manis-manis gula berpasir jua, sepahit-pahit jadam menjadi obat); tidur bertilam pasir"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.sir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butir-butir batu yang halus; kersik halus: Ayah membuat adukan dari air, semen, dan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapisan tanah atau timbunan kersik halus: ia bermain-main di --; padang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbutir-butir sebagai pasir: emas --; gula --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laut: tepi --"
+        }
+      ]
+    }
+  ]
+}

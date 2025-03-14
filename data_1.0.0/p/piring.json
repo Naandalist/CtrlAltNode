@@ -1,0 +1,50 @@
+{
+  "istilah": "piring",
+  "entri": "pi.ring",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpiring",
+    "berpiring-piring",
+    "piringan"
+  ],
+  "gabunganKata": [
+    "piring alas",
+    "piring bara",
+    "piring cangkir",
+    "piring hitam",
+    "piring kue",
+    "piring lodor",
+    "piring mangkuk",
+    "piring polos",
+    "piring sepeda",
+    "piring terbang",
+    "piring video"
+  ],
+  "peribahasa": [
+    "bersawah seperempat piring, ke sawah sama dengan orang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "piring",
+    "kataAsal": "piriṅ"
+  },
+  "data": [
+    {
+      "lema": "pi.ring",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah berbentuk bundar pipih dan sedikit cekung (atau ceper), terbuat dari porselen (seng, plastik), tempat meletakkan nasi yang hendak dimakan (tempat lauk-pauk dan sebagainya): -- yang digunakan untuk sarapan sudah dicuci; tari -- tari-tarian dengan membawa piring kecil dan lilin di atasnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang bulat pipih menyerupai piring"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "petak (sawah): sawahnya beratus --; -- dan kebunnya beratus bau"
+        }
+      ]
+    }
+  ]
+}

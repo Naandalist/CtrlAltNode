@@ -1,0 +1,45 @@
+{
+  "istilah": "centang",
+  "entri": "cen.tang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencentang",
+    "mencentang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cen.tang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda koreksi, bentuknya seperti huruf v atau tanda cawang"
+        }
+      ]
+    },
+    {
+      "lema": "cen.tang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pukul"
+        }
+      ]
+    },
+    {
+      "lema": "cen.tang /cêntang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "pematang yang melengkung, tidak lurus"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "makan sumpah",
+  "entri": "makan1 » makan sumpah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "makan1 » makan sumpah",
+      "arti": [
+        {
+          "kelas_kata": "ki[kiasan]",
+          "deskripsi": "sudah bersumpah"
+        },
+        {
+          "kelas_kata": "ki[kiasan]",
+          "deskripsi": "dimakan sumpah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "wulang",
+  "entri": "wu.lang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "wulangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wu.lang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "ajaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "nasihat"
+        }
+      ]
+    }
+  ]
+}

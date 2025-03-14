@@ -1,0 +1,32 @@
+{
+  "istilah": "enak-enak",
+  "entri": "enak » e.nak-e.nak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "enak » e.nak-e.nak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "asyik (tentang berbuat sesuatu): pada waktu saya sedang ~ membaca buku terdengar orang berteriak “maling, maling”"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lelap-lelapnya; pulas-pulasnya (tentang tidur): anak yang sedang ~ tidur itu tentu saja marah kalau diganggu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "leha-leha; berpangku tangan; bersantai-santai: orang lain sibuk bekerja, ia hanya ~"
+        }
+      ]
+    }
+  ]
+}

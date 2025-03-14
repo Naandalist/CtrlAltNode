@@ -1,0 +1,36 @@
+{
+  "istilah": "kebakaran",
+  "entri": "bakar » ke.ba.kar.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kebakaran janggut",
+    "kebakaran jenggot",
+    "kebakaran tajuk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bakar » ke.ba.kar.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peristiwa terbakarnya sesuatu (rumah, hutan, dan sebagainya): ~ hutan sering terjadi dalam musim kemarau"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "terbakar; mengalami keadaan terbakar: ia tidak mempunyai tempat berteduh karena rumahnya ~"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahaya api"
+        }
+      ]
+    }
+  ]
+}

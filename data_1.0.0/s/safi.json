@@ -1,0 +1,28 @@
+{
+  "istilah": "safi",
+  "entri": "sa.fi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jernih; bersih",
+    "kataAsal": "ṡāfī"
+  },
+  "data": [
+    {
+      "lema": "sa.fi",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersih; jujur; murni; tulus hati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sahabat sejati"
+        }
+      ]
+    }
+  ]
+}

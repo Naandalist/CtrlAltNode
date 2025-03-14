@@ -1,0 +1,52 @@
+{
+  "istilah": "seret",
+  "entri": "se.ret1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyeret",
+    "menyeret-nyeret",
+    "penyeret",
+    "penyeretan",
+    "terseret"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "seret atau menyeret",
+    "kataAsal": "sered"
+  },
+  "data": [
+    {
+      "lema": "se.ret1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hela, tarik maju (barang yang dihela bergeser di tanah atau di air)"
+        }
+      ]
+    },
+    {
+      "lema": "se.ret2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "loreng; berjalur-jalur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "jalur di tepi (tentang kain, payung, dan sebagainya); pinggiran"
+        }
+      ]
+    },
+    {
+      "lema": "se.ret /sêrêt/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tidak lancar; tersendat-sendat"
+        }
+      ]
+    }
+  ]
+}

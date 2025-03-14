@@ -1,0 +1,71 @@
+{
+  "istilah": "selak",
+  "entri": "se.lak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyelak",
+    "menyelakkan",
+    "terselak",
+    "menyelak",
+    "menyelak",
+    "menyelak",
+    "keselak",
+    "terselak"
+  ],
+  "gabunganKata": [
+    "selak pintu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "batang (pohon), ranting atau tangkai, palang, penghalang",
+    "kataAsal": "śalākā"
+  },
+  "data": [
+    {
+      "lema": "se.lak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "buka, singkap"
+        }
+      ]
+    },
+    {
+      "lema": "se.lak1 /sêlak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu palang untuk menutup pintu dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "se.lak2 /sêlak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "menyelak"
+        }
+      ]
+    },
+    {
+      "lema": "se.lak3 /sêlak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyelak"
+        }
+      ]
+    },
+    {
+      "lema": "se.lak4 /sêlak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "terselak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "pagu",
+  "entri": "pa.gu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pagu indikatif",
+    "pagu kredit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.gu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "para-para (di dapur)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "loteng (di rumah, tempat menyimpan barang-barang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "langit-langit (rumah); plafon"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batas tertinggi (tentang anggaran); plafon"
+        }
+      ]
+    },
+    {
+      "lema": "Pa.gu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Kabupaten Halmahera Utara, Provinsi Maluku Utara"
+        }
+      ]
+    }
+  ]
+}

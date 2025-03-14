@@ -1,0 +1,35 @@
+{
+  "istilah": "cekuh",
+  "entri": "ce.kuh1 /cêkuh/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencekuh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.kuh1 /cêkuh/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "rogoh"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kuh2 /cêkuh/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kencur"
+        }
+      ]
+    }
+  ]
+}

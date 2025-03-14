@@ -1,0 +1,29 @@
+{
+  "istilah": "singsing",
+  "entri": "sing.sing",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersingsing",
+    "menyingsing",
+    "menyingsingkan",
+    "tersingsing"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "singsing",
+    "kataAsal": "siṅsiṅ"
+  },
+  "data": [
+    {
+      "lema": "sing.sing",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyingsing"
+        }
+      ]
+    }
+  ]
+}

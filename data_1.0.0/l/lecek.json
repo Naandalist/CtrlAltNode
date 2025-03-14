@@ -1,0 +1,44 @@
+{
+  "istilah": "lecek",
+  "entri": "le.cek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melecek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.cek1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lembek dan pekat (tentang nasi dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "le.cek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "permainan anak-anak dengan gundu dan gasing yang diputar untuk menyentuh gundu itu"
+        }
+      ]
+    },
+    {
+      "lema": "le.cek /lêcêk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berkerut-kerut (tentang kertas, kain, dan sebagainya); lusuh; kumal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "novum",
+  "entri": "no.vum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "no.vum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lt[Latin: -]",
+          "deskripsi": "peristiwa atau bukti baru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "alasan untuk naik banding dengan ditemukannya bukti baru"
+        }
+      ]
+    }
+  ]
+}

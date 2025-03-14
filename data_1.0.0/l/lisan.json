@@ -1,0 +1,40 @@
+{
+  "istilah": "lisan",
+  "entri": "li.san",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelisanan",
+    "melisankan",
+    "pelisanan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "lidah; bahasa",
+    "kataAsal": "lisān"
+  },
+  "data": [
+    {
+      "lema": "li.san",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lidah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata-kata yang diucapkan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan kata-kata yang diucapkan: penelitian sastra --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dengan mulut (bukan dengan surat): undangan rapat disampaikan secara --"
+        }
+      ]
+    }
+  ]
+}

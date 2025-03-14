@@ -1,0 +1,37 @@
+{
+  "istilah": "sandal",
+  "entri": "san.dal1 bentuk tidak baku: sendal1",
+  "bentukTidakBaku": "sendal1",
+  "kataTurunan": [
+    "bersandal"
+  ],
+  "gabunganKata": [
+    "sandal jepit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "san.dal1 bentuk tidak baku: sendal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alas kaki yang dibuat dari kulit, karet, dan sebagainya; terompah"
+        }
+      ]
+    },
+    {
+      "lema": "san.dal2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sendal2"
+        }
+      ]
+    }
+  ]
+}

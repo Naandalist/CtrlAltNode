@@ -1,0 +1,43 @@
+{
+  "istilah": "kejam",
+  "entri": "ke.jam1 /kêjam/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekejaman",
+    "mengejami",
+    "mengejam",
+    "mengejamkan",
+    "terkejam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.jam1 /kêjam/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak menaruh belas kasihan; bengis; zalim: ketika berkuasa, pemimpin sangat -- terhadap rakyatnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat kikir: majikan itu sangat --, tidak mau menaikkan upah buruhnya barang sedikit juga"
+        }
+      ]
+    },
+    {
+      "lema": "ke.jam2 /kêjam/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tertutup rapat (tentang mata); pejam: sungguhpun setiap hari matanya --, ia tidak tidur"
+        }
+      ]
+    }
+  ]
+}

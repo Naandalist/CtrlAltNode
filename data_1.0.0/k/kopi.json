@@ -1,0 +1,109 @@
+{
+  "istilah": "kopi",
+  "entri": "ko.pi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengopi",
+    "pengopi",
+    "perkopian",
+    "kopian",
+    "mengopi",
+    "pengopian",
+    "terkopi"
+  ],
+  "gabunganKata": [
+    "kopi andelan",
+    "kopi arab",
+    "kopi arabika",
+    "kopi arang",
+    "kopi beras",
+    "kopi betina",
+    "kopi bubuk",
+    "kopi dadak",
+    "kopi dalgona",
+    "kopi darat",
+    "kopi daun",
+    "kopi degan",
+    "kopi ekselsa",
+    "kopi gelondong",
+    "kopi instan",
+    "kopi jahe",
+    "kopi jantan",
+    "kopi jawa",
+    "kopi jos",
+    "kopi keras",
+    "kopi lanang",
+    "kopi liberika",
+    "kopi luak",
+    "kopi madu",
+    "kopi pahit",
+    "kopi pekat",
+    "kopi robusta",
+    "kopi saring",
+    "kopi suling",
+    "kopi susu",
+    "kopi tubruk",
+    "kopi cetak",
+    "kopi karbon",
+    "kopi karbon buta",
+    "kopi lunak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.pi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang banyak ditanam di Asia, Amerika Latin, dan Afrika, buahnya disangrai dan ditumbuk halus untuk dijadikan bahan campuran minuman〔Coffea〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah (biji) kopi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serbuk kopi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman yang bahannya serbuk kopi"
+        }
+      ]
+    },
+    {
+      "lema": "ko.pi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "salinan sesuai dengan asli yang diperoleh dengan cara memfotokopi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tindasan (surat dan sebagainya); tembusan; turunan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "naskah karangan yang akan dicetak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "eksemplar (tentang buku cetakan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "positif atau negatif yang diperoleh dengan penyinaran negatif atau positif"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "salinan rol film, pita kaset, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

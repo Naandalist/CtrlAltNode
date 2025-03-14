@@ -1,0 +1,69 @@
+{
+  "istilah": "sedang",
+  "entri": "se.dang1 /sêdang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyedang",
+    "menyedang-nyedang",
+    "menyedang-nyedangkan",
+    "menyedangkan",
+    "sedang-menyedang",
+    "sedangkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "waktu yang tepat, saat yang tepat",
+    "kataAsal": "sěḍaṅ"
+  },
+  "data": [
+    {
+      "lema": "se.dang1 /sêdang/",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "masih (dalam melakukan sesuatu); lagi; baru (saja): ia -- belajar mengetik"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "dalam pada (itu); sementara; dalam waktu (itu): -- (ia) hendak pergi, hujan pun mulai turun"
+        }
+      ]
+    },
+    {
+      "lema": "se.dang2 /sêdang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menengah (tidak kurang dan tidak lebih; tidak besar dan tidak kecil, dan sebagainya): ia hanya mempunyai nilai yang -- di kelasnya sehingga tidak mungkin menjadi juara kelas"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "patut; pantas: upah yang diterimanya per hari sudah -- baginya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cukup: gajinya hanya -- untuk makan dua minggu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kena ukurannya; cocok pada tubuh, dan sebagainya: baju kakaknya ternyata -- juga untuknya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sederhana; tidak melampaui batas; ugahari: kehidupan mereka -- saja"
+        }
+      ]
+    },
+    {
+      "lema": "se.dang3 /sêdang/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "sedangkan"
+        }
+      ]
+    }
+  ]
+}

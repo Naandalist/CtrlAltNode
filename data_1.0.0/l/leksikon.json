@@ -1,0 +1,44 @@
+{
+  "istilah": "leksikon",
+  "entri": "lek.si.kon /leksikon/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lek.si.kon /leksikon/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kosakata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kamus yang sederhana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "daftar istilah dalam suatu bidang disusun menurut abjad dan dilengkapi dengan keterangannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "komponen bahasa yang memuat semua informasi tentang makna dan pemakaian kata dalam bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kekayaan kata yang dimiliki suatu bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "pemrograman, pengidentifikasi, kata kunci, konstanta, dan unsur-unsur lain dari bahasa yang membentuk kosakatanya"
+        }
+      ]
+    }
+  ]
+}

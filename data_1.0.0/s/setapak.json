@@ -1,0 +1,43 @@
+{
+  "istilah": "setapak",
+  "entri": "tapak » se.ta.pak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "setapak jangan lalu, setapak jangan surut"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tapak » se.ta.pak",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "selebar tapak tangan"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "sepanjang tapak kaki: jalan ~"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "selangkah: ~ demi ~ selangkah demi selangkah"
+        }
+      ]
+    },
+    {
+      "lema": "se.ta.pak /sêtapak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "beranda di rusuk rumah"
+        }
+      ]
+    }
+  ]
+}

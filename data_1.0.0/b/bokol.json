@@ -1,0 +1,33 @@
+{
+  "istilah": "bokol",
+  "entri": "bo.kol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.kol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "anak ikan tombro"
+        }
+      ]
+    },
+    {
+      "lema": "bo.kol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat (semacam peti) yang terbuat dari anyaman daun tikar, biasanya untuk menyimpan pakaian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "sopan",
+  "entri": "so.pan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersopan-sopan",
+    "kesopanan",
+    "menyopani",
+    "menyopankan",
+    "tersopan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "baik, luhur (tentang budi)",
+    "kataAsal": "śobhana"
+  },
+  "data": [
+    {
+      "lema": "so.pan",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hormat dan takzim (akan, kepada); tertib menurut adat yang baik: dengan -- ia mempersilakan tamunya duduk; kepada orang tua kita wajib berlaku --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "beradab (tentang tingkah laku, tutur kata, pakaian dan sebagainya); tahu adat; baik budi bahasanya: ia berlaku amat -- kepada kedua orang tuanya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "baik kelakuannya (tidak lacur, tidak cabul): sekarang ini kita sukar untuk membedakan perempuan yang -- dan yang lacur"
+        }
+      ]
+    }
+  ]
+}

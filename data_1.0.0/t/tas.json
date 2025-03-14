@@ -1,0 +1,83 @@
+{
+  "istilah": "tas",
+  "entri": "tas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertas"
+  ],
+  "gabunganKata": [
+    "tas bahu",
+    "tas bekal",
+    "tas belanja",
+    "tas buket",
+    "tas dafel",
+    "tas gendong",
+    "tas hobo",
+    "tas jinjing",
+    "tas kantor",
+    "tas kepit",
+    "tas kerja",
+    "tas kosmetik",
+    "tas kotak",
+    "tas kurir",
+    "tas pakaian",
+    "tas pria",
+    "tas punggung",
+    "tas ransel",
+    "tas rias",
+    "tas selempang",
+    "tas serbaguna",
+    "tas tali tarik",
+    "tas tangan",
+    "tas tote",
+    "tas tukang pos"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemasan atau wadah berbentuk persegi dan sebagainya, biasanya bertali, dipakai untuk menaruh, menyimpan, atau membawa sesuatu"
+        }
+      ]
+    },
+    {
+      "lema": "tas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi letusan (senapan dan sebagainya); detas; das"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi lembut sekali"
+        }
+      ]
+    },
+    {
+      "lema": "tas3",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "segera; lantas"
+        }
+      ]
+    },
+    {
+      "lema": "tas4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang menurut kepercayaan orang sebagai penangkal harimau, buahnya dapat dimakan〔Kurrimia paniculata〕"
+        }
+      ]
+    }
+  ]
+}

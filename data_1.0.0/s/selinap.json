@@ -1,0 +1,39 @@
+{
+  "istilah": "selinap",
+  "entri": "se.li.nap1 /sêlinap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyelinap",
+    "menyelinapkan",
+    "penyelinap",
+    "penyelinapan",
+    "menyelinap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.li.nap1 /sêlinap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyelinap"
+        }
+      ]
+    },
+    {
+      "lema": "se.li.nap2 /sêlinap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "siangi"
+        }
+      ]
+    }
+  ]
+}

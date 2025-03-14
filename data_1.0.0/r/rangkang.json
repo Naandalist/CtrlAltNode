@@ -1,0 +1,35 @@
+{
+  "istilah": "rangkang",
+  "entri": "rang.kang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merangkang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rang.kang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merangkang"
+        }
+      ]
+    },
+    {
+      "lema": "rang.kang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "pondok kecil di ladang yang bertiang, tempat tinggal laki-laki yang tidak beristri selama beberapa waktu, tempat tinggal pelajar agama"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "sungging",
+  "entri": "sung.ging1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyungging",
+    "menyunggingkan",
+    "penyungging",
+    "penyunggingan",
+    "tersungging"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lukisan lembut pada gambar-gambar (bunga-bunga)",
+    "kataAsal": "suṅgiṅ"
+  },
+  "data": [
+    {
+      "lema": "sung.ging1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lukisan (perhiasan) diwarnai dengan cat (air mas dan sebagainya): juru --; seni --"
+        }
+      ]
+    },
+    {
+      "lema": "sung.ging2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menyungging"
+        }
+      ]
+    }
+  ]
+}

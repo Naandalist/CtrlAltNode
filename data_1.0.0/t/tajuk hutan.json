@@ -1,0 +1,24 @@
+{
+  "istilah": "tajuk hutan",
+  "entri": "tajuk1 » tajuk hutan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tajuk1 » tajuk hutan",
+      "arti": [
+        {
+          "kelas_kata": "Bot[Botani: -]",
+          "deskripsi": "lapisan cabang paling atas di hutan, berfungsi sebagai penutup, naungan, atau tempat berlindung tumbuhan lain; kanopi"
+        }
+      ]
+    }
+  ]
+}

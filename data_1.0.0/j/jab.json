@@ -1,0 +1,33 @@
+{
+  "istilah": "jab",
+  "entri": "jab1 bentuk tidak baku: jap2",
+  "bentukTidakBaku": "jap2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jab1 bentuk tidak baku: jap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "jenis pukulan dalam tinju, lurus, dan pendek"
+        }
+      ]
+    },
+    {
+      "lema": "jab2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "leher bubu, terdiri atas corong bambu yang dianyam melintang dan terbuka ke mulut bubu, tertutup rapat pada ujungnya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "gombal",
+  "entri": "gom.bal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergombal",
+    "gombalan",
+    "kegombalan",
+    "menggombal",
+    "tergombal",
+    "tergombali"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gom.bal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain yang sudah tua (sobek-sobek)"
+        }
+      ]
+    },
+    {
+      "lema": "gom.bal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bohong; omong kosong: rayuan --"
+        }
+      ]
+    }
+  ]
+}

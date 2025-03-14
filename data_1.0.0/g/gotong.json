@@ -1,0 +1,36 @@
+{
+  "istilah": "gotong",
+  "entri": "go.tong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggotong",
+    "menggotong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menggotong",
+    "kataAsal": "gotoṅ"
+  },
+  "data": [
+    {
+      "lema": "go.tong1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bawa bersama-sama"
+        }
+      ]
+    },
+    {
+      "lema": "go.tong2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bayar utang mendiang secara bersama-sama"
+        }
+      ]
+    }
+  ]
+}

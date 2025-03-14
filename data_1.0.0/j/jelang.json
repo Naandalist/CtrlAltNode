@@ -1,0 +1,37 @@
+{
+  "istilah": "jelang",
+  "entri": "je.lang1 /jêlang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jelang-menjelang",
+    "menjelang",
+    "menjelangi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.lang1 /jêlang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kunjung; tengok"
+        }
+      ]
+    },
+    {
+      "lema": "je.lang2 /jêlang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "cair; encer (tentang susu dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

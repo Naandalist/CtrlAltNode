@@ -1,0 +1,28 @@
+{
+  "istilah": "finis",
+  "entri": "fi.nis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.nis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian terakhir (suatu perlombaan); penghabisan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "habis; berakhir; selesai"
+        }
+      ]
+    }
+  ]
+}

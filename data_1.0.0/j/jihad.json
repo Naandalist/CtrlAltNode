@@ -1,0 +1,40 @@
+{
+  "istilah": "jihad",
+  "entri": "ji.had",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjihad",
+    "jihadis",
+    "pejihad"
+  ],
+  "gabunganKata": [
+    "jihad akbar",
+    "jihad asgar",
+    "jihad fi sabilillah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perang melawan musuh",
+    "kataAsal": "jihād"
+  },
+  "data": [
+    {
+      "lema": "ji.had",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "usaha dengan segala daya upaya untuk mencapai kebaikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "usaha sungguh-sungguh membela agama Islam dengan mengorbankan harta benda, jiwa, dan raga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "perang suci melawan orang kafir untuk mempertahankan agama Islam dengan syarat tertentu"
+        }
+      ]
+    }
+  ]
+}

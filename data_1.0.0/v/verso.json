@@ -1,0 +1,28 @@
+{
+  "istilah": "verso",
+  "entri": "ver.so",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ver.so",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "halaman sebelah kiri buku atau naskah yang terbuka, biasanya bernomor halaman genap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian belakang atau bagian kedua lembaran kertas yang akan dicetak"
+        }
+      ]
+    }
+  ]
+}

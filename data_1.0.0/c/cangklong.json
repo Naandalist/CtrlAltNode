@@ -1,0 +1,39 @@
+{
+  "istilah": "cangklong",
+  "entri": "cang.klong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencangklong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cang.klong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pipa lengkung untuk mengisap tembakau yang salah satu ujungnya berbentuk cawan sebagai tempat tembakau yang akan disulut; honcoe: pipa --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengudut (untuk mengisap madat): -- candu"
+        }
+      ]
+    },
+    {
+      "lema": "cang.klong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pundi-pundi yang disangkutkan di bahu"
+        }
+      ]
+    }
+  ]
+}

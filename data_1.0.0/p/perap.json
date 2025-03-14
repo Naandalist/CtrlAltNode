@@ -1,0 +1,36 @@
+{
+  "istilah": "perap",
+  "entri": "pe.rap1 /pêrap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memerap",
+    "terperap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.rap1 /pêrap/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memerap"
+        }
+      ]
+    },
+    {
+      "lema": "pe.rap2 /pêrap/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terperap"
+        }
+      ]
+    }
+  ]
+}

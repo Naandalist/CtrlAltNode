@@ -1,0 +1,52 @@
+{
+  "istilah": "ramal",
+  "entri": "ra.mal1",
+  "bentukTidakBaku": "rumal",
+  "kataTurunan": [
+    "meramal",
+    "meramalkan",
+    "peramal",
+    "peramalan",
+    "ramalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pasir",
+    "kataAsal": "raml"
+  },
+  "data": [
+    {
+      "lema": "ra.mal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pasir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pasir yang dipakai untuk melihat nasib atau mengetahui apa yang akan terjadi (primbon, perhitungan, dan sebagainya): membaca (membilang, membuka) -- melihat nasib orang dengan membaca kitab nujum"
+        }
+      ]
+    },
+    {
+      "lema": "ra.mal2 bentuk tidak baku: rumal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "saputangan: sehelai -- sutra yang bertaburkan benang emas disimpulkan di hulu keris itu"
+        }
+      ]
+    },
+    {
+      "lema": "ra.mal3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Gy[Gayo: -]",
+          "deskripsi": "mengembunkan agar lebih lembut (misalnya tembakau, daun pandan yang sudah dikeringkan)"
+        }
+      ]
+    }
+  ]
+}

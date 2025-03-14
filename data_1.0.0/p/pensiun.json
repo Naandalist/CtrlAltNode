@@ -1,0 +1,37 @@
+{
+  "istilah": "pensiun",
+  "entri": "pen.si.un",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memensiun",
+    "memensiunkan",
+    "pemensiunan",
+    "pensiunan"
+  ],
+  "gabunganKata": [
+    "pensiun awal",
+    "pensiun dini",
+    "pensiun janda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pen.si.un",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak bekerja lagi karena masa tugasnya sudah selesai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang tunjangan yang diterima tiap-tiap bulan oleh karyawan sesudah ia berhenti bekerja atau oleh istri (suami) dan anak-anaknya yang belum dewasa kalau ia meninggal dunia"
+        }
+      ]
+    }
+  ]
+}

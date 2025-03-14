@@ -1,0 +1,38 @@
+{
+  "istilah": "soto",
+  "entri": "so.to",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "persotoan"
+  ],
+  "gabunganKata": [
+    "soto Bandung",
+    "soto Banjar",
+    "soto Betawi",
+    "soto Kudus",
+    "soto Lamongan",
+    "soto Madura",
+    "soto Medan",
+    "soto mi",
+    "soto Padang",
+    "soto sulung",
+    "soto tangkar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "masakan soto",
+    "kataAsal": "sio tō͘"
+  },
+  "data": [
+    {
+      "lema": "so.to",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masakan yang kuahnya dimasak tersendiri dan rangkaian isinya antara lain daging, kentang, bawang goreng yang dimasukkan kemudian, pada waktu akan dihidangkan"
+        }
+      ]
+    }
+  ]
+}

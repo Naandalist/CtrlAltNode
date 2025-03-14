@@ -1,0 +1,32 @@
+{
+  "istilah": "penembolokan",
+  "entri": "tembolok2 » pe.nem.bo.lok.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tembolok2 » pe.nem.bo.lok.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "metode replikasi yang mengoptimalkan akses ke data yang sering digunakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teknik penyalinan data dari suatu mesin server ke cakram atau memori lokal mesin klien, sehingga para pengguna dapat mengakses salinan lokal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggunaan penyangga di dalam memori komputer untuk menyimpan data yang baru diakses"
+        }
+      ]
+    }
+  ]
+}

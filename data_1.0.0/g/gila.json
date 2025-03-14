@@ -1,0 +1,70 @@
+{
+  "istilah": "gila",
+  "entri": "gi.la",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gila-gila",
+    "gila-gilaan",
+    "kegila-gilaan",
+    "kegilaan",
+    "menggila",
+    "menggilakan",
+    "penggila",
+    "tergila-gila"
+  ],
+  "gabunganKata": [
+    "gila alkohol",
+    "gila anjing",
+    "gila api",
+    "gila babi",
+    "gila bayang-bayang",
+    "gila belanja",
+    "gila bola",
+    "gila harta",
+    "gila hormat",
+    "gila pangkat",
+    "gila perempuan",
+    "gila renang",
+    "gila sasar",
+    "gila uang"
+  ],
+  "peribahasa": [
+    "gila di abun-abun"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "gila, sakit",
+    "kataAsal": "pāgala"
+  },
+  "data": [
+    {
+      "lema": "gi.la",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gangguan jiwa; sakit ingatan (kurang beres ingatannya); sakit jiwa (sarafnya terganggu atau pikirannya tidak normal): ia menjadi -- karena menderita tekanan batin yang sangat berat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak biasa; tidak sebagaimana mestinya; berbuat yang bukan-bukan (tidak masuk akal): benar-benar --, masakan dia dapat melompat setinggi itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "terlalu; kurang ajar (dipakai sebagai kata seru, kata afektif)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ungkapan kagum (hebat): -- benar, nilai rapornya semua di atas angka 80"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terlanda perasaan sangat suka (gemar, asyik, cinta, kasih sayang): ia -- membaca buku roman; tidak sedang -- asmara"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak masuk akal: menurut pendapat mereka, ide itu adalah ide yang --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "suluk",
+  "entri": "su.luk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersuluk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "lewat; tingkah laku; akhlak",
+    "kataAsal": "sulūk"
+  },
+  "data": [
+    {
+      "lema": "su.luk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan ke arah kesempurnaan batin; tasawuf; tarekat; mistik: ilmu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengasingan diri; khalwat"
+        }
+      ]
+    },
+    {
+      "lema": "su.luk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "nyanyian (tembang) dalang yang dilakukan ketika akan memulai suatu adegan (babak) dalam pertunjukan wayang: upacara pembukaan pekan wayang didahului dengan --"
+        }
+      ]
+    }
+  ]
+}

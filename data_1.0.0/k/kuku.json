@@ -1,0 +1,53 @@
+{
+  "istilah": "kuku",
+  "entri": "ku.ku",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkuku",
+    "sekuku"
+  ],
+  "gabunganKata": [
+    "kuku bajang",
+    "kuku belah",
+    "kuku kambing",
+    "kuku maut",
+    "kuku sambung",
+    "kuku sauh",
+    "kuku tunggal"
+  ],
+  "peribahasa": [
+    "bagai inai dengan kuku; bagai kuku dengan daging; bagai kuku dengan isi; belum punya kuku, hendak mencubit; bergantung di ujung kuku; diberi kuku, hendak mencekam; diberi kuku, hendak mencengkam; diberi kuku, hendak mencengkam; hangat-hangat (suam-suam) kuku; inai tertepung, kuku tanggal; memerah santan di kuku; meremas santan di kuku; nyawa bergantung di ujung kuku; pepat kuku seperti bulan tiga hari; seperti Belanda minta tanah, diberi kuku hendak menggarut; seperti harimau menyembunyikan kuku"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kuku",
+    "kataAsal": "kuku"
+  },
+  "data": [
+    {
+      "lema": "ku.ku",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat tanduk tipis yang tumbuh melekat pada ujung jari tangan atau kaki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian ujung tangan (kaki), panjang-panjang dan tajam (terbentuk dari zat tanduk), pada ayam, kucing, harimau, dan sebagainya; cakar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian ujung kaki kuda, kerbau, dan sebagainya yang besar dan keras (terbentuk dari zat tanduk)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat atau bagian perkakas yang bentuknya seperti cakar untuk mencakar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kekuasaan: Belanda tidak pernah berhasil menanamkan --nya di daerah ini"
+        }
+      ]
+    }
+  ]
+}

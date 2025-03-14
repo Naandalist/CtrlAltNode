@@ -1,0 +1,42 @@
+{
+  "istilah": "lang",
+  "entri": "lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "selang"
+        }
+      ]
+    },
+    {
+      "lema": "lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "meja bertingkat tempat (meletakkan) barang dagangan, biasa digunakan oleh pedagang keliling"
+        }
+      ]
+    },
+    {
+      "lema": "lang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ elang"
+        }
+      ]
+    }
+  ]
+}

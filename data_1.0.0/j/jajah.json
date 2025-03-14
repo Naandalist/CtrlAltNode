@@ -1,0 +1,41 @@
+{
+  "istilah": "jajah",
+  "entri": "ja.jah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jajahan",
+    "jelajah",
+    "jelajahan",
+    "menjajah",
+    "menjajahi",
+    "menjelajah",
+    "menjelajahi",
+    "penjajah",
+    "penjajahan",
+    "penjelajah",
+    "penjelajahan",
+    "terjajah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jajah, jelajah",
+    "kataAsal": "jajah"
+  },
+  "data": [
+    {
+      "lema": "ja.jah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pergi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kuasai daerah"
+        }
+      ]
+    }
+  ]
+}

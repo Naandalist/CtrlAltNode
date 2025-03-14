@@ -1,0 +1,42 @@
+{
+  "istilah": "klaim",
+  "entri": "klaim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengeklaim",
+    "mengeklaim",
+    "pengeklaim",
+    "pengeklaiman"
+  ],
+  "gabunganKata": [
+    "klaim akhir kontrak",
+    "klaim awal",
+    "klaim belum dibayar",
+    "klaim gizi",
+    "klaim kematian",
+    "klaim palsu",
+    "klaim reasuransi",
+    "klaim tertunda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "klaim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tuntutan pengakuan atas suatu fakta bahwa seseorang berhak (memiliki atau mempunyai) atas sesuatu: pemerintah Indonesia akan mengajukan -- ganti rugi kepada pemilik kapal asing itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan tentang suatu fakta atau kebenaran sesuatu: ia mengajukan -- bahwa barang-barang elektronik itu miliknya"
+        }
+      ]
+    }
+  ]
+}

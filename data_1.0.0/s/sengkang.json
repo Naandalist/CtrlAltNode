@@ -1,0 +1,67 @@
+{
+  "istilah": "sengkang",
+  "entri": "seng.kang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyengkang",
+    "tersengkang",
+    "menyengkang",
+    "penyengkang",
+    "tersengkang"
+  ],
+  "gabunganKata": [
+    "sengkang merah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "seng.kang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyengkang"
+        }
+      ]
+    },
+    {
+      "lema": "seng.kang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "gelatik yang sudah dewasa sehingga bulunya yang semula kecokelatan sempurna berubah menjadi biru keunguan dan paruhnya merah"
+        }
+      ]
+    },
+    {
+      "lema": "Seng.kang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu kota Kabupaten Wajo, Provinsi Sulawesi Selatan"
+        }
+      ]
+    },
+    {
+      "lema": "seng.kang /sêngkang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "palang dari kayu dan sebagainya (pada pintu, kaki meja, antara dua tiang, mulut ember, jari-jari roda, kayu yang dipasang pada kaki binatang supaya tidak bisa lari, kayu bersilang seperti salib dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis tengah pada bulatan (lingkaran)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis pendek melintang untuk pemisah suku kata dan sebagainya; tanda sengkang; tanda hubung"
+        }
+      ]
+    }
+  ]
+}

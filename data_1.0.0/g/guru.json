@@ -1,0 +1,48 @@
+{
+  "istilah": "guru",
+  "entri": "gu.ru",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berguru",
+    "keguruan",
+    "menggurui",
+    "perguruan"
+  ],
+  "gabunganKata": [
+    "guru agama",
+    "guru baku",
+    "guru bantu",
+    "guru besar",
+    "guru honorer",
+    "guru kelas",
+    "guru kepala",
+    "guru kula",
+    "guru lagu",
+    "guru mata pelajaran",
+    "guru mengaji",
+    "guru penolong",
+    "guru sekolah",
+    "guru suara",
+    "guru tetap",
+    "guru wilangan"
+  ],
+  "peribahasa": [
+    "guru kencing berdiri, murid kencing berlari; kalau guru makan berdiri, maka murid makan berlari"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.ru",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang pekerjaannya (mata pencahariannya, profesinya) mengajar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "kebab",
+  "entri": "ke.bab /kêbab/bentuk tidak baku: kabab",
+  "bentukTidakBaku": "kabab",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "daging panggang",
+    "kataAsal": "kabāb"
+  },
+  "data": [
+    {
+      "lema": "ke.bab /kêbab/bentuk tidak baku: kabab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daging cincang panggang yang diberi sayuran (dipanggang seperti satai)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan cepat saji terdiri atas daging sapi yang dipanggang kemudian diiris-iris ditambah dengan sayuran segar dan mayones, lalu dibalut dengan kulit tortila"
+        }
+      ]
+    }
+  ]
+}

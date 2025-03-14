@@ -1,0 +1,37 @@
+{
+  "istilah": "menguap",
+  "entri": "kuap » me.ngu.ap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kuap » me.ngu.ap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengangakan mulut dengan mengeluarkan napas karena mengantuk: mulut sebaiknya ditutup ketika ~"
+        }
+      ]
+    },
+    {
+      "lema": "uap1 » meng.u.ap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi uap; mengeluarkan uap: spiritus itu benda cair yang mudah ~; air laut ~, menjadi awan, mendung, kemudian jatuh menjadi hujan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "hilang; lenyap: jika tidak engkau kunci, sepedamu mungkin akan ~"
+        }
+      ]
+    }
+  ]
+}

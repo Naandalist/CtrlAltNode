@@ -1,0 +1,51 @@
+{
+  "istilah": "kebat",
+  "entri": "ke.bat1 /kêbat/bentuk tidak baku: kerbat1",
+  "bentukTidakBaku": "kerbat1kebit",
+  "kataTurunan": [
+    "mengebat",
+    "mengebatkan",
+    "pengebat",
+    "sekebat",
+    "terkebat",
+    "kebat-kebit"
+  ],
+  "gabunganKata": [
+    "kebat pinggang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.bat1 /kêbat/bentuk tidak baku: kerbat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikat; balut"
+        }
+      ]
+    },
+    {
+      "lema": "ke.bat2 /kêbat/bentuk tidak baku: kebit",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kebat-kebit"
+        }
+      ]
+    },
+    {
+      "lema": "ke.bat3 /kêbat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "kain panjang yang biasa dipakai perempuan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "teledor",
+  "entri": "te.le.dor /têledor/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keteledoran",
+    "meneledorkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.le.dor /têledor/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lalai; lengah, malas-malas; tidak memenuhi kewajiban"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang rajin (belajar dan sebagainya); agak kurang maju (pelajarannya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "agak kendur atau tidak sebagaimana mestinya dalam hal membayar utang, mengangsur, dan sebagainya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bengal (untuk memaki)"
+        }
+      ]
+    }
+  ]
+}

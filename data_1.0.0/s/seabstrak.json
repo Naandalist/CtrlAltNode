@@ -1,0 +1,33 @@
+{
+  "istilah": "seabstrak",
+  "entri": "abstrak1 » se.ab.strak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "abstrak1 » se.ab.strak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sama abstrak: hal itu ~ keimanan"
+        }
+      ]
+    },
+    {
+      "lema": "abstrak2 » se.ab.strak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satu abstrak: tulisannya dimuat ~ dengan tulisan penulis lain"
+        }
+      ]
+    }
+  ]
+}

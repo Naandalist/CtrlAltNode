@@ -1,0 +1,35 @@
+{
+  "istilah": "jamrah",
+  "entri": "jam.rah bentuk tidak baku: jumrah1, jumroh",
+  "bentukTidakBaku": "jumrah1, jumroh",
+  "kataTurunan": [
+    "berjamrah"
+  ],
+  "gabunganKata": [
+    "jamrah aqabah",
+    "jamrah sugra",
+    "jamrah ula",
+    "jamrah wusta"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kerikil",
+    "kataAsal": "jamrah"
+  },
+  "data": [
+    {
+      "lema": "jam.rah bentuk tidak baku: jumrah1, jumroh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "batu kecil; kerikil; kumpulan batu kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "tugu di Mina yang menjadi sasaran lemparan batu (dalam ibadah haji) sebagai simbol tempat melempar setan yang menggoda Nabi Ibrahim, Ismail, dan Siti Hajar ketika Ibrahim melaksanakan perintah Allah Swt. untuk menyembelih Ismail sebagai ujian ketaatan kepada-Nya"
+        }
+      ]
+    }
+  ]
+}

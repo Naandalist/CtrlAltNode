@@ -1,0 +1,37 @@
+{
+  "istilah": "mengadar",
+  "entri": "adar1 » meng.a.dar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "adar1 » meng.a.dar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bermalam di rumah orang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertandang; singgah"
+        }
+      ]
+    },
+    {
+      "lema": "kadar3 » me.nga.dar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "tidur di luar rumah (di halaman dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

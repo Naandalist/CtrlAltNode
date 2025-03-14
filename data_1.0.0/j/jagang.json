@@ -1,0 +1,33 @@
+{
+  "istilah": "jagang",
+  "entri": "ja.gang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.gang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiang penopang"
+        }
+      ]
+    },
+    {
+      "lema": "ja.gang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "parit yang dalam (di sekeliling benteng dan sebagainya): rumah Adipati Jipang diperkuat dengan -- di sekelilingnya"
+        }
+      ]
+    }
+  ]
+}

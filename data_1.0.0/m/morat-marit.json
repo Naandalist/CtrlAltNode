@@ -1,0 +1,28 @@
+{
+  "istilah": "morat-marit",
+  "entri": "mo.rat-ma.rit bentuk tidak baku: morak-marik, murat-marit",
+  "bentukTidakBaku": "morak-marik, murat-marit",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menghamburkan, memberai-beraikan, menyebabkan kekacauan",
+    "kataAsal": "amurat-marit"
+  },
+  "data": [
+    {
+      "lema": "mo.rat-ma.rit bentuk tidak baku: morak-marik, murat-marit",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "porak-poranda; cerai-berai; berantakan; kacau balau: barang-barang yang di dalam gudang itu --, tidak teratur letaknya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak beres keadaannya; kocar-kacir: rumah tangganya --"
+        }
+      ]
+    }
+  ]
+}

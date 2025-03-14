@@ -1,0 +1,47 @@
+{
+  "istilah": "halaman",
+  "entri": "ha.la.man1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhalaman-halaman"
+  ],
+  "gabunganKata": [
+    "halaman belakang",
+    "halaman cetak",
+    "halaman depan",
+    "halaman judul",
+    "halaman kanan",
+    "halaman kiri",
+    "halaman opini",
+    "halaman prancis",
+    "halaman setengah judul"
+  ],
+  "peribahasa": [
+    "dikatakan berhuma lebar, sesapan di halaman"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.la.man1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekarangan rumah (sekolah dan sebagainya); tanah di sekitar rumah (sekolah dan sebagainya): -- rumahnya ditanami cemara"
+        }
+      ]
+    },
+    {
+      "lema": "ha.la.man2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "muka dari lembaran buku (majalah, surat kabar, dan sebagainya); pagina: lihat gambar pada -- 127"
+        }
+      ]
+    }
+  ]
+}

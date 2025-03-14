@@ -1,0 +1,33 @@
+{
+  "istilah": "sarik",
+  "entri": "sa.rik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pencuri",
+    "kataAsal": "sāriq"
+  },
+  "data": [
+    {
+      "lema": "sa.rik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buluh yang berbatang halus"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pencuri"
+        }
+      ]
+    }
+  ]
+}

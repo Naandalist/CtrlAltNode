@@ -1,0 +1,47 @@
+{
+  "istilah": "buntang",
+  "entri": "bun.tang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbuntang",
+    "membuntang",
+    "membuntangkan",
+    "terbuntang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bun.tang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terbuka lebar tidak berkedip (tentang mata); melotot; terbeliak"
+        }
+      ]
+    },
+    {
+      "lema": "bun.tang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "bangkai"
+        }
+      ]
+    },
+    {
+      "lema": "bun.tang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian alat tenun"
+        }
+      ]
+    }
+  ]
+}

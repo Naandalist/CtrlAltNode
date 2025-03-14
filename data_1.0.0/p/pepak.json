@@ -1,0 +1,37 @@
+{
+  "istilah": "pepak",
+  "entri": "pe.pak1 /pêpak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sepepak",
+    "terpepak",
+    "memepak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.pak1 /pêpak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "lengkap (dari bermacam jenis); sangat lengkap: sesajian itu -- sekali; hidangan itu -- dengan lauk pauk"
+        }
+      ]
+    },
+    {
+      "lema": "pe.pak2 /pêpak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memepak"
+        }
+      ]
+    }
+  ]
+}

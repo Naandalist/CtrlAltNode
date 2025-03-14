@@ -1,0 +1,108 @@
+{
+  "istilah": "kunci",
+  "entri": "kun.ci bentuk tidak baku: konci",
+  "bentukTidakBaku": "konci",
+  "kataTurunan": [
+    "berkunci",
+    "mengunci",
+    "menguncikan",
+    "pengunci",
+    "penguncian",
+    "terkunci"
+  ],
+  "gabunganKata": [
+    "kunci botanik",
+    "kunci eksklusif",
+    "kunci elektronik",
+    "kunci enkripsi",
+    "kunci gantung",
+    "kunci inggris",
+    "kunci kait",
+    "kunci kontak",
+    "kunci kroma",
+    "kunci kura-kura",
+    "kunci leter T",
+    "kunci lisensi",
+    "kunci lunak",
+    "kunci lutut",
+    "kunci maling",
+    "kunci master",
+    "kunci mati",
+    "kunci mur terbuka",
+    "kunci nada",
+    "kunci paha",
+    "kunci panas",
+    "kunci pas",
+    "kunci pintasan",
+    "kunci pipa",
+    "kunci ring",
+    "kunci sakelar",
+    "kunci sentral",
+    "kunci sok",
+    "kunci tab",
+    "kunci tolak",
+    "kunci utama",
+    "kunci wasiat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kun.ci bentuk tidak baku: konci",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengancing pintu, peti, dan sebagainya, terdiri atas anak kunci dan induk kunci"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang dibuat dari logam untuk membuka atau mengancing pintu dengan cara memasukkannya ke dalam lubang yang ada pada induk kunci; anak kunci"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengancing pintu, peti, dan sebagainya yang terpasang pada pintu, peti, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang digunakan untuk membuka dan memasang sekrup dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menghidupkan atau menjalankan mesin (mobil dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sendi (pertemuan) tulang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "jawaban yang disediakan atas pertanyaan ujian dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kedudukan (tempat) yang sangat penting untuk menguasai sesuatu atau untuk mengenakan pengaruh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -] ki[kiasan]",
+          "deskripsi": "runtunan nada yang berhubungan satu sama lain, berdasarkan pada suatu nada utama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -] ki[kiasan]",
+          "deskripsi": "lambang yang digunakan untuk menunjukkan letak not tertentu pada balok not, seperti kunci G menunjukkan letak not g pada garis kedua balok not"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "alat untuk mencapai suatu maksud (seperti membongkar rahasia, memecahkan masalah, menentukan kalah menang, atau berhasil tidaknya sesuatu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "pengidentifikasi catatan atau kelompok catatan di berkas data"
+        }
+      ]
+    }
+  ]
+}

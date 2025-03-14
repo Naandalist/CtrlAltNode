@@ -1,0 +1,32 @@
+{
+  "istilah": "kelambatan",
+  "entri": "lambat » ke.lam.bat.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lambat » ke.lam.bat.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal lambat; keadaan yang lambat: ~ kedatangannya lebih dari seperempat jam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "interval waktu antara dua peristiwa, misalnya antara aksi dan reaksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "jeda waktu ketika komputer tidak segera merespons masukan atau perintah"
+        }
+      ]
+    }
+  ]
+}

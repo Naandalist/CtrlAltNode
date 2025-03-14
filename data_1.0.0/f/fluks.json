@@ -1,0 +1,36 @@
+{
+  "istilah": "fluks",
+  "entri": "fluks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "fluks olak",
+    "fluks radiasi",
+    "fluks terang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fluks",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cucuran cairan dari tubuh (diare)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan bersinambung atau gerakan terus-menerus (misalnya arus)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "jumlah besaran (misalnya massa, bahang) yang mengalir melalui luasan tertentu yang tegak lurus terhadap aliran itu per satuan waktu"
+        }
+      ]
+    }
+  ]
+}

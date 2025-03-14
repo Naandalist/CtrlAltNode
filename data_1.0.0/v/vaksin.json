@@ -1,0 +1,31 @@
+{
+  "istilah": "vaksin",
+  "entri": "vak.sin bentuk tidak baku: faksin",
+  "bentukTidakBaku": "faksin",
+  "kataTurunan": [
+    "memvaksin",
+    "pemvaksin",
+    "pemvaksinan",
+    "tervaksin"
+  ],
+  "gabunganKata": [
+    "vaksin penguat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vak.sin bentuk tidak baku: faksin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "bibit penyakit (misalnya cacar) yang sudah dilemahkan, digunakan untuk vaksinasi"
+        }
+      ]
+    }
+  ]
+}

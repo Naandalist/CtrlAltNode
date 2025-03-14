@@ -1,0 +1,24 @@
+{
+  "istilah": "pemrosesan terdistribusi",
+  "entri": "proses » pemrosesan » pemrosesan terdistribusi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "proses » pemrosesan » pemrosesan terdistribusi",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "teknik yang memungkinkan prosesor atau komputer untuk berbagi tugas secara efektif, yang setiap prosesornya menyelesaikan subtugas yang dialokasikan secara independen dan hasilnya kemudian digabungkan"
+        }
+      ]
+    }
+  ]
+}

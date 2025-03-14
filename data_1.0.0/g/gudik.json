@@ -1,0 +1,35 @@
+{
+  "istilah": "gudik",
+  "entri": "gu.dik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tergudik-gudik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "guḍig"
+  },
+  "data": [
+    {
+      "lema": "gu.dik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kurap; kudis"
+        }
+      ]
+    },
+    {
+      "lema": "gu.dik2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "tergudik-gudik"
+        }
+      ]
+    }
+  ]
+}

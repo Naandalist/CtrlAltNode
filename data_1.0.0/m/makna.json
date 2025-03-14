@@ -1,0 +1,60 @@
+{
+  "istilah": "makna",
+  "entri": "mak.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermakna",
+    "kebermaknaan",
+    "memaknai",
+    "memaknakan",
+    "membermaknakan",
+    "pemaknaan"
+  ],
+  "gabunganKata": [
+    "makna afektif",
+    "makna denotasi",
+    "makna denotatif",
+    "makna ekstensi",
+    "makna emotif",
+    "makna gramatikal",
+    "makna intensi",
+    "makna khusus",
+    "makna kiasan",
+    "makna kognitif",
+    "makna konotasi",
+    "makna konotatif",
+    "makna kontekstual",
+    "makna leksikal",
+    "makna lokusi",
+    "makna luas",
+    "makna pusat",
+    "makna referensial",
+    "makna sempit",
+    "makna suratan",
+    "makna takberciri",
+    "makna tautan",
+    "makna umum",
+    "medan makna"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "maksud",
+    "kataAsal": "ma‘nā"
+  },
+  "data": [
+    {
+      "lema": "mak.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arti: ia memperhatikan -- setiap kata yang terdapat dalam tulisan kuno itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maksud pembicara atau penulis; pengertian yang diberikan kepada suatu bentuk kebahasaan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "dispensasi",
+  "entri": "dis.pen.sa.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "dispensasi perkawinan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dis.pen.sa.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengecualian dari aturan karena adanya pertimbangan yang khusus; pembebasan dari suatu kewajiban atau larangan: ia mendapat -- bebas membayar uang kuliah karena orang tuanya tidak mampu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "pengecualian tindakan berdasarkan hukum yang menyatakan bahwa suatu peraturan perundang-undangan tidak berlaku untuk suatu hal yang khusus (dalam hukum administrasi negara)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "kerbat",
+  "entri": "ker.bat1 /kêrbat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pundi-pundi kulit (tempat air dan susu)",
+    "kataAsal": "qirbah"
+  },
+  "data": [
+    {
+      "lema": "ker.bat1 /kêrbat/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kebat1"
+        }
+      ]
+    },
+    {
+      "lema": "ker.bat2 /kêrbat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kirbat"
+        }
+      ]
+    }
+  ]
+}

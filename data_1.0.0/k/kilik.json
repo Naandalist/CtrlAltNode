@@ -1,0 +1,41 @@
+{
+  "istilah": "kilik",
+  "entri": "ki.lik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kilik-kilik",
+    "kilikan",
+    "mengilik-ngilik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.lik1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kelat bahu"
+        }
+      ]
+    },
+    {
+      "lema": "ki.lik2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gelitik"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "hasut"
+        }
+      ]
+    }
+  ]
+}

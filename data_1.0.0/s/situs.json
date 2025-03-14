@@ -1,0 +1,35 @@
+{
+  "istilah": "situs",
+  "entri": "si.tus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "situs warisan dunia",
+    "situs web"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.tus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah temuan benda-benda purbakala: -- fosil binatang purba di daerah itu diusulkan untuk diteliti"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tempat yang tersedia untuk lambang suatu inskripsi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tempat pada suatu papan yang dapat atau tidak dapat dilubangi"
+        }
+      ]
+    }
+  ]
+}

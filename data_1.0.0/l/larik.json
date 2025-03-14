@@ -1,0 +1,69 @@
+{
+  "istilah": "larik",
+  "entri": "la.rik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melarik",
+    "melarikkan",
+    "pelarik",
+    "pelarikan",
+    "berlarik",
+    "berlarik-larik",
+    "larikan",
+    "melarik",
+    "melarikkan",
+    "pelarikan",
+    "selarik"
+  ],
+  "gabunganKata": [
+    "larik gerbang",
+    "larik jarang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "baris, deret, garis, jalur",
+    "kataAsal": "larik"
+  },
+  "data": [
+    {
+      "lema": "la.rik1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melarik; melarikkan; pelarik; pelarikan"
+        }
+      ]
+    },
+    {
+      "lema": "la.rik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baris; leret; deret"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bait; baris (dalam sajak): dengan teliti dia membaca -- demi -- sajak itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "variasi motif batik yang berupa titik-titik yang berderet: -- batik ini terdiri atas tujuh titik yang berderet"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "struktur berurut yang berisi elemen individu yang dapat diakses melalui rujukan bilangan dan digunakan untuk menyimpan tabel dan himpunan data yang berkaitan"
+        }
+      ]
+    },
+    {
+      "lema": "la.rik3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "rumah adat Kerinci berbentuk panggung dan berpetak-petak, yang memiliki dua ruangan (ruangan dalam dan ruangan luar)"
+        }
+      ]
+    }
+  ]
+}

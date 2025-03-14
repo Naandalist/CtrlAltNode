@@ -1,0 +1,30 @@
+{
+  "istilah": "delapan",
+  "entri": "de.la.pan /dêlapan/bentuk tidak baku: lapan2",
+  "bentukTidakBaku": "lapan2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "delapan tapak bayang-bayang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.la.pan /dêlapan/bentuk tidak baku: lapan2",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "bilangan yang dilambangkan dengan angka 8 (Arab) atau VIII (Romawi)"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "urutan ke-8 sesudah ke-7 atau sebelum ke-9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "kandul",
+  "entri": "kan.dul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkandul",
+    "mengandul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kan.dul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "lipatan pada ujung jaring menyerupai kantong pada bagian bawah jerat ayam-ayam: burung akan jatuh lalu masuk ke dalam --"
+        }
+      ]
+    },
+    {
+      "lema": "kan.dul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bakul (keranjang) yang biasa digunakan ketika membuat gambir"
+        }
+      ]
+    },
+    {
+      "lema": "kan.dul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lipatan pada ujung jala yang membentuk kantong"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "gendang",
+  "entri": "gen.dang1 /gêndang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergendang",
+    "gendang-gendang",
+    "gendangan",
+    "segendang"
+  ],
+  "gabunganKata": [
+    "gendang belek",
+    "gendang hati",
+    "gendang induk",
+    "gendang panjang",
+    "gendang pendengar",
+    "gendang rampak",
+    "gendang raya",
+    "gendang serana"
+  ],
+  "peribahasa": [
+    "bagaimana bunyi gendang, begitulah tarinya; satu juga gendang berbunyi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gen.dang1 /gêndang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat bunyi-bunyian berupa kayu bulat panjang, di dalamnya ada rongga dan salah satu lubangnya atau kedua-duanya diberi kulit (untuk dipukul)"
+        }
+      ]
+    },
+    {
+      "lema": "gen.dang2 /gêndang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gulung (untuk kertas)"
+        }
+      ]
+    }
+  ]
+}

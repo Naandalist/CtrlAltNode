@@ -1,0 +1,28 @@
+{
+  "istilah": "gamelan",
+  "entri": "ga.me.lan /gamêlan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gamelan bumbung",
+    "gamelan sekaten",
+    "gamelan tanjidor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gamelan, seperangkat gamelan",
+    "kataAsal": "gamělan"
+  },
+  "data": [
+    {
+      "lema": "ga.me.lan /gamêlan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangkat alat musik Jawa (Sunda, Bali, dan sebagainya) yang terdiri atas saron, bonang, rebab, gendang, gong, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

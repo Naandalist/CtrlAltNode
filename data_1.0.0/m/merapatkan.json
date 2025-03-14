@@ -1,0 +1,41 @@
+{
+  "istilah": "merapatkan",
+  "entri": "rapat1 » me.ra.pat.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rapat1 » me.ra.pat.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadikan rapat; mengerapkan: ~ anyaman tikar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendekatkan kepada: ~ duduknya kepada adiknya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempererat: ~ persahabatannya"
+        }
+      ]
+    },
+    {
+      "lema": "rapat2 » me.ra.pat.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membahas sesuatu dalam rapat; memasukkan sebagai acara rapat; mengajak berapat untuk membicarakan sesuatu: mereka sedang ~ suatu masalah"
+        }
+      ]
+    }
+  ]
+}

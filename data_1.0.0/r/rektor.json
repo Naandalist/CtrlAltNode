@@ -1,0 +1,28 @@
+{
+  "istilah": "rektor",
+  "entri": "rek.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rek.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketua perguruan tinggi (universitas, institut)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "pemimpin atau kepala di biara"
+        }
+      ]
+    }
+  ]
+}

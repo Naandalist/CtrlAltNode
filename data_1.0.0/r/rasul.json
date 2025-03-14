@@ -1,0 +1,32 @@
+{
+  "istilah": "rasul",
+  "entri": "ra.sul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerasulan"
+  ],
+  "gabunganKata": [
+    "rasul ilahi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "utusan",
+    "kataAsal": "rasūl"
+  },
+  "data": [
+    {
+      "lema": "ra.sul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "orang yang menerima wahyu Allah Swt. untuk disampaikan kepada manusia: Muhammad adalah -- terakhir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "orang yang diutus oleh Tuhan Yesus untuk mengabarkan injil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "tajali",
+  "entri": "ta.ja.li bentuk tidak baku: terjali",
+  "bentukTidakBaku": "terjali",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kebenaran yang diperlihatkan Allah",
+    "kataAsal": "tajallī"
+  },
+  "data": [
+    {
+      "lema": "ta.ja.li bentuk tidak baku: terjali",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "tersingkap atau terbuka (selubung, tudungnya); nyata dan terang (tentang sesuatu yang gaib)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "wahyu (kebenaran yang diperlihatkan Allah)"
+        }
+      ]
+    }
+  ]
+}

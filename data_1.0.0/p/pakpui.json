@@ -1,0 +1,28 @@
+{
+  "istilah": "pakpui",
+  "entri": "pak.pui",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "ramalan tentang nasib yang menggunakan kayu atau bambu berpasangan berbentuk bulan sabit",
+    "kataAsal": "poa̍h poe"
+  },
+  "data": [
+    {
+      "lema": "pak.pui",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "ramalan tentang nasib (peruntungan), terdapat dalam kelenteng"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "tukang ramal Cina"
+        }
+      ]
+    }
+  ]
+}

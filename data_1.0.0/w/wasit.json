@@ -1,0 +1,39 @@
+{
+  "istilah": "wasit",
+  "entri": "wa.sit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mewasiti",
+    "perwasitan"
+  ],
+  "gabunganKata": [
+    "wasit honorer",
+    "wasit pemandu",
+    "wasit penyerta"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penengah; perantara",
+    "kataAsal": "wāsiṭ"
+  },
+  "data": [
+    {
+      "lema": "wa.sit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penengah; perantara (dagang dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penentu; pemimpin (dalam pertandingan sepak bola, bola voli, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemisah, pelerai, pendamai (antara yang berselisih dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

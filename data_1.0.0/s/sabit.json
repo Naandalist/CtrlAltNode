@@ -1,0 +1,47 @@
+{
+  "istilah": "sabit",
+  "entri": "sa.bit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyabit",
+    "penyabit",
+    "penyabitan",
+    "sabitan",
+    "menyabitkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tetap; pasti; tentu",
+    "kataAsal": "ṡābit"
+  },
+  "data": [
+    {
+      "lema": "sa.bit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk memotong rumput, padi, dan sebagainya, berupa pisau bergagang, bentuknya melengkung; arit: dengan -- di pinggang petani itu pergi ke kebunnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk lengkung menyerupai sabit: bulan --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyabit"
+        }
+      ]
+    },
+    {
+      "lema": "sa.bit2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "terang (tentang perbuatan dan sebagainya); tetap; pasti; tentu: nyata kesalahannya dan -- perbuatannya"
+        }
+      ]
+    }
+  ]
+}

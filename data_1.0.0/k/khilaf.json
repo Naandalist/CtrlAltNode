@@ -1,0 +1,26 @@
+{
+  "istilah": "khilaf",
+  "entri": "khi.laf bentuk tidak baku: hilap, silaf, silap2",
+  "bentukTidakBaku": "hilap, silaf, silap2",
+  "kataTurunan": [
+    "kekhilafan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perbedaan pendapat",
+    "kataAsal": "khilāf"
+  },
+  "data": [
+    {
+      "lema": "khi.laf bentuk tidak baku: hilap, silaf, silap2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keliru; salah (yang tidak disengaja)"
+        }
+      ]
+    }
+  ]
+}

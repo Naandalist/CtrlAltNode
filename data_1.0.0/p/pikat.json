@@ -1,0 +1,41 @@
+{
+  "istilah": "pikat",
+  "entri": "pi.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keterpikatan",
+    "memikat",
+    "pemikat",
+    "pikatan",
+    "terpikat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "seperti pikat kehilangan mata"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menangkap burung menggunakan pemikat",
+    "kataAsal": "pikat"
+  },
+  "data": [
+    {
+      "lema": "pi.kat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lalat berukuran besar yang bermata majemuk menonjol, berantena pendek yang terdiri atas tiga segmen, betinanya mengisap darah hewan atau manusia, lebih suka terbang di bawah sinar matahari, dan tidak aktif di malam hari〔Tabanidae〕"
+        }
+      ]
+    },
+    {
+      "lema": "pi.kat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memikat"
+        }
+      ]
+    }
+  ]
+}

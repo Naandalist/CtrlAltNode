@@ -1,0 +1,64 @@
+{
+  "istilah": "mutu",
+  "entri": "mu.tu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermutu",
+    "semutu"
+  ],
+  "gabunganKata": [
+    "mutu relatif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mu.tu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ukuran) baik buruk suatu benda; kadar; taraf atau derajat (kepandaian, kecerdasan, dan sebagainya); kualitas: kain yang --nya rendah; meningkatkan -- pendidikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran ketulenan emas 24 karat: emas sepuluh -- emas tulen (24 karat)"
+        }
+      ]
+    },
+    {
+      "lema": "mu.tu2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terdiam karena sedih (sangat menyesal dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sedih (tentang suasana hati): berhati --"
+        }
+      ]
+    },
+    {
+      "lema": "mu.tu3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terjepit, dalam keadaan sulit (tentang posisi raja dalam permainan catur)"
+        }
+      ]
+    },
+    {
+      "lema": "mu.tu4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mutiara: ratna -- manikam"
+        }
+      ]
+    }
+  ]
+}

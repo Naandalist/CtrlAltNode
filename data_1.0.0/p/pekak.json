@@ -1,0 +1,47 @@
+{
+  "istilah": "pekak",
+  "entri": "pe.kak1 /pêkak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memekakkan",
+    "pekak-pekak",
+    "terpekak"
+  ],
+  "gabunganKata": [
+    "pekak badak",
+    "pekak batu",
+    "pekak labang"
+  ],
+  "peribahasa": [
+    "pekak pembakar meriam; pipit pekak, makan berhujan; tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Zhangzhou",
+    "arti": "bunga lawang",
+    "kataAsal": "peh kak"
+  },
+  "data": [
+    {
+      "lema": "pe.kak1 /pêkak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang baik pendengaran (karena kerap kali mendengar suara keras dan sebagainya); agak tuli"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat berbunyi mendencing atau nyaring (tentang uang perak, gamelan, dan sebagainya); bengap"
+        }
+      ]
+    },
+    {
+      "lema": "pe.kak2 /pêkak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunga lawang"
+        }
+      ]
+    }
+  ]
+}

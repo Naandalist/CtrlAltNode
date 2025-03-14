@@ -1,0 +1,24 @@
+{
+  "istilah": "dapodik",
+  "entri": "da.po.dik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.po.dik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "data pokok pendidikan"
+        }
+      ]
+    }
+  ]
+}

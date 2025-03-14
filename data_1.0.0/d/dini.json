@@ -1,0 +1,41 @@
+{
+  "istilah": "dini",
+  "entri": "di.ni1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sedini-dininya"
+  ],
+  "gabunganKata": [
+    "dini hari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang berkaitan dengan ketaatan, agama",
+    "kataAsal": "dīnī"
+  },
+  "data": [
+    {
+      "lema": "di.ni1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pagi sekali"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sebelum waktunya: lahir --"
+        }
+      ]
+    },
+    {
+      "lema": "di.ni2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat agama; religius: sebagai makhluk -- kita harus mempunyai perasaan malu"
+        }
+      ]
+    }
+  ]
+}

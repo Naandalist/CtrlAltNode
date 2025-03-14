@@ -1,0 +1,43 @@
+{
+  "istilah": "junjung",
+  "entri": "jun.jung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjunjungan",
+    "junjungan",
+    "menjunjung",
+    "menjunjungkan",
+    "penjunjung",
+    "berjunjung",
+    "junjungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kadok naik junjung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jun.jung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bawa di atas kepala"
+        }
+      ]
+    },
+    {
+      "lema": "jun.jung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "junjungan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "metrum",
+  "entri": "met.rum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "met.rum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "ukuran irama yang ditentukan oleh jumlah dan panjang tekanan suku kata dalam setiap baris"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "pergantian naik turun suara secara teratur dengan pembagian suku kata yang ditentukan oleh golongan sintaksis"
+        }
+      ]
+    }
+  ]
+}

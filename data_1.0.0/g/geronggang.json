@@ -1,0 +1,40 @@
+{
+  "istilah": "geronggang",
+  "entri": "ge.rong.gang1 /gêronggang/bentuk tidak baku: geronggong",
+  "bentukTidakBaku": "geronggong",
+  "kataTurunan": [
+    "bergeronggang",
+    "menggeronggang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.rong.gang1 /gêronggang/bentuk tidak baku: geronggong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlubang (di dalam)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rongga (di dalam kayu, batu, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ge.rong.gang2 /gêronggang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, tinggi hingga 30 m, berbatang lurus, kayunya baik untuk dibuat papan, kasau, pintu, dan sebagainya; gonggang〔Cratoxylon cuneatum〕"
+        }
+      ]
+    }
+  ]
+}

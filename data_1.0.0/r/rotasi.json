@@ -1,0 +1,39 @@
+{
+  "istilah": "rotasi",
+  "entri": "ro.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berotasi",
+    "merotasi",
+    "perotasian"
+  ],
+  "gabunganKata": [
+    "rotasi aksial",
+    "rotasi antisiklonik",
+    "rotasi bumi",
+    "rotasi kerja",
+    "rotasi optis",
+    "rotasi umur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perputaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "cara menanam berbagai jenis tanaman pada bidang tanah yang sama secara bergilir dalam jangka waktu satu tahun atau lebih"
+        }
+      ]
+    }
+  ]
+}

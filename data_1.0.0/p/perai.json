@@ -1,0 +1,50 @@
+{
+  "istilah": "perai",
+  "entri": "pe.rai1 /pêrai/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berperai-perai",
+    "memerai",
+    "berperai-perai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.rai1 /pêrai/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memerai"
+        }
+      ]
+    },
+    {
+      "lema": "pe.rai2 /pêrai/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidak masuk bekerja, sekolah, dan sebagainya; libur: pada hari besar nasional karyawan --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidak usah membayar; gratis: makan dan tempat tinggal --"
+        }
+      ]
+    },
+    {
+      "lema": "pe.rai3 /pêrai/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berperai-perai"
+        }
+      ]
+    }
+  ]
+}

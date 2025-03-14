@@ -1,0 +1,49 @@
+{
+  "istilah": "perwira",
+  "entri": "per.wi.ra /pêrwira/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keperwiraan"
+  ],
+  "gabunganKata": [
+    "perwira geladak",
+    "perwira laut",
+    "perwira menengah",
+    "perwira penerangan",
+    "perwira pengawas keamanan",
+    "perwira penghubung",
+    "perwira penghubung pasukan lintas udara",
+    "perwira pers",
+    "perwira pertama",
+    "perwira piket",
+    "perwira protokol",
+    "perwira radio",
+    "perwira tinggi",
+    "perwira upacara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pangeran, pahlawan, kepala, orang yang unggul",
+    "kataAsal": "pravīra"
+  },
+  "data": [
+    {
+      "lema": "per.wi.ra /pêrwira/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anggota tentara yang berpangkat di atas bintara (yaitu dari letnan ke atas); opsir (dalam ketentaraan): setahun yang lalu dia masih sersan mayor, sekarang sudah menjadi -- karena pangkatnya naik menjadi letnan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "gagah; berani: orang yang --; -- perkasa; gagah --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pahlawan: -- muda yang gugur di medan perang"
+        }
+      ]
+    }
+  ]
+}

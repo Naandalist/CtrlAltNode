@@ -1,0 +1,28 @@
+{
+  "istilah": "syahid",
+  "entri": "sya.hid bentuk tidak baku: sahid",
+  "bentukTidakBaku": "sahid",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "saksi; orang yang meninggal dalam memperjuangkan agama Allah",
+    "kataAsal": "syahīd"
+  },
+  "data": [
+    {
+      "lema": "sya.hid bentuk tidak baku: sahid",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "saksi (dalam usaha menegakkan atau mempertahankan kebenaran agama)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "orang yang mati karena membela agama: mati --"
+        }
+      ]
+    }
+  ]
+}

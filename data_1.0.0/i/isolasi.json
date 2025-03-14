@@ -1,0 +1,48 @@
+{
+  "istilah": "isolasi",
+  "entri": "i.so.la.si bentuk tidak baku: isolir",
+  "bentukTidakBaku": "isolir",
+  "kataTurunan": [
+    "mengisolasi",
+    "mengisolasikan",
+    "pengisolasi",
+    "pengisolasian",
+    "terisolasi"
+  ],
+  "gabunganKata": [
+    "isolasi sosial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.so.la.si bentuk tidak baku: isolir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemisahan suatu hal dari hal lain atau usaha untuk memencilkan manusia dari manusia lain; pengasingan; pemencilan; pengucilan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan terpencilnya satu wilayah karena jauh dari hubungan lalu lintas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "penyekatan (penghambatan atau penahanan) arus listrik oleh suatu bahan sehingga arus itu tidak dapat mengalir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ikn[Perikanan: -]",
+          "deskripsi": "pemisahan satu kelompok ikan dari kelompok ikan lain sehingga perkawinan antarkelompok dapat dihindari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "tindakan pemisahan pasien berpenyakit menular dari orang lainnya"
+        }
+      ]
+    }
+  ]
+}

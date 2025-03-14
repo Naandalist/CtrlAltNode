@@ -1,0 +1,28 @@
+{
+  "istilah": "spektogram",
+  "entri": "spek.to.gram",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "spek.to.gram",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar atau diagram yang dihasilkan oleh spektograf: -- yang dihasilkan ternyata berlainan dengan gambar-gambar komet sebelumnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "grafik bunyi yang memberikan informasi tentang perubahan dalam rentang waktu, frekuensi, dan intensitas gelombang bunyi menurut sumbu waktu"
+        }
+      ]
+    }
+  ]
+}

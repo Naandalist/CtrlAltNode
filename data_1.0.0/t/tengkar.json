@@ -1,0 +1,42 @@
+{
+  "istilah": "tengkar",
+  "entri": "teng.kar1 /têngkar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertengkar",
+    "bertengkaran",
+    "mempertengkarkan",
+    "menengkari",
+    "menengkarkan",
+    "pertengkaran",
+    "menengkar",
+    "penengkar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "teng.kar1 /têngkar/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bantah; sanggah"
+        }
+      ]
+    },
+    {
+      "lema": "teng.kar2 /têngkar/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menengkar"
+        }
+      ]
+    }
+  ]
+}

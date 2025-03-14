@@ -1,0 +1,39 @@
+{
+  "istilah": "dar",
+  "entri": "dar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "dar dor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "rumah",
+    "kataAsal": "dār"
+  },
+  "data": [
+    {
+      "lema": "dar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "tempat: darusalam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "daerah"
+        }
+      ]
+    },
+    {
+      "lema": "dar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi ledakan"
+        }
+      ]
+    }
+  ]
+}

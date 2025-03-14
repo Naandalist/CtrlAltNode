@@ -1,0 +1,32 @@
+{
+  "istilah": "patron",
+  "entri": "pat.ron",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpatron"
+  ],
+  "gabunganKata": [
+    "patron normatif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pat.ron",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pola (pakaian, batik, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suri (teladan): dasar konsep tradisional dapat menjadi -- dan skala kebenaran setiap bentuk karya seni"
+        }
+      ]
+    }
+  ]
+}

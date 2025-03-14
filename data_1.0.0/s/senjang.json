@@ -1,0 +1,37 @@
+{
+  "istilah": "senjang",
+  "entri": "sen.jang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesenjangan",
+    "persenjangan"
+  ],
+  "gabunganKata": [
+    "senjang terbang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.jang",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak simetris atau tidak sama bagian yang di kiri dan yang di kanan (tentang ukiran dan sebagainya); genjang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berlainan sekali; berbeda"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ada (terdapat) jurang pemisah"
+        }
+      ]
+    }
+  ]
+}

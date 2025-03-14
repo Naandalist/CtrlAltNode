@@ -1,0 +1,37 @@
+{
+  "istilah": "pemadatan",
+  "entri": "madat1 » pe.ma.dat.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "madat1 » pe.ma.dat.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, perbuatan memakai madat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "perihal melakukan atau berbuat sesuatu yang kurang baik"
+        }
+      ]
+    },
+    {
+      "lema": "padat » pe.ma.dat.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, cara, perbuatan memadatkan: ~ jalan dilakukan oleh Dinas Pekerjaan Umum"
+        }
+      ]
+    }
+  ]
+}

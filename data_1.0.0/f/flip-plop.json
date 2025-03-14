@@ -1,0 +1,28 @@
+{
+  "istilah": "flip-plop",
+  "entri": "flip-plop",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "flip-plop",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rangkaian multivibrator yang stabil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rangkaian elektronika yang menjadi pembentuk register dan pencacah"
+        }
+      ]
+    }
+  ]
+}

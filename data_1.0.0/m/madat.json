@@ -1,0 +1,41 @@
+{
+  "istilah": "madat",
+  "entri": "ma.dat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermadat",
+    "pemadat",
+    "pemadatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.dat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "candu (yang telah dimasak dan siap untuk diisap): mukanya pucat karena mengisap --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengisap candu: kesukaannya minum dan --"
+        }
+      ]
+    },
+    {
+      "lema": "ma.dat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "menara tempat orang berjaga (berkawal dan sebagainya); dinding atau tembok di atap atau di menara, diberi lubang-lubang untuk mengintai atau menembak"
+        }
+      ]
+    }
+  ]
+}

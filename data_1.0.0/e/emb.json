@@ -1,0 +1,33 @@
+{
+  "istilah": "emb",
+  "entri": "EMB",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "EMB",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gz[Ilmu Gizi: ] sing[singkatan]",
+          "deskripsi": "energi metabolisme basal"
+        }
+      ]
+    },
+    {
+      "lema": "Emb /êmb/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "embargo"
+        }
+      ]
+    }
+  ]
+}

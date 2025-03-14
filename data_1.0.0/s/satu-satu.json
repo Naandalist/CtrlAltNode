@@ -1,0 +1,32 @@
+{
+  "istilah": "satu-satu",
+  "entri": "satu » sa.tu-sa.tu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "satu » sa.tu-sa.tu",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "satu per satu; satu demi satu"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "masing-masing"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "tiap-tiap kali satu"
+        }
+      ]
+    }
+  ]
+}

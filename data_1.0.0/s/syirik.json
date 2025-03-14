@@ -1,0 +1,34 @@
+{
+  "istilah": "syirik",
+  "entri": "syi.rik bentuk tidak baku: sirik1",
+  "bentukTidakBaku": "sirik1",
+  "kataTurunan": [
+    "kemusyrikan",
+    "mensyirikkan"
+  ],
+  "gabunganKata": [
+    "syirik akbar",
+    "syirik asgar",
+    "syirik jali",
+    "syirik khafi",
+    "syirik nyata",
+    "syirik samar-samar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyekutuan Allah Swt. dengan yang lain",
+    "kataAsal": "syirk"
+  },
+  "data": [
+    {
+      "lema": "syi.rik bentuk tidak baku: sirik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyekutuan Allah Swt. dengan yang lain, misalnya pengakuan kemampuan ilmu daripada kemampuan dan kekuatan Allah, pengabdian selain kepada Allah Swt. dengan menyembah patung, tempat keramat, dan kuburan, dan kepercayaan terhadap keampuhan peninggalan nenek moyang yang diyakini akan menentukan dan memengaruhi jalan kehidupan"
+        }
+      ]
+    }
+  ]
+}

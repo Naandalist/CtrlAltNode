@@ -1,0 +1,31 @@
+{
+  "istilah": "sopir",
+  "entri": "so.pir bentuk tidak baku: supir",
+  "bentukTidakBaku": "supir",
+  "kataTurunan": [
+    "bersopir",
+    "menyopir",
+    "menyopiri"
+  ],
+  "gabunganKata": [
+    "sopir becak",
+    "sopir tembak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.pir bentuk tidak baku: supir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengemudi mobil (bemo dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

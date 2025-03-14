@@ -1,0 +1,41 @@
+{
+  "istilah": "folio",
+  "entri": "fo.lio1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fo.lio1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran kertas lebih kurang 21,5 x 32,5 cm"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran selembar plano berukuran baku yang dilipat satu kali, ditulis dengan tanda 2°"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran kertas A-4 menurut ukuran satuan sistem A"
+        }
+      ]
+    },
+    {
+      "lema": "fo.lio2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hot[Perhotelan: ]",
+          "deskripsi": "catatan akun tamu yang berisi tagihan selama menggunakan produk, fasilitas, dan layanan hotel"
+        }
+      ]
+    }
+  ]
+}

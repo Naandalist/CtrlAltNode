@@ -1,0 +1,42 @@
+{
+  "istilah": "langgai",
+  "entri": "lang.gai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.gai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belat penangkap ikan"
+        }
+      ]
+    },
+    {
+      "lema": "lang.gai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit buah kacang-kacangan"
+        }
+      ]
+    },
+    {
+      "lema": "lang.gai3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "layur2"
+        }
+      ]
+    }
+  ]
+}

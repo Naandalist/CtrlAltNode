@@ -1,0 +1,33 @@
+{
+  "istilah": "tuturan",
+  "entri": "tutur1 » tu.tur.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tutur1 » tu.tur.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dituturkan; ucapan; ujaran (cerita) dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "tutur2 » tu.tur.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cucuran atap"
+        }
+      ]
+    }
+  ]
+}

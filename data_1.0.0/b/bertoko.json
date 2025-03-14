@@ -1,0 +1,28 @@
+{
+  "istilah": "bertoko",
+  "entri": "toko1 » ber.to.ko",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "toko1 » ber.to.ko",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjualan barang-barang di toko (seperti berjualan kain, barang kelontong)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai toko"
+        }
+      ]
+    }
+  ]
+}

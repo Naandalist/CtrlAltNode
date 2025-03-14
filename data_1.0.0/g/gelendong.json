@@ -1,0 +1,43 @@
+{
+  "istilah": "gelendong",
+  "entri": "ge.len.dong1 /gêlendong/bentuk tidak baku: gelindung",
+  "bentukTidakBaku": "gelindung",
+  "kataTurunan": [
+    "menggelendong",
+    "menggelendong"
+  ],
+  "gabunganKata": [
+    "gelendong pembelahan",
+    "gelendong otot"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.len.dong1 /gêlendong/bentuk tidak baku: gelindung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menghubungkan benang (kawat, tali plastik, dan sebagainya) dibuat dari kayu, kaleng, atau besi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gulungan benang (kawat, tali plastik, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ge.len.dong2 /gêlendong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "otot spindel berbentuk meruncing di kedua ujungnya"
+        }
+      ]
+    }
+  ]
+}

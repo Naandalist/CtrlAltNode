@@ -1,0 +1,36 @@
+{
+  "istilah": "fakir",
+  "entri": "fa.kir bentuk tidak baku: pekir1, faqir, pakir",
+  "bentukTidakBaku": "pekir1, faqir, pakir",
+  "kataTurunan": [
+    "kefakiran"
+  ],
+  "gabunganKata": [
+    "fakir miskin"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang tak berkecukupan",
+    "kataAsal": "faqīr"
+  },
+  "data": [
+    {
+      "lema": "fa.kir bentuk tidak baku: pekir1, faqir, pakir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang sangat berkekurangan; orang yang terlalu miskin: setiap Jumat dia membagi-bagikan sedekah kepada -- dan miskin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dengan sengaja membuat dirinya menderita kekurangan untuk mencapai kesempurnaan batin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aku (bagi pengarang dalam syair dan sebagainya): -- bukan pandai mengarang, bukanlah hendak dipuji orang"
+        }
+      ]
+    }
+  ]
+}

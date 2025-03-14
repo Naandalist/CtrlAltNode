@@ -1,0 +1,28 @@
+{
+  "istilah": "nistagmus",
+  "entri": "nis.tag.mus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nis.tag.mus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "gerakan bola mata yang cepat tanpa disengaja (di luar kemampuan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "gerak taksadar ritmis bola mata, dapat bersifat horizontal, rotator, atau vertikal"
+        }
+      ]
+    }
+  ]
+}

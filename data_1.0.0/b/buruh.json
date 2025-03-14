@@ -1,0 +1,43 @@
+{
+  "istilah": "buruh",
+  "entri": "bu.ruh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "buruhan",
+    "memburuh",
+    "perburuhan"
+  ],
+  "gabunganKata": [
+    "buruh anak",
+    "buruh harian",
+    "buruh kasar",
+    "buruh lepas",
+    "buruh marginal",
+    "buruh migran",
+    "buruh musiman",
+    "buruh pabrik",
+    "buruh tambang",
+    "buruh tani",
+    "buruh terampil",
+    "buruh terlatih"
+  ],
+  "peribahasa": [
+    "tohok tunggang ke buruh (ke bawah)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "orang bayaran dalam peperangan (khususnya dalam pertunjukan peperangan)",
+    "kataAsal": "buruh"
+  },
+  "data": [
+    {
+      "lema": "bu.ruh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang bekerja untuk orang lain dengan mendapat upah; pekerja: -- pelabuhan; -- tambang"
+        }
+      ]
+    }
+  ]
+}

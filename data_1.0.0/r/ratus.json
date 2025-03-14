@@ -1,0 +1,51 @@
+{
+  "istilah": "ratus",
+  "entri": "ra.tus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beratus-ratus",
+    "menyeratus",
+    "peratus",
+    "ratusan",
+    "seperatus",
+    "seratus",
+    "meratus",
+    "meratus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.tus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan bilangan kelipatan seratus yang dilambangkan dengan dua nol (00) di belakang angka 1–9"
+        }
+      ]
+    },
+    {
+      "lema": "ra.tus2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "meratus"
+        }
+      ]
+    },
+    {
+      "lema": "ra.tus3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dupa yang berbau harum"
+        }
+      ]
+    }
+  ]
+}

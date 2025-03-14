@@ -1,0 +1,40 @@
+{
+  "istilah": "nol",
+  "entri": "nol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "nol absolut",
+    "nol fungsi",
+    "nol mutlak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nol",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "bilangan yang dilambangkan dengan 0"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "kelas persiapan sebelum memasuki tingkat pertama dalam urutan kelas"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] ki[kiasan]",
+          "deskripsi": "tidak ada kenyataan; omong kosong: semua yang dikatakannya -- belaka"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] ki[kiasan]",
+          "deskripsi": "tidak ada hasil: ia sudah berusaha, tetapi hasilnya --"
+        }
+      ]
+    }
+  ]
+}

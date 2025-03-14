@@ -1,0 +1,42 @@
+{
+  "istilah": "cerai",
+  "entri": "ce.rai /cêrai/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercerai",
+    "bercerai-cerai",
+    "berceraian",
+    "mencerai",
+    "menceraikan",
+    "penceraian",
+    "perceraian",
+    "tercerai"
+  ],
+  "gabunganKata": [
+    "cerai hidup",
+    "cerai mati",
+    "cerai susu",
+    "cerai tembilang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.rai /cêrai/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pisah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "putus hubungan sebagai suami istri; talak"
+        }
+      ]
+    }
+  ]
+}

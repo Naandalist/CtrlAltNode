@@ -1,0 +1,35 @@
+{
+  "istilah": "kerip",
+  "entri": "ke.rip1 /kêrip/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengerip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.rip1 /kêrip/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi mengerik"
+        }
+      ]
+    },
+    {
+      "lema": "ke.rip2 /kêrip/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengerip"
+        }
+      ]
+    }
+  ]
+}

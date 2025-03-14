@@ -1,0 +1,50 @@
+{
+  "istilah": "rekam",
+  "entri": "re.kam /rêkam/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merekam",
+    "merekamkan",
+    "perekam",
+    "perekaman",
+    "rekaman",
+    "terekam"
+  ],
+  "gabunganKata": [
+    "rekam cadang",
+    "rekam cetak",
+    "rekam jejak",
+    "rekam kesehatan",
+    "rekam medis",
+    "rekam tayang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tulisan; cap",
+    "kataAsal": "raqm"
+  },
+  "data": [
+    {
+      "lema": "re.kam /rêkam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekas atau kesan dari sesuatu yang diucapkan; bekas yang dituliskan (seperti garis-garis atau gambar berwarna pada kain, garis-garis berwarna pada kain tenun, huruf, tanda, yang diterakan pada kopor, cetakan stensil)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sulam (suji) dengan warna yang lain (dengan benang emas)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alur-alur bunyi (suara) pada piringan hitam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alur-alur (magnetik) pada piringan (atau pita kaset) yang dapat menghasilkan bunyi dan/atau gambar"
+        }
+      ]
+    }
+  ]
+}

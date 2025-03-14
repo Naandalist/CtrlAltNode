@@ -1,0 +1,30 @@
+{
+  "istilah": "tabut",
+  "entri": "ta.but bentuk tidak baku: tabot",
+  "bentukTidakBaku": "tabot",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tabut perjanjian"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "peti",
+    "kataAsal": "tābūt"
+  },
+  "data": [
+    {
+      "lema": "ta.but bentuk tidak baku: tabot",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peti yang dibuat dari anyaman bambu atau burung-burungan burak yang terbuat dari kayu yang dibawa berarak pada peringatan terbunuhnya Hasan-Husen (tanggal 10 Muharam)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perarakan untuk memperingati terbunuhnya Hasan-Husen dengan membawa tabut"
+        }
+      ]
+    }
+  ]
+}

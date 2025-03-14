@@ -1,0 +1,33 @@
+{
+  "istilah": "doctor theologiae",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "doktor teologi; disingkat Dr.Th."
+        }
+      ]
+    },
+    {
+      "lema": "doctor theologiae",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "doktor teologi; disingkat Dr.Th."
+        }
+      ]
+    }
+  ]
+}

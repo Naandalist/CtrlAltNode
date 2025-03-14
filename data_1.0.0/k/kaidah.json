@@ -1,0 +1,36 @@
+{
+  "istilah": "kaidah",
+  "entri": "ka.i.dah bentuk tidak baku: kaedah",
+  "bentukTidakBaku": "kaedah",
+  "kataTurunan": [
+    "berkaidah",
+    "mengaidahkan",
+    "pengaidahan"
+  ],
+  "gabunganKata": [
+    "kaidah Amagat-Leduc",
+    "kaidah Behaghel kedua",
+    "kaidah Behaghel pertama",
+    "kaidah dasar",
+    "kaidah drama",
+    "kaidah fonologi",
+    "kaidah konstruksi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "fondasi",
+    "kataAsal": "qā‘idah"
+  },
+  "data": [
+    {
+      "lema": "ka.i.dah bentuk tidak baku: kaedah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumusan asas yang menjadi hukum; aturan yang sudah pasti; patokan; dalil (dalam matematika)"
+        }
+      ]
+    }
+  ]
+}

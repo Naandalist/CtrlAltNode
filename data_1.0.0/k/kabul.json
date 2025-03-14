@@ -1,0 +1,42 @@
+{
+  "istilah": "kabul",
+  "entri": "ka.bul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keterkabulan",
+    "mengabulkan",
+    "pengabulan",
+    "terkabul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penerimaan; persetujuan",
+    "kataAsal": "qabūl"
+  },
+  "data": [
+    {
+      "lema": "ka.bul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ucapan tanda setuju (terima) dari pihak yang menerima dalam suatu akad perjanjian atau kontrak: wali mempelai perempuan mengucapkan ijab dan mempelai laki-laki mengucapkan --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "diluluskan (tentang permintaan dan sebagainya); diperkenankan: permintaannya --"
+        }
+      ]
+    },
+    {
+      "lema": "Ka.bul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu kota negara Afganistan"
+        }
+      ]
+    }
+  ]
+}

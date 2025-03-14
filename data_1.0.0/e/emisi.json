@@ -1,0 +1,48 @@
+{
+  "istilah": "emisi",
+  "entri": "e.mi.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "emisi karbon",
+    "emisi mobil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.mi.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "pemancaran cahaya, panas, atau elektron dari suatu permukaan benda padat atau cair; pemancaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "pengeluaran (surat berharga seperti saham, obligasi) oleh perusahaan pada saat perusahaan yang bersangkutan memerlukan tambahan modal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "pengeluaran mata uang logam atau kertas oleh bank sentral"
+        }
+      ]
+    },
+    {
+      "lema": "e.mi.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kandungan gas mesin yang dibuang ke udara"
+        }
+      ]
+    }
+  ]
+}

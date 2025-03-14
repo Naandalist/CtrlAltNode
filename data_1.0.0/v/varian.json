@@ -1,0 +1,40 @@
+{
+  "istilah": "varian",
+  "entri": "va.ri.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "varian alofonis",
+    "varian alomorfis",
+    "varian bebas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "va.ri.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk yang berbeda atau menyimpang dari yang asli atau dari yang baku dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk yang dapat dipakai sebagai alternatif (misalnya tak merupakan varian atau bentuk alternatif tidak)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "nilai tertentu suatu variabel, misalnya variabel [é] dalam bahasa Indonesia mempunyai dua varian, yaitu [e] dan [ε]"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "wujud satuan bahasa dalam konteks tertentu, misalnya alofon adalah varian dari fonem, alomorf adalah varian dari morfem"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "menjamakkan",
+  "entri": "jamak1 » men.ja.mak.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jamak1 » men.ja.mak.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadikan (menganggap) biasa"
+        }
+      ]
+    },
+    {
+      "lema": "jamak2 » men.ja.mak.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadikan bentuk jamak"
+        }
+      ]
+    }
+  ]
+}

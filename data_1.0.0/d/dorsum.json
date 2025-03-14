@@ -1,0 +1,28 @@
+{
+  "istilah": "dorsum",
+  "entri": "dor.sum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dor.sum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "punggung (bagian belakang manusia dan bagian atas hewan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian belakang lidah sesudah daun lidah"
+        }
+      ]
+    }
+  ]
+}

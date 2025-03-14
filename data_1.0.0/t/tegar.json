@@ -1,0 +1,62 @@
+{
+  "istilah": "tegar",
+  "entri": "te.gar1 /têgar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketegaran",
+    "menegarkan",
+    "menegarkan"
+  ],
+  "gabunganKata": [
+    "tegar hati",
+    "tegar pelupuk mata",
+    "tegar tengkuk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.gar1 /têgar/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keras dan kering: tanah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keras kaku; tidak dapat dilenturkan: rotan yang kasar itu --, tetapi yang halus melentur"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak dapat diubah (pendiriannya, pendapatnya); tidak mau menurut"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tabah: kedua orang tua itu masih mencoba -- kendati bencana itu merenggut ketiga putra-putri mereka"
+        }
+      ]
+    },
+    {
+      "lema": "te.gar2 /têgar/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menegarkan"
+        }
+      ]
+    },
+    {
+      "lema": "te.gar3 /têgar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "penampilan tanaman yang sehat dan kuat, biasanya diperlihatkan oleh kemampuan berproduksi normal dalam keadaan suboptimum"
+        }
+      ]
+    }
+  ]
+}

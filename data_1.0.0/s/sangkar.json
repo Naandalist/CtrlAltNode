@@ -1,0 +1,49 @@
+{
+  "istilah": "sangkar",
+  "entri": "sang.kar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersangkar",
+    "menyangkarkan",
+    "sangkaran"
+  ],
+  "gabunganKata": [
+    "sangkar jebakan",
+    "sangkar koloni",
+    "sangkar meteorologi",
+    "sangkar nada",
+    "sangkar termometer"
+  ],
+  "peribahasa": [
+    "bagai burung dalam sangkar emas; bagai burung dalam sangkar emas; berketuk di luar sangkar, bertanam di luar pagar; satu sangkar, dua burung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sang.kar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kurungan: ia membeli burung dengan --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "perkandangan dengan cara menempatkan ayam pada lantai kawat sehingga ayam tidak berkontak dengan feses"
+        }
+      ]
+    },
+    {
+      "lema": "sang.kar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "diagonal"
+        }
+      ]
+    }
+  ]
+}

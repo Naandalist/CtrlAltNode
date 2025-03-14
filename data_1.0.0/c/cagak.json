@@ -1,0 +1,53 @@
+{
+  "istilah": "cagak",
+  "entri": "ca.gak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercagak",
+    "mencagak",
+    "tercagak"
+  ],
+  "gabunganKata": [
+    "cagak hidup",
+    "cagak jalan",
+    "cagak tiga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.gak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkat (galah dan sebagainya) yang ujungnya bercabang (untuk penopang, penahan, penyangga); cabang (kayu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiang (listrik, telepon, dan sebagainya); kaki atau penyangga (perkakas potret, senapan mesin, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "simpang; cabang (tentang jalan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tunjangan"
+        }
+      ]
+    },
+    {
+      "lema": "ca.gak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk rias garis alis yang tebal dan bercabang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "lentang-lentok",
+  "entri": "len.tang-len.tok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "len.tang-len.tok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terkulai-kulai (kepalanya)"
+        }
+      ]
+    },
+    {
+      "lema": "lentok » len.tang-len.tok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terkulai-kulai (kepalanya)"
+        }
+      ]
+    }
+  ]
+}

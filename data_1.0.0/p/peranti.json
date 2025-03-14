@@ -1,0 +1,46 @@
+{
+  "istilah": "peranti",
+  "entri": "pe.ran.ti /pêranti/bentuk tidak baku: piranti",
+  "bentukTidakBaku": "piranti",
+  "kataTurunan": [
+    "berperanti"
+  ],
+  "gabunganKata": [
+    "peranti asinkron",
+    "peranti bebas",
+    "peranti haptik",
+    "peranti inframerah",
+    "peranti masukan tulisan tangan",
+    "peranti pemindai",
+    "peranti pintar",
+    "peranti rias",
+    "peranti simpan akses langsung",
+    "peranti tangan",
+    "peranti tanggap audio"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ran.ti /pêranti/bentuk tidak baku: piranti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat; perkakas: -- untuk membuka kotak ini tidak ada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "syarat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan (untuk): -- untuk membuat gula adalah tebu"
+        }
+      ]
+    }
+  ]
+}

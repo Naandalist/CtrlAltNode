@@ -1,0 +1,37 @@
+{
+  "istilah": "sto",
+  "entri": "STO1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "STO1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Sekolah Tinggi Olahraga"
+        }
+      ]
+    },
+    {
+      "lema": "STO2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sentral telepon otomat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Sentra Teknologi dan Operasi"
+        }
+      ]
+    }
+  ]
+}

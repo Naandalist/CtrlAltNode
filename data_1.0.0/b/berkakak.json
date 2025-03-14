@@ -1,0 +1,41 @@
+{
+  "istilah": "berkakak",
+  "entri": "kakak1 » ber.ka.kak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kakak1 » ber.ka.kak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai kakak: ia tidak ~ dan tidak beradik kandung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyapa (memanggil dan sebagainya) dengan kata kakak: ia ~ kepadaku"
+        }
+      ]
+    },
+    {
+      "lema": "kakak2 » ber.ka.kak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbunyi; “kak, kak” seperti bunyi itik, ayam"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tertawa gelak-gelak; terkekeh-kekeh"
+        }
+      ]
+    }
+  ]
+}

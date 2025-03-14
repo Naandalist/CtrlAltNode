@@ -1,0 +1,40 @@
+{
+  "istilah": "sentimen",
+  "entri": "sen.ti.men",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sentimen negatif",
+    "sentimen pasar",
+    "sentimen positif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.ti.men",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendapat atau pandangan yang didasarkan pada perasaan yang berlebih-lebihan terhadap sesuatu (bertentangan dengan pertimbangan pikiran): keputusan yang dihasilkan akan tidak adil jika disertai rasa -- pribadi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "emosi yang berlebihan: rasa -- sebagai bangsa Indonesia akan tumbuh kuat jika kita jauh dari negeri ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "iri hati; tidak senang; dendam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "reaksi yang tidak menguntungkan: penurunan harga saham hanya disebabkan oleh -- pasar"
+        }
+      ]
+    }
+  ]
+}

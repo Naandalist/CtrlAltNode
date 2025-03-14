@@ -1,0 +1,30 @@
+{
+  "istilah": "semi",
+  "entri": "se.mi2 /sêmi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersemi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tunas, pucuk, kuncup",
+    "kataAsal": "sěmi"
+  },
+  "data": [
+    {
+      "lema": "se.mi2 /sêmi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tunas; taruk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bertunas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "cikar",
+  "entri": "ci.kar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "cikar kanan",
+    "cikar kiri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ci.kar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kereta beroda dua yang ditarik oleh lembu, kerbau, atau kuda; pedati"
+        }
+      ]
+    },
+    {
+      "lema": "ci.kar2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Lay[Pelayaran: -]",
+          "deskripsi": "berbelok; berganti haluan"
+        }
+      ]
+    }
+  ]
+}

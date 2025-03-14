@@ -1,0 +1,33 @@
+{
+  "istilah": "min",
+  "entri": "min1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "min1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kp[kependekan]",
+          "deskripsi": "minus; kurang"
+        }
+      ]
+    },
+    {
+      "lema": "min2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman herba genus Mentha, memiliki batang berbentuk persegi, bunga berukuran kecil berwarna putih, kebiru-biruan, dan merah muda, serta daun yang tumbuh berpasangan pada batang, dengan aroma dan rasa yang unik"
+        }
+      ]
+    }
+  ]
+}

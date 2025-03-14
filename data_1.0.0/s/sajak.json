@@ -1,0 +1,79 @@
+{
+  "istilah": "sajak",
+  "entri": "sa.jak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersajak",
+    "menyajak",
+    "menyajakkan",
+    "penyajak",
+    "persajakan"
+  ],
+  "gabunganKata": [
+    "sajak awamatra",
+    "sajak awarima",
+    "sajak bebas",
+    "sajak delapan seuntai",
+    "sajak dolanan",
+    "sajak dua seuntai",
+    "sajak empat seuntai",
+    "sajak enam seuntai",
+    "sajak gema",
+    "sajak kanak-kanak",
+    "sajak kembar",
+    "sajak kisahan",
+    "sajak kosong",
+    "sajak lima seuntai",
+    "sajak main-main",
+    "sajak mutlak",
+    "sajak patah",
+    "sajak peristiwa",
+    "sajak prosa",
+    "sajak rangkai",
+    "sajak ringan",
+    "sajak sejajar",
+    "sajak sempurna",
+    "sajak sindiran",
+    "sajak suku kata",
+    "sajak tegak",
+    "sajak tengah",
+    "sajak terbuka",
+    "sajak tertutup",
+    "sajak tidak sempurna",
+    "sajak tiga seuntai",
+    "sajak tujuh seuntai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bentuk karya sastra yang penyajiannya dilakukan dalam baris-baris yang teratur dan terikat",
+    "kataAsal": "saja‘"
+  },
+  "data": [
+    {
+      "lema": "sa.jak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gubahan sastra yang berbentuk puisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk karya sastra yang penyajiannya dilakukan dalam baris-baris yang teratur dan terikat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gubahan karya sastra yang sangat mementingkan keselarasan bunyi bahasa, baik kesepadanan bunyi, kekontrasan, maupun kesamaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "patut; kena; cocok: ia berpakaian indah lagi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lagak lagu: manis sikap dan --nya"
+        }
+      ]
+    }
+  ]
+}

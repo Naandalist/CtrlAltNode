@@ -1,0 +1,56 @@
+{
+  "istilah": "rongga",
+  "entri": "rong.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berongga",
+    "berongga-rongga",
+    "merongga",
+    "meronggakan",
+    "peronggaan"
+  ],
+  "gabunganKata": [
+    "rongga bulu",
+    "rongga dada",
+    "rongga dubur",
+    "rongga faring",
+    "rongga hidung",
+    "rongga kayu",
+    "rongga mata",
+    "rongga mulut",
+    "rongga pori tanah",
+    "rongga serat",
+    "rongga telinga",
+    "rongga udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rong.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang; lubang"
+        }
+      ]
+    },
+    {
+      "lema": "Rong.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami Pulau Flores bagian selatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Rongga"
+        }
+      ]
+    }
+  ]
+}

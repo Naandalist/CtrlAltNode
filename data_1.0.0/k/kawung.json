@@ -1,0 +1,37 @@
+{
+  "istilah": "kawung",
+  "entri": "ka.wung1 bentuk tidak baku: kaung",
+  "bentukTidakBaku": "kaung",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sejenis pola kain, kawung; daun-daun aren kering; tepung kawung",
+    "kataAsal": "kawuṅ"
+  },
+  "data": [
+    {
+      "lema": "ka.wung1 bentuk tidak baku: kaung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "enau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "rokok dengan daun enau sebagai pembungkusnya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.wung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "motif (corak) batik"
+        }
+      ]
+    }
+  ]
+}

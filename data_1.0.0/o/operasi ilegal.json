@@ -1,0 +1,24 @@
+{
+  "istilah": "operasi ilegal",
+  "entri": "operasi » operasi ilegal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "operasi » operasi ilegal",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "operasi yang tidak boleh dilakukan oleh program, seperti menulis hanya pada cakram baca atau menggunakan memori yang dialokasikan untuk program lain"
+        }
+      ]
+    }
+  ]
+}

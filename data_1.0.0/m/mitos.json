@@ -1,0 +1,31 @@
+{
+  "istilah": "mitos",
+  "entri": "mi.tos",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memitoskan",
+    "pemitosan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mi.tos",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerita suatu bangsa tentang dewa dan pahlawan zaman dahulu, mengandung penafsiran tentang asal-usul semesta alam, manusia, dan bangsa tersebut, mengandung arti mendalam yang diungkapkan dengan cara gaib"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "cerita tentang dewa-dewa dan pahlawan pada masa lalu yang memiliki tafsir dan makna tentang kejadian asal usul manusia"
+        }
+      ]
+    }
+  ]
+}

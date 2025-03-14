@@ -1,0 +1,31 @@
+{
+  "istilah": "sembilan",
+  "entri": "sem.bi.lan /sêmbilan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersembilan",
+    "kesembilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sem.bi.lan /sêmbilan/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "bilangan yang dilambangkan dengan angka 9 (Arab) atau IX (Romawi)"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "urutan ke-9 sesudah ke-8 dan sebelum ke-10"
+        }
+      ]
+    }
+  ]
+}

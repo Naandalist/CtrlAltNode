@@ -1,0 +1,37 @@
+{
+  "istilah": "kebisaan",
+  "entri": "bisa1 » ke.bi.sa.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bisa1 » ke.bi.sa.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepandaian; kecakapan; kebolehan"
+        }
+      ]
+    },
+    {
+      "lema": "bisa2 » ke.bi.sa.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pengaruh atau kerja bisa (racun) pada tubuh dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "terkena bisa (racun)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "coret",
+  "entri": "co.ret1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "coret-coret",
+    "coretan",
+    "mencoret",
+    "mencoreti",
+    "mencoretkan",
+    "pencoret",
+    "pencoretan",
+    "tercoret",
+    "mencoret"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.ret1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis panjang; coreng; corek"
+        }
+      ]
+    },
+    {
+      "lema": "co.ret2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "semprot"
+        }
+      ]
+    }
+  ]
+}

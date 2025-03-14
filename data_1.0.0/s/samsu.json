@@ -1,0 +1,33 @@
+{
+  "istilah": "samsu",
+  "entri": "sam.su1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Kanton",
+    "arti": "arak beras",
+    "kataAsal": "saam shiu"
+  },
+  "data": [
+    {
+      "lema": "sam.su1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "arak (dari air tebu)"
+        }
+      ]
+    },
+    {
+      "lema": "sam.su2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ syamsu"
+        }
+      ]
+    }
+  ]
+}

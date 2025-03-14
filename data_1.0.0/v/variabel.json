@@ -1,0 +1,39 @@
+{
+  "istilah": "variabel",
+  "entri": "va.ri.a.bel /variabêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "variabel bebas",
+    "variabel terikat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "va.ri.a.bel /variabêl/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dapat berubah-ubah, berbeda-beda, bermacam-macam (tentang mutu, harga, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dapat berubah; faktor atau unsur yang ikut menentukan perubahan: rumusan masalah dalam penelitian itu sebaiknya memperhatikan berbagai -- seperti guru, usia, dan pendidikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan bahasa yang paling terpengaruh oleh variasi sosial dan stilistis, dalam jangka panjang mudah berubah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kelas kata yang dapat menyatakan hubungan gramatikal dengan perubahan bentuk, dalam hal ini kelas nomina, verba, dan adjektiva"
+        }
+      ]
+    }
+  ]
+}

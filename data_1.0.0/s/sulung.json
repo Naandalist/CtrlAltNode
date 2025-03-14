@@ -1,0 +1,50 @@
+{
+  "istilah": "sulung",
+  "entri": "su.lung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.lung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang terdahulu atau yang mula-mula sekali; (anak) yang tertua: anak --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Prm[Pramuka: Usulan untuk penambahan bidang baru]",
+          "deskripsi": "pemimpin barung utama dalam gerakan pramuka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Prm[Pramuka: Usulan untuk penambahan bidang baru]",
+          "deskripsi": "pemimpin barung utama"
+        }
+      ]
+    },
+    {
+      "lema": "su.lung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat akar"
+        }
+      ]
+    },
+    {
+      "lema": "su.lung3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bg[Bugis: -]",
+          "deskripsi": "memasukkan kayu bakar ke dalam tungku (supaya apinya menyala lebih besar)"
+        }
+      ]
+    }
+  ]
+}

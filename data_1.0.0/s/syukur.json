@@ -1,0 +1,33 @@
+{
+  "istilah": "syukur",
+  "entri": "syu.kur bentuk tidak baku: sukur",
+  "bentukTidakBaku": "sukur",
+  "kataTurunan": [
+    "bersyukur",
+    "kebersyukuran",
+    "mensyukuri",
+    "syukuran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "terima kasih",
+    "kataAsal": "syukr"
+  },
+  "data": [
+    {
+      "lema": "syu.kur bentuk tidak baku: sukur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rasa terima kasih kepada Allah: ia mengucapkan -- kepada Allah karena terlepas dari marabahaya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "untunglah (pernyataan lega, senang, dan sebagainya): -- suamiku tidak mengalami cedera dalam kecelakaan itu"
+        }
+      ]
+    }
+  ]
+}

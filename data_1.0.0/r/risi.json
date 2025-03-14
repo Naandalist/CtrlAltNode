@@ -1,0 +1,41 @@
+{
+  "istilah": "risi",
+  "entri": "ri.si1 bentuk tidak baku: risih",
+  "bentukTidakBaku": "risih",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ri.si1 bentuk tidak baku: risih",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa jijik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merasa malu (merasa tidak enak dengan keadaan sekeliling): sedikit pun ia tidak merasa -- di tengah-tengah orang banyak itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "merasa tersinggung"
+        }
+      ]
+    },
+    {
+      "lema": "ri.si2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "khawatir; cemas: pada periode mendatang ia tidak perlu -- walaupun tidak mendapat dorongan pemerintah"
+        }
+      ]
+    }
+  ]
+}

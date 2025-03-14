@@ -1,0 +1,41 @@
+{
+  "istilah": "rejasa",
+  "entri": "re.ja.sa1 /rêjasa/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pohon yang khas (elacocarpus) berbunga merah",
+    "kataAsal": "rājasa"
+  },
+  "data": [
+    {
+      "lema": "re.ja.sa1 /rêjasa/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "timah"
+        }
+      ]
+    },
+    {
+      "lema": "re.ja.sa2 /rêjasa/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang tingginya mencapai 26 m, batangnya tidak lurus sehingga tidak digunakan untuk bahan bangunan, kulitnya untuk obat borok (luka lama), daunnya untuk obat lesu〔Elaeocarpus grandiflora〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit pohon rejasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun rejasa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "goban",
+  "entri": "go.ban",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "lima puluh ribu",
+    "kataAsal": "gō͘ bān"
+  },
+  "data": [
+    {
+      "lema": "go.ban",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Cn[Cina: -]",
+          "deskripsi": "lima puluh ribu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "gimik",
+  "entri": "gi.mik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gi.mik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "gerak-gerik tipu daya aktor untuk mengelabui lawan peran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu (alat atau trik) yang digunakan untuk menarik perhatian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Film[Perfilman: -]",
+          "deskripsi": "sudut pengambilan khusus untuk menarik perhatian pemirsa dalam produksi program siaran"
+        }
+      ]
+    }
+  ]
+}

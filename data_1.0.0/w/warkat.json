@@ -1,0 +1,31 @@
+{
+  "istilah": "warkat",
+  "entri": "war.kat bentuk tidak baku: warakat, warkah",
+  "bentukTidakBaku": "warakat, warkah",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "warkat berharga",
+    "warkat pos"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "daun; kertas",
+    "kataAsal": "waraqah"
+  },
+  "data": [
+    {
+      "lema": "war.kat bentuk tidak baku: warakat, warkah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "isi surat"
+        }
+      ]
+    }
+  ]
+}

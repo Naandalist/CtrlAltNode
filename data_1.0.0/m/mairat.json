@@ -1,0 +1,37 @@
+{
+  "istilah": "mairat",
+  "entri": "ma.i.rat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tangga; tempat amal manusia dilaporkan; perjalanan yang dilakukan Nabi Muhammad saw. kepada Masjidilaksa ke Sidratulmuntaha (langit ke tujuh)",
+    "kataAsal": "mi‘rāj"
+  },
+  "data": [
+    {
+      "lema": "ma.i.rat1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Ar[Arab: -]",
+          "deskripsi": "hilang; pergi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Ar[Arab: -]",
+          "deskripsi": "mati"
+        }
+      ]
+    },
+    {
+      "lema": "ma.i.rat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ mikraj"
+        }
+      ]
+    }
+  ]
+}

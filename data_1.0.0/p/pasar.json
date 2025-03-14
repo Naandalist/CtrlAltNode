@@ -1,0 +1,109 @@
+{
+  "istilah": "pasar",
+  "entri": "pa.sar1 bentuk tidak baku: pesara2",
+  "bentukTidakBaku": "pesara2",
+  "kataTurunan": [
+    "berpasar",
+    "memasarkan",
+    "pasaran",
+    "pemasar",
+    "pemasaran",
+    "perpasaran"
+  ],
+  "gabunganKata": [
+    "pasar amal",
+    "pasar apung",
+    "pasar atom",
+    "pasar basah",
+    "pasar bebas",
+    "pasar bebas terbuka",
+    "pasar bersih",
+    "pasar dadakan",
+    "pasar derma",
+    "pasar domestik",
+    "pasar gelap",
+    "pasar global",
+    "pasar induk",
+    "pasar jengek",
+    "pasar kaget",
+    "pasar kering",
+    "pasar keuangan",
+    "pasar konvensi pariwisata",
+    "pasar korporat",
+    "pasar lesu",
+    "pasar lokal",
+    "pasar malam",
+    "pasar minggon",
+    "pasar modal",
+    "pasar modal global",
+    "pasar modern",
+    "pasar murah",
+    "pasar penjual",
+    "pasar perdana",
+    "pasar persaingan sempurna",
+    "pasar potensial",
+    "pasar rakyat",
+    "pasar reguler",
+    "pasar ritel",
+    "pasar saham tinggi",
+    "pasar sehat",
+    "pasar sekunder",
+    "pasar seni",
+    "pasar sepi",
+    "pasar swalayan",
+    "pasar tahunan",
+    "pasar tradisional",
+    "pasar tumpah",
+    "pasar tunai",
+    "pasar tunggal",
+    "pasar uang",
+    "pasar valas",
+    "pasar virtual",
+    "pasar wisata"
+  ],
+  "peribahasa": [
+    "lancar kaji karena diulang, pasar jalan karena diturut; pasar jalan karena diturut, lancar kaji karena diulang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.sar1 bentuk tidak baku: pesara2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat orang berjual beli; pekan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "kekuatan penawaran dan permintaan, tempat penjual yang ingin menukar barang atau jasa dengan uang, dan pembeli yang ingin menukar uang dengan barang atau jasa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "dipakai dalam pergaulan sehari-hari (tentang bahasa yang kurang baik tata bahasanya, pilihan katanya, dan sebagainya): bahasa --"
+        }
+      ]
+    },
+    {
+      "lema": "pa.sar2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "licin (mati rumputnya tentang jalan yang kerap kali dilalui)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.sar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jangka waktu menurut budaya Jawa, jumlahnya lima hari: -- Jawa ada lima, yaitu Legi, Paing, Pon, Wage, dan Kliwon"
+        }
+      ]
+    }
+  ]
+}

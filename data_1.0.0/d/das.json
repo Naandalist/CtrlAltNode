@@ -1,0 +1,37 @@
+{
+  "istilah": "das",
+  "entri": "das",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "das",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi tembakan senapan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi tembakan (tiap kali keluar dari senapan)"
+        }
+      ]
+    },
+    {
+      "lema": "DAS",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "daerah aliran sungai"
+        }
+      ]
+    }
+  ]
+}

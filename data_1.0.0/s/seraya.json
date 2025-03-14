@@ -1,0 +1,50 @@
+{
+  "istilah": "seraya",
+  "entri": "se.ra.ya1 /sêraya/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyeraya",
+    "menyerayakan",
+    "seraya-menyeraya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sumber, bantuan atau pertolongan, perlindungan, gabungan, hubungan",
+    "kataAsal": "āśraya"
+  },
+  "data": [
+    {
+      "lema": "se.ra.ya1 /sêraya/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sambil; serta: ia duduk -- berdatang sembah"
+        }
+      ]
+    },
+    {
+      "lema": "se.ra.ya2 /sêraya/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "penolong"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "pertolongan"
+        }
+      ]
+    },
+    {
+      "lema": "se.ra.ya3 /sêraya/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "meranti〔Shorea〕"
+        }
+      ]
+    }
+  ]
+}

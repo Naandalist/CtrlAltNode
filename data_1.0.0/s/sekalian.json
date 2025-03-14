@@ -1,0 +1,41 @@
+{
+  "istilah": "sekalian",
+  "entri": "kali1 » se.ka.li.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "secara bersama, dengan lengkap",
+    "kataAsal": "sākalyena"
+  },
+  "data": [
+    {
+      "lema": "kali1 » se.ka.li.an",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sekali jalan; sambil (melakukan dan sebagainya): kalau pergi ke pasar, ~ belikan saya tembakau"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "semuanya (tidak ada kecualinya): Saudara ~, marilah kita lanjutkan pembicaraan kita"
+        }
+      ]
+    },
+    {
+      "lema": "se.ka.li.an /sêkalian/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "semua"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersama-sama; serentak"
+        }
+      ]
+    }
+  ]
+}

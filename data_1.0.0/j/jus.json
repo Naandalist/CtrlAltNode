@@ -1,0 +1,45 @@
+{
+  "istilah": "jus",
+  "entri": "jus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengejus",
+    "pengejus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sari buah"
+        }
+      ]
+    },
+    {
+      "lema": "jus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "perhitungan (angka setara) apabila kedua pemain mencapai angka yang sama, yaitu dua angka menjelang kemenangan dalam permainan bulu tangkis, tenis, voli, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "jus3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ juz"
+        }
+      ]
+    }
+  ]
+}

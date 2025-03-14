@@ -1,0 +1,32 @@
+{
+  "istilah": "bu",
+  "entri": "bu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada orang tua perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada perempuan yang dihormati (baik karena jabatan suami atau sebagai istri): -- Camat; -- Budi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "ibu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "lontong",
+  "entri": "lon.tong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lontong kupang",
+    "lontong sayur"
+  ],
+  "peribahasa": [
+    "berebut lontong tanpa isi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lon.tong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan yang dibuat dari beras dibungkus dengan daun pisang, kemudian direbus sampai matang"
+        }
+      ]
+    },
+    {
+      "lema": "lon.tong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -] Tbs[Tata Busana: -]",
+          "deskripsi": "sabuk yang dikenakan pada pakaian adat Jawa"
+        }
+      ]
+    }
+  ]
+}

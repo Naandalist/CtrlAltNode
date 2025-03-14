@@ -1,0 +1,53 @@
+{
+  "istilah": "rukun",
+  "entri": "ru.kun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "perukunan",
+    "kerukunan",
+    "merukunkan"
+  ],
+  "gabunganKata": [
+    "rukun haji",
+    "rukun iman",
+    "rukun Islam",
+    "rukun kampung",
+    "rukun tani",
+    "rukun tetangga",
+    "rukun warga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "asar; sisi terkuat",
+    "kataAsal": "rukn"
+  },
+  "data": [
+    {
+      "lema": "ru.kun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang harus dipenuhi untuk sahnya suatu pekerjaan: tidak sah salat yang tidak cukup syarat dan --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asas; dasar; sendi: semuanya terlaksana dengan baik, tidak suatu pun yang menyimpang dari --nya"
+        }
+      ]
+    },
+    {
+      "lema": "ru.kun2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "baik dan damai; tidak bertengkar (tentang pertalian persahabatan dan sebagainya): “Ibu berharap kamu berdua dapat hidup --”"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersatu hati; bersepakat: penduduk kampung ini -- sekali"
+        }
+      ]
+    }
+  ]
+}

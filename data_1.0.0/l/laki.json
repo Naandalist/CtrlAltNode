@@ -1,0 +1,40 @@
+{
+  "istilah": "laki",
+  "entri": "la.ki",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlaki",
+    "kelaki-lakian",
+    "laki-laki",
+    "lelaki",
+    "memperlaki",
+    "memperlakikan"
+  ],
+  "gabunganKata": [
+    "laki bini",
+    "laki padi"
+  ],
+  "peribahasa": [
+    "laki pulang kelaparan, dagang lalu ditanakkan; laki pulang kelaparan, dagang lalu ditanakkan; menanti laki pulang maling"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.ki",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "suami (imbangan bini)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pria"
+        }
+      ]
+    }
+  ]
+}

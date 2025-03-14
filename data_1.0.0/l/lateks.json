@@ -1,0 +1,28 @@
+{
+  "istilah": "lateks",
+  "entri": "la.teks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.teks",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "getah pohon karet"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat cair seperti susu yang dihasilkan oleh tumbuhan tertentu, mengandung protein dan karbohidrat"
+        }
+      ]
+    }
+  ]
+}

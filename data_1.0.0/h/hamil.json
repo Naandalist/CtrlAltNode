@@ -1,0 +1,34 @@
+{
+  "istilah": "hamil",
+  "entri": "ha.mil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kehamilan",
+    "menghamili",
+    "menghamilkan",
+    "penghamilan"
+  ],
+  "gabunganKata": [
+    "hamil anggur",
+    "hamil kembar",
+    "hamil muda",
+    "hamil tua"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "wanita yang mengandung",
+    "kataAsal": "ḥāmil"
+  },
+  "data": [
+    {
+      "lema": "ha.mil",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengandung janin dalam rahim karena sel telur dibuahi oleh spermatozoa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "sesar",
+  "entri": "se.sar1 /sêsar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyesar",
+    "menyesarkan",
+    "penyesaran",
+    "sesaran",
+    "bersesaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "sěsěr"
+  },
+  "data": [
+    {
+      "lema": "se.sar1 /sêsar/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "geser"
+        }
+      ]
+    },
+    {
+      "lema": "se.sar2 /sêsar/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bersesaran"
+        }
+      ]
+    }
+  ]
+}

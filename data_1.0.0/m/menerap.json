@@ -1,0 +1,41 @@
+{
+  "istilah": "menerap",
+  "entri": "terap1 » me.ne.rap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "terap1 » me.ne.rap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menangkap burung dengan getah pohon terap"
+        }
+      ]
+    },
+    {
+      "lema": "terap2 » me.ne.rap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasang permata pada cincin, keris, dan sebagainya; mengikat permata pada tempat ikatannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasang ubin (lantai)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasang mesin dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

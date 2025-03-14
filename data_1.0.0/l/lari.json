@@ -1,0 +1,81 @@
+{
+  "istilah": "lari",
+  "entri": "la.ri1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlari",
+    "berlari-lari",
+    "berlari-larian",
+    "berlarian",
+    "lari-lari",
+    "larian",
+    "melarikan",
+    "pelari",
+    "pelarian",
+    "selari",
+    "sepelarian"
+  ],
+  "gabunganKata": [
+    "lari beranting",
+    "lari cepat",
+    "lari gawang",
+    "lari jalan raya",
+    "lari laun",
+    "lari lintas alam",
+    "lari maraton",
+    "lari nikah",
+    "lari rintangan"
+  ],
+  "peribahasa": [
+    "dari lecah lari ke duri; membekali budak lari; putih tapaknya lari; sesak berundur-undur, hendak lari malu, hendak menghambat tak lalu; tak akan (takkan) lari gunung dikejar, hilang kabut tampaklah dia; tak kan lari gunung dikejar, hilang kabut tampaklah dia; takut akan lumpur, lari ke duri"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.ri1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melangkahkan kaki dengan cepat yang pada setiap langkahnya kedua kaki tidak menjejak tanah: setelah ketahuan, pencuri itu -- pontang-panting"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hilang; lenyap: -- semangatnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pergi (keluar) tidak dengan cara sah (baik-baik); kabur: banyak tahanan yang -- dari penjara"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pergi (berpindah) untuk menyelamatkan diri: karena takut ditangkap, pencuri itu -- ke luar kota"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arah; tujuan: polisi membuntuti ke mana --nya penjahat itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "panjang suatu bidang: ruang itu --nya empat meter"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bergeser: pasangan ubinnya -- 1 cm"
+        }
+      ]
+    },
+    {
+      "lema": "la.ri2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan mata uang Georgia"
+        }
+      ]
+    }
+  ]
+}

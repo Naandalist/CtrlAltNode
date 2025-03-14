@@ -1,0 +1,34 @@
+{
+  "istilah": "tahalul",
+  "entri": "ta.ha.lul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertahalul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembolehan; proses keluar kepada sesuatu yang haram menuju sesuatu yang halal",
+    "kataAsal": "taḥallul"
+  },
+  "data": [
+    {
+      "lema": "ta.ha.lul",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "mencukur atau menggunting rambut kepala"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -] Isl[Agama Islam: -]",
+          "deskripsi": "dalam keadaan menjadi boleh; diperbolehkan seseorang melakukan pekerjaan atau kegiatan yang tadinya terlarang selama mengerjakan ibadah haji atau umrah (ditandai dengan bercukur atau memotong beberapa helai rambut)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -] Isl[Agama Islam: -]",
+          "deskripsi": "penghalalan"
+        }
+      ]
+    }
+  ]
+}

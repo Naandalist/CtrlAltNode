@@ -1,0 +1,64 @@
+{
+  "istilah": "kisi",
+  "entri": "ki.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkisi",
+    "berkisi-kisi",
+    "kisi-kisi"
+  ],
+  "gabunganKata": [
+    "kisi radiator"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "anyaman keranjang, anyaman dahan-dahan atau ranting kayu atau barang anyaman",
+    "kataAsal": "kisi"
+  },
+  "data": [
+    {
+      "lema": "ki.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kisi-kisi"
+        }
+      ]
+    },
+    {
+      "lema": "ki.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "jaringan garis tiga dimensi yang menghubungkan titik-titik pusat atom atau ion di dalam kristal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "lempeng logam yang berlubang-lubang, dipakai dalam baterai sebagai penghantar dan penyangga bahan aktifnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "sembarang jaringan bersistem"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "peranti optis yang bergaris-garis atau mempunyai batang yang sejajar dan terpisah oleh sela-sela sama besarnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "sistem kotak bernomor yang digunakan untuk membantu saat menggambar"
+        }
+      ]
+    },
+    {
+      "lema": "ki.si3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "segi empat kecil pada suatu bidang dasar yang dibentuk oleh dua gugus baris tegak lurus terhadap sesamanya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "kongkalikong",
+  "entri": "kong.ka.li.kong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkongkalikong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "bersekongkol",
+    "kataAsal": "kong kā lí kóng"
+  },
+  "data": [
+    {
+      "lema": "kong.ka.li.kong",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidak jujur; tidak terang-terangan; sembunyi-sembunyi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "perihal tahu sama tahu (dalam melakukan sesuatu yang tidak baik); sekongkol"
+        }
+      ]
+    }
+  ]
+}

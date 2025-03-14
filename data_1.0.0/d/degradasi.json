@@ -1,0 +1,38 @@
+{
+  "istilah": "degradasi",
+  "entri": "de.gra.da.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendegradasi",
+    "mendegradasikan",
+    "pendegradasi",
+    "pendegradasian",
+    "terdegradasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.gra.da.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penurunan (tentang pangkat, mutu, moral, dan sebagainya); kemunduran; kemerosotan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tn[Ilmu Tanah: ilmu tanah]",
+          "deskripsi": "perubahan kondisi tanah menjadi lebih lapuk dan mengandung lindi, biasanya diikuti oleh perubahan morfologinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "penurunan kondisi organ atau struktur menjadi kurang sempurna atau lebih sederhana"
+        }
+      ]
+    }
+  ]
+}

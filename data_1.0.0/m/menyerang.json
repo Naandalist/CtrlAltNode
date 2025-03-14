@@ -1,0 +1,38 @@
+{
+  "istilah": "menyerang",
+  "entri": "serang1 » me.nye.rang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "menyerang hari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "serang1 » me.nye.rang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendatangi untuk melawan (melukai, memerangi, dan sebagainya); menyerbu: penjahat yang ~ polisi itu sudah tertangkap"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menimpa (tentang bencana, penyakit, dan sebagainya); melanda; melanggar: banjir bandang baru-baru ini telah ~ kota itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menentang (seperti melancarkan kritik): ada yang membela, ada pula yang ~ kebijakan pemerintah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Olr[Olahraga: -]",
+          "deskripsi": "menekan atau memberi serangan pada lawan"
+        }
+      ]
+    }
+  ]
+}

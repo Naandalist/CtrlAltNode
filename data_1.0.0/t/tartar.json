@@ -1,0 +1,37 @@
+{
+  "istilah": "tartar",
+  "entri": "tar.tar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tar.tar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerak gigi yang ditimbulkan oleh sisa makanan, liur, dan sari berbagai garam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat yang mengendap dalam pemeraman hasil peragian"
+        }
+      ]
+    },
+    {
+      "lema": "tar.tar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang bertabiat beringas"
+        }
+      ]
+    }
+  ]
+}

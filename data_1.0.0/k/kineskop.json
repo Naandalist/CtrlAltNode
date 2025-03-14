@@ -1,0 +1,42 @@
+{
+  "istilah": "kineskop",
+  "entri": "ki.ne.skop1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.ne.skop1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rekaman film dari acara televisi"
+        }
+      ]
+    },
+    {
+      "lema": "ki.ne.skop2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tabung gambar sinar katode"
+        }
+      ]
+    },
+    {
+      "lema": "ki.ne.skop3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk memastikan refraksi (pembiasan) dengan cara okulasi"
+        }
+      ]
+    }
+  ]
+}

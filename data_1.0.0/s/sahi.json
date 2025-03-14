@@ -1,0 +1,42 @@
+{
+  "istilah": "sahi",
+  "entri": "sa.hi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "teh",
+    "kataAsal": "syāi"
+  },
+  "data": [
+    {
+      "lema": "sa.hi1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "alpa; lalai; lupa: sifat manusia sekali-sekali suka -- juga"
+        }
+      ]
+    },
+    {
+      "lema": "sa.hi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "air teh yang pekat dan harum: teh -- dapat juga diminum sebagai obat untuk menghilangkan sakit perut; baki berisi juadah dan piala berisi --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.hi3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ikan) pari"
+        }
+      ]
+    }
+  ]
+}

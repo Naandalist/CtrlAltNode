@@ -1,0 +1,44 @@
+{
+  "istilah": "takwa",
+  "entri": "tak.wa1 bentuk tidak baku: taqwa",
+  "bentukTidakBaku": "taqwatekua",
+  "kataTurunan": [
+    "bertakwa",
+    "ketakwaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Mandarin",
+    "arti": "baju model Cina",
+    "kataAsal": "dàguà"
+  },
+  "data": [
+    {
+      "lema": "tak.wa1 bentuk tidak baku: taqwa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "terpeliharanya diri dari siksa Allah Swt. dengan tetap taat melaksanakan perintah-Nya dan menjauhi segala larangan-Nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keinsafan diri yang diikuti dengan kepatuhan dan ketaatan dalam melaksanakan perintah Allah Swt. dan menjauhi segala larangan-Nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesalehan hidup"
+        }
+      ]
+    },
+    {
+      "lema": "tak.wa2 bentuk tidak baku: tekua",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baju model Cina, leher tertutup tinggi, belakangnya tidak simetris, berkancing sampai ke leher dan bersaku dua yang terletak pada bagian depan bawah"
+        }
+      ]
+    }
+  ]
+}

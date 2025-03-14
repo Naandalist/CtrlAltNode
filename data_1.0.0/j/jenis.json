@@ -1,0 +1,45 @@
+{
+  "istilah": "jenis",
+  "entri": "je.nis /jênis/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjenis",
+    "berjenis-jenis",
+    "menjenis",
+    "penjenisan",
+    "sejenis"
+  ],
+  "gabunganKata": [
+    "jenis kata",
+    "jenis kelamin"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jenis",
+    "kataAsal": "jins"
+  },
+  "data": [
+    {
+      "lema": "je.nis /jênis/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang mempunyai ciri (sifat, keturunan, dan sebagainya) yang khusus; macam: padi yang biasa ditanam di sini -- padi unggul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mutu: harga barang-barang banyak ditentukan oleh macam dan --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "satuan dasar klasifikasi biologi, terdiri atas gabungan populasi yang diperkirakan dapat saling mengawini dengan bebas dan dapat dikenal cirinya secara morfologi, misalnya jenis sekerabat digabungkan dalam satu marga, setiap jenis tumbuhan mewakili nama yang terdiri atas dua kata, yakni nama marga dan penunjuk jenisnya, seperti Artocarpus altissima, Artocarpus communis; spesies"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "klasifikasi kata yang kadang-kadang bersangkutan dengan kelamin, kadang-kadang tidak; gender"
+        }
+      ]
+    }
+  ]
+}

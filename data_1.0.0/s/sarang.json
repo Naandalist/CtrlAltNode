@@ -1,0 +1,64 @@
+{
+  "istilah": "sarang",
+  "entri": "sa.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersarang",
+    "bersarang-sarang",
+    "menyarang",
+    "menyarangkan"
+  ],
+  "gabunganKata": [
+    "sarang burung",
+    "sarang kosong",
+    "sarang laba-laba",
+    "sarang lebah",
+    "sarang macan",
+    "sarang madu",
+    "sarang meriam",
+    "sarang nanah",
+    "sarang penjahat",
+    "sarang penuh",
+    "sarang penyakit",
+    "sarang penyamun",
+    "sarang pipit",
+    "sarang semut",
+    "sarang tupai"
+  ],
+  "peribahasa": [
+    "masuk sarang harimau; menjolok sarang tabuhan; menjolok sarang tabuhan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.rang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang dibuat atau yang dipilih oleh binatang unggas, seperti burung, untuk bertelur dan memiara anaknya: pagi hari burung keluar dari --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang dibuat atau yang dipilih untuk beranak dan memiara anaknya (tentang tikus, tupai, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tempat kediaman atau tempat persembunyian (biasanya bagi segala sesuatu yang kurang baik): -- gerombolan pengacau"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "ilmu penahan atau penunda turunnya hujan"
+        }
+      ]
+    }
+  ]
+}

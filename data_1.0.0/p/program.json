@@ -1,0 +1,65 @@
+{
+  "istilah": "program",
+  "entri": "prog.ram",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berprogram",
+    "memprogram",
+    "memprogramkan",
+    "pemrogram",
+    "pemrograman",
+    "terprogram"
+  ],
+  "gabunganKata": [
+    "program akademik",
+    "program akselerasi",
+    "program antivirus",
+    "program audit",
+    "program berdesain pesanan",
+    "program bersama",
+    "program faks",
+    "program gerak",
+    "program gerak umum",
+    "program jahat",
+    "program keaksaraan fungsional",
+    "program kemitraan",
+    "program kendali",
+    "program komputer",
+    "program konseling",
+    "program kontrol",
+    "program lapis",
+    "program layanan",
+    "program membaca",
+    "program nonreguler",
+    "program paket A",
+    "program paket B",
+    "program paket C",
+    "program penanggalan",
+    "program Pengembangan Kecamatan",
+    "program penurunan berat badan",
+    "program reguler",
+    "program studi",
+    "program utilitas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "prog.ram",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rancangan mengenai asas serta usaha (dalam ketatanegaraan, perekonomian, dan sebagainya) yang akan dijalankan: beberapa partai menyetujui -- pemerintah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "urutan perintah yang diberikan pada komputer untuk membuat fungsi atau tugas tertentu"
+        }
+      ]
+    }
+  ]
+}

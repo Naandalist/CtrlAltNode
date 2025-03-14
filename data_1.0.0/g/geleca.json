@@ -1,0 +1,42 @@
+{
+  "istilah": "geleca",
+  "entri": "ge.le.ca1 /gêlêca/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.le.ca1 /gêlêca/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tilam yang tipis"
+        }
+      ]
+    },
+    {
+      "lema": "ge.le.ca2 /gêlêca/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rami"
+        }
+      ]
+    },
+    {
+      "lema": "ge.le.ca3 /gêlêca/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kue; penganan"
+        }
+      ]
+    }
+  ]
+}

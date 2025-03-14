@@ -1,0 +1,37 @@
+{
+  "istilah": "muhibah",
+  "entri": "mu.hi.bah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "wanita yang mencintai",
+    "kataAsal": "muḥibbah"
+  },
+  "data": [
+    {
+      "lema": "mu.hi.bah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cinta kasih; mahabah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perasaan persahabatan dan kasih: misi --"
+        }
+      ]
+    },
+    {
+      "lema": "mu.hi.bah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "harta yang tidak berwujud dari suatu perusahaan yang ditaksir sebagai nilai tambahan dari perusahaan itu, misalnya nama baik dan ketenaran perusahaan itu"
+        }
+      ]
+    }
+  ]
+}

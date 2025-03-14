@@ -1,0 +1,50 @@
+{
+  "istilah": "pin",
+  "entri": "pin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jarum penyemat; peniti; pasak"
+        }
+      ]
+    },
+    {
+      "lema": "pin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sasaran berbentuk gada kecil tegak yang harus dijatuhkan dalam permainan boling"
+        }
+      ]
+    },
+    {
+      "lema": "PIN",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Pusat Informasi Nasional"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "angka identifikasi pribadi (kata sandi numerik yang digunakan untuk autentikasi pengguna suatu sistem, misalnya ATM); dari personal identification number"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pekan imunisasi nasional (pekan pemberian imunisasi dengan vaksin polio untuk balita)"
+        }
+      ]
+    }
+  ]
+}

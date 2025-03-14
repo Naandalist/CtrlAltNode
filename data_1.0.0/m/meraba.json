@@ -1,0 +1,43 @@
+{
+  "istilah": "meraba",
+  "entri": "raba1 » me.ra.ba",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "telah meraba-raba tepi kain"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "raba1 » me.ra.ba",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyentuh (memegang, menjamah) dengan telapak tangan karena hendak merasai atau mencari sesuatu: orang buta itu ~ tongkatnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mencari sesuatu dalam saku; menggeledah: penjaga itu ~ saku orang yang dicurigainya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menduga; mengira-ngira: kami tidak dapat ~ isi hatinya"
+        }
+      ]
+    },
+    {
+      "lema": "raba2 » me.ra.ba",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "marah"
+        }
+      ]
+    }
+  ]
+}

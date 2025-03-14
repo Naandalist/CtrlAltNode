@@ -1,0 +1,32 @@
+{
+  "istilah": "ekspeditor",
+  "entri": "eks.pe.di.tor bentuk tidak baku: ekspeditur",
+  "bentukTidakBaku": "ekspeditur",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.pe.di.tor bentuk tidak baku: ekspeditur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "badan atau perusahaan yang bergerak dalam bidang pengangkutan atau pengiriman barang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang pekerjaannya menyelenggarakan pengangkutan barang-barang melalui darat, laut, atau udara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menjelajah (melakukan perjalanan) untuk keperluan penyelidikan ilmiah"
+        }
+      ]
+    }
+  ]
+}

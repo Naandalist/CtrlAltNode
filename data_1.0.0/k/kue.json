@@ -1,0 +1,66 @@
+{
+  "istilah": "kue",
+  "entri": "ku.e",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kue-kue"
+  ],
+  "gabunganKata": [
+    "kue abuk",
+    "kue ampo",
+    "kue ape",
+    "kue balok",
+    "kue bantal",
+    "kue basah",
+    "kue bawang",
+    "kue beras",
+    "kue bulan",
+    "kue busa",
+    "kue cangkir",
+    "kue cincin",
+    "kue cubit",
+    "kue dadar",
+    "kue delapan jam",
+    "kue jahe",
+    "kue kancing",
+    "kue keranjang",
+    "kue kering",
+    "kue koci",
+    "kue ku",
+    "kue lapis",
+    "kue lumpur",
+    "kue mangkok",
+    "kue mangkuk",
+    "kue ranjang",
+    "kue satu",
+    "kue sengkulun",
+    "kue sus",
+    "kue tar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Zhangzhou",
+    "arti": "kue",
+    "kataAsal": "kóe"
+  },
+  "data": [
+    {
+      "lema": "ku.e",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbg[Tata Boga: -]",
+          "deskripsi": "penganan yang dibuat dari bahan yang bermacam-macam, dapat dibuat dalam berbagai bentuk, ada yang dikukus, digoreng, dipanggang"
+        }
+      ]
+    },
+    {
+      "lema": "KUE",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kartu uang elektronik (kartu dengan cip yang berisi uang elektronik, biasa digunakan untuk transaksi dengan menempelkan kartu pada alat pembaca transaksi)"
+        }
+      ]
+    }
+  ]
+}

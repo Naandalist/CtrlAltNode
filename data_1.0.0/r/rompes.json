@@ -1,0 +1,35 @@
+{
+  "istilah": "rompes",
+  "entri": "rom.pes1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merompes"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rom.pes1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sumbing sedikit pada tepinya: telinganya --"
+        }
+      ]
+    },
+    {
+      "lema": "rom.pes2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "merompes"
+        }
+      ]
+    }
+  ]
+}

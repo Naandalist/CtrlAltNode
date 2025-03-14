@@ -1,0 +1,28 @@
+{
+  "istilah": "imsak",
+  "entri": "im.sak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "menahan diri dari segala hal yang membatalkan puasa mulai terbit fajar sadik sampai tenggelam matahari",
+    "kataAsal": "imsāk"
+  },
+  "data": [
+    {
+      "lema": "im.sak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "saat dimulainya tidak melakukan hal-hal yang membatalkan puasa, seperti makan dan minum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "berpantang dan menahan diri dari makan, minum, dan hal-hal yang membatalkan puasa mulai terbit fajar sadik sampai datang waktu berbuka"
+        }
+      ]
+    }
+  ]
+}

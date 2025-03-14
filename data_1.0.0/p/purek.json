@@ -1,0 +1,33 @@
+{
+  "istilah": "purek",
+  "entri": "pu.rek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.rek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "pembantu rektor; PR"
+        }
+      ]
+    },
+    {
+      "lema": "pu.rek",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sd[Sunda: -]",
+          "deskripsi": "terlalu pendek sehingga sulit diikat (tentang batang padi)"
+        }
+      ]
+    }
+  ]
+}

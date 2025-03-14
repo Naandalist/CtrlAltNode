@@ -1,0 +1,42 @@
+{
+  "istilah": "non",
+  "entri": "non1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "non1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "nona: makanan sudah siap, --!"
+        }
+      ]
+    },
+    {
+      "lema": "non2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "biarawati"
+        }
+      ]
+    },
+    {
+      "lema": "non3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kaum"
+        }
+      ]
+    }
+  ]
+}

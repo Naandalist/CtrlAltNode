@@ -1,0 +1,54 @@
+{
+  "istilah": "kilang",
+  "entri": "ki.lang1 bentuk tidak baku: kelang",
+  "bentukTidakBaku": "kelang",
+  "kataTurunan": [
+    "kilangan",
+    "mengilang",
+    "pengilang",
+    "pengilangan",
+    "perkilangan"
+  ],
+  "gabunganKata": [
+    "kilang angin",
+    "kilang getah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.lang1 bentuk tidak baku: kelang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "apitan yang berputar; penggilingan: -- getah apitan karet, kilang tempat membuat getah keping"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan (kelompok bangunan) tempat mengolah atau membuat barang-barang; pabrik: -- kopi; -- gula"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "instalasi industri tempat minyak bumi dimurnikan menjadi produk yang lebih berguna dan yang dapat diperdagangkan: -- minyak"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "giling (olah) dengan kilang: --lah tebu itu sesegera mungkin"
+        }
+      ]
+    },
+    {
+      "lema": "ki.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air tebu atau nira yang diasamkan sebelum menjadi tuak"
+        }
+      ]
+    }
+  ]
+}

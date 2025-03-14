@@ -1,0 +1,37 @@
+{
+  "istilah": "lentung",
+  "entri": "len.tung1 /lêntung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melentung",
+    "melentung",
+    "telentung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "len.tung1 /lêntung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi tongtong atau lonceng"
+        }
+      ]
+    },
+    {
+      "lema": "len.tung2 /lêntung/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "melentung"
+        }
+      ]
+    }
+  ]
+}

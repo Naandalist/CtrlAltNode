@@ -1,0 +1,32 @@
+{
+  "istilah": "mengipas",
+  "entri": "kipas » me.ngi.pas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kipas » me.ngi.pas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(pipih) menyerupai kipas (tentang bentuk)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "bergerak-gerak (tentang jantung); berkembang kempis"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "menggerak-gerakkan kipas"
+        }
+      ]
+    }
+  ]
+}

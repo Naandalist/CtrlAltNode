@@ -1,0 +1,36 @@
+{
+  "istilah": "cam",
+  "entri": "cam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengecamkan",
+    "pengecaman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cam1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memperhatikan; berminat: tidak -- tidak memperhatikan sehingga tidak mengerti; kurang -- kurang berminat"
+        }
+      ]
+    },
+    {
+      "lema": "cam2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kecam"
+        }
+      ]
+    }
+  ]
+}

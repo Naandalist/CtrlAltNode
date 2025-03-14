@@ -1,0 +1,39 @@
+{
+  "istilah": "khatam",
+  "entri": "kha.tam1",
+  "bentukTidakBaku": "katam",
+  "kataTurunan": [
+    "khataman",
+    "mengkhatamkan"
+  ],
+  "gabunganKata": [
+    "khatam Al-Qur'an",
+    "khatam kaji"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyelesaian",
+    "kataAsal": "khatm"
+  },
+  "data": [
+    {
+      "lema": "kha.tam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "cincin meterai; cincin stempel"
+        }
+      ]
+    },
+    {
+      "lema": "kha.tam2 bentuk tidak baku: katam",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tamat; selesai; habis: Alquran telah dibacanya sampai --"
+        }
+      ]
+    }
+  ]
+}

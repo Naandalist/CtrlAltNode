@@ -1,0 +1,36 @@
+{
+  "istilah": "korespondensi",
+  "entri": "ko.res.pon.den.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkorespondensi"
+  ],
+  "gabunganKata": [
+    "korespondensi satu-satu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.res.pon.den.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal surat-menyurat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "perihal hubungan antara bunyi yang satu dan yang lain dalam sajak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "hubungan antara bentuk dan isi"
+        }
+      ]
+    }
+  ]
+}

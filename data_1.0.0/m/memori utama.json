@@ -1,0 +1,24 @@
+{
+  "istilah": "memori utama",
+  "entri": "memori » memori utama",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "memori » memori utama",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "memori yang terhubung dekat dengan prosesor komputer tempat instruksi program dan data dapat diambil dengan sangat cepat dan disalin langsung ke register prosesor dan tempat data yang dihasilkan disimpan sebelum dipindahkan ke peranti keluaran"
+        }
+      ]
+    }
+  ]
+}

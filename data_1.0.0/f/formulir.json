@@ -1,0 +1,32 @@
+{
+  "istilah": "formulir",
+  "entri": "for.mu.lir bentuk tidak baku: form",
+  "bentukTidakBaku": "form",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "formulir lamaran",
+    "formulir reservasi",
+    "formulir saran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "for.mu.lir bentuk tidak baku: form",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembar isian; surat isian: -- yang telah diisi harus diserahkan kepada bagian pendaftaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "halaman web yang memungkinkan pengguna untuk memasukkan data, yang kemudian dapat dikirim kembali ke server web tersebut"
+        }
+      ]
+    }
+  ]
+}

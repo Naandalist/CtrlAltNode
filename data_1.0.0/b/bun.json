@@ -1,0 +1,33 @@
+{
+  "istilah": "bun",
+  "entri": "bun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "peti kecil (dari tembaga dan sebagainya) untuk tempat sirih, tembakau, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "bun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "bunda"
+        }
+      ]
+    }
+  ]
+}

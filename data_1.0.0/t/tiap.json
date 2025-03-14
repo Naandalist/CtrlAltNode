@@ -1,0 +1,59 @@
+{
+  "istilah": "tiap",
+  "entri": "ti.ap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "setiap",
+    "tiap-tiap",
+    "meniapkan"
+  ],
+  "gabunganKata": [
+    "tiap orang",
+    "tiap sesuatu"
+  ],
+  "peribahasa": [
+    "utang selilit (sebelit) pinggang (utang tiap helai bulu)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "dosis obat; uang kunci",
+    "kataAsal": "thiap"
+  },
+  "data": [
+    {
+      "lema": "ti.ap1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "satu ...: -- anak menerima lima ribu rupiah; -- rumah dihuni oleh satu keluarga inti dengan dua orang anak asuh"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "saban: -- menit; -- tahun; -- waktu sewaktu-waktu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekali makan atau minum (tentang obat); dosis"
+        }
+      ]
+    },
+    {
+      "lema": "ti.ap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang kunci (untuk menyewa rumah)"
+        }
+      ]
+    },
+    {
+      "lema": "ti.ap3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang untuk menyewa rumah; uang kunci"
+        }
+      ]
+    }
+  ]
+}

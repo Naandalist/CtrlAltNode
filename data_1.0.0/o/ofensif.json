@@ -1,0 +1,32 @@
+{
+  "istilah": "ofensif",
+  "entri": "o.fen.sif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.fen.sif",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serangan: negara itu sedang dalam keadaan siaga menghadapi -- militer dari negara lawannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersikap menyerang: pelatih sepak bola itu menginstruksikan para pemainnya untuk tampil -- agar dapat memenangkan pertandingan itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat menyinggung perasaan orang lian (biasanya melalui kata-kata)"
+        }
+      ]
+    }
+  ]
+}

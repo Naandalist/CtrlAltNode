@@ -1,0 +1,65 @@
+{
+  "istilah": "tim",
+  "entri": "tim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengetim",
+    "pengetim",
+    "pengetiman"
+  ],
+  "gabunganKata": [
+    "tim bertahan",
+    "tim gegana",
+    "tim impian",
+    "tim kerja",
+    "tim nasional",
+    "tim pemenang",
+    "tim penembak hukuman",
+    "tim penyerang",
+    "tim tamu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "mengetim",
+    "kataAsal": "tīm"
+  },
+  "data": [
+    {
+      "lema": "tim1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok; regu: -- peneliti pengawetan bambu telah tiba di desa itu"
+        }
+      ]
+    },
+    {
+      "lema": "tim2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengetim"
+        }
+      ]
+    },
+    {
+      "lema": "tim3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tin1"
+        }
+      ]
+    },
+    {
+      "lema": "TIM",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Taman Ismail Marzuki"
+        }
+      ]
+    }
+  ]
+}

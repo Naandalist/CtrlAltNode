@@ -1,0 +1,30 @@
+{
+  "istilah": "global",
+  "entri": "glo.bal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengglobal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "glo.bal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "secara umum dan keseluruhan; secara bulat; secara garis besar: memberikan penjelasan secara -- saja"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersangkut paut, mengenai, meliputi seluruh dunia"
+        }
+      ]
+    }
+  ]
+}

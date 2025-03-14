@@ -1,0 +1,33 @@
+{
+  "istilah": "hail",
+  "entri": "ha.il1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penghalang",
+    "kataAsal": "ḥā’il"
+  },
+  "data": [
+    {
+      "lema": "ha.il1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "istri yang sedang dalam keadaan tidak hamil"
+        }
+      ]
+    },
+    {
+      "lema": "ha.il2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penghalang; tabir"
+        }
+      ]
+    }
+  ]
+}

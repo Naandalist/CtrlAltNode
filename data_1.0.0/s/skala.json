@@ -1,0 +1,58 @@
+{
+  "istilah": "skala",
+  "entri": "ska.la bentuk tidak baku: sekala2",
+  "bentukTidakBaku": "sekala2",
+  "kataTurunan": [
+    "berskala",
+    "penskalaan"
+  ],
+  "gabunganKata": [
+    "skala angin Beaufort",
+    "skala angin geostrofik",
+    "skala gaya angin",
+    "skala kategori",
+    "skala kecil",
+    "skala langit biru Linke",
+    "skala log",
+    "skala Mohs",
+    "skala ordinat",
+    "skala perilaku adaptif",
+    "skala peringkat numerik",
+    "skala peta",
+    "skala pirheliometer",
+    "skala pirheliometer internasional",
+    "skala premi",
+    "skala rasio kategori",
+    "skala Richter",
+    "skala ruang",
+    "skala suhu Celcius",
+    "skala suhu Fahrenheit",
+    "skala waktu geologi",
+    "skala warna"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ska.la bentuk tidak baku: sekala2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis atau titik tanda yang berderet-deret dan sebagainya yang sama jarak antaranya, dipakai untuk mengukur, seperti pada termometer, gelas pengukur barang cair"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lajur yang dipakai untuk menentukan tingkatan atau banyaknya sesuatu (seperti pada peraturan gaji dan pada daftar bunga uang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbandingan ukuran besarnya gambar dan sebagainya dengan keadaan yang sebenarnya"
+        }
+      ]
+    }
+  ]
+}

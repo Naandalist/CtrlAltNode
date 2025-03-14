@@ -1,0 +1,37 @@
+{
+  "istilah": "halal",
+  "entri": "ha.lal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kehalalan",
+    "menghalalkan",
+    "penghalal",
+    "penghalalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "boleh",
+    "kataAsal": "ḥalāl"
+  },
+  "data": [
+    {
+      "lema": "ha.lal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "diizinkan (tidak dilarang oleh syarak): makanan ini --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(yang diperoleh atau diperbuat dengan) sah: uang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "izin; ampun: menyembah minta -- akan segala pengajarannya"
+        }
+      ]
+    }
+  ]
+}

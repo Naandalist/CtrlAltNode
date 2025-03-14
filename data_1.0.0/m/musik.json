@@ -1,0 +1,53 @@
+{
+  "istilah": "musik",
+  "entri": "mu.sik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermusik",
+    "memusiki",
+    "memusikkan",
+    "musikan",
+    "pemusik",
+    "permusikan"
+  ],
+  "gabunganKata": [
+    "musik absolut",
+    "musik berahi",
+    "musik cadas",
+    "musik hidup",
+    "musik ilustrasi",
+    "musik insidental",
+    "musik jaz",
+    "musik kaset",
+    "musik keras",
+    "musik klasik",
+    "musik kolaborasi",
+    "musik komedi",
+    "musik penutup",
+    "musik pop",
+    "musik rakyat",
+    "musik rok",
+    "musik selingan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mu.sik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu atau seni menyusun nada atau suara dalam urutan, kombinasi, dan hubungan temporal untuk menghasilkan komposisi (suara) yang mempunyai kesatuan dan kesinambungan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nada atau suara yang disusun demikian rupa sehingga mengandung irama, lagu, dan keharmonisan (terutama yang menggunakan alat-alat yang dapat menghasilkan bunyi-bunyi itu)"
+        }
+      ]
+    }
+  ]
+}

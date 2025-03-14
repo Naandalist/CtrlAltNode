@@ -1,0 +1,35 @@
+{
+  "istilah": "dan",
+  "entri": "dan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ada adat dan lembaganya, ada undang dan laksananya; sendok dan periuk lagi berantuk (sendok dengan belanga lagi berlaga)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dan1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata penghubung satuan bahasa (kata, frasa, klausa, dan kalimat) yang setara, termasuk tipe yang sama serta memiliki fungsi yang tidak berbeda: ayah -- ibu, bibi -- paman, serta para anak, cucu, -- kemenakan bersama-sama merayakan 50 tahun perkawinan nenek mereka"
+        }
+      ]
+    },
+    {
+      "lema": "dan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "kelas atau tingkatan (I, II, III, IV, dan sebagainya) untuk judo, karate, kempo"
+        }
+      ]
+    }
+  ]
+}

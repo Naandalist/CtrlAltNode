@@ -1,0 +1,33 @@
+{
+  "istilah": "pons",
+  "entri": "pons1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pons1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peranti untuk melubangi pelat (dari tembaga dan sebagainya), kartu, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "pons2 /pons/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "bagian dari batang otak yang menghubungkan otak bagian atas dan bagian bawah, berperan penting dalam proses tidur dan bermimpi"
+        }
+      ]
+    }
+  ]
+}

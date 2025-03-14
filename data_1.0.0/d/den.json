@@ -1,0 +1,42 @@
+{
+  "istilah": "den",
+  "entri": "den1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "orang yang berstatus tinggi, raja/ permaisuri, tuan, orang berpangkat atau tinggi martabatnya",
+    "kataAsal": "den"
+  },
+  "data": [
+    {
+      "lema": "den1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -] kp[kependekan]",
+          "deskripsi": "raden (kata sapaan kepada seorang pemuda yang dianggap lebih muda derajatnya)"
+        }
+      ]
+    },
+    {
+      "lema": "den2",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] Mk[Minangkabau: -]",
+          "deskripsi": "saya"
+        }
+      ]
+    },
+    {
+      "lema": "Den3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "Detasemen"
+        }
+      ]
+    }
+  ]
+}

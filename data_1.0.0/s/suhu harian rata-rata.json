@@ -1,0 +1,24 @@
+{
+  "istilah": "suhu harian rata-rata",
+  "entri": "suhu1 » suhu harian rata-rata",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "suhu1 » suhu harian rata-rata",
+      "arti": [
+        {
+          "kelas_kata": "Met[Meteorologi: -]",
+          "deskripsi": "rata-rata suhu yang diamati selama 24 jam terus-menerus"
+        }
+      ]
+    }
+  ]
+}

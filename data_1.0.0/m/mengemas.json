@@ -1,0 +1,41 @@
+{
+  "istilah": "mengemas",
+  "entri": "emas1 » meng.e.mas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "emas1 » meng.e.mas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerupai emas (tentang warna): langit di ufuk timur mulai ~"
+        }
+      ]
+    },
+    {
+      "lema": "kemas » me.nge.mas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengatur rapi-rapi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membungkus-bungkus supaya ringkas"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberes-bereskan (tempat tidur, meja makan, dan sebagainya): ia cepat-cepat ~ barang dagangannya karena hari akan hujan"
+        }
+      ]
+    }
+  ]
+}

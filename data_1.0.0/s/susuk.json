@@ -1,0 +1,90 @@
+{
+  "istilah": "susuk",
+  "entri": "su.suk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersusuk",
+    "menyusuk",
+    "menyusuk",
+    "bersusuk-susuk",
+    "bersusuk-susukan",
+    "susukan"
+  ],
+  "gabunganKata": [
+    "susuk baju",
+    "susuk keluarga berencana",
+    "susuk kundai",
+    "susuk licin",
+    "susuk sanggul"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "susuk"
+  },
+  "data": [
+    {
+      "lema": "su.suk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyemat (dari kayu dan sebagainya); tusuk; pasak; susuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jarum emas, intan, dan sebagainya yang dimasukkan ke dalam kulit, bibir, dahi, dan sebagainya disertai mantra agar tampak menjadi cantik, menarik, manis, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "implan"
+        }
+      ]
+    },
+    {
+      "lema": "su.suk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk; bangun: -- tubuh"
+        }
+      ]
+    },
+    {
+      "lema": "su.suk3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyusuk"
+        }
+      ]
+    },
+    {
+      "lema": "su.suk4",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sesak; asak"
+        }
+      ]
+    },
+    {
+      "lema": "su.suk5",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "susukan"
+        }
+      ]
+    },
+    {
+      "lema": "su.suk6",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "uang kelebihan pembayaran; sisa uang pembayaran yang harus dikembalikan kepada pembeli; uang penyongsong; uang kembalian"
+        }
+      ]
+    }
+  ]
+}

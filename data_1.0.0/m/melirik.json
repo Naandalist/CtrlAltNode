@@ -1,0 +1,37 @@
+{
+  "istilah": "melirik",
+  "entri": "lirik1 » me.li.rik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lirik1 » me.li.rik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjara (membuat lubang); menggerek: ~ bambu untuk dibuat suling"
+        }
+      ]
+    },
+    {
+      "lema": "lirik2 » me.li.rik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melihat dengan tajam ke samping (kiri atau kanan): pemuda itu ~ gadis yang berdiri di sebelahnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mengincar: pengusaha garmen Indonesia ~ pasar Asia"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "yoga",
+  "entri": "yo.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beryoga"
+  ],
+  "gabunganKata": [
+    "yoga bikram",
+    "yoga pranatal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "koneksi, tambahan, keuntungan, pencapaian, pengobatan atau perawatan, cara atau metode, konsentrasi, meditasi",
+    "kataAsal": "yoga"
+  },
+  "data": [
+    {
+      "lema": "yo.ga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem filsafat Hindu yang bertujuan memusatkan pikiran, merenung, dan menguasai diri; meditasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "senam gerak badan dengan latihan pernapasan, pikiran, dan sebagainya untuk kesehatan rohani dan jasmani"
+        }
+      ]
+    }
+  ]
+}

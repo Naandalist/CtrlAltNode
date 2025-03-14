@@ -1,0 +1,30 @@
+{
+  "istilah": "disposisi",
+  "entri": "dis.po.si.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendisposisikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dis.po.si.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Adm[Administrasi dan Kepegawaian: -]",
+          "deskripsi": "pendapat seorang pejabat mengenai urusan yang termuat dalam suatu surat dinas, yang langsung dituliskan pada surat yang bersangkutan atau pada lembar khusus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "kecenderungan untuk mendapatkan suatu penyakit, kelainan temperamen atau kelainan watak"
+        }
+      ]
+    }
+  ]
+}

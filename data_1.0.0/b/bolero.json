@@ -1,0 +1,37 @@
+{
+  "istilah": "bolero",
+  "entri": "bo.le.ro1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.le.ro1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tarian khas Spanyol"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "irama musik pengiring tarian bolero"
+        }
+      ]
+    },
+    {
+      "lema": "bo.le.ro2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jaket pendek untuk wanita"
+        }
+      ]
+    }
+  ]
+}

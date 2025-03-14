@@ -1,0 +1,55 @@
+{
+  "istilah": "mak",
+  "entri": "mak1 bentuk tidak baku: emak, ma",
+  "bentukTidakBaku": "emak, ma",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mak andam",
+    "mak angkat",
+    "mak bungsu",
+    "mak cik",
+    "mak inang",
+    "mak kandung",
+    "mak kecil",
+    "mak kopek",
+    "mak lung",
+    "mak muda",
+    "mak ngah",
+    "mak saudara",
+    "mak su",
+    "mak tiri",
+    "mak tua",
+    "mak ua",
+    "mak uda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mak1 bentuk tidak baku: emak, ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang tua perempuan; ibu: sambil menangis anak kecil itu memanggil-manggil --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada perempuan yang patut disebut ibu atau dianggap sepadan dengan ibu"
+        }
+      ]
+    },
+    {
+      "lema": "mak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "mamak"
+        }
+      ]
+    }
+  ]
+}

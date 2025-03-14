@@ -1,0 +1,61 @@
+{
+  "istilah": "cacar",
+  "entri": "ca.car1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercacar",
+    "mencacar",
+    "pencacar",
+    "pencacaran",
+    "bercacar",
+    "mencacar"
+  ],
+  "gabunganKata": [
+    "cacar air",
+    "cacar api",
+    "cacar betul",
+    "cacar jeluntung",
+    "cacar monyet",
+    "cacar nanah",
+    "cacar pohon",
+    "cacar sapi",
+    "cacar ular",
+    "cacar unggas",
+    "cacar unggas air"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.car1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "penyakit kulit yang disebabkan oleh virus; ketumbuhan〔variola〕"
+        }
+      ]
+    },
+    {
+      "lema": "ca.car2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lincah (tentang gerakan); cacau"
+        }
+      ]
+    },
+    {
+      "lema": "ca.car3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "membabat rumput dan memangkas pohon di lahan"
+        }
+      ]
+    }
+  ]
+}

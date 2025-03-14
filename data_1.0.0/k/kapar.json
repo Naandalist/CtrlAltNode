@@ -1,0 +1,50 @@
+{
+  "istilah": "kapar",
+  "entri": "ka.par1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkapar",
+    "berkaparan",
+    "kaparan",
+    "mengaparkan",
+    "terkapar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "adat gunung tempatan kabut, adat teluk timbunan kapal (kapar)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.par1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu atau sampah dan sebagainya yang hanyut di sungai dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.par2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "belakang pedang atau parang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.par3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ketoprak3"
+        }
+      ]
+    }
+  ]
+}

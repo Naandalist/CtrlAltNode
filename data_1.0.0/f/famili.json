@@ -1,0 +1,32 @@
+{
+  "istilah": "famili",
+  "entri": "fa.mi.li bentuk tidak baku: familia",
+  "bentukTidakBaku": "familia",
+  "kataTurunan": [
+    "berfamili",
+    "kefamilian",
+    "sefamili"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fa.mi.li bentuk tidak baku: familia",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kaum keluarga; kerabat; sanak saudara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pengelompokan makhluk hidup yang mempunyai sifat atau ciri-ciri yang sama"
+        }
+      ]
+    }
+  ]
+}

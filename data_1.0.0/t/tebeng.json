@@ -1,0 +1,50 @@
+{
+  "istilah": "tebeng",
+  "entri": "te.beng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menebeng",
+    "menebengkan",
+    "menebeng",
+    "menebengi",
+    "penebeng",
+    "tebengan",
+    "bertebeng"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.beng1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendinding (dari kajang, layar, tikar, dan sebagainya) untuk menolak panas matahari: -- jendela; -- pintu"
+        }
+      ]
+    },
+    {
+      "lema": "te.beng2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menebeng"
+        }
+      ]
+    },
+    {
+      "lema": "te.beng3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertebeng"
+        }
+      ]
+    }
+  ]
+}

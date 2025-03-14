@@ -1,0 +1,41 @@
+{
+  "istilah": "milang-miling",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jw[Jawa: -]",
+          "deskripsi": "melihat-lihat ke kiri dan ke kanan untuk mencari sesuatu"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Jw[Jawa: -] ki[kiasan]",
+          "deskripsi": "menimbang-nimbang baik buruknya; memilih-milih"
+        }
+      ]
+    },
+    {
+      "lema": "milang-miling",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jawa: -]",
+          "deskripsi": "melihat-lihat ke kiri dan ke kanan untuk mencari sesuatu"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Jawa: -] [kiasan]",
+          "deskripsi": "menimbang-nimbang baik buruknya; memilih-milih"
+        }
+      ]
+    }
+  ]
+}

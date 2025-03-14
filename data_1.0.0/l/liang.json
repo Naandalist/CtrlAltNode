@@ -1,0 +1,63 @@
+{
+  "istilah": "liang",
+  "entri": "li.ang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meliang",
+    "berliang-liuk",
+    "liang-liuk",
+    "liang-liut"
+  ],
+  "gabunganKata": [
+    "liang hidung",
+    "liang jarum",
+    "liang jimak",
+    "liang kembara",
+    "liang kubur",
+    "liang kumbang",
+    "liang lahad",
+    "liang mata",
+    "liang rayap",
+    "liang renik",
+    "liang roma",
+    "liang sanggama",
+    "liang semut"
+  ],
+  "peribahasa": [
+    "cekarau besar liang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.ang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang kecil"
+        }
+      ]
+    },
+    {
+      "lema": "li.ang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berliang-liuk; liang-liuk; liang-liut"
+        }
+      ]
+    },
+    {
+      "lema": "li.ang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran berat sama dengan 37,5 g"
+        }
+      ]
+    }
+  ]
+}

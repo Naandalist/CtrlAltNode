@@ -1,0 +1,32 @@
+{
+  "istilah": "kosmetik",
+  "entri": "kos.me.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kosmetik hijau",
+    "kosmetik natural",
+    "kosmetik wanita"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kos.me.tik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan kecantikan (tentang corak kulit)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat (bahan) untuk mempercantik wajah, kulit, rambut, dan sebagainya (seperti bedak, pemerah bibir)"
+        }
+      ]
+    }
+  ]
+}

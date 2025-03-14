@@ -1,0 +1,36 @@
+{
+  "istilah": "menyeret",
+  "entri": "seret1 » me.nye.ret",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "seret1 » me.nye.ret",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghela, menarik maju (barang yang dihela bergeser di tanah atau di air); menarik: ~ bambu; ~ bangkai buaya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "memaksa ikut (turut); menarik dengan paksa; membawa (orang) dengan paksa: pemuda kampung itu berhasil ~ pencopet yang tertangkap basah itu ke kantor polisi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menghadapkan ke pengadilan: polisi berusaha ~ para pengedar narkoba ke meja hijau"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -] ki[kiasan]",
+          "deskripsi": "memindahkan ikon atau item yang sudah dipilih di layar komputer dengan mengkliknya menggunakan tetikus dan menariknya ke tempat yang baru"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "fisik",
+  "entri": "fi.sik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berfisik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.sik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jasmani; badan: seorang karateka harus terlatih, baik -- maupun mentalnya; --nya sangat lelah, tetapi semangatnya tetap membara"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jasmaniah; badaniah"
+        }
+      ]
+    }
+  ]
+}

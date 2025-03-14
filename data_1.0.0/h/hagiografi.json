@@ -1,0 +1,32 @@
+{
+  "istilah": "hagiografi",
+  "entri": "ha.gi.o.gra.fi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.gi.o.gra.fi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku atau tulisan yang memuat riwayat hidup dan legenda orang-orang suci"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "riwayat hidup orang-orang suci"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "biografi yang menampilkan kehidupan si tokoh lebih baik daripada yang sesungguhnya atau terlalu memuji-muji"
+        }
+      ]
+    }
+  ]
+}

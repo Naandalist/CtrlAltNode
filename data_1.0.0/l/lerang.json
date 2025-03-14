@@ -1,0 +1,44 @@
+{
+  "istilah": "lerang",
+  "entri": "le.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lerang-lerang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.rang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalur tepi (pada kain batik atau tenun); setrip; pias"
+        }
+      ]
+    },
+    {
+      "lema": "le.rang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lerang-lerang"
+        }
+      ]
+    },
+    {
+      "lema": "le.rang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "setengah hari pelayaran"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "matan",
+  "entri": "ma.tan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bersua baji dengan matan (tahan baji oleh kelidai)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bukit; teks hadis",
+    "kataAsal": "matn"
+  },
+  "data": [
+    {
+      "lema": "ma.tan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "mata kayu; teras (inti) kayu"
+        }
+      ]
+    },
+    {
+      "lema": "ma.tan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arti (maksud) kalimat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "materi atau teks hadis, berupa ucapan, perbuatan dan takrir yang terletak setelah sanad terakhir"
+        }
+      ]
+    }
+  ]
+}

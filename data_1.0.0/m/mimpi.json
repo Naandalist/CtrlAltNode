@@ -1,0 +1,38 @@
+{
+  "istilah": "mimpi",
+  "entri": "mim.pi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermimpi",
+    "memimpikan",
+    "mimpian",
+    "pemimpi",
+    "termimpi-mimpi"
+  ],
+  "gabunganKata": [
+    "mimpi basah"
+  ],
+  "peribahasa": [
+    "berkelahi dalam mimpi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mim.pi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang terlihat atau dialami dalam tidur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "angan-angan"
+        }
+      ]
+    }
+  ]
+}

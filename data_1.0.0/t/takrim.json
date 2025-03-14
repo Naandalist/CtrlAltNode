@@ -1,0 +1,28 @@
+{
+  "istilah": "takrim",
+  "entri": "tak.rim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemuliaan; penghormatan",
+    "kataAsal": "takrīm"
+  },
+  "data": [
+    {
+      "lema": "tak.rim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penghormatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penghargaan"
+        }
+      ]
+    }
+  ]
+}

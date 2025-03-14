@@ -1,0 +1,32 @@
+{
+  "istilah": "membuta",
+  "entri": "buta1 » mem.bu.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buta1 » mem.bu.ta",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlaku sebagai orang buta; berpura-pura buta"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "berbuat sesuka hati (tidak peduli, apa-apa, main serampangan saja)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan] ki[kiasan]",
+          "deskripsi": "tidur nyenyak"
+        }
+      ]
+    }
+  ]
+}

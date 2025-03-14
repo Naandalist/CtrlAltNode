@@ -1,0 +1,33 @@
+{
+  "istilah": "memasak",
+  "entri": "masak1 » me.ma.sak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "masak1 » me.ma.sak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuat (mengolah) penganan, makanan, gulai, dan sebagainya: ~ gulai diperlukan santan"
+        }
+      ]
+    },
+    {
+      "lema": "pasak » me.ma.sak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasang pasak; memaku dengan pasak: ~ tiang"
+        }
+      ]
+    }
+  ]
+}

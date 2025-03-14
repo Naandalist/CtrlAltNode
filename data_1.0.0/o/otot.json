@@ -1,0 +1,48 @@
+{
+  "istilah": "otot",
+  "entri": "o.tot",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berotot",
+    "mengotot",
+    "perototan"
+  ],
+  "gabunganKata": [
+    "otot abdominal",
+    "otot alari",
+    "otot bipenat",
+    "otot gelendong",
+    "otot lurik",
+    "otot multipenat",
+    "otot pembengkok",
+    "otot penat",
+    "otot penegak bulu",
+    "otot pengetul",
+    "otot pronator teres",
+    "otot rangka",
+    "otot riolin",
+    "otot spindel",
+    "otot trisep braki"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "otot, urat",
+    "kataAsal": "otot"
+  },
+  "data": [
+    {
+      "lema": "o.tot",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jaringan kenyal dalam tubuh manusia dan hewan yang berfungsi menggerakkan organ tubuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "urat yang keras"
+        }
+      ]
+    }
+  ]
+}

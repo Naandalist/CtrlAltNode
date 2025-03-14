@@ -1,0 +1,33 @@
+{
+  "istilah": "keder",
+  "entri": "ke.der /kedêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.der /kedêr/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "takut; gentar; gemetar: saya tidak --, katanya, lalu dia melompat ke atas perahu dengan cekatan untuk mengikuti perlombaan itu"
+        }
+      ]
+    },
+    {
+      "lema": "ke.der /kêder/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "lendir yang ada pada penganan (misalnya lepat) sebagai penanda penganan tersebut basi"
+        }
+      ]
+    }
+  ]
+}

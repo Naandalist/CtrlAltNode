@@ -1,0 +1,33 @@
+{
+  "istilah": "uruk",
+  "entri": "u.ruk bentuk tidak baku: urug",
+  "bentukTidakBaku": "urug",
+  "kataTurunan": [
+    "menguruk",
+    "mengurukkan",
+    "pengurukan",
+    "urukan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.ruk bentuk tidak baku: urug",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "timbun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tanah untuk menimbun"
+        }
+      ]
+    }
+  ]
+}

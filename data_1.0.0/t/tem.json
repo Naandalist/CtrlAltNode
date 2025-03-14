@@ -1,0 +1,35 @@
+{
+  "istilah": "tem",
+  "entri": "tem1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengetem"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tempo; waktu"
+        }
+      ]
+    },
+    {
+      "lema": "tem2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dn[Dani: Bahasa di Papua]",
+          "deskripsi": "acara tukar gelang"
+        }
+      ]
+    }
+  ]
+}

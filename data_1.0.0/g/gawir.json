@@ -1,0 +1,33 @@
+{
+  "istilah": "gawir",
+  "entri": "ga.wir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.wir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dinding terjal (kerap kali disebabkan oleh pergeseran)"
+        }
+      ]
+    },
+    {
+      "lema": "Ga.wir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Marind"
+        }
+      ]
+    }
+  ]
+}

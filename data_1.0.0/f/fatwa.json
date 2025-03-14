@@ -1,0 +1,31 @@
+{
+  "istilah": "fatwa",
+  "entri": "fat.wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berfatwa",
+    "memfatwakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jawaban hukum",
+    "kataAsal": "fatwā"
+  },
+  "data": [
+    {
+      "lema": "fat.wa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jawab (keputusan, pendapat) yang diberikan oleh mufti tentang suatu masalah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "nasihat orang alim; pelajaran baik; petuah"
+        }
+      ]
+    }
+  ]
+}

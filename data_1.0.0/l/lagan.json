@@ -1,0 +1,37 @@
+{
+  "istilah": "lagan",
+  "entri": "la.gan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.gan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keladan"
+        }
+      ]
+    },
+    {
+      "lema": "la.gan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "perkakas makan di kapal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "barang yang hilang dari kapal, tenggelam ke dasar laut"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "kamali",
+  "entri": "ka.ma.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hal yang berkaitan dengan kesempurnaan",
+    "kataAsal": "kamālī"
+  },
+  "data": [
+    {
+      "lema": "ka.ma.li1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "berkaitan dengan kesempurnaan"
+        }
+      ]
+    },
+    {
+      "lema": "ka.ma.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mu[Muna: -]",
+          "deskripsi": "bentuk bangunan istana tempat tinggal raja"
+        }
+      ]
+    }
+  ]
+}

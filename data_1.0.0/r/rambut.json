@@ -1,0 +1,41 @@
+{
+  "istilah": "rambut",
+  "entri": "ram.but",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berambut",
+    "merambut",
+    "perambut",
+    "serambut"
+  ],
+  "gabunganKata": [
+    "rambut akar",
+    "rambut getar",
+    "rambut nenek",
+    "rambut palsu",
+    "rambut tampal"
+  ],
+  "peribahasa": [
+    "bagai ayam termakan rambut; bagai menghela rambut dalam tepung; bagai rambut dibelah tujuh (seribu); bergantung pada rambut sehelai; jiwa bergantung di ujung rambut; rambut sama hitam, hati masing-masing; rambut sama hitam, hati masing-masing; sakit kepala panjang rambut; sakit kepala panjang rambut, patah selera banyak makan; termakan di rambut"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ram.but",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bulu yang tumbuh pada kulit manusia (terutama di kepala)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "apa saja yang panjang dan halus menyerupai rambut (seperti akar --; kawat --; per --)"
+        }
+      ]
+    }
+  ]
+}

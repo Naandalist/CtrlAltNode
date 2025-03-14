@@ -1,0 +1,42 @@
+{
+  "istilah": "remah",
+  "entri": "re.mah bentuk tidak baku: rimah",
+  "bentukTidakBaku": "rimahrimah",
+  "kataTurunan": [
+    "meremah-remah",
+    "meremahkan",
+    "keremahan",
+    "remah-remah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sobekan kecil-kecil",
+    "kataAsal": "rimah"
+  },
+  "data": [
+    {
+      "lema": "re.mah bentuk tidak baku: rimah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bersifat mudah pecah"
+        }
+      ]
+    },
+    {
+      "lema": "re.mah /rêmah/bentuk tidak baku: rimah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "repih-repih (roti); sisa-sisa makanan dan sebagainya yang ketinggalan di tempat makan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "konsistensi tanah yang bersifat mudah pecah"
+        }
+      ]
+    }
+  ]
+}

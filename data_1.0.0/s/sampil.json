@@ -1,0 +1,33 @@
+{
+  "istilah": "sampil",
+  "entri": "sam.pil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.pil1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit pada pangkal pelepah pinang (rumbia dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "sam.pil2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "paha sapi (kerbau, kambing) sesudah disembelih"
+        }
+      ]
+    }
+  ]
+}

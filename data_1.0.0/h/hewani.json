@@ -1,0 +1,28 @@
+{
+  "istilah": "hewani",
+  "entri": "he.wani",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang berkaitan dengan makhluk hidup; yang berkaitan dengan kehidupan",
+    "kataAsal": "ḥayawānī"
+  },
+  "data": [
+    {
+      "lema": "he.wani",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat hewan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terdiri atas atau dibuat dari hewan atau bagian tubuh hewan (daging, susu, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

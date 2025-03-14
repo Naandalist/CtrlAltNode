@@ -1,0 +1,36 @@
+{
+  "istilah": "empang",
+  "entri": "em.pang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "empangan",
+    "mengempang",
+    "pengempang",
+    "pengempangan",
+    "terempang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "empang sampai ke seberang, dinding sampai ke langit"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.pang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pematang penahan air; bendungan; tebat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kolam tempat memelihara ikan; tambak"
+        }
+      ]
+    }
+  ]
+}

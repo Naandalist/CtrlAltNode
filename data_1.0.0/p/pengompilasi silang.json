@@ -1,0 +1,24 @@
+{
+  "istilah": "pengompilasi silang",
+  "entri": "kompilasi » pengompilasi » pengompilasi silang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kompilasi » pengompilasi » pengompilasi silang",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "pengompilasi yang dieksekusi pada suatu platform perangkat keras, tetapi menghasilkan kode objek untuk perangkat keras lainnya"
+        }
+      ]
+    }
+  ]
+}

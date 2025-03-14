@@ -1,0 +1,38 @@
+{
+  "istilah": "takdir",
+  "entri": "tak.dir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertakdir",
+    "menakdirkan",
+    "mentakdirkan"
+  ],
+  "gabunganKata": [
+    "takdir Ilahi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ketentuan",
+    "kataAsal": "taqdīr"
+  },
+  "data": [
+    {
+      "lema": "tak.dir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketetapan Tuhan; ketentuan Tuhan; nasib: dengan --, akhirnya kutemukan anak yang hilang itu"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "jika; seandainya: --nya terjadi apa-apa dengan diri abang kepada siapa kami akan beruntung"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kalau ... pun: -- pun harus menghadapi risiko yang berbahaya, akan diteruskan juga niatnya"
+        }
+      ]
+    }
+  ]
+}

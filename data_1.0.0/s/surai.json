@@ -1,0 +1,41 @@
+{
+  "istilah": "surai",
+  "entri": "su.rai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersurai",
+    "bersurai",
+    "menyurai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.rai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] hor[Hormat: menandai kata yang digunakan dalam ragam resmi]",
+          "deskripsi": "rambut (kepala)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rambut pada tengkuk kuda atau singa"
+        }
+      ]
+    },
+    {
+      "lema": "su.rai2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyurai"
+        }
+      ]
+    }
+  ]
+}

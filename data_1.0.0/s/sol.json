@@ -1,0 +1,39 @@
+{
+  "istilah": "sol",
+  "entri": "sol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersol",
+    "mengesol",
+    "mengesolkan",
+    "pengesol",
+    "pengesolan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "telapak (alas) sepatu (sandal dan sebagainya): kerikil di halaman terasa panas menembus -- sepatu"
+        }
+      ]
+    },
+    {
+      "lema": "sol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "nada ke-5 pada urutan tangga nada diatonik, dilambangkan dengan angka 5"
+        }
+      ]
+    }
+  ]
+}

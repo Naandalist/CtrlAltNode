@@ -1,0 +1,30 @@
+{
+  "istilah": "hipotek",
+  "entri": "hi.po.tek bentuk tidak baku: hipotik",
+  "bentukTidakBaku": "hipotik",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hipotek saksama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.po.tek bentuk tidak baku: hipotik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kredit yang diberikan atas dasar jaminan berupa benda tidak bergerak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat pernyataan berutang untuk jangka panjang yang berisi ketentuan bahwa kreditor dapat memindahkan sebagian atau seluruh hak tagihannya kepada pihak ketiga"
+        }
+      ]
+    }
+  ]
+}

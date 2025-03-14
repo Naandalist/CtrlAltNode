@@ -1,0 +1,47 @@
+{
+  "istilah": "ganding",
+  "entri": "gan.ding",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berganding",
+    "berganding",
+    "bergandingan",
+    "mempergandingkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gan.ding",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "anjing yang bulunya berwarna lebih dari satu; anjing belang"
+        }
+      ]
+    },
+    {
+      "lema": "gan.ding1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dekat; hampir"
+        }
+      ]
+    },
+    {
+      "lema": "gan.ding2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "banding; tanding"
+        }
+      ]
+    }
+  ]
+}

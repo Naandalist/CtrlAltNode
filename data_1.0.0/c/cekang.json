@@ -1,0 +1,33 @@
+{
+  "istilah": "cekang",
+  "entri": "ce.kang1 /cêkang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.kang1 /cêkang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tegang; kaku: mayat itu sudah --, sukar untuk dirapikan letak tangannya"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kang2 /cêkang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sempit: jalan itu --, hanya cukup untuk berjalan satu mobil"
+        }
+      ]
+    }
+  ]
+}

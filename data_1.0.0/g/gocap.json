@@ -1,0 +1,24 @@
+{
+  "istilah": "gocap",
+  "entri": "go.cap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "lima puluh",
+    "kataAsal": "gō͘ tsa̍p"
+  },
+  "data": [
+    {
+      "lema": "go.cap",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Cn[Cina: -]",
+          "deskripsi": "lima puluh"
+        }
+      ]
+    }
+  ]
+}

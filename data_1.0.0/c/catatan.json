@@ -1,0 +1,42 @@
+{
+  "istilah": "catatan",
+  "entri": "catat » ca.tat.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "catatan anekdot",
+    "catatan bawah",
+    "catatan dividen",
+    "catatan harga",
+    "catatan harian",
+    "catatan kaki",
+    "catatan pinjaman",
+    "catatan samping",
+    "catatan sipil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "catat » ca.tat.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil mencatat: ~ harga; ~ rapat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peringatan; syarat: saya dapat meminjamkan kamus ini kepada Anda dengan ~ bahwa kamus ini hendaknya dipelihara baik-baik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "kata di dalam sebuah buku yang masih perlu dijelaskan (kata itu diberi tanda yang diulang pada tempat lain dan di belakang tanda diberi penjelasan, biasanya dicetak dengan huruf yang lebih kecil daripada teksnya)"
+        }
+      ]
+    }
+  ]
+}

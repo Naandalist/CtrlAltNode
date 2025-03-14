@@ -1,0 +1,37 @@
+{
+  "istilah": "cawan",
+  "entri": "ca.wan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "cawan kisatan",
+    "cawan menstruasi",
+    "cawan petri",
+    "cawan pinggan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "mangkuk untuk minum teh",
+    "kataAsal": "chhâ oán"
+  },
+  "data": [
+    {
+      "lema": "ca.wan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cangkir yang tidak bertelinga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mangkuk untuk makan nasi dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapik cangkir"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "memburas",
+  "entri": "buras1 » mem.bu.ras",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buras1 » mem.bu.ras",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membual"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membujuk-bujuk dengan perkataan yang muluk-muluk"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengobrol; beromong-omong; bercakap-cakap"
+        }
+      ]
+    },
+    {
+      "lema": "buras3 » mem.bu.ras",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menghapus; menghapuskan"
+        }
+      ]
+    }
+  ]
+}

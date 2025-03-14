@@ -1,0 +1,43 @@
+{
+  "istilah": "paksi",
+  "entri": "pak.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "paksi jangkar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "burung, binatang bersayap, anak panah, bulan purnama",
+    "kataAsal": "pakṣin"
+  },
+  "data": [
+    {
+      "lema": "pak.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "burung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "bagian ekor kujang yang lancip"
+        }
+      ]
+    },
+    {
+      "lema": "pak.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "poros pada mesin bubut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "batang pendek berujung tajam yang merupakan pusat perputaran dari benda yang berputar atau beralur (berosilasi)"
+        }
+      ]
+    }
+  ]
+}

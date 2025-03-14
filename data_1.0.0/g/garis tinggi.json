@@ -1,0 +1,28 @@
+{
+  "istilah": "garis tinggi",
+  "entri": "garis1 » garis tinggi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "garis1 » garis tinggi",
+      "arti": [
+        {
+          "kelas_kata": "Mat[Matematika: -]",
+          "deskripsi": "garis tegak lurus pada segitiga (yang ditarik dari titik puncak ke garis dasar)"
+        },
+        {
+          "kelas_kata": "Lay[Pelayaran: -]",
+          "deskripsi": "garis letak posisi kapal pada salah satu titik, yang didapat dari pengamatan benda angkasa"
+        }
+      ]
+    }
+  ]
+}

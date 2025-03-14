@@ -1,0 +1,101 @@
+{
+  "istilah": "kali",
+  "entri": "ka.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkali-kali",
+    "kali-kalian",
+    "memperkalikan",
+    "mengalikan",
+    "pekali",
+    "pengali",
+    "perkalian",
+    "sekali",
+    "sekali-kali",
+    "sekali-sekali",
+    "sekalian"
+  ],
+  "gabunganKata": [
+    "kali mati"
+  ],
+  "peribahasa": [
+    "laksana manau, seribu kali embat haram tak patah; pisang tidak berbuah dua kali"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "saluran air yang dalam, pelung, terusan",
+    "kataAsal": "kali"
+  },
+  "data": [
+    {
+      "lema": "ka.li1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata untuk menyatakan kekerapan tindakan: dalam satu minggu ini, dia sudah empat -- datang ke rumahku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata untuk menyatakan kelipatan atau perbandingan (ukuran, harga, dan sebagainya): harga barang kebutuhan pokok pada tahun ini dua -- lebih mahal daripada harga pada tahun yang lalu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata untuk menyatakan salah satu waktu terjadinya peristiwa yang merupakan bagian dari rangkaian peristiwa yang pernah dan masih akan terus terjadi: untuk -- ini ia kena batunya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata untuk menyatakan perbanyakan atau pergandaan: dua -- dua sama dengan empat"
+        }
+      ]
+    },
+    {
+      "lema": "ka.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sungai"
+        }
+      ]
+    },
+    {
+      "lema": "ka.li3",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] kp[kependekan]",
+          "deskripsi": "barangkali: -- dia sakit"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk memberi tekanan atau menyungguhkan: sudah selesai, --!"
+        }
+      ]
+    },
+    {
+      "lema": "ka.li4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ikan) lele"
+        }
+      ]
+    },
+    {
+      "lema": "ka.li5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pejabat tinggi di Sulawesi Selatan"
+        }
+      ]
+    },
+    {
+      "lema": "ka.li6",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Md[Melayu Medan: -] kp[kependekan]",
+          "deskripsi": "sekali: banyak -- barang yang kaubawa"
+        }
+      ]
+    }
+  ]
+}

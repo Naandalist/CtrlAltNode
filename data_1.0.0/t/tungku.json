@@ -1,0 +1,56 @@
+{
+  "istilah": "tungku",
+  "entri": "tung.ku1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertungku"
+  ],
+  "gabunganKata": [
+    "tungku listrik"
+  ],
+  "peribahasa": [
+    "apa gunanya kemenyan sebesar tungku kalau tidak dibakar"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tung.ku1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu dan sebagainya yang dipasang untuk perapian (dapur)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat tumpuan periuk dan sebagainya waktu memasak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dapur (perapian) terbuat dari baja dan sebagainya untuk menjerang atau memasak sesuatu; batu tungku"
+        }
+      ]
+    },
+    {
+      "lema": "tung.ku2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tuanku; tengku"
+        }
+      ]
+    },
+    {
+      "lema": "tung.ku3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "bilah bambu yang dipasang di sekeliling tanaman yang baru tumbuh agar tidak terganggu"
+        }
+      ]
+    }
+  ]
+}

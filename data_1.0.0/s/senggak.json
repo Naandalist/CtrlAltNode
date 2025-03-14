@@ -1,0 +1,37 @@
+{
+  "istilah": "senggak",
+  "entri": "seng.gak1 /sênggak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyenggaki",
+    "senggakan",
+    "menyenggak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "teriakan, sorak-sorai",
+    "kataAsal": "sěṅgak"
+  },
+  "data": [
+    {
+      "lema": "seng.gak1 /sênggak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "senggakan"
+        }
+      ]
+    },
+    {
+      "lema": "seng.gak2 /sênggak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "hardik"
+        }
+      ]
+    }
+  ]
+}

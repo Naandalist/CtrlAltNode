@@ -1,0 +1,44 @@
+{
+  "istilah": "jaket",
+  "entri": "ja.ket bentuk tidak baku: jeket",
+  "bentukTidakBaku": "jeket",
+  "kataTurunan": [
+    "berjaket"
+  ],
+  "gabunganKata": [
+    "jaket askot",
+    "jaket bisbol",
+    "jaket blus",
+    "jaket bomber",
+    "jaket buku",
+    "jaket bulu",
+    "jaket kulit",
+    "jaket mandarin",
+    "jaket militer",
+    "jaket nehru",
+    "jaket pelampung",
+    "jaket safari",
+    "jaket varsitas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.ket bentuk tidak baku: jeket",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baju luar berlengan dengan bukaan di depan (untuk penahan dingin atau angin)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampul luar buku"
+        }
+      ]
+    }
+  ]
+}

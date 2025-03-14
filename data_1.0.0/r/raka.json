@@ -1,0 +1,37 @@
+{
+  "istilah": "raka",
+  "entri": "ra.ka1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kakak laki-laki atau perempuan",
+    "kataAsal": "raka"
+  },
+  "data": [
+    {
+      "lema": "ra.ka1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kakak laki-laki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada mahasiswa senior pada masa perploncoan"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ka2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "retak hampir patah atau hampir pecah (piring, kayu, titian)"
+        }
+      ]
+    }
+  ]
+}

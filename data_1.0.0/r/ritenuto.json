@@ -1,0 +1,33 @@
+{
+  "istilah": "ritenuto",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -] Mus[Musik: -]",
+          "deskripsi": "tahan (dalam tempo musik)"
+        }
+      ]
+    },
+    {
+      "lema": "ritenuto",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -] [Musik: -]",
+          "deskripsi": "tahan (dalam tempo musik)"
+        }
+      ]
+    }
+  ]
+}

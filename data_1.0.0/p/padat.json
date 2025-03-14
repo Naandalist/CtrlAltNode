@@ -1,0 +1,59 @@
+{
+  "istilah": "padat",
+  "entri": "pa.dat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkepadatan",
+    "kepadatan",
+    "memadat",
+    "memadati",
+    "memadatkan",
+    "mempadati",
+    "mempadatkan",
+    "padatan",
+    "pemadat",
+    "pemadatan"
+  ],
+  "gabunganKata": [
+    "padat energi",
+    "padat kalori",
+    "padat karya",
+    "padat merayap",
+    "padat modal",
+    "padat penebaran",
+    "padat pengunjung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.dat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat penuh hingga tidak berongga; padu; mampat; pejal: lumbung diisi padi sampai --; sudah -- hatinya sudah tetap hatinya (berani dan sebagainya); rundingan telah -- telah mendapat kata sepakat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh sesak; penuh tumpat: bus kota itu -- dengan penumpang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rapat sekali (tentang penduduk dan sebagainya): penduduk Pulau Jawa sangat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada waktu luang; berimpitan sehingga tidak ada waktu sela: acaranya -- sekali seminggu ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Fis[Fisika: -]",
+          "deskripsi": "mempunyai isi dan bentuk yang tetap (tidak cair dan tidak berupa gas): batu, besi, dan sebagainya adalah benda --"
+        }
+      ]
+    }
+  ]
+}

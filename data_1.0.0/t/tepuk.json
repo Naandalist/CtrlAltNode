@@ -1,0 +1,50 @@
+{
+  "istilah": "tepuk",
+  "entri": "te.puk /têpuk/bentuk tidak baku: tapuk3, tepok2",
+  "bentukTidakBaku": "tapuk3, tepok2",
+  "kataTurunan": [
+    "bertepuk",
+    "menepuk",
+    "menepuk-nepuk",
+    "menepuk-nepukkan",
+    "menepukkan",
+    "penepuk",
+    "tepukan"
+  ],
+  "gabunganKata": [
+    "tepuk dada",
+    "tepuk kuduk",
+    "tepuk nyamuk",
+    "tepuk setan",
+    "tepuk sorak",
+    "tepuk tangan",
+    "tepuk tari"
+  ],
+  "peribahasa": [
+    "alang berjawab, tepuk berbalas; alang berjawab, tepuk berbalas; tepuk berbalas, alang berjawat; tepuk perut, tanya selera"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.puk /têpuk/bentuk tidak baku: tapuk3, tepok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan menamparkan kedua telapak tangan untuk menimbulkan bunyi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi yang dihasilkan oleh kedua tangan yang ditamparkan: -- dan tawa terdengar dari permainan itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tamparan tidak keras dari belakang dan dari samping"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "lengung",
+  "entri": "le.ngung1 /lêngung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melengung",
+    "melengung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.ngung1 /lêngung/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melengung"
+        }
+      ]
+    },
+    {
+      "lema": "le.ngung2 /lêngung/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "melengung"
+        }
+      ]
+    }
+  ]
+}

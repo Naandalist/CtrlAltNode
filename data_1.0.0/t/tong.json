@@ -1,0 +1,46 @@
+{
+  "istilah": "tong",
+  "entri": "tong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tong penyamak"
+  ],
+  "peribahasa": [
+    "besar bungkus tak berisi (tong kosong nyaring bunyinya); madu satu tong, jika rembes, rembesnya pun madu jua; tong kosong nyaring bunyinya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "tong",
+    "kataAsal": "thóng"
+  },
+  "data": [
+    {
+      "lema": "tong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat (air, paku, semen, dan sebagainya) yang dibuat dari papan kayu, plastik, dan sebagainya bentuknya bulat buluh; tahang: setiap penduduk diperintahkan menyediakan -- sampah di rumahnya"
+        }
+      ]
+    },
+    {
+      "lema": "tong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kentungan"
+        }
+      ]
+    },
+    {
+      "lema": "tong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -] kp[kependekan]",
+          "deskripsi": "entong (panggilan kepada anak laki-laki)"
+        }
+      ]
+    }
+  ]
+}

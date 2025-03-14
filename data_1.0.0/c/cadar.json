@@ -1,0 +1,33 @@
+{
+  "istilah": "cadar",
+  "entri": "ca.dar bentuk tidak baku: cadir",
+  "bentukTidakBaku": "cadir",
+  "kataTurunan": [
+    "bercadar",
+    "mencadari"
+  ],
+  "gabunganKata": [
+    "cadar awan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "penutup; kain penutup",
+    "kataAsal": "chādana"
+  },
+  "data": [
+    {
+      "lema": "ca.dar bentuk tidak baku: cadir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kain yang menutupi seluruh tubuh termasuk kepala dan wajah, kecuali mata, biasa dikenakan oleh wanita muslim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain penutup meja; alas meja; seprai (untuk kasur)"
+        }
+      ]
+    }
+  ]
+}

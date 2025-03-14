@@ -1,0 +1,44 @@
+{
+  "istilah": "manjur",
+  "entri": "man.jur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemanjuran",
+    "termanjur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.jur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dapat menyembuhkan (tentang obat dan sebagainya); mustajab; mujarab: obat ini -- sekali, sekali minum terus sembuh"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "benar-benar besar dayanya (tentang doa, mantra, dan sebagainya); sakti: mantranya untuk menolak hujan sangat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "benar-benar dapat lekas mematikan (tentang bisa, racun, dan sebagainya): ular yang sangat -- bisanya"
+        }
+      ]
+    },
+    {
+      "lema": "man.jur2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Kh[Kapuas Hulu: -]",
+          "deskripsi": "memancing tanpa kait, dengan memasukkan mata kail dalam lubang yang diduga ada ikannya"
+        }
+      ]
+    }
+  ]
+}

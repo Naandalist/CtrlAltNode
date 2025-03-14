@@ -1,0 +1,49 @@
+{
+  "istilah": "seling",
+  "entri": "se.ling1 /sêling/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berseling",
+    "menyeling",
+    "menyelingi",
+    "menyelingkan",
+    "penyeling",
+    "selingan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mengerjakan sesuatu untuk selingan, menyelingi tindakan untuk sementara waktu mengerjakan sesuatu yang lain, di antaranya, sementara itu",
+    "kataAsal": "sěliṅ"
+  },
+  "data": [
+    {
+      "lema": "se.ling1 /sêling/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyeling"
+        }
+      ]
+    },
+    {
+      "lema": "se.ling2 /sêling/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "jala untuk mengangkat barang muatan ke kapal"
+        }
+      ]
+    },
+    {
+      "lema": "se.ling3 /sêling/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tembikar; porselen"
+        }
+      ]
+    }
+  ]
+}

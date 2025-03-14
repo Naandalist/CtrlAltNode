@@ -1,0 +1,46 @@
+{
+  "istilah": "gadis",
+  "entri": "ga.dis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kegadis-gadisan",
+    "kegadisan",
+    "menggadis"
+  ],
+  "gabunganKata": [
+    "gadis besar",
+    "gadis kecil",
+    "gadis pemerah",
+    "gadis sampul",
+    "gadis tanggung",
+    "gadis taruhan",
+    "gadis tua"
+  ],
+  "peribahasa": [
+    "bagai gadis jolong bersubang; seperti gadis jolong bersubang, bujang jolong bekerja; seperti gadis sudah berlaki"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.dis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak perempuan yang sudah akil balig; anak dara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak perempuan yang belum kawin; perawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang yang belum beranak atau bertelur; dara: ayam --; lembu --"
+        }
+      ]
+    }
+  ]
+}

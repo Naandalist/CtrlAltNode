@@ -1,0 +1,53 @@
+{
+  "istilah": "desak",
+  "entri": "de.sak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdesak",
+    "berdesak-desakan",
+    "desakan",
+    "mendesak",
+    "mendesakkan",
+    "pendesak",
+    "pendesakan",
+    "terdesak",
+    "berdesak",
+    "mendesak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.sak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "gelar perempuan golongan bangsawan tertentu di Bali"
+        }
+      ]
+    },
+    {
+      "lema": "de.sak1 /dêsak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dorong (dengan tubuh dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "de.sak2 /dêsak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kertas diremas-remas dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

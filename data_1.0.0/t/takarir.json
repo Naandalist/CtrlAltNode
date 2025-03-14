@@ -1,0 +1,39 @@
+{
+  "istilah": "takarir",
+  "entri": "ta.ka.rir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "takarir gambar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pernyataan; peneguhan",
+    "kataAsal": "taqārīr"
+  },
+  "data": [
+    {
+      "lema": "ta.ka.rir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "catatan yang dituliskan di tepi halaman kitab; taklikat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "terjemahan dialog pada film yang biasanya berada di bagian bawah tayangan atau tampilan"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ka.rir2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ takrir1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "derap",
+  "entri": "de.rap1 /dêrap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berderap",
+    "menderap",
+    "berderap",
+    "menderapkan",
+    "sederap"
+  ],
+  "gabunganKata": [
+    "derap langkah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.rap1 /dêrap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kaki orang berjalan cepat"
+        }
+      ]
+    },
+    {
+      "lema": "de.rap2 /dêrap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerak lari cepat (tentang kuda dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecepatan langkah; laju gerak: rakyat tidak apatis terhadap -- pembangunan yang tengah berjalan sekarang"
+        }
+      ]
+    }
+  ]
+}

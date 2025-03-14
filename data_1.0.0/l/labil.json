@@ -1,0 +1,42 @@
+{
+  "istilah": "labil",
+  "entri": "la.bil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelabilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.bil",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mantap, tidak kokoh, goyah (tentang bangunan, pendirian, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tenang, goyang (tentang kendaraan, kapal, pesawat terbang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tetap, mudah berubah-ubah, naik turun (tentang harga barang, nilai uang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak stabil; cenderung berubah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Fis[Fisika: -]",
+          "deskripsi": "tidak seimbang dan mudah berubah"
+        }
+      ]
+    }
+  ]
+}

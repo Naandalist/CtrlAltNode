@@ -1,0 +1,80 @@
+{
+  "istilah": "bidang",
+  "entri": "bi.dang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbidang",
+    "berbidang-bidang",
+    "bidangan",
+    "membidangi",
+    "membidangkan",
+    "pembidang",
+    "pembidangan"
+  ],
+  "gabunganKata": [
+    "bidang banyak",
+    "bidang banyak beraturan",
+    "bidang banyak cekung",
+    "bidang banyak cembung",
+    "bidang banyak sederhana",
+    "bidang bebas",
+    "bidang datar",
+    "bidang delapan",
+    "bidang dua puluh",
+    "bidang empat",
+    "bidang enam",
+    "bidang erosi",
+    "bidang hias",
+    "bidang kompleks",
+    "bidang koordinat",
+    "bidang penyangga",
+    "bidang potong",
+    "bidang studi",
+    "bidang tiga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.dang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permukaan (yang) rata dan tentu batasnya: kubus itu mempunyai enam --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran panjang (5 hasta) untuk mengukur panjang (tikar, layar, kulit, dan sebagainya): berapa -- tikar ini?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapangan (dalam arti lingkungan pekerjaan, pengetahuan, dan sebagainya): -- perburuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segi pandangan; aspek: masalah itu harus ditinjau dari -- ilmu ketatanegaraan"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata penggolong bagi barang-barang yang luas seperti tanah, sawah, ladang: dua -- tanahnya ditanami sayur-sayuran"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lebar: dadanya --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kolom yang terdapat pada kartu berlubang untuk menuliskan informasi khusus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian tertentu dalam rekaman komputer, misalnya dalam rekaman bibliografi, pengarang, atau tanggal publikasi dokumen"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "encer",
+  "entri": "en.cer",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "enceran",
+    "mengencerkan",
+    "pengencer",
+    "pengenceran",
+    "seencer"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.cer",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cair; tidak kental: minum kopi --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menjadi cair: mentega kalau dipanaskan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bercampur air, tidak kental, atau sangat kurang sari patinya (tentang barang cair yang mengandung suatu zat): tambahkan sedikit air supaya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mudah mengerti; lekas menerima pelajaran; cerdas: anak ini memang -- otaknya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sepele; mudah: dia selalu menganggap -- lawannya"
+        }
+      ]
+    }
+  ]
+}

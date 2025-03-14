@@ -1,0 +1,36 @@
+{
+  "istilah": "isomorfisme",
+  "entri": "i.so.mor.fis.me /isomorfismê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.so.mor.fis.me /isomorfismê/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sifat yang dimiliki bahan-bahan yang komposisinya berbeda, tetapi menghablur ke bentuk yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "keadaan yang tumbuh jika ion yang sangat encer dimasukkan ke dalam pembentukan hablur campuran larutan menjadi endapan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kesamaan struktur fonologis, gramatikal, leksikal, atau semantis dua bahasa atau lebih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "padanan satu-satu dari suatu himpunan A ke himpunan B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "istilah": "curiga",
+  "entri": "cu.ri.ga1",
+  "bentukTidakBaku": "ceriga2",
+  "kataTurunan": [
+    "bercuriga",
+    "curigaan",
+    "kecurigaan",
+    "mencurigai",
+    "mencurigakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "keris",
+    "kataAsal": "curiga"
+  },
+  "data": [
+    {
+      "lema": "cu.ri.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "keris"
+        }
+      ]
+    },
+    {
+      "lema": "cu.ri.ga2 bentuk tidak baku: ceriga2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhati-hati atau berwaswas (karena khawatir, menaruh syak, dan sebagainya): kita harus tetap -- karena banyak pengacau yang berkedok sebagai pembela bangsa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(merasa) kurang percaya atau sangsi terhadap kebenaran atau kejujuran seseorang (takut dikhianati dan sebagainya): ibu -- akan kebenaran ceritaku"
+        }
+      ]
+    },
+    {
+      "lema": "cu.ri.ga3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat musik dari Sulawesi Selatan, berupa lempeng logam, berbentuk kipas segi empat yang sudut-sudutnya digantungi gelang-gelang logam"
+        }
+      ]
+    }
+  ]
+}

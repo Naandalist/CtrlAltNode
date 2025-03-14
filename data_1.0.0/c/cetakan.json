@@ -1,0 +1,40 @@
+{
+  "istilah": "cetakan",
+  "entri": "cetak » ce.tak.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "cetakan awal",
+    "cetakan dalam",
+    "cetakan datar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cetak » ce.tak.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang telah dicetak; hasil mencetak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penerbitan (buku dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "acuan (kue dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang sudah jadi; bentukan"
+        }
+      ]
+    }
+  ]
+}

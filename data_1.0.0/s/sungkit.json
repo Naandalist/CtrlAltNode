@@ -1,0 +1,37 @@
+{
+  "istilah": "sungkit",
+  "entri": "sung.kit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersungkit",
+    "menyungkit",
+    "menyungkit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sung.kit1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyungkit"
+        }
+      ]
+    },
+    {
+      "lema": "sung.kit2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "angkat; korek"
+        }
+      ]
+    }
+  ]
+}

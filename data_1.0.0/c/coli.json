@@ -1,0 +1,42 @@
+{
+  "istilah": "coli",
+  "entri": "co.li1 bentuk tidak baku: culi",
+  "bentukTidakBaku": "culi",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.li1 bentuk tidak baku: culi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kutang wanita"
+        }
+      ]
+    },
+    {
+      "lema": "co.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Als[Alas: -]",
+          "deskripsi": "nangka dan cempedak yang mulai masak"
+        }
+      ]
+    },
+    {
+      "lema": "co.li3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "onani"
+        }
+      ]
+    }
+  ]
+}

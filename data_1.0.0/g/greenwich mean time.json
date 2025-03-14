@@ -1,0 +1,33 @@
+{
+  "istilah": "greenwich mean time",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "waktu matahari menurut observatorium di Greenwich, dekat London, yang menjadi dasar penghitungan waktu di seluruh dunia dan menjadi garis bujur 0°; disingkat GMT"
+        }
+      ]
+    },
+    {
+      "lema": "Greenwich Mean Time",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "waktu matahari menurut observatorium di Greenwich, dekat London, yang menjadi dasar penghitungan waktu di seluruh dunia dan menjadi garis bujur 0°; disingkat GMT"
+        }
+      ]
+    }
+  ]
+}

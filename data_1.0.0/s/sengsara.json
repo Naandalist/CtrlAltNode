@@ -1,0 +1,33 @@
+{
+  "istilah": "sengsara",
+  "entri": "seng.sa.ra /sêngsara/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesengsaraan",
+    "menyengsarakan",
+    "penyengsara",
+    "tersengsara"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "koyak, patah",
+    "kataAsal": "saṃśara"
+  },
+  "data": [
+    {
+      "lema": "seng.sa.ra /sêngsara/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesulitan dan kesusahan hidup; penderitaan: ia telah menanggung berbagai -- dan derita"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menderita kesusahan, kesukaran, dan sebagainya: hidupnya akan -- apabila ia mengikuti suami yang menganggur dan suka mabuk itu"
+        }
+      ]
+    }
+  ]
+}

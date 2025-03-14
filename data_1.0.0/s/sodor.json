@@ -1,0 +1,37 @@
+{
+  "istilah": "sodor",
+  "entri": "so.dor1 bentuk tidak baku: sudur",
+  "bentukTidakBaku": "sudur",
+  "kataTurunan": [
+    "menyodorkan",
+    "sodoran",
+    "sodoran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.dor1 bentuk tidak baku: sudur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyodorkan"
+        }
+      ]
+    },
+    {
+      "lema": "so.dor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tombak (bambu dan sebagainya) panjang"
+        }
+      ]
+    }
+  ]
+}

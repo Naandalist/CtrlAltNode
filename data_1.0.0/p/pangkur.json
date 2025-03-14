@@ -1,0 +1,41 @@
+{
+  "istilah": "pangkur",
+  "entri": "pang.kur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memangkur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "meraih pangkur ke dada; permata lekat di pangkur"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "nama metrum",
+    "kataAsal": "paṅkur"
+  },
+  "data": [
+    {
+      "lema": "pang.kur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cangkul; pacul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapak untuk membelah sagu"
+        }
+      ]
+    },
+    {
+      "lema": "pang.kur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk komposisi tembang macapat, mempunyai bait lagu yang terdiri atas tujuh baris, biasanya dipakai untuk mengungkapkan hal-hal yang bersifat keras, seperti kemarahan, perkelahian, dan perang"
+        }
+      ]
+    }
+  ]
+}

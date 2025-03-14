@@ -1,0 +1,33 @@
+{
+  "istilah": "pianissimo",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -] Mus[Musik: -]",
+          "deskripsi": "sangat lembut; lambangnya pp"
+        }
+      ]
+    },
+    {
+      "lema": "pianissimo",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -] [Musik: -]",
+          "deskripsi": "sangat lembut; lambangnya pp"
+        }
+      ]
+    }
+  ]
+}

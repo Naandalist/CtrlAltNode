@@ -1,0 +1,50 @@
+{
+  "istilah": "jorok",
+  "entri": "jo.rok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjorok",
+    "menjorokkan",
+    "kejorokan",
+    "penjorok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jo.rok1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menjorok; menjorokkan"
+        }
+      ]
+    },
+    {
+      "lema": "jo.rok2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kotor"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cemar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "cabul"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak peduli pada kebersihan atau tidak merasa jijik terhadap sesuatu yang kotor"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "pulut",
+  "entri": "pu.lut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memulut",
+    "terpulut"
+  ],
+  "gabunganKata": [
+    "pulut apit",
+    "pulut lemak",
+    "pulut panggang",
+    "pulut udang"
+  ],
+  "peribahasa": [
+    "dilihat pulut, ditanak berderai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.lut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "getah (dari tumbuhan yang dipulaskan pada ranting kayu untuk menangkap burung)"
+        }
+      ]
+    },
+    {
+      "lema": "pu.lut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "padi yang berasnya menjadi lengket dan kenyal jika dimasak; beras ketan〔Oryza sativa〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang dibuat dari beras ketan seperti -- kinca, -- panggang, -- udang, -- urap"
+        }
+      ]
+    }
+  ]
+}

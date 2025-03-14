@@ -1,0 +1,28 @@
+{
+  "istilah": "geo-",
+  "entri": "geo-",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "geo-",
+      "arti": [
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "bumi; tanah: geosentris; geofisika; geoteknik"
+        },
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "geografi: geopolitis"
+        }
+      ]
+    }
+  ]
+}

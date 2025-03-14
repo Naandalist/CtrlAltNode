@@ -1,0 +1,30 @@
+{
+  "istilah": "rontgen",
+  "entri": "ront.gen /rontgên/bentuk tidak baku: ronsen",
+  "bentukTidakBaku": "ronsen",
+  "kataTurunan": [
+    "merontgen"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ront.gen /rontgên/bentuk tidak baku: ronsen",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat potret yang menggunakan sinar X dapat menembus bagian-bagian dalam tubuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "potret (memotretkan diri) pada alat (pesawat) elektronik yang dilengkapi dengan sinar X"
+        }
+      ]
+    }
+  ]
+}

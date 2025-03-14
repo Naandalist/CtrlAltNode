@@ -1,0 +1,37 @@
+{
+  "istilah": "polah",
+  "entri": "po.lah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpolah-polah"
+  ],
+  "gabunganKata": [
+    "polah tingkah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tingkah laku, kelakuan, tindak-tanduk, tindakan, perbuatan",
+    "kataAsal": "polah"
+  },
+  "data": [
+    {
+      "lema": "po.lah1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berpolah-polah"
+        }
+      ]
+    },
+    {
+      "lema": "po.lah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tingkah laku; perbuatan; perilaku: hanya dia yang tahu apakah --nya itu dibuatnya karena ia sedang linglung ataukah tidak"
+        }
+      ]
+    }
+  ]
+}

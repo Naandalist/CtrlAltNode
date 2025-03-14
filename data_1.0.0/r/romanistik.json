@@ -1,0 +1,24 @@
+{
+  "istilah": "romanistik",
+  "entri": "ro.ma.nis.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.ma.nis.tik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan tentang bahasa dan kesusastraan Latin, Prancis, Spanyol, Italia, Portugis, dan Romania"
+        }
+      ]
+    }
+  ]
+}

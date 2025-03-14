@@ -1,0 +1,38 @@
+{
+  "istilah": "tantang",
+  "entri": "tan.tang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menantang",
+    "penantang",
+    "tantangan",
+    "tertantang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tan.tang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menantang"
+        }
+      ]
+    },
+    {
+      "lema": "tan.tang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tentang"
+        }
+      ]
+    }
+  ]
+}

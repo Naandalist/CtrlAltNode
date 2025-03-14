@@ -1,0 +1,31 @@
+{
+  "istilah": "tetangga",
+  "entri": "te.tang.ga /têtangga/bentuk tidak baku: setangga",
+  "bentukTidakBaku": "setangga",
+  "kataTurunan": [
+    "bertetangga",
+    "pertetanggaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tetangga",
+    "kataAsal": "tataṅga"
+  },
+  "data": [
+    {
+      "lema": "te.tang.ga /têtangga/bentuk tidak baku: setangga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang (rumah) yang rumahnya berdekatan atau sebelah-menyebelah; jiran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang tempat tinggalnya (rumahnya) berdekatan"
+        }
+      ]
+    }
+  ]
+}

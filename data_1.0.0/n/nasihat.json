@@ -1,0 +1,35 @@
+{
+  "istilah": "nasihat",
+  "entri": "na.si.hat bentuk tidak baku: nasehat",
+  "bentukTidakBaku": "nasehat",
+  "kataTurunan": [
+    "menasihati",
+    "menasihatkan",
+    "penasihat"
+  ],
+  "gabunganKata": [
+    "nasihat agama",
+    "nasihat genetika"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kemurnian; anjuran baik untuk seseorang yang diajak bicara",
+    "kataAsal": "naṣīḥah"
+  },
+  "data": [
+    {
+      "lema": "na.si.hat bentuk tidak baku: nasehat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ajaran atau pelajaran baik; anjuran (petunjuk, peringatan, dan teguran) yang baik: lebih baik aku turuti -- ibu; beroleh -- dari kepala kantornya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibarat yang terkandung dalam suatu cerita dan sebagainya; moral: cerita itu mengandung -- bagi kita sekalian"
+        }
+      ]
+    }
+  ]
+}

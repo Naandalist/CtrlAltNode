@@ -1,0 +1,39 @@
+{
+  "istilah": "direktur",
+  "entri": "di.rek.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "direktur jenderal",
+    "direktur utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.rek.tur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin tertinggi dalam suatu perusahaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala sekolah menengah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala direktorat (dalam departemen)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang bertugas memberikan bimbingan melalui pengarahan, nasihat, bantuan, penerangan, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

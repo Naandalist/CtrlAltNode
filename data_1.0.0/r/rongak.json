@@ -1,0 +1,33 @@
+{
+  "istilah": "rongak",
+  "entri": "ro.ngak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.ngak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ada yang tanggal (tentang gigi); rumpang; ompong; bersela-sela (karena ada yang hilang)"
+        }
+      ]
+    },
+    {
+      "lema": "ro.ngak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ ronggang"
+        }
+      ]
+    }
+  ]
+}

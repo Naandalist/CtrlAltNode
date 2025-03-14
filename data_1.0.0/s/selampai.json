@@ -1,0 +1,40 @@
+{
+  "istilah": "selampai",
+  "entri": "se.lam.pai1 /sêlampai/bentuk tidak baku: selampe, selampek",
+  "bentukTidakBaku": "selampe, selampek",
+  "kataTurunan": [
+    "menyelampai",
+    "menyelampaikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.lam.pai1 /sêlampai/bentuk tidak baku: selampe, selampek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain sutra berbentuk pita panjang yang lebarnya 4 cm, dikalungkan di leher atau disampirkan di bahu (pada waktu membawa alat-alat kerajaan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saputangan"
+        }
+      ]
+    },
+    {
+      "lema": "se.lam.pai2 /sêlampai/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut, ukurannya mencapai 160 cm, hidup di dasar perairan tropis, tersebar di perairan Pakistan dan sepanjang pantai India dan Sri Lanka sampai ke Semenanjung Malaya, Sumatra, Kalimantan, dan Vietnam〔Otolithoides biauritus〕"
+        }
+      ]
+    }
+  ]
+}

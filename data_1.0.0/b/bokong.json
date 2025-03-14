@@ -1,0 +1,41 @@
+{
+  "istilah": "bokong",
+  "entri": "bo.kong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membokong",
+    "pembokong",
+    "pembokongan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pantat, bokong",
+    "kataAsal": "waṅkoṅ"
+  },
+  "data": [
+    {
+      "lema": "bo.kong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pantat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "belakang; pinggul"
+        }
+      ]
+    },
+    {
+      "lema": "bo.kong2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "bengkak; balut (tentang mata); kembung; berjendul"
+        }
+      ]
+    }
+  ]
+}

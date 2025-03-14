@@ -1,0 +1,36 @@
+{
+  "istilah": "kesal",
+  "entri": "ke.sal /kêsal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekesalan",
+    "mengesalkan",
+    "terkesal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.sal /kêsal/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mendongkol; sebal"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kecewa (menyesal) bercampur jengkel"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak suka lagi; jemu"
+        }
+      ]
+    }
+  ]
+}

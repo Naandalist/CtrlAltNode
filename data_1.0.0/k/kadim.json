@@ -1,0 +1,49 @@
+{
+  "istilah": "kadim",
+  "entri": "ka.dim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengadimkan",
+    "sekadim"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang akan datang",
+    "kataAsal": "qādim"
+  },
+  "data": [
+    {
+      "lema": "ka.dim1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "terdahulu dari tiap-tiap permulaan; awal dari segala permulaan yang tidak terbatas oleh masa: Allah sebagai pencipta makhluk bersifat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pasti, tentu (tentang perkara atau janji): hanya Allah yang bersifat --"
+        }
+      ]
+    },
+    {
+      "lema": "ka.dim2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "waktu yang akan datang; kemudian hari; kelak"
+        }
+      ]
+    },
+    {
+      "lema": "ka.dim3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "saudara dekat; kerabat"
+        }
+      ]
+    }
+  ]
+}

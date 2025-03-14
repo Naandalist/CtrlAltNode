@@ -1,0 +1,35 @@
+{
+  "istilah": "nonong",
+  "entri": "no.nong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menonong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "no.nong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nong-nong"
+        }
+      ]
+    },
+    {
+      "lema": "no.nong2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menonong"
+        }
+      ]
+    }
+  ]
+}

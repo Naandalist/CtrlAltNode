@@ -1,0 +1,34 @@
+{
+  "istilah": "digit",
+  "entri": "di.git",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pendigit"
+  ],
+  "gabunganKata": [
+    "digit biner",
+    "digit tanda",
+    "digit uji"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.git",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "letak angka pada bilangan: 682 adalah bilangan tiga --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "angka Arab dari 0–9; setiap angka yang terdapat dalam deret angka yang tidak merujuk kepada sistem desimal, misalnya nomor telepon"
+        }
+      ]
+    }
+  ]
+}

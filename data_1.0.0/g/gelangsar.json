@@ -1,0 +1,36 @@
+{
+  "istilah": "gelangsar",
+  "entri": "ge.lang.sar1 /gêlangsar/bentuk tidak baku: gelasar",
+  "bentukTidakBaku": "gelasar",
+  "kataTurunan": [
+    "menggelangsar",
+    "tergelangsar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.lang.sar1 /gêlangsar/bentuk tidak baku: gelasar",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menggelangsar; tergelangsar"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lang.sar2 /gêlangsar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Us[Using: -]",
+          "deskripsi": "pakaian sehari-hari"
+        }
+      ]
+    }
+  ]
+}

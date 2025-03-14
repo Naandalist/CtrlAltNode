@@ -1,0 +1,41 @@
+{
+  "istilah": "vvip",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -] sing[singkatan]",
+          "deskripsi": "very very important person"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -] sing[singkatan]",
+          "deskripsi": "Very Very Important Parts"
+        }
+      ]
+    },
+    {
+      "lema": "VVIP",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -] [singkatan]",
+          "deskripsi": "very very important person"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -] [singkatan]",
+          "deskripsi": "Very Very Important Parts"
+        }
+      ]
+    }
+  ]
+}

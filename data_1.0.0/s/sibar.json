@@ -1,0 +1,53 @@
+{
+  "istilah": "sibar",
+  "entri": "si.bar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersibar",
+    "sibar-sibar",
+    "sesibar",
+    "sibar-sibar",
+    "bersibar",
+    "bersibaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.bar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain dan sebagainya yang ditambahkan atau dilapiskan di tepi baju dan sebagainya: ia menggunting -- baju"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah yang ditambahkan di sisi rumah besar"
+        }
+      ]
+    },
+    {
+      "lema": "si.bar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "capung; sibur-sibur; papatong"
+        }
+      ]
+    },
+    {
+      "lema": "si.bar3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bersibar; bersibaran"
+        }
+      ]
+    }
+  ]
+}

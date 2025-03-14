@@ -1,0 +1,33 @@
+{
+  "istilah": "dna",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "deoxyribonucleic acid; asam deoksiribonukleat"
+        }
+      ]
+    },
+    {
+      "lema": "DNA",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -] [Kedokteran dan Fisiologi: -]",
+          "deskripsi": "deoxyribonucleic acid; asam deoksiribonukleat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "tarang",
+  "entri": "ta.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menarang",
+    "bertarang",
+    "petarangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tempat bersarang untuk unggas",
+    "kataAsal": "taraṅ"
+  },
+  "data": [
+    {
+      "lema": "ta.rang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menarang"
+        }
+      ]
+    },
+    {
+      "lema": "ta.rang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "petarangan"
+        }
+      ]
+    }
+  ]
+}

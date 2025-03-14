@@ -1,0 +1,32 @@
+{
+  "istilah": "kelap-kelip",
+  "entri": "ke.lap-ke.lip /kêlap-kêlip/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gerak cepat mengelepak, gerak berkibar; kerlap-kerlip",
+    "kataAsal": "kělab"
+  },
+  "data": [
+    {
+      "lema": "ke.lap-ke.lip /kêlap-kêlip/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berkelip-kelip (tentang lampu, bintang, kunang-kunang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berkedip-kedip (tentang mata)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sekejap-sekejap"
+        }
+      ]
+    }
+  ]
+}

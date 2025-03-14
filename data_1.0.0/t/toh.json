@@ -1,0 +1,33 @@
+{
+  "istilah": "toh",
+  "entri": "toh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "toh1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "noda hitam atau hitam kemerah-merahan pada kulit (biasanya sudah ada sejak lahir)"
+        }
+      ]
+    },
+    {
+      "lema": "toh2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata afektif sebagai penguat maksud: walaupun begitu, Tuan -- harus hadir; biarpun ia tidak bekerja, gajinya -- dibayar juga"
+        }
+      ]
+    }
+  ]
+}

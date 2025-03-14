@@ -1,0 +1,37 @@
+{
+  "istilah": "bokser",
+  "entri": "bok.ser1 /boksêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bok.ser1 /boksêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "petinju"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celana dalam pria dengan model seperti celana petinju, biasanya panjangnya di atas lutut atau sepaha"
+        }
+      ]
+    },
+    {
+      "lema": "bok.ser2 /boksêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anjing domestikasi yang berasal dari Jerman, berukuran besar, berambut halus, dan berekor pendek, biasa digunakan untuk berburu〔Canis familiaris〕"
+        }
+      ]
+    }
+  ]
+}

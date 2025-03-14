@@ -1,0 +1,35 @@
+{
+  "istilah": "retok",
+  "entri": "re.tok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meretok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.tok1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ recok"
+        }
+      ]
+    },
+    {
+      "lema": "re.tok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "meretok"
+        }
+      ]
+    }
+  ]
+}

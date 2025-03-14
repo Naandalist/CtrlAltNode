@@ -1,0 +1,38 @@
+{
+  "istilah": "tender",
+  "entri": "ten.der1 /tendêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menenderkan"
+  ],
+  "gabunganKata": [
+    "tender terbuka",
+    "tender tertutup"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ten.der1 /tendêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dag[Perdagangan: -]",
+          "deskripsi": "tawaran untuk mengajukan harga, memborong pekerjaan, atau menyediakan barang: hanya pengusaha bermodal besar yang mampu mengikuti -- di atas satu miliar rupiah"
+        }
+      ]
+    },
+    {
+      "lema": "ten.der2 /tendêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerbong kereta api (untuk tempat batu bara, kayu, atau air)"
+        }
+      ]
+    }
+  ]
+}

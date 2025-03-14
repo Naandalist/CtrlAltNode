@@ -1,0 +1,32 @@
+{
+  "istilah": "gebeng",
+  "entri": "ge.beng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.beng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilik kecil (tentang perahu)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Lay[Pelayaran: -]",
+          "deskripsi": "besar; lebar (tentang dayung): dayung --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "bagian yang gepeng dari dayung yang dikayuhkan ke air; daun dayung"
+        }
+      ]
+    }
+  ]
+}

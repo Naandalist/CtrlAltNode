@@ -1,0 +1,53 @@
+{
+  "istilah": "modul",
+  "entri": "mo.dul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "modul cenderung galat",
+    "modul dasar",
+    "modul lengkap",
+    "modul objek"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.dul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "standar atau satuan pengukur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan standar yang bersama-sama dengan yang lain dipergunakan secara bersama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan bebas yang merupakan bagian dari struktur keseluruhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "komponen dari suatu sistem yang berdiri sendiri, tetapi menunjang program dari sistem itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "unit kecil dari satu pelajaran yang dapat beroperasi sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dik[Pendidikan: -]",
+          "deskripsi": "kegiatan program belajar-mengajar yang dapat dipelajari oleh murid dengan bantuan yang minimal dari guru pembimbing, meliputi perencanaan tujuan yang akan dicapai secara jelas, penyediaan materi pelajaran, alat yang dibutuhkan, serta alat untuk penilai, mengukur keberhasilan murid dalam penyelesaian pelajaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "bagian dari program yang ditulis dan diuji secara terpisah dan kemudian digabungkan dengan modul lain untuk membentuk program yang lengkap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "pergi",
+  "entri": "per.gi /pêrgi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bepergian",
+    "kepergian"
+  ],
+  "gabunganKata": [
+    "pergi datang",
+    "pergi haji"
+  ],
+  "peribahasa": [
+    "bagai si kudung pergi berbelut; kucing pergi, tikus menari; kundur tidak melata pergi, labu tidak melata mari; pergi berempap, pulang eban; pergi tempat bertanya, pulang tempat berberita (berkenaan dengan orang cerdik pandai)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per.gi /pêrgi/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjalan (bergerak) maju: ia -- ke kamar mandi; ia -- ke pasar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meninggalkan (suatu tempat): ia sudah -- dari sini"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berangkat: setelah mengunci pintu rumah, dia -- ke tempat kerjanya; pukul lima pagi ia -- ke stasiun"
+        }
+      ]
+    }
+  ]
+}

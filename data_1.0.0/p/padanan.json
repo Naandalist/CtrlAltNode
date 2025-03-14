@@ -1,0 +1,30 @@
+{
+  "istilah": "padanan",
+  "entri": "padan1 » pa.dan.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "padanan kata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "padan1 » pa.dan.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan seimbang (sebanding, senilai, seharga, sederajat, sepadan, searti): dalam terjemahan yang dicari bukanlah bentuk yang sama, melainkan ~ maknanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kata atau frasa dalam sebuah bahasa yang memiliki kesejajaran makna dengan kata atau frasa dalam bahasa lain, misalnya maison dalam bahasa Prancis padanannya rumah dalam bahasa Indonesia; ekuivalen"
+        }
+      ]
+    }
+  ]
+}

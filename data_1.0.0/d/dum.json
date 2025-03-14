@@ -1,0 +1,35 @@
+{
+  "istilah": "dum",
+  "entri": "dum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengedumkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dum1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sesuatu yang sudah tidak dipakai lagi; bekas: ayahnya membeli mobil --"
+        }
+      ]
+    },
+    {
+      "lema": "dum2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Brk[Berik: -]",
+          "deskripsi": "sendok sagu, terbuat dari kayu berukuran besar"
+        }
+      ]
+    }
+  ]
+}

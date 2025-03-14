@@ -1,0 +1,66 @@
+{
+  "istilah": "dapur",
+  "entri": "da.pur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdapur",
+    "dedapur",
+    "sedapur",
+    "dapur-dapur"
+  ],
+  "gabunganKata": [
+    "dapur bersama",
+    "dapur bersih",
+    "dapur darurat",
+    "dapur hantu",
+    "dapur kotor",
+    "dapur kupola",
+    "dapur pacu",
+    "dapur terbuka",
+    "dapur tungkik",
+    "dapur umum",
+    "dapur bahu",
+    "dapur bedil",
+    "dapur susu"
+  ],
+  "peribahasa": [
+    "melakakkan kucing di dapur; merantau di sudut dapur, merantau ke ujung bendul"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.pur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang tempat memasak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat membakar batu bata, batu kapur, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tungku; perapian (pada lokomotif dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "kaleng yang diisi tanah, digunakan untuk meletakkan tungku"
+        }
+      ]
+    },
+    {
+      "lema": "da.pur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "masyarakat desa dalam prasasti Jawa Kuno"
+        }
+      ]
+    }
+  ]
+}

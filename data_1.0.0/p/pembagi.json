@@ -1,0 +1,35 @@
+{
+  "istilah": "pembagi",
+  "entri": "bagi2 » pem.ba.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pembagi persekutuan terbesar",
+    "pembagi persekutuan terkecil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bagi2 » pem.ba.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang membagi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang membagikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bilangan yang digunakan untuk membagi"
+        }
+      ]
+    }
+  ]
+}

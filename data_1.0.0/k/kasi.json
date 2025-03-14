@@ -1,0 +1,42 @@
+{
+  "istilah": "kasi",
+  "entri": "ka.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang dikebiri",
+    "kataAsal": "khaṣī"
+  },
+  "data": [
+    {
+      "lema": "ka.si1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "beri; kasih"
+        }
+      ]
+    },
+    {
+      "lema": "ka.si2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kebiri"
+        }
+      ]
+    },
+    {
+      "lema": "ka.si3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "kepala seksi"
+        }
+      ]
+    }
+  ]
+}

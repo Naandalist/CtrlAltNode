@@ -1,0 +1,30 @@
+{
+  "istilah": "gedong",
+  "entri": "ge.dong /gêdong/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gedongan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gedung",
+    "kataAsal": "gěḍoṅ"
+  },
+  "data": [
+    {
+      "lema": "ge.dong /gêdong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "gedung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "bangunan gaya Bali berbentuk mengecil ke atas, beratap alang-alang atau ijuk"
+        }
+      ]
+    }
+  ]
+}

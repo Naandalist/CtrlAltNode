@@ -1,0 +1,35 @@
+{
+  "istilah": "trim",
+  "entri": "trim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "trim kepang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trim1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tunggang-tungging"
+        }
+      ]
+    },
+    {
+      "lema": "trim2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "hiasan atau ornamen yang ditempelkan pada baju atau aksesori seperti bordiran, renda, tali, pita, dan rumbai"
+        }
+      ]
+    }
+  ]
+}

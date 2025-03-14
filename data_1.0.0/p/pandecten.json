@@ -1,0 +1,41 @@
+{
+  "istilah": "pandecten",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "himpunan pendapat para ahli hukum bangsa Romawi yang termasyhur"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "buku yang memuat segala sesuatu tentang suatu masalah; himpunan tulisan"
+        }
+      ]
+    },
+    {
+      "lema": "pandecten",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "himpunan pendapat para ahli hukum bangsa Romawi yang termasyhur"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "buku yang memuat segala sesuatu tentang suatu masalah; himpunan tulisan"
+        }
+      ]
+    }
+  ]
+}

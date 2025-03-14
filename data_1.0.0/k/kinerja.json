@@ -1,0 +1,46 @@
+{
+  "istilah": "kinerja",
+  "entri": "kerja » ki.ner.ja",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kinerja anggaran",
+    "kinerja ekspor",
+    "kinerja guru",
+    "kinerja puncak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kerja » ki.ner.ja",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dicapai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "prestasi yang diperlihatkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemampuan kerja (tentang peralatan)"
+        }
+      ]
+    },
+    {
+      "lema": "ki.ner.ja /kinêrja/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kerja"
+        }
+      ]
+    }
+  ]
+}

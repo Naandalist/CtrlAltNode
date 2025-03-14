@@ -1,0 +1,41 @@
+{
+  "istilah": "makar",
+  "entri": "ma.kar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tipu muslihat",
+    "kataAsal": "makr"
+  },
+  "data": [
+    {
+      "lema": "ma.kar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akal busuk; tipu muslihat: segala --nya itu sudah diketahui lawannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan (usaha) dengan maksud hendak menyerang atau membunuh orang dan sebagainya: karena berbuat -- hingga menghilangkan nyawa seseorang, ia dihukum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan (usaha) menjatuhkan pemerintah yang sah: ia dituduh melakukan --"
+        }
+      ]
+    },
+    {
+      "lema": "ma.kar2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kaku dan keras (tentang buah-buahan); bangkar"
+        }
+      ]
+    }
+  ]
+}

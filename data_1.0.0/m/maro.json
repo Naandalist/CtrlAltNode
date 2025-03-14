@@ -1,0 +1,42 @@
+{
+  "istilah": "maro",
+  "entri": "ma.ro1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.ro1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "perjanjian membagi dua hasil tanah antara penggarap dan pemilik tanah (pada masyarakat Jawa dan Sunda)"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ro2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Or[Ormu: -]",
+          "deskripsi": "kain dari kulit kayu"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ro3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Trj[Toraja: -]",
+          "deskripsi": "upacara penyembuhan orang yang kerasukan setan, dilakukan dengan melulurkan darah pada badannya, lalu dipanaskan dengan api"
+        }
+      ]
+    }
+  ]
+}

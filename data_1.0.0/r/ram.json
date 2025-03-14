@@ -1,0 +1,50 @@
+{
+  "istilah": "ram",
+  "entri": "ram1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ram1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi deram"
+        }
+      ]
+    },
+    {
+      "lema": "ram2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemidangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kawat yang dijalin berkotak-kotak (sebagai penutup jendela, ventilasi, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jendela"
+        }
+      ]
+    },
+    {
+      "lema": "ram3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ eram"
+        }
+      ]
+    }
+  ]
+}

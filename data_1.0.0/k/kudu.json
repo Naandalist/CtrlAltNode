@@ -1,0 +1,42 @@
+{
+  "istilah": "kudu",
+  "entri": "ku.du1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kuncup (hampir mekar)",
+    "kataAsal": "kuḍu"
+  },
+  "data": [
+    {
+      "lema": "ku.du1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kuntum bunga"
+        }
+      ]
+    },
+    {
+      "lema": "ku.du2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cat merah untuk mewarnai kain batik, dibuat dari akar atau kulit pohon mengkudu"
+        }
+      ]
+    },
+    {
+      "lema": "ku.du3",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "harus; wajib"
+        }
+      ]
+    }
+  ]
+}

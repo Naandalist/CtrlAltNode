@@ -1,0 +1,32 @@
+{
+  "istilah": "garis tengah",
+  "entri": "garis1 » garis tengah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "garis1 » garis tengah",
+      "arti": [
+        {
+          "kelas_kata": "Olr[Olahraga: -]",
+          "deskripsi": "garis horizontal lapangan bola tepat di tengah-tengah, yang membagi lapangan menjadi dua bagian: tendangan itu melewati -- tengah dan masuk ke daerah pertahanan lawan"
+        },
+        {
+          "kelas_kata": "Olr[Olahraga: -]",
+          "deskripsi": "garis yang membagi lingkaran menjadi dua bagian yang sama besar melalui titik pusat"
+        },
+        {
+          "kelas_kata": "Olr[Olahraga: -]",
+          "deskripsi": "garis pembagi area untuk permainan ganda yang membagi area menjadi dua bagian yang sama"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "istilah": "rusak",
+  "entri": "ru.sak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berusak",
+    "kerusakan",
+    "merusak",
+    "merusaki",
+    "merusakkan",
+    "perusak",
+    "perusakan",
+    "terusak"
+  ],
+  "gabunganKata": [
+    "rusak hatinya",
+    "rusak moralnya",
+    "rusak namanya"
+  ],
+  "peribahasa": [
+    "ikan seekor rusakkan ikan setajau; ikan sekambu rusak oleh ikan seekor; karena nila setitik, rusak susu sebelanga; karena nila setitik, rusak susu sebelanga; potong hidung, rusak muka; potong hidung, rusak muka; rusak anak oleh menantu; rusak bangsa oleh laku; rusak tapai karena ragi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "rusak, hancur, sobek, ringsek, terhempas, runtuh, dalam kondisi buruk, berantakan",
+    "kataAsal": "rusak"
+  },
+  "data": [
+    {
+      "lema": "ru.sak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah tidak sempurna (baik, utuh) lagi: banyak rumah yang -- karena gempa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "luka-luka; bercalar-calar; calar balar: pemain kesebelasan kita banyak yang -- dalam pertandingan final itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "busuk: ditemukan mayat yang sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak dapat berjalan lagi (tentang mobil, mesin): mobil saya -- lagi hari ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak beraturan lagi (tentang bahasa, adat): adat yang sudah --; dengan bahasa yang -- orang asing itu menanyakan alamat hotel yang ditujunya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak utuh lagi (perkawinan): perkawinannya sudah lama --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "terganggu (ingatannya): -- ingatannya karena gegar otak"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "hancur; binasa: -- negeri itu karena pengeboman yang dahsyat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak baik: namanya sudah -- di mata masyarakat"
+        }
+      ]
+    }
+  ]
+}

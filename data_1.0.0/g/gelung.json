@@ -1,0 +1,54 @@
+{
+  "istilah": "gelung",
+  "entri": "ge.lung1 /gêlung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergelung",
+    "gelungan",
+    "menggelung",
+    "menggelungkan",
+    "tergelung",
+    "tergelung-gelung"
+  ],
+  "gabunganKata": [
+    "gelung kori"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "konde (model Jawa); ukuran untuk wol dan lain-lain (kelos, kumparan)",
+    "kataAsal": "gělung"
+  },
+  "data": [
+    {
+      "lema": "ge.lung1 /gêlung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkar atau gulung (tali, rotan, ular)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluk (setengah bulatan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sanggul perempuan yang dilingkarkan di kepala bagian belakang; konde"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "lekuk-lekuk permukaan otak; girus"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lung2 /gêlung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "mahkota (hiasan kepala) yang dikenakan penari"
+        }
+      ]
+    }
+  ]
+}

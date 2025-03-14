@@ -1,0 +1,42 @@
+{
+  "istilah": "dus",
+  "entri": "dus1",
+  "bentukTidakBaku": "dos",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "alat untuk memancarkan air mandi dan sebagainya: mandi di bawah --"
+        }
+      ]
+    },
+    {
+      "lema": "dus2 bentuk tidak baku: dos",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotak dari kertas tebal (karton); dos; kardus"
+        }
+      ]
+    },
+    {
+      "lema": "dus3",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "dengan demikian; jadi: --, kami rasa sudah cukup penjelasan yang kami berikan"
+        }
+      ]
+    }
+  ]
+}

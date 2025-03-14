@@ -1,0 +1,32 @@
+{
+  "istilah": "transposisi",
+  "entri": "trans.po.si.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trans.po.si.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perpindahan posisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "proses atau hasil perubahan fungsi atau kelas kata tanpa penambahan apa-apa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "perubahan yang terjadi pada proses penurunan atau penyalinan teks, berupa pemindahan tempat huruf, kata, atau larik"
+        }
+      ]
+    }
+  ]
+}

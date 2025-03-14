@@ -1,0 +1,28 @@
+{
+  "istilah": "fisi",
+  "entri": "fi.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembelahan sel, misalnya pembelahan organisme bersel tunggal menjadi dua sel yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "pembelahan inti atom menjadi inti-inti atom baru yang lebih ringan sambil melepaskan energi"
+        }
+      ]
+    }
+  ]
+}

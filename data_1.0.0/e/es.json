@@ -1,0 +1,75 @@
+{
+  "istilah": "es",
+  "entri": "es1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beres"
+  ],
+  "gabunganKata": [
+    "es bantut",
+    "es batu",
+    "es bening",
+    "es brenibon",
+    "es buah campolai",
+    "es buah hunkue",
+    "es buah tap",
+    "es campur",
+    "es caruk",
+    "es cendol",
+    "es cendol kopi",
+    "es doger",
+    "es goyang",
+    "es goyobod",
+    "es hanyut",
+    "es kering",
+    "es kolang-kaling",
+    "es krim",
+    "es krim Neapolitan",
+    "es laksmana mengamuk",
+    "es lekat",
+    "es lilin",
+    "es loder",
+    "es mambo",
+    "es oyen",
+    "es pisang ijo",
+    "es podeng",
+    "es potong",
+    "es puter",
+    "es rumput laut",
+    "es saguer",
+    "es sekoteng",
+    "es selasih",
+    "es selendang mayang",
+    "es serpihan",
+    "es serut",
+    "es tebak",
+    "es teh tarik",
+    "es teler"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "es1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf s"
+        }
+      ]
+    },
+    {
+      "lema": "es2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air beku; air membatu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "istilah": "urat",
+  "entri": "u.rat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berurat",
+    "peruratan"
+  ],
+  "gabunganKata": [
+    "urat bijih",
+    "urat daging",
+    "urat darah",
+    "urat keting",
+    "urat leher",
+    "urat malu",
+    "urat merih",
+    "urat nadi",
+    "urat saraf",
+    "urat tengah"
+  ],
+  "peribahasa": [
+    "menghendaki urat lesung; pucuk diremas dengan santan, urat direndam dengan tengguli, lamun peria pahit juga"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.rat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dalam tubuh yang menyerupai benang atau tali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalur atau garis yang tampak pada permukaan (kayu, daun, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "akar:"
+        }
+      ]
+    },
+    {
+      "lema": "u.rat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong benda untuk rotan dan sebagainya: dua -- rotan"
+        }
+      ]
+    },
+    {
+      "lema": "u.rat3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ aurat"
+        }
+      ]
+    },
+    {
+      "lema": "u.rat4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bn[Benuaq: -]",
+          "deskripsi": "ladang atau lahan yang dibuka, tetapi pohon atau kayunya tidak besar-besar, mudah untuk dibersihkan"
+        }
+      ]
+    }
+  ]
+}

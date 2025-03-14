@@ -1,0 +1,47 @@
+{
+  "istilah": "membilang",
+  "entri": "bilang1 » mem.bi.lang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "menengadah membilang layar, menangkup membilang lantai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bilang1 » mem.bi.lang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghitung (dengan menyebut satu per satu untuk mengetahui berapa banyaknya): ~ uang tabungannya; ~ dari seratus sampai seribu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengingat akan; mengindahkan; memedulikan: dia hanya ~ orang terpandang saja; tiada ~ kaya dan miskin"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memandang sebagai; memasukkan dalam golongan (lingkungan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memperhitungkan nasib (untung malang, baik buruk hari, dan sebagainya): dicarinya seorang dukun yang pandai ~ nasib"
+        }
+      ]
+    },
+    {
+      "lema": "bilang2 » mem.bi.lang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengatakan: banyak orang yang ~ bahwa ongkos transpor dalam kota akan naik"
+        }
+      ]
+    }
+  ]
+}

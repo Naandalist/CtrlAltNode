@@ -1,0 +1,47 @@
+{
+  "istilah": "lambang",
+  "entri": "lam.bang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlambang",
+    "berlambangkan",
+    "melambangkan",
+    "pelambangan"
+  ],
+  "gabunganKata": [
+    "lambang aljabar",
+    "lambang awan",
+    "lambang meteorologi",
+    "lambang negara",
+    "lambang struktur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lam.bang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda (lukisan, lencana, dan sebagainya) yang menyatakan suatu hal atau mengandung maksud tertentu; simbol: gambar tunas kelapa -- Pramuka; warna biru ialah -- kesetiaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda pengenal yang tetap (menyatakan sifat, keadaan, dan sebagainya): peci putih dan serban ialah -- haji"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf atau tanda yang digunakan untuk menyatakan unsur, senyawa, sifat, atau satuan matematika"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "gambar atau nama surat kabar atau penerbit yang dicetak di bagian bawah nama surat kabar atau pada halaman judul utama"
+        }
+      ]
+    }
+  ]
+}

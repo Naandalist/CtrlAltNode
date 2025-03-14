@@ -1,0 +1,34 @@
+{
+  "istilah": "transit",
+  "entri": "tran.sit bentuk tidak baku: transito",
+  "bentukTidakBaku": "transito",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "transit narkotika"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tran.sit bentuk tidak baku: transito",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat singgah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dag[Perdagangan: -]",
+          "deskripsi": "lintasan barang dagangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "peristiwa melintasnya suatu benda langit yang berukuran relatif kecil di piringan benda langit lain yang berukuran lebih besar, biasanya bintang atau planet"
+        }
+      ]
+    }
+  ]
+}

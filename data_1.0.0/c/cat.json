@@ -1,0 +1,46 @@
+{
+  "istilah": "cat",
+  "entri": "cat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercat",
+    "catan",
+    "mengecat",
+    "pengecat",
+    "pengecatan"
+  ],
+  "gabunganKata": [
+    "cat air",
+    "cat alis",
+    "cat bakar",
+    "cat batik",
+    "cat bibir",
+    "cat kuku",
+    "cat lateks",
+    "cat minyak",
+    "cat rambut",
+    "cat semprot",
+    "cat wajah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "cat; lak; pernis",
+    "kataAsal": "chhat"
+  },
+  "data": [
+    {
+      "lema": "cat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan pewarna (berupa barang cair, cairan yang kental, atau tepung)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "bahan cair kental yang dibuat dari bahan pigmen dan zat pengikat, dapat diberi zat pewarna (untuk mewarnai suatu permukaan kayu, logam yang berfungsi sebagai lapisan pelindung atau dekorasi)"
+        }
+      ]
+    }
+  ]
+}

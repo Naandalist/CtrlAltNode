@@ -1,0 +1,49 @@
+{
+  "istilah": "menyisir",
+  "entri": "sisir1 » me.nyi.sir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sisir1 » me.nyi.sir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merapikan (rambut) dengan sisir"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggaru (tanah); meratakan (tanah) dengan garu dan sebagainya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bio[Biologi: -]",
+          "deskripsi": "memiliki segmen yang banyak, rapat, dan sempit sehingga menyerupai sisir"
+        }
+      ]
+    },
+    {
+      "lema": "sisir2 » me.nyi.sir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyusur (pantai dan sebagainya); berjalan dan sebagainya sepanjang tepi: mereka berjalan ~ semenanjung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerempet: peluru hanya ~ lengannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memeriksa satu per satu: Pemerintah ~ dana yang tersisa untuk dialihkan ke penanganan kesehatan"
+        }
+      ]
+    }
+  ]
+}

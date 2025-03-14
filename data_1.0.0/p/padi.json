@@ -1,0 +1,67 @@
+{
+  "istilah": "padi",
+  "entri": "pa.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpadi",
+    "padi-padian",
+    "perpadian",
+    "sepadi"
+  ],
+  "gabunganKata": [
+    "padi bendang",
+    "padi berat",
+    "padi cerai",
+    "padi cere",
+    "padi dalam",
+    "padi gadu",
+    "padi genjah",
+    "padi gogo",
+    "padi hibrida",
+    "padi huma",
+    "padi jawi",
+    "padi ketan",
+    "padi ladang",
+    "padi lambat",
+    "padi lekas",
+    "padi pulut",
+    "padi radin",
+    "padi ringan",
+    "padi sawah",
+    "padi selibu",
+    "padi sipulut",
+    "padi tugalan"
+  ],
+  "peribahasa": [
+    "ada beras, taruh dalam padi; ada padi, segala menjadi; ayam bertelur di padi; baik berjagung-jagung, sementara padi belum masak; bak ilmu padi, kian berisi kian runduk; bukan tanahnya menjadi padi; diserakkan padi awak diimbaukan orang lain; ilmu padi, makin berisi makin runduk; jika kasih akan padi, buanglah rumput; kecil-kecil lada api (padi, kutu); menyisip padi dengan ilalang; padi dikebat dengan daunnya; padi masak, jagung mengupih; padi segenggam dengan senang hati lebih baik daripada padi selumbung dengan bersusah hati; padi sekepuk hampa, emas seperti loyang, kerbau sekandang jalang; padi selumbung dimakan orang banyak; pagar makan padi; paksa tekukur, padi rebah, paksa tikus, lengkiang terbuka; seperti lonjak alu penumbuk padi; tak ada padi yang bernas setangkai; tanam lalang, tak akan tumbuh padi; taruh beras dalam padi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.di1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "terna yang termasuk suku Poaceae, tingginya mencapai 1,2 m, berdaun memita panjang, berbunga majemuk, menghasilkan bulir beras yang bervariasi warnanya, tumbuh di sawah atau ladang, biasanya dimanfaatkan sebagai makanan pokok〔Oryza sativa〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butir dan buah padi"
+        }
+      ]
+    },
+    {
+      "lema": "pa.di2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(dalam beberapa ungkapan berarti) kecil: lada -- lada yang kecil"
+        }
+      ]
+    }
+  ]
+}

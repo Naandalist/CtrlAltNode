@@ -1,0 +1,33 @@
+{
+  "istilah": "tmt",
+  "entri": "TMT1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "TMT1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] sing[singkatan]",
+          "deskripsi": "teman makan teman"
+        }
+      ]
+    },
+    {
+      "lema": "TMT2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "terhitung mulai tanggal"
+        }
+      ]
+    }
+  ]
+}

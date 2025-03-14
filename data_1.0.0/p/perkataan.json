@@ -1,0 +1,32 @@
+{
+  "istilah": "perkataan",
+  "entri": "kata1 » per.ka.ta.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kata1 » per.ka.ta.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dikatakan: ~ orang itu sangat menyinggung perasaanku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata; kumpulan kata: ia senang sekali memakai ~ asing dalam berbicara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Sas[Sastra: -]",
+          "deskripsi": "cerita; kisah: adapun ~ mengenai hal itu terlalu lanjut ceritanya"
+        }
+      ]
+    }
+  ]
+}

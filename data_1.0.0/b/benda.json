@@ -1,0 +1,49 @@
+{
+  "istilah": "benda",
+  "entri": "ben.da /bênda/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbenda",
+    "kebendaan",
+    "membendakan",
+    "pembendaan",
+    "perbendaan"
+  ],
+  "gabunganKata": [
+    "benda bergerak",
+    "benda cair",
+    "benda ekonomi",
+    "benda hidup",
+    "benda hitam",
+    "benda konsumsi",
+    "benda langit",
+    "benda mati",
+    "benda padat",
+    "benda tahan lama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.da /bênda/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segala yang ada dalam alam yang berwujud atau berjasad (bukan roh); zat (misalnya air, minyak)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang berharga (sebagai kekayaan); harta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang: rumah itu terbakar bersama -- yang ada di dalamnya"
+        }
+      ]
+    }
+  ]
+}

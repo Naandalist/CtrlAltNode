@@ -1,0 +1,47 @@
+{
+  "istilah": "gama",
+  "entri": "ga.ma1 bentuk tidak baku: gamma",
+  "bentukTidakBaku": "gamma",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gama karboksiglutamat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.ma1 bentuk tidak baku: gamma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-3 abjad Yunani"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "sinar gama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "derajat kekontrasan film dalam fotografi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "mikrogram"
+        }
+      ]
+    },
+    {
+      "lema": "ga.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -] Tan[Pertanian: -]",
+          "deskripsi": "ukuran sebesar genggaman untuk tangkai padi yang disabit: baru beberapa -- padi yang selesai disabit, tetapi petani itu sudah kelihatan sangat lelah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "presipitasi",
+  "entri": "pre.si.pi.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "presipitasi buatan",
+    "presipitasi saluran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pre.si.pi.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "proses pengendapan, baik dari dalam larutan maupun dari udara permukaan ke permukaan bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "kandungan kelembapan udara yang berbentuk cairan atau bahan padat, seperti hujan, embun, salju"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "percepatan, biasanya tiba-tiba dan tidak diharapkan"
+        }
+      ]
+    }
+  ]
+}

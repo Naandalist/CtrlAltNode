@@ -1,0 +1,44 @@
+{
+  "istilah": "wakaf",
+  "entri": "wa.kaf1 bentuk tidak baku: waqaf",
+  "bentukTidakBaku": "waqaf",
+  "kataTurunan": [
+    "berwakaf",
+    "mewakafkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jeda; benda bergerak atau tidak bergerak yang disediakan untuk kepentingan umum (Islam) sebagai pemberian yang ikhlas",
+    "kataAsal": "waqf"
+  },
+  "data": [
+    {
+      "lema": "wa.kaf1 bentuk tidak baku: waqaf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah negara yang tidak dapat diserahkan kepada siapa pun dan digunakan untuk tujuan amal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda bergerak atau tidak bergerak yang disediakan untuk kepentingan umum (Islam) sebagai pemberian yang ikhlas: tanah -- ini disediakan untuk madrasah atau masjid"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hadiah atau pemberian yang bersifat suci"
+        }
+      ]
+    },
+    {
+      "lema": "wa.kaf2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penghentian sebentar (waktu membaca kalimat dan sebagainya); jeda: kalau membaca Alquran, perlu memperhatikan panjang, pendek, mad, --, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

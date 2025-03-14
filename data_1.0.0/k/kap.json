@@ -1,0 +1,50 @@
+{
+  "istilah": "kap",
+  "entri": "kap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkap"
+  ],
+  "gabunganKata": [
+    "kap mesin"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Lay[Pelayaran: -]",
+          "deskripsi": "tali di kapal"
+        }
+      ]
+    },
+    {
+      "lema": "kap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tudung (lampu dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tenda atau atap mobil"
+        }
+      ]
+    },
+    {
+      "lema": "kap3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "kapital; huruf besar"
+        }
+      ]
+    }
+  ]
+}

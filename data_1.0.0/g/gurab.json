@@ -1,0 +1,33 @@
+{
+  "istilah": "gurab",
+  "entri": "gu.rab1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "gagak",
+    "kataAsal": "gurāb"
+  },
+  "data": [
+    {
+      "lema": "gu.rab1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Par[Parsi: -]",
+          "deskripsi": "perahu layar berukuran panjang dan berbilik pada bagian tertentu"
+        }
+      ]
+    },
+    {
+      "lema": "gu.rab2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "(burung) gagak"
+        }
+      ]
+    }
+  ]
+}

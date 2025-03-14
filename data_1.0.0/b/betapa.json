@@ -1,0 +1,41 @@
+{
+  "istilah": "betapa",
+  "entri": "be.ta.pa /bêtapa/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "betapa lagi",
+    "betapa pula"
+  ],
+  "peribahasa": [
+    "betapa pun lurus paku, ujungnya berkelok juga"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ta.pa /bêtapa/",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kata tanya untuk menanyakan cara, perbuatan, pendapat, dan sebagainya; bagaimana: -- bicaramu?"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata seru penanda rasa heran, kagum, sedih, dan sebagainya; alangkah; sungguh: -- sedihnya orang yang kematian ibu"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "meskipun: -- dicarinya, tidak kunjung bertemu juga"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sebagaimana; seperti: diperlakukan -- adat orang dahulu kala"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "ruji",
+  "entri": "ru.ji1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meruji",
+    "ruji-ruji"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.ji1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan utama yang dimakan sehari-hari (seperti nasi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ransum"
+        }
+      ]
+    },
+    {
+      "lema": "ru.ji2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ruji-ruji"
+        }
+      ]
+    }
+  ]
+}

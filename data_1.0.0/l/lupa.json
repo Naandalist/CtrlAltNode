@@ -1,0 +1,51 @@
+{
+  "istilah": "lupa",
+  "entri": "lu.pa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelupaan",
+    "lupa-lupa",
+    "lupa-lupaan",
+    "melupa",
+    "melupai",
+    "melupakan",
+    "pelupa",
+    "terlupa",
+    "terlupakan"
+  ],
+  "gabunganKata": [
+    "lupa daratan",
+    "lupa diri"
+  ],
+  "peribahasa": [
+    "kacang lupa akan kulitnya; lupa kacang akan kulitnya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kerugian, kekurangan, kehilangan, gangguan, interupsi, ketidakhadiran, kealpaan",
+    "kataAsal": "lopa"
+  },
+  "data": [
+    {
+      "lema": "lu.pa",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lepas dari ingatan; tidak dalam pikiran (ingatan) lagi: karena sudah lama, ia -- akan peristiwa itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak teringat: dia -- membawa buku tulis"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak sadar (tahu akan keadaan dirinya atau keadaan sekelilingnya, dan sebagainya): semenjak jatuh dia sering -- akan keadaan sekelilingnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lalai; tidak acuh: jangan -- akan kewajibanmu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "jangat",
+  "entri": "ja.ngat bentuk tidak baku: jengat",
+  "bentukTidakBaku": "jengat",
+  "kataTurunan": [
+    "menjangat",
+    "menjangati",
+    "penjangat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "jangat liat kurang panggang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.ngat bentuk tidak baku: jengat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit luar (rotan, kayu, binatang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit rotan yang sudah diraut untuk tikar dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali dari kulit"
+        }
+      ]
+    }
+  ]
+}

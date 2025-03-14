@@ -1,0 +1,48 @@
+{
+  "istilah": "bengkung",
+  "entri": "beng.kung1 /bêngkung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbengkung",
+    "membengkung",
+    "pembengkungan"
+  ],
+  "gabunganKata": [
+    "bengkung leher"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "beng.kung1 /bêngkung/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bengkok (tentang keris, pisau, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "beng.kung2 /bêngkung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sabuk panjang atau kain untuk pembebat perut, pinggang, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "beng.kung3 /bêngkung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ijuk"
+        }
+      ]
+    }
+  ]
+}

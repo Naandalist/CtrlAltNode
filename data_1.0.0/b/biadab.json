@@ -1,0 +1,35 @@
+{
+  "istilah": "biadab",
+  "entri": "bi.a.dab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebiadaban",
+    "membiadabi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.a.dab",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "belum beradab; belum maju kebudayaannya: bangsa-bangsa -- masih banyak yang suka makan orang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tahu adat (sopan santun); kurang ajar: anak itu -- benar, tidak segan mengucapkan kata-kata kotor di hadapan umum"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidak beradab; kejam: pemerkosaan anak di bawah umur adalah perbuatan yang --"
+        }
+      ]
+    }
+  ]
+}

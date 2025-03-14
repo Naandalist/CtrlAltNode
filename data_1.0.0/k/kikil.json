@@ -1,0 +1,33 @@
+{
+  "istilah": "kikil",
+  "entri": "ki.kil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kaki",
+    "kataAsal": "kikil"
+  },
+  "data": [
+    {
+      "lema": "ki.kil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daging pada kaki kerbau, sapi, atau kambing; tunjang2"
+        }
+      ]
+    },
+    {
+      "lema": "ki.kil2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "satuan ukuran luas tanah, sama dengan dua bau"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "kilometer",
+  "entri": "ki.lo.me.ter /kilometêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.lo.me.ter /kilometêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran panjang 1.000 m (disingkat km)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "alat untuk mengukur kecepatan mobil; spidometer"
+        }
+      ]
+    }
+  ]
+}

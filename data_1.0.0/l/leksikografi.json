@@ -1,0 +1,28 @@
+{
+  "istilah": "leksikografi",
+  "entri": "lek.si.ko.gra.fi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lek.si.ko.gra.fi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "cabang ilmu bahasa mengenai teknik penyusunan kamus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "perihal penyusunan kamus"
+        }
+      ]
+    }
+  ]
+}

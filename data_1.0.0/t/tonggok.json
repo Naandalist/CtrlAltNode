@@ -1,0 +1,36 @@
+{
+  "istilah": "tonggok",
+  "entri": "tong.gok1",
+  "bentukTidakBaku": "tonggong1",
+  "kataTurunan": [
+    "bertonggok",
+    "menonggokkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tong.gok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "longgok; tumpuk"
+        }
+      ]
+    },
+    {
+      "lema": "tong.gok2 bentuk tidak baku: tonggong1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menonggokkan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "tepus",
+  "entri": "te.pus1 /têpus/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "nama jenis tumbuhan, termasuk Zingiberaceae",
+    "kataAsal": "těpus"
+  },
+  "data": [
+    {
+      "lema": "te.pus1 /têpus/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "terna berimpang yang daunnya menyerupai daun pisang, bunganya berwarna merah terbuka, buahnya berwarna kuning dan umbutnya dapat dimakan, tumbuh di bioma tropis basah〔Etlingera megalocheilos〕"
+        }
+      ]
+    },
+    {
+      "lema": "te.pus2 /têpus/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "burung endemik Jawa yang termasuk suku Timaliidae, bertubuh kecil, tinggal di hutan dataran rendah hingga perbukitan dengan ketinggian hingga 900 meter dari permukaan laut (dpl), hidup dalam berkelompok kecil, memangsa serangga seperti ulat, kupu-kupu, tempayak, kecoak〔Stachyris〕 atau 〔Crateroscelis〕 atau 〔Timalia〕"
+        }
+      ]
+    }
+  ]
+}

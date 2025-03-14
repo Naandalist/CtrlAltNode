@@ -1,0 +1,37 @@
+{
+  "istilah": "mangut",
+  "entri": "ma.ngut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.ngut1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bingung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melamun; termenung"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ngut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "ikan yang digoreng atau dipanggang, dimasak dengan santan kental yang telah dibumbui dengan cabai"
+        }
+      ]
+    }
+  ]
+}

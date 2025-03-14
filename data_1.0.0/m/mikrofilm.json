@@ -1,0 +1,30 @@
+{
+  "istilah": "mikrofilm",
+  "entri": "mik.ro.film",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mikrofilm keluaran komputer"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mik.ro.film",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "film yang memuat rekaman foto bahan tertulis, tercetak, dan sebagainya dalam ukuran yang sangat kecil: perpustakaan juga menyimpan -- naskah kuno"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "irisan tipis film yang tersimpan pada rol dan digunakan untuk merekam data citra berurutan"
+        }
+      ]
+    }
+  ]
+}

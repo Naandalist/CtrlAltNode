@@ -1,0 +1,33 @@
+{
+  "istilah": "pokrol",
+  "entri": "pok.rol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memokrolkan",
+    "pokrol-pokrolan"
+  ],
+  "gabunganKata": [
+    "pokrol bambu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pok.rol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembela atau wakil orang yang beperkara (dalam pengadilan); pengacara; advokat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang yang pandai berbantah (berdebat, berputar lidah, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

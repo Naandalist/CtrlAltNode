@@ -1,0 +1,56 @@
+{
+  "istilah": "guna",
+  "entri": "gu.na1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berguna",
+    "berkegunaan",
+    "kegunaan",
+    "ketergunaan",
+    "mempergunakan",
+    "menggunakan",
+    "pengguna",
+    "penggunaan",
+    "seguna",
+    "tergunakan"
+  ],
+  "gabunganKata": [
+    "guna air"
+  ],
+  "peribahasa": [
+    "bagai (guna) alu sesudah menumbuk dicampakkan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sehelai benang, tali, sumbu; karakter, kualitas, nilai",
+    "kataAsal": "guṇa"
+  },
+  "data": [
+    {
+      "lema": "gu.na1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "manfaat; faedah; maslahat: belajar silat tentu ada --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "fungsi: apakah -- akhiran “-an” pada kalimat ini?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kebaikan; budi baik: tidak tahu membalas --"
+        }
+      ]
+    },
+    {
+      "lema": "gu.na2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata depan untuk menyatakan tujuan; untuk; bagi: -- kepentingan umum; ia datang ke Jakarta -- bekerja"
+        }
+      ]
+    }
+  ]
+}

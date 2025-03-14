@@ -1,0 +1,44 @@
+{
+  "istilah": "lanjar",
+  "entri": "lan.jar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lanjaran",
+    "melanjar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "diarahkan sepanjang tiang",
+    "kataAsal": "lañjar"
+  },
+  "data": [
+    {
+      "lema": "lan.jar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bertambah panjang (karena diulurkan, dijulurkan)"
+        }
+      ]
+    },
+    {
+      "lema": "lan.jar2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lantas; lalu; langsung"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "cepat hilang (lenyap)"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lancar"
+        }
+      ]
+    }
+  ]
+}

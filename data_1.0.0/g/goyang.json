@@ -1,0 +1,38 @@
+{
+  "istilah": "goyang",
+  "entri": "go.yang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergoyang",
+    "bergoyang-goyang",
+    "goyangan",
+    "kegoyangan",
+    "menggoyang",
+    "menggoyang-goyangkan",
+    "menggoyangkan",
+    "penggoyang",
+    "tergoyang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "go.yang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bergerak berayun-ayun: langit-langit rumah banyak yang runtuh dan lampu gantung -- karena gempa"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "selalu berubah; goncang (tentang keadaan): menjelang Lebaran harga-harga --"
+        }
+      ]
+    }
+  ]
+}

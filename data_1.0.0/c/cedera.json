@@ -1,0 +1,93 @@
+{
+  "istilah": "cedera",
+  "entri": "ce.de.ra1 /cêdêra/",
+  "bentukTidakBaku": "cidera",
+  "kataTurunan": [
+    "bercedera",
+    "kecederaan",
+    "percederaan",
+    "mencederai",
+    "secedera",
+    "tercedera",
+    "tercederai",
+    "bercedera",
+    "kecederaan",
+    "mencedera",
+    "mencederai",
+    "mencederakan",
+    "pencederaan",
+    "mencedera"
+  ],
+  "gabunganKata": [
+    "cedera gerakan berulang",
+    "cedera kronis",
+    "cedera lebih pakai",
+    "cedera oksidatif",
+    "cedera janji"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "titik lemah (khususnya dalam konteks pertahanan, ketiadaan perhatian dalam peperangan, dan lain-lain); serangan tidak disangka-sangka, terperanjat, tindakan dengan diam-diam, tipu muslihat, penipuan, cara-cara yang tidak jujur, yang palsu",
+    "kataAsal": "cidra"
+  },
+  "data": [
+    {
+      "lema": "ce.de.ra1 /cêdêra/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perselisihan; pertengkaran"
+        }
+      ]
+    },
+    {
+      "lema": "ce.de.ra2 /cêdêra/bentuk tidak baku: cidera",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cacat (ada luka) sedikit: akibat kecelakaan itu, kakinya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ada cacatnya; rusak"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merana (karena berpenyakitan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rugi"
+        }
+      ]
+    },
+    {
+      "lema": "ce.de.ra3 /cêdêra/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "khianat"
+        }
+      ]
+    },
+    {
+      "lema": "ce.de.ra4 /cêdêra/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ cendera2"
+        }
+      ]
+    },
+    {
+      "lema": "ce.de.ra5 /cêdêra/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "datang secara tiba-tiba"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "gebos",
+  "entri": "ge.bos1 /gêbos/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggebos",
+    "menggebos"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.bos1 /gêbos/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hardik"
+        }
+      ]
+    },
+    {
+      "lema": "ge.bos2 /gêbos/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menggebos"
+        }
+      ]
+    },
+    {
+      "lema": "ge.bos3 /gêbos/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hidm[Hidrometeorologi: -]",
+          "deskripsi": "gejala atmosfer yang ditandai dengan perubahan kecepatan angin yang sangat besar"
+        }
+      ]
+    }
+  ]
+}

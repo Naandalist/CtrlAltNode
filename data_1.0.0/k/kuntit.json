@@ -1,0 +1,37 @@
+{
+  "istilah": "kuntit",
+  "entri": "kun.tit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menguntit",
+    "menguntiti",
+    "penguntit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kun.tit1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ikut (dari belakang)"
+        }
+      ]
+    },
+    {
+      "lema": "kun.tit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "anak belut"
+        }
+      ]
+    }
+  ]
+}

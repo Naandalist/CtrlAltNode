@@ -1,0 +1,33 @@
+{
+  "istilah": "pelapukan",
+  "entri": "lapuk1 » pe.la.puk.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pelapukan fisika",
+    "pelapukan kima",
+    "pelapukan kimia",
+    "pelapukan mekanis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lapuk1 » pe.la.puk.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, cara, perbuatan menjadi lapuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "perubahan atau penghancuran dalam batuan atau sedimen pada permukaan bumi yang disebabkan faktor biologi, kimia, atau fisika"
+        }
+      ]
+    }
+  ]
+}

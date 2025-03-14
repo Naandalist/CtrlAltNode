@@ -1,0 +1,33 @@
+{
+  "istilah": "terminus vitae",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "tonggak akhir kehidupan; kematian; ajal"
+        }
+      ]
+    },
+    {
+      "lema": "terminus vitae",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "tonggak akhir kehidupan; kematian; ajal"
+        }
+      ]
+    }
+  ]
+}

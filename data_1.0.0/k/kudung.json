@@ -1,0 +1,46 @@
+{
+  "istilah": "kudung",
+  "entri": "ku.dung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengudung",
+    "mengudungkan",
+    "pengudung",
+    "pengudungan",
+    "sekudung",
+    "berkudung",
+    "kerudung",
+    "mengudungkan"
+  ],
+  "gabunganKata": [
+    "kudung mandi"
+  ],
+  "peribahasa": [
+    "bagai si kudung beroleh cincin; bagai si kudung pergi berbelut; seperti lipas kudung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tutup, bungkus, kerudung",
+    "kataAsal": "kuḍuṅ"
+  },
+  "data": [
+    {
+      "lema": "ku.dung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terpotong atau terpenggal pada ujungnya: tangannya --"
+        }
+      ]
+    },
+    {
+      "lema": "ku.dung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain selubung (penutup) kepala; kerudung: para santri wanita diharuskan memakai -- dan baju kurung"
+        }
+      ]
+    }
+  ]
+}

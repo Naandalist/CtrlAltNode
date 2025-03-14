@@ -1,0 +1,50 @@
+{
+  "istilah": "jambu",
+  "entri": "jam.bu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jambu-jambu"
+  ],
+  "gabunganKata": [
+    "jambu air",
+    "jambu air mawar",
+    "jambu batu",
+    "jambu biji",
+    "jambu bol",
+    "jambu bol mini",
+    "jambu ceri",
+    "jambu dersana",
+    "jambu jamblang",
+    "jambu keling",
+    "jambu madu deli hijau",
+    "jambu madu hijau",
+    "jambu mete",
+    "jambu monyet"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "buah jambu air",
+    "kataAsal": "jambu"
+  },
+  "data": [
+    {
+      "lema": "jam.bu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama pohon dan buahnya, ada berbagai macam"
+        }
+      ]
+    },
+    {
+      "lema": "jam.bu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jambul; gombak; bulu-bulu (pada ujung tombak dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "istilah": "tebas",
+  "entri": "te.bas1 /têbas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menebas",
+    "menebasi",
+    "menebaskan",
+    "penebasan",
+    "tebasan",
+    "menebas",
+    "menebaskan",
+    "penebas",
+    "tebasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.bas1 /têbas/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menebas"
+        }
+      ]
+    },
+    {
+      "lema": "te.bas2 /têbas/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "borong (hasil tanam dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "te.bas3 /têbas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "uang pengganti penyediaan sajen dalam ruwatan"
+        }
+      ]
+    }
+  ]
+}

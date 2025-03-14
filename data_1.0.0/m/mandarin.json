@@ -1,0 +1,37 @@
+{
+  "istilah": "mandarin",
+  "entri": "man.da.rin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.da.rin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pejabat dalam kekaisaran Cina"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ditulis dengan huruf awal kapital) nama yang diberikan pada bahasa utama di negeri Cina, dipakai di sekitar Beijing, merupakan bahasa standar bagi negeri itu"
+        }
+      ]
+    },
+    {
+      "lema": "man.da.rin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jeruk keprok"
+        }
+      ]
+    }
+  ]
+}

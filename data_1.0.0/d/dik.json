@@ -1,0 +1,33 @@
+{
+  "istilah": "dik",
+  "entri": "dik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "adik; kata sapaan untuk saudara, teman yang lebih muda dari penyapa"
+        }
+      ]
+    },
+    {
+      "lema": "DIK",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "daftar isian kegiatan"
+        }
+      ]
+    }
+  ]
+}

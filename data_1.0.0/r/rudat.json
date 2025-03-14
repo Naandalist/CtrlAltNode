@@ -1,0 +1,33 @@
+{
+  "istilah": "rudat",
+  "entri": "ru.dat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.dat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seni tari dan nyanyian yang diiringi rebana dari Jawa Barat, berisi ajaran agama Islam"
+        }
+      ]
+    },
+    {
+      "lema": "ru.dat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ss[Sasak: -]",
+          "deskripsi": "tarian pedang dengan pakaian prajurit zaman dahulu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "tumpur",
+  "entri": "tum.pur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menumpur",
+    "menumpurkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "rusak, hancur; gugur dalam pertempuran",
+    "kataAsal": "tumpur"
+  },
+  "data": [
+    {
+      "lema": "tum.pur",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "habis sama sekali; binasa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jatuh miskin; kehabisan uang; habis-habisan"
+        }
+      ]
+    }
+  ]
+}

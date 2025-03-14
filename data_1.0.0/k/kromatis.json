@@ -1,0 +1,33 @@
+{
+  "istilah": "kromatis",
+  "entri": "kro.ma.tis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kro.ma.tis1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan warna; dapat diwarnai dengan bahan kimia; berwarna"
+        }
+      ]
+    },
+    {
+      "lema": "kro.ma.tis2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Mus[Musik: -]",
+          "deskripsi": "menurut tangga nada yang turun dan naik setengah nada"
+        }
+      ]
+    }
+  ]
+}

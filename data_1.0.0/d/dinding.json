@@ -1,0 +1,54 @@
+{
+  "istilah": "dinding",
+  "entri": "din.ding1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdinding",
+    "mendinding",
+    "mendindingi",
+    "pendinding",
+    "pendindingan",
+    "sedinding",
+    "terdinding",
+    "mendinding"
+  ],
+  "gabunganKata": [
+    "dinding api",
+    "dinding asam",
+    "dinding awan",
+    "dinding bata",
+    "dinding batu",
+    "dinding debu",
+    "dinding fohn",
+    "dinding fon",
+    "dinding sekat"
+  ],
+  "peribahasa": [
+    "ampang sampai ke seberang, dinding sampai ke langit; dinding teretas, tangga terpasang; empang sampai ke seberang, dinding sampai ke langit"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "din.ding1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penutup sisi samping (penyekat) ruang, rumah, bilik, dan sebagainya (dibuat) dari papan, anyaman bambu, tembok, dan sebagainya: --nya terbuat dari papan"
+        }
+      ]
+    },
+    {
+      "lema": "din.ding2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mendinding"
+        }
+      ]
+    }
+  ]
+}

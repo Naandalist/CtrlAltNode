@@ -1,0 +1,32 @@
+{
+  "istilah": "ekstremis",
+  "entri": "eks.tre.mis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.tre.mis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang ekstrem"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang melampaui batas kebiasaan (hukum dan sebagainya) dalam membela atau menuntut sesuatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pejuang pada masa perang kemerdekaan melawan Belanda"
+        }
+      ]
+    }
+  ]
+}

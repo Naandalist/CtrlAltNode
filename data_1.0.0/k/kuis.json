@@ -1,0 +1,57 @@
+{
+  "istilah": "kuis",
+  "entri": "ku.is1",
+  "bentukTidakBaku": "kwiz",
+  "kataTurunan": [
+    "menguis",
+    "menguis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.is1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sepak (ke sisi); tepis"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kais"
+        }
+      ]
+    },
+    {
+      "lema": "ku.is2 bentuk tidak baku: kwiz",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujian lisan atau tertulis yang singkat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "acara hiburan dalam radio atau televisi yang berupa perlombaan adu cepat menjawab pertanyaan; cepat tepat; cerdas cermat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(dalam majalah) daftar pertanyaan sederhana yang berhadiah (kadang-kadang mengandung promosi dagang)"
+        }
+      ]
+    },
+    {
+      "lema": "ku.is3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menguis"
+        }
+      ]
+    }
+  ]
+}

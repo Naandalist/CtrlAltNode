@@ -1,0 +1,42 @@
+{
+  "istilah": "dol",
+  "entri": "dol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "gendang"
+        }
+      ]
+    },
+    {
+      "lema": "dol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiang kapal"
+        }
+      ]
+    },
+    {
+      "lema": "dol3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "longgar atau tidak erat lagi (tentang sekrup, ulir, dan sebagainya); galir: kalau sering dibongkar pasang, sekrupnya akan --"
+        }
+      ]
+    }
+  ]
+}

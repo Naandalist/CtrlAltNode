@@ -1,0 +1,35 @@
+{
+  "istilah": "ofset",
+  "entri": "of.set",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "ofset gulungan",
+    "ofset lembaran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "of.set",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "proses cetak buku, koran, dan sebagainya, tinta cetak dari pelat dialihkan dulu ke bahan karet, kemudian baru ke kertas atau bahan cetak lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "sistem pembelian barang (pesawat terbang dan sebagainya) yang mewajibkan pabrik penghasil sebagai penjual untuk memberikan lisensi pembuatan sebagian komponennya pada industri di negara pembeli: pembelian pesawat tempur Mirage 2000 akan dilakukan dengan sistem --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "praktik hukum terkait dengan kegiatan perdagangan dalam industri kedirgantaraan dan militer; praktik komersial departemen militer yang tidak mengacu pada aturan negara, tetapi telah diberikan kebijakan formal berkenaan kegiatan perdagangan"
+        }
+      ]
+    }
+  ]
+}

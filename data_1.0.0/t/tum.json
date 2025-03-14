@@ -1,0 +1,53 @@
+{
+  "istilah": "tum",
+  "entri": "tum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengetum"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tum1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi meriam dan sebagainya; dentum; lentum"
+        }
+      ]
+    },
+    {
+      "lema": "tum2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dibungkus"
+        }
+      ]
+    },
+    {
+      "lema": "tum3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tali kekang"
+        }
+      ]
+    },
+    {
+      "lema": "tum4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] My[Muyu: -]",
+          "deskripsi": "hiasan hidung suku Muyu terbuat dari sebuah batu kecil"
+        }
+      ]
+    }
+  ]
+}

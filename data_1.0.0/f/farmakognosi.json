@@ -1,0 +1,28 @@
+{
+  "istilah": "farmakognosi",
+  "entri": "far.ma.kog.no.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "far.ma.kog.no.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Far[Farmasi dan Farmakologi: -]",
+          "deskripsi": "cabang farmakologi tentang ciri-ciri biologis, biokimia obat-obat alami, dan konstituennya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "kajian tentang pengenalan, sifat, dan kualitas obat mentah hayati"
+        }
+      ]
+    }
+  ]
+}

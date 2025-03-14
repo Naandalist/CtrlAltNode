@@ -1,0 +1,40 @@
+{
+  "istilah": "kima",
+  "entri": "ki.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kima gebang",
+    "kima kelereng"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.ma1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "siput besar〔Chama gigas〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit lokan"
+        }
+      ]
+    },
+    {
+      "lema": "ki.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -] akr[akronim]",
+          "deskripsi": "kompi markas"
+        }
+      ]
+    }
+  ]
+}

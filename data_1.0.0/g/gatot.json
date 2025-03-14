@@ -1,0 +1,33 @@
+{
+  "istilah": "gatot",
+  "entri": "ga.tot1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.tot1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penganan kukus, dibuat dari gaplek yang disayat kecil-kecil memanjang kemudian direbus dan dicampur dengan gula, dimakan dengan parutan kelapa"
+        }
+      ]
+    },
+    {
+      "lema": "ga.tot2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] akr[akronim]",
+          "deskripsi": "gagal total: dia -- dalam lomba itu"
+        }
+      ]
+    }
+  ]
+}

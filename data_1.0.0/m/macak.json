@@ -1,0 +1,33 @@
+{
+  "istilah": "macak",
+  "entri": "ma.cak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.cak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sd[Sunda: -]",
+          "deskripsi": "kurang air (tentang sawah)"
+        }
+      ]
+    },
+    {
+      "lema": "ma.cak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sok tahu: kalau belum ada bukti yang jelas, jangan --!"
+        }
+      ]
+    }
+  ]
+}

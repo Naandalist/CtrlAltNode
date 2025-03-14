@@ -1,0 +1,33 @@
+{
+  "istilah": "stasioner",
+  "entri": "sta.si.o.ner1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sta.si.o.ner1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tetap; tidak berubah; ajek (tentang jumlah, nilai, ukuran, posisi, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "sta.si.o.ner2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pedagang alat-alat tulis"
+        }
+      ]
+    }
+  ]
+}

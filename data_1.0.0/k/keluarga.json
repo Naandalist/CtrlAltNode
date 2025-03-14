@@ -1,0 +1,69 @@
+{
+  "istilah": "keluarga",
+  "entri": "ke.lu.ar.ga1 /kêluarga/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkeluarga",
+    "kekeluargaan",
+    "perkeluargaan"
+  ],
+  "gabunganKata": [
+    "keluarga batih",
+    "keluarga berantakan",
+    "keluarga berencana",
+    "keluarga besar",
+    "keluarga bilateral",
+    "keluarga elementer",
+    "keluarga inti",
+    "keluarga kecil",
+    "keluarga kerajaan",
+    "keluarga lingkaran",
+    "keluarga luas",
+    "keluarga miskin",
+    "keluarga parsial",
+    "keluarga paternal",
+    "keluarga retak",
+    "keluarga sedarah",
+    "keluarga semenda",
+    "keluarga si putih",
+    "keluarga tradisional"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kelompok, golongan, keluarga, klan, bagian",
+    "kataAsal": "varga"
+  },
+  "data": [
+    {
+      "lema": "ke.lu.ar.ga1 /kêluarga/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu dan bapak beserta anak-anaknya; seisi rumah: seluruh --nya pindah ke Bandung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang seisi rumah yang menjadi tanggungan; batih: ia pindah ke Jakarta bersama --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(kaum --) sanak saudara; kaum kerabat: ia sering berkunjung ke Jakarta karena banyak --nya tinggal di sana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan kekerabatan yang sangat mendasar dalam masyarakat"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lu.ar.ga2 /kêluarga/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "serangkaian produk perangkat keras atau perangkat lunak yang memiliki beberapa sifat yang sama"
+        }
+      ]
+    }
+  ]
+}

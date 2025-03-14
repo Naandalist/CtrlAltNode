@@ -1,0 +1,33 @@
+{
+  "istilah": "semesta",
+  "entri": "se.mes.ta /sêmêsta/bentuk tidak baku: mesta",
+  "bentukTidakBaku": "mesta",
+  "kataTurunan": [
+    "kesemestaan"
+  ],
+  "gabunganKata": [
+    "semesta bahasa",
+    "semesta mendukung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "terlempar atau terletak bersama; disatukan, seluruh, semua, bersama-sama;",
+    "kataAsal": "samasta"
+  },
+  "data": [
+    {
+      "lema": "se.mes.ta /sêmêsta/bentuk tidak baku: mesta",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "seluruh; segenap; semuanya: semua yang ada di alam -- ini tidak dapat lepas dari takdirnya masing-masing; pembangunan -- pembangunan seluruhnya (dalam segala lapangan)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(berlaku untuk) seluruh dunia; universal"
+        }
+      ]
+    }
+  ]
+}

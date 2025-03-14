@@ -1,0 +1,55 @@
+{
+  "istilah": "tidur",
+  "entri": "ti.dur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berseketiduran",
+    "ketidur-tiduran",
+    "ketiduran",
+    "meniduri",
+    "menidurkan",
+    "penidur",
+    "peniduran",
+    "petiduran",
+    "seketiduran",
+    "tertidur",
+    "tidur-tidur",
+    "tidur-tiduran",
+    "tiduran"
+  ],
+  "gabunganKata": [
+    "tidur cantik",
+    "tidur paradoksial"
+  ],
+  "peribahasa": [
+    "bersesak-sesak bagai ular tidur; mata tidur, bantal terjaga; minum serasa duri, makan serasa lilin, tidur tak lena, mandi tak basah; tidur bertilam air mata; tidur bertilam pasir; tidur di atas miang (enjelai); tidur tak lelap, makan tak kenyang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.dur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dalam keadaan berhenti (mengaso) badan dan kesadarannya (biasanya dengan memejamkan mata): siang untuk bekerja, malam untuk istirahat dan --; obat -- (penidur) obat bius (obat yang menyebabkan dapat tidur nyenyak)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengistirahatkan badan dan kesadarannya: biar aku saja yang menyudahkan pekerjaan ini, engkau boleh pergi --; tempat -- [1] tempat untuk tidur [2] ranjang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbaring; terbaring (tidak berdiri): bubu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan tidak aktif (tentang gunung dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "titah",
+  "entri": "ti.tah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertitah",
+    "menitahkan",
+    "menitah",
+    "menitah-nitah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "rencana, susunan, perintah, acara, urutan, pembentukan, penyusunan, pengaturan, keadaan yang pasti, status yang ditakdirkan, takdir",
+    "kataAsal": "titah"
+  },
+  "data": [
+    {
+      "lema": "ti.tah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata; perintah (biasanya dari raja) yang harus dipatuhi: -- raja harus dipatuhi"
+        }
+      ]
+    },
+    {
+      "lema": "ti.tah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "belajar berjalan sambil memegang tangan orang tua, untuk melatih bayi berjalan; tatih; tatah"
+        }
+      ]
+    }
+  ]
+}

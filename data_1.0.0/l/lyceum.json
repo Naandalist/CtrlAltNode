@@ -1,0 +1,33 @@
+{
+  "istilah": "lyceum",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "sekolah menengah persiapan untuk perguruan tinggi"
+        }
+      ]
+    },
+    {
+      "lema": "lyceum",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "sekolah menengah persiapan untuk perguruan tinggi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "tahkik",
+  "entri": "tah.kik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menahkikkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemastian",
+    "kataAsal": "taḥqīq"
+  },
+  "data": [
+    {
+      "lema": "tah.kik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penetapan (penentuan) kebenaran dengan bukti"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sah: keputusan --"
+        }
+      ]
+    }
+  ]
+}

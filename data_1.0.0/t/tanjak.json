@@ -1,0 +1,40 @@
+{
+  "istilah": "tanjak",
+  "entri": "tan.jak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertanjak",
+    "menanjak",
+    "menanjakkan",
+    "penanjakan",
+    "tanjakan",
+    "bertanjak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tan.jak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menganjur ke atas (tentang jalan, destar, layar, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tan.jak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikat kepala adat Melayu yang berbentuk runcing ke atas seperti tengkuluk, tetapi lebih tipis"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "tatah",
+  "entri": "ta.tah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menatah",
+    "tatahan",
+    "bertatah",
+    "bertatahkan",
+    "menatah",
+    "menatah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.tah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pahat"
+        }
+      ]
+    },
+    {
+      "lema": "ta.tah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertatah"
+        }
+      ]
+    },
+    {
+      "lema": "ta.tah3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mulai dapat berjalan (tentang kanak-kanak); tatih"
+        }
+      ]
+    }
+  ]
+}

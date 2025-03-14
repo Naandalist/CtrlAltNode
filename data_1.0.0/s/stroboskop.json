@@ -1,0 +1,32 @@
+{
+  "istilah": "stroboskop",
+  "entri": "stro.bo.skop",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "stro.bo.skop",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang dapat mengeluarkan sinar dengan sangat cepat dan dalam waktu yang sangat singkat dapat pula menerangi suatu benda yang bergerak pada interval waktu tertentu, digunakan juga untuk mempelajari periode gerakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "alat untuk menentukan kecepatan gerak seperti rotasi dan vibrasi yang menyebabkan gerak itu tampak lambat atau diam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "unit pencahayaan yang mampu menghasilkan kilatan cahaya yang cepat, tetapi dapat mencipta ilusi gambar lambat di panggung"
+        }
+      ]
+    }
+  ]
+}

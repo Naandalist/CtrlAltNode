@@ -1,0 +1,52 @@
+{
+  "istilah": "benak",
+  "entri": "be.nak1 /bênak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbenak"
+  ],
+  "gabunganKata": [
+    "benak kepala",
+    "benak tulang"
+  ],
+  "peribahasa": [
+    "mengisap (mencarak, mencucup) benak; pencarak benak orang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.nak1 /bênak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "isi tulang bertekstur lunak, terdiri atas sel lemak dan butir darah yang sudah matang, berfungsi sebagai persediaan pengganti sel dan butir darah yang rusak; sumsum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "isi kepala; otak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pikiran: belum terbayang dalam -- saya, bagaimana memecahkan persoalan itu"
+        }
+      ]
+    },
+    {
+      "lema": "be.nak2 /bênak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbunyi tidak nyaring atau tidak jernih (tentang mata uang); bengap"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sukar mengerti; bodoh"
+        }
+      ]
+    }
+  ]
+}

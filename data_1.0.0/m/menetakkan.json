@@ -1,0 +1,33 @@
+{
+  "istilah": "menetakkan",
+  "entri": "tetak1 » me.ne.tak.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tetak1 » me.ne.tak.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memarangkan; membacokkan: sambil berteriak, ia ~ pedangnya yang sudah terhunus ke pundak lawannya"
+        }
+      ]
+    },
+    {
+      "lema": "tetak2 » me.ne.tak.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menetak"
+        }
+      ]
+    }
+  ]
+}

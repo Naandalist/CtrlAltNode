@@ -1,0 +1,35 @@
+{
+  "istilah": "resek",
+  "entri": "re.sek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meresek-resek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.sek1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "usil; mencampuri urusan orang lain"
+        }
+      ]
+    },
+    {
+      "lema": "re.sek2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "meresek-resek"
+        }
+      ]
+    }
+  ]
+}

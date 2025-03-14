@@ -1,0 +1,51 @@
+{
+  "istilah": "serah",
+  "entri": "se.rah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berserah",
+    "menyerah",
+    "menyerahi",
+    "menyerahkan",
+    "penyerahan",
+    "serahan",
+    "seserahan",
+    "terserah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "apa yang diserahkan, pemberian",
+    "kataAsal": "srah"
+  },
+  "data": [
+    {
+      "lema": "se.rah",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sirah"
+        }
+      ]
+    },
+    {
+      "lema": "se.rah1 /sêrah/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerah"
+        }
+      ]
+    },
+    {
+      "lema": "se.rah2 /sêrah/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sera"
+        }
+      ]
+    }
+  ]
+}

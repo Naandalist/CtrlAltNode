@@ -1,0 +1,54 @@
+{
+  "istilah": "kopek",
+  "entri": "ko.pek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengopek",
+    "mengopek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.pek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pundi-pundi tempat uang; dompet; kantong; tas"
+        }
+      ]
+    },
+    {
+      "lema": "ko.pek2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kupas (dengan kuku dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ko.pek3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "panjang terkelepai (tentang payudara yang kempes atau yang tidak montok)"
+        }
+      ]
+    },
+    {
+      "lema": "ko.pek4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "uang tembaga Rusia"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "desil",
+  "entri": "de.sil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.sil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "nilai yang menandai batas interval dari sebaran frekuensi yang berderet dalam sepuluh bagian sebaran yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "radikal bervalensi satu yang diturunkan dari dekanal〈C10H21〉"
+        }
+      ]
+    }
+  ]
+}

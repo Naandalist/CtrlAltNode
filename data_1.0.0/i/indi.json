@@ -1,0 +1,32 @@
+{
+  "istilah": "indi",
+  "entri": "in.di bentuk tidak baku: indie",
+  "bentukTidakBaku": "indie",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.di bentuk tidak baku: indie",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perusahaan kecil dan mandiri, terutama yang berkaitan dengan musik atau film"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karya seni yang diproduksi oleh perusahaan kecil dan independen"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan perusahaan kecil dan mandiri yang berkaitan dengan musik dan film atau dengan karya seni yang diproduksinya: musik --; film --"
+        }
+      ]
+    }
+  ]
+}

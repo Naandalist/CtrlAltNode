@@ -1,0 +1,42 @@
+{
+  "istilah": "homo sapiens",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "manusia berakal (nama ilmiah)"
+        }
+      ]
+    },
+    {
+      "lema": "homo sapiens",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "manusia berakal (nama ilmiah)"
+        }
+      ]
+    },
+    {
+      "lema": "homo1 » homo Sapiens",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "manusia yang hidup di bumi pada masa kini; manusia yang berpikir"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "bubu",
+  "entri": "bu.bu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membubu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ke hulu kena bubu, ke hilir kena tengkalak; seperti bujuk lepas dari bubu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.bu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menangkap ikan yang dibuat dari saga atau bambu yang dianyam, dipasang dalam air (ikan dapat masuk, tetapi tidak dapat keluar lagi), jenisnya bermacam-macam, yaitu -- batang, -- jantung, dan -- tadah"
+        }
+      ]
+    },
+    {
+      "lema": "bu.bu2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mdr[Madura: -]",
+          "deskripsi": "memenuhi undangan seseorang dengan memberi sejumlah uang sebagai bentuk sumbangan"
+        }
+      ]
+    },
+    {
+      "lema": "bu.bu3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kls[Kulisusu: bahasa di Provinsi Sulawesi Tenggara, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "gelembung udara yang keluar dari air"
+        }
+      ]
+    }
+  ]
+}

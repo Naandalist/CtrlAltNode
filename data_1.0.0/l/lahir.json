@@ -1,0 +1,50 @@
+{
+  "istilah": "lahir",
+  "entri": "la.hir bentuk tidak baku: zahir",
+  "bentukTidakBaku": "zahir",
+  "kataTurunan": [
+    "kelahiran",
+    "melahirkan",
+    "terlahir"
+  ],
+  "gabunganKata": [
+    "lahir batin",
+    "lahir dini",
+    "lahir hidup",
+    "lahir lotus",
+    "lahir mati",
+    "lahir muda",
+    "lahir prematur"
+  ],
+  "peribahasa": [
+    "yang lahir menunjukkan yang batin"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "benda yang terlihat",
+    "kataAsal": "ẓāhir"
+  },
+  "data": [
+    {
+      "lema": "la.hir bentuk tidak baku: zahir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keluar dari kandungan: ia -- di Jakarta pada tahun 1951"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "muncul di dunia (masyarakat): setelah itu, --lah beberapa organisasi politik yang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal yang tampak dari luar: --nya amat peramah, tetapi batinnya siapa tahu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berupa benda yang kelihatan; keduniaan; jasmani: kemuliaan --; pengetahuan --; pendidikan --"
+        }
+      ]
+    }
+  ]
+}

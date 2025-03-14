@@ -1,0 +1,24 @@
+{
+  "istilah": "mushaf",
+  "entri": "mus.haf bentuk tidak baku: mashaf",
+  "bentukTidakBaku": "mashaf",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kumpulan lemabaran tulisan yang dijilid",
+    "kataAsal": "muṣḥaf"
+  },
+  "data": [
+    {
+      "lema": "mus.haf bentuk tidak baku: mashaf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "bagian naskah Al-Qur'an yang bertulis tangan"
+        }
+      ]
+    }
+  ]
+}

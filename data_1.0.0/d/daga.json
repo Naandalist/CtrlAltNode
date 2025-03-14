@@ -1,0 +1,47 @@
+{
+  "istilah": "daga",
+  "entri": "da.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendaga",
+    "pendaga"
+  ],
+  "gabunganKata": [
+    "daga dagi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kondisi hangat, panas; keringat",
+    "kataAsal": "nidāgha"
+  },
+  "data": [
+    {
+      "lema": "da.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "perbuatan menentang (perintah dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "da.ga2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "haus; dahaga"
+        }
+      ]
+    },
+    {
+      "lema": "da.ga3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "bagian kepala pada alat musik rebab"
+        }
+      ]
+    }
+  ]
+}

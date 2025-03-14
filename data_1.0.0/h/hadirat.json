@@ -1,0 +1,37 @@
+{
+  "istilah": "hadirat",
+  "entri": "ha.di.rat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang datang",
+    "kataAsal": "ḥāḍirāt"
+  },
+  "data": [
+    {
+      "lema": "ha.di.rat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hadapan: dengan tenang ia menghadap ke -- Tuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang mulia (dipakai di dalam sastra lama untuk orang yang dimuliakan)"
+        }
+      ]
+    },
+    {
+      "lema": "ha.di.rat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "semua yang hadir (perempuan)"
+        }
+      ]
+    }
+  ]
+}

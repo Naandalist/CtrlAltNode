@@ -1,0 +1,57 @@
+{
+  "istilah": "jin",
+  "entri": "jin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jin pahit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "makhluk halus",
+    "kataAsal": "jinn"
+  },
+  "data": [
+    {
+      "lema": "jin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makhluk halus yang diciptakan dari api"
+        }
+      ]
+    },
+    {
+      "lema": "jin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenewer (arak keras)"
+        }
+      ]
+    },
+    {
+      "lema": "jin3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelana"
+        }
+      ]
+    },
+    {
+      "lema": "jin4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celana panjang yang terbuat dari kain tebal dan kuat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain tebal dan kuat, dipakai untuk celana, jaket, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

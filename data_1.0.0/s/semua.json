@@ -1,0 +1,41 @@
+{
+  "istilah": "semua",
+  "entri": "se.mu.a /sêmua/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "semua-muanya",
+    "semuanya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kita semua mati, tetapi kubur masing-masing; menanak semua berasnya; seorang makan cempedak, semua kena getahnya; seorang makan nangka, semua kena getahnya; telur sesangkak, pecah satu pecah semua"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kelompok atau golongan, kumpulan, keseluruhan",
+    "kataAsal": "samūha"
+  },
+  "data": [
+    {
+      "lema": "se.mu.a /sêmua/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "segala; sekalian: -- orang menangisi kepergiannya; karena kelalaiannya -- penghuni asrama itu kena marah"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "sekaliannya; semuanya: -- memuji tindakannya"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "belaka; semata: perhiasan ini dibuat dari emas --"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "segenap; seluruh: ke mana mata memandang -- tempat menghijau"
+        }
+      ]
+    }
+  ]
+}

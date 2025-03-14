@@ -1,0 +1,46 @@
+{
+  "istilah": "pembarap",
+  "entri": "barap1 » pem.ba.rap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "barap1 » pem.ba.rap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pegawai marga di bawah jabatan pesirah (di Palembang)"
+        }
+      ]
+    },
+    {
+      "lema": "barap2 » pem.ba.rap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak sulung"
+        }
+      ]
+    },
+    {
+      "lema": "pem.ba.rap /pêmbarap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala desa; lurah (di Sumatra)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Jw[Jawa: -]",
+          "deskripsi": "anak sulung"
+        }
+      ]
+    }
+  ]
+}

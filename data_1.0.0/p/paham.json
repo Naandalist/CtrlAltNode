@@ -1,0 +1,57 @@
+{
+  "istilah": "paham",
+  "entri": "pa.ham bentuk tidak baku: faham",
+  "bentukTidakBaku": "faham",
+  "kataTurunan": [
+    "berpaham",
+    "kesepahaman",
+    "memahami",
+    "memahamkan",
+    "mempahami",
+    "mempahamkan",
+    "pemahaman",
+    "sepaham",
+    "terpahami"
+  ],
+  "gabunganKata": [
+    "paham kawasan",
+    "paham kesektean",
+    "paham sekuler",
+    "paham skolastik"
+  ],
+  "peribahasa": [
+    "angan lalu, paham bertumbuk; angan lalu, paham tertumbuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengertian; pengetahuan",
+    "kataAsal": "fahm"
+  },
+  "data": [
+    {
+      "lema": "pa.ham bentuk tidak baku: faham",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengertian: pengetahuan banyak, --nya kurang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendapat; pikiran: --nya tidak bersesuaian dengan -- kebanyakan orang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aliran; haluan; pandangan: ia mempunyai -- nasionalis"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengerti benar (akan); tahu benar (akan): sebenarnya saya sendiri tidak begitu -- akan perkara itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pandai dan mengerti benar (tentang suatu hal): ia -- bahasa Sanskerta; ia -- dalam pembuatan gula"
+        }
+      ]
+    }
+  ]
+}

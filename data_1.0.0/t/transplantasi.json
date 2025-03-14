@@ -1,0 +1,36 @@
+{
+  "istilah": "transplantasi",
+  "entri": "trans.plan.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menransplantasikan",
+    "mentransplantasikan"
+  ],
+  "gabunganKata": [
+    "transplantasi ginjal",
+    "transplantasi kornea",
+    "transplantasi organ",
+    "transplantasi paru"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trans.plan.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "pemindahan tanaman ke tanaman lain: -- rambutan muda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pemindahan jaringan atau organ tubuh manusia ke tempat (orang) lain; mencangkok; pencangkokan: menilik pesatnya perkembangan teknologi, rasanya -- janin cuma soal waktu"
+        }
+      ]
+    }
+  ]
+}

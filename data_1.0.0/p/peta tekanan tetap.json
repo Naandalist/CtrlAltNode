@@ -1,0 +1,32 @@
+{
+  "istilah": "peta tekanan tetap",
+  "entri": "peta1 » peta tekanan tetap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "peta1 » peta tekanan tetap",
+      "arti": [
+        {
+          "kelas_kata": "Met[Meteorologi: -]",
+          "deskripsi": "peta cuaca yang memuat gambar kontur dari permukaan isobar tertentu"
+        },
+        {
+          "kelas_kata": "Met[Meteorologi: -]",
+          "deskripsi": "peta yang memuat penyebaran nilai unsur cuaca pada permukaan tekanan yang sama"
+        },
+        {
+          "kelas_kata": "Hidm[Hidrometeorologi: -]",
+          "deskripsi": "peta sinoptik pada suatu permukaan tekanan tetap, biasanya memuat data rajahan dan analisis sebaran data, termasuk ketinggian permukaan, angin, suhu, dan kelembapan"
+        }
+      ]
+    }
+  ]
+}

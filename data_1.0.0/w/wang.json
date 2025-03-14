@@ -1,0 +1,33 @@
+{
+  "istilah": "wang",
+  "entri": "wang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wang1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ uang"
+        }
+      ]
+    },
+    {
+      "lema": "wang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kediaman raja; istana: ia masuk ke kota --"
+        }
+      ]
+    }
+  ]
+}

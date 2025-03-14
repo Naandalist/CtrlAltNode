@@ -1,0 +1,36 @@
+{
+  "istilah": "memukul",
+  "entri": "pukul1 » me.mu.kul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pukul1 » me.mu.kul",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengenakan suatu benda yang keras atau berat dengan kekuatan (untuk mengetuk, memalu, meninju, menokok, menempa, dan sebagainya): tiba-tiba ia ~ lenganku; ~ beduk (tabuh, gendang, genderang, tambur, dan sebagainya) membunyikan beduk dan sebagainya dengan alat pemalu; ~ besi; ~ cap (stempel) mengecap; ~ gamelan (gong, canang, saron, dan sebagainya); ~ kawat; ~ roboh; ~ telepon"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menyerang; menempuh; mengalahkan: ~ musuh; ~ mundur menyerang hingga musuh mundur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mengambil (mendapat) untung terlalu banyak: menaikkan harga dagangan bukan menolong, melainkan ~ namanya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "memakan atau membunuh (dalam permainan catur): bidak ~ kuda"
+        }
+      ]
+    }
+  ]
+}

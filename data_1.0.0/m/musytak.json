@@ -1,0 +1,33 @@
+{
+  "istilah": "musytak",
+  "entri": "musy.tak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang rindu",
+    "kataAsal": "musytāq"
+  },
+  "data": [
+    {
+      "lema": "musy.tak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "diturunkan (dari); berasal (dari)"
+        }
+      ]
+    },
+    {
+      "lema": "musy.tak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "orang yang merindu"
+        }
+      ]
+    }
+  ]
+}

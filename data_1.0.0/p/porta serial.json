@@ -1,0 +1,24 @@
+{
+  "istilah": "porta serial",
+  "entri": "porta2 » porta serial",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "porta2 » porta serial",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "soket yang digunakan untuk menghubungkan peralatan (seperti tetikus atau modem) dengan komputer dan dapat mengirimkan data sebanyak satu bit per detik"
+        }
+      ]
+    }
+  ]
+}

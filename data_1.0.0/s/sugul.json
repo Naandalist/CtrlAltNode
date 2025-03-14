@@ -1,0 +1,33 @@
+{
+  "istilah": "sugul",
+  "entri": "su.gul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kesibukan",
+    "kataAsal": "syugl"
+  },
+  "data": [
+    {
+      "lema": "su.gul1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "masygul"
+        }
+      ]
+    },
+    {
+      "lema": "su.gul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "pertanda alam berupa hujan pada waktu hari panas (yang menyiratkan orang meninggal)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "jilbab",
+  "entri": "jil.bab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjilbab",
+    "pejilbab"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pakaian perempuan yang menutupi kepala hingga bagian bawah badan; kain penutup kepala perempuan",
+    "kataAsal": "jilbāb"
+  },
+  "data": [
+    {
+      "lema": "jil.bab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kain lebar yang dipakai wanita muslim untuk menutupi kepala dan rambut, termasuk telinga, hingga leher dan dada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "baju lebar yang digunakan untuk menutup kepala hingga dada wanita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain longgar yang menutupi seluruh tubuh, termasuk kepala, rambut, dan telinga, kecuali tangan, kaki dan wajah"
+        }
+      ]
+    }
+  ]
+}

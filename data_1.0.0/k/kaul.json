@@ -1,0 +1,52 @@
+{
+  "istilah": "kaul",
+  "entri": "ka.ul1",
+  "bentukTidakBaku": "kawul1",
+  "kataTurunan": [
+    "berkaul",
+    "kaulan",
+    "mengaulkan"
+  ],
+  "gabunganKata": [
+    "kaul jadid",
+    "kaul kadim"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembicaraan; perkataan; pendapat",
+    "kataAsal": "qaul"
+  },
+  "data": [
+    {
+      "lema": "ka.ul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ujaran; perkataan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "niat yang diucapkan sebagai janji untuk melakukan sesuatu jika permintaannya dikabulkan dan sebagainya; nazar: ia mengadakan selamatan untuk membayar (melepas) --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Ar[Arab: -]",
+          "deskripsi": "janji yang diikrarkan teguh-teguh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -] Isl[Agama Islam: -]",
+          "deskripsi": "fatwa"
+        }
+      ]
+    },
+    {
+      "lema": "ka.ul2 bentuk tidak baku: kawul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bulu atau miang halus yang terdapat pada pelepah pohon enau; rabuk"
+        }
+      ]
+    }
+  ]
+}

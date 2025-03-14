@@ -1,0 +1,33 @@
+{
+  "istilah": "bendul",
+  "entri": "ben.dul /bêndul/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bendul jendela",
+    "bendul pintu"
+  ],
+  "peribahasa": [
+    "lurus macam bendul; merantau di sudut dapur, merantau ke ujung bendul"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.dul /bêndul/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balok kayu yang dipasang melintang pada tiang rumah untuk menyangga lantai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "balai di istana tempat raja bermusyawarah tidak resmi; balai bendul"
+        }
+      ]
+    }
+  ]
+}

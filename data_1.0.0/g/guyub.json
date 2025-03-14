@@ -1,0 +1,37 @@
+{
+  "istilah": "guyub",
+  "entri": "gu.yub1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berguyub",
+    "keguyuban",
+    "peguyuban"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tidak kelihatan",
+    "kataAsal": "guyūb"
+  },
+  "data": [
+    {
+      "lema": "gu.yub1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rukun"
+        }
+      ]
+    },
+    {
+      "lema": "gu.yub2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "gaib"
+        }
+      ]
+    }
+  ]
+}

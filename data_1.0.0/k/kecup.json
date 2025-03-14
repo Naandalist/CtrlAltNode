@@ -1,0 +1,32 @@
+{
+  "istilah": "kecup",
+  "entri": "ke.cup /kêcup/bentuk tidak baku: cop2, cup2, kucup1",
+  "bentukTidakBaku": "cop2, cup2, kucup1",
+  "kataTurunan": [
+    "berkecup",
+    "kecupan",
+    "mengecup"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.cup /kêcup/bentuk tidak baku: cop2, cup2, kucup1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi bibir yang dimoncongkan lalu ditarik kembali (sehingga berbunyi “cup”)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengecup"
+        }
+      ]
+    }
+  ]
+}

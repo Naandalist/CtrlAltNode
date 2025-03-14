@@ -1,0 +1,41 @@
+{
+  "istilah": "jegang",
+  "entri": "je.gang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.gang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "duduk dengan salah satu kaki bertekuk dengan posisi lutut terarah ke atas (biasanya untuk menopang lengan)"
+        }
+      ]
+    },
+    {
+      "lema": "je.gang /jêgang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tegang; kaku"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tegak kaku"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "liat"
+        }
+      ]
+    }
+  ]
+}

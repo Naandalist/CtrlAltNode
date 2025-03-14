@@ -1,0 +1,53 @@
+{
+  "istilah": "tapuk",
+  "entri": "ta.puk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menapuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tampak, kelihatan, muncul, tampil ke depan, maju (dipersenjatai atau diperlengkapi); memulai dengan, mengenakan, bermain dalam pertunjukan tapuk (topeng); tetapi beberapa tempat menyarankan pertunjukan dengan tabuh-tabuhan",
+    "kataAsal": "tapuk"
+  },
+  "data": [
+    {
+      "lema": "ta.puk1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menapuk"
+        }
+      ]
+    },
+    {
+      "lema": "ta.puk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedok, topeng (pertunjukan)"
+        }
+      ]
+    },
+    {
+      "lema": "ta.puk3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tepuk"
+        }
+      ]
+    },
+    {
+      "lema": "ta.puk4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersama-sama mulai; mulai"
+        }
+      ]
+    }
+  ]
+}

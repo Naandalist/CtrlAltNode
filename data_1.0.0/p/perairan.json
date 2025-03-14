@@ -1,0 +1,42 @@
+{
+  "istilah": "perairan",
+  "entri": "air » per.a.ir.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "perairan darat",
+    "perairan laut",
+    "perairan lentik",
+    "perairan lotik",
+    "perairan mengalir",
+    "perairan payau",
+    "perairan tawar",
+    "perairan terbuka",
+    "perairan teritorial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "air » per.a.ir.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laut yang termasuk kawasan suatu negara: banyak nelayan asing menangkap ikan di ~ Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "urusan persediaan air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Osn[Oseanografi: -]",
+          "deskripsi": "kumpulan massa air yang terdapat di wilayah tertentu, bersifat dinamis (seperti laut, sungai) atau bersifat statis (seperti danau), terdiri atas perairan tawar, payau, dan asin"
+        }
+      ]
+    }
+  ]
+}

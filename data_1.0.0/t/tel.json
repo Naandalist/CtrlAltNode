@@ -1,0 +1,45 @@
+{
+  "istilah": "tel",
+  "entri": "tel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bilangan (yang disebutkan berturut-turut): lima -- satu, dua, tiga, empat, lima"
+        }
+      ]
+    },
+    {
+      "lema": "ter-2 /têr-/varian: te-, tel",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "telah dilakukan atau dalam keadaan: terbuka; terduduk; termenung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "telah mengalami; menderita keadaan atau kejadian (dengan tidak sengaja atau dengan tiba-tiba): terpesona; terbangun"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sanggup atau dapat dilakukan (biasanya didahului kata tidak atau bersufiks -kan): tidak terkira; tidak terangkat; tersalurkan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sampai ke: tertulang"
+        }
+      ]
+    }
+  ]
+}

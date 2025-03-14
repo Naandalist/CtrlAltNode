@@ -1,0 +1,44 @@
+{
+  "istilah": "rum",
+  "entri": "rum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "rum gula"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "keindahan, kecantikan, daya tarik, keluwesan, keharuman, kemanisan",
+    "kataAsal": "rūm"
+  },
+  "data": [
+    {
+      "lema": "rum1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ harum"
+        }
+      ]
+    },
+    {
+      "lema": "rum2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lemak kentalan air susu; kepala susu"
+        }
+      ]
+    },
+    {
+      "lema": "rum3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman keras yang disuling dari tebu yang difermentasikan"
+        }
+      ]
+    }
+  ]
+}

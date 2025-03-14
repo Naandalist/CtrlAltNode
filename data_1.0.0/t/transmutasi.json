@@ -1,0 +1,38 @@
+{
+  "istilah": "transmutasi",
+  "entri": "trans.mu.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mentransmutasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trans.mu.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemindahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengubahan dari suatu bentuk, zat, sifat, atau keadaan ke bentuk lainnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "penggunaan kata dalam kalimat dengan kategori yang berbeda tanpa mengubah bentuknya, seperti kata untung dalam untung dia cepat datang dan dia bekerja tanpa memikirkan untung rugi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "proses nuklir yang mengubah suatu inti menjadi inti unsur lain"
+        }
+      ]
+    }
+  ]
+}

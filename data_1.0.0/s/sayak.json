@@ -1,0 +1,39 @@
+{
+  "istilah": "sayak",
+  "entri": "sa.yak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "dijual sayak, dibeli tempurung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.yak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "baju perempuan yang bermodel atau berpotongan terusan, tidak terdiri atas dua bagian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "gaun; pakaian yang dikenakan di bawah baju, bagian depan dibuat dari kain putih berlipat-lipat"
+        }
+      ]
+    },
+    {
+      "lema": "sa.yak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tempat air minum yang terbuat dari tempurung kelapa; separuh tempurung"
+        }
+      ]
+    }
+  ]
+}

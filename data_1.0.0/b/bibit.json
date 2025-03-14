@@ -1,0 +1,54 @@
+{
+  "istilah": "bibit",
+  "entri": "bi.bit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membibit",
+    "membibitkan",
+    "pembibit",
+    "pembibitan",
+    "membibit"
+  ],
+  "gabunganKata": [
+    "bibit buwit",
+    "bibit unggul"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.bit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "semaian (padi dan sebagainya yang akan ditanam): -- padi itu akan dipindahkan sesudah berumur empat puluh hari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benih (dalam arti sesuatu yang akan dikembangkan, diternakkan, dan sebagainya): kita memerlukan sapi yang baik untuk --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak (orang) yang akan dididik lebih lanjut; kader: murid-murid SMU dididik sebagai -- untuk perguruan tinggi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "yang akan menyebabkan timbulnya (terjadinya) penyakit atau pertikaian dan sebagainya: -- penyakit cacar; perkara yang sekecil itu dapat menjadi -- pertengkaran yang hebat"
+        }
+      ]
+    },
+    {
+      "lema": "bi.bit2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jinjing"
+        }
+      ]
+    }
+  ]
+}

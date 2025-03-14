@@ -1,0 +1,28 @@
+{
+  "istilah": "ustazah",
+  "entri": "us.ta.zah bentuk tidak baku: istazah, ustadzah",
+  "bentukTidakBaku": "istazah, ustadzah",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengajar perempuan",
+    "kataAsal": "ustāżah"
+  },
+  "data": [
+    {
+      "lema": "us.ta.zah bentuk tidak baku: istazah, ustadzah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "guru agama atau guru besar (perempuan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "nyonya (sebutan atau sapaan)"
+        }
+      ]
+    }
+  ]
+}

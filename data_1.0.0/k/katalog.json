@@ -1,0 +1,47 @@
+{
+  "istilah": "katalog",
+  "entri": "ka.ta.log bentuk tidak baku: katalogus",
+  "bentukTidakBaku": "katalogus",
+  "kataTurunan": [
+    "berkatalog",
+    "mengatalogkan",
+    "pengatalog",
+    "pengatalogan",
+    "perkatalogan"
+  ],
+  "gabunganKata": [
+    "katalog berkas",
+    "katalog judul",
+    "katalog kartu",
+    "katalog manuskrip",
+    "katalog nama",
+    "katalog penerbit",
+    "katalog subjek",
+    "katalog umum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.ta.log bentuk tidak baku: katalogus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "carik kartu, daftar, atau buku yang memuat nama benda atau informasi tertentu yang ingin disampaikan, disusun secara berurutan, teratur, dan alfabetis: kartu -- membantu memudahkan orang mencari buku di perpustakaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "daftar barang yang dilengkapi dengan nama, harga, mutu, dan cara pemesanannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "daftar yang berisi informasi khusus, seperti nama, panjang, jenis, dan lokasi dari berkas atau ruang penyimpan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "puso",
+  "entri": "pu.so bentuk tidak baku: pusa1",
+  "bentukTidakBaku": "pusa1",
+  "kataTurunan": [
+    "memusokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.so bentuk tidak baku: pusa1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mengeluarkan hasil (sawah): tahun ini para petani tidak menikmati panennya karena mengalami --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "rusak karena dibiarkan tidak berpenghuni"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "top",
+  "entri": "top1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengetop"
+  ],
+  "gabunganKata": [
+    "top markotop"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "top1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu dari Siam atau Indocina"
+        }
+      ]
+    },
+    {
+      "lema": "top2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baju kebaya; baju top"
+        }
+      ]
+    },
+    {
+      "lema": "top3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tertinggi atau teratas; puncak: dia pemain bulu tangkis -- di tanah air"
+        }
+      ]
+    }
+  ]
+}

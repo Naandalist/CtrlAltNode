@@ -1,0 +1,46 @@
+{
+  "istilah": "panjut",
+  "entri": "pan.jut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memanjut",
+    "memanjut-manjut",
+    "memanjutkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "pañjut"
+  },
+  "data": [
+    {
+      "lema": "pan.jut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelita terbuat dari damar yang dibungkus dengan kain bekas atau dari kulit lokan yang diisi minyak kelapa dan memakai sumbu"
+        }
+      ]
+    },
+    {
+      "lema": "pan.jut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bintik putih atau warna putih pada ujung keris atau ekor anjing"
+        }
+      ]
+    },
+    {
+      "lema": "pan.jut3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memanjut; memanjut-manjut; memanjutkan"
+        }
+      ]
+    }
+  ]
+}

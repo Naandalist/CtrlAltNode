@@ -1,0 +1,28 @@
+{
+  "istilah": "wasalam",
+  "entri": "wa.sa.lam bentuk tidak baku: wassalam",
+  "bentukTidakBaku": "wassalam",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kesalamatan semoga melimpah pada Anda",
+    "kataAsal": "wa salām"
+  },
+  "data": [
+    {
+      "lema": "wa.sa.lam bentuk tidak baku: wassalam",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "selamatlah; sejahteralah"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] Ar[Arab: -]",
+          "deskripsi": "(dalam penutup surat) hormat dan takzim dari"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "o",
+  "entri": "O1 varian: o",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "O1 varian: o",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf ke-15 abjad Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf o"
+        }
+      ]
+    },
+    {
+      "lema": "O2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lambang kimia untuk oksigen"
+        }
+      ]
+    },
+    {
+      "lema": "O3",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "oh"
+        }
+      ]
+    },
+    {
+      "lema": "O4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan darah dari sistem penggolongan darah ABO yang tidak memiliki kandungan antigen eritrosit A dan B tetapi memiliki antibodi anti-A dan anti-B pada sel darah merahnya"
+        }
+      ]
+    }
+  ]
+}

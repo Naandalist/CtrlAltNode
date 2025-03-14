@@ -1,0 +1,46 @@
+{
+  "istilah": "urut",
+  "entri": "u.rut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengurut",
+    "mengurutkan",
+    "pengurut",
+    "pengurutan",
+    "berurut",
+    "berurut-urutan",
+    "berurutan",
+    "memperurutkan",
+    "mengurut",
+    "mengurutkan",
+    "pengurut",
+    "urutan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.rut1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pijit"
+        }
+      ]
+    },
+    {
+      "lema": "u.rut2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "teratur (yang satu setelah yang lain): masuknya harus -- satu demi satu"
+        }
+      ]
+    }
+  ]
+}

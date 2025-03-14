@@ -1,0 +1,35 @@
+{
+  "istilah": "mode",
+  "entri": "mo.de1 /modê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mode grafik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.de1 /modê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ragam (cara, bentuk) yang terbaru pada suatu waktu tertentu (tentang pakaian, potongan rambut, corak hiasan, dan sebagainya): ia selalu berpakaian mengikuti --"
+        }
+      ]
+    },
+    {
+      "lema": "mo.de2 /modê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "mode transfer dalam perintah komputer yang dapat berupa aliran atau blok"
+        }
+      ]
+    }
+  ]
+}

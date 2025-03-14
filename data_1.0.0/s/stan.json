@@ -1,0 +1,41 @@
+{
+  "istilah": "stan",
+  "entri": "stan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "stan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedudukan; pertahanan: -- berakhir dengan 5–4 untuk kemenangan regu Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat memamerkan (menjual dan sebagainya) produk di pasar malam dan sebagainya; ruang pamer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mimbar; panggung"
+        }
+      ]
+    },
+    {
+      "lema": "STAN",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Sekolah Tinggi Akuntansi Negara"
+        }
+      ]
+    }
+  ]
+}

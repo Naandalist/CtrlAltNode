@@ -1,0 +1,40 @@
+{
+  "istilah": "setrip",
+  "entri": "set.rip /sêtrip/bentuk tidak baku: seterip, strip2",
+  "bentukTidakBaku": "seterip, strip2",
+  "kataTurunan": [
+    "bersetrip",
+    "menyetrip",
+    "penyetripan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "set.rip /sêtrip/bentuk tidak baku: seterip, strip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis (sebagai tanda perhiasan pada mobil dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis skala (pada pengukur suhu dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "carik kain dan sebagainya yang dipasang pada bahu atau pada lengan baju (sebagai tanda pangkat dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

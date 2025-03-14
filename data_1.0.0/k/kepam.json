@@ -1,0 +1,32 @@
+{
+  "istilah": "kepam",
+  "entri": "ke.pam /kêpam/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.pam /kêpam/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lembap dan mudah robek karena lama tersimpan atau tertutup rapat (tentang kain, sengkelat, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lembap dan susah dinyalakan (tentang mesiu dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kusam; hilang cahaya atau warnanya (karena panas matahari)"
+        }
+      ]
+    }
+  ]
+}

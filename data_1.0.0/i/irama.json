@@ -1,0 +1,48 @@
+{
+  "istilah": "irama",
+  "entri": "i.ra.ma bentuk tidak baku: wirama",
+  "bentukTidakBaku": "wirama",
+  "kataTurunan": [
+    "berirama",
+    "mengirama",
+    "mengiramakan",
+    "pengiramaan",
+    "seirama"
+  ],
+  "gabunganKata": [
+    "irama batin",
+    "irama dua hitungan",
+    "irama gerakan",
+    "irama padang pasir",
+    "irama puitis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jeda, akhir dari kata atau kalimat, akhir dari sajak",
+    "kataAsal": "virāma"
+  },
+  "data": [
+    {
+      "lema": "i.ra.ma bentuk tidak baku: wirama",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan berturut-turut secara teratur; turun naik lagu (bunyi dan sebagainya) yang beraturan; ritme"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "alunan yang terjadi karena perulangan dan pergantian kesatuan bunyi dalam arus panjang pendek bunyi, keras lembut tekanan, dan tinggi rendah nada (dalam puisi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "ukuran waktu atau tempo: -- lagu Bengawan Solo berlainan dengan lagu Jali-Jali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "pola pertunjukan yang diperlihatkan melalui dialog dan gerakan"
+        }
+      ]
+    }
+  ]
+}

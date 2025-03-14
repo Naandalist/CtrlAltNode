@@ -1,0 +1,50 @@
+{
+  "istilah": "sensor",
+  "entri": "sen.sor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyensor",
+    "penyensor",
+    "penyensoran",
+    "sensoran"
+  ],
+  "gabunganKata": [
+    "sensor parkir",
+    "sensor represif",
+    "sensor sukarela"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.sor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengawasan dan pemeriksaan surat-surat atau sesuatu yang akan disiarkan atau diterima (berita, majalah, buku, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang menyensor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "pemeriksaan berita, surat, buku, film, dan sebagainya agar tidak bertentangan dengan norma, peraturan, dan hukum yang berlaku"
+        }
+      ]
+    },
+    {
+      "lema": "sen.sor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "elemen yang mengubah sinyal fisik menjadi sinyal elektronik yang dibutuhkan komputer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "gateng",
+  "entri": "ga.teng1 /gatêng/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.teng1 /gatêng/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sidat"
+        }
+      ]
+    },
+    {
+      "lema": "ga.teng2 /gatêng/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "kepala zakar"
+        }
+      ]
+    }
+  ]
+}

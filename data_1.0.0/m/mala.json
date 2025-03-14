@@ -1,0 +1,68 @@
+{
+  "istilah": "mala",
+  "entri": "ma.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "termala"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "harum semerbak mengandung mala"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kotoran, debu, sampah, dosa",
+    "kataAsal": "mala"
+  },
+  "data": [
+    {
+      "lema": "ma.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bencana; celaka; sengsara"
+        }
+      ]
+    },
+    {
+      "lema": "ma.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "air rembesan dari bangkai yang telah membusuk; danur"
+        }
+      ]
+    },
+    {
+      "lema": "ma.la3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "layu; merana"
+        }
+      ]
+    },
+    {
+      "lema": "ma.la4",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kotor; cemar; noda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit"
+        }
+      ]
+    },
+    {
+      "lema": "ma.la5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda larangan yang mempunyai kekuatan magis (di Timor)"
+        }
+      ]
+    }
+  ]
+}

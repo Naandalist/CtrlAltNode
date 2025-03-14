@@ -1,0 +1,34 @@
+{
+  "istilah": "bersoal",
+  "entri": "soal » ber.so.al",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bersoal jawab"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "soal » ber.so.al",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertanya; mengajukan soal: ~ jawab"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai soal"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "beralasan (mengajukan alasan untuk menolak dan sebagainya): kalau tidak mau, katakan saja tidak mau, jangan ~ juga"
+        }
+      ]
+    }
+  ]
+}

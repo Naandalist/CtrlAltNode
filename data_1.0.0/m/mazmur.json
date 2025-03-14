@@ -1,0 +1,27 @@
+{
+  "istilah": "mazmur",
+  "entri": "maz.mur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermazmur",
+    "pemazmur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kumpulan nyanyian keagamaan dan puji-pujian kepada kitab Zabur",
+    "kataAsal": "mazmūr"
+  },
+  "data": [
+    {
+      "lema": "maz.mur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan nyanyian keagamaan dan puji-pujian dari kitab Zabur"
+        }
+      ]
+    }
+  ]
+}

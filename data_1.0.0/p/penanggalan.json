@@ -1,0 +1,45 @@
+{
+  "istilah": "penanggalan",
+  "entri": "tanggal1 » pe.nang.gal.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tanggal1 » pe.nang.gal.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, cara, perbuatan menanggalkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hantu yang tidak berkepala (kepalanya tanggal) dan ususnya keluar"
+        }
+      ]
+    },
+    {
+      "lema": "tanggal2 » pe.nang.gal.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daftar hari bulan; almanak; takwim; kalender"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembubuhan tanggal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tarikh"
+        }
+      ]
+    }
+  ]
+}

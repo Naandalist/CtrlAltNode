@@ -1,0 +1,55 @@
+{
+  "istilah": "umbul",
+  "entri": "um.bul1 bentuk tidak baku: umbur-umbur",
+  "bentukTidakBaku": "umbur-umburumbur",
+  "kataTurunan": [
+    "umbul-umbul"
+  ],
+  "gabunganKata": [
+    "umbul air"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "um.bul1 bentuk tidak baku: umbur-umbur",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "umbul-umbul"
+        }
+      ]
+    },
+    {
+      "lema": "um.bul2 bentuk tidak baku: umbur",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "lekas menjadi besar; subur"
+        }
+      ]
+    },
+    {
+      "lema": "um.bul3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumber air (minum): soal retribusi penggunaan -- masih dalam pembahasan"
+        }
+      ]
+    },
+    {
+      "lema": "um.bul4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "kampung kecil yang berisi 1—3  rumah"
+        }
+      ]
+    }
+  ]
+}

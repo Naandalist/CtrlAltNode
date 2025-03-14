@@ -1,0 +1,35 @@
+{
+  "istilah": "pisit",
+  "entri": "pi.sit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memisit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.sit1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pisik"
+        }
+      ]
+    },
+    {
+      "lema": "pi.sit2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pijit; tekan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "istilah": "kursi",
+  "entri": "kur.si1 bentuk tidak baku: korsi",
+  "bentukTidakBaku": "korsi",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kursi bakso",
+    "kursi bar",
+    "kursi berlengan",
+    "kursi besar berlengan",
+    "kursi empuk",
+    "kursi ergonomis",
+    "kursi geser",
+    "kursi goyang",
+    "kursi hidraulik",
+    "kursi lincak",
+    "kursi lipat",
+    "kursi listrik",
+    "kursi lontar",
+    "kursi makan",
+    "kursi malas",
+    "kursi panas",
+    "kursi panjang",
+    "kursi pesakitan",
+    "kursi rebah",
+    "kursi roda",
+    "kursi setel",
+    "kursi sudut",
+    "kursi susun",
+    "kursi sutradara",
+    "kursi telur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat duduk yang berkaki dan bersandaran",
+    "kataAsal": "kursī"
+  },
+  "data": [
+    {
+      "lema": "kur.si1 bentuk tidak baku: korsi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat duduk yang berkaki dan bersandaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kedudukan, jabatan (dalam parlemen, kabinet, pengurus, dan sebagainya): ia terpilih menduduki -- ketua"
+        }
+      ]
+    },
+    {
+      "lema": "Kur.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "ilmu atau kekuasaan Allah Swt."
+        }
+      ]
+    }
+  ]
+}

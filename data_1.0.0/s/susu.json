@@ -1,0 +1,80 @@
+{
+  "istilah": "susu",
+  "entri": "su.su",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersusu",
+    "menyusu",
+    "menyusui",
+    "menyusukan",
+    "penyusu",
+    "penyusuan",
+    "persusuan",
+    "pesusu",
+    "sesusuan",
+    "susuan"
+  ],
+  "gabunganKata": [
+    "susu asam",
+    "susu awet",
+    "susu bubuk",
+    "susu formula",
+    "susu formula ekstensif hidrolisat",
+    "susu formula parsial hidrolisat",
+    "susu kaleng",
+    "susu kental",
+    "susu khusus diabetes",
+    "susu kocok",
+    "susu kuda liar",
+    "susu kulit",
+    "susu lanjutan",
+    "susu macan",
+    "susu mandi",
+    "susu murni",
+    "susu pasteurisasi",
+    "susu pembersih",
+    "susu pengganti",
+    "susu puan",
+    "susu segar",
+    "susu sisa",
+    "susu skim",
+    "susu steril",
+    "susu tepung",
+    "susu tepung tanpa lemak"
+  ],
+  "peribahasa": [
+    "(air) susu dibalas dengan (air) tuba; air susu dibalas dengan air tuba; bagai anak bercerai susu; kerbau punya susu, sapi punya nama; karena nila setitik, rusak susu sebelanga; karena nila setitik, rusak susu sebelanga; membalas air susu dengan air tuba"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.su",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "organ tubuh yang terletak di bagian dada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "organ tubuh yang terletak di dada wanita yang dapat menghasilkan makanan untuk bayi, berupa cairan; buah dada; payudara; tetek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "organ tubuh yang terletak di bagian perut atau dada (binatang) yang menghasilkan makanan untuk bayi, berupa cairan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air yang keluar dari buah dada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan minuman, berupa cairan atau bubuk"
+        }
+      ]
+    }
+  ]
+}

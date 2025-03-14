@@ -1,0 +1,32 @@
+{
+  "istilah": "mengilat",
+  "entri": "kilat1 » me.ngi.lat bentuk tidak baku: mengkilat",
+  "bentukTidakBaku": "mengkilat",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kilat1 » me.ngi.lat bentuk tidak baku: mengkilat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerupai kilat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "cepat sekali; tampak sangat sebentar: pantas kudanya menjadi juara, larinya ~"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "memancarkan cahaya seperti kilat: sepatunya sudah ~ setelah disemir"
+        }
+      ]
+    }
+  ]
+}

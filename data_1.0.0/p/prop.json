@@ -1,0 +1,32 @@
+{
+  "istilah": "prop",
+  "entri": "prop bentuk tidak baku: perop",
+  "bentukTidakBaku": "perop",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "prop bentuk tidak baku: perop",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sumbat botol (dari gabus)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "topi gabus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Sen[Kesenian: -]",
+          "deskripsi": "properti panggung; properti set: ia membuat sendiri -- untuk pertunjukan semalam"
+        }
+      ]
+    }
+  ]
+}

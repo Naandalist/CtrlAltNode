@@ -1,0 +1,29 @@
+{
+  "istilah": "masjid",
+  "entri": "mas.jid bentuk tidak baku: mesigit, mesjid",
+  "bentukTidakBaku": "mesigit, mesjid",
+  "kataTurunan": [
+    "permasjidan"
+  ],
+  "gabunganKata": [
+    "masjid agung",
+    "masjid jami"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat ibadah",
+    "kataAsal": "masjid"
+  },
+  "data": [
+    {
+      "lema": "mas.jid bentuk tidak baku: mesigit, mesjid",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah atau bangunan tempat beribadah umat Islam: setiap Jumat dilakukan salat bersama di --"
+        }
+      ]
+    }
+  ]
+}

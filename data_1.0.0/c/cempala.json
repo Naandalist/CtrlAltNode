@@ -1,0 +1,36 @@
+{
+  "istilah": "cempala",
+  "entri": "cem.pa.la1 /cêmpala/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "cempala mulut",
+    "cempala tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jenis batu, logam, jenis tikus, lidah",
+    "kataAsal": "capala"
+  },
+  "data": [
+    {
+      "lema": "cem.pa.la1 /cêmpala/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "lancang"
+        }
+      ]
+    },
+    {
+      "lema": "cem.pa.la2 /cêmpala/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kayu (alat) pemukul kotak wayang: -- dan keprak juga ada pada wayang beber"
+        }
+      ]
+    }
+  ]
+}

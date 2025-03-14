@@ -1,0 +1,41 @@
+{
+  "istilah": "gerantang",
+  "entri": "ge.ran.tang1 /gêrantang/bentuk tidak baku: gerontang",
+  "bentukTidakBaku": "gerontang",
+  "kataTurunan": [
+    "menggerantang"
+  ],
+  "gabunganKata": [
+    "gerantang keling"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.ran.tang1 /gêrantang/bentuk tidak baku: gerontang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi (suara) ramai tidak keruan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "suara keras untuk menakut-nakuti; gertak"
+        }
+      ]
+    },
+    {
+      "lema": "ge.ran.tang2 /gêrantang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -] Mus[Musik: -]",
+          "deskripsi": "alat musik sejenis calung dengan beberapa bumbung yang panjangnya berbeda-beda dan tersusun pada sebuah rak, dimainkan dengan dua pemukul, digunakan dalam gamelan, kolintang, dan angklung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "hambat",
+  "entri": "ham.bat1 bentuk tidak baku: ambat1",
+  "bentukTidakBaku": "ambat1",
+  "kataTurunan": [
+    "berhambatan",
+    "hambatan",
+    "keterhambatan",
+    "menghambat",
+    "penghambat",
+    "penghambatan",
+    "terhambat",
+    "terhambat-hambat",
+    "memperhambat",
+    "menghambat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "anak badak dihambat-hambat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ham.bat1 bentuk tidak baku: ambat1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghambat"
+        }
+      ]
+    },
+    {
+      "lema": "ham.bat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghambat"
+        }
+      ]
+    }
+  ]
+}

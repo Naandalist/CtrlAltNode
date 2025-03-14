@@ -1,0 +1,32 @@
+{
+  "istilah": "visor",
+  "entri": "vi.sor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vi.sor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian depan helm yang menutupi wajah dan dapat digerakkan, berfungsi untuk melindungi dari sinar matahari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pinggiran depan pada topi, biasanya lebar dan kaku, berfungsi untuk melindungi mata dari sinar matahari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerai datar yang terdapat di bagian dalam mobil di atas kaca depan yang dapat digerakkan, berfungsi untuk melindungi dari sinar matahari"
+        }
+      ]
+    }
+  ]
+}

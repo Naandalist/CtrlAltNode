@@ -1,0 +1,36 @@
+{
+  "istilah": "catok",
+  "entri": "ca.tok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "catokan",
+    "mencatok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.tok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ragum"
+        }
+      ]
+    },
+    {
+      "lema": "ca.tok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat penjepit yang dilengkapi pemanas, digunakan untuk mempercepat pelurusan rambut yang keriting, bentuknya seperti capit makanan"
+        }
+      ]
+    }
+  ]
+}

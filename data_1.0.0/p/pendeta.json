@@ -1,0 +1,34 @@
+{
+  "istilah": "pendeta",
+  "entri": "pen.de.ta /pêndeta/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kependetaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bijak, terampil, pandai",
+    "kataAsal": "paṇḍita"
+  },
+  "data": [
+    {
+      "lema": "pen.de.ta /pêndeta/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang pandai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertapa (dalam cerita-cerita lama)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemuka atau pemimpin agama atau jemaah (dalam agama Hindu atau Protestan); rohaniwan; guru agama"
+        }
+      ]
+    }
+  ]
+}

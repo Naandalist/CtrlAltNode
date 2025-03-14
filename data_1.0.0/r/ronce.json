@@ -1,0 +1,39 @@
+{
+  "istilah": "ronce",
+  "entri": "ron.ce1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meronce",
+    "peroncean",
+    "meronce",
+    "peronce",
+    "teronce"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bergantungan dalam rangkaian (bunga-bunga); (tentang wanita) seperti rangkaian bunga, ialah cantik dan bergerak dengan gemulai",
+    "kataAsal": "roñce"
+  },
+  "data": [
+    {
+      "lema": "ron.ce1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "meronce"
+        }
+      ]
+    },
+    {
+      "lema": "ron.ce2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "meronce"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "kufur",
+  "entri": "ku.fur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekufuran",
+    "mengufurkan"
+  ],
+  "gabunganKata": [
+    "kufur nikmat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ingkar; ketidakpandaian bersyukur",
+    "kataAsal": "kufr"
+  },
+  "data": [
+    {
+      "lema": "ku.fur",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "tidak percaya kepada Allah Swt. dan Rasul-Nya; kafir"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "ingkar; tidak pandai bersyukur"
+        }
+      ]
+    }
+  ]
+}

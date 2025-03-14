@@ -1,0 +1,42 @@
+{
+  "istilah": "kobok",
+  "entri": "ko.bok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkobok-kobok",
+    "berkobok",
+    "kobokan",
+    "mengobok",
+    "terkobok"
+  ],
+  "gabunganKata": [
+    "kobok kanan",
+    "kobok kiri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.bok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekelompok (orang); puak; partai; golongan"
+        }
+      ]
+    },
+    {
+      "lema": "ko.bok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berkobok; kobokan; mengobok; terkobok"
+        }
+      ]
+    }
+  ]
+}

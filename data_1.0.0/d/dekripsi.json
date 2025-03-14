@@ -1,0 +1,24 @@
+{
+  "istilah": "dekripsi",
+  "entri": "de.krip.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.krip.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses dekode data dari bentuk yang sudah dienkripsi agar data dapat dibaca dan digunakan"
+        }
+      ]
+    }
+  ]
+}

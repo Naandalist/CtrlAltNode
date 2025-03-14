@@ -1,0 +1,52 @@
+{
+  "istilah": "madu",
+  "entri": "ma.du1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermadu",
+    "memadui",
+    "mempermadukan",
+    "pemaduan",
+    "permaduan"
+  ],
+  "gabunganKata": [
+    "madu hutan",
+    "madu multiflora"
+  ],
+  "peribahasa": [
+    "dalam madu berisi empedu; di luar bagai madu, di dalam bagai empedu; dengan sesendok madu dapat lebih banyak ditangkap serangga daripada dengan cuka sesendok; laut madu berpantaikan sakar (gula); madu satu tong, jika rembes, rembesnya pun madu jua; mulut bau madu, pantat bawa sengat; seperti lebah, mulut membawa madu, pantat membawa sengat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "diambil sebagai madu, diberi saingan (dalam perkawinan poligami)",
+    "kataAsal": "madu"
+  },
+  "data": [
+    {
+      "lema": "ma.du1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan yang banyak mengandung zat gula pada sarang lebah atau bunga (rasanya manis): sarang lebah ini jika diperas keluar --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "manis sekali: senyumnya manis bagai --"
+        }
+      ]
+    },
+    {
+      "lema": "ma.du2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "istri sah yang lain dari seorang suami berdasarkan pandangan istri pertamanya: semua orang heran bahwa ia dapat bersikap baik terhadap --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang menjadi saingan dalam percintaan; pesaing dalam percintaan"
+        }
+      ]
+    }
+  ]
+}

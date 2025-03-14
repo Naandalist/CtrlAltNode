@@ -1,0 +1,33 @@
+{
+  "istilah": "sersi",
+  "entri": "ser.si1 bentuk tidak baku: serse",
+  "bentukTidakBaku": "serse",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ser.si1 bentuk tidak baku: serse",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "reserse"
+        }
+      ]
+    },
+    {
+      "lema": "ser.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain tipis yang dibuat dari bulu domba"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "predikat",
+  "entri": "pre.di.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpredikat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pre.di.kat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bagian kalimat yang menandai apa yang dikatakan oleh pembicara tentang subjek; sebutan (dalam kalimat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama, gelar kehormatan, dan sebagainya (yang dikenakan pada)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenjang penilaian (dalam ujian dan sebagainya) yang dinyatakan secara kualitatif: dia lulus dengan -- sangat memuaskan"
+        }
+      ]
+    }
+  ]
+}

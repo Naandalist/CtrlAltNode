@@ -1,0 +1,33 @@
+{
+  "istilah": "warid",
+  "entri": "wa.rid1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "urat nadi",
+    "kataAsal": "warīd"
+  },
+  "data": [
+    {
+      "lema": "wa.rid1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beribadah mengikuti cara yang dilakukan oleh Nabi Muhammad saw."
+        }
+      ]
+    },
+    {
+      "lema": "wa.rid2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "urat nadi"
+        }
+      ]
+    }
+  ]
+}

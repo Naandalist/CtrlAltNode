@@ -1,0 +1,40 @@
+{
+  "istilah": "nyata",
+  "entri": "nya.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kenyataan",
+    "menyatakan",
+    "pernyataan",
+    "ternyata",
+    "ternyatakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ke langit tak sampai, ke bumi tak nyata"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pasti, tetap",
+    "kataAsal": "niyata"
+  },
+  "data": [
+    {
+      "lema": "nya.ta",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terang (kelihatan, kedengaran, dan sebagainya); jelas sekali; kentara: huruf dalam buku itu tidak -- sehingga sukar dibaca"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "benar-benar ada; ada buktinya; berwujud: tunjukkan kasih sayangmu dengan tindakan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terbukti: makin lama makin -- kecurangannya"
+        }
+      ]
+    }
+  ]
+}

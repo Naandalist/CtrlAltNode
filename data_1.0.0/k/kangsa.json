@@ -1,0 +1,28 @@
+{
+  "istilah": "kangsa",
+  "entri": "kang.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "logam, kuningan, cangkir, mangkuk, piala",
+    "kataAsal": "kaṃsa"
+  },
+  "data": [
+    {
+      "lema": "kang.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perunggu; kuningan; gangsa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kaleng; belek"
+        }
+      ]
+    }
+  ]
+}

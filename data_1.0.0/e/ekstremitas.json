@@ -1,0 +1,37 @@
+{
+  "istilah": "ekstremitas",
+  "entri": "eks.tre.mi.tas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.tre.mi.tas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peringkat yang paling ekstrem (tentang perasaan, penderitaan, kesedihan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal (tindakan, perbuatan) yang melewati batas (sangat keras dan sebagainya); keekstreman"
+        }
+      ]
+    },
+    {
+      "lema": "eks.tre.mi.tas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "anggota badan, seperti lengan dan tungkai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "rembet",
+  "entri": "rem.bet1 bentuk tidak baku: rimbit",
+  "bentukTidakBaku": "rimbitrebet1",
+  "kataTurunan": [
+    "merembet",
+    "merembet",
+    "merembetkan",
+    "perembetan",
+    "rembetan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rem.bet1 bentuk tidak baku: rimbit",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat berjalan (bergerak) dengan leluasa (karena banyak pekerjaan, banyak diikuti orang)"
+        }
+      ]
+    },
+    {
+      "lema": "rem.bet2 bentuk tidak baku: rebet1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "rambat"
+        }
+      ]
+    }
+  ]
+}

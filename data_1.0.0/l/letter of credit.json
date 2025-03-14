@@ -1,0 +1,33 @@
+{
+  "istilah": "letter of credit",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "dokumen bank yang menyatakan bahwa pemegangnya boleh mengambil uang yang dapat ditagih kepada bank; surat kredit komersial; disingkat LC"
+        }
+      ]
+    },
+    {
+      "lema": "letter of credit",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "dokumen bank yang menyatakan bahwa pemegangnya boleh mengambil uang yang dapat ditagih kepada bank; surat kredit komersial; disingkat LC"
+        }
+      ]
+    }
+  ]
+}

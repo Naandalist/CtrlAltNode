@@ -1,0 +1,38 @@
+{
+  "istilah": "netralisasi",
+  "entri": "net.ra.li.sa.si bentuk tidak baku: netralisir",
+  "bentukTidakBaku": "netralisir",
+  "kataTurunan": [
+    "menetralisasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "net.ra.li.sa.si bentuk tidak baku: netralisir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal menjadikan netral (tentang negara, daerah); hal menjadikan tidak terikat (bebas); penetralan: -- wilayah yang menjadi sengketa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal menawarkan (racun, bisa, dan sebagainya); hal melenyapkan (pengaruh, bau, dan sebagainya): obat untuk -- bau badan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kondisi hilangnya kontras antara dua fonem dalam lingkungan fonologis tertentu, misalnya dalam bahasa Indonesia hilangnya kontras antara /d/ dan /t/ pada posisi akhir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kondisi hilangnya kontras semantis antara beberapa unsur dalam konteks tertentu, misalnya aktor yang dapat dinetralisasi untuk menyatakan laki-laki ataupun perempuan"
+        }
+      ]
+    }
+  ]
+}

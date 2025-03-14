@@ -1,0 +1,72 @@
+{
+  "istilah": "kanon",
+  "entri": "ka.non1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.non1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang pajak untuk tanah sewa yang turun-temurun"
+        }
+      ]
+    },
+    {
+      "lema": "ka.non2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "komposisi musik yang dimainkan secara bersahut-sahutan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "daftar kitab yang dianggap berwibawa dan punya otoritas sebagai bagian dari kitab suci"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "karya drama yang dianggap ciptaan asli seorang penulis"
+        }
+      ]
+    },
+    {
+      "lema": "ka.non3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "meriam"
+        }
+      ]
+    },
+    {
+      "lema": "ka.non4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "karya drama yang dianggap ciptaan asli seorang penulis"
+        }
+      ]
+    },
+    {
+      "lema": "ka.non5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "peraturan atau dogma yang dikeluarkan oleh gereja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "buku-buku autentik yang dianggap bagian kitab suci"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "desain terstruktur",
+  "entri": "desain » desain terstruktur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "desain » desain terstruktur",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "pendekatan disiplin untuk desain perangkat lunak yang didasarkan pada dekomposisi hierarkis dan implementasi fungsi sistem ke dalam modul perangkat lunak"
+        }
+      ]
+    }
+  ]
+}

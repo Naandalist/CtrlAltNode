@@ -1,0 +1,33 @@
+{
+  "istilah": "rai",
+  "entri": "rai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "gembala"
+        }
+      ]
+    },
+    {
+      "lema": "rai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah atau wilayah adat masyarakat Sawu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "parut",
+  "entri": "pa.rut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berparut",
+    "memarut",
+    "parutan",
+    "pemarut",
+    "terparut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.rut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur kelapa, keju, wortel, dan sebagainya dibuat dari papan, logam, dan sebagainya berpaku kawat banyak; kukur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekas luka pada kulit (karena tergores dan sebagainya); barut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memarut"
+        }
+      ]
+    }
+  ]
+}

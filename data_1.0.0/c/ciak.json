@@ -1,0 +1,58 @@
+{
+  "istilah": "ciak",
+  "entri": "ci.ak1 bentuk tidak baku: ciok",
+  "bentukTidakBaku": "ciok",
+  "kataTurunan": [
+    "menciak",
+    "menciak-ciak"
+  ],
+  "gabunganKata": [
+    "ciak ciap",
+    "ciak miak",
+    "ciak gajah",
+    "ciak padi",
+    "ciak raya",
+    "ciak reban"
+  ],
+  "peribahasa": [
+    "kicang-kecoh ciak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "makan",
+    "kataAsal": "chia̍h"
+  },
+  "data": [
+    {
+      "lema": "ci.ak1 bentuk tidak baku: ciok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi seperti bunyi anak burung"
+        }
+      ]
+    },
+    {
+      "lema": "ci.ak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung kecil sebangsa pipit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "anak ayam"
+        }
+      ]
+    },
+    {
+      "lema": "ci.ak3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Cn[Cina: -]",
+          "deskripsi": "makan"
+        }
+      ]
+    }
+  ]
+}

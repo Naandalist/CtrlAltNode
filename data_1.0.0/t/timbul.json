@@ -1,0 +1,71 @@
+{
+  "istilah": "timbul",
+  "entri": "tim.bul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menimbul",
+    "menimbulkan",
+    "timbulan",
+    "penimbul"
+  ],
+  "gabunganKata": [
+    "timbul tenggelam"
+  ],
+  "peribahasa": [
+    "untung sabut timbul, untung batu tenggelam; untung sabut timbul, untung batu tenggelam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kebal, tak dapat dikalahkan, tahan senjata apapun",
+    "kataAsal": "timbul"
+  },
+  "data": [
+    {
+      "lema": "tim.bul1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "naik dan keluar ke atas (dari dalam air, tanah, dan sebagainya): setelah lama menyelam lalu -- lagi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyembul sedikit dari permukaan yang rata: ia memesan kartu undangan dengan huruf --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbit (bulan, matahari, dan sebagainya): sebelum matahari --, ia sudah berangkat ke tempat pekerjaannya; bulan --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "muncul (tentang penyakit, pertikaian, perasaan, pikiran, dan sebagainya): di mana-mana -- bencana kelaparan; dalam hatinya -- perasaan takut; lalu -- hausnya dan berhentilah ia sebentar minum es avokad; melihat kuda yang bagus itu --lah keinginannya untuk membeli"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tampak; keluar (dari semak-semak, hutan, dan sebagainya): pujangga muda yang baru --; tunas itu mulai --"
+        }
+      ]
+    },
+    {
+      "lema": "tim.bul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penimbul"
+        }
+      ]
+    },
+    {
+      "lema": "timbul3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluih〔Artocarpus communis〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah keluih"
+        }
+      ]
+    }
+  ]
+}

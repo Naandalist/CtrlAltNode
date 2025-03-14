@@ -1,0 +1,46 @@
+{
+  "istilah": "mukim",
+  "entri": "mu.kim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermukim",
+    "memukimkan",
+    "pemukim",
+    "pemukiman",
+    "permukiman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang menempati suatu daerah",
+    "kataAsal": "muqīm"
+  },
+  "data": [
+    {
+      "lema": "mu.kim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang tetap tinggal di Makkah (lebih dari satu masa haji); penduduk tetap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat tinggal; kediaman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah (dalam lingkungan suatu masjid)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kawasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "kumpulan beberapa kampung dalam suku Gayo di Aceh"
+        }
+      ]
+    }
+  ]
+}

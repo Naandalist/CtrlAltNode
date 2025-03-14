@@ -1,0 +1,45 @@
+{
+  "istilah": "patih",
+  "entri": "pa.tih1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepatihan",
+    "pematih",
+    "kepatihan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pejabat tinggi di keraton, khususnya penasihat dan pembantu terdekat raja; yang memegang kedudukan tertinggi di antara yang lain, kepala…, yang pertama",
+    "kataAsal": "patih"
+  },
+  "data": [
+    {
+      "lema": "pa.tih1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menurut (mendengarkan) perintah; patuh"
+        }
+      ]
+    },
+    {
+      "lema": "pa.tih2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wazir; bendahara; mangkubumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wakil bupati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebutan untuk orang besar yang berarti tuan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "istilah": "susur",
+  "entri": "su.sur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyusur",
+    "menyusuri",
+    "penyusur",
+    "susuran",
+    "menyusur",
+    "penyusur bayar"
+  ],
+  "gabunganKata": [
+    "susur daratan",
+    "susur galur",
+    "susur hutan",
+    "susur pantai",
+    "susur sejarah",
+    "susur sungai",
+    "susur tangan",
+    "susur tangga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "susur"
+  },
+  "data": [
+    {
+      "lema": "su.sur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pinggir atau tepi sebelah luar: -- bantal itu semua berenda"
+        }
+      ]
+    },
+    {
+      "lema": "su.sur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sugi (tembakau)"
+        }
+      ]
+    },
+    {
+      "lema": "su.sur3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "penyusur bayar"
+        }
+      ]
+    }
+  ]
+}

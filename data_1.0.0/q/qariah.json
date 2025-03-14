@@ -1,0 +1,28 @@
+{
+  "istilah": "qariah",
+  "entri": "qa.ri.ah bentuk tidak baku: kariah",
+  "bentukTidakBaku": "kariah",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "wanita pembaca; wanita pengumpul",
+    "kataAsal": "qāri’ah"
+  },
+  "data": [
+    {
+      "lema": "qa.ri.ah bentuk tidak baku: kariah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembaca Al-Qur'an (perempuan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang (perempuan) yang mahir dalam seni baca Al-Qur'an"
+        }
+      ]
+    }
+  ]
+}

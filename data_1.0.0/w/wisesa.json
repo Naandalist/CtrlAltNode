@@ -1,0 +1,37 @@
+{
+  "istilah": "wisesa",
+  "entri": "wi.se.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "keunggulan, kekhasan; superioritas",
+    "kataAsal": "viśeṣa"
+  },
+  "data": [
+    {
+      "lema": "wi.se.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penguasa utama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekuasaan yang tertinggi"
+        }
+      ]
+    },
+    {
+      "lema": "wi.se.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bg[Bugis: -]",
+          "deskripsi": "semua jenis tanaman atau tumbuh-tumbuhan yang buahnya dapat dimakan manusia"
+        }
+      ]
+    }
+  ]
+}

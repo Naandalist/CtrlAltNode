@@ -1,0 +1,35 @@
+{
+  "istilah": "cawak",
+  "entri": "ca.wak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercawak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.wak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lekuk (pada bagian kulit tubuh dan sebagainya); lesung: -- pipi"
+        }
+      ]
+    },
+    {
+      "lema": "ca.wak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tali kulit (dipasang di leher anjing dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

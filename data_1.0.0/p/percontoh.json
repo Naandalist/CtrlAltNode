@@ -1,0 +1,36 @@
+{
+  "istilah": "percontoh",
+  "entri": "contoh » per.con.toh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "percontoh acak",
+    "percontoh induk",
+    "percontoh senarai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "contoh » per.con.toh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian kecil atau butir tunggal yang mewakili kelompok atau keseluruhan yang lebih besar; sampel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian kecil data penelitian yang dianggap dapat mewakili keseluruhan data, dianalisis untuk memperoleh informasi mengenai seluruh data penelitian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "kumpulan unsur dalam populasi yang dipilih untuk pengukuran dengan maksud mendapat informasi tentang seluruh populasi itu"
+        }
+      ]
+    }
+  ]
+}

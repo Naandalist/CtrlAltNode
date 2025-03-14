@@ -1,0 +1,32 @@
+{
+  "istilah": "parket",
+  "entri": "par.ket",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "par.ket",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat duduk hakim dan pengacara di ruang pengadilan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang agak ditinggikan dalam aula"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang terbatas; ruang tertutup"
+        }
+      ]
+    }
+  ]
+}

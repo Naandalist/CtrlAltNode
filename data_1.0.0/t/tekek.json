@@ -1,0 +1,44 @@
+{
+  "istilah": "tekek",
+  "entri": "te.kek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menekek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.kek1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menekek"
+        }
+      ]
+    },
+    {
+      "lema": "te.kek2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "pekak; tuli"
+        }
+      ]
+    },
+    {
+      "lema": "te.kek /têkèk/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tokek1"
+        }
+      ]
+    }
+  ]
+}

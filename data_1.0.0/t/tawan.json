@@ -1,0 +1,40 @@
+{
+  "istilah": "tawan",
+  "entri": "ta.wan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menawan",
+    "penawan",
+    "penawanan",
+    "tawanan",
+    "tertawan",
+    "bertawan-tawan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.wan1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menawan"
+        }
+      ]
+    },
+    {
+      "lema": "ta.wan2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tersedu-sedu"
+        }
+      ]
+    }
+  ]
+}

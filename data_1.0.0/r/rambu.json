@@ -1,0 +1,53 @@
+{
+  "istilah": "rambu",
+  "entri": "ram.bu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berambu",
+    "rambu-rambu",
+    "perambuan",
+    "rambu-rambu"
+  ],
+  "gabunganKata": [
+    "rambu darat",
+    "rambu evakuasi",
+    "rambu larangan",
+    "rambu laut",
+    "rambu radio",
+    "rambu suar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ram.bu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumbai; jumbai"
+        }
+      ]
+    },
+    {
+      "lema": "ram.bu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "patok atau tiang (untuk batas); pancang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda atau petunjuk; rambu-rambu lalu lintas: -- jalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "tanda atau petunjuk bagi kapal yang sedang berlayar, dipasang di tempat tertentu untuk menghindari kecelakaan"
+        }
+      ]
+    }
+  ]
+}

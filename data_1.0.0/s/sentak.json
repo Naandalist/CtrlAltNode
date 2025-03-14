@@ -1,0 +1,40 @@
+{
+  "istilah": "sentak",
+  "entri": "sen.tak1 /sêntak/bentuk tidak baku: sentap",
+  "bentukTidakBaku": "sentap",
+  "kataTurunan": [
+    "menyentak",
+    "menyentakkan",
+    "sentakan",
+    "tersentak",
+    "menyentak",
+    "menyentak-nyentak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.tak1 /sêntak/bentuk tidak baku: sentap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menyentak"
+        }
+      ]
+    },
+    {
+      "lema": "sen.tak2 /sêntak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menyentak"
+        }
+      ]
+    }
+  ]
+}

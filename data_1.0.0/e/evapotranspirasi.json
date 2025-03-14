@@ -1,0 +1,30 @@
+{
+  "istilah": "evapotranspirasi",
+  "entri": "e.va.po.trans.pi.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "evapotranspirasi efektif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.va.po.trans.pi.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penguapan air melalui evaporasi langsung dan transpirasi melalui daun tumbuh-tumbuhan secara bersama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "konversi air menjadi uap melalui permukaan tanah dan tanaman"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "sphinx",
+  "entri": "Sphinx",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Sphinx",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "patung batu berkepala manusia (laki-laki) dan berbadan singa (terdapat di Mesir)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "patung makhluk besar berkepala manusia perempuan dan berbadan singa yang bersayap (terdapat di Yunani)"
+        }
+      ]
+    }
+  ]
+}

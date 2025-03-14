@@ -1,0 +1,30 @@
+{
+  "istilah": "estimasi",
+  "entri": "es.ti.ma.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengestimasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "es.ti.ma.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkiraan: berapa --mu tentang pembiayaan proyek itu?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penilaian; pendapat: menurut --ku, ia tidak akan mampu melakukan hal itu"
+        }
+      ]
+    }
+  ]
+}

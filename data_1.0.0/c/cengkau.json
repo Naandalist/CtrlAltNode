@@ -1,0 +1,33 @@
+{
+  "istilah": "cengkau",
+  "entri": "ceng.kau1 /cêngkau/bentuk tidak baku: cangkau",
+  "bentukTidakBaku": "cangkaucangku, cingkau",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "perantara",
+    "kataAsal": "chiâⁿ kau"
+  },
+  "data": [
+    {
+      "lema": "ceng.kau1 /cêngkau/bentuk tidak baku: cangkau",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "makelar"
+        }
+      ]
+    },
+    {
+      "lema": "ceng.kau2 /cêngkau/bentuk tidak baku: cangku, cingkau",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ cekau"
+        }
+      ]
+    }
+  ]
+}

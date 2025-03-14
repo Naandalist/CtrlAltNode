@@ -1,0 +1,26 @@
+{
+  "istilah": "sanat",
+  "entri": "sa.nat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersanat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tahun",
+    "kataAsal": "sanah"
+  },
+  "data": [
+    {
+      "lema": "sa.nat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "tahun: -- Islam atau Hijriah ditentukan berdasarkan perhitungan peredaran bulan"
+        }
+      ]
+    }
+  ]
+}

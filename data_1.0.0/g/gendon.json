@@ -1,0 +1,33 @@
+{
+  "istilah": "gendon",
+  "entri": "gen.don1 /gêndon/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gen.don1 /gêndon/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bernga besar (ulat putih pada rotan)"
+        }
+      ]
+    },
+    {
+      "lema": "gen.don2 /gêndon/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "larva kumbang yang ada di dalam tanah"
+        }
+      ]
+    }
+  ]
+}

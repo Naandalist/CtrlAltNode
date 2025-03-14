@@ -1,0 +1,56 @@
+{
+  "istilah": "tembok",
+  "entri": "tem.bok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertembok",
+    "menembok",
+    "penembok",
+    "penembokan",
+    "menembok",
+    "menembok"
+  ],
+  "gabunganKata": [
+    "tembok api",
+    "tembok kering"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem.bok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dinding dari bata, batako, adonan semen: di -- bergantungan lukisan-lukisan modern, terutama dari aliran neoimpresionisme"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tambak (bendung) dari batu (batu bata dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tem.bok2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menembok"
+        }
+      ]
+    },
+    {
+      "lema": "tem.bok3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menembok"
+        }
+      ]
+    }
+  ]
+}

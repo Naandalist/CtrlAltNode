@@ -1,0 +1,24 @@
+{
+  "istilah": "rasa berita",
+  "entri": "rasa1 » rasa berita",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rasa1 » rasa berita",
+      "arti": [
+        {
+          "kelas_kata": "Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "intuisi wartawan untuk melihat atau mengetahui suatu kejadian atau pendapat yang mempunyai nilai berita"
+        }
+      ]
+    }
+  ]
+}

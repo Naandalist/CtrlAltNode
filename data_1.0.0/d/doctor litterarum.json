@@ -1,0 +1,33 @@
+{
+  "istilah": "doctor litterarum",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "gelar kesarjanaan yang lebih tinggi daripada doktor, diberikan atas dasar prestasi luar biasa atas penelitian dan karya-karya yang diterbitkannya"
+        }
+      ]
+    },
+    {
+      "lema": "doctor litterarum",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "gelar kesarjanaan yang lebih tinggi daripada doktor, diberikan atas dasar prestasi luar biasa atas penelitian dan karya-karya yang diterbitkannya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "istilah": "pantun",
+  "entri": "pan.tun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpantun",
+    "berpantun-pantun",
+    "memantuni",
+    "memantunkan",
+    "pemantun",
+    "sepantun"
+  ],
+  "gabunganKata": [
+    "pantun berkait",
+    "pantun kilat",
+    "pantun rantai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.tun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk puisi Indonesia (Melayu), tiap bait (kuplet) biasanya terdiri atas empat baris yang bersajak (a-b-a-b), tiap larik biasanya terdiri atas empat kata, baris pertama dan baris kedua biasanya untuk tumpuan (sampiran) saja dan baris ketiga dan keempat merupakan isi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peribahasa sindiran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "jawab (misalnya pada tuduhan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "puisi tradisional Sunda berpola oktosilabik yang berisi kisah sejarah"
+        }
+      ]
+    },
+    {
+      "lema": "pan.tun2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "sepantun"
+        }
+      ]
+    }
+  ]
+}

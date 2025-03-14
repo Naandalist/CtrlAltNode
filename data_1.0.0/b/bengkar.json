@@ -1,0 +1,35 @@
+{
+  "istilah": "bengkar",
+  "entri": "beng.kar1 /bêngkar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membengkar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "beng.kar1 /bêngkar/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mekar"
+        }
+      ]
+    },
+    {
+      "lema": "beng.kar2 /bêngkar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "rakit yang terdiri atas batang kayu"
+        }
+      ]
+    }
+  ]
+}

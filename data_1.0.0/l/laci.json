@@ -1,0 +1,38 @@
+{
+  "istilah": "laci",
+  "entri": "la.ci1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlaci"
+  ],
+  "gabunganKata": [
+    "laci arsip",
+    "laci katalog"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.ci1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotak kecil (pada meja dan sebagainya) yang dapat ditarik dan disorong, tempat menyimpan benda-benda kecil; anak meja"
+        }
+      ]
+    },
+    {
+      "lema": "la.ci2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "membersihkan rumput dengan cara membuat saluran utk menyimpan rumput"
+        }
+      ]
+    }
+  ]
+}

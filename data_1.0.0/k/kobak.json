@@ -1,0 +1,37 @@
+{
+  "istilah": "kobak",
+  "entri": "ko.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.bak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kubak"
+        }
+      ]
+    },
+    {
+      "lema": "ko.bak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan anak-anak dengan cara melemparkan karet dan sebagainya ke dalam lubang di tanah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan judi dengan melemparkan uang (logam) ke dalam lubang di tanah"
+        }
+      ]
+    }
+  ]
+}

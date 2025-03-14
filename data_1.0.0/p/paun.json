@@ -1,0 +1,28 @@
+{
+  "istilah": "paun",
+  "entri": "pa.un",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.un",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan mata uang Inggris (pound)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "uang ringgit emas (untuk perhiasan, bandul kalung, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

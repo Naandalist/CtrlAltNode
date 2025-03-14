@@ -1,0 +1,41 @@
+{
+  "istilah": "bethel",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ib[Ibrani: -]",
+          "deskripsi": "tempat suci"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ib[Ibrani: -]",
+          "deskripsi": "salah satu mazhab dalam agama Protestan"
+        }
+      ]
+    },
+    {
+      "lema": "bethel",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Ibrani: -]",
+          "deskripsi": "tempat suci"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Ibrani: -]",
+          "deskripsi": "salah satu mazhab dalam agama Protestan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "istilah": "bentar",
+  "entri": "ben.tar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbentar",
+    "membentari",
+    "membentarkan",
+    "perbentaran",
+    "sebentar",
+    "sebentar-sebentar",
+    "sesebentar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "běntar"
+  },
+  "data": [
+    {
+      "lema": "ben.tar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jalan (berkeliling)"
+        }
+      ]
+    },
+    {
+      "lema": "ben.tar1 /bêntar/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "belah: candi -- bangunan gapura menyerupai belahan gunung yang simetri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "bangunan kuno berupa gapura atau gerbang yang tidak mempunyai atap"
+        }
+      ]
+    },
+    {
+      "lema": "ben.tar2 /bêntar/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "sebentar; sebentar-sebentar; sesebentar"
+        }
+      ]
+    }
+  ]
+}

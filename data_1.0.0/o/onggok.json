@@ -1,0 +1,48 @@
+{
+  "istilah": "onggok",
+  "entri": "ong.gok1 bentuk tidak baku: ungguk",
+  "bentukTidakBaku": "ungguk",
+  "kataTurunan": [
+    "beronggok-onggok",
+    "mengonggok",
+    "mengonggokkan",
+    "onggokan",
+    "teronggok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ong.gok1 bentuk tidak baku: ungguk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "timbunan; tumpukan; longgok"
+        }
+      ]
+    },
+    {
+      "lema": "ong.gok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ampas singkong setelah diambil acinya"
+        }
+      ]
+    },
+    {
+      "lema": "ong.gok3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "peranti yang dapat menghasilkan reaksi fisi nuklir berantai yang dapat dipertahankan dan dikendalikan"
+        }
+      ]
+    }
+  ]
+}

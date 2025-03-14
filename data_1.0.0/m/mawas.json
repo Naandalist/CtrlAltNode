@@ -1,0 +1,33 @@
+{
+  "istilah": "mawas",
+  "entri": "ma.was1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.was1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang utan"
+        }
+      ]
+    },
+    {
+      "lema": "ma.was2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "gendang terbuat dari tabung kayu dan kulit"
+        }
+      ]
+    }
+  ]
+}

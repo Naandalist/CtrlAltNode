@@ -1,0 +1,34 @@
+{
+  "istilah": "rohani",
+  "entri": "ro.ha.ni bentuk tidak baku: ruhani",
+  "bentukTidakBaku": "ruhani",
+  "kataTurunan": [
+    "kerohanian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hal yang berkaitan dengan nyawa",
+    "kataAsal": "rūḥānī"
+  },
+  "data": [
+    {
+      "lema": "ro.ha.ni bentuk tidak baku: ruhani",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "roh: di samping jasmani, -- juga memerlukan santapan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan roh; rohaniah: alam --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kejiwaan: untuk menduduki posisi tersebut pelamar harus sehat secara jasmani dan --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "sambar",
+  "entri": "sam.bar bentuk tidak baku: sembar",
+  "bentukTidakBaku": "sembar",
+  "kataTurunan": [
+    "bersambar-sambaran",
+    "bersambaran",
+    "menyambar",
+    "menyambar-nyambar",
+    "penyambar",
+    "penyambaran",
+    "sambar-menyambar",
+    "sambaran",
+    "tersambar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.bar bentuk tidak baku: sembar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tangkap"
+        }
+      ]
+    }
+  ]
+}

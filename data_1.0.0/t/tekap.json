@@ -1,0 +1,41 @@
+{
+  "istilah": "tekap",
+  "entri": "te.kap1 /têkap/bentuk tidak baku: tekup",
+  "bentukTidakBaku": "tekup",
+  "kataTurunan": [
+    "bertekap",
+    "menekap",
+    "menekapi",
+    "menekapkan",
+    "tekapan"
+  ],
+  "gabunganKata": [
+    "tekap sampan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.kap1 /têkap/bentuk tidak baku: tekup",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penudung (penutup) yang melingkupi seperti telapak tangan pada mulut, saputangan pada muka"
+        }
+      ]
+    },
+    {
+      "lema": "te.kap2 /têkap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekerjaan lama yang ditinggalkan (berladang dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

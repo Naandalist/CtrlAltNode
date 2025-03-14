@@ -1,0 +1,43 @@
+{
+  "istilah": "bungkus",
+  "entri": "bung.kus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbungkus",
+    "bungkusan",
+    "membungkus",
+    "membungkusi",
+    "membungkuskan",
+    "pembungkus",
+    "pembungkusan",
+    "terbungkus"
+  ],
+  "gabunganKata": [
+    "bungkus bingkis",
+    "bungkus gelembung",
+    "bungkus tubuh"
+  ],
+  "peribahasa": [
+    "besar bungkus tak berisi (tong kosong nyaring bunyinya)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bung.kus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong untuk benda yang dibalut dengan kertas (daun, plastik, dan sebagainya); pak: tiga -- nasi; dua -- rokok"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan yang dipakai untuk membalut: daun -- nasi"
+        }
+      ]
+    }
+  ]
+}

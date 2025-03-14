@@ -1,0 +1,32 @@
+{
+  "istilah": "romawi",
+  "entri": "Ro.ma.wi bentuk tidak baku: Rumawi",
+  "bentukTidakBaku": "Rumawi",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Hal yang berkaitan dengan Roma",
+    "kataAsal": "rūmī"
+  },
+  "data": [
+    {
+      "lema": "Ro.ma.wi bentuk tidak baku: Rumawi",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan kebudayaan, politik, bahasa, dan sebagainya dari kota Roma Kuno"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan huruf Latin"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan angka yang berasal dari daerah Mediterania (dipertentangkan dengan angka Arab, seperti 1, 2, 3, 4, 5,...): angka I, II, III... adalah angka --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "memupuk",
+  "entri": "pupuk1 » me.mu.puk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pupuk1 » me.mu.puk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyuburkan tanah (tanaman) dengan pupuk; merabuk: petani di sana sudah biasa ~ tanahnya dengan pupuk Za"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menggemukkan (badan, binatang, dan sebagainya): petani ~ ternaknya dengan berbagai cara"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menumbuhkan; meningkatkan: kompetisi mendongeng cerita kepahlawanan diharapkan mampu ~ rasa nasionalisme anak-anak"
+        }
+      ]
+    },
+    {
+      "lema": "pupuk2 » me.mu.puk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melekatkan pupuk"
+        }
+      ]
+    }
+  ]
+}

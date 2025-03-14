@@ -1,0 +1,33 @@
+{
+  "istilah": "bolok",
+  "entri": "bo.lok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.lok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon khas Kalimantan Timur, buahnya berbentuk seperti apel kecil-kecil, rasanya manis tetapi memabukkan, biasa dimakan oleh pelanduk, kijang, dan rusa"
+        }
+      ]
+    },
+    {
+      "lema": "bo.lok2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Kpr[Melayu Kep. Riau: ]",
+          "deskripsi": "bengkak karena terlalu lama menangis (tentang mata)"
+        }
+      ]
+    }
+  ]
+}

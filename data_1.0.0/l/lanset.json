@@ -1,0 +1,39 @@
+{
+  "istilah": "lanset",
+  "entri": "lan.set",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melanset"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.set",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pisau kecil, berujung dua yang sangat tajam, digunakan dalam pembedahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata tombak"
+        }
+      ]
+    },
+    {
+      "lema": "lan.set /lansêt/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "melengkung dengan ujung meruncing (tentang daun)"
+        }
+      ]
+    }
+  ]
+}

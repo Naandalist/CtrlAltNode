@@ -1,0 +1,40 @@
+{
+  "istilah": "jambak",
+  "entri": "jam.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jambak-jambakan",
+    "jambakan",
+    "menjambak",
+    "penjambak",
+    "penjambakan",
+    "sejambak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jam.bak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jambul; gombak (bulu pada dahi kuda)"
+        }
+      ]
+    },
+    {
+      "lema": "jam.bak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "jambu bol〔Syzygium malaccenses〕"
+        }
+      ]
+    }
+  ]
+}

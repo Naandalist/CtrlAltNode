@@ -1,0 +1,47 @@
+{
+  "istilah": "bias",
+  "entri": "bi.as",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membias",
+    "membiaskan",
+    "pembiasan",
+    "terbias",
+    "terbiaskan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.as",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecenderungan untuk mendukung atau menentang sesuatu hal, orang, atau kelompok daripada yang lain dengan cara yang kurang adil: sikap -- dapat menimbulkan keputusan yang tidak adil dan irasional"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "belokan arah dari garis tempuhan karena menembus benda bening yang lain (seperti cahaya yang menembus kaca, bayangan yang berada dalam air)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "galat sistematis dalam pengambilan sampel atau pengujian dengan memilih atau mendorong satu hasil atau jawaban atas yang lain"
+        }
+      ]
+    },
+    {
+      "lema": "bi.as2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "anggota grup idola yang difavoritkan: setiap penggemar grup idola memiliki --"
+        }
+      ]
+    }
+  ]
+}

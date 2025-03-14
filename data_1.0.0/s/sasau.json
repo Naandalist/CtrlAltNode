@@ -1,0 +1,35 @@
+{
+  "istilah": "sasau",
+  "entri": "sa.sau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyasau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.sau1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang pikir; sasar"
+        }
+      ]
+    },
+    {
+      "lema": "sa.sau2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menyasau"
+        }
+      ]
+    }
+  ]
+}

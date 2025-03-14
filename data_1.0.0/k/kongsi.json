@@ -1,0 +1,36 @@
+{
+  "istilah": "kongsi",
+  "entri": "kong.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkongsi",
+    "kongsian",
+    "perkongsian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "persekutuan dagang; perseroan",
+    "kataAsal": "kong si"
+  },
+  "data": [
+    {
+      "lema": "kong.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persekutuan dagang; perseroan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkumpulan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kantor tuan tanah"
+        }
+      ]
+    }
+  ]
+}

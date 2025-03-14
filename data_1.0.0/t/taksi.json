@@ -1,0 +1,40 @@
+{
+  "istilah": "taksi",
+  "entri": "tak.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menaksikan"
+  ],
+  "gabunganKata": [
+    "taksi gelap",
+    "taksi liar",
+    "taksi resmi",
+    "taksi udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tak.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mobil (biasanya sedan) tambangan"
+        }
+      ]
+    },
+    {
+      "lema": "tak.si2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Terb[Penerbangan: -]",
+          "deskripsi": "bergerak lambat di sepanjang rute yang disediakan sebelum lepas landas atau setelah mendarat (tentang pesawat)"
+        }
+      ]
+    }
+  ]
+}

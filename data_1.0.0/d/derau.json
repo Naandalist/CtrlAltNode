@@ -1,0 +1,41 @@
+{
+  "istilah": "derau",
+  "entri": "de.rau /dêrau/bentuk tidak baku: rau1",
+  "bentukTidakBaku": "rau1",
+  "kataTurunan": [
+    "berderau",
+    "berderau-derau",
+    "menderau",
+    "menderau-derau"
+  ],
+  "gabunganKata": [
+    "derau galaksi",
+    "derau putih",
+    "derau tanah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.rau /dêrau/bentuk tidak baku: rau1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi gemuruh hujan dibawa angin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bunyi, getaran, atau isyarat (sinyal) yang tidak diinginkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dirg[Kedirgantaraan: -]",
+          "deskripsi": "gangguan yang terjadi dalam sistem transmisi telekomunikasi yang memengaruhi kualitas informasi"
+        }
+      ]
+    }
+  ]
+}

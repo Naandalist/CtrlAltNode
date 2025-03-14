@@ -1,0 +1,46 @@
+{
+  "istilah": "magang",
+  "entri": "ma.gang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermagang",
+    "memagang",
+    "pemagang",
+    "pemagangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.gang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "calon pegawai (yang belum diangkat secara tetap serta belum menerima gaji atau upah karena dianggap masih dalam taraf belajar)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "calon ahli: ia sudah cukup lama menjadi -- di kantor itu"
+        }
+      ]
+    },
+    {
+      "lema": "ma.gang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlalu masak (tentang buah-buahan); ranum"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hampir masam (tentang nira)"
+        }
+      ]
+    }
+  ]
+}

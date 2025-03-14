@@ -1,0 +1,48 @@
+{
+  "istilah": "landa",
+  "entri": "lan.da1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melanda",
+    "melandakan",
+    "terlanda",
+    "melanda",
+    "pelanda"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.da1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melanda; melandakan; terlanda"
+        }
+      ]
+    },
+    {
+      "lema": "lan.da2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melanda; pelanda"
+        }
+      ]
+    },
+    {
+      "lema": "lan.da3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air abu batang padi"
+        }
+      ]
+    }
+  ]
+}

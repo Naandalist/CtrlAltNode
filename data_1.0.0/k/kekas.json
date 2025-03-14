@@ -1,0 +1,35 @@
+{
+  "istilah": "kekas",
+  "entri": "ke.kas1 /kêkas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengekas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.kas1 /kêkas/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kais"
+        }
+      ]
+    },
+    {
+      "lema": "ke.kas2 /kêkas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Plb[Palembang: -]",
+          "deskripsi": "sebidang tanah di antara ladang baru dan ladang yang telah ditanami"
+        }
+      ]
+    }
+  ]
+}

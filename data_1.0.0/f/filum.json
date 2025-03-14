@@ -1,0 +1,28 @@
+{
+  "istilah": "filum",
+  "entri": "fi.lum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.lum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "golongan besar dalam klasifikasi hewan dan tumbuhan yang mempunyai persamaan sifat dasar tertentu, yang masih terbagi lagi menjadi subfilum, kelas, ordo, famili, genus, dan spesies"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kelompok bahasa berkerabat yang anggotanya telah berpisah antara 50–100 abad yang lampau"
+        }
+      ]
+    }
+  ]
+}

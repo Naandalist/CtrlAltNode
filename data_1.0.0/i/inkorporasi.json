@@ -1,0 +1,34 @@
+{
+  "istilah": "inkorporasi",
+  "entri": "in.kor.po.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menginkorporasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.kor.po.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peleburan menjadi badan usaha yang sah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pemaduan morfem-morfem dasar menjadi kata tunggal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tn[Ilmu Tanah: ilmu tanah]",
+          "deskripsi": "pembenaman bahan yang tersebar di atas permukaan tanah (misalnya pupuk, pestisida, sisa tanaman) ke dalam lindak tanah melalui pengolahan tanah"
+        }
+      ]
+    }
+  ]
+}

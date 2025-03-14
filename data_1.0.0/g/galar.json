@@ -1,0 +1,33 @@
+{
+  "istilah": "galar",
+  "entri": "ga.lar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lantai (dari bambu yang dibelah)",
+    "kataAsal": "galar"
+  },
+  "data": [
+    {
+      "lema": "ga.lar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelupuh yang terbuat dari bambu dan sebagainya, dipakai sebagai alas tikar di atas balai-balai"
+        }
+      ]
+    },
+    {
+      "lema": "ga.lar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bahan pembuat adonan yang dicampur dengan pasir dan semen, fungsinya untuk memasang batu bata untuk menjadi tembok"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "mampu",
+  "entri": "mam.pu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkemampuan",
+    "kemampuan",
+    "ketidakmampuan",
+    "semampu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mam.pu",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kuasa (bisa, sanggup) melakukan sesuatu; dapat: ia tidak -- membayar biaya pengobatan anaknya; kakeknya tidak -- berdiri lagi karena sangat tua"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berada; kaya; mempunyai harta berlebih: mereka cukup -- untuk menyekolahkan anaknya ke luar negeri"
+        }
+      ]
+    }
+  ]
+}

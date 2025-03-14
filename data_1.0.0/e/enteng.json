@@ -1,0 +1,37 @@
+{
+  "istilah": "enteng",
+  "entri": "en.teng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengentengkan",
+    "seenteng"
+  ],
+  "gabunganKata": [
+    "enteng jodoh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.teng",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berat timbangannya; ringan: meja ini --, dapat saya angkat sendiri"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak perlu diperhitungkan; remeh: kesalahannya ialah bahwa ia menganggap -- lawannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak sukar; mudah: tugas yang tidak -- ini harus kita selesaikan bersama"
+        }
+      ]
+    }
+  ]
+}

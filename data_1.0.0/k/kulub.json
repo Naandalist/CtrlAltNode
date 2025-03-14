@@ -1,0 +1,36 @@
+{
+  "istilah": "kulub",
+  "entri": "ku.lub1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kuluban",
+    "mengulub"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hati; perasaan",
+    "kataAsal": "qulūb"
+  },
+  "data": [
+    {
+      "lema": "ku.lub1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "hati (jamak dari kalbu)"
+        }
+      ]
+    },
+    {
+      "lema": "ku.lub2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sayuran yang direbus"
+        }
+      ]
+    }
+  ]
+}

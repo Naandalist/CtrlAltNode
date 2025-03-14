@@ -1,0 +1,33 @@
+{
+  "istilah": "mesum",
+  "entri": "me.sum /mêsum/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermesum",
+    "kemesuman",
+    "memesumi",
+    "permesuman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.sum /mêsum/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kotor; cemar (tentang pakaian, badan, dan sebagainya): pakaiannya telah --; tempat yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak senonoh; tidak patut; keji sekali (tentang perbuatan, kelakuan, dan sebagainya); cabul: bacaan yang isinya sangat --; perbuatan yang --"
+        }
+      ]
+    }
+  ]
+}

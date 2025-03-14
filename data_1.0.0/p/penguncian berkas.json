@@ -1,0 +1,24 @@
+{
+  "istilah": "penguncian berkas",
+  "entri": "kunci » penguncian » penguncian berkas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kunci » penguncian » penguncian berkas",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "mekanisme perangkat lunak yang mencegah pemutakhiran data di dalam berkas oleh dua pengguna yang berbeda pada saat yang sama"
+        }
+      ]
+    }
+  ]
+}

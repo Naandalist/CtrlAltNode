@@ -1,0 +1,36 @@
+{
+  "istilah": "jeput",
+  "entri": "je.put1 /jêput/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjeput",
+    "sejeput"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.put1 /jêput/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh: ia harus menjaga ibunya semalam --"
+        }
+      ]
+    },
+    {
+      "lema": "je.put2 /jêput/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pungut"
+        }
+      ]
+    }
+  ]
+}

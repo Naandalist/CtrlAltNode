@@ -1,0 +1,73 @@
+{
+  "istilah": "lagu",
+  "entri": "la.gu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlagu",
+    "laguan",
+    "melagu",
+    "melagui",
+    "melagukan",
+    "pelagu",
+    "pelaguan",
+    "belagu",
+    "berlagu"
+  ],
+  "gabunganKata": [
+    "lagu cadas",
+    "lagu dua",
+    "lagu film",
+    "lagu instrumental",
+    "lagu kebangsaan",
+    "lagu mini",
+    "lagu Natal",
+    "lagu pilihan",
+    "lagu puji-pujian",
+    "lagu religi",
+    "lagu rohani",
+    "lagu tebaununggu",
+    "lagu vokal",
+    "lagu wajib",
+    "lagu wandiu-diu"
+  ],
+  "peribahasa": [
+    "menyanyikan lagu lama (kuno)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cari:",
+    "kataAsal": "laghu"
+  },
+  "data": [
+    {
+      "lema": "la.gu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ragam suara yang berirama (dalam bercakap, bernyanyi, membaca, dan sebagainya): bacaannya lancar, tetapi kurang baik --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nyanyian: -- perjuangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ragam nyanyi (musik, gamelan, dan sebagainya): -- keroncong asli"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkah laku; cara; lagak: --nya seperti orang asing saja"
+        }
+      ]
+    },
+    {
+      "lema": "la.gu2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "belagu; berlagu"
+        }
+      ]
+    }
+  ]
+}

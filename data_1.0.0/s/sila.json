@@ -1,0 +1,57 @@
+{
+  "istilah": "sila",
+  "entri": "si.la1 bentuk tidak baku: silah1",
+  "bentukTidakBaku": "silah1sela3",
+  "kataTurunan": [
+    "mempersilakan",
+    "menyilakan",
+    "silakan",
+    "tersila",
+    "bersila",
+    "menyilakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "karakter, tingkah laku, kebaikan, moral, kecenderungan",
+    "kataAsal": "śīla"
+  },
+  "data": [
+    {
+      "lema": "si.la1 bentuk tidak baku: silah1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyilakan"
+        }
+      ]
+    },
+    {
+      "lema": "si.la2 bentuk tidak baku: sela3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "duduk bersila dengan kaki berlipat dan bersilang: mengorak -- bangkit dari duduknya"
+        }
+      ]
+    },
+    {
+      "lema": "si.la3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aturan yang melatarbelakangi perilaku seseorang atau bangsa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelakuan atau perbuatan yang menurut adab (sopan santun)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dasar; adab; akhlak; moral: -- dalam Pancasila saling terkait"
+        }
+      ]
+    }
+  ]
+}

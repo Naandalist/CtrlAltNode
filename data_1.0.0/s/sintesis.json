@@ -1,0 +1,43 @@
+{
+  "istilah": "sintesis",
+  "entri": "sin.te.sis bentuk tidak baku: sintese, sintesa",
+  "bentukTidakBaku": "sintese, sintesa",
+  "kataTurunan": [
+    "menyintesis",
+    "penyintesis"
+  ],
+  "gabunganKata": [
+    "sintesis apriori",
+    "sintesis organik",
+    "sintesis posteriori"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sin.te.sis bentuk tidak baku: sintese, sintesa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "paduan (campuran) berbagai pengertian atau hal sehingga merupakan kesatuan yang selaras: perkembangan manusia adalah hasil -- beberapa unsur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penentuan hukum yang umum berdasarkan hukum yang khusus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "reaksi kimia antara dua atau lebih zat membentuk satu zat baru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "penggabungan unsur-unsur untuk membentuk ujaran dengan menggunakan alat-alat bahasa yang ada"
+        }
+      ]
+    }
+  ]
+}

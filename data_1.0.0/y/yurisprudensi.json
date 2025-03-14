@@ -1,0 +1,28 @@
+{
+  "istilah": "yurisprudensi",
+  "entri": "yu.ris.pru.den.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "yu.ris.pru.den.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "ajaran hukum melalui peradilan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "himpunan putusan hakim"
+        }
+      ]
+    }
+  ]
+}

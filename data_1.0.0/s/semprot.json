@@ -1,0 +1,40 @@
+{
+  "istilah": "semprot",
+  "entri": "sem.prot /sêmprot/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyemprot",
+    "menyemproti",
+    "menyemprotkan",
+    "penyemprot",
+    "penyemprotan",
+    "semprotan",
+    "tersemprot"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sem.prot /sêmprot/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat semacam pompa untuk menyemburkan air, api, cat, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "alat untuk menyuntik (memasukkan obat ke dalam tubuh)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -] ki[kiasan]",
+          "deskripsi": "cercaan; celaan; dampratan"
+        }
+      ]
+    }
+  ]
+}

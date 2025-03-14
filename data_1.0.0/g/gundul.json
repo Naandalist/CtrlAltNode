@@ -1,0 +1,42 @@
+{
+  "istilah": "gundul",
+  "entri": "gun.dul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergundul",
+    "menggundul",
+    "menggunduli",
+    "menggundulkan",
+    "penggundulan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gun.dul",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berambut (tentang kepala); botak"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ditumbuhi bulu atau bulu-bulunya telah rontok (tentang binatang)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ditumbuhi tanaman (tentang daerah, tanah)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berdaun (tentang pohon)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "senyap",
+  "entri": "se.nyap /sênyap/bentuk tidak baku: senyak",
+  "bentukTidakBaku": "senyak",
+  "kataTurunan": [
+    "kesenyapan",
+    "menyenyapkan",
+    "tersenyap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.nyap /sênyap/bentuk tidak baku: senyak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada suara (bunyi) sedikit pun; sunyi; lengang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada kegiatan; sepi (tentang perniagaan dan sebagainya): perdagangan karet -- saja tahun ini, tidak banyak pembeli"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak terdengar suara apa-apa; tidak berkata-kata; diam: ketika itu --, tidak seorang pun berani berbicara"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak diperbincangkan lagi: akhirnya perkara itu -- dengan sendirinya"
+        }
+      ]
+    }
+  ]
+}

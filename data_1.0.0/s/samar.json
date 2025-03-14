@@ -1,0 +1,66 @@
+{
+  "istilah": "samar",
+  "entri": "sa.mar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersamar",
+    "kesamaran",
+    "menyamar",
+    "menyamarkan",
+    "penyamar",
+    "penyamaran",
+    "samar-samar",
+    "samaran",
+    "tersamar",
+    "tersamarkan"
+  ],
+  "gabunganKata": [
+    "samar muka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tidak jelas, nampak kabur, hampir-hampir tidak dapat dilihat atau dibedakan, tersembunyi",
+    "kataAsal": "samar"
+  },
+  "data": [
+    {
+      "lema": "sa.mar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kabur; tidak kelihatan nyata; agak gelap: dalam lamunannya terbayang -- wajah ibunya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sayup-sayup (tentang pendengaran): dari jauh terdengar -- suara seruling gembala"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tersembunyi; kurang jelas (apa yang dilihat, dilakukan, dan sebagainya): semua sepak terjangnya -- dan mencurigakan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gaib alam yang tidak dapat dilihat dengan indra biasa; gaib: ahli kebatinan dapat melihat segala sesuatu dalam alam --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "saru; keliru: kadang-kadang saya -- tidak dapat membedakan kedua anak kembar itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang jelas (tentang kabar, peristiwa, dan sebagainya); tidak terang: dalam naskah perjanjian itu ada beberapa kalimat yang --; berita tentang jatuhnya pesawat terbang itu masih --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.mar2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "khawatir; waswas: relakan saja anakmu pergi, jangan --"
+        }
+      ]
+    }
+  ]
+}

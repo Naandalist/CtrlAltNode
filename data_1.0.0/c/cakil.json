@@ -1,0 +1,35 @@
+{
+  "istilah": "cakil",
+  "entri": "ca.kil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cakilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.kil1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "batang kayu yang berkait untuk melilitkan ujung tali pada benda tersebut"
+        }
+      ]
+    },
+    {
+      "lema": "ca.kil2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pasak dari bambu yang ujungnya runcing"
+        }
+      ]
+    }
+  ]
+}

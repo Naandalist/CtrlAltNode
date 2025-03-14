@@ -1,0 +1,33 @@
+{
+  "istilah": "dengkel",
+  "entri": "deng.kel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "deng.kel1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berair (tentang buah-buahan); kering"
+        }
+      ]
+    },
+    {
+      "lema": "deng.kel2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit kaku atau bengkak pada mata kaki"
+        }
+      ]
+    }
+  ]
+}

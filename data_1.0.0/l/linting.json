@@ -1,0 +1,38 @@
+{
+  "istilah": "linting",
+  "entri": "lin.ting1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lintingan",
+    "melinting",
+    "pelinting",
+    "pelintingan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lin.ting1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan barang yang digulung atau dilipat: menyita tiga -- ganja kering"
+        }
+      ]
+    },
+    {
+      "lema": "lin.ting2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gulung"
+        }
+      ]
+    }
+  ]
+}

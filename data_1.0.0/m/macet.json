@@ -1,0 +1,37 @@
+{
+  "istilah": "macet",
+  "entri": "ma.cet /macêt/bentuk tidak baku: macat",
+  "bentukTidakBaku": "macat",
+  "kataTurunan": [
+    "kemacetan",
+    "memacetkan",
+    "pemacet",
+    "termacet"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.cet /macêt/bentuk tidak baku: macat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat berfungsi dengan baik (tentang rem, mesin, dan sebagainya); sendat; serat: rem mobilnya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "terhenti; tidak lancar: pembongkaran saluran air menyebabkan lalu lintas --; usahanya --; air leding sedang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Komp[Komputer: -] ki[kiasan]",
+          "deskripsi": "situasi ketika komputer berhenti bekerja dan tidak dapat bereaksi terhadap masukan dari papan tik atau tetikus"
+        }
+      ]
+    }
+  ]
+}

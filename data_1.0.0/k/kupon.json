@@ -1,0 +1,36 @@
+{
+  "istilah": "kupon",
+  "entri": "ku.pon",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kupon makan",
+    "kupon obligasi",
+    "kupon togel"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.pon",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat kecil atau karcis yang dapat ditukarkan dengan barang atau untuk membeli barang dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat kecil tanda mendapat bunga uang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat kecil yang dapat disobek dari buku atau majalah untuk memesan barang dan sebagainya untuk memperoleh hadiah"
+        }
+      ]
+    }
+  ]
+}

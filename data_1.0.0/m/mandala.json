@@ -1,0 +1,40 @@
+{
+  "istilah": "mandala",
+  "entri": "man.da.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mandala wisata",
+    "mandala yuda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "lingkaran, bundaran, area, zona, daerah, distrik",
+    "kataAsal": "maṇḍala"
+  },
+  "data": [
+    {
+      "lema": "man.da.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "wilayah kekuasaan lembaga keagamaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bulatan; lingkungan (daerah)"
+        }
+      ]
+    },
+    {
+      "lema": "man.da.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang digunakan untuk berkonsentrasi selama bersemadi, berbentuk lukisan yang menggunakan taburan beras berwarna di atas kain atau tanah"
+        }
+      ]
+    }
+  ]
+}

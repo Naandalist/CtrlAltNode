@@ -1,0 +1,30 @@
+{
+  "istilah": "pegun",
+  "entri": "pe.gun /pêgun/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terpegun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.gun /pêgun/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "diam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "keadaan besaran yang tidak berubah dengan waktu dan gelombang yang tidak merambat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "khamir",
+  "entri": "kha.mir bentuk tidak baku: kamir",
+  "bentukTidakBaku": "kamir",
+  "kataTurunan": [
+    "berkhamir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ragi",
+    "kataAsal": "khamīr"
+  },
+  "data": [
+    {
+      "lema": "kha.mir bentuk tidak baku: kamir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "jamur yang berkembang biak dengan tunas kecambah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "ragi"
+        }
+      ]
+    }
+  ]
+}

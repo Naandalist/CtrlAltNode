@@ -1,0 +1,28 @@
+{
+  "istilah": "siluman",
+  "entri": "si.lu.man",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "khayalan (penglihatan), bayangan yang dibangkitkan secara magis",
+    "kataAsal": "siluman"
+  },
+  "data": [
+    {
+      "lema": "si.lu.man",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makhluk halus yang sering menampakkan diri sebagai manusia atau binatang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tersembunyi tidak kelihatan: pasukan --; biaya -- biaya yang sulit dipertanggungjawabkan (seperti uang suap dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

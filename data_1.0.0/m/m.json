@@ -1,0 +1,45 @@
+{
+  "istilah": "m",
+  "entri": "m2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "m2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "meter"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "(ditulis dengan huruf kapital) Masehi"
+        }
+      ]
+    },
+    {
+      "lema": "M1 varian: m",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf ke-13 abjad Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ditulis dengan huruf kapital) lambang bilangan 1.000 angka Romawi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ditulis dengan huruf kapital bergaris atas) lambang bilangan 1.000.000 angka Romawi"
+        }
+      ]
+    }
+  ]
+}

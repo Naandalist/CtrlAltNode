@@ -1,0 +1,60 @@
+{
+  "istilah": "gelar",
+  "entri": "ge.lar1 /gêlar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergelar",
+    "menggelari",
+    "mempergelarkan",
+    "menggelar",
+    "menggelarkan",
+    "pegelaran",
+    "pergelaran",
+    "tergelar"
+  ],
+  "gabunganKata": [
+    "gelar kehormatan",
+    "gelar perkara",
+    "gelar pusaka",
+    "gelar griya",
+    "gelar wicara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bentangan, susunan dan lain-lain; penyebaran (formasi) pasukan, gelar perang",
+    "kataAsal": "gělar"
+  },
+  "data": [
+    {
+      "lema": "ge.lar1 /gêlar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebutan kehormatan, kebangsawanan, atau kesarjanaan yang biasanya ditambahkan pada nama orang, seperti raden, tengku, doktor, sarjana ekonomi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama tambahan sesudah nikah atau setelah tua (sebagai kehormatan): ia diberi -- sutan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "julukan yang berhubungan dengan keadaan atau tabiat orang; sebutan: ia mendapat -- srikandi dari kawan-kawannya"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lar2 /gêlar/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hampar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penempatan dan penyebaran kekuatan"
+        }
+      ]
+    }
+  ]
+}

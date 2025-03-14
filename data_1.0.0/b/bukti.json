@@ -1,0 +1,44 @@
+{
+  "istilah": "bukti",
+  "entri": "buk.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbukti",
+    "membuktikan",
+    "pembuktian",
+    "terbukti"
+  ],
+  "gabunganKata": [
+    "bukti audit",
+    "bukti cabul",
+    "bukti diri",
+    "bukti hak",
+    "bukti pembayaran",
+    "bukti pengesahan",
+    "bukti politik",
+    "bukti saksi",
+    "bukti setor(an)",
+    "bukti transaksi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "keuntungan, kepemilikan; hasil; makanan",
+    "kataAsal": "bhukti"
+  },
+  "data": [
+    {
+      "lema": "buk.ti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang menyatakan kebenaran suatu peristiwa; keterangan nyata; tanda: surat ini sebagai -- bahwa Tuan sudah meminjam uang saya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal yang menjadi tanda perbuatan jahat: ia dituduh mencuri, tetapi tidak ada --nya"
+        }
+      ]
+    }
+  ]
+}

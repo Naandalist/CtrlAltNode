@@ -1,0 +1,51 @@
+{
+  "istilah": "kasih",
+  "entri": "ka.sih1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkasih",
+    "berkasih-kasihan",
+    "kasihan",
+    "kekasih",
+    "mengasihani",
+    "mengasihi",
+    "pekasih",
+    "pengasih",
+    "pengasihan",
+    "terkasih",
+    "mengasih",
+    "pengasih"
+  ],
+  "gabunganKata": [
+    "kasih mesra",
+    "kasih sayang"
+  ],
+  "peribahasa": [
+    "jika kasih akan padi, buanglah rumput; kasih ibu sepanjang jalan, kasih anak sepanjang penggalan; merajuk kepada yang kasih (sayang)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cinta kasih, kemurahan hati; kekasih, orang yang dicintai; kesayangan",
+    "kataAsal": "kāsih"
+  },
+  "data": [
+    {
+      "lema": "ka.sih1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perasaan sayang (cinta, suka kepada): pria itu menaruh -- kepada gadis tetangganya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.sih2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "beri: siapa yang -- kue ini?"
+        }
+      ]
+    }
+  ]
+}

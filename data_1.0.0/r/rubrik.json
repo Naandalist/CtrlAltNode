@@ -1,0 +1,33 @@
+{
+  "istilah": "rubrik",
+  "entri": "rub.rik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rub.rik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala karangan (ruangan tetap) dalam surat kabar, majalah, dan sebagainya: surat kabar membuka -- untuk menampung pendapat pembaca"
+        }
+      ]
+    },
+    {
+      "lema": "rub.rik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "petunjuk resmi yang mengatur tata laksana liturgi yang dicetak merah pada teks liturgi"
+        }
+      ]
+    }
+  ]
+}

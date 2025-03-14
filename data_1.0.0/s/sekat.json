@@ -1,0 +1,72 @@
+{
+  "istilah": "sekat",
+  "entri": "se.kat1 /sêkat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersekat",
+    "bersekat-sekat",
+    "menyekat",
+    "menyekati",
+    "penyekat",
+    "penyekatan",
+    "persekat",
+    "persekatan",
+    "sekatan",
+    "tersekat",
+    "tersekat"
+  ],
+  "gabunganKata": [
+    "sekat api",
+    "sekat berlubang",
+    "sekat lintang",
+    "sekat primer",
+    "sekat rongga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.kat1 /sêkat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu seperti dinding, kerai untuk membatasi atau memisahkan ruang (menjadi berpetak-petak): kamar itu tampak makin sempit karena diberi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pembatas yang memisahkan dua rongga atau massa jaringan, seperti pada buah, rumah kerang, jantung, dan hidung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rintangan; alangan; sekatan: mereka masih harus melintasi beberapa --"
+        }
+      ]
+    },
+    {
+      "lema": "se.kat2 /sêkat/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "henti; kandas"
+        }
+      ]
+    },
+    {
+      "lema": "se.kat3 /sêkat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepatu berpisau pada sol untuk meluncur di atas es"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bermain meluncur di atas es dengan sekat"
+        }
+      ]
+    }
+  ]
+}

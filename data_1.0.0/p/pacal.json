@@ -1,0 +1,37 @@
+{
+  "istilah": "pacal",
+  "entri": "pa.cal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.cal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "parang4"
+        }
+      ]
+    },
+    {
+      "lema": "pa.cal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hamba raja: mereka adalah -- yang setia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "saya (untuk merendahkan diri): -- mohon beribu-ribu ampun"
+        }
+      ]
+    }
+  ]
+}

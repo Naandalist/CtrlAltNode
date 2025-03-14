@@ -1,0 +1,33 @@
+{
+  "istilah": "tepong",
+  "entri": "te.pong /tèpong/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.pong /tèpong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potongan ayam bagian paha atas"
+        }
+      ]
+    },
+    {
+      "lema": "te.pong /têpong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "palu untuk meratakan permukaan bilah atau kepala waditra yang bulat"
+        }
+      ]
+    }
+  ]
+}

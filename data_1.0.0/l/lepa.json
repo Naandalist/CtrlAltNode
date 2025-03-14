@@ -1,0 +1,36 @@
+{
+  "istilah": "lepa",
+  "entri": "le.pa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melepa",
+    "terlepa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cari:",
+    "kataAsal": "lepa"
+  },
+  "data": [
+    {
+      "lema": "le.pa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "campuran kapur, semen, pasir, dan sebagainya untuk melekatkan batu bata dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "le.pa2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terlepa"
+        }
+      ]
+    }
+  ]
+}

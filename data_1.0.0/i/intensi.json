@@ -1,0 +1,32 @@
+{
+  "istilah": "intensi",
+  "entri": "in.ten.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.ten.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maksud; tujuan: terdapat hubungan antara gaya hidup, konsep diri, citra produk, dan sistem nilai dengan -- konsumen wanita mau membeli kosmetika lokal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "keinginan atau permohonan khusus yang diajukan umat dalam upacara misa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "perangkat atribut atau ciri yang menjelaskan sesuatu yang dapat diacu dengan kata tertentu (dibedakan dengan ekstensi)"
+        }
+      ]
+    }
+  ]
+}

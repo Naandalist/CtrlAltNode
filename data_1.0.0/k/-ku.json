@@ -1,0 +1,45 @@
+{
+  "istilah": "-ku",
+  "entri": "ku-3 varian: -ku",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku-3 varian: -ku",
+      "arti": [
+        {
+          "kelas_kata": "klitik[- : -]",
+          "deskripsi": "(dari aku) pelaku: --ambil; --tangkap"
+        },
+        {
+          "kelas_kata": "klitik[- : -]",
+          "deskripsi": "(dari aku) pemilik: rumah--; sepeda--"
+        },
+        {
+          "kelas_kata": "klitik[- : -]",
+          "deskripsi": "(dari aku) tujuan: memukul--; menghampiri--"
+        }
+      ]
+    },
+    {
+      "lema": "-ku",
+      "arti": [
+        {
+          "kelas_kata": "klitik[- : -]",
+          "deskripsi": "(dari aku) pemilik: rumahku; sepedaku"
+        },
+        {
+          "kelas_kata": "klitik[- : -]",
+          "deskripsi": "(dari aku) tujuan: memukulku; menghampiriku"
+        }
+      ]
+    }
+  ]
+}

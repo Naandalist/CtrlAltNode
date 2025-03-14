@@ -1,0 +1,48 @@
+{
+  "istilah": "muluk",
+  "entri": "mu.luk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermuluk-muluk",
+    "muluk-muluk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemilik kekuasaan",
+    "kataAsal": "mulūk"
+  },
+  "data": [
+    {
+      "lema": "mu.luk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(bentuk jamak) raja-raja; malik"
+        }
+      ]
+    },
+    {
+      "lema": "mu.luk2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tinggi (tentang cita-cita, rencana, dan sebagainya): cita-citanya sangat --, tidak sesuai dengan kemampuannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tinggi; sombong (tentang perkataan, tabiat, dan sebagainya): selalu -- perkataannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tinggi dan merdu (tentang suara): suaranya --, senang kita mendengar nyanyiannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "membubung tinggi (tentang burung, layang-layang, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

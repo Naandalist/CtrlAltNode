@@ -1,0 +1,42 @@
+{
+  "istilah": "pucung",
+  "entri": "pu.cung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.cung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuntul kerbau"
+        }
+      ]
+    },
+    {
+      "lema": "pu.cung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "buah kepayang; buah keluak"
+        }
+      ]
+    },
+    {
+      "lema": "pu.cung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk komposisi tembang macapat, biasanya dipakai untuk menceritakan hal-hal yang ringan, jenaka, atau teka-teki"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "istilah": "cakap",
+  "entri": "ca.kap1 bentuk tidak baku: cakep1",
+  "bentukTidakBaku": "cakep1",
+  "kataTurunan": [
+    "bercakap",
+    "berkecakapan",
+    "kecakapan",
+    "mempercakap",
+    "mempercakapkan",
+    "mencakapkan",
+    "secakap",
+    "bercakap",
+    "bercakap-cakap",
+    "cakapan",
+    "mempercakapkan",
+    "mencakapi",
+    "mencakapkan",
+    "percakapan"
+  ],
+  "gabunganKata": [
+    "cakap angin",
+    "cakap besar",
+    "cakap kosong"
+  ],
+  "peribahasa": [
+    "cakap berdegar-degar, tumit diketing; cakap berlauk(-lauk), makan dengan sambal lada; jadi alas cakap; mendengarkan cakap enggang; terlongsong perahu boleh balik, terlongsong cakap tak boleh balik"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.kap1 bentuk tidak baku: cakep1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sanggup melakukan sesuatu; mampu; dapat: -- engkau membunuh hulubalang itu?; patik tiada -- bercerai dengan dia"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pandai; mahir: anak itu belum -- mengerjakan hitungan perkalian"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "mempunyai kemampuan dan kepandaian untuk mengerjakan sesuatu: ia diberhentikan dari jabatannya karena tidak --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bagus rupanya; cantik; rupawan: gadis itu modern lagi --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bagus; elok (potongan atau halus bahannya tentang pakaian dan sebagainya): alangkah --nya baju itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "patut; serasi: ia pantas dan -- benar memakai baju itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Mk[Minangkabau: -]",
+          "deskripsi": "tangkas; cekatan (tidak lamban): tampaknya ia -- bekerja"
+        }
+      ]
+    },
+    {
+      "lema": "ca.kap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bicara; omong: orang itu banyak --"
+        }
+      ]
+    }
+  ]
+}

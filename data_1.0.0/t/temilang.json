@@ -1,0 +1,33 @@
+{
+  "istilah": "temilang",
+  "entri": "te.mi.lang1 /têmilang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.mi.lang1 /têmilang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancal kidang"
+        }
+      ]
+    },
+    {
+      "lema": "te.mi.lang2 /têmilang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tembilang"
+        }
+      ]
+    }
+  ]
+}

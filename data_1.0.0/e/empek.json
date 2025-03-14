@@ -1,0 +1,35 @@
+{
+  "istilah": "empek",
+  "entri": "em.pek1 /êmpek/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "empek-empek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "paman (kakak ayah)",
+    "kataAsal": "á peh"
+  },
+  "data": [
+    {
+      "lema": "em.pek1 /êmpek/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "bapak"
+        }
+      ]
+    },
+    {
+      "lema": "em.pek2 /êmpek/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "anak sapi yang baru dilahirkan"
+        }
+      ]
+    }
+  ]
+}

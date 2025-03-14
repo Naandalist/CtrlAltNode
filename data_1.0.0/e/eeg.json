@@ -1,0 +1,24 @@
+{
+  "istilah": "eeg",
+  "entri": "EEG",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "EEG",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pengukuran aktivitas kelistrikan otak untuk mendeteksi kelainan pada otak; dari  electroencephalogram"
+        }
+      ]
+    }
+  ]
+}

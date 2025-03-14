@@ -1,0 +1,34 @@
+{
+  "istilah": "tombok",
+  "entri": "tom.bok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menomboki"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tom.bok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terpaksa menambah uang (karena belum cukup, masih kurang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang yang ditambahkan (karena kekurangan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang upah kepada tandak (ketika mengibing)"
+        }
+      ]
+    }
+  ]
+}

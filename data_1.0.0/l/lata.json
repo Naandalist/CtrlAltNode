@@ -1,0 +1,55 @@
+{
+  "istilah": "lata",
+  "entri": "la.ta1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melata",
+    "memperlatakan",
+    "lataan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "lemah, kusut, suram, kendur",
+    "kataAsal": "ślatha"
+  },
+  "data": [
+    {
+      "lema": "la.ta1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melata"
+        }
+      ]
+    },
+    {
+      "lema": "la.ta2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "buruk; kotor; hina"
+        }
+      ]
+    },
+    {
+      "lema": "la.ta3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "selisih antara air terendah"
+        }
+      ]
+    },
+    {
+      "lema": "la.ta4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air terjun kecil atau salah satu dari deret air terjun kecil"
+        }
+      ]
+    }
+  ]
+}

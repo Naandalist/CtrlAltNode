@@ -1,0 +1,45 @@
+{
+  "istilah": "dodong",
+  "entri": "do.dong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terdodong",
+    "mendodong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "do.dong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "golok pendek; beladau"
+        }
+      ]
+    },
+    {
+      "lema": "do.dong2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terdodong"
+        }
+      ]
+    },
+    {
+      "lema": "do.dong3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mendodong"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "ribang",
+  "entri": "ri.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ri.bang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rindu"
+        }
+      ]
+    },
+    {
+      "lema": "ri.bang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ach[Aceh: -]",
+          "deskripsi": "mengikat kuat-kuat"
+        }
+      ]
+    }
+  ]
+}

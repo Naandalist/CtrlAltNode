@@ -1,0 +1,34 @@
+{
+  "istilah": "kriminal",
+  "entri": "kri.mi.nal bentuk tidak baku: kriminil",
+  "bentukTidakBaku": "kriminil",
+  "kataTurunan": [
+    "mengkriminalkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kri.mi.nal bentuk tidak baku: kriminil",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan kejahatan (pelanggaran hukum) yang dapat dihukum menurut undang-undang; pidana: korupsi merupakan tindakan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kejahatan: ia mengaku nekat berbuat -- untuk mendapatkan biaya kuliah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjahat: seorang -- tertangkap kamera sedang menyaksikan pertandingan tenis"
+        }
+      ]
+    }
+  ]
+}

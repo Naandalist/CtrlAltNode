@@ -1,0 +1,56 @@
+{
+  "istilah": "ragi",
+  "entri": "ra.gi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beragi",
+    "meragi",
+    "meragikan",
+    "peragi",
+    "peragian",
+    "ragian",
+    "meragi"
+  ],
+  "gabunganKata": [
+    "ragi alami",
+    "ragi basah",
+    "ragi instan",
+    "ragi kering"
+  ],
+  "peribahasa": [
+    "rusak tapai karena ragi; tepung kena ragi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jenis tenunan atau kain yang khas (dengan warna yang khas)",
+    "kataAsal": "ragi"
+  },
+  "data": [
+    {
+      "lema": "ra.gi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pulung yang dikeraskan yang dibuat dari beras, bawang putih, bawang merah, kayu manis, lombok, lengkuas, dan sebagainya untuk membuat tapai, arak, adonan roti, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat yang mengandung ragi; fermen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "organisme bersel tunggal yang dapat mengubah gula menjadi alkohol dan karbon dioksida, biasanya digunakan dalam pembuatan minuman beralkohol dan roti yang beragi"
+        }
+      ]
+    },
+    {
+      "lema": "ra.gi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna (kain); corak (batik, anyaman): kain tenunan yang elok --nya"
+        }
+      ]
+    }
+  ]
+}

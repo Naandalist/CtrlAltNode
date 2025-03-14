@@ -1,0 +1,63 @@
+{
+  "istilah": "tokoh",
+  "entri": "to.koh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertokoh",
+    "ketokohan",
+    "menokohi",
+    "menokohkan",
+    "penokohan",
+    "pertokohan",
+    "menokoh",
+    "penokoh"
+  ],
+  "gabunganKata": [
+    "tokoh bulat",
+    "tokoh datar",
+    "tokoh fiksi",
+    "tokoh fiktif",
+    "tokoh keteladanan",
+    "tokoh kritis",
+    "tokoh pipih",
+    "tokoh utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.koh1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rupa (wujud dan keadaan); macam atau jenis: -- bulat seperti uang ringgit; pesawat terbang yang baru dibeli itu sama --nya dengan B-25"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk badan; perawakan: melihat -- badannya, banyak orang menyangka ia adalah seorang pegulat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang terkemuka dan kenamaan (dalam bidang politik, kebudayaan, dan sebagainya): ia adalah seorang -- politik yang disegani"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -] ki[kiasan]",
+          "deskripsi": "pemegang peran (peran utama) dalam roman atau drama"
+        }
+      ]
+    },
+    {
+      "lema": "to.koh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tipu; kecoh: kena -- tertipu"
+        }
+      ]
+    }
+  ]
+}

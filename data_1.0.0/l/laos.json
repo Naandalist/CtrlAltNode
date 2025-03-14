@@ -1,0 +1,36 @@
+{
+  "istilah": "laos",
+  "entri": "la.os1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "laos jambe",
+    "laos mekah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.os1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lengkuas"
+        }
+      ]
+    },
+    {
+      "lema": "La.os2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "negara yang terletak di Asia Tenggara, beribu kota Vientiane"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "unit",
+  "entri": "u.nit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "unit contoh",
+    "unit desa",
+    "unit gawat darurat",
+    "unit gerak",
+    "unit Haugh",
+    "unit internasional",
+    "unit kerja",
+    "unit translasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.nit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian terkecil dari sesuatu yang dapat berdiri sendiri; satuan: keluarga merupakan -- sosial yang paling kecil; desa sebagai -- kelompok hidup masyarakat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kadar yang digunakan untuk mengukur (menilai dan sebagainya) sesuatu; dasar ukuran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong untuk barang selengkapnya dengan bagian-bagiannya (kendaraan, komputer, dan sebagainya): 30 -- mobil"
+        }
+      ]
+    }
+  ]
+}

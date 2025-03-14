@@ -1,0 +1,35 @@
+{
+  "istilah": "cembul",
+  "entri": "cem.bul1 /cêmbul/bentuk tidak baku: cumbul",
+  "bentukTidakBaku": "cumbul",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "seperti cembul dengan tutupnya (dapat tutupnya)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cem.bul1 /cêmbul/bentuk tidak baku: cumbul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat tembakau (gambir dan sebagainya) dibuat dari logam (biasa ditaruh dalam cerana atau puan)"
+        }
+      ]
+    },
+    {
+      "lema": "cem.bul2 /cêmbul/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tonjolan kecil dan bundar (seperti pada kepala jarum pentol)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "varietas",
+  "entri": "va.ri.e.tas bentuk tidak baku: varitas",
+  "bentukTidakBaku": "varitas",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "varietas unggul baru",
+    "varietas unggul hibrida",
+    "varietas unggul tipe baru"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "va.ri.e.tas bentuk tidak baku: varitas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "kelompok tanaman (seperti perdu) dalam jenis atau spesies tertentu yang dapat dibedakan dari kelompok lain berdasarkan suatu sifat atau sifat tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "ragam bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "populasi beberapa biotipe dengan ciri morfologi yang jelas dan mempunyai daerah penyebaran lokal yang tegas dalam daerah penyebaran populasi jenisnya"
+        }
+      ]
+    }
+  ]
+}

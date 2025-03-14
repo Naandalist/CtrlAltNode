@@ -1,0 +1,37 @@
+{
+  "istilah": "pot",
+  "entri": "pot1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pengepotan"
+  ],
+  "gabunganKata": [
+    "pot gantung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pot1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang terbuat dari tanah, semen, plastik, dan sebagainya untuk menanam pohon (bunga), biasanya untuk menghias halaman rumah"
+        }
+      ]
+    },
+    {
+      "lema": "pot2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "pispot"
+        }
+      ]
+    }
+  ]
+}

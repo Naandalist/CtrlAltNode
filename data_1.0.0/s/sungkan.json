@@ -1,0 +1,34 @@
+{
+  "istilah": "sungkan",
+  "entri": "sung.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesungkanan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "enggan",
+    "kataAsal": "suṅkan"
+  },
+  "data": [
+    {
+      "lema": "sung.kan",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "malas (mengerjakan sesuatu); enggan: ia -- bekerja di kebun"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merasa tidak enak hati: ia -- menegur orang itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menaruh hormat; segan: ada perasaan -- dalam hatiku terhadap guru itu"
+        }
+      ]
+    }
+  ]
+}

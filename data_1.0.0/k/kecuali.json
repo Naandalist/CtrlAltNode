@@ -1,0 +1,43 @@
+{
+  "istilah": "kecuali",
+  "entri": "ke.cu.a.li /kêcuali/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkecuali",
+    "kekecualian",
+    "memperkecualikan",
+    "mengecuali",
+    "mengecualikan",
+    "pengecualian",
+    "perkecualian",
+    "terkecuali"
+  ],
+  "gabunganKata": [
+    "kecuali itu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.cu.a.li /kêcuali/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "tidak termasuk (dalam golongan, aturan, dan sebagainya yang umum); yang selain dari; yang lain daripada: tidak ada yang menghiraukannya, -- keluarganya sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang diistimewakan dari golongan aturan dan sebagainya yang tidak menurut hukum (menyimpang dari aturan umum dan sebagainya): aturan ini tidak ada --nya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "hanya; melainkan (hanya): yang lain tidak perlu digarap sekarang, -- yang perlu-perlu saja"
+        }
+      ]
+    }
+  ]
+}

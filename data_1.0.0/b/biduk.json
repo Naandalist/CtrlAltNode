@@ -1,0 +1,40 @@
+{
+  "istilah": "biduk",
+  "entri": "bi.duk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbiduk",
+    "berbiduk-biduk"
+  ],
+  "gabunganKata": [
+    "biduk rumah tangga"
+  ],
+  "peribahasa": [
+    "ada biduk, serempu pula; ada biduk, serempu pula; biduk lalu, kiambang bertaut; biduk lalu, kiambang bertaut; biduk lalu, kiambang bertaut; biduk tiris menanti karam; lain biduk, lain di galang; sambil berdendang biduk hilir; tak terkayuhkan lagi biduk hilir; tertumbuk biduk dikelokkan, tertumbuk kata dipikiri; tertumbuk biduk dikelokkan, tertumbuk kata dipikiri"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.duk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu kecil terbuat dari kayu, tidak berlayar, dipakai untuk menangkap ikan atau mengangkat barang-barang di sungai"
+        }
+      ]
+    },
+    {
+      "lema": "bi.duk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "pembinaan penduduk"
+        }
+      ]
+    }
+  ]
+}

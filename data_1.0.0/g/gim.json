@@ -1,0 +1,45 @@
+{
+  "istilah": "gim",
+  "entri": "gim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gim penentuan",
+    "gim video"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "benang emas",
+    "kataAsal": "gím"
+  },
+  "data": [
+    {
+      "lema": "gim1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "benang emas"
+        }
+      ]
+    },
+    {
+      "lema": "gim2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sudah tercapai nilai yang ditentukan dalam permainan (menyatakan permainan selesai karena nilai yang ditentukan telah tercapai)"
+        }
+      ]
+    },
+    {
+      "lema": "gim3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan"
+        }
+      ]
+    }
+  ]
+}

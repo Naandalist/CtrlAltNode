@@ -1,0 +1,35 @@
+{
+  "istilah": "hama",
+  "entri": "ha.ma bentuk tidak baku: ama1",
+  "bentukTidakBaku": "ama1",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hama putih",
+    "hama utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.ma bentuk tidak baku: ama1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hewan yang mengganggu produksi pertanian seperti babi hutan, tupai, tikus, dan terutama serangga: anggrek kesayangannya rusak oleh --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benih penyakit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "biang keladi kerusakan; perusak: wereng merupakan -- padi yang paling ditakuti petani"
+        }
+      ]
+    }
+  ]
+}

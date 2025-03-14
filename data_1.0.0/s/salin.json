@@ -1,0 +1,63 @@
+{
+  "istilah": "salin",
+  "entri": "sa.lin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersalin",
+    "bersalin-salin",
+    "mempersalini",
+    "mempersalinkan",
+    "menyalin",
+    "menyalini",
+    "menyalinkan",
+    "penyalin",
+    "penyalinan",
+    "persalin",
+    "persalinan",
+    "pesalin",
+    "salinan",
+    "sesalin",
+    "tersalin"
+  ],
+  "gabunganKata": [
+    "salin jirim",
+    "salin rekat",
+    "salin suara",
+    "salin tempel"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.lin1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ganti; tukar: sebelum berangkat, ia harus -- pakaian dulu"
+        }
+      ]
+    },
+    {
+      "lema": "sa.lin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang baru memijahkan telur"
+        }
+      ]
+    },
+    {
+      "lema": "sa.lin3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "menyiapkan perlengkapan upacara untuk menuai padi dilengkapi dengan sajen"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "istilah": "roti",
+  "entri": "ro.ti1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "roti aerasi",
+    "roti apit",
+    "roti awan",
+    "roti bakar",
+    "roti bakar prancis",
+    "roti bawang",
+    "roti bluder",
+    "roti buaya",
+    "roti canai",
+    "roti hitam",
+    "roti jala",
+    "roti kasur",
+    "roti kismis",
+    "roti lapis",
+    "roti lebah",
+    "roti manis",
+    "roti mari",
+    "roti mentega",
+    "roti panggang",
+    "roti pita",
+    "roti putih",
+    "roti sepan",
+    "roti sisir",
+    "roti sobek",
+    "roti sobek",
+    "roti tawar",
+    "roti tisu",
+    "roti unyil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.ti1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan yang dibuat dari bahan pokok tepung terigu, banyak macamnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "roti yang berbentuk bulat pipih dan tidak mengembang, dibuat dari tepung gandum dan dimasak di atas wajan datar yang panas, merupakan makanan pokok sehari-hari yang dimakan bersama kari"
+        }
+      ]
+    },
+    {
+      "lema": "Ro.ti2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Rote"
+        }
+      ]
+    }
+  ]
+}

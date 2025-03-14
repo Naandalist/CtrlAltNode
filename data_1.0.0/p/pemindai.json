@@ -1,0 +1,35 @@
+{
+  "istilah": "pemindai",
+  "entri": "pindai » pe.min.dai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pemindai citra",
+    "pemindai digital",
+    "pemindai kode batang",
+    "pemindai papan datar",
+    "pemindai virus",
+    "pemindai warna"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pindai » pe.min.dai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk memeriksa atau mengamati data yang direkam; alat untuk memindai sesuatu (misalnya tubuh manusia)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangkat keras untuk mengopi gambar dan teks dalam bentuk digital"
+        }
+      ]
+    }
+  ]
+}

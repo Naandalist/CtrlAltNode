@@ -1,0 +1,36 @@
+{
+  "istilah": "fajar",
+  "entri": "fa.jar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "fajar kizib",
+    "fajar menyingsing",
+    "fajar sadik",
+    "fajar senja",
+    "fajar senja astronomi",
+    "fajar senja nyata",
+    "fajar sidik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "cahaya kemerah-merahan di langit menjelang matahari terbit",
+    "kataAsal": "fajr"
+  },
+  "data": [
+    {
+      "lema": "fa.jar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cahaya kemerah-merahan di langit sebelah timur pada menjelang matahari terbit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu sebelum matahari terbit"
+        }
+      ]
+    }
+  ]
+}

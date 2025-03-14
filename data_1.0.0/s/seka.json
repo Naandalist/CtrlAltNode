@@ -1,0 +1,49 @@
+{
+  "istilah": "seka",
+  "entri": "se.ka1 bentuk tidak baku: sekah2",
+  "bentukTidakBaku": "sekah2",
+  "kataTurunan": [
+    "berseka",
+    "menyeka",
+    "menyekai",
+    "menyekakan",
+    "penyeka",
+    "sekaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.ka1 bentuk tidak baku: sekah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyeka"
+        }
+      ]
+    },
+    {
+      "lema": "se.ka2 /sêka/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "organisasi masyarakat desa yang dibentuk untuk tujuan tertentu, baik waktu singkat maupun lama, misalnya perkumpulan kesenian legong"
+        }
+      ]
+    },
+    {
+      "lema": "Se.ka /sêka/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami wilayah perbatasan Papua dan Papua Nugini di pesisir timur laut muara Sungai Tami"
+        }
+      ]
+    }
+  ]
+}

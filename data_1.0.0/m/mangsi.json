@@ -1,0 +1,41 @@
+{
+  "istilah": "mangsi",
+  "entri": "mang.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tinta",
+    "kataAsal": "masi"
+  },
+  "data": [
+    {
+      "lema": "mang.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tinta; dawat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tepung arang untuk menghitamkan gigi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Mk[Minangkabau: -]",
+          "deskripsi": "tarum"
+        }
+      ]
+    },
+    {
+      "lema": "mang.si2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat ikan"
+        }
+      ]
+    }
+  ]
+}

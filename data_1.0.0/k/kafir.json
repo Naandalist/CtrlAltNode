@@ -1,0 +1,37 @@
+{
+  "istilah": "kafir",
+  "entri": "ka.fir bentuk tidak baku: kapir",
+  "bentukTidakBaku": "kapir",
+  "kataTurunan": [
+    "kekafiran",
+    "mengafirkan",
+    "pengafir",
+    "pengafiran"
+  ],
+  "gabunganKata": [
+    "kafir harbi",
+    "kafir muahid",
+    "kafir zimi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang tidak pandai bersyukur",
+    "kataAsal": "kāfir"
+  },
+  "data": [
+    {
+      "lema": "ka.fir bentuk tidak baku: kapir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang ingkar"
+        },
+        {
+          "kelas_kata": "Isl[Agama Islam: -]",
+          "deskripsi": "orang yang tidak percaya kepada Allah Swt. dan rasul-Nya"
+        }
+      ]
+    }
+  ]
+}

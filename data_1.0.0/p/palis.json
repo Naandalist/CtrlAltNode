@@ -1,0 +1,49 @@
+{
+  "istilah": "palis",
+  "entri": "pa.lis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpalis",
+    "memalis",
+    "memalis",
+    "memalis",
+    "memaliskan",
+    "terpalis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.lis1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berpalis; memalis"
+        }
+      ]
+    },
+    {
+      "lema": "pa.lis2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memalis"
+        }
+      ]
+    },
+    {
+      "lema": "pa.lis3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memalis; memaliskan; terpalis"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "isim",
+  "entri": "i.sim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama",
+    "kataAsal": "ism"
+  },
+  "data": [
+    {
+      "lema": "i.sim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "nama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "nama Tuhan, dipakai sebagai mantra dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Ar[Arab: -]",
+          "deskripsi": "nomina"
+        }
+      ]
+    }
+  ]
+}

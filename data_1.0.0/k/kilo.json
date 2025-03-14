@@ -1,0 +1,33 @@
+{
+  "istilah": "kilo",
+  "entri": "ki.lo",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkilo-kilo",
+    "kiloan",
+    "mengilo",
+    "mengilokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.lo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "kilogram"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "kilometer"
+        }
+      ]
+    }
+  ]
+}

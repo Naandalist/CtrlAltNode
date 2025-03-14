@@ -1,0 +1,39 @@
+{
+  "istilah": "gumul",
+  "entri": "gu.mul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergumul",
+    "bergumulan",
+    "gumulan",
+    "menggumuli",
+    "pergumulan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.mul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "bayi yang bentuk tubuhnya bundar seperti bola: sewaktu lahir ke dunia, bentuk fisiknya --"
+        }
+      ]
+    },
+    {
+      "lema": "gu.mul2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bergumul; bergumulan; gumulan; menggumuli; pergumulan"
+        }
+      ]
+    }
+  ]
+}

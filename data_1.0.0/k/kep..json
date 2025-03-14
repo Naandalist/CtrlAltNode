@@ -1,0 +1,33 @@
+{
+  "istilah": "kep.",
+  "entri": "kep.1 /kêp./",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kep.1 /kêp./",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "keputusan"
+        }
+      ]
+    },
+    {
+      "lema": "Kep.2 /kêp./",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "(diawali huruf kapital) Keperawatan"
+        }
+      ]
+    }
+  ]
+}

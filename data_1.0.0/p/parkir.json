@@ -1,0 +1,39 @@
+{
+  "istilah": "parkir",
+  "entri": "par.kir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memarkir",
+    "parkiran",
+    "parkiran",
+    "perparkiran",
+    "terparkir"
+  ],
+  "gabunganKata": [
+    "parkir air",
+    "parkir bawah tanah",
+    "parkir bus",
+    "parkir cuma-cuma",
+    "parkir gratis",
+    "parkir liar",
+    "parkir paralel",
+    "parkir valet"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "par.kir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memarkir"
+        }
+      ]
+    }
+  ]
+}

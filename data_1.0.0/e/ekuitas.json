@@ -1,0 +1,36 @@
+{
+  "istilah": "ekuitas",
+  "entri": "e.ku.i.tas bentuk tidak baku: ekuiti",
+  "bentukTidakBaku": "ekuiti",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ku.i.tas bentuk tidak baku: ekuiti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepemilikan dalam bentuk nilai uang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "perbedaan antara nilai suatu harta yang dapat dijual dan tagihan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "saham"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "modal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "cangkok",
+  "entri": "cang.kok bentuk tidak baku: cangkuk1",
+  "bentukTidakBaku": "cangkuk1",
+  "kataTurunan": [
+    "cangkokan",
+    "mencangkok",
+    "pencangkok",
+    "pencangkokan"
+  ],
+  "gabunganKata": [
+    "cangkok ginjal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bagian yang berlumbang yang di dalamnya sesuatu diletakkan atau ditempatkan, rongga, lekuk, bagian bawah (dasar) tiang, bingkai untuk batu atau permata",
+    "kataAsal": "caṅkok"
+  },
+  "data": [
+    {
+      "lema": "cang.kok bentuk tidak baku: cangkuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabang (dahan) yang dijadikan akar untuk ditanam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sambungan atau pengganti anggota badan yang rusak"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim] ki[kiasan]",
+          "deskripsi": "palsu; gadungan: rakyat akan tahu mana pemimpin sejati dan mana yang --"
+        }
+      ]
+    }
+  ]
+}

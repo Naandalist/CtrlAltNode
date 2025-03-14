@@ -1,0 +1,33 @@
+{
+  "istilah": "menyuling",
+  "entri": "suling1 » me.nyu.ling",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "suling1 » me.nyu.ling",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meniup suling"
+        }
+      ]
+    },
+    {
+      "lema": "suling2 » me.nyu.ling",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuat uap menjadi cairan"
+        }
+      ]
+    }
+  ]
+}

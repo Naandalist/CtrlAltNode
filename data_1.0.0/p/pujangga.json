@@ -1,0 +1,33 @@
+{
+  "istilah": "pujangga",
+  "entri": "pu.jang.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepujanggaan"
+  ],
+  "gabunganKata": [
+    "pujangga Baru",
+    "pujangga gereja"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kawan dekat raja, pendamping pangeran, kekasih (di luar ikatan pasangan)",
+    "kataAsal": "bhujaṅga"
+  },
+  "data": [
+    {
+      "lema": "pu.jang.ga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengarang hasil-hasil sastra, baik puisi maupun prosa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli pikir; ahli sastra; bujangga"
+        }
+      ]
+    }
+  ]
+}

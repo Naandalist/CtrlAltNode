@@ -1,0 +1,28 @@
+{
+  "istilah": "foton",
+  "entri": "fo.ton",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fo.ton",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "partikel dasar atau kuantum radiasi elektromagnet"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "zarah nirmassa yang merupakan kuantum (catu) cahaya (gelombang elektromagnetik)"
+        }
+      ]
+    }
+  ]
+}

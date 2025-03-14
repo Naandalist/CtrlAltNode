@@ -1,0 +1,32 @@
+{
+  "istilah": "sundal",
+  "entri": "sun.dal bentuk tidak baku: sundel",
+  "bentukTidakBaku": "sundel",
+  "kataTurunan": [
+    "bersundal",
+    "menyundal",
+    "persundalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "orang yang berasal dari kelas terendah, paria, yang terburuk",
+    "kataAsal": "cāṇḍāla"
+  },
+  "data": [
+    {
+      "lema": "sun.dal bentuk tidak baku: sundel",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "buruk kelakuan (tentang perempuan); lacur; jalang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perempuan jalang; pelacur"
+        }
+      ]
+    }
+  ]
+}

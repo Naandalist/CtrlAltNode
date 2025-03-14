@@ -1,0 +1,80 @@
+{
+  "istilah": "sampang",
+  "entri": "sam.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tersampang",
+    "menyampang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.pang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cat untuk mengilapkan kayu; pernis kayu"
+        }
+      ]
+    },
+    {
+      "lema": "sam.pang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balok untuk menahan kepala kerbau atau lembu yang akan dicocok hidungnya"
+        }
+      ]
+    },
+    {
+      "lema": "sam.pang3",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sempat"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sekiranya"
+        }
+      ]
+    },
+    {
+      "lema": "sam.pang4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyampang"
+        }
+      ]
+    },
+    {
+      "lema": "sam.pang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "pohon yang dulu getahnya dipakai sebagai perekat bilah keris pada hulunya〔Euodia latifolia〕"
+        }
+      ]
+    },
+    {
+      "lema": "Sam.pang6",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Pulau Madura bagian tengah, Provinsi Jawa Timur, ibu kotanya terkenal dengan sebutan Kota Sate"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu kota Kabupaten Sampang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "mangsa",
+  "entri": "mang.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memangsa",
+    "pemangsa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "daging, cacing",
+    "kataAsal": "māṃsa"
+  },
+  "data": [
+    {
+      "lema": "mang.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(daging) binatang yang menjadi makanan binatang buas: anak ayam sering menjadi -- burung elang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "organisme yang ditangkap dan dimakan oleh binatang predator"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -] ki[kiasan]",
+          "deskripsi": "sasaran perbuatan jahat: sepeda yang tidak terkunci menjadi -- pencuri sepeda"
+        }
+      ]
+    }
+  ]
+}

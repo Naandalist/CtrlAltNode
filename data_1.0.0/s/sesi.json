@@ -1,0 +1,37 @@
+{
+  "istilah": "sesi",
+  "entri": "se.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "babak; tahap: para peserta upacara tekun mengikuti -- demi -- acara yang telah dijadwalkan panitia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sidang"
+        }
+      ]
+    },
+    {
+      "lema": "se.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "penyerahan piutang atas nama dan kebendaan tak berwujud lainnya dari debitur pada pihak ketiga dengan disertai akta"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "kabupaten",
+  "entri": "ka.bu.pa.ten",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.bu.pa.ten",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah swatantra tingkat II yang dikepalai oleh bupati, setingkat dengan kota (madya) merupakan bagian langsung dari provinsi yang terdiri atas beberapa kecamatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kantor tempat kerja bupati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah tempat tinggal bupati"
+        }
+      ]
+    }
+  ]
+}

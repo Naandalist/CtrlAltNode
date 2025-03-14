@@ -1,0 +1,36 @@
+{
+  "istilah": "embosur",
+  "entri": "em.bo.sur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.bo.sur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mulut sungai (senjata, seperti meriam, dan sebagainya); kuala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mulut senjata (seperti meriam)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "bagian tiup pada alat musik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "posisi dan cara menggerakkan bibir untuk menghasilkan nada pada alat tiup"
+        }
+      ]
+    }
+  ]
+}

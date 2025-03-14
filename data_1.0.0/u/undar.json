@@ -1,0 +1,37 @@
+{
+  "istilah": "undar",
+  "entri": "un.dar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "un.dar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "pembentang benang yang sudah diberi air rebusan beras supaya kuat"
+        }
+      ]
+    },
+    {
+      "lema": "un.dar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "permainan judi yang menggunakan dadu dan piringan bernomor dengan cara diputar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "komedi putar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "istilah": "garut",
+  "entri": "ga.rut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggarut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.rut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gores"
+        }
+      ]
+    },
+    {
+      "lema": "ga.rut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ararut"
+        }
+      ]
+    },
+    {
+      "lema": "ga.rut4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "batu asah"
+        }
+      ]
+    },
+    {
+      "lema": "Ga.rut3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Jawa Barat, terkenal dengan sebutan Kota Domba atau Kota Dodol"
+        }
+      ]
+    }
+  ]
+}

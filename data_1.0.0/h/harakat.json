@@ -1,0 +1,31 @@
+{
+  "istilah": "harakat",
+  "entri": "ha.ra.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berharakat",
+    "mengharakati"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "gerak; pergerakan; baris tanda bunyi a (fatah), i (kasrah), u (damah)",
+    "kataAsal": "ḥarakāt"
+  },
+  "data": [
+    {
+      "lema": "ha.ra.kat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "baris tanda bunyi a (fatah), i (kasrah), u (damah), untuk menandai an, in, un (tanwin)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "(huruf --) huruf hidup (a, i, u)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "nakhoda",
+  "entri": "na.kho.da bentuk tidak baku: nakoda, nangkoda, nahkoda",
+  "bentukTidakBaku": "nakoda, nangkoda, nahkoda",
+  "kataTurunan": [
+    "menakhodai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "jung satu, nakhoda dua; kapal satu, nakhoda dua"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "na.kho.da bentuk tidak baku: nakoda, nangkoda, nahkoda",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "juragan (pemimpin) perahu (kapal)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perwira laut yang memegang komando tertinggi di atas kapal niaga; kapten kapal"
+        }
+      ]
+    }
+  ]
+}

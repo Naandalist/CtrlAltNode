@@ -1,0 +1,33 @@
+{
+  "istilah": "sambau",
+  "entri": "sam.bau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.bau1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumput pakan ternak〔Eleusine indica〕"
+        }
+      ]
+    },
+    {
+      "lema": "sam.bau2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "kembung (tentang perut karena masuk angin terlalu banyak minum air): perutnya -- seperti orang sedang hamil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "tradisi",
+  "entri": "tra.di.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mentradisi",
+    "mentradisikan"
+  ],
+  "gabunganKata": [
+    "tradisi lisan",
+    "tradisi tertulis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tra.di.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adat kebiasaan turun-temurun (dari nenek moyang) yang masih dijalankan dalam masyarakat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penilaian atau anggapan bahwa cara-cara yang telah ada merupakan yang paling baik dan benar: perayaan hari besar agama itu janganlah hanya merupakan --, haruslah dihayati maknanya"
+        }
+      ]
+    }
+  ]
+}

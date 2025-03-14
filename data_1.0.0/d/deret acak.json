@@ -1,0 +1,24 @@
+{
+  "istilah": "deret acak",
+  "entri": "deret1 » deret acak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "deret1 » deret acak",
+      "arti": [
+        {
+          "kelas_kata": "Stat[Statistik: -]",
+          "deskripsi": "deret bilangan yang dianggap telah ditarik secara acak dari suatu sebaran tetap"
+        }
+      ]
+    }
+  ]
+}

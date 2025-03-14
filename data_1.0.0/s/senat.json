@@ -1,0 +1,32 @@
+{
+  "istilah": "senat",
+  "entri": "se.nat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.nat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dewan perwakilan rakyat yang tertinggi (seperti di Amerika Serikat, Prancis)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dewan pengajar di perguruan tinggi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "organisasi mahasiswa pada tingkat fakultas"
+        }
+      ]
+    }
+  ]
+}

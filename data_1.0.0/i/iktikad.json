@@ -1,0 +1,31 @@
+{
+  "istilah": "iktikad",
+  "entri": "ik.ti.kad bentuk tidak baku: etikat, itikad",
+  "bentukTidakBaku": "etikat, itikad",
+  "kataTurunan": [
+    "beriktikad",
+    "mengiktikadkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "keyakinan; pendapat",
+    "kataAsal": "i‘tiqād"
+  },
+  "data": [
+    {
+      "lema": "ik.ti.kad bentuk tidak baku: etikat, itikad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepercayaan; keyakinan yang teguh: tidak teguh --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maksud (yang baik); kemauan: dengan -- baik"
+        }
+      ]
+    }
+  ]
+}

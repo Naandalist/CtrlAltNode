@@ -1,0 +1,35 @@
+{
+  "istilah": "konter",
+  "entri": "kon.ter1 /kontêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengonter"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.ter1 /kontêr/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lawan"
+        }
+      ]
+    },
+    {
+      "lema": "kon.ter2 /kontêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerai"
+        }
+      ]
+    }
+  ]
+}

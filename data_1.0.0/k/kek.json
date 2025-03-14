@@ -1,0 +1,46 @@
+{
+  "istilah": "kek",
+  "entri": "kek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada ayah dari bapak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "kakek"
+        }
+      ]
+    },
+    {
+      "lema": "kek2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "entah ... entah"
+        }
+      ]
+    },
+    {
+      "lema": "KEK",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Kawasan Ekonomi Khusus (kawasan perdagangan bebas yang secara geografis dan yurisdiksi memiliki peraturan ekonomi lebih liberal dari peraturan ekonomi di suatu negara, bertujuan untuk menciptakan pertumbuhan ekonomi, pemerataan pembangunan, dan peningkatan daya saing suatu negara)"
+        }
+      ]
+    }
+  ]
+}

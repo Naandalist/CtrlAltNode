@@ -1,0 +1,36 @@
+{
+  "istilah": "sundak",
+  "entri": "sun.dak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyundak",
+    "tersundak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sun.dak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menyundak"
+        }
+      ]
+    },
+    {
+      "lema": "sun.dak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "(ujung) sengat: -- kala itu sangat tajam"
+        }
+      ]
+    }
+  ]
+}

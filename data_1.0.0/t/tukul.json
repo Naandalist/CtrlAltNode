@@ -1,0 +1,32 @@
+{
+  "istilah": "tukul",
+  "entri": "tu.kul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menukul",
+    "penukul"
+  ],
+  "gabunganKata": [
+    "tukul besi",
+    "tukul kayu"
+  ],
+  "peribahasa": [
+    "rumah sudah, tukul berbunyi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.kul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "martil (pemukul) kecil: -- besi; -- kayu"
+        }
+      ]
+    }
+  ]
+}

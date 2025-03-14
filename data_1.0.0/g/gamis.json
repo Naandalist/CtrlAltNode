@@ -1,0 +1,30 @@
+{
+  "istilah": "gamis",
+  "entri": "ga.mis bentuk tidak baku: kamis2",
+  "bentukTidakBaku": "kamis2",
+  "kataTurunan": [
+    "bergamis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "baju dalam; kemeja; jubah",
+    "kataAsal": "qamīṣ"
+  },
+  "data": [
+    {
+      "lema": "ga.mis bentuk tidak baku: kamis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemeja arab"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baju yang panjangnya semata kaki atau lebih menyerupai kemeja dengan potongan longgar"
+        }
+      ]
+    }
+  ]
+}

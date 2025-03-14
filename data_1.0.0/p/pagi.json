@@ -1,0 +1,43 @@
+{
+  "istilah": "pagi",
+  "entri": "pa.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpagi-pagi",
+    "kepagian",
+    "pagi-pagi",
+    "sepagian"
+  ],
+  "gabunganKata": [
+    "pagi buta",
+    "pagi hari",
+    "pagi hitam"
+  ],
+  "peribahasa": [
+    "masak malam, mentah pagi (siang)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian awal dari hari: ia bangun pukul 05.00 --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu setelah matahari terbit hingga menjelang siang hari: ia bekerja keras dari -- hingga petang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "awal; cepat: engkau terlalu -- memberi komentar tentang hal itu"
+        }
+      ]
+    }
+  ]
+}

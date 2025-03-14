@@ -1,0 +1,37 @@
+{
+  "istilah": "indang",
+  "entri": "in.dang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "diindang",
+    "mengindang",
+    "terindang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.dang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nyiru yang berbentuk lonjong"
+        }
+      ]
+    },
+    {
+      "lema": "in.dang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sastra lisan Minangkabau di Padang Pariaman, dimainkan oleh kaum laki-laki yang terdiri atas tiga tim dengan jumlah masing-masing tim 9–15 orang"
+        }
+      ]
+    }
+  ]
+}

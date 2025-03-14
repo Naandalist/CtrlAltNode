@@ -1,0 +1,37 @@
+{
+  "istilah": "mengecek",
+  "entri": "cek3 » me.nge.cek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cek3 » me.nge.cek",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencocokkan kembali benar tidaknya (tentang perhitungan, daftar angka, berita, dan sebagainya); memeriksa: dia disuruh ~ kebenaran berita itu"
+        }
+      ]
+    },
+    {
+      "lema": "kecek1 » me.nge.cek",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bercakap-cakap (mengobrol) yang tidak keruan; beromong kosong"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membujuk (menipu) dengan kata-kata manis"
+        }
+      ]
+    }
+  ]
+}

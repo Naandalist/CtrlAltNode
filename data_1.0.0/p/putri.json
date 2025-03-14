@@ -1,0 +1,41 @@
+{
+  "istilah": "putri",
+  "entri": "put.ri bentuk tidak baku: puteri",
+  "bentukTidakBaku": "puteri",
+  "kataTurunan": [
+    "keputrian"
+  ],
+  "gabunganKata": [
+    "putri boyongan",
+    "putri salju"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "anak perempuan",
+    "kataAsal": "putrī"
+  },
+  "data": [
+    {
+      "lema": "put.ri bentuk tidak baku: puteri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak perempuan raja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak perempuan; wanita: -- sejati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "khusus (untuk) wanita: lompat tinggi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak kandung wanita"
+        }
+      ]
+    }
+  ]
+}

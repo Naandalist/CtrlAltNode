@@ -1,0 +1,49 @@
+{
+  "istilah": "menokok",
+  "entri": "tokok1 » me.no.kok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "menokok kawat",
+    "menokok pintu",
+    "menokok sagu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tokok1 » me.no.kok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberi tokok; menambah; mengimbuhi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melengkapi (yang kurang): saya mempunyai persediaan barang untuk ~ kekurangan itu; sekadar untuk ~ pengetahuan"
+        }
+      ]
+    },
+    {
+      "lema": "tokok2 » me.no.kok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memukul dengan martil dan sebagainya; memalu; mengetuk: ~ paku"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memukul supaya pecah (menjadi kecil-kecil): ~ batu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menabuh (gamelan dan sebagainya): ~ gamelan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "colong",
+  "entri": "co.long",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "colongan",
+    "kecolongan",
+    "mencolong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mencuri, membawa diam-diam",
+    "kataAsal": "coloṅ"
+  },
+  "data": [
+    {
+      "lema": "co.long",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "curi"
+        }
+      ]
+    }
+  ]
+}

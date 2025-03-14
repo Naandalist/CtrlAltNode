@@ -1,0 +1,33 @@
+{
+  "istilah": "issi",
+  "entri": "ISSI1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ISSI1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Ikatan Sport Sepeda Indonesia"
+        }
+      ]
+    },
+    {
+      "lema": "ISSI2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "indeks saham syariah Indonesia (indeks yang mengukur kinerja harga seluruh saham syariah di papan utama dan papan pengembangan Bursa Efek Indonesia)"
+        }
+      ]
+    }
+  ]
+}

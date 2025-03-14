@@ -1,0 +1,35 @@
+{
+  "istilah": "pecal",
+  "entri": "pe.cal1 /pêcal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memecal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.cal1 /pêcal/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pecel"
+        }
+      ]
+    },
+    {
+      "lema": "pe.cal2 /pêcal/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memecal"
+        }
+      ]
+    }
+  ]
+}

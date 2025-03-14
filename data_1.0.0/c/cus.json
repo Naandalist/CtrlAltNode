@@ -1,0 +1,33 @@
+{
+  "istilah": "cus",
+  "entri": "cus1",
+  "bentukTidakBaku": "ces",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi api disiram air dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "cus2 bentuk tidak baku: ces",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata seru untuk menyatakan gerakan yang sangat cepat dan sebagainya: --, kilat itu telah melintas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "start",
+  "entri": "start",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "start",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memulai (melakukan sesuatu): jarak garis -- dengan garis finis lebih kurang 500 m"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berangkat (melakukan suatu perjalanan): kita harus -- pagi-pagi benar supaya tidak ketinggalan kereta api"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Olr[Olahraga: -]",
+          "deskripsi": "sikap permulaan pada waktu akan melakukan jalan atau lari (terutama dalam perlombaan) dengan kaki atau tangan tidak boleh menyentuh garis batas (harus berada di belakang garis batas)"
+        }
+      ]
+    }
+  ]
+}

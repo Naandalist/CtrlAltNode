@@ -1,0 +1,44 @@
+{
+  "istilah": "kipas",
+  "entri": "ki.pas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkipas",
+    "berkipas-kipas",
+    "kipasan",
+    "mengipas",
+    "mengipas-ngipas",
+    "mengipasi",
+    "mengipaskan",
+    "pengipas",
+    "pengipasan"
+  ],
+  "gabunganKata": [
+    "kipas air",
+    "kipas angin",
+    "kipas bambu",
+    "kipas isap",
+    "kipas pendingin"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.pas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengibas-ngibas (supaya mendapat angin sejuk dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baling-baling pada pesawat (kapal, mobil, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

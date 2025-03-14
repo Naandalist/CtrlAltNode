@@ -1,0 +1,52 @@
+{
+  "istilah": "jejak",
+  "entri": "je.jak /jêjak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjejak",
+    "menjejak",
+    "menjejaki",
+    "menjejakkan",
+    "penjejak"
+  ],
+  "gabunganKata": [
+    "jejak bahu",
+    "jejak bara",
+    "jejak dasar",
+    "jejak kabut",
+    "jejak keruh",
+    "jejak lepas",
+    "jejak pengembunan"
+  ],
+  "peribahasa": [
+    "mencari jejak dalam air"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.jak /jêjak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekas tapak kaki; bekas langkah: ada -- orang di tanah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan (kelakuan) yang jadi teladan: Isa mengikuti -- ibunya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan] ki[kiasan]",
+          "deskripsi": "bekas yang menunjukkan adanya perbuatan dan sebagainya yang telah dilakukan: ia berusaha menghilangkan -- kejahatannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "daerah penyimpanan pada cakram liuk atau cakram keras"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "optimum",
+  "entri": "op.ti.mum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengoptimumkan",
+    "pengoptimuman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "op.ti.mum",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam kondisi yang terbaik (yang paling menguntungkan); optimal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kondisi atau derajat yang terbaik atau yang paling menguntungkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "keadaan faktor lingkungan yang merupakan derajat kesesuaian tertinggi untuk pertumbuhan dan perkembangbiakan makhluk secara penuh"
+        }
+      ]
+    }
+  ]
+}

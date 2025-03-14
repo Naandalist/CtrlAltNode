@@ -1,0 +1,36 @@
+{
+  "istilah": "gugu",
+  "entri": "gu.gu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tergugu-gugu",
+    "menggugu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.gu1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "tergugu-gugu"
+        }
+      ]
+    },
+    {
+      "lema": "gu.gu2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menggugu"
+        }
+      ]
+    }
+  ]
+}

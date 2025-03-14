@@ -1,0 +1,40 @@
+{
+  "istilah": "jagung",
+  "entri": "ja.gung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjagung-jagung",
+    "menjagung"
+  ],
+  "gabunganKata": [
+    "jagung lilin",
+    "jagung manis",
+    "jagung putren",
+    "jagung terubuk",
+    "jagung titi",
+    "jagung tumbuk"
+  ],
+  "peribahasa": [
+    "baik berjagung-jagung, sementara padi belum masak; padi masak, jagung mengupih; pipit menelan jagung; seperti pipit menelan jagung; umur setahun jagung (darah setampuk pinang)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jagung",
+    "kataAsal": "jaguṅ"
+  },
+  "data": [
+    {
+      "lema": "ja.gung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "terna yang termasuk suku Gramineae, berbatang pejal, tingginya mencapai 2 m, berdaun memita panjang, bunga jantan tumbuh paling atas, bunga betina di ketiak daun berbentuk bonggol, dilindungi oleh kelobot, umumnya berbiji kuning, buahnya dapat dimakan sebagai makanan pokok〔Zea mays〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah atau biji jagung"
+        }
+      ]
+    }
+  ]
+}

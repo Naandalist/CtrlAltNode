@@ -1,0 +1,33 @@
+{
+  "istilah": "ukm",
+  "entri": "UKM1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "UKM1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "usaha kecil dan menengah"
+        }
+      ]
+    },
+    {
+      "lema": "UKM2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "unit kegiatan mahasiswa"
+        }
+      ]
+    }
+  ]
+}

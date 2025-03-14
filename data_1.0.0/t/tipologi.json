@@ -1,0 +1,32 @@
+{
+  "istilah": "tipologi",
+  "entri": "ti.po.lo.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.po.lo.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu watak tentang bagian manusia dalam golongan-golongan menurut corak watak masing-masing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "klasifikasi kamus dan buku acuan lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "ilmu tentang kesamaan sintaksis dan morfologi bahasa-bahasa tanpa mempertimbangkan sejarah bahasa"
+        }
+      ]
+    }
+  ]
+}

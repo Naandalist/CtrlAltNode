@@ -1,0 +1,24 @@
+{
+  "istilah": "menu hierarkis",
+  "entri": "menu » menu hierarkis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "menu » menu hierarkis",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "menu yang memiliki satu atau beberapa submenu di bawahnya"
+        }
+      ]
+    }
+  ]
+}

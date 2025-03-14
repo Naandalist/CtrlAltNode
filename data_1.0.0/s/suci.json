@@ -1,0 +1,46 @@
+{
+  "istilah": "suci",
+  "entri": "su.ci",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersuci",
+    "kesucian",
+    "mensucikan",
+    "menyucikan",
+    "penyuci",
+    "penyucian",
+    "persucian",
+    "tersuci",
+    "tersucikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jujur, bersih, cerah, murni, putih, tak bersalah",
+    "kataAsal": "śuci"
+  },
+  "data": [
+    {
+      "lema": "su.ci",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersih (dalam arti keagamaan, seperti tidak kena najis, selesai mandi janabat): air --; badannya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bebas dari dosa; bebas dari cela; bebas dari noda; maksum: Nabi Muhammad saw. adalah orang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keramat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "murni (tentang hati, batin): terbit dari hati yang --"
+        }
+      ]
+    }
+  ]
+}

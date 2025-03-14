@@ -1,0 +1,28 @@
+{
+  "istilah": "mizan",
+  "entri": "mi.zan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "timbangan",
+    "kataAsal": "mīzān"
+  },
+  "data": [
+    {
+      "lema": "mi.zan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Libra; Tula"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "neraca; timbangan"
+        }
+      ]
+    }
+  ]
+}

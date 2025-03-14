@@ -1,0 +1,32 @@
+{
+  "istilah": "ikrar",
+  "entri": "ik.rar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berikrar",
+    "mengikrarkan",
+    "pengikraran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengakuan",
+    "kataAsal": "iqrār"
+  },
+  "data": [
+    {
+      "lema": "ik.rar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "janji yang sungguh-sungguh: ia membacakan -- kesetiaan di depan pemimpinnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "janji (dengan sumpah); pengakuan: setelah menyanyikan lagu Indonesia Raya, mereka membacakan -- Sumpah Pemuda"
+        }
+      ]
+    }
+  ]
+}

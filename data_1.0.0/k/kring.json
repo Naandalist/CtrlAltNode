@@ -1,0 +1,33 @@
+{
+  "istilah": "kring",
+  "entri": "kring1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kring1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi bel (pada sepeda, telepon, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "kring2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "wilayah keuskupan setingkat lingkungan atau di bawah stasi"
+        }
+      ]
+    }
+  ]
+}

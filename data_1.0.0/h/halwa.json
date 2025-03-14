@@ -1,0 +1,32 @@
+{
+  "istilah": "halwa",
+  "entri": "hal.wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "halwa mata",
+    "halwa nikmat",
+    "halwa telinga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "manisan",
+    "kataAsal": "ḥulwā"
+  },
+  "data": [
+    {
+      "lema": "hal.wa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "manisan buah-buahan: -- pala; -- sirsak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "segala yang menyenangkan"
+        }
+      ]
+    }
+  ]
+}

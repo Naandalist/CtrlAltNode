@@ -1,0 +1,26 @@
+{
+  "istilah": "tasaruf",
+  "entri": "ta.sa.ruf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menasarufkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengelolaan; pengalokasian",
+    "kataAsal": "taṣarruf"
+  },
+  "data": [
+    {
+      "lema": "ta.sa.ruf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengembalian; penyerahan"
+        }
+      ]
+    }
+  ]
+}

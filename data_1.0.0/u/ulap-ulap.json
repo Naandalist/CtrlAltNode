@@ -1,0 +1,37 @@
+{
+  "istilah": "ulap-ulap",
+  "entri": "u.lap-u.lap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.lap-u.lap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bubur atau kolak dengan santan, keladi, dan pisang dicampur gula"
+        }
+      ]
+    },
+    {
+      "lema": "u.lap-u.lap2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "melambaikan tangan untuk memanggil"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "mengayun-ayunkan tangan ke depan mata seakan-akan melihat jauh (tentang gerak tari)"
+        }
+      ]
+    }
+  ]
+}

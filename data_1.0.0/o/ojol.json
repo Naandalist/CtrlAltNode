@@ -1,0 +1,33 @@
+{
+  "istilah": "ojol",
+  "entri": "o.jol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.jol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "getah karet yang telah beku: getah cair berubah menjadi -- jika telat diangkat"
+        }
+      ]
+    },
+    {
+      "lema": "o.jol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] akr[akronim]",
+          "deskripsi": "ojek online; ojek daring"
+        }
+      ]
+    }
+  ]
+}

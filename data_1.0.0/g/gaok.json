@@ -1,0 +1,30 @@
+{
+  "istilah": "gaok",
+  "entri": "ga.ok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggaok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.ok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi burung gagak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gagak hutan"
+        }
+      ]
+    }
+  ]
+}

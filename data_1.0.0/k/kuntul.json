@@ -1,0 +1,38 @@
+{
+  "istilah": "kuntul",
+  "entri": "kun.tul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kuntul karang",
+    "kuntul kecil",
+    "kuntul kerbau",
+    "kuntul malam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sejenis burung bangau",
+    "kataAsal": "kuntul"
+  },
+  "data": [
+    {
+      "lema": "kun.tul1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berekor; togel (tentang ayam dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "kun.tul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangau berbulu putih, pemangsa ikan, katak, dan sebagainya; bermacam-macam jenisnya"
+        }
+      ]
+    }
+  ]
+}

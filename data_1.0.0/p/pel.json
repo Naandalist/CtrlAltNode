@@ -1,0 +1,39 @@
+{
+  "istilah": "pel",
+  "entri": "pel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengepel"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pel1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain yang dipakai menyeka (mengesat)"
+        }
+      ]
+    },
+    {
+      "lema": "pel2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(helai) kertas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembaran kertas yang dicetak (8 atau 16 halaman)"
+        }
+      ]
+    }
+  ]
+}

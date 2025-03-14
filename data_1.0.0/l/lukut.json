@@ -1,0 +1,33 @@
+{
+  "istilah": "lukut",
+  "entri": "lu.kut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lumut dan segala jenis tumbuhan kecil pada pohon",
+    "kataAsal": "lukut"
+  },
+  "data": [
+    {
+      "lema": "lu.kut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ganggang〔Hydrilla verticillata〕"
+        }
+      ]
+    },
+    {
+      "lema": "lu.kut2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ melukut"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "karun",
+  "entri": "ka.run",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.run",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang kaya raya pada zaman Nabi Musa a.s., yang akibat kesombongannya ia dan harta bendanya tertimbun tanah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tidak diketahui asal-usulnya (tentang harta temuan dan sebagainya): salah seorang penduduk menemukan harta -- dalam ladangnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tidak sah (tentang pemerolehan atau pendapatan)"
+        }
+      ]
+    }
+  ]
+}

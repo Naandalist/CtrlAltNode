@@ -1,0 +1,37 @@
+{
+  "istilah": "kelikih",
+  "entri": "ke.li.kih1 /kêlikih/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.li.kih1 /kêlikih/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ keliki1"
+        }
+      ]
+    },
+    {
+      "lema": "ke.li.kih2 /kêlikih/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "jarak〔Ricinus communis〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "buah kelikih"
+        }
+      ]
+    }
+  ]
+}

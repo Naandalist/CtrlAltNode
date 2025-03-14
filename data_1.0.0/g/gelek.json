@@ -1,0 +1,46 @@
+{
+  "istilah": "gelek",
+  "entri": "ge.lek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggelek",
+    "menggelek",
+    "menggelekkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.lek1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gilas; lindas"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lek2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menggelek; menggelekkan"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lek3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ganja2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "korek",
+  "entri": "ko.rek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "korekan",
+    "mengorek",
+    "mengorek-ngorek",
+    "pengorek",
+    "pengorekan"
+  ],
+  "gabunganKata": [
+    "korek kuping",
+    "korek api"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.rek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cungkil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerek"
+        }
+      ]
+    },
+    {
+      "lema": "ko.rek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk memantik api; pemantik api; geretan"
+        }
+      ]
+    },
+    {
+      "lema": "ko.rek3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hati-hati (sesuai dengan segala sesuatu yang benar); teliti: pejabat harus bertindak -- terhadap aspirasi yang datang dari masyarakat"
+        }
+      ]
+    }
+  ]
+}

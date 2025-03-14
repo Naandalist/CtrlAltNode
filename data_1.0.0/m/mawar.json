@@ -1,0 +1,38 @@
+{
+  "istilah": "mawar",
+  "entri": "ma.war1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mawar gurun",
+    "mawar laut"
+  ],
+  "peribahasa": [
+    "arang itu jikalau dibasuh dengan air mawar sekalipun, tiada akan putih; hidung laksana kuntum seroja, dada seperti mawar merekah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bunga ros",
+    "kataAsal": "al-ward"
+  },
+  "data": [
+    {
+      "lema": "ma.war1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perdu yang batangnya bulat berduri, daunnya majemuk dengan tepi bergerigi, bunganya beraneka warna, seperti merah, putih, merah jambu, merah tua, dan berbau harum; bunga ros〔Rosa spp〕"
+        }
+      ]
+    },
+    {
+      "lema": "ma.war2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tawar1"
+        }
+      ]
+    }
+  ]
+}

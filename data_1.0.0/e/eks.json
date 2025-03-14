@@ -1,0 +1,42 @@
+{
+  "istilah": "eks",
+  "entri": "eks1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf x"
+        }
+      ]
+    },
+    {
+      "lema": "eks2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bekas; mantan: orang tuanya -- gubernur; dia adalah -- lurah di daerah Bogor; dia adalah -- pejuang"
+        }
+      ]
+    },
+    {
+      "lema": "eks3",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "dari: -- pabrik; pakaian -- luar negeri"
+        }
+      ]
+    }
+  ]
+}

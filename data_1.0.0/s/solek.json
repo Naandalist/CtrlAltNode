@@ -1,0 +1,37 @@
+{
+  "istilah": "solek",
+  "entri": "so.lek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersolek",
+    "mempersolek",
+    "pesolek",
+    "solek-menyolek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.lek",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "serba elok (tentang pakaian, hiasan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suka berhias diri (berdandan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara berhias diri (berpakaian)"
+        }
+      ]
+    }
+  ]
+}

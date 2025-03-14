@@ -1,0 +1,36 @@
+{
+  "istilah": "rosok",
+  "entri": "ro.sok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merosok",
+    "merosokkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.sok1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "raba; rogoh"
+        }
+      ]
+    },
+    {
+      "lema": "ro.sok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ rongsok"
+        }
+      ]
+    }
+  ]
+}

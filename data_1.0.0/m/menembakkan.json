@@ -1,0 +1,35 @@
+{
+  "istilah": "menembakkan",
+  "entri": "tembak1 » me.nem.bak.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "menembakkan kamera",
+    "menembakkan pandangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tembak1 » me.nem.bak.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menembak dengan; melepaskan (peluru): ~ pistol"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menendang (bola) ke arah gawang: ~ bola ke arah gawang lawan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "membidik: ~ kamera; ~ pandangan"
+        }
+      ]
+    }
+  ]
+}

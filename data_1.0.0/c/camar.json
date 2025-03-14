@@ -1,0 +1,33 @@
+{
+  "istilah": "camar",
+  "entri": "ca.mar1 bentuk tidak baku: cakmar2",
+  "bentukTidakBaku": "cakmar2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.mar1 bentuk tidak baku: cakmar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dara laut"
+        }
+      ]
+    },
+    {
+      "lema": "ca.mar2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "lahap; rakus; sangat gemar"
+        }
+      ]
+    }
+  ]
+}

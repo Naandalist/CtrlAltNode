@@ -1,0 +1,45 @@
+{
+  "istilah": "rujuk",
+  "entri": "ru.juk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merujuk",
+    "merujuki",
+    "merujuk",
+    "perujuk",
+    "rujukan"
+  ],
+  "gabunganKata": [
+    "rujuk silang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kembali",
+    "kataAsal": "rujū‘"
+  },
+  "data": [
+    {
+      "lema": "ru.juk1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kembalinya suami kepada istrinya yang ditalak, talak satu atau talak dua, ketika istri masih dalam masa idah: setelah diberi nasihat oleh saudaranya, ia -- dengan istrinya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "kembali bersatu (bersahabat dan sebagainya): kedua partai yang sudah -- itu ikut dalam kabinet baru"
+        }
+      ]
+    },
+    {
+      "lema": "ru.juk2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "acu"
+        }
+      ]
+    }
+  ]
+}

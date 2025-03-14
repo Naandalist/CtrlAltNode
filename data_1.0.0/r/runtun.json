@@ -1,0 +1,39 @@
+{
+  "istilah": "runtun",
+  "entri": "run.tun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meruntun",
+    "meruntunkan",
+    "beruntun",
+    "beruntun-runtun",
+    "runtunan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "run.tun1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "meruntun; meruntunkan"
+        }
+      ]
+    },
+    {
+      "lema": "run.tun2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beruntun"
+        }
+      ]
+    }
+  ]
+}

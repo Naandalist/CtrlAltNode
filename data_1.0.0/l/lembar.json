@@ -1,0 +1,55 @@
+{
+  "istilah": "lembar",
+  "entri": "lem.bar /lêmbar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlembar-lembar",
+    "lembaran",
+    "melembarkan"
+  ],
+  "gabunganKata": [
+    "lembar awan",
+    "lembar bentang",
+    "lembar fakta",
+    "lembar jawaban",
+    "lembar kegiatan siswa",
+    "lembar kendali",
+    "lembar kerja",
+    "lembar lajur",
+    "lembar log",
+    "lembar pengesahan",
+    "lembar sebar",
+    "lembar uji"
+  ],
+  "peribahasa": [
+    "tali tiga lembar tak suang-suang putus; tali yang tiga lembar itu tak suang-suang putus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lem.bar /lêmbar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "benang; tali: ibarat menyambung -- yang telah putus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong bagi benda yang lebar dan tipis (tentang papan, kertas, seng, dan sebagainya); helai: dua -- daun (kertas, kain, layar, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong bagi benda yang panjang (seperti rambut, tali, dan sebagainya); utas; helai: tiada luruh se-- rambut pun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembaran"
+        }
+      ]
+    }
+  ]
+}

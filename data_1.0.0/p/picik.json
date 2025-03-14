@@ -1,0 +1,35 @@
+{
+  "istilah": "picik",
+  "entri": "pi.cik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepicikan",
+    "memicikkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.cik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak luas (tentang pandangan, pengetahuan, pikiran, dan sebagainya): pandangannya sangat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hemat: dia -- memakai uangnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak lebar (luas); sempit: jurang itu -- lagi dalam"
+        }
+      ]
+    }
+  ]
+}

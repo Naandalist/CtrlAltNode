@@ -1,0 +1,44 @@
+{
+  "istilah": "introduksi",
+  "entri": "in.tro.duk.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengintroduksi",
+    "mengintroduksikan",
+    "pengintroduksian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.tro.duk.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan memperkenalkan atau melancarkan untuk pertama kali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian karangan yang menyatakan pendahuluan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "bagian awal sajian musik sebelum penyanyi mulai menyanyikan lagu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang baru muncul dan dibawa dari tempat lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "kata pengantar dari penerbit, misalnya rangkaian kata untuk memperkenalkan buku yang diterbitkan"
+        }
+      ]
+    }
+  ]
+}

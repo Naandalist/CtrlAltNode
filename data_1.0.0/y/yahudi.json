@@ -1,0 +1,34 @@
+{
+  "istilah": "yahudi",
+  "entri": "Ya.hu.di",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memperyahudikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang berbangsa Israel",
+    "kataAsal": "yahūdī"
+  },
+  "data": [
+    {
+      "lema": "Ya.hu.di",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangsa (yang berasal dari) Israel (Yakub); Ibrani"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "agama orang Israel (yang berasal dari ajaran Nabi Musa a.s.)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "(negatif) sebutan bagi orang yang sangat kikir: kikir seperti -- sangat kikir"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "debus",
+  "entri": "de.bus1 /dêbus/",
+  "bentukTidakBaku": "dabus",
+  "kataTurunan": [
+    "berdebus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ujung tombak",
+    "kataAsal": "dubbūs"
+  },
+  "data": [
+    {
+      "lema": "de.bus1 /dêbus/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi embusan angin"
+        }
+      ]
+    },
+    {
+      "lema": "de.bus2 /dêbus/bentuk tidak baku: dabus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesenian bela diri dari Banten yang mempertunjukkan kekebalan diri terhadap senjata tajam atau api dengan cara menusuk, menyayat, atau membakar bagian tubuh, memanjat tiang bambu dan berdiri di ujungnya, atau berputar pada tambang yang diikatkan pada kedua tiang bambu yang tinggi"
+        }
+      ]
+    },
+    {
+      "lema": "de.bus3 /dêbus/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat atau tidak kena (tentang jala ikan): kadang-kadang jalanya lekat, kadang-kadang --"
+        }
+      ]
+    }
+  ]
+}

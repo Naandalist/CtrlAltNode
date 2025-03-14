@@ -1,0 +1,36 @@
+{
+  "istilah": "dalang",
+  "entri": "da.lang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendalang",
+    "mendalangi",
+    "mendalangkan",
+    "pedalang",
+    "pedalangan"
+  ],
+  "gabunganKata": [
+    "dalang jemblung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dalang",
+    "kataAsal": "ḍalaṅ"
+  },
+  "data": [
+    {
+      "lema": "da.lang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memainkan wayang: -- wayang kulit; -- wayang golek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang mengatur (merencanakan, memimpin) suatu gerakan dengan sembunyi-sembunyi: -- gerakan pemberontakan itu telah tertangkap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "istilah": "suara",
+  "entri": "su.a.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersuara",
+    "menyuarakan",
+    "penyuara",
+    "penyuaraan",
+    "tersuarakan"
+  ],
+  "gabunganKata": [
+    "suara bulat",
+    "suara hati",
+    "suara isian",
+    "suara minor",
+    "suara miring",
+    "suara pecah",
+    "suara rakyat",
+    "suara remang-remang",
+    "suara samaran",
+    "suara sumbang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bunyi, vokal, nada, kegaduhan",
+    "kataAsal": "svara"
+  },
+  "data": [
+    {
+      "lema": "su.a.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi yang dikeluarkan dari mulut manusia (seperti pada waktu bercakap-cakap, menyanyi, tertawa, dan menangis): penyanyi itu merdu --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi binatang, alat perkakas, dan sebagainya: kedengaran -- harimau mengaum; -- pesawat radio ini agak sember"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ucapan (perkataan): hanya --, tidak ada buktinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi bahasa (bunyi ujar): fonem /w/ dalam bahasa Belanda tidak sama --nya dengan fonem /w/ dalam bahasa Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dianggap sebagai perkataan (untuk melahirkan pikiran, perasaan, dan sebagainya): majalah ini merupakan -- kaum buruh, bukan -- suatu partai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pendapat: dalam rapat itu -- saya tidak diindahkan sama sekali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pernyataan (setuju atau tidak): usulnya diterima dengan -- bulat semuanya setuju; tidak satu pun yang memberi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "dukungan (dalam pemilihan): banyak anggota memberi -- kepada orang itu; ia kalah -- dalam pemilihan calon ketua"
+        }
+      ]
+    }
+  ]
+}

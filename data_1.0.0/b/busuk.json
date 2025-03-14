@@ -1,0 +1,49 @@
+{
+  "istilah": "busuk",
+  "entri": "bu.suk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebusukan",
+    "membusuk",
+    "membusukkan",
+    "pembusuk",
+    "pembusukan"
+  ],
+  "gabunganKata": [
+    "busuk bangar",
+    "busuk bergas",
+    "busuk hati",
+    "busuk kuku"
+  ],
+  "peribahasa": [
+    "bau busuk tidak berbangkai; busuk kerbau, jatuh berdebuk; busuk-busuk embacang (embacang buruk kulit); lewat dari manis, masam, lewat dari harum, busuk; mana busuk yang tidak berbau; menyimpan embacang busuk; sebusuk-busuk daging dikincah dimakan juga, seharum-harum tulang dibuang; sepandai-pandai membungkus, yang busuk berbau juga; telah busuk, maka dipeda"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.suk",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rusak dan berbau tidak sedap (tentang buah, daging, dan sebagainya): mangga itu sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbau tidak sedap (tentang bangkai dan sebagainya): bangkai tikus itu -- benar baunya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "buruk; jelek; tidak menyenangkan: kepala daerah itu sudah mendapat nama --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bio[Biologi: -]",
+          "deskripsi": "penyakit yang ditandai dengan penghancuran jaringan sebagai hasil kegiatan jamur atau bakteri"
+        }
+      ]
+    }
+  ]
+}

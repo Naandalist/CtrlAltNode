@@ -1,0 +1,46 @@
+{
+  "istilah": "langkat",
+  "entri": "lang.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.kat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "waktu tiga hari lagi dari sekarang; tulat"
+        }
+      ]
+    },
+    {
+      "lema": "lang.kat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersuji (bersulam) timbul"
+        }
+      ]
+    },
+    {
+      "lema": "Lang.kat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami beberapa daerah di Provinsi Sumatra Utara; Melayu Deli; Melayu Langkat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Sumatra Utara"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "ham",
+  "entri": "ham",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ham",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daging bagian atas kaki belakang babi yang digarami, dikeringkan atau diasapi, dan siap untuk dimakan"
+        }
+      ]
+    },
+    {
+      "lema": "HAM",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "hak asasi manusia"
+        }
+      ]
+    }
+  ]
+}

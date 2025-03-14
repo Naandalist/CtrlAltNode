@@ -1,0 +1,33 @@
+{
+  "istilah": "garan",
+  "entri": "ga.ran1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tangkai, gagang (dari payung, alat dan lain-lain)",
+    "kataAsal": "garan"
+  },
+  "data": [
+    {
+      "lema": "ga.ran1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "hulu (pisau dan sebagainya); tangkai"
+        }
+      ]
+    },
+    {
+      "lema": "ga.ran2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "gerangan"
+        }
+      ]
+    }
+  ]
+}

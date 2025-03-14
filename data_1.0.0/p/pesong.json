@@ -1,0 +1,33 @@
+{
+  "istilah": "pesong",
+  "entri": "pe.song",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memesong",
+    "memesongkan",
+    "pemesong",
+    "terpesong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.song",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "serong; mencong: kantong kosong akibat otak --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "putar (ke kanan atau ke kiri)"
+        }
+      ]
+    }
+  ]
+}

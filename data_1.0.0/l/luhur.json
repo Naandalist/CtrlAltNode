@@ -1,0 +1,38 @@
+{
+  "istilah": "luhur",
+  "entri": "lu.hur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keluhuran",
+    "leluhur",
+    "meluhurkan",
+    "terluhur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tinggi, puncak",
+    "kataAsal": "luhur"
+  },
+  "data": [
+    {
+      "lema": "lu.hur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tinggi; mulia: demi cita-cita yang --, kami bersedia mengorbankan jiwa dan raga"
+        }
+      ]
+    },
+    {
+      "lema": "lu.hur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "ukuran tinggi benda yang membubung tingi-tinggi secara luar biasa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "sentadu",
+  "entri": "sen.ta.du1 /sêntadu/bentuk tidak baku: centadu, lintadu",
+  "bentukTidakBaku": "centadu, lintadu",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.ta.du1 /sêntadu/bentuk tidak baku: centadu, lintadu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belalang sembah"
+        }
+      ]
+    },
+    {
+      "lema": "sen.ta.du2 /sêntadu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ulat besar berwarna hijau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kopi Cina"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "salak",
+  "entri": "sa.lak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyalak",
+    "penyalak",
+    "salakan"
+  ],
+  "gabunganKata": [
+    "salak masir",
+    "salak pondoh",
+    "salak rimba"
+  ],
+  "peribahasa": [
+    "tinggal kelopak salak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pohon salak dan buahnya (Zalacca edulis)",
+    "kataAsal": "salak"
+  },
+  "data": [
+    {
+      "lema": "sa.lak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman termasuk suku Palmae, batangnya tertutup rapat oleh pelepah daun, berduri pada pelepah dan tangkai daunnya, buahnya berdaging putih, berbiji keras berwarna cokelat kehitam-hitaman, kulit buah berwarna cokelat bersisik agak tajam〔Zalacca edulis〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah salak"
+        }
+      ]
+    },
+    {
+      "lema": "sa.lak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi gonggongan anjing: kadang-kadang terdengar -- anjing pada malam hari"
+        }
+      ]
+    }
+  ]
+}

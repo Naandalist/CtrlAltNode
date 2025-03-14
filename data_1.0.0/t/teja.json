@@ -1,0 +1,42 @@
+{
+  "istilah": "teja",
+  "entri": "te.ja1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meneja"
+  ],
+  "gabunganKata": [
+    "teja kalung",
+    "teja membangun"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.ja1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cahaya (awan) yang merah kekuning-kuningan kelihatan di kaki langit sebelah barat (ketika matahari terbenam)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelangi"
+        }
+      ]
+    },
+    {
+      "lema": "te.ja2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu teja"
+        }
+      ]
+    }
+  ]
+}

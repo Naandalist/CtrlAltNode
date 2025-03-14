@@ -1,0 +1,35 @@
+{
+  "istilah": "ilak",
+  "entri": "i.lak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagai ilak bercerai dengan benang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sumpah suami tidak akan menggauli istrinya",
+    "kataAsal": "īlā’"
+  },
+  "data": [
+    {
+      "lema": "i.lak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "alat untuk mengukur lebar kain yang akan ditenun"
+        }
+      ]
+    },
+    {
+      "lema": "i.lak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "sumpah suami tidak akan menggauli istrinya selama empat bulan atau lebih, atau tidak menyebutkan sama sekali batas waktunya"
+        }
+      ]
+    }
+  ]
+}

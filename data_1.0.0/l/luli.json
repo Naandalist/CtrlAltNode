@@ -1,0 +1,39 @@
+{
+  "istilah": "luli",
+  "entri": "lu.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meluli"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.li1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapas yang dipegang ketika memintal benang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kayu penggulung kapas yang akan dipintal"
+        }
+      ]
+    },
+    {
+      "lema": "lu.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan payau atau laut, panjang mencapai 40 cm, hidup di dasar dan perairan tropis, pada kedalaman mencapai 50 m, tersebar di daerah Indo-Pasifik〔Harpodon nehereus〕"
+        }
+      ]
+    }
+  ]
+}

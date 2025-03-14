@@ -1,0 +1,47 @@
+{
+  "istilah": "simpai",
+  "entri": "sim.pai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersimpai",
+    "menyimpai",
+    "menyimpaikan",
+    "tersimpai"
+  ],
+  "gabunganKata": [
+    "simpai keramat",
+    "simpai kromosfer"
+  ],
+  "peribahasa": [
+    "hujan tak sekali jatuh, simpai tak sekali erat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sim.pai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkar atau gelang-gelang dari rotan atau logam (pengikat bingkai dan sebagainya) untuk mengeratkan atau menegangkan: Paman sedang sibuk memasang -- beduk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "lingkaran besi dengan penopang dari kayu atau fiber yang digunakan sebagai tempat memasukkan bola basket yang akan dihitung poin atau angkanya (dalam olahraga basket)"
+        }
+      ]
+    },
+    {
+      "lema": "sim.pai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kera yang warna bulunya kekuning-kuningan〔Semnopithecus melalophos〕"
+        }
+      ]
+    }
+  ]
+}

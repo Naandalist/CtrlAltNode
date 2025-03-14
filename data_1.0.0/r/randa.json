@@ -1,0 +1,38 @@
+{
+  "istilah": "randa",
+  "entri": "ran.da1 bentuk tidak baku: rangda",
+  "bentukTidakBaku": "rangda",
+  "kataTurunan": [
+    "meranda"
+  ],
+  "gabunganKata": [
+    "randa gadis",
+    "randa tua"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pelacur, istilah kekerasan yang ditujukan pada wanita, janda",
+    "kataAsal": "raṇḍā"
+  },
+  "data": [
+    {
+      "lema": "ran.da1 bentuk tidak baku: rangda",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perempuan yang bercerai atau perempuan yang suaminya sudah meninggal; janda"
+        }
+      ]
+    },
+    {
+      "lema": "ran.da2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pt[Petapa: -]",
+          "deskripsi": "panggilan untuk gadis remaja"
+        }
+      ]
+    }
+  ]
+}

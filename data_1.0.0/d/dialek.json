@@ -1,0 +1,31 @@
+{
+  "istilah": "dialek",
+  "entri": "di.a.lek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdialek"
+  ],
+  "gabunganKata": [
+    "dialek regional",
+    "dialek sosial",
+    "dialek temporal",
+    "dialek tinggi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.a.lek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "variasi bahasa yang berbeda-beda menurut pemakai (misalnya bahasa dari suatu daerah tertentu, kelompok sosial tertentu, atau kurun waktu tertentu)"
+        }
+      ]
+    }
+  ]
+}

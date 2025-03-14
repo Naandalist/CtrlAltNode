@@ -1,0 +1,41 @@
+{
+  "istilah": "ornamen",
+  "entri": "or.na.men",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengornamenkan",
+    "pengornamenan"
+  ],
+  "gabunganKata": [
+    "ornamen lawas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "or.na.men",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hiasan dalam arsitektur, kerajinan tangan, dan sebagainya; lukisan; perhiasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hiasan yang dibuat (digambar atau dipahat) pada candi (gereja atau gedung lain)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "serangkaian not yang digunakan untuk menghias melodi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "aksesori penghias panggung yang menempel pada set panggung"
+        }
+      ]
+    }
+  ]
+}

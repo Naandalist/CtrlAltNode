@@ -1,0 +1,35 @@
+{
+  "istilah": "sawit",
+  "entri": "sa.wit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sawitan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tali atau benang (dipakai di bahu melingkar turun di lengan), termasuk perhiasan brahmana, satria dan yogi",
+    "kataAsal": "sawit"
+  },
+  "data": [
+    {
+      "lema": "sa.wit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang menyerupai kelapa, bunganya berupa tandan bercabang dengan buah kecil-kecil dan banyak, berwarna merah kehitam-hitaman, daging dan kulit buahnya mengandung minyak, digunakan sebagai bahan pembuat minyak, mentega, atau sabun; kelapa bali〔Elaeis guineensis〕"
+        }
+      ]
+    },
+    {
+      "lema": "sa.wit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sawitan"
+        }
+      ]
+    }
+  ]
+}

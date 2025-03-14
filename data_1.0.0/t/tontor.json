@@ -1,0 +1,33 @@
+{
+  "istilah": "tontor",
+  "entri": "ton.tor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ton.tor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "lampu minyak bertutup: modifikasi -- dapat dilakukan untuk keperluan estetika arsitektur kekinian"
+        }
+      ]
+    },
+    {
+      "lema": "ton.tor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tenda yang dipasang pada kereta api (zaman dulu)"
+        }
+      ]
+    }
+  ]
+}

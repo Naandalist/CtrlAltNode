@@ -1,0 +1,35 @@
+{
+  "istilah": "khazanah",
+  "entri": "kha.za.nah bentuk tidak baku: kazanah, khasanah",
+  "bentukTidakBaku": "kazanah, khasanah",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "khazanah fonem",
+    "khazanah kata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kha.za.nah bentuk tidak baku: kazanah, khasanah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang milik; harta benda; kekayaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan barang; perbendaharaan: lumba-lumba yang ditemukan di Selat Karimata melengkapi -- jenis lumba-lumba di Ancol"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menyimpan harta benda (kitab-kitab, barang berharga, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

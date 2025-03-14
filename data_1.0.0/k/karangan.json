@@ -1,0 +1,55 @@
+{
+  "istilah": "karangan",
+  "entri": "karang1 » ka.rang.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "karangan atas nama",
+    "karangan bunga",
+    "karangan khas",
+    "karangan khusus",
+    "karangan objektif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "karang1 » ka.rang.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu karang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit pada ginjal yang disebabkan oleh adanya zat yang membatu"
+        }
+      ]
+    },
+    {
+      "lema": "karang2 » ka.rang.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil mengarang; cerita; buah pena"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ciptaan; gubahan (lagu, musik, nyanyian)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerita mengada-ada (yang dibuat-buat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil rangkaian (susunan): ~ bunga"
+        }
+      ]
+    }
+  ]
+}

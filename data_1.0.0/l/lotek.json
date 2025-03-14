@@ -1,0 +1,33 @@
+{
+  "istilah": "lotek",
+  "entri": "lo.tek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.tek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan jenis gado-gado yang dibuat dari sayuran"
+        }
+      ]
+    },
+    {
+      "lema": "lo.tek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dempul"
+        }
+      ]
+    }
+  ]
+}

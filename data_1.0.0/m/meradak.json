@@ -1,0 +1,37 @@
+{
+  "istilah": "meradak",
+  "entri": "radak1 » me.ra.dak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "radak1 » me.ra.dak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menusuk (menohok dengan tombak terutama dari bawah)"
+        }
+      ]
+    },
+    {
+      "lema": "radak2 » me.ra.dak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "berjalan melanggar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menerobos; menyerang; mendobrak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "les",
+  "entri": "les1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "les1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pelajaran tambahan di luar jam sekolah: ia memberi -- musik di rumahnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "belajar kepada seseorang di luar jam sekolah: kau -- matematika kepada siapa?"
+        }
+      ]
+    },
+    {
+      "lema": "les3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali kekang; tali kendali"
+        }
+      ]
+    },
+    {
+      "lema": "les2 /lês/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lis"
+        }
+      ]
+    }
+  ]
+}

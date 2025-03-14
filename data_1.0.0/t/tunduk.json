@@ -1,0 +1,41 @@
+{
+  "istilah": "tunduk",
+  "entri": "tun.duk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketertundukan",
+    "ketundukan",
+    "menunduk",
+    "menunduk-nunduk",
+    "menundukkan",
+    "penundukan",
+    "petunduk",
+    "tertunduk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tun.duk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghadapkan wajah ke bawah, condong ke depan dan ke bawah (tentang kepala); melengkung ke bawah (tentang malai padi)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "takluk; menyerah kalah: bendera putih sebagai tanda --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "patuh; menurut (tentang perintah, aturan, dan sebagainya): semua anggota harus -- kepada peraturan yang telah dibuat bersama"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "kitir",
+  "entri": "ki.tir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kitiran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.tir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "surat keterangan pajak bumi yang harus dibayar oleh pemilik tanah: untuk jual beli tanah hendaknya diteliti dulu hak milik, nomor --, sertifikat hak guna bangunan, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ki.tir2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kitiran"
+        }
+      ]
+    }
+  ]
+}

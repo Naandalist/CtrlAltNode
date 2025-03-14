@@ -1,0 +1,40 @@
+{
+  "istilah": "fiksi",
+  "entri": "fik.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memfiksikan",
+    "pemfiksian"
+  ],
+  "gabunganKata": [
+    "fiksi fan",
+    "fiksi ilmiah",
+    "fiksi mini",
+    "fiksi sains"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fik.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "cerita rekaan (roman, novel, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rekaan; khayalan; tidak berdasarkan kenyataan: nama Menak Moncer adalah nama tokoh --, bukan tokoh sejarah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan yang hanya berdasarkan khayalan atau pikiran"
+        }
+      ]
+    }
+  ]
+}

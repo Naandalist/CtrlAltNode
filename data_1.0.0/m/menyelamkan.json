@@ -1,0 +1,37 @@
+{
+  "istilah": "menyelamkan",
+  "entri": "selam1 » me.nye.lam.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "selam1 » me.nye.lam.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasukkan ke dalam air dan sebagainya; membenamkan: sambil bermain, bebek sangat suka ~ kepalanya ke dalam air"
+        }
+      ]
+    },
+    {
+      "lema": "Selam2 » me.nye.lam.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengislamkan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengkhitankan"
+        }
+      ]
+    }
+  ]
+}

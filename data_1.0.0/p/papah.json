@@ -1,0 +1,46 @@
+{
+  "istilah": "papah",
+  "entri": "pa.pah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpapah",
+    "memapah",
+    "pemapah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.pah1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berpapah; memapah; pemapah"
+        }
+      ]
+    },
+    {
+      "lema": "pa.pah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pelepah (nyiur, pisang, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.pah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bapak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "istilah": "marga",
+  "entri": "mar.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermarga"
+  ],
+  "gabunganKata": [
+    "marga ketip",
+    "marga laju",
+    "marga khusus",
+    "marga monotipe"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jalan, rute, perjalanan",
+    "kataAsal": "mārga"
+  },
+  "data": [
+    {
+      "lema": "mar.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "binatang liar (tidak diternakkan atau dipelihara)"
+        }
+      ]
+    },
+    {
+      "lema": "mar.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Antr[Antropologi: -]",
+          "deskripsi": "kelompok kekerabatan yang eksogam dan unilinear, baik secara matrilineal maupun patrilineal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Antr[Antropologi: -]",
+          "deskripsi": "bagian daerah (sekumpulan dusun) yang agak luas (di Sumatra Selatan)"
+        }
+      ]
+    },
+    {
+      "lema": "mar.ga3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan; dasar (yang dipakai sebagai pegangan hidup, bekerja, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "mar.ga4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "satuan taksonomi (takson) yang berada di antara suku dan jenis, serta merupakan wadah yang mempersalinkan jenis-jenis yang erat hubungannya, huruf depan nama marga ditulis dengan huruf kapital dan selalu tercantum dalam nama jenis; genus"
+        }
+      ]
+    }
+  ]
+}

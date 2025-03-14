@@ -1,0 +1,46 @@
+{
+  "istilah": "diplomasi",
+  "entri": "dip.lo.ma.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdiplomasi"
+  ],
+  "gabunganKata": [
+    "diplomasi bersenjata",
+    "diplomasi budaya",
+    "diplomasi intermestik",
+    "diplomasi lunak",
+    "diplomasi megafon",
+    "diplomasi preventif",
+    "diplomasi terbuka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dip.lo.ma.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "urusan atau penyelenggaraan perhubungan resmi antara satu negara dan negara yang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "urusan kepentingan sebuah negara dengan perantaraan wakil-wakilnya di negeri lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan dan kecakapan dalam hal perhubungan antara negara dan negara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecakapan menggunakan pilihan kata yang tepat bagi keuntungan pihak yang bersangkutan (dalam perundingan, menjawab pertanyaan, mengemukakan pendapat, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

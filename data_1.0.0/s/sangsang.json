@@ -1,0 +1,37 @@
+{
+  "istilah": "sangsang",
+  "entri": "sang.sang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesangsang",
+    "menyangsang",
+    "tersangsang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sang.sang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersangkut"
+        }
+      ]
+    },
+    {
+      "lema": "Sang.sang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "nama wuku ke-10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "kejap",
+  "entri": "ke.jap /kêjap/bentuk tidak baku: kijip",
+  "bentukTidakBaku": "kijip",
+  "kataTurunan": [
+    "berkejap",
+    "berkejap-kejap",
+    "kejapan",
+    "mengejap",
+    "mengejapkan",
+    "sekejap"
+  ],
+  "gabunganKata": [
+    "kejap mata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "keadaan menutup mata (tidur); menutup mata, tidur",
+    "kataAsal": "kějěp"
+  },
+  "data": [
+    {
+      "lema": "ke.jap /kêjap/bentuk tidak baku: kijip",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedip"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelip"
+        }
+      ]
+    }
+  ]
+}

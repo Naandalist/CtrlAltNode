@@ -1,0 +1,33 @@
+{
+  "istilah": "pering",
+  "entri": "pe.ring1 /pêring/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ring1 /pêring/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbau busuk seperti bau petai, jering, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "pe.ring2 /pêring/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buluh; bambu"
+        }
+      ]
+    }
+  ]
+}

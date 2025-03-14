@@ -1,0 +1,36 @@
+{
+  "istilah": "repertoar",
+  "entri": "re.per.to.ar /repêrtoar/bentuk tidak baku: repertorium",
+  "bentukTidakBaku": "repertorium",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.per.to.ar /repêrtoar/bentuk tidak baku: repertorium",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persediaan nyanyian, lakon, opera yang dimiliki seseorang atau suatu kelompok seni yang siap untuk dimainkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daftar lagu, judul sandiwara, opera, dan sebagainya yang akan disajikan oleh pemain musik, sanggar penyanyi, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "perbendaharaan bahasa (dialek, ragam) yang dimiliki oleh seseorang atau masyarakat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "daftar pertunjukan teater yang dipersiapkan untuk ditampilkan di hadapan penonton"
+        }
+      ]
+    }
+  ]
+}

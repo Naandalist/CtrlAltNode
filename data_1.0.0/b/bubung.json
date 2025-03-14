@@ -1,0 +1,64 @@
+{
+  "istilah": "bubung",
+  "entri": "bu.bung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bubungan",
+    "membubung",
+    "membubungkan",
+    "memperbubungkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.bung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh sekali (sampai melewati bibir tabung)"
+        }
+      ]
+    },
+    {
+      "lema": "bu.bung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "puncak rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balok pada puncak rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "deretan genting dan sebagainya pada puncak rumah"
+        }
+      ]
+    },
+    {
+      "lema": "bu.bung3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membubung; membubungkan; memperbubungkan"
+        }
+      ]
+    },
+    {
+      "lema": "bu.bung4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan kelompok terkecil dalam skema permukiman masyarakat di Pulau Bangka"
+        }
+      ]
+    }
+  ]
+}

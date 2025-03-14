@@ -1,0 +1,48 @@
+{
+  "istilah": "dingin",
+  "entri": "di.ngin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpendingin",
+    "kedinginan",
+    "mendingin",
+    "mendinginkan",
+    "pendingin",
+    "pendinginan",
+    "sedingin",
+    "terdingin"
+  ],
+  "gabunganKata": [
+    "dingin hati",
+    "dingin kepala",
+    "dingin menyumsum",
+    "dingin tangan"
+  ],
+  "peribahasa": [
+    "berdiang di abu dingin; pinggan tak retak, nasi tak dingin"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.ngin",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersuhu rendah apabila dibandingkan dengan suhu tubuh manusia; tidak panas; sejuk: udara terasa -- malam ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tawar (tentang rasa makanan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak ramah; kaku (tentang suasana dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

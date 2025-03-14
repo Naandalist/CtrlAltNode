@@ -1,0 +1,24 @@
+{
+  "istilah": "pemetaan alamat",
+  "entri": "peta1 » pemetaan » pemetaan alamat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "peta1 » pemetaan » pemetaan alamat",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "penerjemahan alamat virtual menjadi alamat riil absolut"
+        }
+      ]
+    }
+  ]
+}

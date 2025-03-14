@@ -1,0 +1,53 @@
+{
+  "istilah": "mistar",
+  "entri": "mis.tar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mistar gawang",
+    "mistar kelim",
+    "mistar rajut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "alat menutup",
+    "kataAsal": "mistar"
+  },
+  "data": [
+    {
+      "lema": "mis.tar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu penggaris: digambarnya rumah itu tanpa menggunakan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu lurus pada bagian atas gawang (tentang sepak bola dan sebagainya): kiper kembali mengambil posisi di bawah --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu palang yang dipasang melintang pada dua tiang (tonggak) sebagai batas loncatan (pada loncat tinggi): ia gagal meloncat di atas -- setinggi 155 cm"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis; baris"
+        }
+      ]
+    },
+    {
+      "lema": "mis.tar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "bungkus; kulit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perbuatan atau tindakan menutupi"
+        }
+      ]
+    }
+  ]
+}

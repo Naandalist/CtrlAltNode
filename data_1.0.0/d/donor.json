@@ -1,0 +1,34 @@
+{
+  "istilah": "donor",
+  "entri": "do.nor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "donor universal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "do.nor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penderma; pemberi sumbangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penderma darah (yang menyumbangkan darahnya untuk menolong orang lain yang memerlukan): -- darah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "unsur kimia yang jika ditambahkan ke dalam semikonduktor murni dapat menambah konsentrasi elektron bebas di dalam semikonduktor itu"
+        }
+      ]
+    }
+  ]
+}

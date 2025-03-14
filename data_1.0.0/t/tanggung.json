@@ -1,0 +1,52 @@
+{
+  "istilah": "tanggung",
+  "entri": "tang.gung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mempertanggungkan",
+    "menanggung",
+    "menanggungkan",
+    "penanggung",
+    "penanggungan",
+    "pertanggungan",
+    "sepenanggungan",
+    "tanggung-menanggung",
+    "tanggungan",
+    "tertanggung",
+    "tertanggungkan",
+    "tanggung-tanggung"
+  ],
+  "gabunganKata": [
+    "tanggung gugat",
+    "tanggung renteng",
+    "tanggung bulan"
+  ],
+  "peribahasa": [
+    "berani menjual, berani membeli (berani pegang, berani tanggung)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bawaan, tanggungan, pikulan, beban",
+    "kataAsal": "taṅguṅ"
+  },
+  "data": [
+    {
+      "lema": "tang.gung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menanggung"
+        }
+      ]
+    },
+    {
+      "lema": "tang.gung2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lebih dari sedang, tetapi belum cukup (lebarnya, panjangnya, ukurannya, usianya, dan sebagainya): anak --; gadis --"
+        }
+      ]
+    }
+  ]
+}

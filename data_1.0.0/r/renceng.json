@@ -1,0 +1,41 @@
+{
+  "istilah": "renceng",
+  "entri": "ren.ceng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berenceng",
+    "rencengan",
+    "serenceng"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ren.ceng1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "panjang lampai (kurus tentang badan)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berjantung betis (tentang kaki)"
+        }
+      ]
+    },
+    {
+      "lema": "ren.ceng2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "untai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "rukiah",
+  "entri": "ru.ki.ah bentuk tidak baku: rukiat, rukhiyah, rukiyah, ruqiyah",
+  "bentukTidakBaku": "rukiat, rukhiyah, rukiyah, ruqiyah",
+  "kataTurunan": [
+    "merukiah",
+    "perukiah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jampi dengan membaca ayat-ayat Alquran",
+    "kataAsal": "ruqyah"
+  },
+  "data": [
+    {
+      "lema": "ru.ki.ah bentuk tidak baku: rukiat, rukhiyah, rukiyah, ruqiyah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "segala yang berhubungan dengan pesona (guna-guna dan sebagainya); sinar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pengobatan hati dengan membaca zikir atau doa seperti yang dilakukan Nabi Muhammad saw., berfungsi untuk mengusir pengaruh jahat dari hati"
+        }
+      ]
+    }
+  ]
+}

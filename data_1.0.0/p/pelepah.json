@@ -1,0 +1,34 @@
+{
+  "istilah": "pelepah",
+  "entri": "pe.le.pah /pêlêpah/bentuk tidak baku: pelapah",
+  "bentukTidakBaku": "pelapah",
+  "kataTurunan": [
+    "berpelepah"
+  ],
+  "gabunganKata": [
+    "pelepah daun"
+  ],
+  "peribahasa": [
+    "pelepah bawah luruh, pelepah atas jangan gelak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.le.pah /pêlêpah/bentuk tidak baku: pelapah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tulang daun yang terbesar (tentang daun pisang, pinang, dan sebagainya); tangkai daun nyiur dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bagian tangkai daun yang melebar dan membentuk tabung serta mengelilingi batang atau buluh, umumnya terdapat pada rumput-rumputan"
+        }
+      ]
+    }
+  ]
+}

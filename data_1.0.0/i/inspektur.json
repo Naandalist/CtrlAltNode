@@ -1,0 +1,37 @@
+{
+  "istilah": "inspektur",
+  "entri": "in.spek.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "inspektur jenderal",
+    "inspektur jenderal polisi",
+    "inspektur peternakan",
+    "inspektur polisi",
+    "inspektur polisi dua",
+    "inspektur polisi satu",
+    "inspektur tambang",
+    "inspektur upacara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.spek.tur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pejabat pemerintah yang bertugas melakukan pemeriksaan; pemeriksa; penilik; pengawas (pendidikan, pajak, perburuhan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama pangkat dalam kepolisian"
+        }
+      ]
+    }
+  ]
+}

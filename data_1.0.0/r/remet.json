@@ -1,0 +1,44 @@
+{
+  "istilah": "remet",
+  "entri": "re.met",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meremet"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.met",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meremet"
+        }
+      ]
+    },
+    {
+      "lema": "re.met /rêmet/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ach[Aceh: -]",
+          "deskripsi": "menggerakkan perlahan-lahan ke atas dan ke bawah, menari ke sana kemari (tentang pancing)"
+        }
+      ]
+    },
+    {
+      "lema": "re.met /rêmêt/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggenggam erat-erat (tentang benda kecil) dalam jumlah banyak"
+        }
+      ]
+    }
+  ]
+}

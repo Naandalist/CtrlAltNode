@@ -1,0 +1,32 @@
+{
+  "istilah": "wisaya",
+  "entri": "wi.sa.ya",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wi.sa.ya",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jerat penangkap binatang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sihir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "sistem pakar terkomputerisasi yang memandu pengguna melalui proses (kadang-kadang) rumit dalam mencipta dokumen, seperti pamflet iklan atau nawala"
+        }
+      ]
+    }
+  ]
+}

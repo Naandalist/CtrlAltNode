@@ -1,0 +1,30 @@
+{
+  "istilah": "mahfuz",
+  "entri": "mah.fuz bentuk tidak baku: mahful",
+  "bentukTidakBaku": "mahful",
+  "kataTurunan": [
+    "memahfuzkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang dijaga; yang dihafal",
+    "kataAsal": "maḥfūẓ"
+  },
+  "data": [
+    {
+      "lema": "mah.fuz bentuk tidak baku: mahful",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "sesuatu yang dihafalkan, yang tersimpan di dalam hati (ingatan, pikiran)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "sesuatu yang terjaga dan terpelihara"
+        }
+      ]
+    }
+  ]
+}

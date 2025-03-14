@@ -1,0 +1,36 @@
+{
+  "istilah": "jinjit",
+  "entri": "jin.jit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjinjit",
+    "menjinjit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jin.jit1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jengket"
+        }
+      ]
+    },
+    {
+      "lema": "jin.jit2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tarik; jewer"
+        }
+      ]
+    }
+  ]
+}

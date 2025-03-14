@@ -1,0 +1,33 @@
+{
+  "istilah": "kukul",
+  "entri": "ku.kul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.kul1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kokol2"
+        }
+      ]
+    },
+    {
+      "lema": "ku.kul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "jerawat"
+        }
+      ]
+    }
+  ]
+}

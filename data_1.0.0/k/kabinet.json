@@ -1,0 +1,52 @@
+{
+  "istilah": "kabinet",
+  "entri": "ka.bi.net1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kabinet bayangan",
+    "kabinet ekstra parlementer",
+    "kabinet gotong royong",
+    "kabinet kerja",
+    "kabinet koalisi",
+    "kabinet ministerial",
+    "kabinet nasional",
+    "kabinet parlementer",
+    "kabinet partai",
+    "kabinet presidensial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.bi.net1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "badan atau dewan pemerintahan yang terdiri atas para menteri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kantor kerja (terutama bagi presiden, perdana menteri, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ka.bi.net2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lemari kecil tempat menyimpan surat-surat (dokumen dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peti kecil mesin tik (mesin jahit dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

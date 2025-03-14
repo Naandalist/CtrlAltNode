@@ -1,0 +1,41 @@
+{
+  "istilah": "mengulit",
+  "entri": "kulit » me.ngu.lit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kulit » me.ngu.lit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyilih (bertukar kulit): ular itu sedang ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi kulit; mendapat kulit (tumbuh kulitnya): lukanya mulai ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "membeset kulit kepala: ~ kepala mayat"
+        }
+      ]
+    },
+    {
+      "lema": "ulit1 » meng.u.lit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menidurkan anak sambil bersenandung"
+        }
+      ]
+    }
+  ]
+}

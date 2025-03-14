@@ -1,0 +1,33 @@
+{
+  "istilah": "palat",
+  "entri": "pa.lat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "penis, zakar, batang kemaluan laki-laki",
+    "kataAsal": "palit"
+  },
+  "data": [
+    {
+      "lema": "pa.lat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kayu penjepit kaki yang dahulu biasanya dipakai untuk menghukum anak-anak"
+        }
+      ]
+    },
+    {
+      "lema": "pa.lat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zakar"
+        }
+      ]
+    }
+  ]
+}

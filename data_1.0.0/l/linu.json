@@ -1,0 +1,33 @@
+{
+  "istilah": "linu",
+  "entri": "li.nu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.nu1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terasa sakit pada gigi (tulang dan sebagainya); ngilu"
+        }
+      ]
+    },
+    {
+      "lema": "li.nu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "gempa bumi"
+        }
+      ]
+    }
+  ]
+}

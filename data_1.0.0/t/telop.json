@@ -1,0 +1,28 @@
+{
+  "istilah": "telop",
+  "entri": "te.lop",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.lop",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tayangan berupa tulisan di layar televisi, berupa imbauan, pengumuman, teks terjemahan, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "alat untuk membuat dan menghasilkan judul tulisan dan gambar pada layar televisi"
+        }
+      ]
+    }
+  ]
+}

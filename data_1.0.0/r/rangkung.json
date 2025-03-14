@@ -1,0 +1,36 @@
+{
+  "istilah": "rangkung",
+  "entri": "rang.kung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merangkung",
+    "rangkungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "raṅkuṅ"
+  },
+  "data": [
+    {
+      "lema": "rang.kung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jongkok"
+        }
+      ]
+    },
+    {
+      "lema": "rang.kung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "rangkungan"
+        }
+      ]
+    }
+  ]
+}

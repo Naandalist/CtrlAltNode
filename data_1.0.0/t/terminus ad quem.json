@@ -1,0 +1,49 @@
+{
+  "istilah": "terminus ad quem",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "batas; tujuan"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "batas waktu terakhir"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "paling akhir"
+        }
+      ]
+    },
+    {
+      "lema": "terminus ad quem",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "batas; tujuan"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "batas waktu terakhir"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "paling akhir"
+        }
+      ]
+    }
+  ]
+}

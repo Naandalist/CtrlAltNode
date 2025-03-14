@@ -1,0 +1,58 @@
+{
+  "istilah": "cita",
+  "entri": "ci.ta1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercita-cita",
+    "cita-cita",
+    "mencita",
+    "mencita-citakan"
+  ],
+  "gabunganKata": [
+    "cita rasa",
+    "cita rasa tinggi",
+    "cita sayur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tujuan, harapan, pengetahuan, pikiran, keinginan",
+    "kataAsal": "citta"
+  },
+  "data": [
+    {
+      "lema": "ci.ta1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rasa; perasaan hati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "cipta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "cita-cita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "cinta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "ide; gagasan"
+        }
+      ]
+    },
+    {
+      "lema": "ci.ta2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain tenun dari kapas dan sebagainya yang berbunga-bunga atau berwarna-warni (biasanya untuk bahan baju dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

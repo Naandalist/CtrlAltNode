@@ -1,0 +1,42 @@
+{
+  "istilah": "kilah",
+  "entri": "ki.lah1 bentuk tidak baku: kila1",
+  "bentukTidakBaku": "kila1",
+  "kataTurunan": [
+    "berkilah",
+    "berkilah-kilah",
+    "mengilah",
+    "mengilah-ngilahkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.lah1 bentuk tidak baku: kila1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tipu daya; tipu muslihat: segala -- yang dijalankannya tidak memberi hasil yang diharapkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dalih; alasan (yang dibuat-buat): itu semua hanya --"
+        }
+      ]
+    },
+    {
+      "lema": "ki.lah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "siput laut yang bertanduk"
+        }
+      ]
+    }
+  ]
+}

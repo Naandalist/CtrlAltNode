@@ -1,0 +1,31 @@
+{
+  "istilah": "telekomunikasi",
+  "entri": "te.le.ko.mu.ni.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertelekomunikasi",
+    "pertelekomunikasian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.le.ko.mu.ni.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "komunikasi jarak jauh melalui kawat (telegraf, telepon) dan radio: perkembangan -- mengalami kemajuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "komunikasi yang merujuk pada kombinasi suara dan data, baik analog maupun digital"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "mengaji",
+  "entri": "kaji1 » me.nga.ji",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mengaji alif-alif",
+    "mengaji batang",
+    "mengaji tasawuf"
+  ],
+  "peribahasa": [
+    "berbilang dari esa, mengaji dari alif; berbilang dari esa, mengaji dari alif; berbilang dari esa, mengaji dari alif"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kaji1 » me.nga.ji",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendaras (membaca) Al-Qur'an"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "belajar membaca tulisan Arab atau ilmu agama: anakku ~ di surau"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "belajar; mempelajari"
+        }
+      ]
+    }
+  ]
+}

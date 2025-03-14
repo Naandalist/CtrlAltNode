@@ -1,0 +1,41 @@
+{
+  "istilah": "sunat",
+  "entri": "su.nat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersunat",
+    "menyunat",
+    "menyunati",
+    "menyunatkan",
+    "penyunat",
+    "penyunatan",
+    "sunatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.nat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berpotong kulup; khitan"
+        }
+      ]
+    },
+    {
+      "lema": "su.nat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sunah"
+        }
+      ]
+    }
+  ]
+}

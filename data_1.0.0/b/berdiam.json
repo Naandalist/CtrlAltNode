@@ -1,0 +1,37 @@
+{
+  "istilah": "berdiam",
+  "entri": "diam1 » ber.di.am",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "diam1 » ber.di.am",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak berkata apa-apa: ia hanya ~ diri ketika polisi menginterogasinya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak berbuat apa-apa: ia masih ~ saja walaupun orang sudah mengingatkannya"
+        }
+      ]
+    },
+    {
+      "lema": "diam2 » ber.di.am",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berumah; bertempat tinggal: sudah berapa lama engkau ~ di kota ini?"
+        }
+      ]
+    }
+  ]
+}

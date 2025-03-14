@@ -1,0 +1,44 @@
+{
+  "istilah": "kontraksi",
+  "entri": "kon.trak.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkontraksi",
+    "mengontraksikan",
+    "terkontraksi"
+  ],
+  "gabunganKata": [
+    "kontraksi otot eksentrik",
+    "kontraksi otot sepusat",
+    "kontraksi peristaltik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.trak.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengerutan (sehingga menjadi berkurang panjangnya); penegangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "proses atau hasil pemendekan suatu bentuk kebahasaan (seperti tidak menjadi tak)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "tarik-menarik antara atom dalam sebuah molekul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "penegangan; pengerasan; penguncupan (tentang otot); kerunyutan (tentang parut luka)"
+        }
+      ]
+    }
+  ]
+}

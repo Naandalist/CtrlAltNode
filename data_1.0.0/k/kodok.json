@@ -1,0 +1,49 @@
+{
+  "istilah": "kodok",
+  "entri": "ko.dok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengodok"
+  ],
+  "gabunganKata": [
+    "kodok buduk",
+    "kodok gastrik broder",
+    "kodok hijau",
+    "kodok mata biru",
+    "kodok puru",
+    "kodok setan",
+    "kodok ungaran"
+  ],
+  "peribahasa": [
+    "kodok dapat bunga sekuntum; seperti kodok ditimpa kemarau"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kodok",
+    "kataAsal": "kodok"
+  },
+  "data": [
+    {
+      "lema": "ko.dok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "katak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "mobil kecil merek VW (Volkswagen)"
+        }
+      ]
+    },
+    {
+      "lema": "ko.dok2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "raba-raba"
+        }
+      ]
+    }
+  ]
+}

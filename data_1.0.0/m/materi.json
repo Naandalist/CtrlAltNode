@@ -1,0 +1,52 @@
+{
+  "istilah": "materi",
+  "entri": "ma.te.ri1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "termateri"
+  ],
+  "gabunganKata": [
+    "materi abu-abu",
+    "materi ajar",
+    "materi kepartikelan",
+    "materi kepartikelan organik",
+    "materi kepartikelan tersuspensi",
+    "materi organik",
+    "materi partikulat tersuspensi",
+    "materi tersuspensi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.te.ri1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda; bahan; segala sesuatu yang tampak: bantuan berupa --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang menjadi bahan (untuk diujikan, dipikirkan, dibicarakan, dikarangkan, dan sebagainya): orang yang menyusun soal ujian harus tahu --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "substansi yang menempati ruang dan memiliki massa"
+        }
+      ]
+    },
+    {
+      "lema": "ma.te.ri2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "termateri"
+        }
+      ]
+    }
+  ]
+}

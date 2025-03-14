@@ -1,0 +1,36 @@
+{
+  "istilah": "topik",
+  "entri": "to.pik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertopik",
+    "menopikkan",
+    "penopikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.pik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pokok pembicaraan dalam diskusi, ceramah, karangan, dan sebagainya; bahan diskusi: masalah yang akan menjadi -- sidang DPA ke-4 tahun itu ialah “Pemerataan dalam Pembangunan Regional dan Perdesaan”"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal yang menarik perhatian umum pada waktu akhir-akhir ini; bahan pembicaraan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "subjek yang dibahas dalam sebuah teks"
+        }
+      ]
+    }
+  ]
+}

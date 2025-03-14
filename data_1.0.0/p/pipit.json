@@ -1,0 +1,49 @@
+{
+  "istilah": "pipit",
+  "entri": "pi.pit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memipit",
+    "pipitan"
+  ],
+  "gabunganKata": [
+    "pipit uban"
+  ],
+  "peribahasa": [
+    "makanan enggang akan dimakan pipit; pipit meminang anak enggang; pipit menelan jagung; pipit pekak, makan berhujan; rezeki elang tak akan dapat (dimakan) oleh musang (burung pipit); seperti pipit menelan jagung; yang enggang sama enggang juga, yang pipit sama pipit juga; yang pipit sama pipit, yang enggang sama enggang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.pit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung kecil (banyak macamnya, seperti -- rumah, -- uban)"
+        }
+      ]
+    },
+    {
+      "lema": "pi.pit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian serunai dan sebagainya yang dikulum apabila hendak meniupnya: -- serunai"
+        }
+      ]
+    },
+    {
+      "lema": "pi.pit3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memipit; pipitan"
+        }
+      ]
+    }
+  ]
+}

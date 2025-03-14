@@ -1,0 +1,32 @@
+{
+  "istilah": "garuda",
+  "entri": "ga.ru.da bentuk tidak baku: geroda",
+  "bentukTidakBaku": "geroda",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "elang",
+    "kataAsal": "garuḍa"
+  },
+  "data": [
+    {
+      "lema": "ga.ru.da bentuk tidak baku: geroda",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dadali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lambang negara Indonesia (berupa gambar burung garuda dengan bulu sayap berjumlah 17, bulu ekor 8, bulu leher 45, cakar mencengkeram pita bertuliskan Bhinneka Tunggal Ika, dan berperisai lambang Pancasila di dadanya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "nama perusahaan penerbangan negara Indonesia"
+        }
+      ]
+    }
+  ]
+}

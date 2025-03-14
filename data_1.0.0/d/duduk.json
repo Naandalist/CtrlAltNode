@@ -1,0 +1,75 @@
+{
+  "istilah": "duduk",
+  "entri": "du.duk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkedudukan",
+    "berpenduduk",
+    "duduk-duduk",
+    "dudukan",
+    "kedudukan",
+    "kependudukan",
+    "menduduki",
+    "mendudukkan",
+    "penduduk",
+    "pendudukan",
+    "sekedudukan",
+    "terduduk",
+    "terduduki"
+  ],
+  "gabunganKata": [
+    "duduk belunjur",
+    "duduk berjuntai",
+    "duduk bersila",
+    "duduk bersimpuh",
+    "duduk bertimpuh",
+    "duduk bertinggung",
+    "duduk bertongkat lutut",
+    "duduk menukuk",
+    "duduk perkara",
+    "duduk persoalan",
+    "duduk perut",
+    "duduk sengkil",
+    "duduk kijang"
+  ],
+  "peribahasa": [
+    "belum beranak sudah ditimang, belum duduk sudah berlunjur; belum duduk sudah belunjur; belum duduk, belunjur dulu; belum duduk, sudah mengunjur; duduk berkisar, tegak berpaling; duduk berkisar, tegak berpaling; duduk bersama lapang-lapang, duduk seorang sempit-sempit; duduk di ambung-ambung taji; duduk dengan sukatan; duduk meraut ranjau, tegak meninjau jarak; duduk meraut ranjau, tegak meninjau jarak (duduk meraut ranjau, berdiri melihat musuh); duduk sama rendah, tegak (berdiri) sama tinggi; duduk seorang bersempit-sempit, duduk bersama berlapang-lapang; tegak sama tinggi, duduk sama rendah; teguh berpaling, duduk berkisar"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "du.duk1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meletakkan tubuh atau letak tubuhnya dengan bertumpu pada pantat (ada bermacam-macam cara dan namanya seperti bersila dan bersimpuh): ia -- di tikar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ada di (dalam peringkat belajar): ia -- di kelas III SMU"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kawin atau bertunangan: anaknya telah -- dengan anak hakim"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tinggal; diam: ia pernah -- di Bandung selama tiga tahun"
+        }
+      ]
+    },
+    {
+      "lema": "du.duk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan palma merumpun, tinggi batangnya 5 hingga 6 m〔Caryota mitis〕"
+        }
+      ]
+    }
+  ]
+}

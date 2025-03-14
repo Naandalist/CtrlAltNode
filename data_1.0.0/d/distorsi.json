@@ -1,0 +1,45 @@
+{
+  "istilah": "distorsi",
+  "entri": "dis.tor.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendistorsi",
+    "terdistorsi"
+  ],
+  "gabunganKata": [
+    "distorsi menghindar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dis.tor.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemutarbalikan suatu fakta, aturan, dan sebagainya; penyimpangan: untuk memperoleh keuntungan pribadi tidak jarang orang melakukan -- terhadap fakta yang ada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gangguan dalam siaran radio yang mengubah mutu siaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "perubahan bentuk yang tidak diinginkan; erotan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "hal terkilir (kaki dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "perubahan bentuk pada benda gerabah yang disebabkan oleh pengeringan terlampau cepat dan tidak merata karena pencampuran bahan tidak merata waktu pencetakan"
+        }
+      ]
+    }
+  ]
+}

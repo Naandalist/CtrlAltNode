@@ -1,0 +1,41 @@
+{
+  "istilah": "telan",
+  "entri": "te.lan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menelan",
+    "penelanan",
+    "tertelan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.lan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cacing yang kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan kecil yang menyerupai cacing"
+        }
+      ]
+    },
+    {
+      "lema": "te.lan /têlan/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menelan"
+        }
+      ]
+    }
+  ]
+}

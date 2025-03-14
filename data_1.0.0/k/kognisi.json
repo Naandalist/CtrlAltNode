@@ -1,0 +1,34 @@
+{
+  "istilah": "kognisi",
+  "entri": "kog.ni.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kognisi sosial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kog.ni.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kegiatan atau proses memperoleh pengetahuan (termasuk kesadaran, perasaan, dan sebagainya) atau usaha mengenali sesuatu melalui pengalaman sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sos[Sosiologi: -]",
+          "deskripsi": "proses, pengenalan, dan penafsiran lingkungan oleh seseorang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sos[Sosiologi: -]",
+          "deskripsi": "hasil pemerolehan pengetahuan"
+        }
+      ]
+    }
+  ]
+}

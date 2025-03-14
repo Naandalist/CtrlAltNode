@@ -1,0 +1,37 @@
+{
+  "istilah": "duru",
+  "entri": "du.ru1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berduru",
+    "berduru-duru",
+    "menduru"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "du.ru1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berduru; berduru-duru"
+        }
+      ]
+    },
+    {
+      "lema": "du.ru2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menduru"
+        }
+      ]
+    }
+  ]
+}

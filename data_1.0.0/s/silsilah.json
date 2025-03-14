@@ -1,0 +1,32 @@
+{
+  "istilah": "silsilah",
+  "entri": "sil.si.lah bentuk tidak baku: salasilah, silah2",
+  "bentukTidakBaku": "salasilah, silah2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "rantaian",
+    "kataAsal": "silsilah"
+  },
+  "data": [
+    {
+      "lema": "sil.si.lah bentuk tidak baku: salasilah, silah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asal-usul suatu keluarga berupa bagan; susur galur (keturunan): menurut --nya, ia berasal dari keluarga baik-baik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "catatan yang menggambarkan hubungan keluarga ternak sampai beberapa generasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "penggambaran hubungan antara bahasa induk dan bahasa-bahasa turunan dalam keluarga bahasa"
+        }
+      ]
+    }
+  ]
+}

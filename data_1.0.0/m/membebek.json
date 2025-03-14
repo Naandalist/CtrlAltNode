@@ -1,0 +1,41 @@
+{
+  "istilah": "membebek",
+  "entri": "bebek1 » mem.be.bek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bebek1 » mem.be.bek",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlaku seperti bebek"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mengikuti saja pendapat orang tanpa berpikir (hanya meniru orang lain)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "beristri banyak"
+        }
+      ]
+    },
+    {
+      "lema": "bebek2 » mem.be.bek",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengembik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "dogol",
+  "entri": "do.gol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kedogolan",
+    "berdogol"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "do.gol1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak bertanduk (tentang lembu dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berbalung (tentang ayam): ia lari bagai ayam --"
+        }
+      ]
+    },
+    {
+      "lema": "do.gol2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bodoh: dia memang --, dua tambah dua saja tidak tahu"
+        }
+      ]
+    },
+    {
+      "lema": "do.gol3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jendul"
+        }
+      ]
+    }
+  ]
+}

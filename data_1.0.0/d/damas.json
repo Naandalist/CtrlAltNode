@@ -1,0 +1,33 @@
+{
+  "istilah": "damas",
+  "entri": "da.mas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.mas1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "habis uang karena boros"
+        }
+      ]
+    },
+    {
+      "lema": "da.mas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain sutra, linen, atau beludru yang berbunga-bunga dan berwarna"
+        }
+      ]
+    }
+  ]
+}

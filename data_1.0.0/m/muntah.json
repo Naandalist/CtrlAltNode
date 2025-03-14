@@ -1,0 +1,45 @@
+{
+  "istilah": "muntah",
+  "entri": "mun.tah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dimuntahkan",
+    "memuntahi",
+    "memuntahkan",
+    "muntahan",
+    "pemuntahan"
+  ],
+  "gabunganKata": [
+    "muntah berak",
+    "muntah darah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mun.tah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keluar kembali (tentang makanan, minuman, dan sebagainya) yang telah masuk ke dalam mulut atau perut: begitu tercium bau busuk, --lah ia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang dimuntahkan; muntahan: setelah diperiksa, -- itu mengandung alkohol dan larutan obat penenang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "luntur (tentang warna): baju ini sekali dicuci sudah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "lepas dari: tendangan bola yang keras itu -- dari tangan penjaga gawang"
+        }
+      ]
+    }
+  ]
+}

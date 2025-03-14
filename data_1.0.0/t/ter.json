@@ -1,0 +1,44 @@
+{
+  "istilah": "ter",
+  "entri": "ter1 bentuk tidak baku: tir2",
+  "bentukTidakBaku": "tir2",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "ter batu bara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ter1 bentuk tidak baku: tir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang cair yang hitam warnanya untuk mengecat; aspal: lubang kecil di talang itu dapat ditutup dengan --"
+        }
+      ]
+    },
+    {
+      "lema": "ter2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tir1"
+        }
+      ]
+    },
+    {
+      "lema": "ter3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasal tambahan sesudah bis (tambahan atau susulan pada pasal undang-undang)"
+        }
+      ]
+    }
+  ]
+}

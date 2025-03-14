@@ -1,0 +1,41 @@
+{
+  "istilah": "keram",
+  "entri": "ke.ram1 /kêram/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keraman",
+    "mengeram",
+    "pengeraman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ram1 /kêram/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "keraman; mengeram; pengeraman"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ram2 /kêram/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kejang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "konstraksi otot yang tidak teratur; kejang"
+        }
+      ]
+    }
+  ]
+}

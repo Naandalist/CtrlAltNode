@@ -1,0 +1,33 @@
+{
+  "istilah": "pph",
+  "entri": "PPh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "PPh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pajak penghasilan"
+        }
+      ]
+    },
+    {
+      "lema": "PPH",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pembinaan perambah hutan"
+        }
+      ]
+    }
+  ]
+}

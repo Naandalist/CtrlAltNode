@@ -1,0 +1,53 @@
+{
+  "istilah": "puput",
+  "entri": "pu.put1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpuput",
+    "memuput",
+    "pemuput",
+    "puputan"
+  ],
+  "gabunganKata": [
+    "puput anak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.put1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "alat tiup terbuat dari batang padi atau bambu pendek, ada yang ditambah dengan daun kelapa (pucuk rumbia dan sebagainya): sambil bermain, anak-anak gembala mengembus -- di sawah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "peluit"
+        }
+      ]
+    },
+    {
+      "lema": "pu.put2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "sepotong besi untuk mencungkil dan sebagainya; linggis"
+        }
+      ]
+    },
+    {
+      "lema": "pu.put3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terlepas; tanggal (tentang tali pusat bayi)"
+        }
+      ]
+    }
+  ]
+}

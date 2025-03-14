@@ -1,0 +1,41 @@
+{
+  "istilah": "lawak",
+  "entri": "la.wak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlawak-lawak",
+    "lawak-lawak",
+    "lawakan",
+    "melawak",
+    "melawak-lawak",
+    "pelawak",
+    "lawak-lawak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.wak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lucu; jenaka"
+        }
+      ]
+    },
+    {
+      "lema": "la.wak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "perahu di Jawa Barat yang dibuat dari batang pohon yang ditakik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "gnomon",
+  "entri": "gno.mon",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gno.mon",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "bilah yang dipasang tegak lurus pada jam matahari untuk menentukan waktu berdasarkan bayangan bilah tersebut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bilangan yang ditambahkan pada bilangan kuadrat untuk mendapatkan bilangan kuadrat yang baru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bentuk yang harus ditambahkan pada bentuk tertentu untuk mendapatkan bentuk yang baru"
+        }
+      ]
+    }
+  ]
+}

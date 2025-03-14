@@ -1,0 +1,44 @@
+{
+  "istilah": "slip",
+  "entri": "slip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "slip setoran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "slip1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tergelincir; selip"
+        }
+      ]
+    },
+    {
+      "lema": "slip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "carik kertas (biasanya berukuran seperempat folio)"
+        }
+      ]
+    },
+    {
+      "lema": "slip3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "bahan tanah liat halus yang digunakan untuk melapisi permukaan gerabah yang belum dibakar"
+        }
+      ]
+    }
+  ]
+}

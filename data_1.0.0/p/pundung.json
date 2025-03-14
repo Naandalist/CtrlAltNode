@@ -1,0 +1,39 @@
+{
+  "istilah": "pundung",
+  "entri": "pun.dung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pundungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pun.dung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "gundukan tanah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sarang semut (berupa gundukan tanah)"
+        }
+      ]
+    },
+    {
+      "lema": "pun.dung2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sd[Sunda: -]",
+          "deskripsi": "pergi atau berhenti melakukan sesuatu karena merajuk"
+        }
+      ]
+    }
+  ]
+}

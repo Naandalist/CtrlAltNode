@@ -1,0 +1,33 @@
+{
+  "istilah": "et alia",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "dan yang lain-lain; disingkat et al."
+        }
+      ]
+    },
+    {
+      "lema": "et alia",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "dan yang lain-lain; disingkat et al."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "pakai",
+  "entri": "pa.kai bentuk tidak baku: pake",
+  "bentukTidakBaku": "pake",
+  "kataTurunan": [
+    "berpakaian",
+    "keterpakaian",
+    "memakai",
+    "memakaikan",
+    "pakaian",
+    "pemakai",
+    "pemakaian",
+    "sepemakai",
+    "terpakai"
+  ],
+  "gabunganKata": [
+    "pakai jangkar"
+  ],
+  "peribahasa": [
+    "kalau kena tampar, biar dengan tangan yang pakai cincin, kalau kena tendang, biar dengan kaki yang pakai kasut"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.kai bentuk tidak baku: pake",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengenakan; ber-...: pelajar SLTP -- seragam putih biru"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "dibubuhi dengan ...; diberi ...; dengan: satu gelas es teh -- gula"
+        }
+      ]
+    }
+  ]
+}

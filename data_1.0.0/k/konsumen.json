@@ -1,0 +1,32 @@
+{
+  "istilah": "konsumen",
+  "entri": "kon.su.men",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.su.men",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemakai barang hasil produksi (bahan pakaian, makanan, dan sebagainya): kepentingan -- pun harus diperhatikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penerima pesan iklan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemakai jasa (pelanggan dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

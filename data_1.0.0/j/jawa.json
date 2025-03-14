@@ -1,0 +1,40 @@
+{
+  "istilah": "jawa",
+  "entri": "Ja.wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kejawaan"
+  ],
+  "gabunganKata": [
+    "Jawa Barat",
+    "Jawa Tengah",
+    "Jawa Timur"
+  ],
+  "peribahasa": [
+    "hitam, hitam gula jawa; manis seperti gula derawa, (manis bagai gula jawa)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Ja.wa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang berasal atau mendiami sebagian besar Pulau Jawa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Jawa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pulau di wilayah selatan Indonesia, di sebelah utara berbatasan dengan Laut Jawa dan Pulau Kalimantan, di sebelah timur dengan Selat Bali dan Pulau Bali, di sebelah selatan dengan Samudra Hindia, dan di sebelah barat dengan Selat Sunda dan Pulau Sumatra"
+        }
+      ]
+    }
+  ]
+}

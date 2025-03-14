@@ -1,0 +1,40 @@
+{
+  "istilah": "kejadian",
+  "entri": "jadi1 » ke.ja.di.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jadi1 » ke.ja.di.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal jadinya; kelahiran: buku itu memuat cerita tentang ~ alam semesta"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jadi; tidak urung (tidak batal); dilangsungkan (tentang jual beli): sesudah tawar-menawar, ~ juga akhirnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "peristiwa dalam suatu drama yang dinyatakan dalam gerak dan dialog"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terjadi; sudah berlaku: keributan telah ~ di sana-sini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peristiwa; sesuatu yang terjadi: kita harus dapat mengambil hikmah dari setiap ~ itu"
+        }
+      ]
+    }
+  ]
+}

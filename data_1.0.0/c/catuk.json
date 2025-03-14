@@ -1,0 +1,71 @@
+{
+  "istilah": "catuk",
+  "entri": "ca.tuk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dicatuk",
+    "mencatuk",
+    "tercatuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.tuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "patuk (dengan paruh)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cencang (dengan parang dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ca.tuk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tukul besi besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tukul besi besar yang berparuh (untuk memecahkan batu, cadas, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ca.tuk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "takaran sebanyak isi sendok makan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "takaran sebanyak isi tempurung (batok)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran isi atau takaran (beras) yang sama dengan 1/8 cupak"
+        }
+      ]
+    },
+    {
+      "lema": "ca.tuk4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "tercatuk"
+        }
+      ]
+    }
+  ]
+}

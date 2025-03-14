@@ -1,0 +1,67 @@
+{
+  "istilah": "kaca",
+  "entri": "ka.ca1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkaca",
+    "berkaca-kaca",
+    "kekacaan",
+    "memperkaca",
+    "mengaca"
+  ],
+  "gabunganKata": [
+    "kaca air",
+    "kaca benggala",
+    "kaca buram",
+    "kaca es",
+    "kaca hias",
+    "kaca kristal",
+    "kaca kusam",
+    "kaca masir",
+    "kaca mozaik",
+    "kaca muka",
+    "kaca mulut",
+    "kaca patri",
+    "kaca pembakar",
+    "kaca pembesar",
+    "kaca riben",
+    "kaca spion",
+    "kaca susu"
+  ],
+  "peribahasa": [
+    "seperti kera mendapat bunga (seperti kera diberi kaca)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gelas",
+    "kataAsal": "kaca"
+  },
+  "data": [
+    {
+      "lema": "ka.ca1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang keras, biasanya bening dan mudah pecah (untuk jendela, botol, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cermin; kaca muka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "contoh; teladan: tokoh itu dapat kita jadikan -- dalam kehidupan kita"
+        }
+      ]
+    },
+    {
+      "lema": "ka.ca2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "muka (halaman buku): dari -- 15–20"
+        }
+      ]
+    }
+  ]
+}

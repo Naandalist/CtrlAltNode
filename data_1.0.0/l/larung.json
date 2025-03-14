@@ -1,0 +1,37 @@
+{
+  "istilah": "larung",
+  "entri": "la.rung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melarung",
+    "melarungkan",
+    "pelarungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "laruṅ"
+  },
+  "data": [
+    {
+      "lema": "la.rung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peti mayat yang tidak berdasar"
+        }
+      ]
+    },
+    {
+      "lema": "la.rung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melarung; melarungkan; pelarungan"
+        }
+      ]
+    }
+  ]
+}

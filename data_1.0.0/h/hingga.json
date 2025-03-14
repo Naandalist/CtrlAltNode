@@ -1,0 +1,38 @@
+{
+  "istilah": "hingga",
+  "entri": "hing.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhingga",
+    "memperhinggakan",
+    "menghinggakan",
+    "perhinggaan",
+    "terhingga"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hing.ga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batas penghabisan; batas: tidak ada --nya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "sampai: terasa sakit dari kaki -- perut; ia menunggu di rumah -- petang hari"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "sampai menjadi (atau sampai pada keadaan ...): ia menangis sepanjang malam -- bengkak kedua matanya"
+        }
+      ]
+    }
+  ]
+}

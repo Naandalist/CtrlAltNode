@@ -1,0 +1,35 @@
+{
+  "istilah": "segitiga",
+  "entri": "se.gi.ti.ga /sêgitiga/bentuk tidak baku: segi tiga",
+  "bentukTidakBaku": "segi tiga",
+  "kataTurunan": [
+    "bersegitiga"
+  ],
+  "gabunganKata": [
+    "segitiga sama kaki",
+    "segitiga sama sisi",
+    "segitiga siku-siku",
+    "segitiga taksama kaki"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.gi.ti.ga /sêgitiga/bentuk tidak baku: segi tiga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bidang yang bersisi tiga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bangun yang dibentuk dengan menghubungkan tiga buah titik P₁, P₂, dan P₃ yang tidak segaris (sebagai titik sudutnya) dengan ruas-ruas garis P₁ P₂, P₂ P₃, dan P₃ P₁"
+        }
+      ]
+    }
+  ]
+}

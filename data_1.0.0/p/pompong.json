@@ -1,0 +1,63 @@
+{
+  "istilah": "pompong",
+  "entri": "pom.pong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepompong",
+    "memompong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pom.pong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cumi-cumi kecil yang beracun"
+        }
+      ]
+    },
+    {
+      "lema": "pom.pong2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kepompong"
+        }
+      ]
+    },
+    {
+      "lema": "pom.pong3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kepompong"
+        }
+      ]
+    },
+    {
+      "lema": "pom.pong4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memompong"
+        }
+      ]
+    },
+    {
+      "lema": "pom.pong5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "perahu tradisional dari kayu yang digerakkan dengan tenaga diesel"
+        }
+      ]
+    }
+  ]
+}

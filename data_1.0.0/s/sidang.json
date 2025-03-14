@@ -1,0 +1,63 @@
+{
+  "istilah": "sidang",
+  "entri": "si.dang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersidang",
+    "menyidangkan",
+    "penyidangan",
+    "persidangan"
+  ],
+  "gabunganKata": [
+    "sidang adjudikasi",
+    "sidang hakim",
+    "sidang istimewa majelis",
+    "sidang jemaat",
+    "sidang Jumat",
+    "sidang kelompok",
+    "sidang komisi",
+    "sidang lengkap",
+    "sidang paripurna",
+    "sidang pembaca",
+    "sidang pendengar",
+    "sidang pengadilan",
+    "sidang pengarang",
+    "sidang pengurus",
+    "sidang perkabungan",
+    "sidang pleno",
+    "sidang ramai",
+    "sidang terbuka untuk umum",
+    "sidang tertutup untuk umum",
+    "sidang umum",
+    "sidang umum tahunan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.dang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertemuan untuk membicarakan sesuatu; rapat: -- itu dihadiri oleh semua anggota"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segenap anggota dewan dan sebagainya: -- hakim; -- pengarang; -- pengurus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang banyak; publik; para (untuk menyatakan banyak); sekalian: -- jemaah; -- pembaca (pendengar)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "dewan; majelis: -- perang"
+        }
+      ]
+    }
+  ]
+}

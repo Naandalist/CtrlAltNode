@@ -1,0 +1,45 @@
+{
+  "istilah": "jenak",
+  "entri": "je.nak1 /jênak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sejenak",
+    "menjenaki"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.nak1 /jênak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sejenak"
+        }
+      ]
+    },
+    {
+      "lema": "je.nak2 /jênak/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menjenaki"
+        }
+      ]
+    },
+    {
+      "lema": "je.nak3 /jênak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nyenyak; pulas (tentang tidur)"
+        }
+      ]
+    }
+  ]
+}

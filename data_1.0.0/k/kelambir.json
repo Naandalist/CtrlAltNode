@@ -1,0 +1,33 @@
+{
+  "istilah": "kelambir",
+  "entri": "ke.lam.bir1 /kêlambir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.lam.bir1 /kêlambir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kelapa; nyiur"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lam.bir2 /kêlambir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelambir"
+        }
+      ]
+    }
+  ]
+}

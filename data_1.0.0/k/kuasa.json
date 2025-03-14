@@ -1,0 +1,64 @@
+{
+  "istilah": "kuasa",
+  "entri": "ku.a.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkuasa",
+    "kekuasaan",
+    "menguasai",
+    "menguasakan",
+    "penguasa",
+    "penguasaan",
+    "sekuasa-kuasanya",
+    "sekuasanya",
+    "terkuasai"
+  ],
+  "gabunganKata": [
+    "kuasa lunak",
+    "kuasa meteorologi",
+    "kuasa pemegang saham",
+    "kuasa usaha"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pengait, kail, tongkat",
+    "kataAsal": "aṅkuśa"
+  },
+  "data": [
+    {
+      "lema": "ku.a.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemampuan atau kesanggupan (untuk berbuat sesuatu); kekuatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wewenang atas sesuatu atau untuk menentukan (memerintah, mewakili, mengurus, dan sebagainya) sesuatu: sekretaris tidak diberi -- untuk menandatangani surat yang penting itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengaruh (gengsi, kesaktian, dan sebagainya) yang ada pada seseorang karena jabatannya (martabatnya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mampu; sanggup: ia tiada -- mencegah perbuatan anaknya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang diserahi wewenang"
+        }
+      ]
+    },
+    {
+      "lema": "ku.a.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "angkusa; kusa: sambil memegang -- beremas, ia berdiri di samping gajah"
+        }
+      ]
+    }
+  ]
+}

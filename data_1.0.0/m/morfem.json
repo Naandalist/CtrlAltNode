@@ -1,0 +1,36 @@
+{
+  "istilah": "morfem",
+  "entri": "mor.fem",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "morfem bebas",
+    "morfem dasar",
+    "morfem dasar terikat",
+    "morfem gramatikal",
+    "morfem leksikal",
+    "morfem penyambung",
+    "morfem segmental",
+    "morfem suprasegmental",
+    "morfem terbagi",
+    "morfem terikat",
+    "morfem unik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mor.fem",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan bentuk bahasa terkecil yang mempunyai makna secara relatif stabil dan tidak dapat dibagi atas bagian bermakna yang lebih kecil"
+        }
+      ]
+    }
+  ]
+}

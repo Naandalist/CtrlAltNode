@@ -1,0 +1,33 @@
+{
+  "istilah": "slaber",
+  "entri": "sla.ber1 /slabêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sla.ber1 /slabêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celemek makan untuk bayi"
+        }
+      ]
+    },
+    {
+      "lema": "sla.ber2 /slabêr/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengepel (di rumah sakit)"
+        }
+      ]
+    }
+  ]
+}

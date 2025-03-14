@@ -1,0 +1,33 @@
+{
+  "istilah": "tom",
+  "entri": "tom1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tom1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tali kekang: karena kepandaiannya, joki itu tidak memegang tali -- kudanya"
+        }
+      ]
+    },
+    {
+      "lema": "tom2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat tarum"
+        }
+      ]
+    }
+  ]
+}

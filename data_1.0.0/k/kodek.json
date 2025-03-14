@@ -1,0 +1,32 @@
+{
+  "istilah": "kodek",
+  "entri": "ko.dek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.dek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangkat yang mengodekan dan mendekodekan sinyal elektronik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "sirkuit terpadu atau keping yang melakukan konversi dari analog ke digital dan sebaliknya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sarung; rok; bawahan"
+        }
+      ]
+    }
+  ]
+}

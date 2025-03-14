@@ -1,0 +1,30 @@
+{
+  "istilah": "translokasi",
+  "entri": "trans.lo.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertranslokasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trans.lo.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemindahan tempat; alih tempat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pemindahan makanan dalam tumbuhan dari tempat pembuatan atau penyimpanan ke tempat yang memerlukannya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "sumbar",
+  "entri": "sum.bar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersumbar",
+    "menyumbar",
+    "sesumbar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pembualan, sombong",
+    "kataAsal": "sumbar"
+  },
+  "data": [
+    {
+      "lema": "sum.bar1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyumbar"
+        }
+      ]
+    },
+    {
+      "lema": "Sum.bar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Sumatra Barat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "sarau",
+  "entri": "sa.rau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyaraukan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.rau1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "celaka; sial: aduh, -- anak ini"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rau2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keranjang besar"
+        }
+      ]
+    }
+  ]
+}

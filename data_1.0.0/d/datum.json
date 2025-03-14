@@ -1,0 +1,42 @@
+{
+  "istilah": "datum",
+  "entri": "da.tum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.tum1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanggal; hari bulan"
+        }
+      ]
+    },
+    {
+      "lema": "da.tum2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satu informasi; informasi tunggal; bentuk tunggal dari data"
+        }
+      ]
+    },
+    {
+      "lema": "da.tum3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "titik, garis, atau bidang yang digunakan sebagai acuan, seperti dalam pemetaan, topografi, atau geologi"
+        }
+      ]
+    }
+  ]
+}

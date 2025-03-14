@@ -1,0 +1,73 @@
+{
+  "istilah": "pucuk",
+  "entri": "pu.cuk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpucuk"
+  ],
+  "gabunganKata": [
+    "pucuk api",
+    "pucuk bulat",
+    "pucuk jala",
+    "pucuk lembaga",
+    "pucuk ombak",
+    "pucuk peko",
+    "pucuk rebung",
+    "pucuk surai",
+    "pucuk tanah",
+    "pucuk tebu"
+  ],
+  "peribahasa": [
+    "bagai pucuk (enau) dilancarkan (diluncurkan); bagai pucuk pisang didiang; hendak ulam, pucuk menjulai (pucuk dicinta ulam tiba); minta pucuk pada alu (menghendaki pucuk alu); pucuk dicinta, ulam tiba (hendak ulam pucuk menjulai); pucuk diremas dengan santan, urat direndam dengan tengguli, lamun peria pahit juga; pucuk layu disiram hujan; tak (ber) pucuk di atas enau"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "puncak, titik tertinggi atau terutama, awal atau akhir",
+    "kataAsal": "pucuk"
+  },
+  "data": [
+    {
+      "lema": "pu.cuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun muda (di puncak pohon atau di ujung ranting): -- merunggai; -- enau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujung yang runcing; puncak (pohon, ombak, dan sebagainya): -- api; -- jala; -- ombak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang tertinggi: -- bulat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggolong bilangan bagi benda yang ujungnya runcing (seperti jarum), surat, dan senjata api: satu -- surat; dua -- senapan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian tanaman muda yang ada di atas tanah terdiri atas batang, ranting, dan daun-daunan"
+        }
+      ]
+    },
+    {
+      "lema": "pu.cuk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akar tumbuhan yang dikeringkan untuk obat"
+        }
+      ]
+    },
+    {
+      "lema": "pu.cuk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "bunga kembang sepatu"
+        }
+      ]
+    }
+  ]
+}

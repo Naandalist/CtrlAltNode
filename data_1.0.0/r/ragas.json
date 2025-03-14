@@ -1,0 +1,45 @@
+{
+  "istilah": "ragas",
+  "entri": "ra.gas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meragas",
+    "meragas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gundul, tanpa daun (tentang pepohonan)",
+    "kataAsal": "ragas"
+  },
+  "data": [
+    {
+      "lema": "ra.gas1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cabut"
+        }
+      ]
+    },
+    {
+      "lema": "ra.gas2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "rambat"
+        }
+      ]
+    },
+    {
+      "lema": "ra.gas3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda bukti; tanda yang didapati: --nya bahwa ia mencuri ialah barang itu ditemukan di rumahnya"
+        }
+      ]
+    }
+  ]
+}

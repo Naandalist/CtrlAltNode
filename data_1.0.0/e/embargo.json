@@ -1,0 +1,38 @@
+{
+  "istilah": "embargo",
+  "entri": "em.bar.go",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengembargo",
+    "pengembargo"
+  ],
+  "gabunganKata": [
+    "embargo militer",
+    "embargo senjata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.bar.go",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyitaan sementara terhadap kapal-kapal asing, misalnya pada waktu perang, dengan maksud agar kapal-kapal itu tidak meninggalkan pelabuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "larangan lalu lintas barang (antarnegara)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "larangan menyiarkan berita sebelum waktu yang telah ditentukan"
+        }
+      ]
+    }
+  ]
+}

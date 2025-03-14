@@ -1,0 +1,42 @@
+{
+  "istilah": "datu",
+  "entri": "da.tu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kedatuan"
+  ],
+  "gabunganKata": [
+    "datu banan",
+    "datu petinggi",
+    "datu rawan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.tu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "raja; ratu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "orang yang pandai tentang ramu-ramuan obat; dukun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang keramat; orang yang telah meninggal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(huruf pertama kapital) gelar untuk bangsawan suku Bima yang merupakan keturunan raja"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "istilah": "syarah",
+  "entri": "sya.rah1",
+  "bentukTidakBaku": "syurahsarahan",
+  "kataTurunan": [
+    "bersyarah",
+    "mensyarahkan",
+    "pensyarah",
+    "pensyarahan",
+    "syarahan",
+    "syarahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penjelasan; kelapangan",
+    "kataAsal": "syarḥ"
+  },
+  "data": [
+    {
+      "lema": "sya.rah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "nafsu yang kuat terutama pada makanan; keinginan"
+        }
+      ]
+    },
+    {
+      "lema": "sya.rah2 bentuk tidak baku: syurah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan; uraian; ulasan; penjelasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pidato; ceramah"
+        }
+      ]
+    },
+    {
+      "lema": "sya.rah3 bentuk tidak baku: sarahan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "terbit (surat kabar, majalah, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

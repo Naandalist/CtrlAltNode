@@ -1,0 +1,43 @@
+{
+  "istilah": "negatif",
+  "entri": "ne.ga.tif1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kenegatifan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ne.ga.tif1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak pasti; tidak tentu; tanpa pernyataan: jawabannya masih --, belum positif"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang baik; menyimpang dari ukuran umum: lingkungan yang tercemar dapat mengakibatkan pengaruh -- terhadap kesehatan kita"
+        }
+      ]
+    },
+    {
+      "lema": "ne.ga.tif2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "film dari foto (potret) yang dipakai untuk memperbanyak foto"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabel yang aliran listriknya berpotensi lebih rendah: kabel positif jangan langsung kau hubungkan dengan kabel --"
+        }
+      ]
+    }
+  ]
+}

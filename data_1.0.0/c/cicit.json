@@ -1,0 +1,35 @@
+{
+  "istilah": "cicit",
+  "entri": "ci.cit1 bentuk tidak baku: cici1",
+  "bentukTidakBaku": "cici1",
+  "kataTurunan": [
+    "mencicit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pitu, cucu dari cucu",
+    "kataAsal": "cicik"
+  },
+  "data": [
+    {
+      "lema": "ci.cit1 bentuk tidak baku: cici1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "generasi keempat atau keturunan ketiga; anak dari cucu (secara berurutan: anak, cucu, cicit atau buyut, piut atau canggah, anggas); buyut"
+        }
+      ]
+    },
+    {
+      "lema": "ci.cit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi suara tikus atau anak burung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "saat",
+  "entri": "sa.at",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sesaat"
+  ],
+  "gabunganKata": [
+    "saat lepas landas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "waktu; kiamat",
+    "kataAsal": "sā‘ah"
+  },
+  "data": [
+    {
+      "lema": "sa.at",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu (yang pendek sekali); ketika: -- ini dia tinggal di Bandung; -- ini juga kita harus segera berangkat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "waktu yang bertalian dengan baik buruk (untung malang): -- yang nahas; -- yang sempurna"
+        }
+      ]
+    }
+  ]
+}

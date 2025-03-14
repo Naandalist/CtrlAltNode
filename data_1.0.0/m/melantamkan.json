@@ -1,0 +1,37 @@
+{
+  "istilah": "melantamkan",
+  "entri": "lantam1 » me.lan.tam.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lantam1 » me.lan.tam.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengatakan (menyerukan) dengan suara keras (kuat)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggembar-gemborkan; mengabar-ngabarkan"
+        }
+      ]
+    },
+    {
+      "lema": "lantam2 » me.lan.tam.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyombongkan; membangga-banggakan"
+        }
+      ]
+    }
+  ]
+}

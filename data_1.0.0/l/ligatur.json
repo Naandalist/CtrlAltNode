@@ -1,0 +1,36 @@
+{
+  "istilah": "ligatur",
+  "entri": "li.ga.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.ga.tur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "tanda untuk membayangkan dan menyanyikan dua atau beberapa nada yang sama tingginya sebagai satu tanda (tersambung tanpa terputus)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "huruf tercetak atau tertulis yang merupakan gabungan dua huruf atau lebih yang berlainan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benang yang dipakai untuk mengikat suatu organ berongga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengikatan unsur geligi dengan benang kawat dari logam"
+        }
+      ]
+    }
+  ]
+}

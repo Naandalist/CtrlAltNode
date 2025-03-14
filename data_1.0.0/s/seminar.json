@@ -1,0 +1,37 @@
+{
+  "istilah": "seminar",
+  "entri": "sinar1 » se.mi.nar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyeminarkan"
+  ],
+  "gabunganKata": [
+    "seminar web"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sinar1 » se.mi.nar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bersinar-sinar"
+        }
+      ]
+    },
+    {
+      "lema": "se.mi.nar2 /sêminar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertemuan atau persidangan untuk membahas suatu masalah di bawah pimpinan ahli (guru besar, pakar, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

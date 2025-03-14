@@ -1,0 +1,28 @@
+{
+  "istilah": "boplang",
+  "entri": "bop.lang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bop.lang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "susunan papan yang dipasang sekeliling pekerjaan galian tanah yang menunjukkan batas fondasi bangunan yang akan dibangun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "patok kayu atau besi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "besit",
+  "entri": "be.sit1 /bêsit/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membesit",
+    "terbesit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.sit1 /bêsit/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sebat (dengan rotan)"
+        }
+      ]
+    },
+    {
+      "lema": "be.sit2 /bêsit/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terbesit"
+        }
+      ]
+    }
+  ]
+}

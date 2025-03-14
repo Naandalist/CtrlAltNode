@@ -1,0 +1,24 @@
+{
+  "istilah": "parser",
+  "entri": "par.ser /parsêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "par.ser /parsêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mendeteksi kesalahan sintaksis pada program komputer"
+        }
+      ]
+    }
+  ]
+}

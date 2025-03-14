@@ -1,0 +1,41 @@
+{
+  "istilah": "lingkup",
+  "entri": "ling.kup1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melingkup",
+    "melingkupi",
+    "pelingkupan",
+    "terlingkup"
+  ],
+  "gabunganKata": [
+    "lingkup angin",
+    "lingkup ekologis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ling.kup1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menutup"
+        }
+      ]
+    },
+    {
+      "lema": "ling.kup2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "habis pergi (datang dan sebagainya) semuanya: orang sedesa -- ke lapangan untuk melihat pesawat terbang mendarat"
+        }
+      ]
+    }
+  ]
+}

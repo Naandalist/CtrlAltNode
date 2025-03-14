@@ -1,0 +1,46 @@
+{
+  "istilah": "sibuk",
+  "entri": "si.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersibuk",
+    "kesibukan",
+    "menyibukkan",
+    "menyibuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.buk1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "banyak yang dikerjakan: ayah tidak dapat hadir karena beliau sedang -- hari ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "giat dan rajin (mengerjakan sesuatu): dia sedang -- mengatur perjalanannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh dengan kegiatan (misalnya orang yang lalu-lalang, mobil-mobil bersimpang siur): pasar itu -- sekali; jalan raya sedang --"
+        }
+      ]
+    },
+    {
+      "lema": "si.buk2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menyibuk"
+        }
+      ]
+    }
+  ]
+}

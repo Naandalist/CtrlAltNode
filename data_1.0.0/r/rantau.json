@@ -1,0 +1,33 @@
+{
+  "istilah": "rantau",
+  "entri": "ran.tau",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merantau",
+    "perantau",
+    "perantauan",
+    "serantau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ran.tau",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pantai sepanjang teluk (sungai); pesisir (lawan darat): berlayar sepanjang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah (negeri) di luar daerah (negeri) sendiri atau daerah (negeri) di luar kampung halaman; negeri asing"
+        }
+      ]
+    }
+  ]
+}

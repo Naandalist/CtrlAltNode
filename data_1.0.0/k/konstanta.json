@@ -1,0 +1,34 @@
+{
+  "istilah": "konstanta",
+  "entri": "kon.stan.ta bentuk tidak baku: konstan2",
+  "bentukTidakBaku": "konstan2",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "konstanta dielektrik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.stan.ta bentuk tidak baku: konstan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "lambang untuk menyatakan objek yang sama dalam keseluruhan operasi matematika"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "tetapan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "entitas di dalam program yang nilainya tidak berubah selama eksekusi program"
+        }
+      ]
+    }
+  ]
+}

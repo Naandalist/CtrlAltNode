@@ -1,0 +1,61 @@
+{
+  "istilah": "tonggak",
+  "entri": "tong.gak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menonggak"
+  ],
+  "gabunganKata": [
+    "tonggak gantung",
+    "tonggak sejarah",
+    "tonggak tua"
+  ],
+  "peribahasa": [
+    "menyelami air dalam tonggak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tong.gak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balok (kayu, batu, dan sebagainya) yang dipasang tegak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiang (rumah, jembatan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pal (ukuran jauh 1.500 m)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tunggul (pangkal batang kayu yang masih tegak); sisa batang kayu yang sudah dipotong (yang ada di dalam air dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pokok; asal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang sangat pendiam"
+        }
+      ]
+    },
+    {
+      "lema": "tong.gak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menonggak"
+        }
+      ]
+    }
+  ]
+}

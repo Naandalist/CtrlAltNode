@@ -1,0 +1,46 @@
+{
+  "istilah": "kecoh",
+  "entri": "ke.coh1 bentuk tidak baku: kicuh",
+  "bentukTidakBaku": "kicuh",
+  "kataTurunan": [
+    "kecohan",
+    "mengecoh",
+    "mengecohkan",
+    "pengecoh",
+    "pengecohan",
+    "terkecoh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kicang-kecoh ciak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.coh1 bentuk tidak baku: kicuh",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lakukan tipu; akali; bohongi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tipu daya (terutama kecurangan yang merugikan orang, seperti barang palsu dikatakan tulen, mengurangi berat atau ukuran barang, mencampuri dengan barang yang kurang baik); tipu: kita harus teliti, jangan sampai kena --"
+        }
+      ]
+    },
+    {
+      "lema": "ke.coh2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gaduh; ribut"
+        }
+      ]
+    }
+  ]
+}

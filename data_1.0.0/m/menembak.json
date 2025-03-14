@@ -1,0 +1,43 @@
+{
+  "istilah": "menembak",
+  "entri": "tembak1 » me.nem.bak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "menembak beralamat, berkata bertujuan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tembak1 » me.nem.bak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melepaskan peluru dan sebagainya dari senjata api (senapan, meriam, dan sebagainya); membedil: ~ ke atas sebagai peringatan; ~ harimau"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyepak bola ke arah gawang: ia berhasil ~ ke sudut gawang"
+        }
+      ]
+    },
+    {
+      "lema": "tembak2 » me.nem.bak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menujukan; mengarahkan kepada; memaksudkan: siapa yang ~ dialah yang punya maksud"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menyambar (tentang petir): petir ~ bangunan yang tinggi itu"
+        }
+      ]
+    }
+  ]
+}

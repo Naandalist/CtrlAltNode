@@ -1,0 +1,24 @@
+{
+  "istilah": "engkong",
+  "entri": "eng.kong /êngkong/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kakek (dari pihak ayah)",
+    "kataAsal": "án kong"
+  },
+  "data": [
+    {
+      "lema": "eng.kong /êngkong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "kakek"
+        }
+      ]
+    }
+  ]
+}

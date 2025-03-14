@@ -1,0 +1,33 @@
+{
+  "istilah": "misbar",
+  "entri": "mis.bar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mis.bar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perpindahan pegawai antarinstansi"
+        }
+      ]
+    },
+    {
+      "lema": "mis.bar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "gerimis bubar"
+        }
+      ]
+    }
+  ]
+}

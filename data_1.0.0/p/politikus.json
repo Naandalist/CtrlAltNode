@@ -1,0 +1,28 @@
+{
+  "istilah": "politikus",
+  "entri": "po.li.ti.kus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.li.ti.kus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli politik; ahli kenegaraan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang berkecimpung dalam bidang politik"
+        }
+      ]
+    }
+  ]
+}

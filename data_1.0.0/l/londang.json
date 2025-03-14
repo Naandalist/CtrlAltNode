@@ -1,0 +1,33 @@
+{
+  "istilah": "londang",
+  "entri": "lon.dang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lon.dang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah jeluk berisi air dan lumpur; kubangan"
+        }
+      ]
+    },
+    {
+      "lema": "lon.dang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lundang"
+        }
+      ]
+    }
+  ]
+}

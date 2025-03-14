@@ -1,0 +1,42 @@
+{
+  "istilah": "permisi",
+  "entri": "per.mi.si /pêrmisi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memermisikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per.mi.si /pêrmisi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "izin; perkenan: kami sudah mendapat -- dari kepala jawatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(minta) maaf: --, saya mau keluar sebentar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minta izin: kalau tidak dapat bekerja, mesti -- dulu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minta (mohon) diri: --, saya akan pulang karena kepala saya pusing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tidak masuk bekerja (dengan izin): yang tidak masuk 6 orang, sakit 2 orang, dan -- 4 orang"
+        }
+      ]
+    }
+  ]
+}

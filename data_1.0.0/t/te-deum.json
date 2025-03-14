@@ -1,0 +1,33 @@
+{
+  "istilah": "te-deum",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "himne pujian Kristen untuk bersyukur kepada Tuhan"
+        }
+      ]
+    },
+    {
+      "lema": "Te-Deum",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "himne pujian Kristen untuk bersyukur kepada Tuhan"
+        }
+      ]
+    }
+  ]
+}

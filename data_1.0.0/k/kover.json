@@ -1,0 +1,35 @@
+{
+  "istilah": "kover",
+  "entri": "ko.ver1 /kovêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengover"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.ver1 /kovêr/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "liput"
+        }
+      ]
+    },
+    {
+      "lema": "ko.ver2 /kovêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampul; tutup pelindung"
+        }
+      ]
+    }
+  ]
+}

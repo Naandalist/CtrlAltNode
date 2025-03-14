@@ -1,0 +1,33 @@
+{
+  "istilah": "epitel",
+  "entri": "e.pi.tel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.pi.tel1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapisan sebelah atas kulit dan selaput lendir; jaringan sel, terdiri atas satu lapis atau lebih, yang menutup permukaan bebas dari tubuh dan beberapa alat tubuh"
+        }
+      ]
+    },
+    {
+      "lema": "e.pi.tel2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "kata atau frasa yang ditambahkan pada nama seseorang atau sesuatu untuk memerikan sifat khas nya; julukan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "pair",
+  "entri": "pa.ir1 bentuk tidak baku: payir",
+  "bentukTidakBaku": "payir",
+  "kataTurunan": [
+    "berpair-pair",
+    "memairi",
+    "pemair"
+  ],
+  "gabunganKata": [
+    "pair jantung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ir1 bentuk tidak baku: payir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu peronda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapal penjelajah"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal tidak berfungsi sebagaimana harusnya; payah"
+        }
+      ]
+    }
+  ]
+}

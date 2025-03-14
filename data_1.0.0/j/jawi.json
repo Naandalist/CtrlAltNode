@@ -1,0 +1,50 @@
+{
+  "istilah": "jawi",
+  "entri": "ja.wi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjawikan",
+    "jawi-jawi",
+    "jejawi"
+  ],
+  "gabunganKata": [
+    "jawi pekan"
+  ],
+  "peribahasa": [
+    "bagai jawi ditarik keluan; bagai jawi terkurung; dahulu bajak daripada jawi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Melayu; aksara Melayu; bahasa Melayu",
+    "kataAsal": "jāwī"
+  },
+  "data": [
+    {
+      "lema": "ja.wi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembu; sapi"
+        }
+      ]
+    },
+    {
+      "lema": "ja.wi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "Melayu: bahasa --; huruf --"
+        }
+      ]
+    },
+    {
+      "lema": "ja.wi3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "beringin yang banyak sekali akar tunjangnya dan banyak tumbuh di tepi sungai atau telaga; jejawi; jawi-jawi〔Ficus rhododendrifolia〕"
+        }
+      ]
+    }
+  ]
+}

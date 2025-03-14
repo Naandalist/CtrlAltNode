@@ -1,0 +1,49 @@
+{
+  "istilah": "limbang",
+  "entri": "lim.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melimbang",
+    "pelimbang",
+    "melimbang",
+    "pelimbang"
+  ],
+  "gabunganKata": [
+    "limbang tengah hari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "limbang"
+  },
+  "data": [
+    {
+      "lema": "lim.bang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melimbang"
+        }
+      ]
+    },
+    {
+      "lema": "lim.bang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melimbang; pelimbang"
+        }
+      ]
+    },
+    {
+      "lema": "lim.bang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cahaya tengah hari; rembang"
+        }
+      ]
+    }
+  ]
+}

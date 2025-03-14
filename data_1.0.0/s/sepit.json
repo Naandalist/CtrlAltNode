@@ -1,0 +1,40 @@
+{
+  "istilah": "sepit",
+  "entri": "se.pit /sêpit/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersepit",
+    "menyepit",
+    "penyepit",
+    "tersepit"
+  ],
+  "gabunganKata": [
+    "sepit api",
+    "sepit bara",
+    "sepit janggut",
+    "sepit kala"
+  ],
+  "peribahasa": [
+    "kuat ikan karena radai (kuat burung karena sayap, kuat ketam karena sepit); kuat ketam karena sepit; kuat ketam karena sepit, kuat burung karena sayap, kuat ikan karena radai; kuat sepit karena kempa"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mendekap, mengepal, menjepit",
+    "kataAsal": "sapit"
+  },
+  "data": [
+    {
+      "lema": "se.pit /sêpit/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menjepit yang terdiri atas dua batang yang dapat direnggangkan (dibuka) dan dijepitkan (seperti pinset)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat makan bagi orang Cina"
+        }
+      ]
+    }
+  ]
+}

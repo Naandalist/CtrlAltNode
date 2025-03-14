@@ -1,0 +1,43 @@
+{
+  "istilah": "tempoh",
+  "entri": "tem.poh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertempoh",
+    "menempohkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem.poh",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhenti (tidak bekerja lagi dan sebagainya): tidak -- (tidak --nya) dengan segera"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengaso; beristirahat: boleh -- sebentar kalau lelah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidak masuk kerja (bersekolah dan sebagainya): ia acap kali minta -- kepada atasannya; anak itu ditegur wali kelasnya karena -- lima hari"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "waktu -- (hari --) libur; vakansi: sekolah sedang --; waktu -- bulan puasa yang baru lalu ini mereka ke Bandung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bervakansi; berlibur: maksudnya hendak -- ke tempat dingin"
+        }
+      ]
+    }
+  ]
+}

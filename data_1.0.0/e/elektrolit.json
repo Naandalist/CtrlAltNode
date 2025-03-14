@@ -1,0 +1,31 @@
+{
+  "istilah": "elektrolit",
+  "entri": "e.lek.tro.lit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "elektrolit kuat",
+    "elektrolit lemah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.lek.tro.lit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "senyawa yang larutannya merupakan penghantar arus listrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bahan atau cairan yang terdapat di antara elektrode positif dan negatif, seperti pada baterai, aki mobil, dan kondensator"
+        }
+      ]
+    }
+  ]
+}

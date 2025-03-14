@@ -1,0 +1,36 @@
+{
+  "istilah": "lakur",
+  "entri": "la.kur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lakuran",
+    "melakur",
+    "melakurkan"
+  ],
+  "gabunganKata": [
+    "lakur baur",
+    "lakur biner",
+    "lakur zink"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.kur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Metal[Metalurgi: -]",
+          "deskripsi": "bercampur (tentang logam)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "logam campur; aloi1"
+        }
+      ]
+    }
+  ]
+}

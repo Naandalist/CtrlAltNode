@@ -1,0 +1,50 @@
+{
+  "istilah": "siung",
+  "entri": "si.ung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersiung",
+    "siungan",
+    "bersiung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gigi taring, gading",
+    "kataAsal": "siyuṅ"
+  },
+  "data": [
+    {
+      "lema": "si.ung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "taring: -- raksasa"
+        }
+      ]
+    },
+    {
+      "lema": "si.ung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong bagi bawang, dihitung per ulas: dua -- bawang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "anak atau kuncup samping umbi lapis yang tumbuh dari dasar umbi lapis yang lebih besar, seperti pada bawang putih"
+        }
+      ]
+    },
+    {
+      "lema": "si.ung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi lebah terbang, peluru melayang, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

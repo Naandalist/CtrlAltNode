@@ -1,0 +1,31 @@
+{
+  "istilah": "masygul",
+  "entri": "masy.gul bentuk tidak baku: masgul",
+  "bentukTidakBaku": "masgul",
+  "kataTurunan": [
+    "kemasygulan",
+    "memasygulkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang disibukkan",
+    "kataAsal": "masygūl"
+  },
+  "data": [
+    {
+      "lema": "masy.gul bentuk tidak baku: masgul",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersusah hati karena suatu sebab; sedih; murung: -- hatiku melihat penderitaan anak itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kesal; sebal: ia -- melihat pekerjaan pembantunya yang tidak beres itu"
+        }
+      ]
+    }
+  ]
+}

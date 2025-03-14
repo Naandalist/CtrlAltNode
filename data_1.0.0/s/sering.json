@@ -1,0 +1,67 @@
+{
+  "istilah": "sering",
+  "entri": "se.ring1 /sêring/bentuk tidak baku: saring3",
+  "bentukTidakBaku": "saring3",
+  "kataTurunan": [
+    "menyering",
+    "tersering",
+    "menyeringkan",
+    "sering-sering",
+    "menyering"
+  ],
+  "gabunganKata": [
+    "sering kali"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sering, terus-menerus",
+    "kataAsal": "sriṅ"
+  },
+  "data": [
+    {
+      "lema": "se.ring1 /sêring/bentuk tidak baku: saring3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "erat dan keras pilinannya (tentang tali, benang)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kedap dan kaku (tentang tenunan, anyaman)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kuat dan kaku (tentang kertas)"
+        }
+      ]
+    },
+    {
+      "lema": "se.ring2 /sêring/",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kerap; acap"
+        }
+      ]
+    },
+    {
+      "lema": "se.ring3 /sêring/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "ramping; langsing: badannya --; pinggangnya -- bak ketiding"
+        }
+      ]
+    },
+    {
+      "lema": "se.ring4 /sêring/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menyering"
+        }
+      ]
+    }
+  ]
+}

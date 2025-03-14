@@ -1,0 +1,40 @@
+{
+  "istilah": "tentangan",
+  "entri": "tentang » ten.tang.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tentang » ten.tang.an",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "dari hal: ~ menghilangnya pemuda itu dari kampung tidak seorang pun yang mengetahuinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "imbangan; padanan: kalau aku kalah, rumahkulah ~nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang menjadi bandingan (tanggungan): untuk uang pinjaman ini rumah yang menjadi ~nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perlawanan; penolakan; sanggahan: teorinya mendapat ~ hebat dari para ahli lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seberang; hadapan: hampir tiba saatnya bagi saya di ~ Tuhan karena penyakit yang kuderita tidak mungkin terobati lagi"
+        }
+      ]
+    }
+  ]
+}

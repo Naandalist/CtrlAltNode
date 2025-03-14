@@ -1,0 +1,36 @@
+{
+  "istilah": "profesional",
+  "entri": "pro.fe.si.o.nal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.fe.si.o.nal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersangkutan dengan profesi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "memerlukan kepandaian khusus untuk menjalankannya: ia seorang juru masak --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengharuskan adanya pembayaran untuk melakukannya (lawan amatir): pertandingan tinju --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang terlibat atau memenuhi kualifikasi dalam suatu profesi"
+        }
+      ]
+    }
+  ]
+}

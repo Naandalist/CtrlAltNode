@@ -1,0 +1,40 @@
+{
+  "istilah": "menjalar",
+  "entri": "jalar » men.ja.lar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jalar » men.ja.lar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjalan melata (tentang binatang yang panjang seperti ular): ular itu ~ di sela-sela akar pepohonan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merambat (tentang tumbuhan yang berpokok panjang seperti rotan): pohon rotan itu ~ ke mana-mana"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menular (tentang penyakit): penyakit kolera telah ~ ke seluruh kampung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merembet (tentang api): api ~ dari satu bangunan ke bangunan lain di sekitarnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meluas; merata: berita itu sudah ~ ke seluruh pelosok kota"
+        }
+      ]
+    }
+  ]
+}

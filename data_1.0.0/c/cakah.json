@@ -1,0 +1,35 @@
+{
+  "istilah": "cakah",
+  "entri": "ca.kah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencakah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.kah1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lebar (tentang sudut, cabang, kaki yang dilangkahkan)"
+        }
+      ]
+    },
+    {
+      "lema": "ca.kah2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lurus mendatar, tidak melengkung (tentang tanduk kerbau)"
+        }
+      ]
+    }
+  ]
+}

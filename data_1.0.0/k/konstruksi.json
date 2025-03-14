@@ -1,0 +1,47 @@
+{
+  "istilah": "konstruksi",
+  "entri": "kon.struk.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkonstruksi",
+    "mengonstruksi",
+    "pengonstruksian"
+  ],
+  "gabunganKata": [
+    "konstruksi absolut",
+    "konstruksi antipasif",
+    "konstruksi direktif",
+    "konstruksi eksosentris",
+    "konstruksi endosentris",
+    "konstruksi gambar latar",
+    "konstruksi konektif",
+    "konstruksi koordinatif",
+    "konstruksi modifikatif",
+    "konstruksi morfologis",
+    "konstruksi nonantipasif",
+    "konstruksi predikatif",
+    "konstruksi sintaktis",
+    "konstruksi subordinatif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.struk.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susunan (model, tata letak) suatu bangunan (jembatan, rumah, dan sebagainya): rumah itu kokoh karena --nya beton bertulang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "susunan dan hubungan kata dalam kalimat atau kelompok kata: makna suatu kata ditentukan oleh -- dalam kalimat atau kelompok kata"
+        }
+      ]
+    }
+  ]
+}

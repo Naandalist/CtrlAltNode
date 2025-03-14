@@ -1,0 +1,47 @@
+{
+  "istilah": "lemas",
+  "entri": "le.mas1 /lêmas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melemaskan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lemas, lunak, lentur, halus, lembut, lampai, lembek, lemas, lemah",
+    "kataAsal": "lěměs"
+  },
+  "data": [
+    {
+      "lema": "le.mas1 /lêmas/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah dilentukkan (tidak kaku); lentur: badannya -- sehingga mudah meniru segala gerakan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "susah bernapas atau tidak dapat bernapas (karena terkena asap gas, tenggelam dalam air, dan sebagainya): ia kedapatan mati -- dalam sumur mati"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak bertenaga; lemah: aku merasa -- sejak tadi pagi"
+        }
+      ]
+    },
+    {
+      "lema": "le.mas2 /lêmas/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "halus (tentang bahasa): karangan ini bahasanya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lemah lembut (tentang tingkah laku): gerak gadis itu dalam menari --"
+        }
+      ]
+    }
+  ]
+}

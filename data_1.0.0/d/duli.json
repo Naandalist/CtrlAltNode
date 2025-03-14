@@ -1,0 +1,48 @@
+{
+  "istilah": "duli",
+  "entri": "du.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berduli"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "debu, bubuk",
+    "kataAsal": "dhūli"
+  },
+  "data": [
+    {
+      "lema": "du.li1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "debu (tanah) yang melekat pada kaki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kaki: bercemar -- [1] berjalan kaki [2] pergi"
+        }
+      ]
+    },
+    {
+      "lema": "du.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kata kehormatan yang dipakai apabila berkata kepada raja atau berbicara tentang raja; baginda (seperti -- Syah Alam; -- Tuanku; -- Yang Dipertuan): ke bawah -- Baginda kepada Baginda; menjunjung -- [1] bersujud pada kaki Baginda [2] menyembah Baginda [3] menjunjung titah Baginda"
+        }
+      ]
+    },
+    {
+      "lema": "du.li3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Als[Alas: -]",
+          "deskripsi": "ruangan yang gelap gulita"
+        }
+      ]
+    }
+  ]
+}

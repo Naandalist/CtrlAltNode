@@ -1,0 +1,50 @@
+{
+  "istilah": "sandar",
+  "entri": "san.dar1 bentuk tidak baku: sender",
+  "bentukTidakBaku": "sender",
+  "kataTurunan": [
+    "bersandar",
+    "bersandaran",
+    "bersandarkan",
+    "menyandar",
+    "menyandari",
+    "menyandarkan",
+    "penyandar",
+    "penyandaran",
+    "persandaran",
+    "pesandaran",
+    "sandar-menyandar",
+    "sandaran",
+    "tersandar",
+    "menyandarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "hidup sandar-menyandar umpama aur dengan tebing"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "san.dar1 bentuk tidak baku: sender",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sangga; tumpu"
+        }
+      ]
+    },
+    {
+      "lema": "san.dar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang menjadi tanggungan utang: sepeda ini sebagai -- utangnya"
+        }
+      ]
+    }
+  ]
+}

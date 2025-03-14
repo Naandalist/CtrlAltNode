@@ -1,0 +1,32 @@
+{
+  "istilah": "editor",
+  "entri": "e.di.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "editor bahasa",
+    "editor pengelola",
+    "editor penyelia"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.di.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengedit naskah tulisan atau karangan yang akan diterbitkan dalam majalah, surat kabar, dan sebagainya; pengedit; penyunting"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "program yang berfungsi menciptakan berkas atau membuat perubahan pada berkas yang sudah ada"
+        }
+      ]
+    }
+  ]
+}

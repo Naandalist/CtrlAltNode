@@ -1,0 +1,44 @@
+{
+  "istilah": "taruk",
+  "entri": "ta.ruk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertaruk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.ruk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tunas tumbuhan (pohon, rumput); daun dan ranting (pucuk) yang tumbuh pada cabang dahan atau batang kayu: -- padi; -- anggur; -- kayu-kayuan"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ruk2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ taruh"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ruk3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "pukul; hantam"
+        }
+      ]
+    }
+  ]
+}

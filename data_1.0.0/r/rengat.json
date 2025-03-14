@@ -1,0 +1,38 @@
+{
+  "istilah": "rengat",
+  "entri": "re.ngat1 /rêngat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merengatkan",
+    "merengat"
+  ],
+  "gabunganKata": [
+    "rengat hati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "rěṅat"
+  },
+  "data": [
+    {
+      "lema": "re.ngat1 /rêngat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "retak bergaris hampir pecah: piring itu jatuh sampai --"
+        }
+      ]
+    },
+    {
+      "lema": "re.ngat2 /rêngat/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "merengat"
+        }
+      ]
+    }
+  ]
+}

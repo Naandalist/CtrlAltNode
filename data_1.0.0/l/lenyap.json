@@ -1,0 +1,45 @@
+{
+  "istilah": "lenyap",
+  "entri": "le.nyap1 /lênyap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelenyapan",
+    "melenyapkan",
+    "pelenyapan"
+  ],
+  "gabunganKata": [
+    "lenyap daratan"
+  ],
+  "peribahasa": [
+    "pulau sudah lenyap, daratan sudah tenggelam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.nyap1 /lênyap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak kelihatan lagi; tidak ada lagi; hilang; musnah: -- dari pandangan; perahu itu -- ditelan ombak"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak jaga lagi; nyenyak: -- tidurnya"
+        }
+      ]
+    },
+    {
+      "lema": "le.nyap2 /lênyap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "kembang kecipir"
+        }
+      ]
+    }
+  ]
+}

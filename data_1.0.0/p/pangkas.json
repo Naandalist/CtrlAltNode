@@ -1,0 +1,40 @@
+{
+  "istilah": "pangkas",
+  "entri": "pang.kas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpangkas",
+    "memangkas",
+    "pangkasan",
+    "pemangkas",
+    "pemangkasan",
+    "terpangkas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "paṅkas"
+  },
+  "data": [
+    {
+      "lema": "pang.kas1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berpangkas; memangkas; pangkasan; pemangkas; pemangkasan; terpangkas"
+        }
+      ]
+    },
+    {
+      "lema": "pang.kas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "fitur dalam program grafis untuk memotong bagian-bagian yang tidak perlu"
+        }
+      ]
+    }
+  ]
+}

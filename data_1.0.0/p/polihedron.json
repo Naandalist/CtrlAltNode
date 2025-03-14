@@ -1,0 +1,28 @@
+{
+  "istilah": "polihedron",
+  "entri": "po.li.hed.ron",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.li.hed.ron",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bangun yang dibatasi oleh segibanyak bidang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bentuk zadat yang bidang-bidang sisinya berupa segi banyak"
+        }
+      ]
+    }
+  ]
+}

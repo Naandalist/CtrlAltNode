@@ -1,0 +1,35 @@
+{
+  "istilah": "tablo",
+  "entri": "tab.lo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertablo"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tab.lo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertunjukan lakon tanpa gerak atau tanpa dialog"
+        }
+      ]
+    },
+    {
+      "lema": "tab.lo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "domba berbulu kuning kemerahan"
+        }
+      ]
+    }
+  ]
+}

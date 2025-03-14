@@ -1,0 +1,45 @@
+{
+  "istilah": "sita",
+  "entri": "si.ta1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyita",
+    "penyita",
+    "penyitaan",
+    "sitaan",
+    "tersita"
+  ],
+  "gabunganKata": [
+    "sita marital"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bersih, cerah, murni, putih",
+    "kataAsal": "sita"
+  },
+  "data": [
+    {
+      "lema": "si.ta1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tuntutan pengadilan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal mengambil dan menahan barang menurut keputusan pengadilan oleh alat negara (polisi dan sebagainya); pembeslahan"
+        }
+      ]
+    },
+    {
+      "lema": "si.ta2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "putih bersih: tanahnya perak -- sumarak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "model relasional",
+  "entri": "model1 » model relasional",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "model1 » model relasional",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "model data yang datanya diorganisasikan dalam relasi-relasi atau tabel-tabel dan diimplementasikan dalam sistem manajemen pangkalan data yang paling modern"
+        }
+      ]
+    }
+  ]
+}

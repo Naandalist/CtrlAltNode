@@ -1,0 +1,34 @@
+{
+  "istilah": "selapan",
+  "entri": "se.la.pan /sêlapan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "selapanan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.la.pan /sêlapan/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Mk[Minangkabau: -]",
+          "deskripsi": "delapan"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Sd[Sunda: -]",
+          "deskripsi": "sembilan"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Jw[Jawa: -]",
+          "deskripsi": "35 hari"
+        }
+      ]
+    }
+  ]
+}

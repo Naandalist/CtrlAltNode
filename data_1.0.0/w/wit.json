@@ -1,0 +1,35 @@
+{
+  "istilah": "wit",
+  "entri": "wit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "wit pengisi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "ruang antarhalaman buku atau majalah yang digunakan untuk proses pelipatan dan penjilidan"
+        }
+      ]
+    },
+    {
+      "lema": "WIT",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Waktu Indonesia Timur"
+        }
+      ]
+    }
+  ]
+}

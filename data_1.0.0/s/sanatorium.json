@@ -1,0 +1,32 @@
+{
+  "istilah": "sanatorium",
+  "entri": "sa.na.to.ri.um",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.na.to.ri.um",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah sakit yang juga berfungsi sebagai tempat merawat penderita penyakit paru-paru dengan kombinasi penyembuhan, diet, dan senam yang ketat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peristirahatan untuk menyembuhkan orang yang berpenyakit tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat penyembuhan orang yang berpenyakit kronis"
+        }
+      ]
+    }
+  ]
+}

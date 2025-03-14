@@ -1,0 +1,47 @@
+{
+  "istilah": "serpih",
+  "entri": "ser.pih1 /sêrpih/bentuk tidak baku: serpai",
+  "bentukTidakBaku": "serpaisepih",
+  "kataTurunan": [
+    "menyerpih",
+    "penyerpihan",
+    "serpihan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "mengata dulang paku serpih, mengata orang awak yang lebih"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ser.pih1 /sêrpih/bentuk tidak baku: serpai",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sumbing (terpotong) sedikit: giginya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(sobek dan sebagainya) kecil-kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepingan (serpihan, sobekan, dan sebagainya) kecil- kecil"
+        }
+      ]
+    },
+    {
+      "lema": "ser.pih2 /sêrpih/bentuk tidak baku: sepih",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "batuan berasal dari endapan tanah liat (mudah pecah)"
+        }
+      ]
+    }
+  ]
+}

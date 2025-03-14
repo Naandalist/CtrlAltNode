@@ -1,0 +1,33 @@
+{
+  "istilah": "uda",
+  "entri": "u.da1",
+  "bentukTidakBaku": "udo",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.da1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim] Jk[Melayu Jakarta: -] kp[kependekan]",
+          "deskripsi": "muda: pak --; mak --"
+        }
+      ]
+    },
+    {
+      "lema": "u.da2 bentuk tidak baku: udo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kakak (laki-laki); abang"
+        }
+      ]
+    }
+  ]
+}

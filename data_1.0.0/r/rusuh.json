@@ -1,0 +1,64 @@
+{
+  "istilah": "rusuh",
+  "entri": "ru.suh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerusuhan",
+    "merusuh",
+    "merusuhi",
+    "merusuhkan",
+    "perusuh",
+    "perusuhan",
+    "terusuh",
+    "berusuh",
+    "kerusuhan",
+    "memperusuh",
+    "merusuh",
+    "merusuhkan"
+  ],
+  "gabunganKata": [
+    "rusuh resah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kesulitan, kesukaran, gangguan",
+    "kataAsal": "rusuh"
+  },
+  "data": [
+    {
+      "lema": "ru.suh1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak aman karena banyak gangguan keamanan (seperti pencurian, perampokan, pembegalan): pada malam hari tidak ada kendaraan yang berani lewat di daerah yang -- itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kacau; ribut; gaduh; huru-hara: di negara yang -- itu sering timbul pemberontakan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak sopan (tentang kelakuan, perkataan, dan sebagainya); ceroboh: perkataannya kasar dan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat kasar (tentang permainan bola): kesebelasan kita tidak bermain -- seperti mereka"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak beraturan; tidak menurut aturan: anak ini -- makannya, apa saja dimakannya"
+        }
+      ]
+    },
+    {
+      "lema": "ru.suh2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "selalu gelisah (khawatir, sedih, susah), tidak tenteram hatinya: tenanglah jangan lekas -- hati"
+        }
+      ]
+    }
+  ]
+}

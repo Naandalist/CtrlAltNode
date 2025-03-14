@@ -1,0 +1,86 @@
+{
+  "istilah": "tukang",
+  "entri": "tu.kang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertukang",
+    "ketukangan",
+    "menukang",
+    "menukangi",
+    "pertukangan",
+    "tukang-menukang"
+  ],
+  "gabunganKata": [
+    "tukang air",
+    "tukang angsur",
+    "tukang bas",
+    "tukang catut",
+    "tukang copet",
+    "tukang cuci",
+    "tukang cukur",
+    "tukang dodos",
+    "tukang kaba",
+    "tukang kebut",
+    "tukang koran",
+    "tukang kredit",
+    "tukang kuda",
+    "tukang kunci",
+    "tukang loak",
+    "tukang loyang",
+    "tukang ojek",
+    "tukang pangkas",
+    "tukang pijit",
+    "tukang pos",
+    "tukang potret",
+    "tukang pukul",
+    "tukang rekening",
+    "tukang sampah",
+    "tukang sayur",
+    "tukang serobot",
+    "tukang sikari",
+    "tukang sulap",
+    "tukang sunat",
+    "tukang surat",
+    "tukang tadah",
+    "tukang temberang",
+    "tukang terang",
+    "tukang tilik",
+    "tukang ukur jalan",
+    "tukang urut"
+  ],
+  "peribahasa": [
+    "calak ganti asah (menanti tukang belum datang)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "tukang",
+    "kataAsal": "tōa kang"
+  },
+  "data": [
+    {
+      "lema": "tu.kang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mempunyai kepandaian dalam suatu pekerjaan tangan (dengan alat atau bahan yang tertentu): -- batu; -- besi; -- kayu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang pekerjaannya membuat (menjual, memperbaiki, dan sebagainya) sesuatu yang tentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang pekerjaannya melakukan sesuatu secara tetap: -- pangkas (cukur); -- las; -- jahit; -- masak; -- cetak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang biasa suka melakukan sesuatu (yang kurang baik): -- mabuk; -- serobot; -- copet; -- tadah; -- catut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ahli (untuk mencemoohkan): -- menciptakan sajak; -- pidato"
+        }
+      ]
+    }
+  ]
+}

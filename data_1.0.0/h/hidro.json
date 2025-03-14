@@ -1,0 +1,32 @@
+{
+  "istilah": "hidro",
+  "entri": "hid.ro",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hid.ro",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembangkit listrik yang menggunakan tekanan air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daya yang dihasilkan dengan menggunakan tekanan air"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kp[kependekan]",
+          "deskripsi": "hidroelektrik"
+        }
+      ]
+    }
+  ]
+}

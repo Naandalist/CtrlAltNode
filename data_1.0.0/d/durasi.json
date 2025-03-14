@@ -1,0 +1,36 @@
+{
+  "istilah": "durasi",
+  "entri": "du.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdurasi"
+  ],
+  "gabunganKata": [
+    "durasi inap"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "du.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lamanya sesuatu berlangsung; rentang waktu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "lamanya suatu bunyi diartikulasikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "waktu latihan yang direkomendasikan untuk menjaga kebugaran jasmani"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "kumal",
+  "entri": "ku.mal bentuk tidak baku: kumel",
+  "bentukTidakBaku": "kumel",
+  "kataTurunan": [
+    "mengumalkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pudar, suram",
+    "kataAsal": "kuměl"
+  },
+  "data": [
+    {
+      "lema": "ku.mal bentuk tidak baku: kumel",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "renyuk dan kotor (pakaian dan sebagainya); berkerut-kerut (seperti kertas direnyuk): sarung bantalnya -- karena sudah lama dipakai dan tidak pernah dicuci"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kotor dan lusuh: rambutnya -- dan tidak pernah disisir"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "berbunga",
+  "entri": "bunga1 » ber.bu.nga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bunga1 » ber.bu.nga",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai bunga: mangga itu sudah mulai ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai hiasan yang bagus-bagus: bajunya ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhasil: usaha kita sudah ~"
+        }
+      ]
+    },
+    {
+      "lema": "bunga2 » ber.bu.nga",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ada bunganya (rentenya): pinjaman ini tidak ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gadai dengan sejumlah uang sebagai bunga"
+        }
+      ]
+    }
+  ]
+}

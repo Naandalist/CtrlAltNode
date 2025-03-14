@@ -1,0 +1,33 @@
+{
+  "istilah": "sawud",
+  "entri": "sa.wud1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.wud1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penganan tradisional yang terbuat dari singkong yang diiris kasar dicampuri gula merah dikukus, ditaburi parutan kelapa muda"
+        }
+      ]
+    },
+    {
+      "lema": "sa.wud2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "ragam hias batik Cirebon berupa garis-garis kecil yang mengisi atau membentuk ragam hias yang lebih besar"
+        }
+      ]
+    }
+  ]
+}

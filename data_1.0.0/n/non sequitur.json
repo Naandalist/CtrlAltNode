@@ -1,0 +1,33 @@
+{
+  "istilah": "non sequitur",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "ucapan yang tidak ada hubungannya dengan apa yang telah lebih dahulu diucapkan"
+        }
+      ]
+    },
+    {
+      "lema": "non sequitur",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "ucapan yang tidak ada hubungannya dengan apa yang telah lebih dahulu diucapkan"
+        }
+      ]
+    }
+  ]
+}

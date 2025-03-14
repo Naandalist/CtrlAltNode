@@ -1,0 +1,32 @@
+{
+  "istilah": "yasmin",
+  "entri": "yas.min",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Belanda",
+    "arti": "tanaman yasmin",
+    "kataAsal": "jasmijn"
+  },
+  "data": [
+    {
+      "lema": "yas.min",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "melati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunga yasmin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minyak wangi yang dibuat dari bunga yasmin"
+        }
+      ]
+    }
+  ]
+}

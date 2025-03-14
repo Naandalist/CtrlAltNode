@@ -1,0 +1,53 @@
+{
+  "istilah": "embun",
+  "entri": "em.bun /êmbun/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berembun",
+    "embunan",
+    "memperembunkan",
+    "mengembun",
+    "mengembuni",
+    "mengembunkan",
+    "pengembun",
+    "pengembunan"
+  ],
+  "gabunganKata": [
+    "embun asap",
+    "embun beku",
+    "embun betina",
+    "embun jantan",
+    "embun jelaga",
+    "embun lebat",
+    "embun pagi",
+    "embun rintik",
+    "embun upas"
+  ],
+  "peribahasa": [
+    "embun di ujung rumput; malam berselimut embun, siang bertudung awan; siang bernapas, malam berembun (malam berselimut embun, siang bertudung awan); seperti embun di atas daun; seperti embun di ujung rumput"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.bun /êmbun/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "titik-titik air yang jatuh dari udara (terutama pada malam hari)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uap yang menjadi titik-titik air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "endapan tetes air yang terdapat pada benda dekat atau di permukaan tanah yang terbentuk akibat pengembunan uap air dari udara di sekitarnya"
+        }
+      ]
+    }
+  ]
+}

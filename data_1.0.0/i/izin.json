@@ -1,0 +1,47 @@
+{
+  "istilah": "izin",
+  "entri": "i.zin bentuk tidak baku: idzin, ijin",
+  "bentukTidakBaku": "idzin, ijin",
+  "kataTurunan": [
+    "berizin",
+    "keizinan",
+    "mengizinkan",
+    "perizinan",
+    "seizin",
+    "terizinkan"
+  ],
+  "gabunganKata": [
+    "izin edar",
+    "izin keluar",
+    "izin masuk",
+    "izin mendirikan bangunan",
+    "izin mengemudi",
+    "izin praktik",
+    "izin prinsip bank",
+    "izin terbit",
+    "izin tinggal tetap",
+    "izin usaha",
+    "izin usaha bank"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemberian kewenangan melakukan sesuatu",
+    "kataAsal": "iżn"
+  },
+  "data": [
+    {
+      "lema": "i.zin bentuk tidak baku: idzin, ijin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan mengabulkan (tidak melarang dan sebagainya); persetujuan membolehkan: ia telah mendapat -- untuk mendirikan perusahaan mebel"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "meminta izin; memohon izin: hari ini saya -- tidak masuk kuliah karena ada keperluan"
+        }
+      ]
+    }
+  ]
+}

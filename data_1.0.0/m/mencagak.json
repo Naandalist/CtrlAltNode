@@ -1,0 +1,36 @@
+{
+  "istilah": "mencagak",
+  "entri": "cagak1 » men.ca.gak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cagak1 » men.ca.gak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menopang (menahan) dengan cagak"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menunjang; menyokong"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tampak secara nyata (karena mencuat)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "berdiri bagaikan tiang (karena tertegun)"
+        }
+      ]
+    }
+  ]
+}

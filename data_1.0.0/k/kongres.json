@@ -1,0 +1,34 @@
+{
+  "istilah": "kongres",
+  "entri": "kong.res bentuk tidak baku: konggres",
+  "bentukTidakBaku": "konggres",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kongres luar biasa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kong.res bentuk tidak baku: konggres",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertemuan besar para wakil organisasi (politik, sosial, profesi) untuk mendiskusikan dan mengambil keputusan mengenai pelbagai masalah; muktamar; rapat besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertemuan wakil-wakil negara untuk membicarakan satu masalah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pol[Politik dan Pemerintahan: -]",
+          "deskripsi": "dewan legislatif yang terdiri atas senat dan dewan perwakilan di Amerika Serikat, yang pada dasarnya bertugas mengawasi dan mencocokkan kegiatan pemerintah"
+        }
+      ]
+    }
+  ]
+}

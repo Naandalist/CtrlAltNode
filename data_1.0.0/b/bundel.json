@@ -1,0 +1,43 @@
+{
+  "istilah": "bundel",
+  "entri": "bun.del1 /bundêl/bentuk tidak baku: bendel",
+  "bentukTidakBaku": "bendel",
+  "kataTurunan": [
+    "bundelan",
+    "membundel",
+    "pembundelan"
+  ],
+  "gabunganKata": [
+    "bundel surat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bun.del1 /bundêl/bentuk tidak baku: bendel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan beberapa benda yang sejenis diikat menjadi satu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berkas (surat-menyurat dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "bun.del2 /bundêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "simpul"
+        }
+      ]
+    }
+  ]
+}

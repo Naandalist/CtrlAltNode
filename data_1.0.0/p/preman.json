@@ -1,0 +1,41 @@
+{
+  "istilah": "preman",
+  "entri": "pre.man1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pre.man1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "partikelir; swasta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bukan tentara; sipil (tentang orang, pakaian, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepunyaan sendiri (tentang kendaraan dan sebagainya): orang -- orang sipil, bukan militer; mobil -- mobil pribadi (bukan mobil dinas); pakaian -- bukan pakaian seragam militer"
+        }
+      ]
+    },
+    {
+      "lema": "pre.man2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebutan kepada orang jahat (penodong, perampok, pemeras, dan sebagainya): petugas berpakaian -- mendekati tersangka"
+        }
+      ]
+    }
+  ]
+}

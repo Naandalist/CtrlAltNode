@@ -1,0 +1,33 @@
+{
+  "istilah": "pistol",
+  "entri": "pis.tol bentuk tidak baku: pestol",
+  "bentukTidakBaku": "pestol",
+  "kataTurunan": [
+    "berpistol",
+    "memistol",
+    "pistol-pistolan"
+  ],
+  "gabunganKata": [
+    "pistol air",
+    "pistol angin",
+    "pistol semen",
+    "pistol start"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pis.tol bentuk tidak baku: pestol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "senjata api genggam yang pendek dan kecil"
+        }
+      ]
+    }
+  ]
+}

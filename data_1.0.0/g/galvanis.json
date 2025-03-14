@@ -1,0 +1,33 @@
+{
+  "istilah": "galvanis",
+  "entri": "gal.va.nis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gal.va.nis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan galvanisasi"
+        }
+      ]
+    },
+    {
+      "lema": "gal.va.nis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang terdiri atas mesin dan dua elektroda aktif dan pasif yang dialiri arus searah, dapat mengubah larutan elektrolit menjadi ion positif atau negatif"
+        }
+      ]
+    }
+  ]
+}

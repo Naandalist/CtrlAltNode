@@ -1,0 +1,49 @@
+{
+  "istilah": "mencarak",
+  "entri": "carak1 » men.ca.rak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mencarak benak"
+  ],
+  "peribahasa": [
+    "mengisap (mencarak, mencucup) benak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "carak1 » men.ca.rak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meneguk (air) dengan mencucurkannya ke mulut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengisap (telur ayam mentah)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengambil secara berlebihan (untung dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "carak2 » men.ca.rak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mulai kelihatan (tentang matahari)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuka dan melihat (kartu)"
+        }
+      ]
+    }
+  ]
+}

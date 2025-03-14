@@ -1,0 +1,41 @@
+{
+  "istilah": "deuce",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "kartu atau dadu yang berangka dua"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -] Olr[Olahraga: -]",
+          "deskripsi": "angka yang sama-sama diperoleh kedua pihak sebelum salah satu di antaranya memenangkan pertandingan dengan dua angka lagi"
+        }
+      ]
+    },
+    {
+      "lema": "deuce",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "kartu atau dadu yang berangka dua"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -] [Olahraga: -]",
+          "deskripsi": "angka yang sama-sama diperoleh kedua pihak sebelum salah satu di antaranya memenangkan pertandingan dengan dua angka lagi"
+        }
+      ]
+    }
+  ]
+}

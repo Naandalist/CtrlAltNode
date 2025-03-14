@@ -1,0 +1,46 @@
+{
+  "istilah": "kusuk",
+  "entri": "ku.suk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkusuk",
+    "mengusuk",
+    "mengusuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.suk1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ khusuk"
+        }
+      ]
+    },
+    {
+      "lema": "ku.suk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "daun yang dipakai untuk menggosok badan pada waktu mandi"
+        }
+      ]
+    },
+    {
+      "lema": "ku.suk3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "usap"
+        }
+      ]
+    }
+  ]
+}

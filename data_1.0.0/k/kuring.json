@@ -1,0 +1,42 @@
+{
+  "istilah": "kuring",
+  "entri": "ku.ring1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.ring1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "coreng; loreng"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ring2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rakyat biasa; rakyat jelata"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ring3",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] Sd[Sunda: -]",
+          "deskripsi": "saya; aku"
+        }
+      ]
+    }
+  ]
+}

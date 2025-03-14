@@ -1,0 +1,104 @@
+{
+  "istilah": "seri",
+  "entri": "se.ri1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berseri",
+    "berseri",
+    "berseri-seri",
+    "menyerikan",
+    "perserian",
+    "menyeri"
+  ],
+  "gabunganKata": [
+    "seri tanah",
+    "seri balai",
+    "seri gunung",
+    "seri muka",
+    "seri panggung",
+    "seri pantai",
+    "seri wajah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.ri1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ceri"
+        }
+      ]
+    },
+    {
+      "lema": "se.ri2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rangkaian yang berturut-turut (tentang cerita, buku, peristiwa, dan sebagainya): -- karangan yang berkenaan dengan suasana politik luar negeri; -- prangko “Borobudur” telah diterbitkan; cerita Putri Duyung -- kedua; gambar -- gambar cerita yang berturut-turut; lampu -- rangkaian lampu yang dihubungkan secara seri (satu arus listrik); nomor -- [1] nomor yang berurutan (seperti pada uang kertas) [2] nomor urut"
+        }
+      ]
+    },
+    {
+      "lema": "se.ri1 /sêri/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cahaya; semarak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemuliaan; keindahan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cantik; bagus"
+        }
+      ]
+    },
+    {
+      "lema": "se.ri2 /sêri/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "yang mulia; sri"
+        }
+      ]
+    },
+    {
+      "lema": "se.ri3 /sêri/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menyeri"
+        }
+      ]
+    },
+    {
+      "lema": "se.ri4 /sêri/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "seimbang; tidak ada yang menang dan tidak ada yang kalah: pertandingan antara dua kesebelasan itu berakhir --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tukar-menukar barang dengan tidak memakai tambahan; tukar guling"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kedua belah pihak sama-sama mau"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pulang (kembali) pokok (tidak beruntung dan tidak rugi): kalau dijual dua juta rupiah, -- saja"
+        }
+      ]
+    }
+  ]
+}

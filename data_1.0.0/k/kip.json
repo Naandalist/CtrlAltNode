@@ -1,0 +1,42 @@
+{
+  "istilah": "kip",
+  "entri": "kip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kip1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kep1"
+        }
+      ]
+    },
+    {
+      "lema": "kip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang Laos"
+        }
+      ]
+    },
+    {
+      "lema": "KIP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kartu Indonesia pintar (diberikan sebagai penanda atau identitas penerima bantuan pendidikan PIP)"
+        }
+      ]
+    }
+  ]
+}

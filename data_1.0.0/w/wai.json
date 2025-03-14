@@ -1,0 +1,33 @@
+{
+  "istilah": "wai",
+  "entri": "wai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wai1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kata seru untuk menyatakan terkejut, heran, dan sebagainya: anakku, -- apa yang harus kita lakukan sekarang?"
+        }
+      ]
+    },
+    {
+      "lema": "wai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sungai; kali: -- Sekampung terletak di Lampung"
+        }
+      ]
+    }
+  ]
+}

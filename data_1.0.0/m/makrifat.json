@@ -1,0 +1,30 @@
+{
+  "istilah": "makrifat",
+  "entri": "mak.ri.fat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermakrifat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengetahuan; huruf al di awal kata sebagai tanda penentu",
+    "kataAsal": "ma‘rifah"
+  },
+  "data": [
+    {
+      "lema": "mak.ri.fat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tas[Tasawuf: -]",
+          "deskripsi": "tingkat penyerahan diri kepada Tuhan, yang naik setingkat demi setingkat sehingga sampai ke tingkat keyakinan yang kuat"
+        }
+      ]
+    }
+  ]
+}

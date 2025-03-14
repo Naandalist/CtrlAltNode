@@ -1,0 +1,84 @@
+{
+  "istilah": "sarap",
+  "entri": "sa.rap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyarap",
+    "sarapan",
+    "menyarap",
+    "menyarapi",
+    "menyarap",
+    "menyarapi",
+    "sarapan"
+  ],
+  "gabunganKata": [
+    "sarap ala Amerika",
+    "sarap kontinental",
+    "sarapan siang",
+    "sarap sampah"
+  ],
+  "peribahasa": [
+    "sarap sehelai dituilkan, batu sebuah digulingkan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.rap1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyarap"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampah daun-daun kering dan sebagainya; kotoran yang halus-halus (seperti debu)"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rap3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyarap"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rap4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit kulit pada anak-anak, terutama pada bayi"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rap5",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ saraf2"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rap6",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidak waras; gila"
+        }
+      ]
+    }
+  ]
+}

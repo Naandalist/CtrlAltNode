@@ -1,0 +1,31 @@
+{
+  "istilah": "mekanika",
+  "entri": "me.ka.ni.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mekanika kuantum",
+    "mekanika statistik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.ka.ni.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "cabang fisika mengenai gerak dan rehatnya benda dan penyebab gerak atau rehatnya benda itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang mesin-mesin"
+        }
+      ]
+    }
+  ]
+}

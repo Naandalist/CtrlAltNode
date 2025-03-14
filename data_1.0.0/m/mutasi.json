@@ -1,0 +1,42 @@
+{
+  "istilah": "mutasi",
+  "entri": "mu.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memutasikan",
+    "pemutasi",
+    "pemutasian"
+  ],
+  "gabunganKata": [
+    "mutasi adaptif",
+    "mutasi gen",
+    "mutasi maut",
+    "mutasi membalik",
+    "mutasi somatik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mu.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Adm[Administrasi dan Kepegawaian: -]",
+          "deskripsi": "pemindahan pegawai dari satu jabatan ke jabatan lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "perubahan yang terjadi mendadak dalam kromosom"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "perubahan dalam bentuk, kualitas, atau sifat lain"
+        }
+      ]
+    }
+  ]
+}

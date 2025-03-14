@@ -1,0 +1,36 @@
+{
+  "istilah": "kencur",
+  "entri": "ken.cur /kêncur/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kencur, Kaempferia galanga",
+    "kataAsal": "kěcur"
+  },
+  "data": [
+    {
+      "lema": "ken.cur /kêncur/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "terna berimpang yang berdaun hijau muda lonjong melebar, berbunga putih atau ungu, rimpangnya berkulit cokelat, berdaging putih, beraroma khas biasanya digunakan sebagai bahan rempah〔Kaempferia galanga〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "umbi kencur"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "belum banyak pengalaman; belum banyak mengetahui dunia luar: anak itu masih bau -- belum tahu liku-liku dunia ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "belum dewasa; di bawah umur: anak masih bau -- sudah berpacaran"
+        }
+      ]
+    }
+  ]
+}

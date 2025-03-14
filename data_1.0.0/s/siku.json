@@ -1,0 +1,49 @@
+{
+  "istilah": "siku",
+  "entri": "si.ku",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersiku",
+    "menyiku",
+    "menyikukan",
+    "siku-siku"
+  ],
+  "gabunganKata": [
+    "siku keluang"
+  ],
+  "peribahasa": [
+    "diraih siku ngilu, direngkuh lutut sakit; mengaut laba dengan siku; menggaut laba dengan siku; tidak makan siku-siku"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "siku, garis dengan lengkung yang tajam",
+    "kataAsal": "siku"
+  },
+  "data": [
+    {
+      "lema": "si.ku",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sendi tangan antara lengan atas dan lengan bawah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gagang (bedil); popor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sudut yang terjadi dari pertemuan dua garis yang tegak lurus satu sama lain; sudut 90°"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkakas tukang kayu yang berupa sudut 90° (berbentuk L dan T) untuk menentukan apakah bangunan dan sebagainya berdiri tegak lurus; siku-siku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belokan (kelokan) jalan yang merupakan sudut"
+        }
+      ]
+    }
+  ]
+}

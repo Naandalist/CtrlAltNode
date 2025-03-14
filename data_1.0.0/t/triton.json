@@ -1,0 +1,33 @@
+{
+  "istilah": "triton",
+  "entri": "tri.ton1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tri.ton1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "inti dari tritium"
+        }
+      ]
+    },
+    {
+      "lema": "Tri.ton2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "satelit milik Neptunus dengan diameter 2.700 km dan dikenal sebagai objek tata surya yang memiliki suhu permukaan paling dingin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "korosi",
+  "entri": "ko.ro.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.ro.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, perubahan, atau perusakan yang disebabkan oleh reaksi kimia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses kimia atau elektrokimia yang kompleks yang merusak logam melalui reaksi dengan lingkungannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "erosi kimia oleh oksigen (O₂) di udara yang menimbulkan batuan yang mengandung besi berkarat"
+        }
+      ]
+    }
+  ]
+}

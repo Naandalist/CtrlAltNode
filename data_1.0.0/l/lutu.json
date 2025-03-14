@@ -1,0 +1,37 @@
+{
+  "istilah": "lutu",
+  "entri": "lu.tu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melutu",
+    "berlutu",
+    "bersilutu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.tu1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "serang"
+        }
+      ]
+    },
+    {
+      "lema": "lu.tu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kotoran"
+        }
+      ]
+    }
+  ]
+}

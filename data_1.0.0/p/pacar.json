@@ -1,0 +1,47 @@
+{
+  "istilah": "pacar",
+  "entri": "pa.car1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpacar-pacaran",
+    "berpacaran",
+    "memacari",
+    "mempacari",
+    "pacaran"
+  ],
+  "gabunganKata": [
+    "pacar air",
+    "pacar cina",
+    "pacar keling"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "nama jenis pohon (GR dengan bunga wangi dan buah bulat kecil: pacar kuku: Lawsonia, daunnya digunakan untuk member warna merah kuku)",
+    "kataAsal": "pacar"
+  },
+  "data": [
+    {
+      "lema": "pa.car1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teman lawan jenis yang tetap dan mempunyai hubungan berdasarkan cinta kasih yang belum terikat perkawinan; kekasih"
+        }
+      ]
+    },
+    {
+      "lema": "pa.car2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "inai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun inai"
+        }
+      ]
+    }
+  ]
+}

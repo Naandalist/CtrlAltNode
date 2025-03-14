@@ -1,0 +1,33 @@
+{
+  "istilah": "id",
+  "entri": "id1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perayaan",
+    "kataAsal": "‘īd"
+  },
+  "data": [
+    {
+      "lema": "id1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari raya; perayaan: salat --"
+        }
+      ]
+    },
+    {
+      "lema": "id2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] kp[kependekan]",
+          "deskripsi": "idem"
+        }
+      ]
+    }
+  ]
+}

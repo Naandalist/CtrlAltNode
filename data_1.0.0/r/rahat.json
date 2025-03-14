@@ -1,0 +1,33 @@
+{
+  "istilah": "rahat",
+  "entri": "ra.hat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.hat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "roda penggulung benang pada alat pemintal benang"
+        }
+      ]
+    },
+    {
+      "lema": "ra.hat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengaso; jeda; beristirahat; rehat"
+        }
+      ]
+    }
+  ]
+}

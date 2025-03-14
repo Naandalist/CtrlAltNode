@@ -1,0 +1,49 @@
+{
+  "istilah": "suksesi",
+  "entri": "suk.se.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "suksesi primer",
+    "suksesi sekunder",
+    "suksesi ekologi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "suk.se.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggantian (terutama di lingkungan pimpinan tertinggi negara) karena pewarisan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses pergantian kepemimpinan sesuai dengan peraturan perundang-undangan yang berlaku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses pembentukan komunitas hutan alam beserta fungsi ekosistemnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perubahan, baik komposisi jenis, struktur, atau arsitektur, vegetasi dari waktu ke waktu"
+        }
+      ]
+    },
+    {
+      "lema": "suk.se.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "proses perubahan ekosistem dalam kurun waktu tertentu menuju ke arah lingkungan yang lebih teratur dan stabil"
+        }
+      ]
+    }
+  ]
+}

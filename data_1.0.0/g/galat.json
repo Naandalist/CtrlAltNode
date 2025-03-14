@@ -1,0 +1,54 @@
+{
+  "istilah": "galat",
+  "entri": "ga.lat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergalat"
+  ],
+  "gabunganKata": [
+    "galat absolut",
+    "galat acak",
+    "galat baku",
+    "galat kelola",
+    "galat keras",
+    "galat logika",
+    "galat mutlak",
+    "galat paritas",
+    "galat pembukuan",
+    "galat pemepatan",
+    "galat sintaks",
+    "galat transkripsi",
+    "galat transmisi",
+    "galat transposisi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kekeliruan",
+    "kataAsal": "galaṭ"
+  },
+  "data": [
+    {
+      "lema": "ga.lat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekeliruan; kesalahan; cacat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "nilai atau kondisi yang tidak konsisten dengan nilai yang benar, sesuai dengan yang ditentukan, atau nilai sesuai kondisi yang diharapkan"
+        }
+      ]
+    },
+    {
+      "lema": "ga.lat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "garam asam galat"
+        }
+      ]
+    }
+  ]
+}

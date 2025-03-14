@@ -1,0 +1,63 @@
+{
+  "istilah": "tingkat",
+  "entri": "ting.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertingkat",
+    "bertingkat-tingkat",
+    "meningkat",
+    "meningkat-ningkat",
+    "meningkatkan",
+    "peningkat",
+    "peningkatan",
+    "setingkat",
+    "tingkatan"
+  ],
+  "gabunganKata": [
+    "tingkat aktivitas enzim",
+    "tingkat aktivitas fisik",
+    "tingkat aspirasi",
+    "tingkat bunga bank",
+    "tingkat bunga efektif",
+    "tingkat bunga pemutus",
+    "tingkat eksesif",
+    "tingkat elatif",
+    "tingkat hasil internal",
+    "tingkat kelahiran",
+    "tingkat kerangsangan",
+    "tingkat keterangsangan",
+    "tingkat komparatif",
+    "tingkat konvensional",
+    "tingkat pemanasan",
+    "tingkat pemrosesan",
+    "tingkat peraduan",
+    "tingkat perbandingan",
+    "tingkat sintasan",
+    "tingkat superlatif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ting.kat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susunan yang berlapis-lapis atau berlenggek-lenggek seperti lenggek rumah, tumpuan pada tangga (jenjang): rumah tiga --; tangga lima belas --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tinggi rendah martabat (kedudukan, jabatan, kemajuan, peradaban, dan sebagainya); pangkat; derajat; taraf; kelas: duta besar sama --nya dengan menteri; pangkatnya lebih tinggi dua -- daripada sersan; tidak memandang -- dan golongan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batas waktu (masa); sempadan suatu peristiwa (proses, kejadian, dan sebagainya); babak(an); tahap: perundingan sudah sampai pada -- yang terakhir"
+        }
+      ]
+    }
+  ]
+}

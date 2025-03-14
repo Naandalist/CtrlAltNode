@@ -1,0 +1,35 @@
+{
+  "istilah": "sembrono",
+  "entri": "sem.bro.no /sêmbrono/bentuk tidak baku: semberono",
+  "bentukTidakBaku": "semberono",
+  "kataTurunan": [
+    "kesembronoan",
+    "menyembronokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sem.bro.no /sêmbrono/bentuk tidak baku: semberono",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kurang hati-hati; gegabah; ceroboh: kerjakan baik-baik, jangan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kurang sopan; agak kurang pantas (perbuatannya); berjenaka (tapi kurang sopan): memang ia sangat -- terhadap wanita"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "secara sembarangan: itulah kalau -- memilih baju"
+        }
+      ]
+    }
+  ]
+}

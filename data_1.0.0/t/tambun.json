@@ -1,0 +1,38 @@
+{
+  "istilah": "tambun",
+  "entri": "tam.bun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menambunkan",
+    "bertambun",
+    "menambun",
+    "tambunan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tam.bun1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gemuk (tentang manusia dan binatang); berisi (tentang tubuh): binatang yang dikebiri biasanya menjadi --; karena gembul dan kurang bergerak, tubuhnya makin --"
+        }
+      ]
+    },
+    {
+      "lema": "tam.bun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "timbun; longgok; tumpuk"
+        }
+      ]
+    }
+  ]
+}

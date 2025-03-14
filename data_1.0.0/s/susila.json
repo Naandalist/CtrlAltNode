@@ -1,0 +1,31 @@
+{
+  "istilah": "susila",
+  "entri": "su.si.la",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersusila",
+    "kesusilaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "luhur, baik, sopan; menyenangkan",
+    "kataAsal": "suśīla"
+  },
+  "data": [
+    {
+      "lema": "su.si.la",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "baik budi bahasanya; beradab; sopan: semua orang akan senang melihat remaja yang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesusilaan"
+        }
+      ]
+    }
+  ]
+}

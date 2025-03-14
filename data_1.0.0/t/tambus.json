@@ -1,0 +1,36 @@
+{
+  "istilah": "tambus",
+  "entri": "tam.bus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menambus",
+    "tertambus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tam.bus1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menambus"
+        }
+      ]
+    },
+    {
+      "lema": "tam.bus2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ timbus"
+        }
+      ]
+    }
+  ]
+}

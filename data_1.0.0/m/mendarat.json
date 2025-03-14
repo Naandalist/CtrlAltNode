@@ -1,0 +1,40 @@
+{
+  "istilah": "mendarat",
+  "entri": "darat » men.da.rat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "darat » men.da.rat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "turun dari kapal (perahu) dan naik ke darat: sepasukan marinir ~ di Pantai Cilacap"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "turun ke tanah (tentang pesawat terbang): pesawat terbang itu tidak dapat ~ karena kabut sangat tebal"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menuju daerah pedalaman: dari Pontianak mereka terus ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mengenai: sebuah pukulan keras ~ di pelipis Muhammad Ali"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -] ki[kiasan]",
+          "deskripsi": "berjalan di darat: lebih aman kita ~ saja daripada naik perahu"
+        }
+      ]
+    }
+  ]
+}

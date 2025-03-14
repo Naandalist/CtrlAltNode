@@ -1,0 +1,31 @@
+{
+  "istilah": "tinjau",
+  "entri": "tin.jau",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertinjau-tinjauan",
+    "meninjau",
+    "peninjau",
+    "peninjauan",
+    "tinjau-meninjau",
+    "tinjauan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "melihat, memandang, mengawasi, meninjau, menjadi penonton",
+    "kataAsal": "tiñjo"
+  },
+  "data": [
+    {
+      "lema": "tin.jau",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meninjau"
+        }
+      ]
+    }
+  ]
+}

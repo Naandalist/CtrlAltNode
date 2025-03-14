@@ -1,0 +1,30 @@
+{
+  "istilah": "map",
+  "entri": "map",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "map dokumen"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "map",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampul dari kertas tebal untuk menyimpan lembar-lembar surat dan sebagainya: dia mengepit -- berisi surat-surat keterangan, ijazah, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "direktori tempat menyimpan berkas"
+        }
+      ]
+    }
+  ]
+}

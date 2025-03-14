@@ -1,0 +1,45 @@
+{
+  "istilah": "tohok",
+  "entri": "to.hok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menohok",
+    "menohokkan",
+    "tertohok"
+  ],
+  "gabunganKata": [
+    "tohok telak"
+  ],
+  "peribahasa": [
+    "tohok lembing ke semak; tohok raja tidak dapat dielakkan; tohok tunggang ke buruh (ke bawah)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "senjata tikam/tusuk",
+    "kataAsal": "tuhuk"
+  },
+  "data": [
+    {
+      "lema": "to.hok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempuling yang diberi tali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tusukan tombak (tempuling dan sebagainya) miring dengan arah ke bawah"
+        }
+      ]
+    },
+    {
+      "lema": "to.hok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama gugus bintang yang berbentuk seperti salib di sebelah selatan; bintang pari"
+        }
+      ]
+    }
+  ]
+}

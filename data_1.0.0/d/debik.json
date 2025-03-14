@@ -1,0 +1,36 @@
+{
+  "istilah": "debik",
+  "entri": "de.bik1 /dêbik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendebik",
+    "mendebik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.bik1 /dêbik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi tepukan"
+        }
+      ]
+    },
+    {
+      "lema": "de.bik2 /dêbik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "embik"
+        }
+      ]
+    }
+  ]
+}

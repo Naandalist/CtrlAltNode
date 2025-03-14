@@ -1,0 +1,37 @@
+{
+  "istilah": "decap",
+  "entri": "de.cap1 /dêcap/bentuk tidak baku: decah",
+  "bentukTidakBaku": "decah",
+  "kataTurunan": [
+    "berdecap-decap",
+    "mendecap-decap",
+    "mendecap-decap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.cap1 /dêcap/bentuk tidak baku: decah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi orang mengecap makan"
+        }
+      ]
+    },
+    {
+      "lema": "de.cap2 /dêcap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "denyar"
+        }
+      ]
+    }
+  ]
+}

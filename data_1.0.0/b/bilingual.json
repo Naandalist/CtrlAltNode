@@ -1,0 +1,32 @@
+{
+  "istilah": "bilingual",
+  "entri": "bi.li.ngu.al",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.li.ngu.al",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mampu atau biasa memakai dua bahasa dengan baik; dwibahasa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersangkutan dengan atau mengandung dua bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mampu atau biasa memakai dua bahasa dengan baik; dwibahasawan: menjadikan anak Anda seorang -- atau multilingual bukanlah hal yang mustahil"
+        }
+      ]
+    }
+  ]
+}

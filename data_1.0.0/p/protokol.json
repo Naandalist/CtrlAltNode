@@ -1,0 +1,55 @@
+{
+  "istilah": "protokol",
+  "entri": "pro.to.kol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keprotokolan"
+  ],
+  "gabunganKata": [
+    "protokol gerbang internet",
+    "protokol internet",
+    "protokol komunikasi",
+    "protokol konfigurasi hos dinamik",
+    "protokol pemindahan berkas",
+    "protokol pencetak internet",
+    "protokol pengangkat",
+    "protokol resolusi alamat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.to.kol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat-surat resmi yang memuat hasil perundingan (persetujuan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peraturan upacara di istana kepala negara atau berkenaan dengan penyambutan tamu-tamu negara dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tata cara (upacara dan sebagainya) yang secara internasional berlaku dalam hubungan diplomatik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang yang bertugas mengatur jalannya upacara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "aturan yang mengatur peraturan pesan dalam jejaring komunikasi atau antara dua atau lebih peranti"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rangkaian prosedur atau tindakan terperinci: -- kesehatan"
+        }
+      ]
+    }
+  ]
+}

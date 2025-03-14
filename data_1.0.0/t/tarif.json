@@ -1,0 +1,55 @@
+{
+  "istilah": "tarif",
+  "entri": "ta.rif bentuk tidak baku: tarip",
+  "bentukTidakBaku": "tarip",
+  "kataTurunan": [
+    "bertarif",
+    "menarifkan",
+    "penarifan"
+  ],
+  "gabunganKata": [
+    "tarif biasa",
+    "tarif dasar",
+    "tarif empiris",
+    "tarif iklan",
+    "tarif kerugian",
+    "tarif konfidensial",
+    "tarif lewat waktu",
+    "tarif manual",
+    "tarif morbiditas",
+    "tarif premi",
+    "tarif premi reasuransi",
+    "tarif premi standar",
+    "tarif premi substandar",
+    "tarif promo",
+    "tarif promosi",
+    "tarif terkenakan",
+    "tarif tetap",
+    "tarif wisata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.rif bentuk tidak baku: tarip",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "harga satuan jasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aturan pungutan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daftar bea masuk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "sarut",
+  "entri": "sa.rut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyarut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.rut1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "marut (carut-marut)"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rut2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyarut"
+        }
+      ]
+    }
+  ]
+}

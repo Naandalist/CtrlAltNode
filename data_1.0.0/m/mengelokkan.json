@@ -1,0 +1,37 @@
+{
+  "istilah": "mengelokkan",
+  "entri": "elok » meng.elok.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "elok » meng.elok.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadikan elok"
+        }
+      ]
+    },
+    {
+      "lema": "kelok » me.nge.lok.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membengkokkan: pekerja bengkel sedang ~ besi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membelokkan: pengemudi bus ~ kendaraannya ke arah kiri"
+        }
+      ]
+    }
+  ]
+}

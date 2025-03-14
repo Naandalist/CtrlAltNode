@@ -1,0 +1,33 @@
+{
+  "istilah": "bo",
+  "entri": "bo",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "istilah untuk naskah Bima yang mengacu pada catatan harian Kerajaan Bima, misalnya Bo Sangaji Kae"
+        }
+      ]
+    },
+    {
+      "lema": "BO",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Film[Perfilman: -] sing[singkatan]",
+          "deskripsi": "bimbingan orang tua"
+        }
+      ]
+    }
+  ]
+}

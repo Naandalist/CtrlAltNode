@@ -1,0 +1,37 @@
+{
+  "istilah": "rambak",
+  "entri": "ram.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merambak",
+    "merambakkan",
+    "merambak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "terapung-apung, sebagian ada di permukaan air, bermain-main di dalam air",
+    "kataAsal": "rambak"
+  },
+  "data": [
+    {
+      "lema": "ram.bak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jalar"
+        }
+      ]
+    },
+    {
+      "lema": "ram.bak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerupuk yang dibuat dari kulit lembu atau kulit kerbau; kerupuk kulit"
+        }
+      ]
+    }
+  ]
+}

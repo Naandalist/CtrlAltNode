@@ -1,0 +1,33 @@
+{
+  "istilah": "dolok",
+  "entri": "do.lok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "do.lok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "gunung"
+        }
+      ]
+    },
+    {
+      "lema": "do.lok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "potongan batang kayu yang belum dibelah"
+        }
+      ]
+    }
+  ]
+}

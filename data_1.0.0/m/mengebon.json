@@ -1,0 +1,32 @@
+{
+  "istilah": "mengebon",
+  "entri": "bon1 » me.nge.bon",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bon1 » me.nge.bon",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengambil atau meminjam barang atau uang yang akan dikembalikan atau dibayar kemudian dengan menyerahkan surat berisi keterangan pengambilan atau peminjaman"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Olr[Olahraga: -]",
+          "deskripsi": "mengambil atau meminjam pemain (sepak bola dan sebagainya) dari perkumpulan lain"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengambil (meminjam) terdakwa (tersangka) untuk dimintai keterangan dan sebagainya: pengacara ~ tersangka dari pihak kepolisian"
+        }
+      ]
+    }
+  ]
+}

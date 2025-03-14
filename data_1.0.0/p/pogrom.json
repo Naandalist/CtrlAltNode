@@ -1,0 +1,28 @@
+{
+  "istilah": "pogrom",
+  "entri": "pog.rom",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pog.rom",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembunuhan besar-besaran terhadap orang Yahudi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembunuhan besar-besaran terhadap suatu bangsa"
+        }
+      ]
+    }
+  ]
+}

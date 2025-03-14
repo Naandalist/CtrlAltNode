@@ -1,0 +1,33 @@
+{
+  "istilah": "petuk",
+  "entri": "pe.tuk1 /pêtuk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.tuk1 /pêtuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat keterangan pemerintah yang menunjukkan jumlah milik seseorang untuk menentukan pajak"
+        }
+      ]
+    },
+    {
+      "lema": "pe.tuk2 /pêtuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat gamelan jenis ketuk (dalam gamelan Jawa), dimainkan secara berpasangan"
+        }
+      ]
+    }
+  ]
+}

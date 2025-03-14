@@ -1,0 +1,24 @@
+{
+  "istilah": "hipernim",
+  "entri": "hi.per.nim /hipêrnim/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.per.nim /hipêrnim/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata yang memiliki makna lebih luas dan meliputi makna dari beberapa kata yang lebih khusus, misalnya hewan adalah hipernim dari kucing, anjing, dan kambing"
+        }
+      ]
+    }
+  ]
+}

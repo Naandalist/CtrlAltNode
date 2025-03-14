@@ -1,0 +1,40 @@
+{
+  "istilah": "sembir",
+  "entri": "sem.bir1 /sêmbir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sembiran",
+    "menyembir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sem.bir1 /sêmbir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepi atau pinggir (piring, dulang, pinggan, surat, dan sebagainya) yang seakan-akan merupakan lajur atau pias"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sanding atau segi (pada buah belimbing dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "sem.bir2 /sêmbir/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menyembir"
+        }
+      ]
+    }
+  ]
+}

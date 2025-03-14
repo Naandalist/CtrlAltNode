@@ -1,0 +1,46 @@
+{
+  "istilah": "bide",
+  "entri": "bi.de1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.de1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gor[Gorontalo: -]",
+          "deskripsi": "sarung pengantin perempuan yang pada kedua sisinya terdapat hiasan berderet teratur ke bawah, bagian depannya terbuka, tetapi masih terdapat selapis kain di bagian dalamnya"
+        }
+      ]
+    },
+    {
+      "lema": "bi.de2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "tempat awal mula suatu perbuatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "langkah awal dari semua kegiatan"
+        }
+      ]
+    },
+    {
+      "lema": "bi.de /bidê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "belahan bambu untuk menjepit batang padi yang belum dipanen agar tidak merembet ke jalan dan agar butirnya tidak rontok"
+        }
+      ]
+    }
+  ]
+}

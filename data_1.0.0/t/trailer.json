@@ -1,0 +1,33 @@
+{
+  "istilah": "trailer",
+  "entri": "trai.ler1 /trailêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trai.ler1 /trailêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kendaraan pengangkut barang berat (besar), biasanya panjang dan beroda banyak (lebih dari empat)"
+        }
+      ]
+    },
+    {
+      "lema": "trai.ler2 /trailêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Film[Perfilman: -]",
+          "deskripsi": "cuplikan adegan dalam film yang akan dipromosikan"
+        }
+      ]
+    }
+  ]
+}

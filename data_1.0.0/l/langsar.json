@@ -1,0 +1,44 @@
+{
+  "istilah": "langsar",
+  "entri": "lang.sar1",
+  "bentukTidakBaku": "lansar",
+  "kataTurunan": [
+    "melangsar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.sar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kecil (sempit) panjang; panjang ramping: badannya --"
+        }
+      ]
+    },
+    {
+      "lema": "lang.sar2 bentuk tidak baku: lansar",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melangsar"
+        }
+      ]
+    },
+    {
+      "lema": "lang.sar3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "beruntung; berbahagia"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "tarung",
+  "entri": "ta.rung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertarung",
+    "bertarungan",
+    "mempertarungkan",
+    "menarung",
+    "menarungkan",
+    "penarung",
+    "pertarungan",
+    "petarung",
+    "tertarung"
+  ],
+  "gabunganKata": [
+    "tarung drajat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pertentangan",
+    "kataAsal": "taruṅ"
+  },
+  "data": [
+    {
+      "lema": "ta.rung",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menarung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "istilah": "kecut",
+  "entri": "ke.cut1 /kêcut/",
+  "bentukTidakBaku": "kucut",
+  "kataTurunan": [
+    "kekecutan",
+    "kepengecutan",
+    "mengecut",
+    "mengecutkan",
+    "pengecut"
+  ],
+  "gabunganKata": [
+    "kecut hati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.cut1 /kêcut/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kedut; kerut; lisut"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkerut (tentang kulit tubuh dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "takut; merasa ngeri; gentar (tentang hati, perasaan, dan sebagainya): ketika melihat Pangeran ikut ambil bagian dalam sayembara itu, semua putra mahkota yang datang bertanding merasa -- dan putus asa"
+        }
+      ]
+    },
+    {
+      "lema": "ke.cut2 /kêcut/bentuk tidak baku: kucut",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "masam (seperti rasa cuka): gulai ini enak sekali, terasa benar -- pedasnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "cemberut; keruh (tentang muka dan sebagainya): -- saja air mukanya pagi ini"
+        }
+      ]
+    }
+  ]
+}

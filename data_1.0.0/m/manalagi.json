@@ -1,0 +1,33 @@
+{
+  "istilah": "manalagi",
+  "entri": "ma.na.la.gi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.na.la.gi1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata tanya untuk meminta jawaban yang berupa tambahan (hal); apalagi"
+        }
+      ]
+    },
+    {
+      "lema": "ma.na.la.gi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mangga yang besar agak panjang serta manis rasanya"
+        }
+      ]
+    }
+  ]
+}

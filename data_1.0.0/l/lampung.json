@@ -1,0 +1,54 @@
+{
+  "istilah": "lampung",
+  "entri": "lam.pung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melampung",
+    "pelampung"
+  ],
+  "gabunganKata": [
+    "Lampung Barat",
+    "Lampung Selatan",
+    "Lampung Tengah",
+    "Lampung Timur",
+    "Lampung Utara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lam.pung1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melampung; pelampung"
+        }
+      ]
+    },
+    {
+      "lema": "Lam.pung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "provinsi di Pulau Sumatra, beribu kota Bandar Lampung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa di Provinsi Lampung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah di Kabupaten Luwu dan Kabupaten Majene, Provinsi Sulawesi Selatan; Tolampung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh masyarakat suku Lampung"
+        }
+      ]
+    }
+  ]
+}

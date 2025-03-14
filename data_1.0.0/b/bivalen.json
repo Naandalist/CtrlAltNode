@@ -1,0 +1,32 @@
+{
+  "istilah": "bivalen",
+  "entri": "bi.va.len",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.va.len",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Kim[Kimia: -]",
+          "deskripsi": "memiliki dua valensi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bio[Biologi: -]",
+          "deskripsi": "berkaitan dengan asosiasi dua kromosom homolog"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "sepasang kromosom, terutama saat meiosis"
+        }
+      ]
+    }
+  ]
+}

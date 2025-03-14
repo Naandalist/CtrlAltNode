@@ -1,0 +1,42 @@
+{
+  "istilah": "bererot",
+  "entri": "erot2 » ber.e.rot",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "erot2 » ber.e.rot",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "berduyun-duyun; berderet-deret"
+        }
+      ]
+    },
+    {
+      "lema": "rerot » be.re.rot",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjalan beriring-iring (berduyun-duyun)"
+        }
+      ]
+    },
+    {
+      "lema": "be.re.rot /bêrerot/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ rerot"
+        }
+      ]
+    }
+  ]
+}

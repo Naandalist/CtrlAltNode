@@ -1,0 +1,32 @@
+{
+  "istilah": "fonemis",
+  "entri": "fo.ne.mis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fo.ne.mis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersangkutan dengan fonem"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersangkutan dengan fonemik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbeda dipandang dari sudut bahasa (dikatakan tentang bunyi-bunyi yang berbeda karena mampu menyatakan kontras makna)"
+        }
+      ]
+    }
+  ]
+}

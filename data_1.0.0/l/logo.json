@@ -1,0 +1,44 @@
+{
+  "istilah": "logo",
+  "entri": "lo.go1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlogo"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.go1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf atau lambang yang mengandung makna, terdiri atas satu kata atau lebih sebagai lambang atau nama perusahaan dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "lo.go2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "mainan anak-anak terbuat dari tempurung dibentuk bundar atau seperti layang-layang, diletakkan di tanah dan dilentingkan dengan sebilah bambu ke milik lawan"
+        }
+      ]
+    },
+    {
+      "lema": "Lo.go3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman yang digunakan dalam mengajar pemrograman kepada anak-anak"
+        }
+      ]
+    }
+  ]
+}

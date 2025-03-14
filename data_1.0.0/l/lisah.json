@@ -1,0 +1,33 @@
+{
+  "istilah": "lisah",
+  "entri": "li.sah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.sah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belodok2"
+        }
+      ]
+    },
+    {
+      "lema": "li.sah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "minyak"
+        }
+      ]
+    }
+  ]
+}

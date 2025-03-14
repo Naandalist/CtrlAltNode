@@ -1,0 +1,32 @@
+{
+  "istilah": "tertelan",
+  "entri": "telan » ter.te.lan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "telan » ter.te.lan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah ditelan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak sengaja ditelan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tidak dapat keluar (tentang kartu, koin): ia panik karena kartu ATM-nya ~"
+        }
+      ]
+    }
+  ]
+}

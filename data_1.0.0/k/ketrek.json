@@ -1,0 +1,30 @@
+{
+  "istilah": "ketrek",
+  "entri": "ket.rek /kêtrek/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengetrek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ket.rek /kêtrek/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "goda"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pikat"
+        }
+      ]
+    }
+  ]
+}

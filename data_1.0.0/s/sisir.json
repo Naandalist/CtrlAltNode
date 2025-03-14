@@ -1,0 +1,86 @@
+{
+  "istilah": "sisir",
+  "entri": "si.sir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersisir",
+    "menyisir",
+    "sisiran",
+    "tersisir",
+    "menyisir",
+    "sisiran",
+    "kesisiran"
+  ],
+  "gabunganKata": [
+    "sisir afro",
+    "sisir alis",
+    "sisir berekor",
+    "sisir bergarpu",
+    "sisir berlubang",
+    "sisir bertangkai",
+    "sisir bulat",
+    "sisir bulu",
+    "sisir bulu mata",
+    "sisir cukur",
+    "sisir garpu",
+    "sisir garu",
+    "sisir kuda-kuda",
+    "sisir perontok",
+    "sisir punggung rata",
+    "sisir sasak",
+    "sisir sikat"
+  ],
+  "peribahasa": [
+    "seperti gerup dengan sisir"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "sisir"
+  },
+  "data": [
+    {
+      "lema": "si.sir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk merapikan atau mengatur rambut, terbuat dari tanduk, plastik, atau logam, bergerigi tipis dan rapat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggaruk tanah dan sebagainya; garu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gugus pisang (bagian dari tandan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suri pada alat tenun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "tempat dadung atau tros kapal lewat sewaktu ditarik atau diukur, dimaksudkan untuk mengurangi gesekan yang terjadi; gelendong pada pagar kapal, cok, rol"
+        }
+      ]
+    },
+    {
+      "lema": "si.sir2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "susur jalan dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "si.sir3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kesisiran"
+        }
+      ]
+    }
+  ]
+}

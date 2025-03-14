@@ -1,0 +1,49 @@
+{
+  "istilah": "ton",
+  "entri": "ton1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ton1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran berat 1.000 kg"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran isi 1 m³"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran besar kapal 2,83 m³"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah air yang dipindahkan oleh kapal 1.016 kg atau 35 kaki kubik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "seribu rupiah"
+        }
+      ]
+    },
+    {
+      "lema": "ton2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tona"
+        }
+      ]
+    }
+  ]
+}

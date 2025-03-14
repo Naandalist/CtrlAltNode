@@ -1,0 +1,35 @@
+{
+  "istilah": "lepit",
+  "entri": "le.pit1 /lêpit/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melepit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "celah, lembah yang sempit",
+    "kataAsal": "lěpit"
+  },
+  "data": [
+    {
+      "lema": "le.pit1 /lêpit/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "melepit"
+        }
+      ]
+    },
+    {
+      "lema": "le.pit2 /lêpit/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "daun sirih yang dilipat menjadi bentuk segitiga, berisi kapur, gambir, dan pinang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "istilah": "polis",
+  "entri": "po.lis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpolis"
+  ],
+  "gabunganKata": [
+    "polis angsuran",
+    "polis anuitas",
+    "polis asuransi",
+    "polis asuransi jiwa permanen",
+    "polis bernilai",
+    "polis kombinasi",
+    "polis kumpulan",
+    "polis lunas",
+    "polis pajak warisan",
+    "polis par",
+    "polis penyertaan",
+    "polis perjalanan",
+    "polis proteksi ganda",
+    "polis risiko tinggi",
+    "polis terbatas",
+    "polis terbayar penuh",
+    "polis terbuka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.lis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat perjanjian antara orang yang ikut asuransi dan perusahaan asuransi"
+        }
+      ]
+    },
+    {
+      "lema": "po.lis2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ poles"
+        }
+      ]
+    }
+  ]
+}

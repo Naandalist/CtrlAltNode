@@ -1,0 +1,30 @@
+{
+  "istilah": "waad",
+  "entri": "wa.ad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berwaad"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perjanjian",
+    "kataAsal": "wa‘d"
+  },
+  "data": [
+    {
+      "lema": "wa.ad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "janji: Allah memerintahkan manusia melaksanakan peraturan itu dengan amir dan --Nya"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Ar[Arab: -]",
+          "deskripsi": "sampai janjinya: datanglah -- Allah atasnya"
+        }
+      ]
+    }
+  ]
+}

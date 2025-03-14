@@ -1,0 +1,84 @@
+{
+  "istilah": "kala",
+  "entri": "ka.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkala",
+    "berkala-kala",
+    "keberkalaan"
+  ],
+  "gabunganKata": [
+    "kala edaran",
+    "kala hajat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jerat, perangkap",
+    "kataAsal": "kala"
+  },
+  "data": [
+    {
+      "lema": "ka.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu; ketika; masa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "perbedaan bentuk verba untuk menyatakan perbedaan waktu"
+        }
+      ]
+    },
+    {
+      "lema": "ka.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kalajengking"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Skorpio; Akrab2: -- pisang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.la3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat bintang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.la4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "jerat: untuk menangkap harimau yang mengganggu ketenteraman desa itu digunakan --"
+        }
+      ]
+    },
+    {
+      "lema": "ka.la5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sutra"
+        }
+      ]
+    },
+    {
+      "lema": "ka.la6",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "qada2"
+        }
+      ]
+    }
+  ]
+}

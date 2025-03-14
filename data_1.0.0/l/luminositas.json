@@ -1,0 +1,28 @@
+{
+  "istilah": "luminositas",
+  "entri": "lu.mi.no.si.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.mi.no.si.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecemerlangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "total energi yang dipancarkan oleh bintang, galaksi, dan benda langit lain per satuan waktu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "istilah": "kitab",
+  "entri": "ki.tab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkitab",
+    "pengitaban"
+  ],
+  "gabunganKata": [
+    "kitab Bilangan",
+    "kitab Imamat",
+    "kitab Kejadian",
+    "kitab Keluaran",
+    "kitab kemitab",
+    "kitab kuning",
+    "kitab logat",
+    "kitab sembahyangan",
+    "kitab simbur cahaya",
+    "kitab suci",
+    "kitab tembaga",
+    "kitab terasul",
+    "kitab tib",
+    "kitab Ulangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat menulis",
+    "kataAsal": "kitāb"
+  },
+  "data": [
+    {
+      "lema": "ki.tab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku: -- bacaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wahyu Tuhan yang dibukukan; kitab suci: Al-Qur'an adalah -- yang harus dijadikan pedoman oleh seluruh umat Islam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku yang mengandung perkara-perkara keagamaan (seperti hukum, ajaran, dan sebagainya): setiap Jumat masjid itu mengadakan pengajian -- fikih; -- Sutasoma berisi tentang ajaran toleransi antarumat beragama"
+        }
+      ]
+    }
+  ]
+}

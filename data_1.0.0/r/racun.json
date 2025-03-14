@@ -1,0 +1,53 @@
+{
+  "istilah": "racun",
+  "entri": "ra.cun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beracun",
+    "keracunan",
+    "meracun",
+    "meracuni",
+    "peracun",
+    "peracunan"
+  ],
+  "gabunganKata": [
+    "racun anion",
+    "racun asiri",
+    "racun asiri alifatik",
+    "racun katalis",
+    "racun korosif",
+    "racun metalik",
+    "racun mitosis"
+  ],
+  "peribahasa": [
+    "makan upas berulam racun"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.cun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat (gas) yang dapat menyebabkan sakit atau mati (kalau dimakan, dihirup): ia bunuh diri dengan makan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat yang menurunkan mutu logam atau sepuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat yang merusak atau menghambat aksi katalis atau enzim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "yang merusak batin: banyak bacaan yang menjadi -- jiwa bagi para pemuda"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "benalu",
+  "entri": "be.na.lu /bênalu/bentuk tidak baku: menalu, mendalu",
+  "bentukTidakBaku": "menalu, mendalu",
+  "kataTurunan": [
+    "membenalu"
+  ],
+  "gabunganKata": [
+    "benalu api",
+    "benalu masyarakat"
+  ],
+  "peribahasa": [
+    "alah limau oleh benalu; alah limau oleh benalu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.na.lu /bênalu/bentuk tidak baku: menalu, mendalu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan yang menumpang pada tanaman lain dan mengisap makanan dari tanaman yang ditumpanginya; pasilan〔Loranthaceae〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang menumpang hidup pada orang lain"
+        }
+      ]
+    }
+  ]
+}

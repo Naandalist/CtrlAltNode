@@ -1,0 +1,51 @@
+{
+  "istilah": "nun",
+  "entri": "nun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama huruf ke-25 abjad Arab",
+    "kataAsal": "nūn"
+  },
+  "data": [
+    {
+      "lema": "nun1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sana; di sana: pulau itu jauh -- di seberang lautan"
+        }
+      ]
+    },
+    {
+      "lema": "nun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang diriwayatkan dalam Al-Qur'an menelan Nabi Yunus a.s."
+        }
+      ]
+    },
+    {
+      "lema": "nun3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-25 sistem hijaiah"
+        }
+      ]
+    },
+    {
+      "lema": "NUN",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "nilai ujian nasional"
+        }
+      ]
+    }
+  ]
+}

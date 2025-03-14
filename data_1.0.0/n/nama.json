@@ -1,0 +1,76 @@
+{
+  "istilah": "nama",
+  "entri": "na.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bernama",
+    "kenamaan",
+    "menamai",
+    "menamakan",
+    "penamaan",
+    "ternama"
+  ],
+  "gabunganKata": [
+    "nama alternatif",
+    "nama berterima",
+    "nama botani",
+    "nama cumbu",
+    "nama daerah",
+    "nama dagang",
+    "nama daging",
+    "nama diri",
+    "nama domain",
+    "nama ejekan",
+    "nama generik",
+    "nama ilmiah",
+    "nama induk",
+    "nama jenis",
+    "nama julukan",
+    "nama kapal",
+    "nama kecil",
+    "nama Latin",
+    "nama lengkap",
+    "nama panggilan",
+    "nama panggilan radio",
+    "nama panggung",
+    "nama pedengan",
+    "nama pengarang",
+    "nama produk",
+    "nama rupabumi",
+    "nama sah",
+    "nama samaran",
+    "nama sistematik",
+    "nama teknik",
+    "nama terang",
+    "nama timangan",
+    "nama trivial",
+    "nama tubuh"
+  ],
+  "peribahasa": [
+    "harimau mati meninggalkan belang, gajah mati meninggalkan gading, orang mati meninggalkan nama; kerbau punya susu, sapi punya nama; manusia mati meninggalkan nama (harimau mati meninggalkan belang, gajah mati meninggalkan gading)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "na.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata untuk menyebut atau memanggil orang (tempat, barang, binatang, dan sebagainya): -- anjing itu Miki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar; sebutan: dikaruniai -- Adipati; --nya saja pegawai tinggi, tetapi kekuasaannya tidak ada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemasyhuran; kebaikan (keunggulan); kehormatan: jika seorang pemain sepak bola sudah memiliki --, biasanya ia akan mendapatkan banyak tawaran dari klub sepak bola lain dengan gaji tinggi"
+        }
+      ]
+    }
+  ]
+}

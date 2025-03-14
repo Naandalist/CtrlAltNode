@@ -1,0 +1,36 @@
+{
+  "istilah": "nonorganik",
+  "entri": "non.or.ga.nik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "non.or.ga.nik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bio[Biologi]",
+          "deskripsi": "tidak memiliki struktur atau karakteristik organisme hidup: mereka sedang memisahkan sampah organik dan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengandung bahan kimia sintetis: beras organik lebih menguntungkan daripada beras --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mil[Kemiliteran: -]",
+          "deskripsi": "tanpa senjata: saat yang hampir bersamaan TNI dan Polri menarik pasukan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mil[Kemiliteran: -]",
+          "deskripsi": "tidak berasal dari satuan atau organisasi resmi: senjata -- TNI/Polri"
+        }
+      ]
+    }
+  ]
+}

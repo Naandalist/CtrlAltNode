@@ -1,0 +1,39 @@
+{
+  "istilah": "pensil",
+  "entri": "pen.sil bentuk tidak baku: pinsil",
+  "bentukTidakBaku": "pinsil",
+  "kataTurunan": [
+    "pemensil"
+  ],
+  "gabunganKata": [
+    "pensil alis",
+    "pensil bibir",
+    "pensil jahit",
+    "pensil lito",
+    "pensil mata",
+    "pensil pemayang mata",
+    "pensil penggaris mata",
+    "pensil warna"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pen.sil bentuk tidak baku: pinsil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat tulis berupa kayu kecil bulat berisi arang keras"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat menggambar berupa ikatan bulu (rambut) diberi tangkai; kuas"
+        }
+      ]
+    }
+  ]
+}

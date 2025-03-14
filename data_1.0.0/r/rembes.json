@@ -1,0 +1,50 @@
+{
+  "istilah": "rembes",
+  "entri": "rem.bes",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merembes",
+    "merembesi",
+    "merembeskan",
+    "perembesan",
+    "rembesan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "madu satu tong, jika rembes, rembesnya pun madu jua; memalit rembes menampung titik"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rem.bes",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merah dan berair serta mengeluarkan kotoran mata (tentang penyakit mata)"
+        }
+      ]
+    },
+    {
+      "lema": "rem.bes /rembês/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "penggantian biaya yang diterima kemudian setelah menjalankan urusan dinas"
+        }
+      ]
+    },
+    {
+      "lema": "rem.bes /rêmbês/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "resap ke luar atau ke dalam"
+        }
+      ]
+    }
+  ]
+}

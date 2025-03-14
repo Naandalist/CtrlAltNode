@@ -1,0 +1,37 @@
+{
+  "istilah": "jamang",
+  "entri": "ja.mang1 bentuk tidak baku: jejamang",
+  "bentukTidakBaku": "jejamang",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.mang1 bentuk tidak baku: jejamang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhiasan kepala (dipasang di atas dahi), dibuat dari emas atau perak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "ikat kepala dari kulit berukir yang dikenakan oleh petani"
+        }
+      ]
+    },
+    {
+      "lema": "ja.mang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "cincin dari bambu yang diikatkan pada lubang tiup suling, berfungsi sebagai akses masuk udara dari mulut sampai lubang masuk udara pada suling"
+        }
+      ]
+    }
+  ]
+}

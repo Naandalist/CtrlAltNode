@@ -1,0 +1,87 @@
+{
+  "istilah": "teras",
+  "entri": "te.ras",
+  "bentukTidakBaku": "taras",
+  "kataTurunan": [
+    "berteras",
+    "berteraskan"
+  ],
+  "gabunganKata": [
+    "teras berita",
+    "teras kontur"
+  ],
+  "peribahasa": [
+    "bertemu teras dengan beliung; teras terunjam, gubal melayang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.ras",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bidang tanah datar yang miring; bidang tanah yang lebih tinggi daripada yang lain (biasanya ditumbuhi rumput): pada -- yang lebih tinggi berdiri istana, sedangkan pada -- di bawahnya terbentang taman yang luas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah atau lantai yang agak tinggi di depan rumah: -- di bagian muka gedung itu dipenuhi dengan pot-pot bunga yang indah; -- untuk tempat mimbar pemimpin upacara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "atap rumah yang datar (biasanya diberi pagar di pinggirnya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "landasan yang lebih tinggi daripada tanah sekelilingnya untuk landasan candi (tempat berjalan-jalan atau tempat duduk-duduk)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari gili-gili di muka restoran yang diisi dengan kursi untuk duduk-duduk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan tanah persawahan dan sebagainya yang bertangga-tangga dari atas ke bawah"
+        }
+      ]
+    },
+    {
+      "lema": "te.ras1 /têras/bentuk tidak baku: taras",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian kayu yang keras; inti kayu: pada irisan penampang kelihatan -- yang dikelilingi lingkaran-lingkaran kayu yang dapat menunjukkan umurnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "inti sari; isi yang terutama; sesuatu yang terbaik; sesuatu yang terpenting: pasukan --; pejabat --"
+        }
+      ]
+    },
+    {
+      "lema": "te.ras2 /têras/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tras"
+        }
+      ]
+    },
+    {
+      "lema": "te.ras3 /têras/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bahan yang menjadi tempat melintasnya garis medan magnetik dalam trafo atau transformator dan bersifat temporer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "daerah atau bagian dari reaktor nuklir tempat terjadinya reaksi berantai"
+        }
+      ]
+    }
+  ]
+}

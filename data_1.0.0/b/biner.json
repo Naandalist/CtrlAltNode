@@ -1,0 +1,28 @@
+{
+  "istilah": "biner",
+  "entri": "bi.ner bentuk tidak baku: binari",
+  "bentukTidakBaku": "binari",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.ner bentuk tidak baku: binari",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terjadi dari atau ditandai oleh dua benda atau dua bagian; serba dua"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mat[Matematika: -]",
+          "deskripsi": "berdasar dua (tentang bilangan pada sistem bilangan)"
+        }
+      ]
+    }
+  ]
+}

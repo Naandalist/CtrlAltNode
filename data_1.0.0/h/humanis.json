@@ -1,0 +1,32 @@
+{
+  "istilah": "humanis",
+  "entri": "hu.ma.nis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hu.ma.nis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mendambakan dan memperjuangkan terwujudnya pergaulan hidup yang lebih baik, berdasarkan asas perikemanusiaan; pengabdi kepentingan sesama umat manusia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganut paham yang menganggap manusia sebagai objek terpenting"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganut humanisme"
+        }
+      ]
+    }
+  ]
+}

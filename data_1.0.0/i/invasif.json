@@ -1,0 +1,33 @@
+{
+  "istilah": "invasif",
+  "entri": "in.va.sif1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.va.sif1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "prosedur memecah kulit karena elektromiografi dengan menggunakan elektrode jarum dalam otot"
+        }
+      ]
+    },
+    {
+      "lema": "in.va.sif2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "organisme, asli atau bukan, yang mengolonisasi habitat tertentu secara masif dandapat menimbulkan kerugian ekologi, ekonomi, dan sosial, seperti mentangan danmujair"
+        }
+      ]
+    }
+  ]
+}

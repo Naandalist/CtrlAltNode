@@ -1,0 +1,38 @@
+{
+  "istilah": "omong",
+  "entri": "o.mong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beromong-omong",
+    "mengomong",
+    "mengomongkan",
+    "ngomong-ngomong",
+    "omong-omong",
+    "omongan",
+    "pengomongan"
+  ],
+  "gabunganKata": [
+    "omong kosong"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.mong",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bicara; cakap; kecek: jangan banyak --, nanti kupukul kau!"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bahasa; perkataan: -- Sunda; -- Melayu"
+        }
+      ]
+    }
+  ]
+}

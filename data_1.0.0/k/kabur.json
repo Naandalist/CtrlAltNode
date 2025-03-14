@@ -1,0 +1,64 @@
+{
+  "istilah": "kabur",
+  "entri": "ka.bur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekabur-kaburan",
+    "kekaburan",
+    "mengabur",
+    "mengaburkan",
+    "pengabur",
+    "pengaburan",
+    "kabur-kaburan"
+  ],
+  "gabunganKata": [
+    "kabur garam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.bur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat melihat sesuatu dengan jelas (tentang mata): matanya telah -- dimakan umur"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang terang (tentang pemandangan); kurang nyata (tentang lukisan); kurang jernih (tentang kaca); kurang jelas (tentang pertanyaan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "keadaan atmosfer yang tampak berkabut akibat adanya partikel yang sangat kecil dan kering yang cukup banyak terdapat di dalamnya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.bur2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlari cepat-cepat; melarikan diri: pengebut -- dikejar Polantas"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "meninggalkan tugas (pekerjaan, keluarga, dan sebagainya) tanpa pamit; menghilang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.bur3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumbang tanduk; kumbang kelapa; bangbung2"
+        }
+      ]
+    }
+  ]
+}

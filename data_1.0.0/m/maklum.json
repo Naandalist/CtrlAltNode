@@ -1,0 +1,33 @@
+{
+  "istilah": "maklum",
+  "entri": "mak.lum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memaklumi",
+    "memaklumkan",
+    "mempermaklumkan",
+    "pemakluman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hal yang dipahami",
+    "kataAsal": "ma‘lūm"
+  },
+  "data": [
+    {
+      "lema": "mak.lum",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "paham; mengerti; tahu: saya -- akan hal itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dapat dipahami (dimengerti): -- orang desa belum mengerti adat kota"
+        }
+      ]
+    }
+  ]
+}

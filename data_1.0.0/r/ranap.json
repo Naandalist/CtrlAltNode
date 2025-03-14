@@ -1,0 +1,35 @@
+{
+  "istilah": "ranap",
+  "entri": "ra.nap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meranap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.nap1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(hampir) rata dengan tanah (karena tumbang, roboh, dan sebagainya): rumah itu -- dilanda angin puting beliung"
+        }
+      ]
+    },
+    {
+      "lema": "ra.nap2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "sunyi: daerah terpencil itu sangat --"
+        }
+      ]
+    }
+  ]
+}

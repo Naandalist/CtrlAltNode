@@ -1,0 +1,47 @@
+{
+  "istilah": "tohor",
+  "entri": "to.hor1 bentuk tidak baku: tuhur1",
+  "bentukTidakBaku": "tuhur1",
+  "kataTurunan": [
+    "bertohor",
+    "ketohoran",
+    "menohorkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "air lalu berkubak tohor"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.hor1 bentuk tidak baku: tuhur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dangkal; dangkar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hampir kering (tidak berair karena ditimba dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "habis (tentang uang dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "to.hor2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kapur1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "fohn",
+  "entri": "fohn bentuk tidak baku: fon2",
+  "bentukTidakBaku": "fon2",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "fohn kerdil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fohn bentuk tidak baku: fon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hidm[Hidrometeorologi: -]",
+          "deskripsi": "angin yang kering dan panas di sisi bawah barisan gunung"
+        }
+      ]
+    },
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "angin panas yang turun (di Swiss)"
+        }
+      ]
+    },
+    {
+      "lema": "Föhn",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "angin panas yang turun (di Swiss)"
+        }
+      ]
+    }
+  ]
+}

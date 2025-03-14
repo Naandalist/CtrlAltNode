@@ -1,0 +1,34 @@
+{
+  "istilah": "pamong",
+  "entri": "pa.mong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pamong desa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pengasuh",
+    "kataAsal": "pamoṅmoṅ"
+  },
+  "data": [
+    {
+      "lema": "pa.mong",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengasuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendidik (guru)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengurus"
+        }
+      ]
+    }
+  ]
+}

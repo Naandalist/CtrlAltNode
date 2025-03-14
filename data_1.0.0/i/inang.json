@@ -1,0 +1,38 @@
+{
+  "istilah": "inang",
+  "entri": "i.nang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "inang-inang",
+    "menginang"
+  ],
+  "gabunganKata": [
+    "inang pengasuh",
+    "inang perantara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.nang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perempuan yang merawat (menyusui dan sebagainya) anak tuannya (seperti anak raja atau anak pembesar)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "organisme tempat parasit tumbuh dan makan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "ibu"
+        }
+      ]
+    }
+  ]
+}

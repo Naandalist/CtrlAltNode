@@ -1,0 +1,35 @@
+{
+  "istilah": "gembus",
+  "entri": "gem.bus1 /gêmbus/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gembusan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gem.bus1 /gêmbus/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ampas tahu atau kelapa yang disiapkan sebagai bahan salah satu jenis tempe"
+        }
+      ]
+    },
+    {
+      "lema": "gem.bus2 /gêmbus/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "gembusan"
+        }
+      ]
+    }
+  ]
+}

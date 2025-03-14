@@ -1,0 +1,35 @@
+{
+  "istilah": "eksotis",
+  "entri": "ek.so.tis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keeksotisan",
+    "seeksotis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ek.so.tis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "memiliki daya tarik khas karena belum banyak dikenal umum: perusahaan itu menanami lahannya dengan pisang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "diperkenalkan atau dimasukkan dari luar negeri (tentang mode, gagasan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bergaya asing; luar biasa; istimewa; aneh; ganjil: orang asing merasakan pertunjukan wayang kulit sebagai sesuatu yang --"
+        }
+      ]
+    }
+  ]
+}

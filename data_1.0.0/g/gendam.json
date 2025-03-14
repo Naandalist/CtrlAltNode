@@ -1,0 +1,37 @@
+{
+  "istilah": "gendam",
+  "entri": "gen.dam1 /gêndam/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gendaman",
+    "menggendam",
+    "penggendam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "guna-guna, mantra magis, mantra cinta",
+    "kataAsal": "gěndam"
+  },
+  "data": [
+    {
+      "lema": "gen.dam1 /gêndam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mantra atau guna-guna untuk menguasai dan mengendalikan kesadaran orang lain"
+        }
+      ]
+    },
+    {
+      "lema": "gen.dam2 /gêndam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pohon jati yang digunakan sebagai tempat bersarangnya burung-burung kecil, biasanya digunakan sebagai bahan membuat kandang ternak"
+        }
+      ]
+    }
+  ]
+}

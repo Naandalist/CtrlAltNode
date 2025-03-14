@@ -1,0 +1,33 @@
+{
+  "istilah": "setem",
+  "entri": "se.tem /sêtem/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyetem",
+    "penyetem",
+    "penyeteman",
+    "seteman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.tem /sêtem/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "setala; sesuai; selaras (tentang nada suara): kalau sudah -- senar-senarnya, baru boleh digunakan gitar itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "suara (dalam pemilihan untuk menentukan pilihan)"
+        }
+      ]
+    }
+  ]
+}

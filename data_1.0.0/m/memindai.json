@@ -1,0 +1,32 @@
+{
+  "istilah": "memindai",
+  "entri": "pindai » me.min.dai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pindai » me.min.dai",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melihat dengan cermat dan saksama; memandangi: ia ~ wajahnya dalam cermin itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "memeriksa dengan alat pengindraan (seperti fitometer atau sinar radiasi) untuk mendapatkan informasi; melewatkan berkas elektron atau (sesuatu) lalu mengubahnya menjadi variasi sifat-sifat elektron (misalnya vilatase) yang membawa informasi secara elektronis"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -]",
+          "deskripsi": "mengopi gambar atau teks ke dalam komputer dalam bentuk digital"
+        }
+      ]
+    }
+  ]
+}

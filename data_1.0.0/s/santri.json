@@ -1,0 +1,30 @@
+{
+  "istilah": "santri",
+  "entri": "san.tri bentuk tidak baku: senteri",
+  "bentukTidakBaku": "senteri",
+  "kataTurunan": [
+    "menyantri"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "san.tri bentuk tidak baku: senteri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mendalami agama Islam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang beribadat dengan sungguh-sungguh; orang yang saleh"
+        }
+      ]
+    }
+  ]
+}

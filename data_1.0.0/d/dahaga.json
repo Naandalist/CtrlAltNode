@@ -1,0 +1,43 @@
+{
+  "istilah": "dahaga",
+  "entri": "da.ha.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendahaga"
+  ],
+  "gabunganKata": [
+    "dahaga dahagi"
+  ],
+  "peribahasa": [
+    "orang dahaga diberi air"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kondisi hangat, panas; keringat",
+    "kataAsal": "nidāgha"
+  },
+  "data": [
+    {
+      "lema": "da.ha.ga1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "haus (berasa kering pada kerongkongan dan ingin minum): ia minum air kelapa muda untuk melepaskan rasa --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "rasa haus; rasa ingin minum (karena kerongkongan terasa kering)"
+        }
+      ]
+    },
+    {
+      "lema": "da.ha.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perlawanan (terhadap perintah); daga"
+        }
+      ]
+    }
+  ]
+}

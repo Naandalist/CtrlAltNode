@@ -1,0 +1,37 @@
+{
+  "istilah": "boga",
+  "entri": "bo.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berboga"
+  ],
+  "gabunganKata": [
+    "boga bahari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kenikmatan, hal makan; segala objek kenikmatan, makanan; keuntungan, kegunaan, kesenangan",
+    "kataAsal": "bhoga"
+  },
+  "data": [
+    {
+      "lema": "bo.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan; masakan; hidangan; santapan"
+        }
+      ]
+    },
+    {
+      "lema": "bo.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gabus3"
+        }
+      ]
+    }
+  ]
+}

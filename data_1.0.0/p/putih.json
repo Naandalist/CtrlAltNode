@@ -1,0 +1,54 @@
+{
+  "istilah": "putih",
+  "entri": "pu.tih",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keputih-putihan",
+    "keputihan",
+    "memutih",
+    "memutihkan",
+    "pemutih",
+    "pemutihan",
+    "putihan"
+  ],
+  "gabunganKata": [
+    "putih bersih",
+    "putih hati",
+    "putih kuning",
+    "putih lesi",
+    "putih meta",
+    "putih metah",
+    "putih telur"
+  ],
+  "peribahasa": [
+    "arang itu jikalau dibasuh dengan air mawar sekalipun, tiada akan putih; ayam putih terbang siang; biar putih tulang, jangan putih mata; hitam di atas putih; hitam dikatakan putih, putih dikatakan hitam; hitam tahan tempa, putih tahan sesah; hitam, hitam gagak, putih, putih udang kapai (hitam, hitam bendi, putih, putih sadah); hitam, hitam tahi minyak dimakan juga, putih-putih ampas kelapa dibuang; ketika gagak putih, bangau hitam; menanti putih gagak hitam; putih tapaknya lari"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "putih",
+    "kataAsal": "putih"
+  },
+  "data": [
+    {
+      "lema": "pu.tih",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna dasar yang serupa dengan warna kapas: baju dinas perawat -- warnanya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengandung atau memperlihatkan warna yang serupa warna kapas"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "murni; suci; tidak ternoda"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "pucat (tentang wajah)"
+        }
+      ]
+    }
+  ]
+}

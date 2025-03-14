@@ -1,0 +1,42 @@
+{
+  "istilah": "berahi",
+  "entri": "be.ra.hi /bêrahi/bentuk tidak baku: birahi",
+  "bentukTidakBaku": "birahi",
+  "kataTurunan": [
+    "keberahian",
+    "memberahikan"
+  ],
+  "gabunganKata": [
+    "berahi hati",
+    "berahi majemuk",
+    "berahi pertama kuda",
+    "berahi tenang",
+    "berahi terpendam",
+    "berahi tunggal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ra.hi /bêrahi/bentuk tidak baku: birahi",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "asyik; sangat suka; sangat tertarik: tuan putri pun sangat -- mendengar bunyi-bunyian itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perasaan cinta kasih antara dua orang yang berlainan jenis kelamin: ketika dipandangnya wajah kekasihnya, bangkitlah --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "gejala yang timbul secara berkala pada ternak betina sebagai perwujudan berahi untuk dikawinkan; entrus"
+        }
+      ]
+    }
+  ]
+}

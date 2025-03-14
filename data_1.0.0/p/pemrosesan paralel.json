@@ -1,0 +1,24 @@
+{
+  "istilah": "pemrosesan paralel",
+  "entri": "proses » pemrosesan » pemrosesan paralel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "proses » pemrosesan » pemrosesan paralel",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "metode pemrosesan yang hanya dapat berfungsi pada komputer yang berisi dua prosesor atau lebih yang berjalan secara bersamaan"
+        }
+      ]
+    }
+  ]
+}

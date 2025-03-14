@@ -1,0 +1,45 @@
+{
+  "istilah": "toko",
+  "entri": "to.ko1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertoko",
+    "pertokoan"
+  ],
+  "gabunganKata": [
+    "toko buku",
+    "toko daring",
+    "toko kelontong",
+    "toko pengecer",
+    "toko penyalur",
+    "toko seni",
+    "toko serba ada",
+    "toko swalayan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "toko; gudang",
+    "kataAsal": "thó͘ khò͘"
+  },
+  "data": [
+    {
+      "lema": "to.ko1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedai berupa bangunan permanen tempat menjual barang-barang (makanan kecil dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "to.ko2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serangga berukuran kecil, berwarna cokelat atau hitam dengan bercak oranye, alat mulut bermoncong panjang, termasuk keluarga Curculionidae, merupakan hama pada penyimpanan produk beras, jagung, dan gandum〔Sitophilus oryzae〕"
+        }
+      ]
+    }
+  ]
+}

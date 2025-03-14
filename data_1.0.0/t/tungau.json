@@ -1,0 +1,40 @@
+{
+  "istilah": "tungau",
+  "entri": "tu.ngau1 bentuk tidak baku: tungu",
+  "bentukTidakBaku": "tungu",
+  "kataTurunan": [
+    "menungau"
+  ],
+  "gabunganKata": [
+    "tungau anjing",
+    "tungau merah"
+  ],
+  "peribahasa": [
+    "bagai ayam dimakan tungau; hati gajah sama dilapah, hati kuman (tungau) sama dicecah (dicecap); hati gajah sama dilapah, hati tuma (tungau) sama dicecah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.ngau1 bentuk tidak baku: tungu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "artropoda yang berukuran sangat kecil, tubuhnya tidak bersegmen, biasanya berwarna cokelat, merah, oranye, hitam, atau hijau, berkaki delapan, hidup sebagai parasit, predator, atau pengurai, dan beberapa jenisnya dapat menyebarkan penyakit dan mengakibatkan alergi〔Acarina〕"
+        }
+      ]
+    },
+    {
+      "lema": "tu.ngau2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim] Mk[Minangkabau: -]",
+          "deskripsi": "menungau"
+        }
+      ]
+    }
+  ]
+}

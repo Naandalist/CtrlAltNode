@@ -1,0 +1,28 @@
+{
+  "istilah": "elektrostatika",
+  "entri": "e.lek.tro.sta.ti.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.lek.tro.sta.ti.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "pengkajian kelistrikan tanpa gerakan muatan listrik dalam keadaan diam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang muatan listrik yang diam medan elektriknya dan potensialnya"
+        }
+      ]
+    }
+  ]
+}

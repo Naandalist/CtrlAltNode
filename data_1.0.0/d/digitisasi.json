@@ -1,0 +1,33 @@
+{
+  "istilah": "digitisasi",
+  "entri": "di.gi.ti.sa.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.gi.ti.sa.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "pengubahan teks, gambar, atau suara ke bentuk digital sehingga dapat diproses oleh komputer"
+        }
+      ]
+    },
+    {
+      "lema": "di.gi.ti.sa.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengubahan data analog (seperti citra, video, dan teks) ke dalam bentuk digital; digitalisasi; pendigitalan"
+        }
+      ]
+    }
+  ]
+}

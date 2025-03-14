@@ -1,0 +1,39 @@
+{
+  "istilah": "uar",
+  "entri": "u.ar1",
+  "bentukTidakBaku": "war",
+  "kataTurunan": [
+    "menguar",
+    "menguarkan",
+    "menguar-uarkan",
+    "penguaran",
+    "uar-uar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.ar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepul"
+        }
+      ]
+    },
+    {
+      "lema": "u.ar2 bentuk tidak baku: war",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menguar-uarkan; penguaran; uar-uar"
+        }
+      ]
+    }
+  ]
+}

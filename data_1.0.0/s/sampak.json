@@ -1,0 +1,45 @@
+{
+  "istilah": "sampak",
+  "entri": "sam.pak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyampak",
+    "menyampak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.pak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "simpai atau gelang-gelang dari besi dan sebagainya yang dipasang pada hulu pisau (golok dan sebagainya) supaya putingnya tidak goyah"
+        }
+      ]
+    },
+    {
+      "lema": "sam.pak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan judi dengan gambar pada uang yang dilemparkan ke atas"
+        }
+      ]
+    },
+    {
+      "lema": "sam.pak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "irama gending gamelan Jawa yang cepat dan ramai, kempul dan kenong dibunyikan secara beruntun mengikuti nada-nada utama, dimainkan di bagian akhir dari rangkaian gending talu atau pada adegan keras di akhir cerita pewayangan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "istilah": "bulang",
+  "entri": "bu.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbulang",
+    "membulang",
+    "pembulang",
+    "terbulang",
+    "berbulang",
+    "bulang-bulang"
+  ],
+  "gabunganKata": [
+    "bulang dagang",
+    "bulang kanan",
+    "bulang kiri",
+    "bulang akar",
+    "bulang hulu",
+    "bulang pengkah",
+    "bulang teleng"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali pengikat taji; cara mengikat taji pada kaki ayam sabungan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "tali pengikat sampan atau perahu yang merapat di pelabuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tutup kepala laki-laki suku Karo, terbuat dari kain tenun dengan hiasan benang emas, dikenakan saat upacara adat"
+        }
+      ]
+    },
+    {
+      "lema": "bu.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bugenvil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, tinggi 18 m, kayunya disukai sebagai bahan bangunan〔Premna tomentosa〕"
+        }
+      ]
+    },
+    {
+      "lema": "bu.lang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain dan sebagainya yang dililitkan pada kepala; destar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhiasan dari emas dipakai pengantin di kepala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tutup kepala laki-laki suku Karo, terbuat dari kain tenun dengan hiasan benang emas, dikenakan saat upacara adat"
+        }
+      ]
+    },
+    {
+      "lema": "Bu.lang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Lembak di Sumatra"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "kakak",
+  "entri": "ka.kak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkakak",
+    "berkakak",
+    "berkakakan",
+    "mengakak",
+    "terkakak-kakak"
+  ],
+  "gabunganKata": [
+    "kakak ipar",
+    "kakak kelas",
+    "kakak tingkat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.kak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saudara tua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada orang (laki-laki atau perempuan) yang dianggap lebih tua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada suami"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Prm[Pramuka: Usulan untuk penambahan bidang baru]",
+          "deskripsi": "kata panggilan untuk pembina dan pembantu pembina pramuka penggalang, penegak, dan pandega"
+        }
+      ]
+    },
+    {
+      "lema": "ka.kak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berkakak; berkakakan; mengakak; terkakak-kakak"
+        }
+      ]
+    }
+  ]
+}

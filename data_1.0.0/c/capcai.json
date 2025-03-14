@@ -1,0 +1,28 @@
+{
+  "istilah": "capcai",
+  "entri": "cap.cai bentuk tidak baku: capcay",
+  "bentukTidakBaku": "capcay",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "lauk yang terdiri dari berbagai macam sayur",
+    "kataAsal": "tsa̍p chhài"
+  },
+  "data": [
+    {
+      "lema": "cap.cai bentuk tidak baku: capcay",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "masakan yang terdiri atas sayur (wortel, sawi hijau, bunga kol, dan sebagainya) ditambah bakso, kembang tahu, udang dan sebagainya, dan diberi bumbu tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Cn[Cina: -]",
+          "deskripsi": "campur aduk"
+        }
+      ]
+    }
+  ]
+}

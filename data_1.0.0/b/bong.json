@@ -1,0 +1,55 @@
+{
+  "istilah": "bong",
+  "entri": "bong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kuburan",
+    "kataAsal": "bōng"
+  },
+  "data": [
+    {
+      "lema": "bong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekuburan Cina"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "tanah pekuburan keluarga"
+        }
+      ]
+    },
+    {
+      "lema": "bong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "orang yang pekerjaannya mengkhitan (menyunat); dukun sunat"
+        }
+      ]
+    },
+    {
+      "lema": "bong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengisap atau mengonsumsi zat psikotropika, khususnya sabu-sabu"
+        }
+      ]
+    },
+    {
+      "lema": "bong4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pipa besar yang dipakai untuk mengalirkan air pada sistem irigasi tambak"
+        }
+      ]
+    }
+  ]
+}

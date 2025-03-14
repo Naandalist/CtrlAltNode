@@ -1,0 +1,38 @@
+{
+  "istilah": "congak",
+  "entri": "co.ngak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "congak-cangik",
+    "mencongak",
+    "mencongakkan",
+    "mencongak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.ngak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dongak"
+        }
+      ]
+    },
+    {
+      "lema": "co.ngak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "taksiran yang dibuat dalam kepala saja, tidak ditulis: biaya pembelian barang baru dibuat dengan -- saja"
+        }
+      ]
+    }
+  ]
+}

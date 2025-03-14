@@ -1,0 +1,55 @@
+{
+  "istilah": "depresi",
+  "entri": "dep.re.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "depresi agitatif",
+    "depresi balik",
+    "depresi bola basah",
+    "depresi ekstrem",
+    "depresi klinis",
+    "depresi manik",
+    "depresi maternal",
+    "depresi mayor",
+    "depresi oklusi",
+    "depresi orografis",
+    "depresi pascalahir",
+    "depresi pascapersalinan",
+    "depresi perinatal",
+    "depresi prenatal",
+    "depresi pusat",
+    "depresi tersenyum",
+    "depresi tropis",
+    "depresi utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dep.re.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "keadaan perniagaan yang sukar dan lesu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "gangguan jiwa pada seseorang yang ditandai dengan perasaan yang merosot (seperti muram, sedih, perasaan tertekan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "daerah merosot atau tenggelam akibat terbentuknya antiklin dan sinklin pada waktu yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "daerah yang bertekanan rendah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "mah",
+  "entri": "mah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mah1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "maha (misalnya mahraja, maharaja)"
+        }
+      ]
+    },
+    {
+      "lema": "mah2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Sd[Sunda: -]",
+          "deskripsi": "kata untuk menyatakan penegasan ucapan, biasanya digunakan setelah kata ganti orang; sih: dia -- jarang di rumah"
+        }
+      ]
+    }
+  ]
+}

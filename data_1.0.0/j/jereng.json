@@ -1,0 +1,35 @@
+{
+  "istilah": "jereng",
+  "entri": "je.reng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjereng"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bentang",
+    "kataAsal": "jereṅ"
+  },
+  "data": [
+    {
+      "lema": "je.reng1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "juling"
+        }
+      ]
+    },
+    {
+      "lema": "je.reng2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bentangkan"
+        }
+      ]
+    }
+  ]
+}

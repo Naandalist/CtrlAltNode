@@ -1,0 +1,28 @@
+{
+  "istilah": "moncor",
+  "entri": "mon.cor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mon.cor",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "mengalir ke luar; memancur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "sakit buang-buang air (sakit berak-berak)"
+        }
+      ]
+    }
+  ]
+}

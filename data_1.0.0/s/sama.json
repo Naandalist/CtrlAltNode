@@ -1,0 +1,76 @@
+{
+  "istilah": "sama",
+  "entri": "sa.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersama",
+    "bersama-sama",
+    "bersamaan",
+    "kebersamaan",
+    "kesamaan",
+    "membersamai",
+    "membersamakan",
+    "mempersama-samakan",
+    "mempersamakan",
+    "menyama-nyama",
+    "menyama-nyamai",
+    "menyamai",
+    "menyamakan",
+    "penyamaan",
+    "persamaan",
+    "sama-sama",
+    "sesama",
+    "tersamai",
+    "tersamakan"
+  ],
+  "gabunganKata": [
+    "sama naskah",
+    "sama sali",
+    "sama sekali",
+    "sama tengah"
+  ],
+  "peribahasa": [
+    "ada sama dimakan, tidak ada sama dicari; adakah kayu di rimba sama tinggi; antah berkumpul sama antah, beras bersama beras; asal ada sama di hati, gajah terantai boleh dilepaskan; berat sama dipikul, ringan sama dijinjing; berat sama dipikul, ringan sama dijinjing; bersawah seperempat piring, ke sawah sama dengan orang; berselubung sama bungkuk, melompat sama patah; cangkat sama didaki, lurah sama dituruni; daging gajah sama dilapah, daging tuma sama dicecah; dikati sama berat, diuji sama merah; diuji sama merah, dalam hati (ditail) sama berat; duduk sama rendah, tegak (berdiri) sama tinggi; gajah berjuang sama gajah, pelanduk (kancil) mati di tengah-tengah; hati gajah sama dilapah, hati kuman (tungau) sama dicecah (dicecap); hati gajah sama dilapah, hati tuma (tungau) sama dicecah; ke bukit sama mendaki, ke lurah sama menurun; kepala sama berbulu, pendapat berlain-lainan; kepala sama hitam (berbulu), pendapat berlain-lain; laba sama dibagi, rugi sama diterjuni; menangis daun bangun-bangun hendak sama dengan hilir air; mendapat sama berlaba, kehilangan sama merugi; menimbang sama berat; nasi sama ditanak, kerak dimakan seorang; pengayuh sama di tangan, perahu sama di air; rambut sama hitam, hati masing-masing; rambut sama hitam, hati masing-masing; ringan sama dijinjing, berat sama dipikul; sama lebur, sama binasa; tegak sama tinggi, duduk sama rendah; terapung sama hanyut, terendam sama basah; tertangkup sama termakan tanah, telentang sama terminum air; tertelentang sama terminum air, tertelungkup sama termakan tanah; yang enggang sama enggang juga, yang pipit sama pipit juga; yang pipit sama pipit, yang enggang sama enggang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sepadan, sebanding, setara, cocok",
+    "kataAsal": "sama"
+  },
+  "data": [
+    {
+      "lema": "sa.ma1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "serupa (halnya, keadaannya, dan sebagainya); tidak berbeda; tidak berlainan: pada umumnya mata pencaharian penduduk desa itu --; kedua soal itu -- sulitnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbarengan; bertepatan: kedua tamu itu datang pada waktu yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sepadan; seimbang; sebanding; setara: sebagai calon istri, pendidikan gadis itu tidak -- dengan pendidikanmu"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ma2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "dengan: anak itu ikut -- ayahnya ke kebun"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "oleh: sekolahnya dibiayai -- pamannya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pada (untuk menyatakan pelakunya banyak): penduduk -- meninggalkan desanya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "karbo",
+  "entri": "kar.bo",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kar.bo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gz[Ilmu Gizi: ]",
+          "deskripsi": "karbohidrat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangan tinggi karbohidrat"
+        }
+      ]
+    }
+  ]
+}

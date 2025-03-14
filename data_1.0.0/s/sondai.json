@@ -1,0 +1,35 @@
+{
+  "istilah": "sondai",
+  "entri": "son.dai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "menaikkan bandar sondai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "son.dai1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "miring; landai"
+        }
+      ]
+    },
+    {
+      "lema": "son.dai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sondek"
+        }
+      ]
+    }
+  ]
+}

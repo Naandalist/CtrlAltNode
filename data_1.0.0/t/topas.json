@@ -1,0 +1,37 @@
+{
+  "istilah": "topas",
+  "entri": "to.pas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.pas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu permata berwarna macam-macam (kuning, cokelat, kemerah-merahan, tidak berwarna, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "aluminium silikat dengan berbagai campuran〈Al2(S1O4)(OH,F)2〉"
+        }
+      ]
+    },
+    {
+      "lema": "to.pas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "awak kapal yang tugasnya melayani kebutuhan makan dan tempat tinggal awak kapal bawahan yang lain"
+        }
+      ]
+    }
+  ]
+}

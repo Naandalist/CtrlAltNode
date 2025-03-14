@@ -1,0 +1,40 @@
+{
+  "istilah": "pul",
+  "entri": "pul1 bentuk tidak baku: pol3",
+  "bentukTidakBaku": "pol3",
+  "kataTurunan": [
+    "mengepul",
+    "pengepul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pul1 bentuk tidak baku: pol3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok bertanding (dalam pertandingan olahraga): juara -- A ialah regu Brazil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat mengumpulkan atau memusatkan sesuatu: mobil itu mogok persis di depan -- bus PPD"
+        }
+      ]
+    },
+    {
+      "lema": "pul2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pol1"
+        }
+      ]
+    }
+  ]
+}

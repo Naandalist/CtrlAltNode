@@ -1,0 +1,37 @@
+{
+  "istilah": "sus",
+  "entri": "sus1 bentuk tidak baku: soes",
+  "bentukTidakBaku": "soes",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sus1 bentuk tidak baku: soes",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kue ringan berongga, biasanya diisi dengan vla, keju, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "sus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada wanita muda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada suster atau juru rawat wanita"
+        }
+      ]
+    }
+  ]
+}

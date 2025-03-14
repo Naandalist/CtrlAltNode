@@ -1,0 +1,47 @@
+{
+  "istilah": "tanggap",
+  "entri": "tang.gap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menanggap",
+    "menanggapi",
+    "menanggapkan",
+    "penanggap",
+    "tanggapan",
+    "menanggap",
+    "tanggapan"
+  ],
+  "gabunganKata": [
+    "tanggap jiwa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "taṅgap"
+  },
+  "data": [
+    {
+      "lema": "tang.gap1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "segera mengetahui (keadaan) dan memperhatikan sungguh-sungguh: pemerintah daerah harus -- terhadap aspirasi masyarakat setempat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cepat dapat mengetahui dan menyadari gejala yang timbul"
+        }
+      ]
+    },
+    {
+      "lema": "tang.gap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menanggap; tanggapan"
+        }
+      ]
+    }
+  ]
+}

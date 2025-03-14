@@ -1,0 +1,72 @@
+{
+  "istilah": "siasat",
+  "entri": "si.a.sat1 bentuk tidak baku: siasah",
+  "bentukTidakBaku": "siasah",
+  "kataTurunan": [
+    "bersiasat",
+    "mensiasati",
+    "menyiasat",
+    "menyiasati",
+    "menyiasatkan",
+    "persiasatan",
+    "menyiasat",
+    "menyiasatkan"
+  ],
+  "gabunganKata": [
+    "siasat bumi hangus",
+    "siasat dunia",
+    "siasat kura-kura",
+    "siasat luar negeri",
+    "siasat perang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kepemimpinan; pengaturan",
+    "kataAsal": "siyāsah"
+  },
+  "data": [
+    {
+      "lema": "si.a.sat1 bentuk tidak baku: siasah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "periksa; pemeriksaan yang teliti; penyelidikan: jangan Kakanda kurang -- kurang periksa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertanyaan (yang bermaksud menyelidiki dan sebagainya): panjang dan dalam benar --nya; sudi -- pemeriksaan dengan mengajukan pertanyaan-pertanyaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teliti; saksama: ia amat perkasa dan -- memerintah rakyat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecaman; kritik; teguran; celaan: atas -- pembaca yang bermaksud memperbaiki buku ini, lebih dahulu saya ucapkan terima kasih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "politik (muslihat, taktik, tindakan, kebijakan, akal) untuk mencapai suatu maksud: tiap-tiap partai mempunyai -- untuk melaksanakan cita-citanya dalam ketatanegaraan; -- pemerintah untuk mengembalikan keamanan dalam negeri disetujui oleh parlemen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "muslihat dan cara berperang: Angkatan Laut kita harus mengatur -- dalam menghadapi serangan-serangan kapal selam lawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara bekerja; cara melakukan sesuatu; metode: -- pekerjaan; -- mengajar membaca yang mula-mula sekali"
+        }
+      ]
+    },
+    {
+      "lema": "si.a.sat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "siksa; aniaya; hukuman"
+        }
+      ]
+    }
+  ]
+}

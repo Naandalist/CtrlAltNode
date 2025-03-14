@@ -1,0 +1,46 @@
+{
+  "istilah": "migrasi",
+  "entri": "mig.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermigrasi"
+  ],
+  "gabunganKata": [
+    "migrasi antardesa",
+    "migrasi antarkota",
+    "migrasi antarsensus",
+    "migrasi berantai",
+    "migrasi bermusim",
+    "migrasi desa kota",
+    "migrasi ekstern",
+    "migrasi intern",
+    "migrasi kolektif",
+    "migrasi kota desa",
+    "migrasi paksaan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mig.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perpindahan penduduk dari satu tempat (negara dan sebagainya) ke tempat (negara dan sebagainya) lain untuk menetap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perpindahan dari satu tempat ke tempat lain bagi burung dan sebagainya karena pergantian musim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "proses pembuatan aplikasi dan data yang ada agar dapat berjalan atau digunakan pada komputer atau sistem operasi yang berbeda"
+        }
+      ]
+    }
+  ]
+}

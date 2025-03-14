@@ -1,0 +1,66 @@
+{
+  "istilah": "jarum",
+  "entri": "ja.rum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjarum",
+    "jarum-jarum",
+    "jaruman",
+    "menjarum"
+  ],
+  "gabunganKata": [
+    "jarum arloji",
+    "jarum biku",
+    "jarum goni",
+    "jarum halus",
+    "jarum jahit",
+    "jarum jam",
+    "jarum kait",
+    "jarum karung",
+    "jarum layar",
+    "jarum panjang",
+    "jarum pendek",
+    "jarum pentol",
+    "jarum rajut",
+    "jarum renda",
+    "jarum semat",
+    "jarum suntik",
+    "jarum tisik"
+  ],
+  "peribahasa": [
+    "ada jarum hendaklah ada benangnya; lulus jarum, lulus kelindan; menjalankan jarum halus; ujung jarum halus kelindan sutra"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.rum1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat jahit yang terbuat dari logam, bentuknya bulat panjang, kecil, berujung runcing (ada yang bertakuk, berkait, atau melengkung pada bagian ujungnya), terdapat lubang tembus pada bagian pangkal tempat memasukkan benang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang panjang (untuk mencocok, menyuntik, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang berfungsi sebagai penunjuk pada arloji (kompas dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ja.rum2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat rumput"
+        }
+      ]
+    }
+  ]
+}

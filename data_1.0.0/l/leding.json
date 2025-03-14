@@ -1,0 +1,35 @@
+{
+  "istilah": "leding",
+  "entri": "le.ding bentuk tidak baku: ledeng",
+  "bentukTidakBaku": "ledengledeng",
+  "kataTurunan": [
+    "meleding"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.ding bentuk tidak baku: ledeng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saluran air bersih yang terbuat dari besi, paralon, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "le.ding /lêding/bentuk tidak baku: ledeng",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meleding"
+        }
+      ]
+    }
+  ]
+}

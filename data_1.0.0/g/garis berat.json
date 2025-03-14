@@ -1,0 +1,28 @@
+{
+  "istilah": "garis berat",
+  "entri": "garis1 » garis berat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "garis1 » garis berat",
+      "arti": [
+        {
+          "kelas_kata": "Mat[Matematika: -]",
+          "deskripsi": "garis yang ditarik dari sudut segitiga sampai sisi lain sehingga membagi kedua sisi itu sama panjang, yang pada segitiga sama sisi di samping membagi dua sisi sama panjang juga membentuk sudut 90°"
+        },
+        {
+          "kelas_kata": "Graf[Grafika: -]",
+          "deskripsi": "garis-garis kasar dalam klise atau pengetsaan"
+        }
+      ]
+    }
+  ]
+}

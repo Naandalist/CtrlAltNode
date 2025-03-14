@@ -1,0 +1,52 @@
+{
+  "istilah": "torpedo",
+  "entri": "tor.pe.do1 bentuk tidak baku: terpedo",
+  "bentukTidakBaku": "terpedo",
+  "kataTurunan": [
+    "menorpedo"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tor.pe.do1 bentuk tidak baku: terpedo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "senjata peledak berbentuk cerutu besar diluncurkan dari kapal, kapal selam, atau pesawat terbang untuk menenggelamkan kapal lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapal perang (selam) kecil yang bertugas menembakkan torpedo"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "naf sepeda yang dipakai untuk mengerem (pedalnya ditekan ke arah belakang)"
+        }
+      ]
+    },
+    {
+      "lema": "tor.pe.do2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut jenis ikan pari yang dapat mengeluarkan arus listrik, panjang dan beratnya mencapai 180 cm dan 90 kg, hidup di dasar perairan subtropis dengan kedalaman 2–800 m"
+        }
+      ]
+    },
+    {
+      "lema": "tor.pe.do3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "buah pelir, seperti pada sapi, kerbau, kambing"
+        }
+      ]
+    }
+  ]
+}

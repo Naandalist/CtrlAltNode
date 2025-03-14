@@ -1,0 +1,46 @@
+{
+  "istilah": "tunam",
+  "entri": "tu.nam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tertunam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagai membakar tunam basah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.nam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali api-api dari sabut, seludang kelapa, dan sebagainya (untuk sumbu meriam kuno dan sebagainya); murang; upet"
+        }
+      ]
+    },
+    {
+      "lema": "tu.nam2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "tertunam"
+        }
+      ]
+    },
+    {
+      "lema": "tu.nam3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ri[Melayu Riau: -]",
+          "deskripsi": "terjun dengan posisi kepala duluan: peloncat indah itu --, lalu meliuk"
+        }
+      ]
+    }
+  ]
+}

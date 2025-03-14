@@ -1,0 +1,38 @@
+{
+  "istilah": "orak",
+  "entri": "o.rak1 bentuk tidak baku: horak",
+  "bentukTidakBaku": "horak",
+  "kataTurunan": [
+    "mengorak",
+    "pengorak",
+    "terorak",
+    "mengorak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.rak1 bentuk tidak baku: horak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "urai"
+        }
+      ]
+    },
+    {
+      "lema": "o.rak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengorak"
+        }
+      ]
+    }
+  ]
+}

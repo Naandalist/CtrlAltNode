@@ -1,0 +1,33 @@
+{
+  "istilah": "sumbul",
+  "entri": "sum.bul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jenis keranjang dengan tutup",
+    "kataAsal": "sumbul"
+  },
+  "data": [
+    {
+      "lema": "sum.bul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bakul (berkaki) yang mempunyai tutup"
+        }
+      ]
+    },
+    {
+      "lema": "sum.bul2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sumbur"
+        }
+      ]
+    }
+  ]
+}

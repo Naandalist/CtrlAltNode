@@ -1,0 +1,46 @@
+{
+  "istilah": "wita",
+  "entri": "wi.ta2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wi.ta2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Kg[- : -]",
+          "deskripsi": "menggendong keranjang atau bakul dengan cara melingkarkan tali di kepala dan beban tergantung di belakang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Kg[- : -]",
+          "deskripsi": "menggendong anak dengan cara mengikatkan kain di kepala atau bahu dan anak tergantung di samping"
+        }
+      ]
+    },
+    {
+      "lema": "Wi.ta1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Waktu Indonesia Tengah"
+        }
+      ]
+    },
+    {
+      "lema": "WITA",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Asosiasi Tenis Internasional Wanita; Women’s International Tennis Association"
+        }
+      ]
+    }
+  ]
+}

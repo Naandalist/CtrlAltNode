@@ -1,0 +1,27 @@
+{
+  "istilah": "khidmat",
+  "entri": "khid.mat bentuk tidak baku: kademat, kedemat, kidamat",
+  "bentukTidakBaku": "kademat, kedemat, kidamat",
+  "kataTurunan": [
+    "berkhidmat",
+    "kekhidmatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pelayanan",
+    "kataAsal": "khidmah"
+  },
+  "data": [
+    {
+      "lema": "khid.mat bentuk tidak baku: kademat, kedemat, kidamat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hormat; takzim: kami mendengarkan pembacaan ayat suci Alquran dengan --"
+        }
+      ]
+    }
+  ]
+}

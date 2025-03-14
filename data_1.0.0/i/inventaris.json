@@ -1,0 +1,33 @@
+{
+  "istilah": "inventaris",
+  "entri": "in.ven.ta.ris",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "penginventarisan"
+  ],
+  "gabunganKata": [
+    "inventaris kantor",
+    "inventaris usaha tani"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.ven.ta.ris",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Adm[Administrasi dan Kepegawaian: -]",
+          "deskripsi": "daftar yang memuat semua barang milik kantor (sekolah, perusahaan, kapal, dan sebagainya) yang dipakai dalam melaksanakan tugas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "daftar ternak yang menyebutkan macam, ukurannya, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "penmas",
+  "entri": "pen.mas /pênmas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pen.mas /pênmas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "pendidikan masyarakat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "penerangan masyarakat"
+        }
+      ]
+    }
+  ]
+}

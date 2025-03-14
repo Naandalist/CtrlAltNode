@@ -1,0 +1,67 @@
+{
+  "istilah": "sayang",
+  "entri": "sa.yang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesayangan",
+    "menyayang",
+    "menyayangi",
+    "penyayang",
+    "kesayangan",
+    "menyayangi",
+    "menyayangkan",
+    "sayangkan",
+    "tersayang"
+  ],
+  "gabunganKata": [
+    "sayang akan"
+  ],
+  "peribahasa": [
+    "kasihkan anak tangan-tangankan, kasihkan bini tinggal-tinggalkan (sayang di anak dibenci, sayang di negeri ditinggalkan); merajuk kepada yang kasih (sayang); tertambat hati, terpaut sayang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.yang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kasih sayang (kepada); cinta (kepada); kasih (kepada)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sayang akan (kepada); amat suka akan (kepada); mengasihi; mencintai: tiada ibu yang tidak -- kepada anaknya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekasih; jantung hatiku: aduhai, --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.yang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kasihan: -- aku melihat pengemis itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(terasa) menyesal: -- benar, Anda tidak dapat menghadiri rapat itu; --nya, perkara itu tidak dilaporkan kepada polisi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terasa rugi (tidak rela dan sebagainya) kalau ...: dimakan mabuk, dibuang --; ayam ini -- kalau disembelih"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak rela (akan); tidak ikhlas (akan): karena -- akan hartanya, ia tidak mau mengungsi ke tempat yang lebih aman"
+        }
+      ]
+    }
+  ]
+}

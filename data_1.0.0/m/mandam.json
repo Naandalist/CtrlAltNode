@@ -1,0 +1,30 @@
+{
+  "istilah": "mandam",
+  "entri": "man.dam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "termandam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mabuk",
+    "kataAsal": "měnděm"
+  },
+  "data": [
+    {
+      "lema": "man.dam",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa pusing karena mabuk; mabuk: -- seperti mabuk kepayang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "terlampau asyik: -- dalam percintaan"
+        }
+      ]
+    }
+  ]
+}

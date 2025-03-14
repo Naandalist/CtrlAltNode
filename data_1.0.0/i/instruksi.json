@@ -1,0 +1,41 @@
+{
+  "istilah": "instruksi",
+  "entri": "in.struk.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berinstruksi",
+    "instruksional",
+    "menginstruksikan",
+    "penginstruksian"
+  ],
+  "gabunganKata": [
+    "instruksi khusus",
+    "instruksi mesin",
+    "instruksi presiden"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.struk.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perintah atau arahan (untuk melakukan pekerjaan atau melaksanakan tugas)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelajaran; petunjuk: ia bertugas memberikan -- penggunaan senjata modern"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "kata yang digunakan dalam bahasa pemrograman yang dimengerti oleh komputer sebagai perintah untuk melakukan tindakan tertentu"
+        }
+      ]
+    }
+  ]
+}

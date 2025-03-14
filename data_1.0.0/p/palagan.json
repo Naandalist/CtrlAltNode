@@ -1,0 +1,32 @@
+{
+  "istilah": "palagan",
+  "entri": "pa.la.gan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pelawan; perkelahian, peperangan; sumbangan yang diberikan kepada “pengawas” pada waktu persabungan ayam; palagan: medan perang",
+    "kataAsal": "laga"
+  },
+  "data": [
+    {
+      "lema": "pa.la.gan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "perang; pertempuran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "medan perang; medan laga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "gelanggang; arena"
+        }
+      ]
+    }
+  ]
+}

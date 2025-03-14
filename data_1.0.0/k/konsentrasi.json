@@ -1,0 +1,48 @@
+{
+  "istilah": "konsentrasi",
+  "entri": "kon.sen.tra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkonsentrasi",
+    "mengonsentrasikan",
+    "terkonsentrasi"
+  ],
+  "gabunganKata": [
+    "konsentrasi massa",
+    "konsentrasi molal",
+    "konsentrasi molar",
+    "konsentrasi osmotik",
+    "konsentrasi pasar",
+    "konsentrasi permukaan",
+    "konsentrasi toksik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.sen.tra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemusatan perhatian atau pikiran pada suatu hal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemusatan tenaga, kekuatan, pasukan, dan sebagainya di suatu tempat: ada -- pasukan di daerah perbatasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemusatan beberapa penerbitan dalam satu kekuasaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "persentase kandungan bahan di dalam satu larutan"
+        }
+      ]
+    }
+  ]
+}

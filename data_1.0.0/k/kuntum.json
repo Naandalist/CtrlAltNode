@@ -1,0 +1,38 @@
+{
+  "istilah": "kuntum",
+  "entri": "kun.tum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menguntum",
+    "sekuntum",
+    "terkuntum"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "hidung laksana kuntum seroja, dada seperti mawar merekah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kun.tum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuncup bunga yang hampir mekar (berkembang): -- mawar merah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong untuk bunga: tiga -- bunga kemboja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "gadis muda"
+        }
+      ]
+    }
+  ]
+}

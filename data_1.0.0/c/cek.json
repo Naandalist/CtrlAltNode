@@ -1,0 +1,79 @@
+{
+  "istilah": "cek",
+  "entri": "cek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengecek",
+    "pengecek",
+    "pengecekan"
+  ],
+  "gabunganKata": [
+    "cek atas bawa",
+    "cek bank",
+    "cek berjaminan",
+    "cek blangko",
+    "cek cacat",
+    "cek gantung",
+    "cek intern",
+    "cek jalan",
+    "cek karis",
+    "cek kasir",
+    "cek kedaluwarsa",
+    "cek kliring",
+    "cek kosong",
+    "cek lunas",
+    "cek mundur",
+    "cek musafir",
+    "cek nonpari",
+    "cek order",
+    "cek paritas",
+    "cek pelanggan",
+    "cek pelawat",
+    "cek putih",
+    "cek rusak",
+    "cek silang",
+    "cek terbuka",
+    "cek terjamin",
+    "cek meja",
+    "cek suara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata sapaan kepada kakak perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] kp[kependekan]",
+          "deskripsi": "encek"
+        }
+      ]
+    },
+    {
+      "lema": "cek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "perintah tertulis dari pemegang rekening kepada bank dan sebagainya yang ditunjuknya untuk membayar sejumlah uang: pembelian barang itu dibayar dengan --; selembar -- bernilai Rp10.000.000.000,00 ditukar di bank"
+        }
+      ]
+    },
+    {
+      "lema": "cek3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "periksa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "istilah": "didong",
+  "entri": "di.dong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "didong alo",
+    "didong Blang",
+    "didong jalu",
+    "didong Laut",
+    "didong niet",
+    "didong tepok"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.dong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang Prancis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang asing berkulit putih (orang Eropa)"
+        }
+      ]
+    },
+    {
+      "lema": "di.dong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pertunjukan komedi wayang boneka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pertunjukan tari dan musik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Antr[Antropologi: -]",
+          "deskripsi": "kesenian tradisional Gayo yang dimainkan dengan cara menyanyikan pantun sambil menari"
+        }
+      ]
+    }
+  ]
+}

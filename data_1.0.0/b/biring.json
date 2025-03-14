@@ -1,0 +1,57 @@
+{
+  "istilah": "biring",
+  "entri": "bi.ring1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "biring peluh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.ring1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit kulit berupa bintik-bintik dan menimbulkan rasa gatal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "bisul yang muncul di ketiak"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ring2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merah kekuning-kuningan (tentang warna bulu ayam)"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ring3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "oleng (tentang layang-layang): pemasangan benang pada layang-layang harus presisi agar tidak mudah -- ketika diterbangkan"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ring4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "bagian tepi kulit (pada bulus atau penyu): -- penyu itu melukai kakinya"
+        }
+      ]
+    }
+  ]
+}

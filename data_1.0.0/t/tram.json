@@ -1,0 +1,33 @@
+{
+  "istilah": "tram",
+  "entri": "tram1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tram1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ trem"
+        }
+      ]
+    },
+    {
+      "lema": "tram2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dinas pelayaran kapal yang tidak teratur jadwal dan rute perjalanannya"
+        }
+      ]
+    }
+  ]
+}

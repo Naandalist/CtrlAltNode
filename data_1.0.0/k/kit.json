@@ -1,0 +1,43 @@
+{
+  "istilah": "kit",
+  "entri": "kit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kit menjahit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "rumah tempat berjualan madat secara sah",
+    "kataAsal": "khut"
+  },
+  "data": [
+    {
+      "lema": "kit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rumah tempat berjualan madat secara legal"
+        }
+      ]
+    },
+    {
+      "lema": "kit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangkat atau perlengkapan untuk keperluan tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seperangkat suku cadang yang akan dirakit menjadi gawai (alat) seperti radio, mainan, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

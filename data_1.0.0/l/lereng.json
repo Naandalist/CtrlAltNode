@@ -1,0 +1,53 @@
+{
+  "istilah": "lereng",
+  "entri": "le.reng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlereng",
+    "lereng-lereng",
+    "lerengan",
+    "melereng"
+  ],
+  "gabunganKata": [
+    "lereng benua",
+    "lereng geseran",
+    "lereng kritis",
+    "lereng stabil"
+  ],
+  "peribahasa": [
+    "bagai pimping di lereng"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.reng1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisi (bidang, tanah) yang landai atau miring: -- gunung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permukaan pada keliling benda yang pipih bundar atau bulat (seperti uang, roda): -- uang ringgit Belanda berukiran tulisan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepeda"
+        }
+      ]
+    },
+    {
+      "lema": "le.reng2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "berjalur-jalur menyerong (tentang corak kain batik dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

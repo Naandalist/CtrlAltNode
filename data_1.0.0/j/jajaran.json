@@ -1,0 +1,43 @@
+{
+  "istilah": "jajaran",
+  "entri": "jajar1 » ja.jar.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jajaran genjang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jajar1 » ja.jar.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baris; deret(an): ia duduk di ~ paling muka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susunan unsur dalam bentuk baris dan kolom digunakan dalam determinan dan matriks"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "barisan; susunan kelompok dengan tugas yang sama: ~ TNI; ~ Kementerian Kesehatan"
+        }
+      ]
+    },
+    {
+      "lema": "jajar2 » ja.jar.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jajar"
+        }
+      ]
+    }
+  ]
+}

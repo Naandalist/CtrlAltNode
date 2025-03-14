@@ -1,0 +1,45 @@
+{
+  "istilah": "uan",
+  "entri": "u.an1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menguani",
+    "menguankan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.an1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menguani"
+        }
+      ]
+    },
+    {
+      "lema": "u.an2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "uban"
+        }
+      ]
+    },
+    {
+      "lema": "u.an3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ wan1"
+        }
+      ]
+    }
+  ]
+}

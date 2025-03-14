@@ -1,0 +1,55 @@
+{
+  "istilah": "patung",
+  "entri": "pa.tung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mematung",
+    "mematungkan",
+    "pematung"
+  ],
+  "gabunganKata": [
+    "patung bojog",
+    "patung peraga"
+  ],
+  "peribahasa": [
+    "geleng seperti patung kenyang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.tung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bentuk orang, hewan, dan sebagainya dibuat (dipahat dan sebagainya) dari batu, kayu, dan sebagainya; arca: beberapa orang seniman sedang memahat -- pahlawan; seperti -- tegak berdiri (tidak berkata atau tidak tahu apa pun)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golek; anak-anakan: wayang --"
+        }
+      ]
+    },
+    {
+      "lema": "pa.tung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sepatung"
+        }
+      ]
+    },
+    {
+      "lema": "pa.tung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "empatung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "istilah": "kias",
+  "entri": "ki.as1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkias",
+    "berkias-kias",
+    "berkias-kiasan",
+    "kiasan",
+    "mengias",
+    "mengiasi",
+    "mengiaskan",
+    "pengias",
+    "pengiasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "manusia tahan kias, binatang tahan palu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "cerdas",
+    "kataAsal": "kayyis"
+  },
+  "data": [
+    {
+      "lema": "ki.as1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbandingan (persamaan); ibarat; contoh yang telah ada (terjadi): berita itu hendaklah diambil --nya saja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sindiran: ia sama sekali tidak merasakan -- temannya itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "contoh (model) yang telah ada; analogi: kata “pemuda-pemudi” sebenarnya mengambil -- kata “putra-putri”"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alasan (hukum) yang berdasarkan perbandingan atau persamaan dengan hal yang telah terjadi (dalam hukum Islam)"
+        }
+      ]
+    },
+    {
+      "lema": "ki.as2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepandaian mengobati dan sebagainya dengan jampi-jampi; ilmu kias; ilmu sihir"
+        }
+      ]
+    }
+  ]
+}

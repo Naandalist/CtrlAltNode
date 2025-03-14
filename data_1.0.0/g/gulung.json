@@ -1,0 +1,42 @@
+{
+  "istilah": "gulung",
+  "entri": "gu.lung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergulung",
+    "bergulung-gulung",
+    "gemulung",
+    "gulung-menggulung",
+    "gulungan",
+    "menggulung",
+    "penggulung",
+    "penggulungan",
+    "tergulung"
+  ],
+  "gabunganKata": [
+    "gulung kering",
+    "gulung kertas",
+    "gulung tikar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gelinding",
+    "kataAsal": "guluṅ"
+  },
+  "data": [
+    {
+      "lema": "gu.lung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang berlembar-lembar atau berutas-utas yang dilipat menjadi berbentuk bulat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong untuk benda berlembar-lembar atau berutas yang dilipat menjadi bulat: tikar sebanyak lima --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "sekar",
+  "entri": "se.kar1 /sêkar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyekar"
+  ],
+  "gabunganKata": [
+    "sekar kedaton",
+    "sekar mayang",
+    "sekar suhun",
+    "sekar sapada"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bunga; mekar",
+    "kataAsal": "sěkar"
+  },
+  "data": [
+    {
+      "lema": "se.kar1 /sêkar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kembang; bunga"
+        }
+      ]
+    },
+    {
+      "lema": "se.kar2 /sêkar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tembang; nyanyian (lagu) vokal"
+        }
+      ]
+    },
+    {
+      "lema": "Se.kar3 /sêkar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami wilayah pesisir barat laut Semenanjung Bomberai dan pulau kecil di dekatnya di Provinsi Papua"
+        }
+      ]
+    }
+  ]
+}

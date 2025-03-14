@@ -1,0 +1,46 @@
+{
+  "istilah": "ruku",
+  "entri": "ru.ku1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "reruku",
+    "ruku-ruku",
+    "meruku"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.ku1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "reruku; ruku-ruku"
+        }
+      ]
+    },
+    {
+      "lema": "ru.ku2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi burung tekukur"
+        }
+      ]
+    },
+    {
+      "lema": "ruku3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ rukuk"
+        }
+      ]
+    }
+  ]
+}

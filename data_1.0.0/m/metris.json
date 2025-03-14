@@ -1,0 +1,28 @@
+{
+  "istilah": "metris",
+  "entri": "met.ris",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "met.ris",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan ritme; tersusun dalam ritme (tidak dalam proses biasa)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan ukuran (sistem desimal)"
+        }
+      ]
+    }
+  ]
+}

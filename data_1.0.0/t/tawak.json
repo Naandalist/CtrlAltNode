@@ -1,0 +1,36 @@
+{
+  "istilah": "tawak",
+  "entri": "ta.wak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menawaki",
+    "menawakkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.wak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "menawaki"
+        }
+      ]
+    },
+    {
+      "lema": "ta.wak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menawakkan"
+        }
+      ]
+    }
+  ]
+}

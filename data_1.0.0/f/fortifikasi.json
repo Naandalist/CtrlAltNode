@@ -1,0 +1,40 @@
+{
+  "istilah": "fortifikasi",
+  "entri": "for.ti.fi.ka.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "fortifikasi pangan",
+    "fortifikasi wajib"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "for.ti.fi.ka.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekerjaan memperkuat dengan benteng; pembentengan"
+        }
+      ]
+    },
+    {
+      "lema": "for.ti.fi.ka.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "proses, cara, perbuatan mencegah terjadinya suatu penyakit: untuk meningkatkan kesehatan masyarakat di daerah itu, Pemerintah akan melaksanakan -- dan distribusi garam beryodium"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pengayaan nutrisi untuk meningkatkan kandungan gizi suatu zat"
+        }
+      ]
+    }
+  ]
+}

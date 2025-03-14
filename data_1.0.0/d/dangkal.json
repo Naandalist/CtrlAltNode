@@ -1,0 +1,58 @@
+{
+  "istilah": "dangkal",
+  "entri": "dang.kal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dangkalan",
+    "kedangkalan",
+    "mendangkal",
+    "mendangkalkan",
+    "pendangkalan",
+    "sedangkal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "dangkal telah keseberangan, dalam telah keajukan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dang.kal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dalam (tentang sungai dan sebagainya); tohor; cetek: perahu itu kandas di bagian sungai yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "belum paham atau belum mendalam benar (tentang pengetahuan dan sebagainya); belum meresap benar: pengetahuannya tentang kebudayaan bangsanya sendiri masih --"
+        }
+      ]
+    },
+    {
+      "lema": "dang.kal2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "keras dan tidak baik masaknya (tentang buah-buahan)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "tidak berair dan tidak subur (tentang tanaman)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -] ki[kiasan]",
+          "deskripsi": "tebal hati tidak lemah lembut"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -] ki[kiasan]",
+          "deskripsi": "terbengkalai; tanggung-tanggung (tentang pekerjaan)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "integrasi",
+  "entri": "in.teg.ra.si /intêgrasi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berintegrasi",
+    "mengintegrasikan",
+    "pengintegrasian",
+    "terintegrasi"
+  ],
+  "gabunganKata": [
+    "integrasi balik",
+    "integrasi bangsa",
+    "integrasi data",
+    "integrasi horizontal",
+    "integrasi kebudayaan",
+    "integrasi kelompok",
+    "integrasi samping",
+    "integrasi sistem",
+    "integrasi skala besar",
+    "integrasi vertikal",
+    "integrasi wilayah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.teg.ra.si /intêgrasi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembauran hingga menjadi kesatuan yang utuh atau bulat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "penggabungan aktivitas, program, atau komponen perangkat keras yang berbeda ke dalam satu unit fungsional"
+        }
+      ]
+    }
+  ]
+}

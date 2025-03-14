@@ -1,0 +1,38 @@
+{
+  "istilah": "filter",
+  "entri": "fil.ter /filtêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memfilter"
+  ],
+  "gabunganKata": [
+    "filter biologis",
+    "filter mekanis",
+    "filter optik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fil.ter /filtêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menyaring; penyaring; penapis: -- pada ujung rokok itu dimaksudkan untuk menyaring nikotin; -- dipasangkan pada ujung pipa untuk menjaring lumpur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "alat untuk meloloskan cahaya dari frekuensi atau selang frekuensi tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "rangkaian listrik yang dapat meloloskan listrik arus rangga (bolak-balik) dari frekuensi atau selang frekuensi tertentu; tapis"
+        }
+      ]
+    }
+  ]
+}

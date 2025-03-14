@@ -1,0 +1,77 @@
+{
+  "istilah": "serat",
+  "entri": "se.rat1 /sêrat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyeratkan",
+    "terserat",
+    "berserat"
+  ],
+  "gabunganKata": [
+    "serat alami",
+    "serat bambu",
+    "serat bekas",
+    "serat buatan",
+    "serat busa",
+    "serat diet",
+    "serat gelas",
+    "serat hewan",
+    "serat jagung",
+    "serat jute",
+    "serat kapas",
+    "serat kasar",
+    "serat kedelai",
+    "serat kulit kayu",
+    "serat larut",
+    "serat makanan",
+    "serat manila",
+    "serat mineral",
+    "serat nanas",
+    "serat optik",
+    "serat optis",
+    "serat otot",
+    "serat otot daya tahan",
+    "serat otot kedut cepat",
+    "serat otot kedut lambat",
+    "serat panjang",
+    "serat pendek",
+    "serat poliester",
+    "serat polimer",
+    "serat selulosa",
+    "serat sintetis",
+    "serat sintil",
+    "serat taklarut",
+    "serat taklarut air",
+    "serat tiruan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.rat1 /sêrat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sendat; tidak licin: sekrup-sekrup peti itu sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak lancar: pemberian kredit -- sekali"
+        }
+      ]
+    },
+    {
+      "lema": "se.rat2 /sêrat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "sel atau jaringan serupa benang atau pita panjang, berasal dari hewan atau tumbuhan (ulat, batang pisang, daun nanas, kulit kayu, dan sebagainya), digunakan untuk membuat kertas, tekstil, dan sikat"
+        }
+      ]
+    }
+  ]
+}

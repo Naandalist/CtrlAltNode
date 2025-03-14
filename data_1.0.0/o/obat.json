@@ -1,0 +1,102 @@
+{
+  "istilah": "obat",
+  "entri": "o.bat bentuk tidak baku: ubat",
+  "bentukTidakBaku": "ubat",
+  "kataTurunan": [
+    "berobat",
+    "mengobati",
+    "mengobatkan",
+    "obat-obatan",
+    "pengobat",
+    "pengobatan",
+    "perobatan",
+    "terobat",
+    "terobati"
+  ],
+  "gabunganKata": [
+    "obat adiktif",
+    "obat angin",
+    "obat anorektik",
+    "obat antidepresan",
+    "obat antihipertensif",
+    "obat antikonvulsan",
+    "obat antispasmodik",
+    "obat basah",
+    "obat batuk",
+    "obat bebas",
+    "obat bebas terbatas",
+    "obat bedil",
+    "obat bius",
+    "obat cacing",
+    "obat daftar G",
+    "obat dahaga",
+    "obat dalam",
+    "obat dokter",
+    "obat esensial",
+    "obat generik",
+    "obat guna",
+    "obat haus",
+    "obat herbal",
+    "obat jerih",
+    "obat kampung",
+    "obat keras",
+    "obat kuat",
+    "obat kumur",
+    "obat lali",
+    "obat lelah",
+    "obat luar",
+    "obat mata",
+    "obat mentah",
+    "obat merah",
+    "obat nyamuk",
+    "obat oral",
+    "obat palsu",
+    "obat paten",
+    "obat pekasih",
+    "obat pencahar",
+    "obat penenang",
+    "obat pengasih",
+    "obat perangsang",
+    "obat rektal",
+    "obat rumah",
+    "obat sinse",
+    "obat stimulan",
+    "obat tambahan",
+    "obat telekap",
+    "obat tidur",
+    "obat tradisional",
+    "obat urus-urus",
+    "obat vaginal"
+  ],
+  "peribahasa": [
+    "obat jauh, penyakit hampir; semanis-manis gula, ada pasir di dalamnya (manis-manis gula berpasir jua, sepahit-pahit jadam menjadi obat)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.bat bentuk tidak baku: ubat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Far[Farmasi dan Farmakologi: -]",
+          "deskripsi": "bahan untuk mengurangi, menghilangkan penyakit, atau menyembuhkan seseorang dari penyakit: daun ketepeng sering dibuat -- pencahar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "bahan kimia (untuk pelbagai keperluan): hendak mencuci potret, tetapi tidak ada --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "mesiu; peluru: membuang -- menembak ke atas (hanya untuk menakut-nakuti dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "guna-guna: dia jadi penurut seperti orang kena --"
+        }
+      ]
+    }
+  ]
+}

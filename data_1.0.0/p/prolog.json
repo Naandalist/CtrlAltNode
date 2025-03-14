@@ -1,0 +1,28 @@
+{
+  "istilah": "prolog",
+  "entri": "pro.log",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.log",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembukaan (sandiwara, musik, pidato, dan sebagainya); (kata) pendahuluan; peristiwa pendahuluan: sandiwara dibuka dengan -- yang diucapkan oleh pemeran utama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "adegan singkat atau pidato yang disampaikan pada awal pertunjukan"
+        }
+      ]
+    }
+  ]
+}

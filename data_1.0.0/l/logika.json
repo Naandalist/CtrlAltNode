@@ -1,0 +1,39 @@
+{
+  "istilah": "logika",
+  "entri": "lo.gi.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlogika"
+  ],
+  "gabunganKata": [
+    "logika bernilai majemuk",
+    "logika deduktif",
+    "logika formal",
+    "logika induktif",
+    "logika matematik",
+    "logika program",
+    "logika sederhana",
+    "logika simbolik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.gi.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan tentang kaidah berpikir; ilmu mantik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan pikiran yang masuk akal: keterangan saksi tidak ada --nya"
+        }
+      ]
+    }
+  ]
+}

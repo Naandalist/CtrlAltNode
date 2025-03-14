@@ -1,0 +1,75 @@
+{
+  "istilah": "kalang",
+  "entri": "ka.lang1 bentuk tidak baku: kelang1",
+  "bentukTidakBaku": "kelang1",
+  "kataTurunan": [
+    "berkalang",
+    "kalangan",
+    "mengalang",
+    "mengalangkan",
+    "terkalang",
+    "kalangan",
+    "mengalang"
+  ],
+  "gabunganKata": [
+    "kalang batang",
+    "kalang hulu",
+    "kalang surik",
+    "kalang terutui"
+  ],
+  "peribahasa": [
+    "tertangkap di ikan kalang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "kalaṅ"
+  },
+  "data": [
+    {
+      "lema": "ka.lang1 bentuk tidak baku: kelang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyangga (bantal, ganjal, dan sebagainya); penunjang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.lang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kalangan"
+        }
+      ]
+    },
+    {
+      "lema": "ka.lang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan lele yang lebih pipih dan berwarna kekuning-kuningan"
+        }
+      ]
+    },
+    {
+      "lema": "ka.lang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "gundukan tanah memanjang sebagai media tanam untuk sayuran"
+        }
+      ]
+    },
+    {
+      "lema": "ka.lang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuda yang berwarna cokelat kehitaman"
+        }
+      ]
+    }
+  ]
+}

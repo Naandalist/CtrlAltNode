@@ -1,0 +1,37 @@
+{
+  "istilah": "menanggali",
+  "entri": "tanggal1 » me.nang.gal.i",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tanggal1 » me.nang.gal.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melucuti (baju, pakaian, perhiasan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membongkar (pabrik, mesin, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tanggal2 » me.nang.gal.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberi tanggal; membubuhi tanggal; menarikhkan"
+        }
+      ]
+    }
+  ]
+}

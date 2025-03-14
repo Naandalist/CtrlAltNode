@@ -1,0 +1,38 @@
+{
+  "istilah": "oto",
+  "entri": "o.to1 bentuk tidak baku: auto1",
+  "bentukTidakBaku": "auto1",
+  "kataTurunan": [
+    "beroto"
+  ],
+  "gabunganKata": [
+    "oto gerobak",
+    "oto sewaan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "bedung",
+    "kataAsal": "ûi tau"
+  },
+  "data": [
+    {
+      "lema": "o.to1 bentuk tidak baku: auto1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kendaraan (kereta) yang dijalankan dengan motor; mobil; otomobil"
+        }
+      ]
+    },
+    {
+      "lema": "o.to2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain penutup dada dan perut yang bertali ujungnya sebagai pengikat pada leher dan perut (untuk anak di bawah usia lima tahun); bedung"
+        }
+      ]
+    }
+  ]
+}

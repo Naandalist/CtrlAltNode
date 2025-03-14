@@ -1,0 +1,34 @@
+{
+  "istilah": "seribu",
+  "entri": "ribu » se.ri.bu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagai rambut dibelah tujuh (seribu); diam seribu basa; enggan seribu daya, mau sepatah kata; gugur satu, tumbuh seribu; laksana manau, seribu kali embat haram tak patah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ribu » se.ri.bu",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "bilangan yang dilambangkan dengan angka 1.000 (Arab) atau M (Romawi)"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "urutan ke-1000 sesudah ke-999 dan sebelum ke-1001"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "jumlah bilangan 999 ditambah 1 atau 10 kali 100"
+        }
+      ]
+    }
+  ]
+}

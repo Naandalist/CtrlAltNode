@@ -1,0 +1,33 @@
+{
+  "istilah": "mantiki",
+  "entri": "man.ti.ki1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "zona; lingkungan",
+    "kataAsal": "minṭaqah"
+  },
+  "data": [
+    {
+      "lema": "man.ti.ki1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berdasarkan pikiran (bukan berdasarkan emosi); logis: jawabannya itu dapat dipandang -- karena ia adalah seorang pendidik"
+        }
+      ]
+    },
+    {
+      "lema": "man.ti.ki2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "mintakat"
+        }
+      ]
+    }
+  ]
+}

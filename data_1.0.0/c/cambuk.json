@@ -1,0 +1,49 @@
+{
+  "istilah": "cambuk",
+  "entri": "cam.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencambuk",
+    "mencambuki",
+    "pencambuk",
+    "pencambukan",
+    "tercambuk"
+  ],
+  "gabunganKata": [
+    "cambuk haribu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cam.buk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk melecut binatang (kuda, kerbau, dan sebagainya), berupa jalinan tali dari serat tumbuhan, benang, atau kulit yang diikatkan pada sebuah tangkai; cemeti besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang dapat menimbulkan dorongan untuk maju (lebih baik): peristiwa itu menjadi -- baginya untuk belajar lebih tekun"
+        }
+      ]
+    },
+    {
+      "lema": "cam.buk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "gerakan melentingkan badan (pada senam) dengan cara menggerakkan pinggul dan pinggang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "gerakan kaki pada renang"
+        }
+      ]
+    }
+  ]
+}

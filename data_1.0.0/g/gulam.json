@@ -1,0 +1,28 @@
+{
+  "istilah": "gulam",
+  "entri": "gu.lam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemuda",
+    "kataAsal": "gulām"
+  },
+  "data": [
+    {
+      "lema": "gu.lam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "budak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "anak"
+        }
+      ]
+    }
+  ]
+}

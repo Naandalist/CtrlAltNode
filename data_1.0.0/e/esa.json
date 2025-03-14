@@ -1,0 +1,34 @@
+{
+  "istilah": "esa",
+  "entri": "e.sa /êsa/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beresa-esaan",
+    "keesaan",
+    "mengesakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "berbilang dari esa, mengaji dari alif; berbilang dari esa, mengaji dari alif; berbilang dari esa, mengaji dari alif; esa hilang, dua terbilang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "master, Syiwa",
+    "kataAsal": "īśa"
+  },
+  "data": [
+    {
+      "lema": "e.sa /êsa/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "tunggal; satu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat tunggal, tidak bersekutu: Tuhan Yang Maha --"
+        }
+      ]
+    }
+  ]
+}

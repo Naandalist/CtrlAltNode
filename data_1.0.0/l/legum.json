@@ -1,0 +1,35 @@
+{
+  "istilah": "legum",
+  "entri": "le.gum1 /lêgum/bentuk tidak baku: legam1",
+  "bentukTidakBaku": "legam1",
+  "kataTurunan": [
+    "legum-legum"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.gum1 /lêgum/bentuk tidak baku: legam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "degum"
+        }
+      ]
+    },
+    {
+      "lema": "le.gum2 /lêgum/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "kelompok tumbuhan kacang-kacangan"
+        }
+      ]
+    }
+  ]
+}

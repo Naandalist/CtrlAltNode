@@ -1,0 +1,37 @@
+{
+  "istilah": "pluvial",
+  "entri": "plu.vi.al1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "plu.vi.al1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "curah hujan tinggi yang menandai bagian kala pleistosen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masa hujan yang panjang"
+        }
+      ]
+    },
+    {
+      "lema": "plu.vi.al2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "bagian dari busana liturgi yang dikenakan oleh imam atau uskup di luar misa, seperti liturgi pemberkatan, berupa jas atau mantel panjang tanpa lengan"
+        }
+      ]
+    }
+  ]
+}

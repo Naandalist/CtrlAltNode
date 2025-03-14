@@ -1,0 +1,36 @@
+{
+  "istilah": "bidah",
+  "entri": "bid.ah bentuk tidak baku: bidaah",
+  "bentukTidakBaku": "bidaah",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang baru",
+    "kataAsal": "bid‘ah"
+  },
+  "data": [
+    {
+      "lema": "bid.ah bentuk tidak baku: bidaah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "perbuatan atau cara yang tidak pernah dikatakan atau dicontohkan Rasulullah atau sahabatnya, kemudian dilakukan seolah-olah menjadi ajaran Islam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pembaruan ajaran Islam tanpa berpedoman pada sumber otoritatif, seperti Al-Qur'an, hadis, ijmak, dan kias"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -] ki[kiasan]",
+          "deskripsi": "kebohongan; dusta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "ajaran atau pandangan yang bertentangan dengan gereja"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "nilai larik",
+  "entri": "nilai » nilai larik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nilai » nilai larik",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "nilai yang tersimpan di dalam struktur data larik"
+        }
+      ]
+    }
+  ]
+}

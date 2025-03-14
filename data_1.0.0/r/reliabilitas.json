@@ -1,0 +1,34 @@
+{
+  "istilah": "reliabilitas",
+  "entri": "re.li.a.bi.li.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "reliabilitas perangkat keras"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.li.a.bi.li.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pol[Politik dan Pemerintahan: -]",
+          "deskripsi": "perihal sesuatu yang bersifat reliabel (bersifat andal)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketelitian dan ketepatan teknik pengukuran; keterandalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "kemungkinan suatu produk untuk dapat melakukan fungsi tertentu pada kondisi yang telah dinyatakan dalam periode waktu yang diberikan"
+        }
+      ]
+    }
+  ]
+}

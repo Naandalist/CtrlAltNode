@@ -1,0 +1,24 @@
+{
+  "istilah": "kanal kelas suara",
+  "entri": "kanal » kanal kelas suara",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kanal » kanal kelas suara",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "kanal atau saluran yang menawarkan lebar pita minimum sesuai untuk frekuensi suara, biasanya sebesar 300 bit sampai 3.4 Kbps"
+        }
+      ]
+    }
+  ]
+}

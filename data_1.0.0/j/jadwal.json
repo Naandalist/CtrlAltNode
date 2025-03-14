@@ -1,0 +1,32 @@
+{
+  "istilah": "jadwal",
+  "entri": "jad.wal bentuk tidak baku: jadual",
+  "bentukTidakBaku": "jadual",
+  "kataTurunan": [
+    "berjadwal",
+    "menjadwalkan",
+    "penjadwalan",
+    "terjadwal"
+  ],
+  "gabunganKata": [
+    "jadwal acara",
+    "jadwal amortisasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tabel dalam buku; rajah",
+    "kataAsal": "jadwal"
+  },
+  "data": [
+    {
+      "lema": "jad.wal bentuk tidak baku: jadual",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembagian waktu berdasarkan rencana pengaturan urutan kerja; daftar atau tabel kegiatan atau rencana kegiatan dengan pembagian waktu pelaksanaan yang terperinci: -- penataran itu sudah disetujui oleh pimpinan"
+        }
+      ]
+    }
+  ]
+}

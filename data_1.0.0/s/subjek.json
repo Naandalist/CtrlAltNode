@@ -1,0 +1,48 @@
+{
+  "istilah": "subjek",
+  "entri": "sub.jek bentuk tidak baku: subyek",
+  "bentukTidakBaku": "subyek",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "subjek gabungan",
+    "subjek gramatikal",
+    "subjek logis",
+    "subjek naif",
+    "subjek pajak",
+    "subjek politik",
+    "subjek psikologis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sub.jek bentuk tidak baku: subyek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pokok pembicaraan; pokok bahasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bagian klausa yang menandai apa yang dikatakan oleh pembicara; pokok kalimat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelaku: dalam pengkajian itu manusia dapat berperan sebagai -- di samping sebagai objek pengkajian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata pelajaran: bahasa Indonesia merupakan -- pokok di sekolah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang, tempat, atau benda yang diamati dalam rangka pembuntutan sebagai sasaran"
+        }
+      ]
+    }
+  ]
+}

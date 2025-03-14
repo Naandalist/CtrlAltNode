@@ -1,0 +1,33 @@
+{
+  "istilah": "mutung",
+  "entri": "mu.tung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "merasa sakit hati, tersinggung perasaannya, marah terhadap seseorang",
+    "kataAsal": "amutuṅ"
+  },
+  "data": [
+    {
+      "lema": "mu.tung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "patah hati sehingga tidak mau melanjutkan hubungan dan sebagainya: ia menjadi -- dan meninggalkan desanya yang penuh harapan"
+        }
+      ]
+    },
+    {
+      "lema": "mu.tung2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "musnah terbakar"
+        }
+      ]
+    }
+  ]
+}

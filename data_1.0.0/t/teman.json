@@ -1,0 +1,45 @@
+{
+  "istilah": "teman",
+  "entri": "te.man /têman/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berteman",
+    "menemani",
+    "peneman",
+    "pertemanan"
+  ],
+  "gabunganKata": [
+    "teman hidup",
+    "teman nasi",
+    "teman sejawat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.man /têman/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kawan; sahabat: hanya -- dekat yang akan kuundang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang bersama-sama bekerja (berbuat, berjalan); lawan (bercakap-cakap): -- seperjalanan; ia --ku bekerja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang menjadi pelengkap (pasangan) atau yang dipakai (dimakan dan sebagainya) bersama-sama: ada jenis lumut yang biasa dimakan untuk -- nasi; pisang rebus enak untuk -- minum kopi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "saya (di beberapa daerah dipakai dalam bahasa sehari-hari)"
+        }
+      ]
+    }
+  ]
+}

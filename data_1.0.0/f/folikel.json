@@ -1,0 +1,33 @@
+{
+  "istilah": "folikel",
+  "entri": "fo.li.kel1 /folikêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fo.li.kel1 /folikêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kantong kelenjar yang kecil dan sempit (misalnya pada rambut)"
+        }
+      ]
+    },
+    {
+      "lema": "fo.li.kel2 /folikêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "buah kering berbiji banyak yang pecah pada satu sisinya untuk melepaskan biji"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "bentrok",
+  "entri": "ben.trok /bêntrok/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bentrokan",
+    "berbentrok",
+    "berbentrokan",
+    "membentrokkan",
+    "perbentrokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.trok /bêntrok/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bercekcok; berselisih: karena kurang komunikasi, majikan sering -- dengan buruh"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlawanan; bertentangan: keterangan saksi A -- dengan pengakuan terdakwa"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlanggaran; bertumbukan: kemarin ada kapal -- di pelabuhan"
+        }
+      ]
+    }
+  ]
+}

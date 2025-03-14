@@ -1,0 +1,39 @@
+{
+  "istilah": "kempung",
+  "entri": "kem.pung1 /kêmpung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerempung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kem.pung1 /kêmpung/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kempot (tentang pipi)"
+        }
+      ]
+    },
+    {
+      "lema": "kem.pung2 /kêmpung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bagian perut sebelah bawah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "gelembung"
+        }
+      ]
+    }
+  ]
+}

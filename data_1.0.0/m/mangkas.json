@@ -1,0 +1,33 @@
+{
+  "istilah": "mangkas",
+  "entri": "mang.kas1 bentuk tidak baku: makas",
+  "bentukTidakBaku": "makas",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mang.kas1 bentuk tidak baku: makas",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keras; mangkar"
+        }
+      ]
+    },
+    {
+      "lema": "mang.kas2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ bangkas"
+        }
+      ]
+    }
+  ]
+}

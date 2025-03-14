@@ -1,0 +1,53 @@
+{
+  "istilah": "kelar",
+  "entri": "ke.lar1 /kêlar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkelar",
+    "berkelar-kelar",
+    "mengelar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.lar1 /kêlar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "takik (pada batang pohon yang hendak ditebang dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sayatan yang tidak dalam (pada ikan yang hendak digarami, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alur-alur (ringgit-ringgit) pada tanduk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelang-gelang pada jalan napas, pada tubuh lipan, kumbang, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelang-gelang dari rotan dan sebagainya tempat mengikatkan tali dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lar2 /kêlar/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "selesai; siap"
+        }
+      ]
+    }
+  ]
+}

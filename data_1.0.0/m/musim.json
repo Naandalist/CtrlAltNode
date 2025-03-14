@@ -1,0 +1,67 @@
+{
+  "istilah": "musim",
+  "entri": "mu.sim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermusim",
+    "musiman",
+    "semusim"
+  ],
+  "gabunganKata": [
+    "musim antara",
+    "musim bediding",
+    "musim berombak",
+    "musim bunga",
+    "musim dingin",
+    "musim gugur",
+    "musim haji",
+    "musim hujan",
+    "musim kawin",
+    "musim kering (kemarau)",
+    "musim lefa",
+    "musim mengena",
+    "musim monsun",
+    "musim mudik",
+    "musim panas",
+    "musim peralihan",
+    "musim puncak",
+    "musim ramai",
+    "musim ramai",
+    "musim salju",
+    "musim semi",
+    "musim sepi",
+    "musim tanam",
+    "musim tumbuh"
+  ],
+  "peribahasa": [
+    "musim kemarau menghilirkan baluk; zaman beralih, musim bertukar"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "masa di saat banyak manusia berkumpul",
+    "kataAsal": "mausim"
+  },
+  "data": [
+    {
+      "lema": "mu.sim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu tertentu yang bertalian dengan keadaan iklim: di Indonesia terdapat dua --, yaitu -- hujan dan -- kemarau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilangan waktu tertentu (tiga bulan, empat bulan, dan sebagainya ketika pohon buah-buahan, palawija, dan sebagainya banyak menghasilkan): hasil -- panen tahun ini memuaskan; -- durian tahun lalu cukup baik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masa; waktu (ketika ada suatu peristiwa): anak perempuannya hilang ketika -- gerombolan pengacau masuk desa; -- cacar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu atau masa ketika sesuatu (kegiatan, permainan, dan sebagainya) banyak terjadi atau sering berlangsung: -- layang-layang"
+        }
+      ]
+    }
+  ]
+}

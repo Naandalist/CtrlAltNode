@@ -1,0 +1,38 @@
+{
+  "istilah": "makmur",
+  "entri": "mak.mur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemakmuran",
+    "memakmurkan",
+    "pemakmuran",
+    "persemakmuran",
+    "termakmur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang ditempati",
+    "kataAsal": "ma‘mūr"
+  },
+  "data": [
+    {
+      "lema": "mak.mur",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "banyak hasil: Karawang dahulu dikenal sebagai daerah -- beras"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "banyak penduduk dan sejahtera: pembangunan menuju masyarakat yang adil dan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "serba kecukupan; tidak kekurangan: hidupnya sudah --"
+        }
+      ]
+    }
+  ]
+}

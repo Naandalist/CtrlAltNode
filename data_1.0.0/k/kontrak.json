@@ -1,0 +1,43 @@
+{
+  "istilah": "kontrak",
+  "entri": "kon.trak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kontrakan",
+    "mengontrak",
+    "mengontrakkan",
+    "pengontrak",
+    "terkontrak"
+  ],
+  "gabunganKata": [
+    "kontrak anuitas",
+    "kontrak bagi hasil",
+    "kontrak elektronik",
+    "kontrak kontingensi",
+    "kontrak kontingesi",
+    "kontrak pembelian",
+    "kontrak tahun jamak",
+    "kontrak tawar-menawar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.trak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perjanjian (secara tertulis) antara dua pihak dalam perdagangan, sewa-menyewa, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persetujuan yang bersanksi hukum antara dua pihak atau lebih untuk melakukan atau tidak melakukan kegiatan"
+        }
+      ]
+    }
+  ]
+}

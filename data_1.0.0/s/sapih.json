@@ -1,0 +1,37 @@
+{
+  "istilah": "sapih",
+  "entri": "sa.pih1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyapih",
+    "penyapihan",
+    "sapihan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pemisahan atau peleraian (tentang perjuangan), akhir (penangguhan) (sementara) dari peperangan, pembubaran (tentang pertemuan); dipisah, diakhiri",
+    "kataAsal": "sapih"
+  },
+  "data": [
+    {
+      "lema": "sa.pih1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lumpuh sebelah badan"
+        }
+      ]
+    },
+    {
+      "lema": "sa.pih2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "henti"
+        }
+      ]
+    }
+  ]
+}

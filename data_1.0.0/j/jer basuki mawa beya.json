@@ -1,0 +1,41 @@
+{
+  "istilah": "jer basuki mawa beya",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Skt[Sanskerta: -]",
+          "deskripsi": "kebahagiaan (keberhasilan) hanya dapat dicapai dengan pengorbanan, makna harfiahnya 'supaya baik (berhasil) diperlukan biaya (jerih payah)'"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Jw[Jawa: -]",
+          "deskripsi": "untuk mencapai suatu kebahagiaan diperlukan pengorbanan, semboyan Pemerintah Provinsi Jawa Timur"
+        }
+      ]
+    },
+    {
+      "lema": "jer basuki mawa beya",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Sanskerta: -]",
+          "deskripsi": "kebahagiaan (keberhasilan) hanya dapat dicapai dengan pengorbanan, makna harfiahnya 'supaya baik (berhasil) diperlukan biaya (jerih payah)'"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Jawa: -]",
+          "deskripsi": "untuk mencapai suatu kebahagiaan diperlukan pengorbanan, semboyan Pemerintah Provinsi Jawa Timur"
+        }
+      ]
+    }
+  ]
+}

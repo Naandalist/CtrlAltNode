@@ -1,0 +1,41 @@
+{
+  "istilah": "dongkol",
+  "entri": "dong.kol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendongkol",
+    "mendongkolkan",
+    "pendongkol"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dong.kol1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak bertanduk"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sudah tidak berkuasa (menjabat) lagi: lurah --"
+        }
+      ]
+    },
+    {
+      "lema": "dong.kol2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kesal"
+        }
+      ]
+    }
+  ]
+}

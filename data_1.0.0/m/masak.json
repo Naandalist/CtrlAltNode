@@ -1,0 +1,78 @@
+{
+  "istilah": "masak",
+  "entri": "ma.sak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermasak-masak",
+    "kemasakan",
+    "masak-masak",
+    "masak-memasak",
+    "masakan",
+    "memasak",
+    "memasak-masak",
+    "memasakkan",
+    "pemasak",
+    "pemasakan",
+    "masakan"
+  ],
+  "gabunganKata": [
+    "masak air",
+    "masak ajar",
+    "masak akal",
+    "masak besar",
+    "masak dini",
+    "masak kelamin",
+    "masak lambat",
+    "masak lum",
+    "masak masai",
+    "masak niat",
+    "masak pote",
+    "masak sekolah",
+    "masak tangan",
+    "masak timbangan"
+  ],
+  "peribahasa": [
+    "baik berjagung-jagung, sementara padi belum masak; ingin buah manggis hutan, masak ranum tergantung tinggi; limau masak sebelah, perahu karam sekerat; makan masak mentah; masak buah rumbia; masak di luar, mentah di dalam; masak malam, mentah pagi (siang); padi masak, jagung mengupih; sambil berdiang, nasi masak; seperti limau masak seulas"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.sak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah tua dan sampai waktunya untuk dipetik, dimakan, dan sebagainya (tentang buah-buahan): durian ini -- di pohon bukan -- karena diperam; jangan memetik mangga yang belum --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah matang (empuk, jadi) dan sampai waktunya untuk diambil, diangkat, dan sebagainya (tentang makanan): nasi sudah --, makanlah dulu; adonan ini belum --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sudah selesai dikerjakan (dididik dan sebagainya); sudah dipikirkan (dipertimbangkan) baik-baik; sudah diputuskan (disetujui) bersama; sudah sempurna; sudah pada tingkatan yang terbaik (terakhir): dia pemuda yang sudah -- sehingga dapat berpikir (bekerja) secara baik; perkara yang sudah -- jangan diulang-ulang lagi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "matang (dalam berpikir)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memasak"
+        }
+      ]
+    },
+    {
+      "lema": "ma.sak2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mana boleh; masa"
+        }
+      ]
+    }
+  ]
+}

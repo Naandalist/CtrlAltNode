@@ -1,0 +1,35 @@
+{
+  "istilah": "khusyuk",
+  "entri": "khu.syuk1 bentuk tidak baku: khusuk",
+  "bentukTidakBaku": "khusuk",
+  "kataTurunan": [
+    "terkhusyuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kerendahan hati",
+    "kataAsal": "khusyū‘"
+  },
+  "data": [
+    {
+      "lema": "khu.syuk1 bentuk tidak baku: khusuk",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh penyerahan dan kebulatan hati; sungguh-sungguh; penuh kerendahan hati: mereka sedang berdoa dengan --nya"
+        }
+      ]
+    },
+    {
+      "lema": "khu.syuk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tujuan; niat"
+        }
+      ]
+    }
+  ]
+}

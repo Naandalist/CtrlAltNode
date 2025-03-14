@@ -1,0 +1,30 @@
+{
+  "istilah": "paman",
+  "entri": "pa.man",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpaman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "paman (adik laki-laki ayah atau ibu)",
+    "kataAsal": "paman"
+  },
+  "data": [
+    {
+      "lema": "pa.man",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adik laki-laki ayah atau ibu; pakcik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada orang laki-laki yang belum dikenal atau yang patut dihormati"
+        }
+      ]
+    }
+  ]
+}

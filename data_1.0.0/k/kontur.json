@@ -1,0 +1,34 @@
+{
+  "istilah": "kontur",
+  "entri": "kon.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kontur intonasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.tur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis bentuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pola ciri-ciri yang terjadi dari pola nada, gerak nada dengan atau tanpa tekanan yang meliputi sebagian atau seluruh ujaran tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hidm[Hidrometeorologi: -]",
+          "deskripsi": "garis ketinggian tetap permukaan isobar; garis kontur"
+        }
+      ]
+    }
+  ]
+}

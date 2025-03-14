@@ -1,0 +1,105 @@
+{
+  "istilah": "main",
+  "entri": "ma.in",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermain",
+    "bermain-main",
+    "main-main",
+    "main-mainan",
+    "mainan",
+    "memainkan",
+    "mempermainkan",
+    "pemain",
+    "permainan",
+    "sepermainan"
+  ],
+  "gabunganKata": [
+    "main angin",
+    "main banda",
+    "main gayung",
+    "main gila",
+    "main hakim sendiri",
+    "main judi",
+    "main kartu",
+    "main kayu",
+    "main lerap",
+    "main mata",
+    "main muda",
+    "main penuh",
+    "main peran",
+    "main perempuan",
+    "main porok",
+    "main rebutan",
+    "main sabun",
+    "main satu babak",
+    "main sembunyi",
+    "main serobot",
+    "main serong",
+    "main sikut-sikutan",
+    "main tangan",
+    "main tebeng",
+    "main tedeng aling-aling",
+    "main tembung",
+    "main tempel",
+    "main top",
+    "main tubruk",
+    "main tutul",
+    "main undi"
+  ],
+  "peribahasa": [
+    "alah main, menang sarak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.in",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melakukan aktivitas atau kegiatan untuk menyenangkan hati (dapat dengan menggunakan alat-alat tertentu): -- bola; -- kelereng; -- cari-carian"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "melakukan perbuatan untuk bersenang-senang (dengan alat-alat tertentu atau tidak): anak-anak sedang -- di halaman"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berjudi: sepanjang hari kerjanya hanya -- domino"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "dalam keadaan berlangsung atau mempertunjukkan (tontonan dan sebagainya): filmnya sudah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bertindak sebagai pelaku dalam sandiwara (film, musik, dan sebagainya): dia sering ikut -- dalam pementasan drama di sekolah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berbuat serong: saya benci kepada laki-laki yang suka -- dengan perempuan lain"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bekerja, bergerak, berputar, dan sebagainya secara sepatutnya (tentang mesin dan sebagainya): jarum jamnya sudah tidak -- lagi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berbuat sesuatu dengan sesuka hati; berbuat asal berbuat saja: jangan -- pinjam saja, pikirkan juga bagaimana cara mengembalikannya; kalau sudah marah, ia suka -- pukul saja"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menjalankan usaha (taksi, becak, dan sebagainya); mencari nafkah dengan: dulu -- becak, sekarang -- taksi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "selalu menggunakan (memakai): sekarang dia sudah tidak mau naik bus, -- taksi melulu"
+        }
+      ]
+    }
+  ]
+}

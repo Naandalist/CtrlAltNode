@@ -1,0 +1,39 @@
+{
+  "istilah": "sirep",
+  "entri": "si.rep /sirêp/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesirep",
+    "menyirep",
+    "menyirepi",
+    "penyirep",
+    "penyirepan",
+    "tersirep"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sunyi, tanpa suara",
+    "kataAsal": "sirěp"
+  },
+  "data": [
+    {
+      "lema": "si.rep /sirêp/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mantra untuk membuat orang tertidur; pukau: begitu terkena, -- semuanya tertidur nyenyak sehingga pencuri itu masuk dengan bebas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sunyi senyap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "padam (tentang api, kebakaran dan sebagainya); tidak panas lagi (tentang demam); berhenti (tentang tembak-menembak); reda"
+        }
+      ]
+    }
+  ]
+}

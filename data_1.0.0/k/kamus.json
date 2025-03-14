@@ -1,0 +1,77 @@
+{
+  "istilah": "kamus",
+  "entri": "ka.mus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengamuskan",
+    "pekamus",
+    "perkamusan",
+    "mengamus",
+    "pengamusan"
+  ],
+  "gabunganKata": [
+    "kamus aneka bahasa",
+    "kamus bahasa baku",
+    "kamus baku",
+    "kamus besar",
+    "kamus data",
+    "kamus data aktif",
+    "kamus data umum",
+    "kamus diakronis",
+    "kamus dwibahasa",
+    "kamus ejaan",
+    "kamus ekabahasa",
+    "kamus elektronik",
+    "kamus ensiklopedis",
+    "kamus istilah",
+    "kamus jabatan nasional",
+    "kamus kantong",
+    "kamus kecil",
+    "kamus mini",
+    "kamus multibahasa",
+    "kamus pelajar",
+    "kamus saku",
+    "kamus sinkronis",
+    "kamus sinonim",
+    "kamus sintagmatis",
+    "kamus SMS Lingo",
+    "kamus standar",
+    "kamus topografis",
+    "kamus umum",
+    "kamus visual"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "buku acuan yang memuat kata dan ungkapan, biasanya disusun menurut abjad berikut keterangan tentang makna, pemakaian, atau terjemahannya; air lautan",
+    "kataAsal": "qāmūs"
+  },
+  "data": [
+    {
+      "lema": "ka.mus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karya rujukan atau acuan dalam bentuk cetak maupun digital yang memuat kata dan ungkapan, dapat disusun menurut abjad atau tema, berisi keterangan tentang makna, pemakaian, atau terjemahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku yang memuat kumpulan istilah atau nama yang disusun menurut abjad beserta penjelasan tentang makna dan pemakaiannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "diri, pikiran: tak ada istilah “takut” dalam -- saya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.mus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kulit yang sudah dimasak; samak"
+        }
+      ]
+    }
+  ]
+}

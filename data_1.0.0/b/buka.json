@@ -1,0 +1,58 @@
+{
+  "istilah": "buka",
+  "entri": "bu.ka1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbuka-bukaan",
+    "bukaan",
+    "keterbukaan",
+    "membuka",
+    "membukai",
+    "membukakan",
+    "pembuka",
+    "pembukaan",
+    "terbuka",
+    "berbuka",
+    "bukaan"
+  ],
+  "gabunganKata": [
+    "buka kemas",
+    "buka mulut"
+  ],
+  "peribahasa": [
+    "buka kulit, ambil (tampak) isi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.ka1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "jarak; antara; lebar: jalan yang --nya 5 m"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "membuka; terbuka: tidak berani -- mulut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjualan atau bekerja: kantor pemerintah mulai -- pukul 08.00, tutup pukul 15.00"
+        }
+      ]
+    },
+    {
+      "lema": "bu.ka2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Isl[Agama Islam: -]",
+          "deskripsi": "minum atau makan pada petang hari (biasa ditandai dengan masuknya magrib) untuk membatalkan puasa sesudah berpuasa"
+        }
+      ]
+    }
+  ]
+}

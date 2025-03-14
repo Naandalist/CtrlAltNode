@@ -1,0 +1,39 @@
+{
+  "istilah": "cuti",
+  "entri": "cu.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercuti"
+  ],
+  "gabunganKata": [
+    "cuti bersama",
+    "cuti besar",
+    "cuti di luar tanggungan negara",
+    "cuti haid",
+    "cuti melahirkan",
+    "cuti panjang",
+    "cuti sabatikal",
+    "cuti tahunan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cu.ti",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meninggalkan pekerjaan beberapa waktu secara resmi untuk beristirahat dan sebagainya: dokter menyuruh saya -- 3 hari"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "libur; vakansi: ia sedang mengambil -- selama 2 minggu"
+        }
+      ]
+    }
+  ]
+}

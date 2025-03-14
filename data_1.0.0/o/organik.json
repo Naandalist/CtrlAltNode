@@ -1,0 +1,41 @@
+{
+  "istilah": "organik",
+  "entri": "or.ga.nik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "or.ga.nik1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Kim[Kimia: -]",
+          "deskripsi": "berkaitan dengan zat yang berasal dari makhluk hidup (hewan atau tumbuhan, seperti minyak dan batu bara)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Kim[Kimia: -]",
+          "deskripsi": "berhubungan dengan organisme hidup: kimia --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ditanam atau dipelihara tanpa menggunakan bahan kimia sintetis (tentang makanan)"
+        }
+      ]
+    },
+    {
+      "lema": "or.ga.nik2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersangkutan dengan pegawai tetap dalam struktur suatu instansi, bukan pegawai honorer"
+        }
+      ]
+    }
+  ]
+}

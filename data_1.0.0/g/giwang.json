@@ -1,0 +1,34 @@
+{
+  "istilah": "giwang",
+  "entri": "gi.wang bentuk tidak baku: gewang",
+  "bentukTidakBaku": "gewang",
+  "kataTurunan": [
+    "bergiwang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Fuzhou",
+    "arti": "sejenis anting-anting",
+    "kataAsal": "ngi7 hwang5"
+  },
+  "data": [
+    {
+      "lema": "gi.wang bentuk tidak baku: gewang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "siput mutiara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerabu; subang kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penampakan bias kilau dinamis yang mengapung di permukaan batu akik jenis tertentu, seperti giok solar, solar madu, dan lavender"
+        }
+      ]
+    }
+  ]
+}

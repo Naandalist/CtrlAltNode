@@ -1,0 +1,60 @@
+{
+  "istilah": "sirat",
+  "entri": "si.rat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketersiratan",
+    "menyirat",
+    "menyiratkan",
+    "siratan",
+    "tersirat",
+    "tersiratkan",
+    "sirat-sirat",
+    "siratan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jalan",
+    "kataAsal": "ṣirāṭ"
+  },
+  "data": [
+    {
+      "lema": "si.rat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "simpul tali yang membentuk mata jala"
+        }
+      ]
+    },
+    {
+      "lema": "si.rat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celah; sela (antara gigi dan gigi dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "si.rat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "jembatan"
+        }
+      ]
+    },
+    {
+      "lema": "si.rat4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cawat yang dikenakan oleh lelaki Dayak Iban"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "pertama",
+  "entri": "per.ta.ma /pêrtama/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memertamakan",
+    "pertama-tama"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "yang pertama, terkemuka, terutama, terpenting, utama, paling ulung, paling unggul, baik sekali, tempat yang pertama; pada tempat yang pertama, pertama-tama",
+    "kataAsal": "prathama"
+  },
+  "data": [
+    {
+      "lema": "per.ta.ma /pêrtama/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "kesatu: syarat --, harus berijazah SMU, kedua berbadan sehat, dan ketiga, mau ditempatkan di mana saja"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "mula-mula: dialah yang -- kali melihat kejadian itu"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "terutama; terpenting: keamanan adalah syarat yang -- untuk memperbaiki perekonomian negara"
+        }
+      ]
+    }
+  ]
+}

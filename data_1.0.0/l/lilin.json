@@ -1,0 +1,53 @@
+{
+  "istilah": "lilin",
+  "entri": "li.lin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlilin",
+    "melilin"
+  ],
+  "gabunganKata": [
+    "lilin aromaterapi",
+    "lilin baku",
+    "lilin batik",
+    "lilin cina",
+    "lilin lebah",
+    "lilin malam",
+    "lilin parafin",
+    "lilin paskah",
+    "lilin sambang",
+    "lilin stearin",
+    "lilin tanah"
+  ],
+  "peribahasa": [
+    "ke mana kelok lilin, ke sana kelok loyang; lengan bagai lilin dituang; minum serasa duri, makan serasa lilin, tidur tak lena, mandi tak basah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.lin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan terbuat dari parafin, mudah mencair jika dipanaskan, dapat dipakai sebagai pelita dan/atau untuk membatik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan yang mengandung lemak, lekat, mengental, mencair jika dipanaskan, dicetak dalam berbagai bentuk untuk alat penerang (dengan diberi sumbu di tengahnya) atau benda mainan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "satuan kuat cahaya (satu lilin = 12,56 lumen)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "hidrokarbon padat yang mempunyai titik cair rendah dan mudah larut"
+        }
+      ]
+    }
+  ]
+}

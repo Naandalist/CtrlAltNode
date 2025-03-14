@@ -1,0 +1,34 @@
+{
+  "istilah": "pangur",
+  "entri": "pa.ngur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memangur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kikis, kerik, korek, gores",
+    "kataAsal": "paṅur"
+  },
+  "data": [
+    {
+      "lema": "pa.ngur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menggaruk (mengorek), misalnya kelapa; kukuran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kikir besar dan kasar untuk melicinkan, misalnya kayu; patar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kikir untuk meratakan gigi"
+        }
+      ]
+    }
+  ]
+}

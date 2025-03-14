@@ -1,0 +1,33 @@
+{
+  "istilah": "patek",
+  "entri": "pa.tek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.tek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit kulit yang disebabkan oleh spora; penyakit puru; frambusia"
+        }
+      ]
+    },
+    {
+      "lema": "pa.tek /patêk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "penyakit tanaman yang menyerang buah cabai akibat jamur〔Colletrichum capsici〕"
+        }
+      ]
+    }
+  ]
+}

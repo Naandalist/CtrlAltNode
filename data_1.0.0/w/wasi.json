@@ -1,0 +1,33 @@
+{
+  "istilah": "wasi",
+  "entri": "wa.si2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Yang Maha Kaya; Yang Maha Mengetahui",
+    "kataAsal": "wāsi‘"
+  },
+  "data": [
+    {
+      "lema": "wa.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "orang yang melaksanakan wasiat: pamanku telah ditunjuk sebagai -- untuk membagikan harta warisan almarhum ayahku"
+        }
+      ]
+    },
+    {
+      "lema": "Wa.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "yang menguasai alam semesta; Allah Swt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "laju transfer informasi",
+  "entri": "laju1 » laju transfer informasi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "laju1 » laju transfer informasi",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "jumlah konten informasi per karakter dikalikan dengan jumlah karakter yang ditransmisikan per detik"
+        }
+      ]
+    }
+  ]
+}

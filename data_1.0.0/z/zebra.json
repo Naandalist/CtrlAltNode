@@ -1,0 +1,33 @@
+{
+  "istilah": "zebra",
+  "entri": "zeb.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "zeb.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuda yang memiliki corak loreng hitam putih atau cokelat tua putih, yang salah satu fungsinya sebagai perlindungan dari gigitan lalat, berasal dari Afrika〔Equus zebra〕"
+        }
+      ]
+    },
+    {
+      "lema": "zeb.ra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan hias yang kulitnya bergaris-garis hitam putih seperti zebra, panjangnya mencapai 3,8 cm, hidup di dasar perairan tropis dengan kedalaman 5–19 m, tersebar di wilayah Pakistan, India, Bangladesh, Nepal, dan Myanmar〔Danio rerio〕"
+        }
+      ]
+    }
+  ]
+}

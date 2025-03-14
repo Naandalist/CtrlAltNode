@@ -1,0 +1,44 @@
+{
+  "istilah": "lentur",
+  "entri": "len.tur /lêntur/bentuk tidak baku: letur1",
+  "bentukTidakBaku": "letur1",
+  "kataTurunan": [
+    "kelenturan",
+    "lenturan",
+    "melentur",
+    "melenturkan",
+    "pelenturan"
+  ],
+  "gabunganKata": [
+    "lentur rangkap"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "len.tur /lêntur/bentuk tidak baku: letur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluk (pada benda yang dilengkungkan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "patahan (biasan) sinar (seperti sinar yang jatuh ke dalam air)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah dikeluk-kelukkan (tidak kaku, tidak mudah patah)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "dapat (mudah) disesuaikan dengan keadaan (kebutuhan)"
+        }
+      ]
+    }
+  ]
+}

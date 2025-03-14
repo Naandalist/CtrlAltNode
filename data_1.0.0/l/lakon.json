@@ -1,0 +1,45 @@
+{
+  "istilah": "lakon",
+  "entri": "la.kon",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlakon",
+    "lelakon",
+    "melakoni",
+    "melakonkan",
+    "pelakon"
+  ],
+  "gabunganKata": [
+    "lakon episodik",
+    "lakon pembuka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.kon",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "peristiwa atau karangan yang disampaikan kembali dengan tindak tanduk melalui benda perantara hidup (manusia) atau sesuatu (boneka, wayang) sebagai pemain: pertunjukan wayang kulit dengan -- Baratayuda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "peran utama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "karangan yang berupa cerita sandiwara (dengan gaya percakapan langsung): cerita itu sudah dijadikan -- untuk dipentaskan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -] ki[kiasan]",
+          "deskripsi": "perbuatan; kejadian; peristiwa: demikianlah kesudahannya -- seorang petualang politik"
+        }
+      ]
+    }
+  ]
+}

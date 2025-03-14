@@ -1,0 +1,33 @@
+{
+  "istilah": "ketik",
+  "entri": "ke.tik1 /kêtik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.tik1 /kêtik/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tik2"
+        }
+      ]
+    },
+    {
+      "lema": "ke.tik2 /kêtik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kaki cengkerik"
+        }
+      ]
+    }
+  ]
+}

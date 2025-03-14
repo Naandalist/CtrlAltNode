@@ -1,0 +1,48 @@
+{
+  "istilah": "halo",
+  "entri": "ha.lo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhalo-halo"
+  ],
+  "gabunganKata": [
+    "halo besar",
+    "halo bulan",
+    "halo galaksi",
+    "halo matahari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.lo1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata yang digunakan untuk mengawali percakapan melalui telepon"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata seru untuk menarik perhatian (seseorang)"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "ucapan salam untuk menyapa (seseorang)"
+        }
+      ]
+    },
+    {
+      "lema": "ha.lo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkaran atau berkas sinar di sekeliling suatu benda angkasa yang berkilauan (matahari, bulan, dan sebagainya), sebagai akibat dari pantulan atau pembiasan sumber cahaya itu sendiri"
+        }
+      ]
+    }
+  ]
+}

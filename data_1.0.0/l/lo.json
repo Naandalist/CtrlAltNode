@@ -1,0 +1,42 @@
+{
+  "istilah": "lo",
+  "entri": "lo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru menyatakan heran, terperanjat, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "lo2",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kamu; lu"
+        }
+      ]
+    },
+    {
+      "lema": "lo3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "buah majemuk semu yang unsur-unsurnya tersembunyi dalam rongga penyangga bunga-bunganya yang berfusi"
+        }
+      ]
+    }
+  ]
+}

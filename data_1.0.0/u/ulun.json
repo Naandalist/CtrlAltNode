@@ -1,0 +1,28 @@
+{
+  "istilah": "ulun",
+  "entri": "u.lun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "budak, orang jaminan, hamba, abdi, pelayan",
+    "kataAsal": "hulun"
+  },
+  "data": [
+    {
+      "lema": "u.lun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "abdi; hamba"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkam"
+        }
+      ]
+    }
+  ]
+}

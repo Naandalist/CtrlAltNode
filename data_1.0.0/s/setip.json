@@ -1,0 +1,35 @@
+{
+  "istilah": "setip",
+  "entri": "se.tip1 /sêtip/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyetip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.tip1 /sêtip/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karet penghapus tulisan dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "se.tip2 /sêtip/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ step2"
+        }
+      ]
+    }
+  ]
+}

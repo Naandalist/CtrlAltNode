@@ -1,0 +1,37 @@
+{
+  "istilah": "manggar",
+  "entri": "mang.gar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mang.gar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(tangkai) mayang kelapa: kami berhasil mengusir kera-kera itu dengan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkal pelepah (nyiur dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "mang.gar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "jangkar sampan atau perahu yang dibuat dari batu dan kayu berkait"
+        }
+      ]
+    }
+  ]
+}

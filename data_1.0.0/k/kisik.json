@@ -1,0 +1,38 @@
+{
+  "istilah": "kisik",
+  "entri": "ki.sik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kisikan",
+    "mengisiki",
+    "mengisikkan",
+    "mengisik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "(bunyi) gersik, desis, suitan, gemeretuk, gemeruh",
+    "kataAsal": "kisik"
+  },
+  "data": [
+    {
+      "lema": "ki.sik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "bisik"
+        }
+      ]
+    },
+    {
+      "lema": "ki.sik2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "tumbuk pelan-pelan"
+        }
+      ]
+    }
+  ]
+}

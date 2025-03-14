@@ -1,0 +1,36 @@
+{
+  "istilah": "liter",
+  "entri": "li.ter1 /litêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berliter-liter",
+    "literan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.ter1 /litêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan dasar ukuran isi (disingkat l)"
+        }
+      ]
+    },
+    {
+      "lema": "li.ter2 /litêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "alas kandang (ayam, ternak, dan sebagainya) dibuat dari sekam, jerami, dan sebagainya yang dicampur dengan kapur, berfungsi menjaga agar kandang tetap kering"
+        }
+      ]
+    }
+  ]
+}

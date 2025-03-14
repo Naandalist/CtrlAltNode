@@ -1,0 +1,57 @@
+{
+  "istilah": "cabuk",
+  "entri": "ca.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "cabuk rambak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.buk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit kulit (di kaki) yang berbau busuk; pekung"
+        }
+      ]
+    },
+    {
+      "lema": "ca.buk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bale-bale"
+        }
+      ]
+    },
+    {
+      "lema": "ca.buk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mangkuk tempat mencuci tangan"
+        }
+      ]
+    },
+    {
+      "lema": "ca.buk4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbg[Tata Boga: -]",
+          "deskripsi": "ampas wijen yang telah diambil minyaknya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbg[Tata Boga: -]",
+          "deskripsi": "saus terbuat dari wijen dan kelapa sangrai yang dihaluskan bersama dengan bumbu lainnya"
+        }
+      ]
+    }
+  ]
+}

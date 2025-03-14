@@ -1,0 +1,40 @@
+{
+  "istilah": "mubazir",
+  "entri": "mu.ba.zir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemubaziran",
+    "memubazirkan",
+    "pemubaziran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang menggunakan hartanya tidak sesuai peruntukannya; pemboros",
+    "kataAsal": "mubażżir"
+  },
+  "data": [
+    {
+      "lema": "mu.ba.zir",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menjadi sia-sia atau tidak berguna; terbuang-buang (karena berlebihan): mereka khawatir gedung yang didirikan itu akan -- saja"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berlebih(an): penggunaan bentuk ulang seperti itu merupakan hal yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat memboroskan; berlebihan; royal: hal berlebih-lebihan yang mengarah pada sifat -- merupakan perbuatan tercela dalam agama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang berlaku boros; pemboros"
+        }
+      ]
+    }
+  ]
+}

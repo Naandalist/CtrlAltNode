@@ -1,0 +1,40 @@
+{
+  "istilah": "montase",
+  "entri": "mon.ta.se /montasê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mon.ta.se /montasê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "komposisi gambar yang dihasilkan dari pencampuran unsur beberapa sumber"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karya sastra, musik, atau seni yang terjadi dari bermacam-macam unsur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar berurutan yang dihasilkan dalam film untuk melukiskan gagasan yang berkaitan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemilihan dan pengaturan pemandangan untuk pembuatan film"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "kumpulan gambar yang dipilih, diatur, dan dikaitkan dari beragam unsur untuk menghasilkan bentuk dengan gagasan baru"
+        }
+      ]
+    }
+  ]
+}

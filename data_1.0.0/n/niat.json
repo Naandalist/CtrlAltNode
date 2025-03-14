@@ -1,0 +1,42 @@
+{
+  "istilah": "niat",
+  "entri": "ni.at",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berniat",
+    "berniat-niat",
+    "meniatkan",
+    "terniat"
+  ],
+  "gabunganKata": [
+    "niat baik",
+    "niat hati"
+  ],
+  "peribahasa": [
+    "ucap habis, niat sampai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "maksud; tekad",
+    "kataAsal": "niyyah"
+  },
+  "data": [
+    {
+      "lema": "ni.at",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maksud atau tujuan suatu perbuatan: mudah-mudahan -- baik Anda terwujud"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kehendak (keinginan dalam hati) akan melakukan sesuatu: --nya hendak berziarah ke Tanah Suci tahun ini sudah bulat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "janji untuk melakukan sesuatu jika cita-cita atau harapan terkabul; kaul; nazar: janji ditepati, -- harus dibayar; memasang --  [1] berkaul [2] bernazar"
+        }
+      ]
+    }
+  ]
+}

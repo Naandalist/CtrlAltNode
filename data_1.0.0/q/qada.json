@@ -1,0 +1,30 @@
+{
+  "istilah": "qada",
+  "entri": "qa.da bentuk tidak baku: kadha",
+  "bentukTidakBaku": "kadha",
+  "kataTurunan": [
+    "mengqada"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ketentuan Allah yang dipastikan sejak masa azali; penunaian",
+    "kataAsal": "qādā’"
+  },
+  "data": [
+    {
+      "lema": "qa.da bentuk tidak baku: kadha",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "peraturan, hukum, ketentuan yang berasal dari Allah: seluruh alam semesta tunduk pada -- Allah Swt."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pelaksanaan kewajiban ibadah di luar waktu yang telah ditentukan"
+        }
+      ]
+    }
+  ]
+}

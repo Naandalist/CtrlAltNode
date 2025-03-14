@@ -1,0 +1,35 @@
+{
+  "istilah": "lembam",
+  "entri": "lem.bam1 /lêmbam/bentuk tidak baku: lemban",
+  "bentukTidakBaku": "lemban",
+  "kataTurunan": [
+    "kelembaman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lem.bam1 /lêmbam/bentuk tidak baku: lemban",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tangkas; lamban; malas: anak yang gemuk itu -- sekali"
+        }
+      ]
+    },
+    {
+      "lema": "lem.bam2 /lêmbam/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lebam1"
+        }
+      ]
+    }
+  ]
+}

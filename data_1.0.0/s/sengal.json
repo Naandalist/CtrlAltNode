@@ -1,0 +1,44 @@
+{
+  "istilah": "sengal",
+  "entri": "se.ngal1 /sêngal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyengal",
+    "sengal-sengal",
+    "tersengal-sengal"
+  ],
+  "gabunganKata": [
+    "sengal pinggang",
+    "sengal tulang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.ngal1 /sêngal/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa nyeri (pegal, kaku) pada sendi-sendi tulang: -- kaki; -- tangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit tulang; encok; rematik"
+        }
+      ]
+    },
+    {
+      "lema": "se.ngal2 /sêngal/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sengal-sengal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "koherensi",
+  "entri": "ko.he.ren.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "koherensi pusat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.he.ren.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tersusunnya uraian atau pandangan sehingga bagian-bagiannya berkaitan satu dengan yang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "keselarasan yang mendalam antara bentuk dan isi karya sastra"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "hubungan logis antara bagian karangan atau antara kalimat dalam satu paragraf"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "daya tarik antara molekul untuk menghindarkan terpisahnya bagian apabila ada kekuatan dari luar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hubungan yang logis, teratur, dan konsisten"
+        }
+      ]
+    }
+  ]
+}

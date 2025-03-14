@@ -1,0 +1,37 @@
+{
+  "istilah": "eter",
+  "entri": "e.ter1 /etêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ter1 /etêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "unsur sangat halus yang memenuhi lapisan teratas ruang angkasa"
+        }
+      ]
+    },
+    {
+      "lema": "e.ter2 /etêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "golongan senyawa organik alkil oksida dengan rumus bangun R-O-R"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "cairan tidak berwarna, sedikit larut dalam air, digunakan sebagai reagen, anestetis, dan pelarut〈(C2H5)2O〉"
+        }
+      ]
+    }
+  ]
+}

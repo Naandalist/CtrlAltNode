@@ -1,0 +1,50 @@
+{
+  "istilah": "kerap",
+  "entri": "ke.rap1 /kêrap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekerapan",
+    "kerap-kerap",
+    "mengerapkan",
+    "terkerap",
+    "kerap-kerap"
+  ],
+  "gabunganKata": [
+    "kerap kali",
+    "kerap pati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kerap, urut-urutan yang cepat sekali, massa yang rapat sekali",
+    "kataAsal": "krěp"
+  },
+  "data": [
+    {
+      "lema": "ke.rap1 /kêrap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkali-kali; berulang kali; sering: ia -- datang ke rumahku"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak jarang (tentang anyaman, tenunan, dan sebagainya); rapat: anyamannya --; tapisan yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak jauh antaranya (tentang barang yang berderet-deret): jarak penanaman bibit itu sangat --"
+        }
+      ]
+    },
+    {
+      "lema": "ke.rap2 /kêrap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "derit"
+        }
+      ]
+    }
+  ]
+}

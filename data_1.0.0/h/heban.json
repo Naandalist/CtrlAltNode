@@ -1,0 +1,35 @@
+{
+  "istilah": "heban",
+  "entri": "he.ban1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengheban"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "he.ban1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pegang dengan kedua belah tangan"
+        }
+      ]
+    },
+    {
+      "lema": "he.ban2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ hebat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "mas",
+  "entri": "mas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mas manah",
+    "mas tempawan",
+    "mas adipati",
+    "mas ajeng",
+    "mas ayu",
+    "mas tumenggung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "emas"
+        }
+      ]
+    },
+    {
+      "lema": "mas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada saudara tua laki-laki atau laki-laki yang dianggap lebih tua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan hormat untuk laki-laki, tanpa memandang usia: apa kabar, --?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panggilan karib istri kepada suami; bang; kak: --, kemarin Ibu datang"
+        }
+      ]
+    }
+  ]
+}

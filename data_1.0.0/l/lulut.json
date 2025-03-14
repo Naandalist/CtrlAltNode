@@ -1,0 +1,41 @@
+{
+  "istilah": "lulut",
+  "entri": "lu.lut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlulut",
+    "melulut",
+    "pelulut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kasih, sayang, cinta, asmara, rindu, hasrat cinta kasih, mabuk kepayang, rasa cinta",
+    "kataAsal": "lulut"
+  },
+  "data": [
+    {
+      "lema": "lu.lut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lulur2"
+        }
+      ]
+    },
+    {
+      "lema": "lu.lut2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "jinak (tentang binatang); tidak takut-takut lagi (tentang anak); tidak melawan lagi; tunduk patuh; menurut: burung itu sudah -- kepadanya; anak kecil itu -- pada bibinya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "jatuh hati; menaruh cinta kepada"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "terhal",
+  "entri": "hal1 » ter.hal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hal1 » ter.hal",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terlarang; terhenti karena rintangan dan sebagainya; tertahan: maksud saya menjadi ~ karena dia"
+        }
+      ]
+    },
+    {
+      "lema": "ter.hal /têrhal/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ hal1"
+        }
+      ]
+    }
+  ]
+}

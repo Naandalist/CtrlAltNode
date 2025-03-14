@@ -1,0 +1,28 @@
+{
+  "istilah": "manzilah",
+  "entri": "man.zi.lah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat bersinggah; kedudukan",
+    "kataAsal": "manzilah"
+  },
+  "data": [
+    {
+      "lema": "man.zi.lah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "manzil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kedudukan"
+        }
+      ]
+    }
+  ]
+}

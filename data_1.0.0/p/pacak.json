@@ -1,0 +1,61 @@
+{
+  "istilah": "pacak",
+  "entri": "pa.cak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepacakan",
+    "memacak",
+    "memacakkan",
+    "terpacak",
+    "memacak-macak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.cak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "telah terlatih atau mahir dalam mengerjakan sesuatu; cakap: kita memerlukan seorang organisator, orang yang -- memimpin organisasi"
+        }
+      ]
+    },
+    {
+      "lema": "pa.cak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cocok (untuk menusuk satai yang akan dipanggang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkat (tiang, pancang) yang tajam pada ujungnya"
+        }
+      ]
+    },
+    {
+      "lema": "pa.cak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "titik-titik air yang berhamburan; percik"
+        }
+      ]
+    },
+    {
+      "lema": "pa.cak4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pacek"
+        }
+      ]
+    }
+  ]
+}

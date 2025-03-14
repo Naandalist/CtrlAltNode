@@ -1,0 +1,28 @@
+{
+  "istilah": "birokrat",
+  "entri": "bi.ro.krat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.ro.krat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pegawai yang bertindak secara birokratis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seorang yang menjadi bagian dari birokrasi"
+        }
+      ]
+    }
+  ]
+}

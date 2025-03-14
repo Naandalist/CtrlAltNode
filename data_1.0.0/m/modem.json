@@ -1,0 +1,35 @@
+{
+  "istilah": "modem",
+  "entri": "mo.dem /modêm/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "modem eksternal",
+    "modem faks",
+    "modem internal",
+    "modem kabel",
+    "modem koneksi langsung",
+    "modem serat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.dem /modêm/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "alat modulator dan demodulator yang terpasang pada telepon untuk mengubah informasi digital ke dalam bentuk suara dan sebaliknya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "peranti penghubung dua komputer melalui saluran telepon, biasa dibutuhkan untuk melakukan hubungan ke internet"
+        }
+      ]
+    }
+  ]
+}

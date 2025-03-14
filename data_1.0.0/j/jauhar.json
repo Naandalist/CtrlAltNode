@@ -1,0 +1,33 @@
+{
+  "istilah": "jauhar",
+  "entri": "jau.har1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "benih; permata",
+    "kataAsal": "jauhar"
+  },
+  "data": [
+    {
+      "lema": "jau.har1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "intan"
+        }
+      ]
+    },
+    {
+      "lema": "jau.har2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mani; benih manusia"
+        }
+      ]
+    }
+  ]
+}

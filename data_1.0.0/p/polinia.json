@@ -1,0 +1,33 @@
+{
+  "istilah": "polinia",
+  "entri": "po.li.nia1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.li.nia1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah air berbentuk lonjong yang terkurung di dalam es, luas daerah air ini tetap"
+        }
+      ]
+    },
+    {
+      "lema": "po.li.nia2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "gumpalan massa serbuk sari yang dalam proses penyerbukan dipindahkan satu persatu, dihasilkan oleh kepala sari"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "kitar",
+  "entri": "ki.tar1 bentuk tidak baku: kintar",
+  "bentukTidakBaku": "kintar",
+  "kataTurunan": [
+    "berkitar",
+    "kitaran",
+    "mengitar",
+    "mengitar-ngitar",
+    "mengitari",
+    "mengitarkan",
+    "pengitaran",
+    "perkitaran",
+    "sekitar",
+    "terkitar-kitar",
+    "memperkitarkan",
+    "mengitarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mengitari",
+    "kataAsal": "kitěr"
+  },
+  "data": [
+    {
+      "lema": "ki.tar1 bentuk tidak baku: kintar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keliling; putar"
+        }
+      ]
+    },
+    {
+      "lema": "ki.tar2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "tolak, desak ke sisi"
+        }
+      ]
+    },
+    {
+      "lema": "ki.tar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilangan yang menunjukkan jumlah kegiatan yang dapat dilakukan oleh suatu sarana angkutan dari satu titik mula per satuan waktu"
+        }
+      ]
+    }
+  ]
+}

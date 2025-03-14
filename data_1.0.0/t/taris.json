@@ -1,0 +1,35 @@
+{
+  "istilah": "taris",
+  "entri": "ta.ris1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menaris"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.ris1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lantai (dari plester, semen, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ris2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ikat"
+        }
+      ]
+    }
+  ]
+}

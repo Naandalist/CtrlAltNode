@@ -1,0 +1,35 @@
+{
+  "istilah": "gua",
+  "entri": "gu.a1 bentuk tidak baku: goa",
+  "bentukTidakBaku": "goa",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gua garba"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "saya",
+    "kataAsal": "góa"
+  },
+  "data": [
+    {
+      "lema": "gu.a1 bentuk tidak baku: goa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "liang (lubang) besar (pada kaki gunung dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "gu.a2",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "aku; gue"
+        }
+      ]
+    }
+  ]
+}

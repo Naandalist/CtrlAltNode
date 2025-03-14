@@ -1,0 +1,24 @@
+{
+  "istilah": "galat paritas",
+  "entri": "galat1 » galat paritas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "galat1 » galat paritas",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "galat dalam paritas yang mengindikasikan adanya galat dalam data yang dikirim atau data yang tersimpan dalam memori"
+        }
+      ]
+    }
+  ]
+}

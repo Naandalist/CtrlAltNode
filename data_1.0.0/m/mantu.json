@@ -1,0 +1,28 @@
+{
+  "istilah": "mantu",
+  "entri": "man.tu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menantu (laki-laki atau perempuan)",
+    "kataAsal": "mantu"
+  },
+  "data": [
+    {
+      "lema": "man.tu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "menantu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengawinkan anak; mengadakan pesta perkawinan anak: Pak Camat akan -- minggu depan"
+        }
+      ]
+    }
+  ]
+}

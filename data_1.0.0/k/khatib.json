@@ -1,0 +1,32 @@
+{
+  "istilah": "khatib",
+  "entri": "kha.tib bentuk tidak baku: katib2",
+  "bentukTidakBaku": "katib2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang menyampaikan pidato",
+    "kataAsal": "khaṭīb"
+  },
+  "data": [
+    {
+      "lema": "kha.tib bentuk tidak baku: katib2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menyampaikan khotbah (pada waktu salat Jumat dan sebagainya); juru khotbah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pegawai masjid"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelamar"
+        }
+      ]
+    }
+  ]
+}

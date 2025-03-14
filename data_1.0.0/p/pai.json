@@ -1,0 +1,37 @@
+{
+  "istilah": "pai",
+  "entri": "pai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pai apel",
+    "pai buah",
+    "pai susu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kue berisi krim, agar-agar, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "PAI",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Persatuan Aktuaris Indonesia"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "istilah": "bujang",
+  "entri": "bu.jang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bujangan",
+    "kebujangan",
+    "membujang",
+    "pembujangan",
+    "perbujangan"
+  ],
+  "gabunganKata": [
+    "bujang andon",
+    "bujang ayam",
+    "bujang bercerai",
+    "bujang juandang",
+    "bujang lapuk",
+    "bujang sekolah",
+    "bujang talang"
+  ],
+  "peribahasa": [
+    "seperti gadis jolong bersubang, bujang jolong bekerja"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.jang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak laki-laki dewasa; jaka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak perempuan; gadis; perawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak laki-laki; budak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laki (perempuan) yang belum menikah (kawin)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "orang laki-laki gajian; jongos"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Bt[Batak: -]",
+          "deskripsi": "kemaluan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Bt[Batak: -]",
+          "deskripsi": "janda"
+        }
+      ]
+    },
+    {
+      "lema": "bu.jang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "perbujangan"
+        }
+      ]
+    },
+    {
+      "lema": "bu.jang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "padi yang ditanam di pinggir pematang untuk menjaga padi dari hama"
+        }
+      ]
+    }
+  ]
+}

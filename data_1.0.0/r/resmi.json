@@ -1,0 +1,32 @@
+{
+  "istilah": "resmi",
+  "entri": "res.mi /rêsmi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keresmian",
+    "meresmikan",
+    "peresmian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "formal",
+    "kataAsal": "rasmī"
+  },
+  "data": [
+    {
+      "lema": "res.mi /rêsmi/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sah (dari pemerintah atau dari yang berwajib); ditetapkan (diumumkan, disahkan) oleh pemerintah atau instansi yang bersangkutan: penjelasan -- akan diberikan oleh Presiden"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "formal: pakaian --"
+        }
+      ]
+    }
+  ]
+}

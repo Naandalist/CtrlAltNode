@@ -1,0 +1,38 @@
+{
+  "istilah": "legar",
+  "entri": "le.gar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "legaran",
+    "melegar",
+    "melegari",
+    "melegarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.gar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melegar"
+        }
+      ]
+    },
+    {
+      "lema": "le.gar /lêgar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi petir, meriam; degar"
+        }
+      ]
+    }
+  ]
+}

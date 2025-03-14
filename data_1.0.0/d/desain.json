@@ -1,0 +1,59 @@
+{
+  "istilah": "desain",
+  "entri": "de.sa.in bentuk tidak baku: disain",
+  "bentukTidakBaku": "disain",
+  "kataTurunan": [
+    "berdesain",
+    "mendesain",
+    "pendesain",
+    "terdesain"
+  ],
+  "gabunganKata": [
+    "desain adaptif",
+    "desain antarmuka pengguna",
+    "desain atas-bawah",
+    "desain awal",
+    "desain bangunan",
+    "desain bawah-atas",
+    "desain berbantuan komputer",
+    "desain berorientasi objek",
+    "desain eksperimental",
+    "desain evolusioner",
+    "desain fungsional",
+    "desain gerakan",
+    "desain grafis",
+    "desain inkremental",
+    "desain iteratif",
+    "desain kostum",
+    "desain modular",
+    "desain program",
+    "desain sistem",
+    "desain terinci",
+    "desain terstruktur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.sa.in bentuk tidak baku: disain",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerangka bentuk; rancangan: -- mesin pertanian itu dibuat oleh mahasiswa fakultas teknik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "motif; pola; corak: -- batik Indonesia banyak ditiru di luar negeri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tahapan dalam siklus hidup perangkat lunak yang menekankan pada solusi logis, yaitu bagaimana sistem dapat memenuhi persyaratan yang telah ditetapkan"
+        }
+      ]
+    }
+  ]
+}

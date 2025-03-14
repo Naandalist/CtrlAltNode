@@ -1,0 +1,40 @@
+{
+  "istilah": "idam",
+  "entri": "i.dam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "idam-idam",
+    "idaman",
+    "mengidam",
+    "mengidam-idamkan",
+    "mengidamkan",
+    "mengidam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "idam"
+  },
+  "data": [
+    {
+      "lema": "i.dam1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sangat menginginkan"
+        }
+      ]
+    },
+    {
+      "lema": "i.dam2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengidam"
+        }
+      ]
+    }
+  ]
+}

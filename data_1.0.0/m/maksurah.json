@@ -1,0 +1,37 @@
+{
+  "istilah": "maksurah",
+  "entri": "mak.su.rah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mak.su.rah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah yang luas"
+        }
+      ]
+    },
+    {
+      "lema": "mak.su.rah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kisi-kisi atau layar kayu pada masjid untuk melindungi dan memisahkan imam dari kebisingan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pagar tembok pada masjid yang memisahkan bangunan masjid dengan kuburan yang ada di dekatnya"
+        }
+      ]
+    }
+  ]
+}

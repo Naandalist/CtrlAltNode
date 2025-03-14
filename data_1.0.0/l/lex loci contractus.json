@@ -1,0 +1,33 @@
+{
+  "istilah": "lex loci contractus",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "undang-undang yang berlaku di tempat perjanjian dibuat"
+        }
+      ]
+    },
+    {
+      "lema": "lex loci contractus",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "undang-undang yang berlaku di tempat perjanjian dibuat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "seluler",
+  "entri": "se.lu.ler1",
+  "bentukTidakBaku": "selular",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.lu.ler1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bio[Biologi: -]",
+          "deskripsi": "berbentuk sel"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dibagi dalam sel-sel atau bilik-bilik"
+        }
+      ]
+    },
+    {
+      "lema": "se.lu.ler2 bentuk tidak baku: selular",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem radio telepon yang memecah suatu wilayah menjadi subwilayah kecil dengan saluran yang dapat dipakai secara bersamaan oleh beberapa pengguna sekaligus"
+        }
+      ]
+    }
+  ]
+}

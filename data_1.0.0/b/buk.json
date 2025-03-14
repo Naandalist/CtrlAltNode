@@ -1,0 +1,35 @@
+{
+  "istilah": "buk",
+  "entri": "buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengebuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi buah besar yang sudah masak jatuh ke tanah; debuk"
+        }
+      ]
+    },
+    {
+      "lema": "buk2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pesan"
+        }
+      ]
+    }
+  ]
+}

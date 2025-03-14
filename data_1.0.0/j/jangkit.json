@@ -1,0 +1,45 @@
+{
+  "istilah": "jangkit",
+  "entri": "jang.kit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjangkit",
+    "berjangkitan",
+    "jangkitan",
+    "kejangkitan",
+    "menjangkiti",
+    "menjangkitkan",
+    "penjangkit",
+    "penjangkitan",
+    "terjangkit",
+    "terjangkiti",
+    "jongkat-jangkit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jang.kit1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjangkit"
+        }
+      ]
+    },
+    {
+      "lema": "jang.kit2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "jongkat-jangkit"
+        }
+      ]
+    }
+  ]
+}

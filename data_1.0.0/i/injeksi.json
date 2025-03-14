@@ -1,0 +1,43 @@
+{
+  "istilah": "injeksi",
+  "entri": "in.jek.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menginjeksi"
+  ],
+  "gabunganKata": [
+    "injeksi bahan bakar",
+    "injeksi beras",
+    "injeksi epidural",
+    "injeksi silier"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.jek.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "suntikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tambahan (dana,bantuan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mek[Mekanika: -]",
+          "deskripsi": "proses, cara, perbuatan memasukkan atau menyemprotkan bahan bakar melalui pompa ke dalam silinder bagian dalam mesin pembakaran internal dan menghilangkan penggunaan karburator: sepeda motor --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dirg[Kedirgantaraan: -]",
+          "deskripsi": "pendorongan satelit ke orbit yang direncanakan"
+        }
+      ]
+    }
+  ]
+}

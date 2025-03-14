@@ -1,0 +1,30 @@
+{
+  "istilah": "elevator",
+  "entri": "e.le.va.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "elevator timba"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.le.va.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lift"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Terb[Penerbangan: -]",
+          "deskripsi": "sirip gerak penstabil mendatar, digunakan untuk mengubah ketinggian terbang dan mengoreksi kedudukan melintang pesawat udara; kemudi angkat"
+        }
+      ]
+    }
+  ]
+}

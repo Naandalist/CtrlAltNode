@@ -1,0 +1,60 @@
+{
+  "istilah": "lapang",
+  "entri": "la.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlapang-lapang",
+    "lapangan",
+    "melapangi",
+    "melapangkan",
+    "memperlapang",
+    "memperlapangkan"
+  ],
+  "gabunganKata": [
+    "lapang dada",
+    "lapang hati",
+    "lapang kira-kira",
+    "lapang pandang",
+    "lapang perut"
+  ],
+  "peribahasa": [
+    "duduk bersama lapang-lapang, duduk seorang sempit-sempit; duduk seorang bersempit-sempit, duduk bersama berlapang-lapang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.pang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lebar (tentang ruangan, kamar, dan sebagainya); luas"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lega; senang: hatinya --; -- pikiran"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak sibuk; tidak repot; senggang: waktu --; saat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "longgar; tidak sempit: baju anak perlu dibuat -- karena dia cepat besar"
+        }
+      ]
+    },
+    {
+      "lema": "la.pang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan memanjat〔Bauhinia comifolia〕"
+        }
+      ]
+    }
+  ]
+}

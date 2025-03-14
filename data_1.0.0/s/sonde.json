@@ -1,0 +1,37 @@
+{
+  "istilah": "sonde",
+  "entri": "son.de1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "son.de1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "peralatan yang dapat diletakkan di dalam tanah atau dibawa ke atmosfer atas dengan roket atau balon udara untuk mengamati keadaan cuaca"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "alat untuk menguji kondisi fisik dalam tubuh"
+        }
+      ]
+    },
+    {
+      "lema": "son.de2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "perangkat medis berupa slang lunak yang dipasang melalui lubang hidung hingga ke lambung, digunakan untuk memasukkan makanan dan obat ataupun mengosongkan lambung; slang makan"
+        }
+      ]
+    }
+  ]
+}

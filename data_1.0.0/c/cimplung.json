@@ -1,0 +1,33 @@
+{
+  "istilah": "cimplung",
+  "entri": "cim.plung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cim.plung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "singkong yang direbus dengan air nira"
+        }
+      ]
+    },
+    {
+      "lema": "cim.plung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "alat tangkap ikan berupa anyaman berbahan senar berbentuk segi empat dengan pinggiran kayu di keempat sisinya, terdapat bambu panjang sebagai penyangga dan tambang untuk menarik jaring jika ada ikan yang melintas"
+        }
+      ]
+    }
+  ]
+}

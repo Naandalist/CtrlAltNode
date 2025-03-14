@@ -1,0 +1,36 @@
+{
+  "istilah": "fitrah",
+  "entri": "fit.rah1",
+  "bentukTidakBaku": "pitrah",
+  "kataTurunan": [
+    "berfitrah",
+    "memfitrahkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "awal penciptaan; pembawaan",
+    "kataAsal": "fiṭrah"
+  },
+  "data": [
+    {
+      "lema": "fit.rah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat asal; kesucian; bakat; pembawaan"
+        }
+      ]
+    },
+    {
+      "lema": "fit.rah2 bentuk tidak baku: pitrah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "sedekah wajib berupa bahan makanan pokok (beras, gandum, dan sebagainya) yang harus diberikan pada bulan Ramadan sampai menjelang salat Idulfitri; zakat fitrah"
+        }
+      ]
+    }
+  ]
+}

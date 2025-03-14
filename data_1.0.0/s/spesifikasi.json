@@ -1,0 +1,34 @@
+{
+  "istilah": "spesifikasi",
+  "entri": "spe.si.fi.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "spesifikasi kode"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "spe.si.fi.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, cara, perbuatan melakukan pemilihan (perincian)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perincian (tentang rencana, proposal, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan tentang hal-hal yang khusus (dalam perjanjian dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

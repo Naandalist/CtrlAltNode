@@ -1,0 +1,35 @@
+{
+  "istilah": "bendang",
+  "entri": "ben.dang1 /bêndang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terbendang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.dang1 /bêndang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sawah; persawahan"
+        }
+      ]
+    },
+    {
+      "lema": "ben.dang2 /bêndang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terbendang"
+        }
+      ]
+    }
+  ]
+}

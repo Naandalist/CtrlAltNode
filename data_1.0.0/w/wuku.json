@@ -1,0 +1,33 @@
+{
+  "istilah": "wuku",
+  "entri": "wu.ku1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wu.ku1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekan dalam penanggalan Jawa atau Bali"
+        }
+      ]
+    },
+    {
+      "lema": "wu.ku2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "biji kapas"
+        }
+      ]
+    }
+  ]
+}

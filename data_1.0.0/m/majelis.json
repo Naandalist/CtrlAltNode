@@ -1,0 +1,53 @@
+{
+  "istilah": "majelis",
+  "entri": "ma.je.lis1 /majêlis/bentuk tidak baku: majilis, majlis, menjelis",
+  "bentukTidakBaku": "majilis, majlis, menjelismejelis",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "Majelis Perubahan Undang-Undang Dasar",
+    "majelis rendah",
+    "majelis syura",
+    "majelis taklim",
+    "majelis tinggi",
+    "Majelis Ulama Indonesia",
+    "majelis undangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat duduk; kumpulan orang banyak",
+    "kataAsal": "majlis"
+  },
+  "data": [
+    {
+      "lema": "ma.je.lis1 /majêlis/bentuk tidak baku: majilis, majlis, menjelis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dewan yang mengemban tugas tertentu mengenai kenegaraan dan sebagainya secara terbatas: -- hakim; -- Permusyawaratan Rakyat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertemuan (kumpulan) orang banyak; rapat; kerapatan; sidang: berhimpunlah semuanya dalam -- yang besar; ketua --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan tempat bersidang: gedung -- tinggi dan -- rendah"
+        }
+      ]
+    },
+    {
+      "lema": "ma.je.lis2 /majêlis/bentuk tidak baku: mejelis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "elok; cantik; permai: putri itu cantik --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "apik; rapi; bersih"
+        }
+      ]
+    }
+  ]
+}

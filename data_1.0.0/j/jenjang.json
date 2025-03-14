@@ -1,0 +1,42 @@
+{
+  "istilah": "jenjang",
+  "entri": "jen.jang1 /jênjang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjenjang",
+    "berjenjang-jenjang"
+  ],
+  "gabunganKata": [
+    "jenjang pendidikan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tinggi dan langsing",
+    "kataAsal": "jaṅjaṅ"
+  },
+  "data": [
+    {
+      "lema": "jen.jang1 /jênjang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkat-tingkat yang beraturan dari bawah ke atas; tangga; tingkat; tahap: sekarang banyak sekali -- kepangkatan yang dulu tidak ada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "palang bertingkat (dalam cabang senam) terbuat dari kayu yang dibulatkan, dipasang ke atas, berjejer dengan jarak antara 30–40 cm, untuk latihan bergantung (dalam latihan otot perut, punggung, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "jen.jang2 /jênjang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "panjang dan langsing (tentang leher): rambut gadis itu bersanggul rapi sehingga lehernya yang -- tampak indah"
+        }
+      ]
+    }
+  ]
+}

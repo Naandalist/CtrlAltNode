@@ -1,0 +1,37 @@
+{
+  "istilah": "mengubar",
+  "entri": "ubar1 » meng.u.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ubar1 » meng.u.bar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencelup (jala, jaring, dan sebagainya) dengan ubar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengecat"
+        }
+      ]
+    },
+    {
+      "lema": "ubar2 » meng.u.bar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mengorak (membuka) barang yang tergulung (layar dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

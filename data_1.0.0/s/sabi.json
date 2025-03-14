@@ -1,0 +1,37 @@
+{
+  "istilah": "sabi",
+  "entri": "sa.bi2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kelompok yang mengaku mengikuti ajaran Nabi Nuh; kelompok umat beragama yang menyerupai pemeluk agama Nasrani dan berkiblat sesuai arah angin",
+    "kataAsal": "ṣābi’"
+  },
+  "data": [
+    {
+      "lema": "sa.bi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemeja"
+        }
+      ]
+    },
+    {
+      "lema": "Sa.bi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganut agama yang berpedoman pada ajaran Seth dan Enoch"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengingkari keyakinan sendiri; murtad"
+        }
+      ]
+    }
+  ]
+}

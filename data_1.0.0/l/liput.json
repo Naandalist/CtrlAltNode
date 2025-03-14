@@ -1,0 +1,35 @@
+{
+  "istilah": "liput",
+  "entri": "li.put",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "liputan",
+    "meliput",
+    "meliputi",
+    "peliput",
+    "peliputan",
+    "terliput"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.put",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meliput"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meliputi"
+        }
+      ]
+    }
+  ]
+}

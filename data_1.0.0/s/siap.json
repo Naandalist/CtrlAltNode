@@ -1,0 +1,69 @@
+{
+  "istilah": "siap",
+  "entri": "si.ap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersiap",
+    "bersiap-siap",
+    "kesiapan",
+    "mempersiapkan",
+    "menyiapkan",
+    "penyiapan",
+    "persiapan"
+  ],
+  "gabunganKata": [
+    "siap cetak",
+    "siap pakai",
+    "siap potong",
+    "siap santap",
+    "siap tempur"
+  ],
+  "peribahasa": [
+    "siapa melejang, siap patah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.ap1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah disediakan (tinggal memakai atau menggunakan saja); sudah sedia: makanan sudah --; segala alat perkakasnya sudah -- semuanya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah selesai (dibuat atau dikerjakan): akhir bulan ini gedung itu -- semuanya; rumah makan buat pekerja sudah hampir --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah bersedia (untuk): anak-anak kita sudah -- untuk menempuh ujian; Tentara Nasional Indonesia -- sedia menghadapi segala kemungkinan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(dalam aba-aba berarti) berdiri tegak dan mengambil sikap pada waktu berbaris: --! maju jalan!"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jaga baik-baik: kedengaran bunyi kentungan dan teriakan “--!”"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Olr[Olahraga: -]",
+          "deskripsi": "aba-aba atau seruan kepada para pelari dan sebagainya bahwa pemberangkatan akan segera dimulai (dalam perlombaan lari atau jalan kaki)"
+        }
+      ]
+    },
+    {
+      "lema": "si.ap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "sisa anggaran pembangunan"
+        }
+      ]
+    }
+  ]
+}

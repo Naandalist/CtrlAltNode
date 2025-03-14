@@ -1,0 +1,39 @@
+{
+  "istilah": "parah",
+  "entri": "pa.rah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memperparah",
+    "terparah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.rah",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berat (tentang luka): lukanya cukup --, ia harus segera dibawa ke rumah sakit"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "payah (tentang penyakit): sakitnya sudah --, sudah tidak ada harapan lagi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam keadaan kesulitan yang sangat: akibat kehilangan pekerjaan, kehidupannya sangat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sukar diatasi: masalah kenakalan remaja akhir-akhir ini makin --"
+        }
+      ]
+    }
+  ]
+}

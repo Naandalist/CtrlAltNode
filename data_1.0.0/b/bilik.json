@@ -1,0 +1,43 @@
+{
+  "istilah": "bilik",
+  "entri": "bi.lik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbilik",
+    "berbilik-bilik"
+  ],
+  "gabunganKata": [
+    "bilik jantung",
+    "bilik manikur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.lik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anyaman dari bilah bambu (untuk dinding dan sebagainya); gedek; tepas; sasak: rumahnya berdinding --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruangan kecil yang tersekat; kamar: tidurnya di -- samping"
+        }
+      ]
+    },
+    {
+      "lema": "bi.lik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesatuan beberapa rumah keluarga yang berpusat pada rumah anak tertua (di Lampung)"
+        }
+      ]
+    }
+  ]
+}

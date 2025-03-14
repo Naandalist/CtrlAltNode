@@ -1,0 +1,33 @@
+{
+  "istilah": "his",
+  "entri": "his1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "his1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk menyatakan tidak suka dan sebagainya: --, jangan keras-keras bicaramu"
+        }
+      ]
+    },
+    {
+      "lema": "his2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penguncupan (pengerutan) rahim pada waktu persalinan: salah satu faktor persalinan yang normal ialah terjadinya --"
+        }
+      ]
+    }
+  ]
+}

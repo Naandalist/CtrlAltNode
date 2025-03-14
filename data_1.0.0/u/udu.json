@@ -1,0 +1,35 @@
+{
+  "istilah": "udu",
+  "entri": "u.du1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berudu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "musuh",
+    "kataAsal": "‘aduww"
+  },
+  "data": [
+    {
+      "lema": "u.du1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "musuh: orang takabur -- Allah"
+        }
+      ]
+    },
+    {
+      "lema": "u.du2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ wudu"
+        }
+      ]
+    }
+  ]
+}

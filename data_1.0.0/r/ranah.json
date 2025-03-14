@@ -1,0 +1,48 @@
+{
+  "istilah": "ranah",
+  "entri": "ra.nah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "ranah afektif",
+    "ranah eminen",
+    "ranah frekuensi",
+    "ranah kognitif",
+    "ranah politik",
+    "ranah psikomotor",
+    "ranah semantik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.nah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah rata; dataran rendah; lembah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah yang berpaya-paya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "elemen atau unsur yang dibatasi; bidang disiplin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "lingkungan yang memungkinkan terjadinya percakapan, merupakan kombinasi antara partisipan, topik, dan tempat (misalnya keluarga, pendidikan, tempat kerja, keagamaan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "bagian (satuan) perilaku manusia"
+        }
+      ]
+    }
+  ]
+}

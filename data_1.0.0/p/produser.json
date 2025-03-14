@@ -1,0 +1,38 @@
+{
+  "istilah": "produser",
+  "entri": "pro.du.ser /produsêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memproduseri"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.du.ser /produsêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menghasilkan; produsen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengusaha film, teater, siaran televisi atau radio; orang yang memproduksi film, teater, siaran televisi atau radio"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tungku pembuat gas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "orang yang mengelola aspek keuangan dan manajerial sebuah produksi"
+        }
+      ]
+    }
+  ]
+}

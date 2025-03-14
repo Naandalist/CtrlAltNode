@@ -1,0 +1,36 @@
+{
+  "istilah": "kilan",
+  "entri": "ki.lan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengilan",
+    "terkilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "kilan"
+  },
+  "data": [
+    {
+      "lema": "ki.lan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "jengkal"
+        }
+      ]
+    },
+    {
+      "lema": "ki.lan2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terkilan"
+        }
+      ]
+    }
+  ]
+}

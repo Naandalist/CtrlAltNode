@@ -1,0 +1,40 @@
+{
+  "istilah": "tonik",
+  "entri": "to.nik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tonik rambut",
+    "tonik wajah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.nik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan preparat untuk kulit kepala serta rambut kepala untuk menguatkan dan menyuburkan rambut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan preparat untuk penyegar badan"
+        }
+      ]
+    },
+    {
+      "lema": "to.nik2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "(dalam analisis intonasi) merujuk ke suku kata yang mendapat tekanan paling keras dalam suatu kelompok tona"
+        }
+      ]
+    }
+  ]
+}

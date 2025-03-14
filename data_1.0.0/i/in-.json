@@ -1,0 +1,42 @@
+{
+  "istilah": "in-",
+  "entri": "in-",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in-",
+      "arti": [
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "tidak: inkonvensional; indisipliner; infertil"
+        }
+      ]
+    },
+    {
+      "lema": "-in-1",
+      "arti": [
+        {
+          "kelas_kata": "infiks pembentuk nomina[- : -]",
+          "deskripsi": "hasil: kinerja; kinasih"
+        }
+      ]
+    },
+    {
+      "lema": "-in-2",
+      "arti": [
+        {
+          "kelas_kata": "infiks pembentuk verba[- : -]",
+          "deskripsi": "berlanjut: sinambung"
+        }
+      ]
+    }
+  ]
+}

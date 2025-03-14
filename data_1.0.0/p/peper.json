@@ -1,0 +1,36 @@
+{
+  "istilah": "peper",
+  "entri": "pe.per1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memeper",
+    "terpeper"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "peper"
+  },
+  "data": [
+    {
+      "lema": "pe.per1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memeper; terpeper"
+        }
+      ]
+    },
+    {
+      "lema": "pe.per2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membersihkan sisa tahi (kotoran) pada dubur dengan daun atau barang tipis yang lembut"
+        }
+      ]
+    }
+  ]
+}

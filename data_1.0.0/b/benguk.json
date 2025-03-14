@@ -1,0 +1,39 @@
+{
+  "istilah": "benguk",
+  "entri": "be.nguk1 /bênguk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbenguk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.nguk1 /bênguk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "murung; bersedih"
+        }
+      ]
+    },
+    {
+      "lema": "be.nguk2 /bênguk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kacang babi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "biji benguk"
+        }
+      ]
+    }
+  ]
+}

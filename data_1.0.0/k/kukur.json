@@ -1,0 +1,37 @@
+{
+  "istilah": "kukur",
+  "entri": "ku.kur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kukuran",
+    "mengukur",
+    "mengukur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sisir",
+    "kataAsal": "kukur"
+  },
+  "data": [
+    {
+      "lema": "ku.kur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur (menggaruk, memarut, mengorek) kelapa dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ku.kur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi burung tekukur (balam)"
+        }
+      ]
+    }
+  ]
+}

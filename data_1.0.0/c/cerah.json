@@ -1,0 +1,66 @@
+{
+  "istilah": "cerah",
+  "entri": "ce.rah1 /cêrah/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kecerahan",
+    "ketercerahan",
+    "mencerah",
+    "mencerahi",
+    "mencerahkan",
+    "pencerah",
+    "pencerahan",
+    "secerah",
+    "tercerahkan"
+  ],
+  "gabunganKata": [
+    "cerah ceria"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.rah1 /cêrah/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terang (tentang hari, bulan, warna); jernih (tentang kaca): langit --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berseri (tentang muka): wajahnya -- sekali"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "baik; bahagia: ia tidak melihat hari depan yang --"
+        }
+      ]
+    },
+    {
+      "lema": "ce.rah2 /cêrah/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sd[Sunda: -]",
+          "deskripsi": "retak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "garis"
+        }
+      ]
+    },
+    {
+      "lema": "ce.rah3 /cêrah/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hidm[Hidrometeorologi: -]",
+          "deskripsi": "keadaan atmosfer yang sangat bening dan hampir tak berawan"
+        }
+      ]
+    }
+  ]
+}

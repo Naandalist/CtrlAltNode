@@ -1,0 +1,24 @@
+{
+  "istilah": "resolusi alamat",
+  "entri": "resolusi2 » resolusi alamat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "resolusi2 » resolusi alamat",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "identifikasi alamat protokol internet komputer dengan mencari kecocokannya dalam tabel pemetaan alamat"
+        }
+      ]
+    }
+  ]
+}

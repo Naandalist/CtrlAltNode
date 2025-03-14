@@ -1,0 +1,50 @@
+{
+  "istilah": "paritas",
+  "entri": "pa.ri.tas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "paritas harga",
+    "paritas gasal",
+    "paritas genap"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ri.tas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesamaan harga atau nilai; kemiripan; kesepadanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keseimbangan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ri.tas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan kelahiran; partus"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ri.tas3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "penggunaan sandi periksa pada rangkaian elektronika melalui digit biner agar banyaknya bit 1 selalu ganjil atau selalu genap"
+        }
+      ]
+    }
+  ]
+}

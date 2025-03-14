@@ -1,0 +1,44 @@
+{
+  "istilah": "tiga",
+  "entri": "ti.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertiga",
+    "mempertiga",
+    "meniga",
+    "pertiga",
+    "pertigaan",
+    "sepertiga"
+  ],
+  "gabunganKata": [
+    "tiga besar",
+    "tiga dimensi",
+    "tiga perempat matang",
+    "tiga satu",
+    "tiga serangkai",
+    "tiga zaman"
+  ],
+  "peribahasa": [
+    "bagai menyandang galas tiga; masuk tiga, keluar empat; menyandang lukah tiga; pepat kuku seperti bulan tiga hari; sekali merengkuh dayung, dua tiga pulau terlampaui; semut dipijak tidak mati, gajah diarung bergelimpangan (semut terpijak tidak mati, alu tertarung patah tiga); setali tiga uang; setali tiga uang; tali tiga lembar tak suang-suang putus; tali yang tiga lembar itu tak suang-suang putus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.ga",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "bilangan yang dilambangkan dengan angka 3 (Arab) atau III (Romawi)"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "urutan ke-3 sesudah ke-2 dan sebelum ke-4"
+        }
+      ]
+    }
+  ]
+}

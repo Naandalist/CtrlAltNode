@@ -1,0 +1,33 @@
+{
+  "istilah": "bonto",
+  "entri": "bon.to1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bon.to1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "tidak segar lagi (tentang ikan): jangan membeli ikan --"
+        }
+      ]
+    },
+    {
+      "lema": "bon.to2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mu[Muna: -]",
+          "deskripsi": "kepala adat kampung"
+        }
+      ]
+    }
+  ]
+}

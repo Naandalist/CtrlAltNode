@@ -1,0 +1,32 @@
+{
+  "istilah": "intonasi",
+  "entri": "in.to.na.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.to.na.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "lagu kalimat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "ketepatan penyajian tinggi rendah nada (dari seorang penyanyi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "ketepatan pengucapan dan irama kalimat dalam dialog (dari seorang aktor)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "borek",
+  "entri": "bo.rek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.rek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burik; bopeng"
+        }
+      ]
+    },
+    {
+      "lema": "bo.rek2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Gy[Gayo: -]",
+          "deskripsi": "rajin dan gesit dalam bekerja"
+        }
+      ]
+    }
+  ]
+}

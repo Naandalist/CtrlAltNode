@@ -1,0 +1,30 @@
+{
+  "istilah": "rodi",
+  "entri": "ro.di bentuk tidak baku: wardi",
+  "bentukTidakBaku": "wardi",
+  "kataTurunan": [
+    "berodi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.di bentuk tidak baku: wardi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kewajiban bekerja (seperti memperbaiki jalan) tidak dengan upah; kerja paksa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perintah; ordi"
+        }
+      ]
+    }
+  ]
+}

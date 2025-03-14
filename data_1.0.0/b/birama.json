@@ -1,0 +1,30 @@
+{
+  "istilah": "birama",
+  "entri": "bi.ra.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "birama terner"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "penghentian, akhir; akhir kata atau kalimat, noktah, titik",
+    "kataAsal": "virāma"
+  },
+  "data": [
+    {
+      "lema": "bi.ra.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "ayunan gerak kelompok beberapa pulsa yang pulsa pertamanya mendapat aksen kuat secara berulang dan teratur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "satuan kelompok ketukan tetap yang dimulai dengan ketukan kuat sampai ketukan kuat berikutnya; metrum"
+        }
+      ]
+    }
+  ]
+}

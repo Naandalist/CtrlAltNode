@@ -1,0 +1,42 @@
+{
+  "istilah": "gawai",
+  "entri": "ga.wai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepegawaian",
+    "pegawai"
+  ],
+  "gabunganKata": [
+    "gawai raja"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.wai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerja; pekerjaan"
+        }
+      ]
+    },
+    {
+      "lema": "ga.wai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "alat; perkakas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peranti elektronik atau mekanik dengan fungsi praktis; gadget; acang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "salaf",
+  "entri": "sa.laf1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "salaf saleh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang terdahulu",
+    "kataAsal": "salaf"
+  },
+  "data": [
+    {
+      "lema": "sa.laf1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "sifat angkuh, sombong, dan sebagainya (pada seseorang atau golongan)"
+        }
+      ]
+    },
+    {
+      "lema": "sa.laf2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu atau orang yang terdahulu"
+        }
+      ]
+    }
+  ]
+}

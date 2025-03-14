@@ -1,0 +1,33 @@
+{
+  "istilah": "sender",
+  "entri": "sen.der",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.der",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sandar1"
+        }
+      ]
+    },
+    {
+      "lema": "sen.der /sendêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pemancar radio"
+        }
+      ]
+    }
+  ]
+}

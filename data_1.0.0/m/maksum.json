@@ -1,0 +1,33 @@
+{
+  "istilah": "maksum",
+  "entri": "mak.sum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang dijaga kepada perbuatan dosa",
+    "kataAsal": "ma‘ṣūm"
+  },
+  "data": [
+    {
+      "lema": "mak.sum1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "terbagi; terpisah; tercerai; lepas (dari): pikirannya sudah -- kepada yang lain"
+        }
+      ]
+    },
+    {
+      "lema": "mak.sum2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "terpelihara dari dosa dan kesalahan; bebas dari dosa dan kesalahan: para nabi adalah orang-orang yang --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "istilah": "panggung",
+  "entri": "pang.gung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memanggung",
+    "memanggungkan",
+    "panggungan",
+    "pemanggungan",
+    "memanggung"
+  ],
+  "gabunganKata": [
+    "panggung apron",
+    "panggung bagian dalam",
+    "panggung belakang tengah",
+    "panggung bergerak",
+    "panggung berjalan",
+    "panggung berputar",
+    "panggung dirigen",
+    "panggung drama",
+    "panggung fleksibel",
+    "panggung formal",
+    "panggung laga",
+    "panggung lambur",
+    "panggung melingkar",
+    "panggung politik",
+    "panggung prosenium",
+    "panggung sesaat",
+    "panggung sirkus",
+    "panggung tengah",
+    "panggung terbuka",
+    "panggung wagon"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pang.gung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lantai (terbuat dari papan, bambu, dan sebagainya) yang diberi tiang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan yang agak tinggi, lantainya bertiang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lantai yang agak tinggi tempat bermain sandiwara, berpidato, dan sebagainya; pentas: biduan itu sudah biasa bermain di --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang agak tinggi (di stadion, gelanggang pacuan kuda, dan sebagainya) untuk menonton; tribune: mereka berjejal-jejal memenuhi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "tempat pertunjukan berlangsung"
+        }
+      ]
+    },
+    {
+      "lema": "pang.gung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memanggung"
+        }
+      ]
+    }
+  ]
+}

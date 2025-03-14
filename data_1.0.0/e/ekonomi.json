@@ -1,0 +1,59 @@
+{
+  "istilah": "ekonomi",
+  "entri": "e.ko.no.mi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berekonomi",
+    "keekonomian",
+    "mengekonomikan",
+    "pengekonomian",
+    "perekonomian"
+  ],
+  "gabunganKata": [
+    "ekonomi bahasa",
+    "ekonomi bentuk perusahaan",
+    "ekonomi bermatra tunggal",
+    "ekonomi biru",
+    "ekonomi digital",
+    "ekonomi hijau",
+    "ekonomi kata",
+    "ekonomi kedai",
+    "ekonomi kerakyatan",
+    "ekonomi kesejahteraan",
+    "ekonomi lemah",
+    "ekonomi pasar",
+    "ekonomi pedesaan",
+    "ekonomi perawatan",
+    "ekonomi pertanian",
+    "ekonomi terpimpin"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ko.no.mi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "ilmu tentang asas-asas produksi, distribusi, dan pemakaian barang-barang serta kekayaan (seperti hal keuangan, perindustrian, dan perdagangan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "pemanfaatan uang, tenaga, waktu, dan sebagainya yang berharga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "tata kehidupan perekonomian (suatu negara)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "urusan keuangan rumah tangga (organisasi, negara)"
+        }
+      ]
+    }
+  ]
+}

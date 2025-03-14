@@ -1,0 +1,32 @@
+{
+  "istilah": "semidiurnal",
+  "entri": "se.mi.di.ur.nal /sêmidiurnal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.mi.di.ur.nal /sêmidiurnal/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan setengah (separuh) hari"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terjadi dua kali sehari"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terjadi setiap setengah hari (tentang pasang surut)"
+        }
+      ]
+    }
+  ]
+}

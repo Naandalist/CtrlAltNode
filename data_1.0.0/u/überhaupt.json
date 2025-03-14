@@ -1,0 +1,41 @@
+{
+  "istilah": "überhaupt",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "pada umumnya"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "seluruhnya; sama sekali"
+        }
+      ]
+    },
+    {
+      "lema": "überhaupt",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "pada umumnya"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "seluruhnya; sama sekali"
+        }
+      ]
+    }
+  ]
+}

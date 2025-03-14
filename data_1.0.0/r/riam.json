@@ -1,0 +1,33 @@
+{
+  "istilah": "riam",
+  "entri": "ri.am1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ri.am1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aliran air yang deras di sungai (hampir seperti air terjun, tetapi rendah sekali)"
+        }
+      ]
+    },
+    {
+      "lema": "ri.am2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "hubungan berantai antarberbagai kelompok dalam proses produksi, yaitu kelompok yang satu menjadi masukan bagi kelompok yang lain"
+        }
+      ]
+    }
+  ]
+}

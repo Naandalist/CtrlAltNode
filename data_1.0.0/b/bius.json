@@ -1,0 +1,46 @@
+{
+  "istilah": "bius",
+  "entri": "bi.us1 bentuk tidak baku: bihausy",
+  "bentukTidakBaku": "bihausy",
+  "kataTurunan": [
+    "biusan",
+    "membius",
+    "pembius",
+    "pembiusan",
+    "terbius"
+  ],
+  "gabunganKata": [
+    "bius lokal",
+    "bius total"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.us1 bentuk tidak baku: bihausy",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat untuk membuat orang kehilangan kesadarannya (seperti pada waktu akan dioperasi supaya tidak merasa sakit)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "politik (kebudayaan, ajaran, dan sebagainya) yang membuat orang lain tidak insaf akan keadaan dirinya atau keadaan yang sebenarnya"
+        }
+      ]
+    },
+    {
+      "lema": "bi.us2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masyarakat wilayah yang besar di daerah Samosir, Sumatra Utara"
+        }
+      ]
+    }
+  ]
+}

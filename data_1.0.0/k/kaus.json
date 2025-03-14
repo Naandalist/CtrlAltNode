@@ -1,0 +1,61 @@
+{
+  "istilah": "kaus",
+  "entri": "ka.us1 bentuk tidak baku: kaos1",
+  "bentukTidakBaku": "kaos1",
+  "kataTurunan": [
+    "berkaus",
+    "kaus wangki",
+    "mengausi"
+  ],
+  "gabunganKata": [
+    "kaus kaki",
+    "kaus kutang",
+    "kaus lampu",
+    "kaus oblong",
+    "kaus pendek",
+    "kaus polo",
+    "kaus potong"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "busur panah; zodiak ke-9 bagi orang yang lahir antara 22 November dan 21 Desember",
+    "kataAsal": "qaus"
+  },
+  "data": [
+    {
+      "lema": "ka.us1 bentuk tidak baku: kaos1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kasut; setiwel: sahaya sekalian menghadap -- tuanku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sarung (untuk tangan, kaki, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain tipis yang jarang-jarang tenunannya terbuat dari katun atau nilon, digunakan untuk bahan pakaian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baju yang terbuat dari bahan kaus; baju kaus"
+        }
+      ]
+    },
+    {
+      "lema": "ka.us2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "busur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "(ditulis dengan huruf awal kapital) Sagitarius; Danuh"
+        }
+      ]
+    }
+  ]
+}

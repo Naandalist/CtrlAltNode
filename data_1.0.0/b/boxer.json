@@ -1,0 +1,41 @@
+{
+  "istilah": "boxer",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "anjing besar, berbulu halus, berhidung pesek, dan berekor pendek"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "perkumpulan rahasia di Tiongkok yang anti terhadap orang asing (memberontak tahun 1900)"
+        }
+      ]
+    },
+    {
+      "lema": "boxer",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "anjing besar, berbulu halus, berhidung pesek, dan berekor pendek"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "perkumpulan rahasia di Tiongkok yang anti terhadap orang asing (memberontak tahun 1900)"
+        }
+      ]
+    }
+  ]
+}

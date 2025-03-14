@@ -1,0 +1,33 @@
+{
+  "istilah": "ceko",
+  "entri": "ce.ko1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.ko1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mdr[Madura: -]",
+          "deskripsi": "bekerja dengan gerakan tangan yang gesit"
+        }
+      ]
+    },
+    {
+      "lema": "ce.ko2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bg[Bugis: -]",
+          "deskripsi": "mencukur alis dan rambut di pelipis untuk memperindah bentuknya"
+        }
+      ]
+    }
+  ]
+}

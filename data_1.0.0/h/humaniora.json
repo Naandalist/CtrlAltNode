@@ -1,0 +1,28 @@
+{
+  "istilah": "humaniora",
+  "entri": "hu.ma.ni.o.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hu.ma.ni.o.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu pengetahuan yang meliputi filsafat, hukum, sejarah, bahasa, sastra, seni, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makna intrinsik nilai-nilai humanisme"
+        }
+      ]
+    }
+  ]
+}

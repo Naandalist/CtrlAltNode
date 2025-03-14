@@ -1,0 +1,38 @@
+{
+  "istilah": "caci",
+  "entri": "ca.ci1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercaci-cacian",
+    "cacian",
+    "mencaci",
+    "pencaci"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.ci1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cela; cerca; damprat"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ci2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat penggulung layar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "wotu",
+  "entri": "wo.tu2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wo.tu2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] MAb[Melayu Ambon: Bahasa di Maluku]",
+          "deskripsi": "kembali ke permukaan setelah menyelam: dia sudah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] MAb[Melayu Ambon: Bahasa di Maluku]",
+          "deskripsi": "pulang ke tempat tinggal di pegunungan: pukul berapa kita --?"
+        }
+      ]
+    },
+    {
+      "lema": "Wo.tu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami wilayah Kabupaten Luwu, Provinsi Sulawesi Selatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Wotu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "klin",
+  "entri": "klin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "klin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kr[Kaureh: -]",
+          "deskripsi": "cawat yang khusus dipakai oleh perempuan Kaure"
+        }
+      ]
+    },
+    {
+      "lema": "klin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "landaian ciri yang dinyatakan dengan variasi bersinambungan melalui sederetan populasi yang berjajar berdampingan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "landaian perubahan frekuensi fenotipe dan/atau genotipe sepanjang suatu transek kisaran populasi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "kelir",
+  "entri": "ke.lir1 /kêlir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tabir, khususnya seperti yang dipakai dalam wayang",
+    "kataAsal": "kělir"
+  },
+  "data": [
+    {
+      "lema": "ke.lir1 /kêlir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tirai kain putih untuk menangkap bayangan wayang kulit; layar putih (untuk gambar hidup)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kedok (penutup dan sebagainya) untuk menyembunyikan maksud yang sebenarnya"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lir2 /kêlir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "warna"
+        }
+      ]
+    }
+  ]
+}

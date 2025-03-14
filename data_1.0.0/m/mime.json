@@ -1,0 +1,28 @@
+{
+  "istilah": "mime",
+  "entri": "mi.me",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mi.me",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "drama tanpa kata-kata yang dimainkan dengan gerak dan ekspresi wajah tanpa topeng atau riasan muka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemain mime dan pantomim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "maulud",
+  "entri": "mau.lud",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mauludan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bayi",
+    "kataAsal": "maulūd"
+  },
+  "data": [
+    {
+      "lema": "mau.lud",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dilahirkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maulid"
+        }
+      ]
+    }
+  ]
+}

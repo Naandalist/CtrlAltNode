@@ -1,0 +1,33 @@
+{
+  "istilah": "pasu",
+  "entri": "pa.su1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.su1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bejana atau jambangan besar, dibuat dari tanah untuk tempat air dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "pa.su2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bn[Benuaq: -]",
+          "deskripsi": "takaran padi, dibuat dari kayu berbentuk segi empat"
+        }
+      ]
+    }
+  ]
+}

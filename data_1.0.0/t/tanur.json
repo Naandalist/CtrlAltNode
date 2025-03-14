@@ -1,0 +1,31 @@
+{
+  "istilah": "tanur",
+  "entri": "ta.nur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tanur tinggi",
+    "tanur tiup"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "oven; perapian",
+    "kataAsal": "tannūr"
+  },
+  "data": [
+    {
+      "lema": "ta.nur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat pembakaran (kapur dan sebagainya); perapian; kompor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keran"
+        }
+      ]
+    }
+  ]
+}

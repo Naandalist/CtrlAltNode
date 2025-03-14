@@ -1,0 +1,45 @@
+{
+  "istilah": "paut",
+  "entri": "pa.ut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpaut",
+    "berpautan",
+    "keberpautan",
+    "memaut",
+    "memautkan",
+    "paut-memaut",
+    "pautan",
+    "perpautan",
+    "terpaut",
+    "pautan",
+    "terpaut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ut1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berpaut; berpautan; keberpautan; memaut; memautkan; paut-memaut; pautan; perpautan; terpaut"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ut2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pautan; terpaut"
+        }
+      ]
+    }
+  ]
+}

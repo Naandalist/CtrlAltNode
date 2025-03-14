@@ -1,0 +1,52 @@
+{
+  "istilah": "cucur",
+  "entri": "cu.cur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercucuran",
+    "cucuran",
+    "mencucuri",
+    "mencucurkan",
+    "pencucuran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cu.cur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancaran menurun (tentang air mata dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "cu.cur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "bagian perahu sebelah depan yang menganjur panjang; jungur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "layar segitiga (dipasang pada tiang terdepan) pada perahu; jib"
+        }
+      ]
+    },
+    {
+      "lema": "cu.cur3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan, dibuat dari adonan tepung beras dan gula (merah), kemudian digoreng"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "tangkil",
+  "entri": "tang.kil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menangkil",
+    "menangkil",
+    "bertangkil-tangkil"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "di antara",
+    "kataAsal": "taṅkil"
+  },
+  "data": [
+    {
+      "lema": "tang.kil1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menangkil"
+        }
+      ]
+    },
+    {
+      "lema": "tang.kil2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menangkil"
+        }
+      ]
+    },
+    {
+      "lema": "tang.kil3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bertangkil-tangkil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "istilah": "tawar",
+  "entri": "ta.war1 bentuk tidak baku: mawar2",
+  "bentukTidakBaku": "mawar2",
+  "kataTurunan": [
+    "ketawaran",
+    "menawar",
+    "menawari",
+    "menawarkan",
+    "penawar",
+    "penawaran",
+    "tawaran",
+    "bertawar-tawaran",
+    "bertawaran",
+    "menawar",
+    "menawari",
+    "menawarkan",
+    "penawar",
+    "penawaran",
+    "tawar-menawar",
+    "tawaran"
+  ],
+  "gabunganKata": [
+    "tawar hambar",
+    "tawar mawar",
+    "tawar gatra"
+  ],
+  "peribahasa": [
+    "adat dagang tahan tawar; yang tajam tumpul, yang bisa tawar"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.war1 bentuk tidak baku: mawar2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada rasanya, kurang asin, kurang sedap (tentang makanan); hambar: gulai ini -- rasanya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak asin (tentang air): didapati sumber air -- di pantai"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak manjur (tentang guna-guna, mantra, dan sebagainya); hilang dayanya (tentang bisa, racun, dan sebagainya): segala mantra dan jampi-jampinya -- belaka; racunnya sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hilang keberanian"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak gembira"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak bernafsu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak menaruh perhatian"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dingin (pada waktu menyambut tamu dan sebagainya): -- hatiku setelah bertemu dengan dia"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "reda (tentang marah dan sebagainya); berkurang-kurang (tentang sakit): akhirnya -- juga marahnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak menarik hati (tentang cerita, pidato): pidato sambutan itu -- dan dangkal"
+        }
+      ]
+    },
+    {
+      "lema": "ta.war2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menawar"
+        }
+      ]
+    }
+  ]
+}

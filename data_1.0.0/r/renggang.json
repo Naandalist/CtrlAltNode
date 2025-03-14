@@ -1,0 +1,48 @@
+{
+  "istilah": "renggang",
+  "entri": "reng.gang2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merenggang",
+    "merenggang gawai",
+    "kerenggangan",
+    "memperenggang",
+    "merenggang",
+    "merenggangi",
+    "merenggangkan",
+    "perenggang",
+    "perenggangan",
+    "renggangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tidak tetap, renggang, tidak cocok",
+    "kataAsal": "rěṅgaṅ"
+  },
+  "data": [
+    {
+      "lema": "reng.gang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merenggang"
+        }
+      ]
+    },
+    {
+      "lema": "reng.gang1 /rênggang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ada celahnya (antaranya, sela-selanya); tidak rapat: mereka disuruhnya berjajar agak -- sedikit"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang erat (tentang persahabatan dan sebagainya): perkara itu menyebabkan hubungan antara kedua negara itu makin --"
+        }
+      ]
+    }
+  ]
+}

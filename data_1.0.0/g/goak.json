@@ -1,0 +1,36 @@
+{
+  "istilah": "goak",
+  "entri": "go.ak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gegoakan",
+    "goak-goak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "go.ak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "gegoakan; goak-goak"
+        }
+      ]
+    },
+    {
+      "lema": "go.ak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gagak"
+        }
+      ]
+    }
+  ]
+}

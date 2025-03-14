@@ -1,0 +1,76 @@
+{
+  "istilah": "model",
+  "entri": "mo.del1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermodel",
+    "pemodelan",
+    "permodelan"
+  ],
+  "gabunganKata": [
+    "model ABC",
+    "model barotropik",
+    "model biomedis",
+    "model biopsikososial",
+    "model dasar",
+    "model elemen terhingga",
+    "model Fitts dan Posner",
+    "model gender konsistensi",
+    "model geosentrik",
+    "model heliosentrik",
+    "model kit replika",
+    "model otot Hill",
+    "model pangkalan data",
+    "model pembelajaran Gentile",
+    "model pengembangan inkremental",
+    "model perilaku biologi",
+    "model perkembangan interaksional",
+    "model proses perangkat lunak",
+    "model relasional",
+    "model siklon",
+    "model sudut pandang dinamik",
+    "model taut-segmen"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.del1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pola (contoh, acuan, ragam, dan sebagainya) dari sesuatu yang akan dibuat atau dihasilkan: rumahnya dibuat seperti -- rumah adat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dipakai sebagai contoh untuk dilukis (difoto): pernah aku menjadi -- lukisan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang (pekerjaannya) memperagakan contoh pakaian yang akan dipasarkan: gadis -- yang cantik-cantik itu memperagakan pakaian dari bahan batik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang tiruan yang kecil dengan bentuk (rupa) persis seperti yang ditiru: -- pesawat terbang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "cara untuk merepresentasikan pola hubungan yang diperoleh dari perilaku manusia"
+        }
+      ]
+    },
+    {
+      "lema": "mo.del2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Plb[Palembang: -]",
+          "deskripsi": "pempek berisi tahu yang dimakan dengan kuah bening seperti sop"
+        }
+      ]
+    }
+  ]
+}

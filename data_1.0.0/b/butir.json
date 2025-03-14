@@ -1,0 +1,39 @@
+{
+  "istilah": "butir",
+  "entri": "bu.tir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbutir",
+    "berbutir-butir",
+    "butiran",
+    "membutir",
+    "membutirkan",
+    "pembutiran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.tir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang kecil-kecil seperti beras, intan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong bagi barang yang bulat-bulat atau kecil-kecil: dua -- peluru bersarang di tubuhnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "salah satu bagian dari keseluruhan; perincian: keputusan musyawarah partai itu terdiri atas delapan --"
+        }
+      ]
+    }
+  ]
+}

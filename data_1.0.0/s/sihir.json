@@ -1,0 +1,35 @@
+{
+  "istilah": "sihir",
+  "entri": "si.hir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersihir",
+    "menyihir",
+    "menyihiri",
+    "menyihirkan",
+    "penyihir",
+    "tersihir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ilmu gaib yang memohon bantuan setan",
+    "kataAsal": "siḥr"
+  },
+  "data": [
+    {
+      "lema": "si.hir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan ajaib yang dilakukan dengan pesona dan kekuatan gaib (guna-guna, mantra, dan sebagainya): ia terdiam seperti kena --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang penggunaan kekuatan gaib; ilmu gaib (teluh, tuju, dan sebagainya): ahli -- (orang --) [1] orang yang berilmu sihir [2] juru teluh"
+        }
+      ]
+    }
+  ]
+}

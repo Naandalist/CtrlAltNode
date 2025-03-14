@@ -1,0 +1,39 @@
+{
+  "istilah": "kiamat",
+  "entri": "ki.a.mat bentuk tidak baku: sugra",
+  "bentukTidakBaku": "sugra",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kiamat kubra",
+    "kiamat sugra"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hari kebangkitan dari alam kubur",
+    "kataAsal": "qiyāmah"
+  },
+  "data": [
+    {
+      "lema": "ki.a.mat bentuk tidak baku: sugra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari kebangkitan sesudah mati (orang yang telah meninggal dihidupkan kembali untuk diadili perbuatannya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari akhir zaman (dunia seisinya rusak binasa dan lenyap): sampai -- ia tidak akan dapat mengerjakannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berakhir; tidak akan muncul lagi: kekalahan yang beruntun, baik dalam perebutan Piala Thomas maupun dalam Asian Games baru-baru ini, membuat dunia bulu tangkis Indonesia seperti akan --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "celaka sekali; bencana besar; rusak binasa: rumah tanggamu akan -- kalau kauceraikan istrimu"
+        }
+      ]
+    }
+  ]
+}

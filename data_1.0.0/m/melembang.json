@@ -1,0 +1,33 @@
+{
+  "istilah": "melembang",
+  "entri": "lembang1 » me.lem.bang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lembang1 » me.lem.bang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melekukkan (tanah dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "lembang2 » me.lem.bang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bercakap dengan lemah lembut; membujuk"
+        }
+      ]
+    }
+  ]
+}

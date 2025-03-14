@@ -1,0 +1,43 @@
+{
+  "istilah": "garu",
+  "entri": "ga.ru1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggaru",
+    "penggaru",
+    "penggaruan"
+  ],
+  "gabunganKata": [
+    "garu rumput"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "garu",
+    "kataAsal": "garu"
+  },
+  "data": [
+    {
+      "lema": "ga.ru1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat pertanian, bentuknya seperti sisir yang berfungsi meratakan tanah bajakan; penggaruk"
+        }
+      ]
+    },
+    {
+      "lema": "ga.ru2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon〔Urandra corniculata〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gaharu"
+        }
+      ]
+    }
+  ]
+}

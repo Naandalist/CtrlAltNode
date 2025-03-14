@@ -1,0 +1,30 @@
+{
+  "istilah": "hikmat",
+  "entri": "hik.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hikmat gajah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kebijaksanaan",
+    "kataAsal": "ḥikmah"
+  },
+  "data": [
+    {
+      "lema": "hik.mat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kebijakan; kearifan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesaktian (kekuatan gaib)"
+        }
+      ]
+    }
+  ]
+}

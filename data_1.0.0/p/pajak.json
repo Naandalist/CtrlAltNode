@@ -1,0 +1,103 @@
+{
+  "istilah": "pajak",
+  "entri": "pa.jak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpajak",
+    "memajaki",
+    "mempajaki",
+    "pemajakan",
+    "perpajakan",
+    "memajaki",
+    "pemajak"
+  ],
+  "gabunganKata": [
+    "pajak ad valorem",
+    "pajak badan",
+    "pajak bandara",
+    "pajak bumi dan bangunan",
+    "pajak daerah",
+    "pajak ganda",
+    "pajak gelap",
+    "pajak hadiah",
+    "pajak hiburan",
+    "pajak hotel dan restoran",
+    "pajak ilegal",
+    "pajak kabupaten atau kota",
+    "pajak kekayaan",
+    "pajak langsung",
+    "pajak meterai",
+    "pajak modal",
+    "pajak parkir",
+    "pajak pembelian",
+    "pajak pendapatan",
+    "pajak penerangan jalan",
+    "pajak penghasilan",
+    "pajak penjualan",
+    "pajak perponding",
+    "pajak perseorangan",
+    "pajak perseroan",
+    "pajak pertambahan nilai",
+    "pajak progresif",
+    "pajak provinsi",
+    "pajak pusat",
+    "pajak reklame",
+    "pajak siluman",
+    "pajak taksah",
+    "pajak tanah",
+    "pajak tersembunyi",
+    "pajak tidak langsung",
+    "pajak transit",
+    "pajak waralaba",
+    "pajak candu",
+    "pajak gadai",
+    "pajak sarang burung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.jak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pungutan wajib, biasanya berupa uang yang harus dibayar oleh penduduk sebagai sumbangan wajib kepada negara atau pemerintah sehubungan dengan pendapatan, pemilikan, harga beli barang, dan sebagainya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai pajak: baliho tak dibayar --nya akan dicopot"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hak untuk mengusahakan sesuatu dengan membayar sewa kepada negara; pak3"
+        }
+      ]
+    },
+    {
+      "lema": "pa.jak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hak untuk mengusahakan sesuatu dengan membayar sewa kepada negara; pak"
+        }
+      ]
+    },
+    {
+      "lema": "pa.jak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedai; lepau: -- nasi; -- kopi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "los tempat berjualan (di Madura): -- ikan; -- sayur"
+        }
+      ]
+    }
+  ]
+}

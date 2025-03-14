@@ -1,0 +1,47 @@
+{
+  "istilah": "lalang",
+  "entri": "la.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lalang es",
+    "lalang salju"
+  ],
+  "peribahasa": [
+    "berleleran bagai getah di lalang; mengendap di balik lalang sehelai; menyuruk di balik lalang sehelai (menyuruk di balik lumbung); tanam lalang, tak akan tumbuh padi; tiada terempang peluru oleh lalang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sebangsa rumput yang tinggi dan lebat, ilalang",
+    "kataAsal": "lalaṅ"
+  },
+  "data": [
+    {
+      "lema": "la.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alang-alang"
+        }
+      ]
+    },
+    {
+      "lema": "la.lang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ langlang"
+        }
+      ]
+    },
+    {
+      "lema": "la.lang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "endapan permukaan yang dihasilkan oleh arus air atau arus udara"
+        }
+      ]
+    }
+  ]
+}

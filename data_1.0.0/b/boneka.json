@@ -1,0 +1,35 @@
+{
+  "istilah": "boneka",
+  "entri": "bo.ne.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membonekakan",
+    "memperboneka",
+    "memperbonekakan"
+  ],
+  "gabunganKata": [
+    "boneka jari",
+    "boneka tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.ne.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan anak untuk permainan; anak-anakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang (negara dan sebagainya) yang hanya menjadi mainan orang (negara dan sebagainya) lain: negara Pasundan, Sumatra Timur, dan Indonesia Timur adalah negara -- buatan pemerintah kolonial Belanda pada masa itu"
+        }
+      ]
+    }
+  ]
+}

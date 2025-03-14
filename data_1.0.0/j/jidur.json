@@ -1,0 +1,41 @@
+{
+  "istilah": "jidur",
+  "entri": "ji.dur1",
+  "bentukTidakBaku": "jidor",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ji.dur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gembira; senang: dengan --nya ibu muda itu memperlihatkan bayinya yang baru lahir kepada tamu-tamunya"
+        }
+      ]
+    },
+    {
+      "lema": "ji.dur2 bentuk tidak baku: jidor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tetabuhan seperti rebana besar terbuat dari kulit kerbau dan sebagainya, berbingkai kayu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "beduk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangkat gamelan berupa gendang yang sangat besar dan dimainkan dengan penabuh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "ganjal",
+  "entri": "gan.jal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berganjal",
+    "ganjal-mengganjal",
+    "ganjalan",
+    "mengganjal",
+    "mengganjali",
+    "pengganjal",
+    "terganjal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gan.jal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang disisipkan sebagai tumpuan (supaya tegak kukuh atau tidak timpang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang ditaruh sebagai penghalang (penahan) supaya tidak bergerak turun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "papan, balok, tikar, dan bahan lain yang digunakan untuk melindungi muatan di dalam palka agar muatan tidak bergeser akibat cuaca buruk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "perquisitae",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "pemeriksaan di rumah terdakwa oleh yang berwajib untuk mencari keterangan/barang-barang yang diperlukan dalam pemeriksaan; penggeledahan rumah"
+        }
+      ]
+    },
+    {
+      "lema": "perquisitae",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "pemeriksaan di rumah terdakwa oleh yang berwajib untuk mencari keterangan/barang-barang yang diperlukan dalam pemeriksaan; penggeledahan rumah"
+        }
+      ]
+    }
+  ]
+}

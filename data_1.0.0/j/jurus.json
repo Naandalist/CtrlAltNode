@@ -1,0 +1,45 @@
+{
+  "istilah": "jurus",
+  "entri": "ju.rus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjurus-jurus",
+    "sejurus",
+    "jurusan",
+    "menjurus",
+    "menjuruskan",
+    "penjurus",
+    "penjurusan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ju.rus1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berjurus-jurus; sejurus"
+        }
+      ]
+    },
+    {
+      "lema": "ju.rus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arah yang lurus (langsung)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian sikap (tegak dan sebagainya) dalam permainan pencak silat"
+        }
+      ]
+    }
+  ]
+}

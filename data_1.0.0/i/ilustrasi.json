@@ -1,0 +1,37 @@
+{
+  "istilah": "ilustrasi",
+  "entri": "i.lus.tra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berilustrasi",
+    "mengilustrasikan"
+  ],
+  "gabunganKata": [
+    "ilustrasi musik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.lus.tra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "gambar (foto, lukisan) untuk membantu memperjelas isi buku, karangan, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "gambar, desain, atau diagram untuk penghias (halaman sampul dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "(penjelasan) tambahan berupa contoh, bandingan, dan sebagainya untuk lebih memperjelas paparan (tulisan dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

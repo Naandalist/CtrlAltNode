@@ -1,0 +1,44 @@
+{
+  "istilah": "kapsul",
+  "entri": "kap.sul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengapsulkan",
+    "pengapsulan"
+  ],
+  "gabunganKata": [
+    "kapsul aneroid",
+    "kapsul bakteri",
+    "kapsul renik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kap.sul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembungkus kecil dari sejenis agar-agar tempat obat yang harus ditelan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang khusus yang bertekanan udara tertentu yang digunakan oleh penerbang ruang angkasa (astronaut) dalam penerbangan ke angkasa luar: para astronaut bersiap-siap masuk ke dalam -- setelah persiapan untuk melakukan penerbangan selesai"
+        }
+      ]
+    },
+    {
+      "lema": "kap.sul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "buah kering beruangan sebanyak daun buah yang membentuknya, merekah, dan berbiji banyak"
+        }
+      ]
+    }
+  ]
+}

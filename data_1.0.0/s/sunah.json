@@ -1,0 +1,38 @@
+{
+  "istilah": "sunah",
+  "entri": "su.nah bentuk tidak baku: sunat2, sunnah",
+  "bentukTidakBaku": "sunat2, sunnah",
+  "kataTurunan": [
+    "disunahkan",
+    "menyunahkan"
+  ],
+  "gabunganKata": [
+    "sunah nabi",
+    "sunah rasul"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jalan hidup",
+    "kataAsal": "sunnah"
+  },
+  "data": [
+    {
+      "lema": "su.nah bentuk tidak baku: sunat2, sunnah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan yang biasa ditempuh; kebiasaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "aturan agama yang didasarkan atas segala apa yang dinukilkan dari Nabi Muhammad saw., baik perbuatan, perkataan, sikap, maupun kebiasaan yang tidak pernah ditinggalkannya; hadis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "perbuatan yang apabila dilakukan mendapat pahala dan apabila tidak dikerjakan tidak berdosa: ia rajin berpuasa -- setiap hari Senin dan Kamis"
+        }
+      ]
+    }
+  ]
+}

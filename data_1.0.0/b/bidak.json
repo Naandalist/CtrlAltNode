@@ -1,0 +1,28 @@
+{
+  "istilah": "bidak",
+  "entri": "bi.dak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pion; panduan bepergian",
+    "kataAsal": "baidaq"
+  },
+  "data": [
+    {
+      "lema": "bi.dak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah catur yang terdepan; pion; laskar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah permainan papan"
+        }
+      ]
+    }
+  ]
+}

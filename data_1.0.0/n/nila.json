@@ -1,0 +1,43 @@
+{
+  "istilah": "nila",
+  "entri": "ni.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "karena nila setitik, rusak susu sebelanga; karena nila setitik, rusak susu sebelanga"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ni.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tarum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan cat (pewarna) biru yang dibuat dari daun Indigofera"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "biru: berwarna --"
+        }
+      ]
+    },
+    {
+      "lema": "ni.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "batu permata nilam"
+        }
+      ]
+    }
+  ]
+}

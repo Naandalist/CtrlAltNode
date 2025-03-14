@@ -1,0 +1,52 @@
+{
+  "istilah": "unting",
+  "entri": "un.ting1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berunting",
+    "unting-unting",
+    "mengunting",
+    "penguntingan",
+    "unting-unting",
+    "berunting"
+  ],
+  "gabunganKata": [
+    "unting rangkap",
+    "unting tunggal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "un.ting1",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "kata penggolong untuk tali, malai padi, dan sebagainya atau barang-barang yang terikat; untai; berkas: se-- benang emas"
+        }
+      ]
+    },
+    {
+      "lema": "un.ting2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengunting; penguntingan; unting-unting"
+        }
+      ]
+    },
+    {
+      "lema": "un.ting3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "rantai polinukleotida"
+        }
+      ]
+    }
+  ]
+}

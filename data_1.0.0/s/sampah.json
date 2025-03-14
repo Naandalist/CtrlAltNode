@@ -1,0 +1,48 @@
+{
+  "istilah": "sampah",
+  "entri": "sam.pah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mempersampahkan",
+    "menyampah",
+    "penyampah",
+    "penyampahan",
+    "persampahan"
+  ],
+  "gabunganKata": [
+    "sampah anorganik",
+    "sampah berbahaya",
+    "sampah bongkahan",
+    "sampah bubur kayu",
+    "sampah dunia",
+    "sampah gilingan",
+    "sampah laut",
+    "sampah masyarakat",
+    "sampah organik",
+    "sampah radioaktif",
+    "sampah sarap"
+  ],
+  "peribahasa": [
+    "sampah itu di tepi juga; teralang-alang bagaikan sampah dalam mata"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.pah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang atau benda yang dibuang karena tidak terpakai lagi dan sebagainya; kotoran seperti daun, kertas: jangan membuang -- sembarangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "hina: hidup sebagai gelandangan dianggap -- masyarakat"
+        }
+      ]
+    }
+  ]
+}

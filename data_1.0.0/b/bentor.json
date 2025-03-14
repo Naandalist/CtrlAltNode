@@ -1,0 +1,33 @@
+{
+  "istilah": "bentor",
+  "entri": "ben.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "becak motor; becak yang digerakkan dengan tenaga motor"
+        }
+      ]
+    },
+    {
+      "lema": "ben.tor /bêntor/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "bambu kering yang dijadikan sebagai kayu api"
+        }
+      ]
+    }
+  ]
+}

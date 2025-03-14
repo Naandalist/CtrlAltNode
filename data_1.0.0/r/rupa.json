@@ -1,0 +1,61 @@
+{
+  "istilah": "rupa",
+  "entri": "ru.pa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berserupa",
+    "berupa",
+    "berupa-rupa",
+    "keserupaan",
+    "menyerupa",
+    "menyerupai",
+    "menyerupakan",
+    "merupa",
+    "merupai",
+    "merupakan",
+    "penyerupaan",
+    "perserupaan",
+    "perupa",
+    "rupa-rupa",
+    "rupa-rupanya",
+    "rupanya",
+    "serupa",
+    "terupa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ada rupa, ada harga; bagai rupa orang terkena beragih; baik rupa sepemandangan, baik bunyi sependengaran; indah kabar dari rupa; indah kabar dari rupa; indah kabar dari rupa; rupa boleh diubah, tabiat dibawa mati; rupa harimau, hati tikus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tampilan, bentuk, citra, ciri, tanda, warna, kesamaan",
+    "kataAsal": "rūpa"
+  },
+  "data": [
+    {
+      "lema": "ru.pa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan yang tampak di luar (pada lahirnya): anak marmot itu --nya mirip tikus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "roman muka; tampang muka; paras muka; raut muka: -- anak itu mirip kakaknya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wujud; apa yang tampak (kelihatan): zat itu sudah berubah --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangun; tokoh; bentuk: kapal itu --nya sebagai kapal pemburu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "macam; jenis: sedia segala -- makanan dan minuman"
+        }
+      ]
+    }
+  ]
+}

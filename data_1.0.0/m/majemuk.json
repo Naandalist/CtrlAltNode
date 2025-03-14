@@ -1,0 +1,30 @@
+{
+  "istilah": "majemuk",
+  "entri": "ma.je.muk /majêmuk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemajemukan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kumpulan",
+    "kataAsal": "majmū‘"
+  },
+  "data": [
+    {
+      "lema": "ma.je.muk /majêmuk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terdiri atas beberapa bagian yang merupakan kesatuan: masyarakat Indonesia merupakan masyarakat yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "mengenai penambahan bunga kepada pokok berdasarkan waktu dengan tujuan mendapatkan dasar baru untuk menghitung bunga berikutnya"
+        }
+      ]
+    }
+  ]
+}

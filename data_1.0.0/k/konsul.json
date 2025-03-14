@@ -1,0 +1,39 @@
+{
+  "istilah": "konsul",
+  "entri": "kon.sul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "konsul jenderal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.sul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang diangkat dan ditugasi sebagai wakil pemerintah suatu negara dalam mengurus kepentingan perdagangan atau perihal warga negaranya di negara lain"
+        }
+      ]
+    },
+    {
+      "lema": "kon.sul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] akr[akronim]",
+          "deskripsi": "konsultasi: ada -- gratisnya juga"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berkonsultasi: kami mau -- ke dokter"
+        }
+      ]
+    }
+  ]
+}

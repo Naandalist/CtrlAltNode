@@ -1,0 +1,33 @@
+{
+  "istilah": "roga",
+  "entri": "ro.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "becak"
+        }
+      ]
+    },
+    {
+      "lema": "ro.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "gangguan sakit salah urat pada tulang dan otot karena salah gerak, keseleo, terlalu lama kaku, masuk angin"
+        }
+      ]
+    }
+  ]
+}

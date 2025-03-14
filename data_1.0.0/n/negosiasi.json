@@ -1,0 +1,32 @@
+{
+  "istilah": "negosiasi",
+  "entri": "ne.go.si.a.si bentuk tidak baku: negoisasi",
+  "bentukTidakBaku": "negoisasi",
+  "kataTurunan": [
+    "bernegosiasi",
+    "menegosiasi",
+    "menegosiasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ne.go.si.a.si bentuk tidak baku: negoisasi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses tawar-menawar dengan jalan berunding untuk mencapai kesepakatan bersama antara satu pihak (kelompok atau organisasi) dan pihak (kelompok atau organisasi) yang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyelesaian sengketa secara damai melalui perundingan antara pihak yang bersengketa"
+        }
+      ]
+    }
+  ]
+}

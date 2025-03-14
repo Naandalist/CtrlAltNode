@@ -1,0 +1,34 @@
+{
+  "istilah": "pres",
+  "entri": "pres",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengepres",
+    "pengepres",
+    "pengepresan"
+  ],
+  "gabunganKata": [
+    "pres ban"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pres",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mesin cetak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat kempa"
+        }
+      ]
+    }
+  ]
+}

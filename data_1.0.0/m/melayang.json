@@ -1,0 +1,45 @@
+{
+  "istilah": "melayang",
+  "entri": "layang1 » me.la.yang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "melayang luncur"
+  ],
+  "peribahasa": [
+    "ada uang abang (di)sayang, tak ada uang abang melayang; kalau getah meleleh, kalau daun melayang; melukut tinggal, sekam melayang; teras terunjam, gubal melayang; yang bulat datang bergolek, yang pipih datang melayang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "layang1 » me.la.yang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbang (dengan sayap tidak bergerak): pesawat terbang ~ rendah di atas kepala kami"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbang karena diembus angin: atap rumah banyak yang ~ oleh angin ribut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tidak menentu; tidak terarah (tentang pikiran, tembakan, perhatian, dan sebagainya): dengan tidak disadarinya pikirannya ~ entah ke mana"
+        }
+      ]
+    },
+    {
+      "lema": "layang2 » me.la.yang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengiris, menyayat (mangga dan sebagainya) hingga setengah bulatan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "taki",
+  "entri": "ta.ki1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertaki",
+    "menaki",
+    "bertaki"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memraktekkan, melatih dirinya; dengan tekun berusaha melakukan sesuatu, bersungguh-sungguh; mempersiapkan diri dengan latihan, menanti, menunggu-nunggu, memandang ke depan untuk",
+    "kataAsal": "taki"
+  },
+  "data": [
+    {
+      "lema": "ta.ki1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bertaki"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ki2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "janji"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "telepon",
+  "entri": "te.le.pon bentuk tidak baku: telpon, telephon, telfon",
+  "bentukTidakBaku": "telpon, telephon, telfon",
+  "kataTurunan": [
+    "bertelepon",
+    "menelepon",
+    "penelepon",
+    "peneleponan"
+  ],
+  "gabunganKata": [
+    "telepon cerdas",
+    "telepon engkol",
+    "telepon genggam",
+    "telepon koin",
+    "telepon mobil",
+    "telepon nirkabel",
+    "telepon pintar",
+    "telepon radio",
+    "telepon seluler",
+    "telepon tidur",
+    "telepon umum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.le.pon bentuk tidak baku: telpon, telephon, telfon",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pesawat dengan listrik dan kawat, untuk bercakap-cakap antara dua orang yang berjauhan tempatnya; pesawat telepon: kantor -- kantor pusat hubungan telepon; tiang -- tiang kawat telepon"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "percakapan yang disampaikan dengan pesawat telepon: kelompok ini meneror lewat selebaran, --, atau dari mulut ke mulut"
+        }
+      ]
+    }
+  ]
+}

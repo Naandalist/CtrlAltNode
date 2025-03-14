@@ -1,0 +1,48 @@
+{
+  "istilah": "gugus",
+  "entri": "gu.gus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergugus",
+    "bergugus-gugus",
+    "gugusan",
+    "penggugusan"
+  ],
+  "gabunganKata": [
+    "gugus depan",
+    "gugus galaksi",
+    "gugus kalimat",
+    "gugus kata",
+    "gugus konsonan",
+    "gugus prostetik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.gus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "kelompok"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "beberapa pulau (bintang dan sebagainya) yang berkelompok menjadi satu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "atom-atom yang lewat melalui deretan reaksi tanpa terpisah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "unsur-unsur dengan reaksi serupa"
+        }
+      ]
+    }
+  ]
+}

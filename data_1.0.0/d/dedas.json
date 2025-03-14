@@ -1,0 +1,35 @@
+{
+  "istilah": "dedas",
+  "entri": "de.das1 /dêdas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendedas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.das1 /dêdas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tiruan rentetan bunyi letusan kecil (tentang senapan dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "de.das2 /dêdas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rasa tidak tuntas (tentang kencing)"
+        }
+      ]
+    }
+  ]
+}

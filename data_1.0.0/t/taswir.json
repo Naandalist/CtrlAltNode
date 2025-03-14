@@ -1,0 +1,28 @@
+{
+  "istilah": "taswir",
+  "entri": "tas.wir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembentukan; pembuatan; penggambaran",
+    "kataAsal": "taṣwīr"
+  },
+  "data": [
+    {
+      "lema": "tas.wir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "gambaran; lukisan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -] ki[kiasan]",
+          "deskripsi": "pidato untuk menggambarkan (menguraikan) sesuatu"
+        }
+      ]
+    }
+  ]
+}

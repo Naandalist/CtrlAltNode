@@ -1,0 +1,37 @@
+{
+  "istilah": "kuncah",
+  "entri": "kun.cah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "setandan, serumpun (pepohonan), ikatan, bundel",
+    "kataAsal": "guccha"
+  },
+  "data": [
+    {
+      "lema": "kun.cah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "berkas besar (padi, pandan, jerami, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "satuan ukuran isi, beratnya 160 gantang (seperlima koyan)"
+        }
+      ]
+    },
+    {
+      "lema": "kun.cah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ko[Komering: bahasa di provinsi Sumatra Selatan]",
+          "deskripsi": "pantun berisi sindiran dan ejekan terhadap bujang dan gadis yang berhubungan dengan sifat ataupun tingkah laku"
+        }
+      ]
+    }
+  ]
+}

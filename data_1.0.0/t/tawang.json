@@ -1,0 +1,33 @@
+{
+  "istilah": "tawang",
+  "entri": "ta.wang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "udara (khusus dalam arti kosong, hampa, atau tidak terbatas), langit, angkasa, sorga",
+    "kataAsal": "tawaṅ"
+  },
+  "data": [
+    {
+      "lema": "ta.wang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "ruang di antara langit dan bumi; awang-awang"
+        }
+      ]
+    },
+    {
+      "lema": "ta.wang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kalung (rantai leher) dibuat dari emas atau perak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "istilah": "mahkota",
+  "entri": "mah.ko.ta1 bentuk tidak baku: makota",
+  "bentukTidakBaku": "makota",
+  "kataTurunan": [
+    "memahkotai",
+    "pemahkotaan"
+  ],
+  "gabunganKata": [
+    "mahkota alam",
+    "mahkota gigi",
+    "mahkota hati",
+    "mahkota jiwa",
+    "mahkota negeri",
+    "mahkota zakar",
+    "mahkota daun",
+    "mahkota dewa",
+    "mahkota tambahan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kepala, puncak",
+    "kataAsal": "makuṭa"
+  },
+  "data": [
+    {
+      "lema": "mah.ko.ta1 bentuk tidak baku: makota",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hiasan kepala atau songkok kebesaran bagi raja atau ratu: Sri Ratu mengenakan -- emas bertatahkan berlian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "seseorang yang menguasai; raja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kekuasaan (atas kerajaan): raja menyerahkan -- kepada putra beliau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "gelar orang besar: Datuk Raja --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang dihargai atau yang dijunjung tinggi: rambut adalah -- wanita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang dicintai: -- jiwa"
+        }
+      ]
+    },
+    {
+      "lema": "mah.ko.ta2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian hiasan bunga yang merupakan lingkaran dalam, berwarna-warni, dan menentukan corak warna bunga, dapat terbagi atas daun mahkota (bersifat polipetal) atau bertautan (bersifat gamopetal atau simpetal)"
+        }
+      ]
+    }
+  ]
+}

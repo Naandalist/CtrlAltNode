@@ -1,0 +1,54 @@
+{
+  "istilah": "lirik",
+  "entri": "li.rik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melirik",
+    "lirikan",
+    "melirik",
+    "selirik",
+    "berlirik"
+  ],
+  "gabunganKata": [
+    "lirik dramatik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "melemparkan pandangan mata kepada, memandang sekilas kepada, melarik",
+    "kataAsal": "lirih"
+  },
+  "data": [
+    {
+      "lema": "li.rik1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melirik"
+        }
+      ]
+    },
+    {
+      "lema": "li.rik2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melirik"
+        }
+      ]
+    },
+    {
+      "lema": "li.rik3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "karya sastra (puisi) yang berisi curahan perasaan pribadi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "susunan kata sebuah nyanyian"
+        }
+      ]
+    }
+  ]
+}

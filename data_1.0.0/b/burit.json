@@ -1,0 +1,37 @@
+{
+  "istilah": "burit",
+  "entri": "bu.rit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "buritan",
+    "memburit",
+    "mengabuburit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.rit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(bagian) belakang; buntut; dubur; punggung"
+        }
+      ]
+    },
+    {
+      "lema": "bu.rit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sore"
+        }
+      ]
+    }
+  ]
+}

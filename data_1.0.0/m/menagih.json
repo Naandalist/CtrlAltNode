@@ -1,0 +1,32 @@
+{
+  "istilah": "menagih",
+  "entri": "tagih » me.na.gih",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tagih » me.na.gih",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meminta (memperingatkan, mendesak) supaya membayar (utang, pajak, iuran, dan sebagainya): belum tanggal satu ia sudah ~ uang langganan koran"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menuntut atau menggugat supaya melaksanakan janji (pernyataan dan sebagainya): kami ~ janji Ayah untuk pergi sekeluarga ke Taman Mini Indonesia Indah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Huk[Hukum: -]",
+          "deskripsi": "objek hukum yang harus diterima kreditor dari debitur"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "besutan",
+  "entri": "besut1 » be.sut.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "besut1 » be.sut.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil membesut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "asuhan"
+        }
+      ]
+    },
+    {
+      "lema": "besut2 » be.sut.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil membesut; semburan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "validasi",
+  "entri": "va.li.da.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memvalidasi",
+    "pemvalidasi",
+    "tervalidasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "va.li.da.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengesahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengujian kebenaran atas sesuatu"
+        }
+      ]
+    }
+  ]
+}

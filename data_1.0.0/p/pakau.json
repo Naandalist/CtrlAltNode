@@ -1,0 +1,46 @@
+{
+  "istilah": "pakau",
+  "entri": "pa.kau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "permainan kartu Cina",
+    "kataAsal": "phek káu"
+  },
+  "data": [
+    {
+      "lema": "pa.kau1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan kartu Cina dengan kartu tiga helai di tangan dan dapat ditukar-tukarkan seperti main ceki; permainan tiga helai"
+        }
+      ]
+    },
+    {
+      "lema": "pa.kau2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "bingung, pusing, kacau (tentang perasaan)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.kau3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kelim (dari rotan) untuk menguatkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kayu palang (pada ember)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "syahadat",
+  "entri": "sya.ha.dat bentuk tidak baku: sahadat",
+  "bentukTidakBaku": "sahadat",
+  "kataTurunan": [
+    "bersyahadat"
+  ],
+  "gabunganKata": [
+    "syahadat Rasul",
+    "syahadat tauhid"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "persaksian; pembacaan asyhadu an lā ilāha illallāh wa asyhadu anna Muḥammadan Rasūlullah",
+    "kataAsal": "syahādah"
+  },
+  "data": [
+    {
+      "lema": "sya.ha.dat bentuk tidak baku: sahadat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persaksian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "persaksian dan pengakuan (ikrar) yang benar, diikrarkan dengan lisan dan dibenarkan dengan hati bahwa tidak ada Tuhan selain Allah dan Muhammad adalah rasul Allah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "istilah": "buang",
+  "entri": "bu.ang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "buang-buang",
+    "buangan",
+    "membuang",
+    "membuang-buang",
+    "membuangkan",
+    "pembuang",
+    "pembuangan",
+    "terbuang",
+    "terbuang-buang"
+  ],
+  "gabunganKata": [
+    "buang air",
+    "buang air besar",
+    "buang air darah",
+    "buang air kecil",
+    "buang angin",
+    "buang badan",
+    "buang gas",
+    "buang sirih"
+  ],
+  "peribahasa": [
+    "kain lama dicampak buang, kain baru pula dicari"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.ang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lempar; lepaskan; keluarkan"
+        }
+      ]
+    },
+    {
+      "lema": "bu.ang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kumbang"
+        }
+      ]
+    }
+  ]
+}

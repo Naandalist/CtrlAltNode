@@ -1,0 +1,42 @@
+{
+  "istilah": "kasab",
+  "entri": "ka.sab1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "usaha mencari rezeki",
+    "kataAsal": "kasb"
+  },
+  "data": [
+    {
+      "lema": "ka.sab1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kasap2"
+        }
+      ]
+    },
+    {
+      "lema": "ka.sab2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benang emas (perak dan sebagainya): pakaian mempelai biasanya dijahit dengan -- agar lebih menarik dan bercahaya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.sab3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "usaha atau ikhtiar yang dilakukan sesuai dengan kemampuannya sebagai manusia dan sejalan dengan kehendak hatinya"
+        }
+      ]
+    }
+  ]
+}

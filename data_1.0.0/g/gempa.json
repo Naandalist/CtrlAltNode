@@ -1,0 +1,41 @@
+{
+  "istilah": "gempa",
+  "entri": "gem.pa /gêmpa/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergempa",
+    "kegempaan",
+    "menggempakan"
+  ],
+  "gabunganKata": [
+    "gempa bumi",
+    "gempa dangkal",
+    "gempa gerombolan",
+    "gempa pembuka",
+    "gempa susulan",
+    "gempa tektonik",
+    "gempa utama",
+    "gempa vulkanik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "getaran, guncangan, tremor",
+    "kataAsal": "kampa"
+  },
+  "data": [
+    {
+      "lema": "gem.pa /gêmpa/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "guncangan; gerakan (bumi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "peristiwa alam berupa getaran atau gerakan bergelombang pada kulit bumi yang ditimbulkan oleh tenaga asal dalam; gempa bumi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "monokrom",
+  "entri": "mo.no.krom",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.no.krom",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lukisan atau reproduksi berwarna tunggal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "monitor yang memiliki piksel hitam dan putih (atau hitam dan hijau, atau hitam dan warna lain)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berwarna tunggal: baju --"
+        }
+      ]
+    }
+  ]
+}

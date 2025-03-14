@@ -1,0 +1,37 @@
+{
+  "istilah": "meredamkan",
+  "entri": "redam1 » me.re.dam.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "redam1 » me.re.dam.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadikan redam"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meredam"
+        }
+      ]
+    },
+    {
+      "lema": "redam2 » me.re.dam.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meredam"
+        }
+      ]
+    }
+  ]
+}

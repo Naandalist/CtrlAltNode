@@ -1,0 +1,50 @@
+{
+  "istilah": "campur",
+  "entri": "cam.pur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercampur",
+    "bercampuran",
+    "campuran",
+    "mencampur",
+    "mencampuri",
+    "mencampurkan",
+    "pencampur",
+    "pencampuran",
+    "percampuran",
+    "tercampur"
+  ],
+  "gabunganKata": [
+    "campur bekerja",
+    "campur kaya",
+    "campur kode",
+    "campur lingkungan",
+    "campur mulut",
+    "campur tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cam.pur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berkumpul (beraduk, berbaur, berkacau) menjadi satu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berkumpul; bersama-sama"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "bersetubuh; bersanggama"
+        }
+      ]
+    }
+  ]
+}

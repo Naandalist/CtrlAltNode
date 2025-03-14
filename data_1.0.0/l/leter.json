@@ -1,0 +1,49 @@
+{
+  "istilah": "leter",
+  "entri": "le.ter1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beleter",
+    "berleter",
+    "meleter",
+    "meleterkan",
+    "peleter",
+    "meleter"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.ter1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cakap (tutur kata) yang keluar terus-menerus dengan tidak tentu maksud tujuannya"
+        }
+      ]
+    },
+    {
+      "lema": "le.ter2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "datar (tentang permukaan)"
+        }
+      ]
+    },
+    {
+      "lema": "le.ter /letêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf"
+        }
+      ]
+    }
+  ]
+}

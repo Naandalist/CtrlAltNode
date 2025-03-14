@@ -1,0 +1,32 @@
+{
+  "istilah": "sama-sama",
+  "entri": "sama1 » sa.ma-sa.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sama1 » sa.ma-sa.ma",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kedua belah pihak tidak berbeda atau tidak berlainan; semuanya: mereka itu ~ tidak suka; kita ini ~ bersalah; mereka berdua sudah ~ setuju untuk menikah"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "ungkapan yang digunakan untuk membalas ucapan terima kasih"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bersama-sama; bareng: mari kita makan ~"
+        }
+      ]
+    }
+  ]
+}

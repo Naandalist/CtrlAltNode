@@ -1,0 +1,50 @@
+{
+  "istilah": "cup",
+  "entri": "cup1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cup1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi barang yang dicelupkan dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "cup2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kecup"
+        }
+      ]
+    },
+    {
+      "lema": "cup3",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk menyuruh diam"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "cop"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk menyatakan bahwa sesuatu sudah dipilih (dimiliki)"
+        }
+      ]
+    }
+  ]
+}

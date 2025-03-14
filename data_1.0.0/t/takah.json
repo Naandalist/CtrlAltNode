@@ -1,0 +1,40 @@
+{
+  "istilah": "takah",
+  "entri": "ta.kah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menakah",
+    "takah-takahnya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.kah",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "tampan; gagah; cakap: -- juga kakak memakai dasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sikap; tingkah: perempuan itu --nya masih seperti gadis remaja"
+        }
+      ]
+    },
+    {
+      "lema": "ta.kah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "tata naskah"
+        }
+      ]
+    }
+  ]
+}

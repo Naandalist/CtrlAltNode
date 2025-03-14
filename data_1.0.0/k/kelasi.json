@@ -1,0 +1,41 @@
+{
+  "istilah": "kelasi",
+  "entri": "ke.la.si1 /kêlasi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kelasi dua",
+    "kelasi kepala",
+    "kelasi satu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.la.si1 /kêlasi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "awak kapal dengan pangkat yang terendah; matros"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok pangkat paling rendah dalam angkatan laut, mencakupi kelasi kepala, kelasi satu, dan kelasi dua"
+        }
+      ]
+    },
+    {
+      "lema": "ke.la.si2 /kêlasi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kera yang berhidung panjang〔Hylobates leuciscus〕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "lencir",
+  "entri": "len.cir1 /lêncir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "len.cir1 /lêncir/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tinggi, lurus, semampai"
+        }
+      ]
+    },
+    {
+      "lema": "len.cir2 /lêncir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang berbatang lurus dan bertajuk sangat kecil, tidak mampu bereksistensi tanpa bantuan tumbuhan yang menjadi tetangganya"
+        }
+      ]
+    }
+  ]
+}

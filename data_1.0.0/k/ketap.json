@@ -1,0 +1,30 @@
+{
+  "istilah": "ketap",
+  "entri": "ke.tap /kêtap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengetap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.tap /kêtap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ketam (katup) rapat-rapat (tentang bibir)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gigit bibir"
+        }
+      ]
+    }
+  ]
+}

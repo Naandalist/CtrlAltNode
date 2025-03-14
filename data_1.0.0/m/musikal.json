@@ -1,0 +1,41 @@
+{
+  "istilah": "musikal",
+  "entri": "mu.si.kal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mu.si.kal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan musik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mempunyai kesan musik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mempunyai rasa peka terhadap musik"
+        }
+      ]
+    },
+    {
+      "lema": "mu.si.kal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerita untuk pentas yang sering kali jenaka dan sentimental, menggunakan nyanyian, tari, dan dialog"
+        }
+      ]
+    }
+  ]
+}

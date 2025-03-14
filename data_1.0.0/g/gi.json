@@ -1,0 +1,33 @@
+{
+  "istilah": "gi",
+  "entri": "gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "lemak, mentega, cairan minyak",
+    "kataAsal": "ghṛta"
+  },
+  "data": [
+    {
+      "lema": "gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Hin[Agama Hindu: -]",
+          "deskripsi": "minyak sapi; minyak samin; cairan mentega"
+        }
+      ]
+    },
+    {
+      "lema": "GI",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "gardu induk"
+        }
+      ]
+    }
+  ]
+}

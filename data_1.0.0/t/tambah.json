@@ -1,0 +1,47 @@
+{
+  "istilah": "tambah",
+  "entri": "tam.bah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertambah",
+    "bertambah-tambah",
+    "ketambahan",
+    "menambah",
+    "menambah-nambahi",
+    "menambah-nambahkan",
+    "menambahi",
+    "menambahkan",
+    "penambah",
+    "penambahan",
+    "pertambahan",
+    "tambah-tambahan",
+    "tambahan",
+    "tinambah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tam.bah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dibubuhkan pada yang sudah ada supaya menjadi lebih banyak (lebih besar dan sebagainya); imbuh; tokok: sudah diberi banyak masih meminta --"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menjadi lebih banyak (besar dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ditambah: dua -- satu sama dengan tiga"
+        }
+      ]
+    }
+  ]
+}

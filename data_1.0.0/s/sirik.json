@@ -1,0 +1,54 @@
+{
+  "istilah": "sirik",
+  "entri": "si.rik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyirik",
+    "sirikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "melapangkan jalan, menyingkir, takut kepada",
+    "kataAsal": "sirik"
+  },
+  "data": [
+    {
+      "lema": "si.rik1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ syirik"
+        }
+      ]
+    },
+    {
+      "lema": "si.rik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pantang"
+        }
+      ]
+    },
+    {
+      "lema": "si.rik3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ siri"
+        }
+      ]
+    },
+    {
+      "lema": "si.rik4",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "iri: engkau jangan -- apabila tetanggamu kaya"
+        }
+      ]
+    }
+  ]
+}

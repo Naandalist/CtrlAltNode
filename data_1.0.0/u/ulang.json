@@ -1,0 +1,43 @@
+{
+  "istilah": "ulang",
+  "entri": "u.lang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berulang",
+    "berulang-ulang",
+    "mengulang",
+    "mengulang-ulang",
+    "mengulangi",
+    "pengulang",
+    "pengulangan",
+    "perulangan",
+    "seulang",
+    "terulang",
+    "ulang-ulang",
+    "ulangan"
+  ],
+  "gabunganKata": [
+    "ulang bicara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.lang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lakukan lagi: perbuatan itu tidak akan saya --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kembali seperti semula: cetak --"
+        }
+      ]
+    }
+  ]
+}

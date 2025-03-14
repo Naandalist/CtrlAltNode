@@ -1,0 +1,40 @@
+{
+  "istilah": "tauliah",
+  "entri": "tau.li.ah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertauliah",
+    "menauliahkan",
+    "penauliahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengangkatan menjadi wakil, wali, dan sebagainya; surat kuasa",
+    "kataAsal": "tauliyah"
+  },
+  "data": [
+    {
+      "lema": "tau.li.ah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "pelantikan atau pengangkatan menjadi wakil, wali, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "surat pengangkatan atau pelantikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "surat kepercayaan yang diserahkan oleh duta besar kepada kepala negara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "surat kuasa"
+        }
+      ]
+    }
+  ]
+}

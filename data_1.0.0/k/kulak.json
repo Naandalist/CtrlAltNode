@@ -1,0 +1,38 @@
+{
+  "istilah": "kulak",
+  "entri": "ku.lak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kulakan",
+    "mengulak",
+    "pengulak",
+    "perkulakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.lak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sukatan (satuan ukuran) beras dan sebagainya (empat cupak)"
+        }
+      ]
+    },
+    {
+      "lema": "ku.lak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "membeli barang dalam jumlah besar untuk dijual kembali"
+        }
+      ]
+    }
+  ]
+}

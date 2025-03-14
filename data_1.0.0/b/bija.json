@@ -1,0 +1,33 @@
+{
+  "istilah": "bija",
+  "entri": "bi.ja1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bibit, benih, asal, sumber",
+    "kataAsal": "bīja"
+  },
+  "data": [
+    {
+      "lema": "bi.ja1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "biji; benih; bibit"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ja2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hin[Agama Hindu: -]",
+          "deskripsi": "pelengkap sajen berupa beras yang direndam air cendana, biasanya diletakkan di kening pada saat mengakhiri persembahyangan"
+        }
+      ]
+    }
+  ]
+}

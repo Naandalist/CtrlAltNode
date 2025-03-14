@@ -1,0 +1,45 @@
+{
+  "istilah": "rudu",
+  "entri": "ru.du1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merudu",
+    "merudu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.du1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "ruyup; luyut: dengan wajah -- ia datang bersama kawan karibnya"
+        }
+      ]
+    },
+    {
+      "lema": "ru.du2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merudu"
+        }
+      ]
+    },
+    {
+      "lema": "ru.du3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merudu"
+        }
+      ]
+    }
+  ]
+}

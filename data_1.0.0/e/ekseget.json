@@ -1,0 +1,28 @@
+{
+  "istilah": "ekseget",
+  "entri": "ek.se.get /eksêget/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ek.se.get /eksêget/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli eksegesis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "fenomena alam atau takson yang dipakai sebagai indikator proses ekologi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "istilah": "modal",
+  "entri": "mo.dal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermodal",
+    "bermodalkan",
+    "memodali",
+    "pemodal",
+    "pemodalan",
+    "permodalan"
+  ],
+  "gabunganKata": [
+    "modal asing",
+    "modal bergerak",
+    "modal campuran",
+    "modal dasar",
+    "modal dengkul",
+    "modal ekuitas",
+    "modal hawa",
+    "modal kerja",
+    "modal manusiawi",
+    "modal napas",
+    "modal patungan",
+    "modal penyertaan",
+    "modal swasta",
+    "modal tetap",
+    "modal tetap masyarakat",
+    "modal uang",
+    "modal utama",
+    "modal ventura"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "muncul, timbul",
+    "kataAsal": "modal"
+  },
+  "data": [
+    {
+      "lema": "mo.dal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang yang dipakai sebagai pokok (induk) untuk berdagang, melepas uang, dan sebagainya; harta benda (uang, barang, dan sebagainya) yang dapat dipergunakan untuk menghasilkan sesuatu yang menambah kekayaan dan sebagainya: ia menanam --nya dalam perusahaan itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "barang yang digunakan sebagai dasar atau bekal untuk bekerja (berjuang dan sebagainya): keberanian merupakan -- pertama dalam ujian"
+        }
+      ]
+    }
+  ]
+}

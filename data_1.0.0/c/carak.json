@@ -1,0 +1,54 @@
+{
+  "istilah": "carak",
+  "entri": "ca.rak1 bentuk tidak baku: carat",
+  "bentukTidakBaku": "carat",
+  "kataTurunan": [
+    "mencarak",
+    "pencarak",
+    "mencarak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "minum",
+    "kataAsal": "carak"
+  },
+  "data": [
+    {
+      "lema": "ca.rak1 bentuk tidak baku: carat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "isap"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ambil secara berlebih"
+        }
+      ]
+    },
+    {
+      "lema": "ca.rak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mulai terlihat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "buka dan lihat"
+        }
+      ]
+    },
+    {
+      "lema": "ca.rak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "saluran air terbuat dari batang pinang atau bambu"
+        }
+      ]
+    }
+  ]
+}

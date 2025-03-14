@@ -1,0 +1,41 @@
+{
+  "istilah": "budak",
+  "entri": "bu.dak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbudak-budak",
+    "kebudak-budakan",
+    "membudak",
+    "membudakkan",
+    "memperbudak",
+    "pembudakan",
+    "perbudakan"
+  ],
+  "gabunganKata": [
+    "budak belian",
+    "budak dalam"
+  ],
+  "peribahasa": [
+    "bagai budak-budak makan pisang; bukan budak makan pisang; membekali budak lari"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.dak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak; kanak-kanak: -- bermain layang-layang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "antek; hamba; jongos; orang gajian: aku bukan --mu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "mars",
+  "entri": "mars1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mars1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan yang teratur dan tetap, seperti tentara berbaris"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perjalanan jauh dari satu tempat ke tempat lain dengan berjalan kaki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "irama musik dengan tempo setengah atau seperempat untuk mengiringi tentara berbaris: barisan musik Angkatan Laut itu memperdengarkan lagu-lagu --"
+        }
+      ]
+    },
+    {
+      "lema": "Mars2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dewa perang bangsa Romawi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "planet ke-4 dari matahari; Marikh"
+        }
+      ]
+    }
+  ]
+}

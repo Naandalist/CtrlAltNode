@@ -1,0 +1,67 @@
+{
+  "istilah": "fungsi",
+  "entri": "fung.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berfungsi",
+    "memfungsikan",
+    "pemfungsian",
+    "sefungsi"
+  ],
+  "gabunganKata": [
+    "fungsi aljabar",
+    "fungsi eksokrin",
+    "fungsi eksponensial",
+    "fungsi ekspresif",
+    "fungsi endokrin",
+    "fungsi fatis",
+    "fungsi hutan",
+    "fungsi ideasional",
+    "fungsi interpersonal",
+    "fungsi iterasi",
+    "fungsi kendala",
+    "fungsi kognitif",
+    "fungsi komunikatif",
+    "fungsi logaritmik",
+    "fungsi logistik",
+    "fungsi pembelian",
+    "fungsi pustaka",
+    "fungsi sosial",
+    "fungsi tekstual",
+    "fungsi tetap",
+    "fungsi transfer lingkaran terbuka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fung.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jabatan (pekerjaan) yang dilakukan: jika ketua tidak ada, wakil ketua melakukan -- ketua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "faal (kerja suatu bagian tubuh): -- jantung ialah memompa dan mengalirkan darah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "besaran yang berhubungan, jika besaran yang satu berubah, besaran yang lain juga berubah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "kegunaan suatu hal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "peran sebuah unsur bahasa dalam satuan sintaksis yang lebih luas (seperti nomina berfungsi sebagai subjek)"
+        }
+      ]
+    }
+  ]
+}

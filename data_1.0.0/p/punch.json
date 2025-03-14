@@ -1,0 +1,41 @@
+{
+  "istilah": "punch",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -] Olr[Olahraga: -]",
+          "deskripsi": "pukulan (dalam olahraga tinju) yang sengaja diberikan secara tidak efektif"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "minuman manis, terdiri atas sari buah, air soda, dan sebagainya yang dicampur dengan anggur atau minuman keras dan disajikan dalam gelas besar"
+        }
+      ]
+    },
+    {
+      "lema": "punch",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -] [Olahraga: -]",
+          "deskripsi": "pukulan (dalam olahraga tinju) yang sengaja diberikan secara tidak efektif"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "minuman manis, terdiri atas sari buah, air soda, dan sebagainya yang dicampur dengan anggur atau minuman keras dan disajikan dalam gelas besar"
+        }
+      ]
+    }
+  ]
+}

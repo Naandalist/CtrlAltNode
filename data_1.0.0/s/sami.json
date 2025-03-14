@@ -1,0 +1,33 @@
+{
+  "istilah": "sami",
+  "entri": "sa.mi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tinggi; luhur",
+    "kataAsal": "sāmī"
+  },
+  "data": [
+    {
+      "lema": "sa.mi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Bud[Agama Buddha: -]",
+          "deskripsi": "biksu; biksuni"
+        }
+      ]
+    },
+    {
+      "lema": "sa.mi2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "agung; luhur; mulia; tinggi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "istilah": "menang",
+  "entri": "me.nang /mênang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemenangan",
+    "memenangi",
+    "memenangkan",
+    "mempermenangkan",
+    "pemenang",
+    "pemenangan"
+  ],
+  "gabunganKata": [
+    "menang angka",
+    "menang KO",
+    "menang lima set",
+    "menang RSC",
+    "menang suara",
+    "menang tiga set",
+    "menang tipis",
+    "menang TKO"
+  ],
+  "peribahasa": [
+    "alah (kalah) membeli, menang memakai; alah main, menang sarak; alah membeli, menang memakai; alah menang tak tahu, bersorak boleh; alah sabung, menang sorak; biar kalah sabung, asalkan menang sorak; biar lambat laga, asal menang; kalah jadi abu, menang jadi arang; siapa lama tahan, menang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mampu, mempunyai hak untuk, menerima hak untuk; unggul, menang, mencapai kemenangan",
+    "kataAsal": "měnaṅ"
+  },
+  "data": [
+    {
+      "lema": "me.nang /mênang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat mengalahkan (musuh, lawan, saingan); unggul: dalam perang selalu ada yang kalah dan ada yang --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meraih (mendapat) hasil (perolehan) karena dapat mengalahkan lawan (saingan): berapa rupiah kamu -- semalam?"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lulus (dalam ujian): dalam ujian susulan dia --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendapat hadiah (dalam undian, sayembara, dan sebagainya): ia -- lotre; yang -- sayembara karang-mengarang mendapat piagam"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat melebihi; lebih dari: bukan karena -- pandai, melainkan memang nasib baik; ia bukan -- kaya, melainkan -- pangkat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dinyatakan benar (dalam perkara): terdakwa itu -- perkara"
+        }
+      ]
+    }
+  ]
+}

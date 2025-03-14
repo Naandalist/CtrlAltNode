@@ -1,0 +1,50 @@
+{
+  "istilah": "sapu",
+  "entri": "sa.pu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyapu",
+    "menyapu-nyapu",
+    "menyapukan",
+    "penyapu",
+    "penyapuan",
+    "sapuan",
+    "tersapu",
+    "disapu",
+    "menyapu"
+  ],
+  "gabunganKata": [
+    "sapu bersih",
+    "sapu jagat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.pu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat rumah tangga dibuat dari ijuk (lidi, sabut, dan sebagainya) yang diikat menjadi berkas, diberi tangkai pendek atau panjang untuk membersihkan debu, sampah, dan sebagainya: -- ijuk; -- lidi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penghapus; apa saja yang dipakai untuk menghapus (membersihkan, menyeka, dan sebagainya): -- cat"
+        }
+      ]
+    },
+    {
+      "lema": "sa.pu2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyapu"
+        }
+      ]
+    }
+  ]
+}

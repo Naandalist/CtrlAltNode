@@ -1,0 +1,33 @@
+{
+  "istilah": "stem",
+  "entri": "stem",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "stem",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "haluan depan anjung-anjung kapal"
+        }
+      ]
+    },
+    {
+      "lema": "STEM",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dik[Pendidikan: -] sing[singkatan]",
+          "deskripsi": "sains, teknologi, teknik, matematika (metode pembelajaran yang mengintegrasikan sains, teknologi, teknik, dan matematika untuk mengembangkan kreativitas siswa melalui pemecahan masalah dalam kehidupan sehari-hari)"
+        }
+      ]
+    }
+  ]
+}

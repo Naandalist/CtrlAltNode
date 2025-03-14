@@ -1,0 +1,44 @@
+{
+  "istilah": "cicik",
+  "entri": "ci.cik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencicik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ci.cik1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "desis; desing"
+        }
+      ]
+    },
+    {
+      "lema": "ci.cik2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "jijik"
+        }
+      ]
+    },
+    {
+      "lema": "ci.cik3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mr[Mandar: -]",
+          "deskripsi": "panggilan untuk anak perempuan"
+        }
+      ]
+    }
+  ]
+}

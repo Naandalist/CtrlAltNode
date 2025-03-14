@@ -1,0 +1,81 @@
+{
+  "istilah": "kilat",
+  "entri": "ki.lat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkilat",
+    "berkilat-kilat",
+    "berkilatan",
+    "kemilat",
+    "kilatan",
+    "mengilat",
+    "mengilat-ngilatkan",
+    "mengilatkan",
+    "mengkilat",
+    "pengilat",
+    "terkilat"
+  ],
+  "gabunganKata": [
+    "kilat akar serabut",
+    "kilat antar awan",
+    "kilat batang",
+    "kilat bola",
+    "kilat dari awan ke bumi",
+    "kilat garis",
+    "kilat panas",
+    "kilat roket"
+  ],
+  "peribahasa": [
+    "hilang kilat dalam kilau; kilat di dalam kilau; tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.lat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cahaya yang berkelebat dengan cepat di langit (petir dan sebagainya): -- sabung-menyabung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cahaya yang berkilau (berkilat): -- pisau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang sangat cepat: kereta api --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dikerjakan dalam waktu singkat: kursus --"
+        }
+      ]
+    },
+    {
+      "lema": "ki.lat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kelat bahu"
+        }
+      ]
+    },
+    {
+      "lema": "ki.lat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang banyak terdapat dalam paya-paya di tepi laut, kulit batangnya untuk menyamak kulit, kayunya untuk kayu api; jangkar paya; bakau〔Rhizophora conjugata〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu (kulit) pohon bakau"
+        }
+      ]
+    }
+  ]
+}

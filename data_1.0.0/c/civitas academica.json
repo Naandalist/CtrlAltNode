@@ -1,0 +1,33 @@
+{
+  "istilah": "civitas academica",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "kelompok (warga) masyarakat akademik yang terdiri atas dosen dan mahasiswa dengan perwakilannya yang terbentuk melalui senat masing-masing"
+        }
+      ]
+    },
+    {
+      "lema": "civitas academica",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "kelompok (warga) masyarakat akademik yang terdiri atas dosen dan mahasiswa dengan perwakilannya yang terbentuk melalui senat masing-masing"
+        }
+      ]
+    }
+  ]
+}

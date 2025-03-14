@@ -1,0 +1,24 @@
+{
+  "istilah": "direktori saat ini",
+  "entri": "direktori » direktori saat ini",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "direktori » direktori saat ini",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "lokasi direktori tempat komputer akan mencari berkas jika tidak ada direktori lain yang ditentukan"
+        }
+      ]
+    }
+  ]
+}

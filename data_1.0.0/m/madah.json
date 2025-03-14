@@ -1,0 +1,42 @@
+{
+  "istilah": "madah",
+  "entri": "ma.dah1",
+  "bentukTidakBaku": "maddah",
+  "kataTurunan": [
+    "bermadah",
+    "bermadah-madah",
+    "memadahkan",
+    "pemadah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tanda bunyi panjang dalam bahasa Arab",
+    "kataAsal": "maddah"
+  },
+  "data": [
+    {
+      "lema": "ma.dah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata-kata pujian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kata: berpanjang --"
+        }
+      ]
+    },
+    {
+      "lema": "ma.dah2 bentuk tidak baku: maddah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mad"
+        }
+      ]
+    }
+  ]
+}

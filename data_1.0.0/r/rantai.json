@@ -1,0 +1,64 @@
+{
+  "istilah": "rantai",
+  "entri": "ran.tai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berantai",
+    "berantai-rantai",
+    "merantai",
+    "rantaian",
+    "serantai",
+    "terantai"
+  ],
+  "gabunganKata": [
+    "rantai balik",
+    "rantai daisi",
+    "rantai dingin",
+    "rantai gergaji",
+    "rantai ikat balok",
+    "rantai inti sel",
+    "rantai kangkang",
+    "rantai karbon",
+    "rantai komando",
+    "rantai makanan",
+    "rantai pasok",
+    "rantai pemotong",
+    "rantai pengaman",
+    "rantai surat kabar",
+    "rantai tertutup",
+    "rantai utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "rantai, tali, rangkaian bunga berbentuk lingkaran",
+    "kataAsal": "rantay"
+  },
+  "data": [
+    {
+      "lema": "ran.tai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali dari cincin yang berkaitan, biasanya dibuat dari logam, plastik, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kalung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikatan; pertalian: memutuskan -- pertunangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belenggu; kungkungan; kekuasaan: melepaskan diri dari -- penjajah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "deret atom yang terikat dengan ikatan homopoler"
+        }
+      ]
+    }
+  ]
+}

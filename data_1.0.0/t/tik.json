@@ -1,0 +1,57 @@
+{
+  "istilah": "tik",
+  "entri": "tik1",
+  "bentukTidakBaku": "ketik1",
+  "kataTurunan": [
+    "ketikan",
+    "mengetik",
+    "pengetik",
+    "pengetikan",
+    "tikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi detik arloji, hujan, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "tik2 bentuk tidak baku: ketik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mesin tik"
+        }
+      ]
+    },
+    {
+      "lema": "tik3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(kain) penutup tilam dan bantal; kain tilam"
+        }
+      ]
+    },
+    {
+      "lema": "TIK",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "tujuan instruksional khusus"
+        }
+      ]
+    }
+  ]
+}

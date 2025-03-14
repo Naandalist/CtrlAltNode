@@ -1,0 +1,42 @@
+{
+  "istilah": "sal",
+  "entri": "sal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sal1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ syal"
+        }
+      ]
+    },
+    {
+      "lema": "sal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang besar (di rumah sakit, asrama, dan sebagainya); bangsal"
+        }
+      ]
+    },
+    {
+      "lema": "SAL",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "saldo anggaran lebih (saldo yang berasal dari akumulasi SiLPA tahun-tahun anggaran sebelumnya dan tahun berjalan serta penyesuaian lain yang diperkenankan)"
+        }
+      ]
+    }
+  ]
+}

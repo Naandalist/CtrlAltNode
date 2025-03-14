@@ -1,0 +1,28 @@
+{
+  "istilah": "hipo-",
+  "entri": "hi.po-",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.po-",
+      "arti": [
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "bawah; di bawah; ke bawah: hipodermis"
+        },
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "kurang dari; bawahan dari: hipotaksis, hipovitaminosis"
+        }
+      ]
+    }
+  ]
+}

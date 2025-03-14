@@ -1,0 +1,32 @@
+{
+  "istilah": "persona",
+  "entri": "per.so.na /pêrsona/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per.so.na /pêrsona/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang; pribadi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "orang atau benda yang berperanan dalam pembicaraan (persona I, pembicara; persona II, orang yang diajak bicara; persona III, orang yang dibicarakan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "topeng, wajah, ciri khas seseorang, identik dengan pribadinya"
+        }
+      ]
+    }
+  ]
+}

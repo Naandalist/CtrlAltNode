@@ -1,0 +1,37 @@
+{
+  "istilah": "merangkup",
+  "entri": "rangkup1 » me.rang.kup",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rangkup1 » me.rang.kup",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membentuk lekuk atau rongga (seperti dua telapak tangan ketika menciduk air)"
+        }
+      ]
+    },
+    {
+      "lema": "rangkup2 » me.rang.kup",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merangkum; memeluk"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menudungi; melingkup; menutup"
+        }
+      ]
+    }
+  ]
+}

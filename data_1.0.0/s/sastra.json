@@ -1,0 +1,66 @@
+{
+  "istilah": "sastra",
+  "entri": "sas.tra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersastra",
+    "kebersastraan",
+    "kesastraan"
+  ],
+  "gabunganKata": [
+    "sastra bandingan",
+    "sastra daerah",
+    "sastra dunia",
+    "sastra erotik",
+    "sastra hiburan",
+    "sastra Indonesia",
+    "sastra Indonesia klasik",
+    "sastra klasik",
+    "sastra kontemporer",
+    "sastra lisan",
+    "sastra modern",
+    "sastra nusantara",
+    "sastra otonom",
+    "sastra pelarian",
+    "sastra pengasingan",
+    "sastra peranakan",
+    "sastra pop",
+    "sastra protes",
+    "sastra rakyat",
+    "sastra tebakan",
+    "sastra tulisan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "ilmu pengetahuan, saran, aturan, ajaran",
+    "kataAsal": "śāstra"
+  },
+  "data": [
+    {
+      "lema": "sas.tra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa (kata-kata, gaya bahasa) yang dipakai dalam kitab-kitab (bukan bahasa sehari-hari)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesusastraan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kitab ilmu pengetahuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pustaka; primbon (berisi ramalan, hitungan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tulisan; huruf"
+        }
+      ]
+    }
+  ]
+}

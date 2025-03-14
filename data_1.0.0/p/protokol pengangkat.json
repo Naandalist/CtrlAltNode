@@ -1,0 +1,24 @@
+{
+  "istilah": "protokol pengangkat",
+  "entri": "protokol » protokol pengangkat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "protokol » protokol pengangkat",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "protokol internet yang digunakan oleh stasiun kerja nircakram untuk memperoleh alamat jaringannya, kemudian memuatkan sistem operasi dari server pusat"
+        }
+      ]
+    }
+  ]
+}

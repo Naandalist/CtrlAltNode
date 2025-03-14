@@ -1,0 +1,44 @@
+{
+  "istilah": "rabun",
+  "entri": "ra.bun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berabun-rabun",
+    "kerabunan",
+    "merabuni",
+    "merabunkan",
+    "perabun"
+  ],
+  "gabunganKata": [
+    "rabun ayam",
+    "rabun dekat",
+    "rabun jauh",
+    "rabun senja"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.bun1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang jelas; kurang awas; kabur (tentang penglihatan): orang tua itu sudah -- matanya"
+        }
+      ]
+    },
+    {
+      "lema": "ra.bun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asap (dari daun-daunan, dupa yang dibakar) untuk mengasapi rumah, mengobati orang sakit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "istilah": "inti",
+  "entri": "in.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berinti",
+    "berintikan",
+    "penginti",
+    "pengintian",
+    "perintian"
+  ],
+  "gabunganKata": [
+    "inti atom",
+    "inti bakaran",
+    "inti beku",
+    "inti es",
+    "inti higroskopik",
+    "inti kondensasi",
+    "inti pembekuan",
+    "inti sari",
+    "inti sublimasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.ti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "isi yang paling pokok atau penting; pokok isi; sari; pati; sari pati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "bagian yang utama, yang penting peranannya dalam suatu proses atau pelaksanaan kerja: regu --; tenaga --; pemain --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bagian konstruksi yang paling bebas atau dominan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "partikel khusus di udara yang memungkinkan terjadinya air atau es dari uap air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "teras atom yang terdiri atas proton dan neutron, yang seluruh muatannya positif, dan hampir semua massanya terpusat; inti atom; nukleus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hidm[Hidrometeorologi: -]",
+          "deskripsi": "zarah yang molekul air atau es merupakan hasil dari perubahan fase menempel, molekul air atau es tersebut menjadi lebih padat"
+        }
+      ]
+    }
+  ]
+}

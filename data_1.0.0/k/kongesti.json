@@ -1,0 +1,32 @@
+{
+  "istilah": "kongesti",
+  "entri": "kon.ges.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.ges.ti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penimbunan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "banyaknya barang tertimbun di suatu tempat sehingga menimbulkan kemacetan arus barang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "jumlah darah atau lendir yang berlebih dalam suatu organ di dalam tubuh"
+        }
+      ]
+    }
+  ]
+}

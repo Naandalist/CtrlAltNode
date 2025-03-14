@@ -1,0 +1,33 @@
+{
+  "istilah": "keliki",
+  "entri": "ke.li.ki1 /kêliki/bentuk tidak baku: kelikih1",
+  "bentukTidakBaku": "kelikih1",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.li.ki1 /kêliki/bentuk tidak baku: kelikih1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "pepaya〔Carica papaya〕"
+        }
+      ]
+    },
+    {
+      "lema": "ke.li.ki2 /kêliki/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "kelikih2"
+        }
+      ]
+    }
+  ]
+}

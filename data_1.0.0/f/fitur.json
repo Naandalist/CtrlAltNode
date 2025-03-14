@@ -1,0 +1,32 @@
+{
+  "istilah": "fitur",
+  "entri": "fi.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berfitur"
+  ],
+  "gabunganKata": [
+    "fitur invarian"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.tur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karakteristik khusus yang terdapat pada suatu alat (televisi, ponsel, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "fungsi, kemampuan, atau desain khusus dari perangkat keras atau perangkat lunak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "istilah": "sendok",
+  "entri": "sen.dok1 bentuk tidak baku: senduk",
+  "bentukTidakBaku": "senduk",
+  "kataTurunan": [
+    "menyendok",
+    "tersendok"
+  ],
+  "gabunganKata": [
+    "sendok air",
+    "sendok bebek",
+    "sendok bubur",
+    "sendok builon",
+    "sendok deser",
+    "sendok es krim",
+    "sendok jeruk",
+    "sendok makan",
+    "sendok nasi",
+    "sendok pengedang",
+    "sendok sayur",
+    "sendok sepatu",
+    "sendok sup",
+    "sendok takar",
+    "sendok tambul",
+    "sendok teh",
+    "sendok tembok"
+  ],
+  "peribahasa": [
+    "berani sendok pengedang, air hangat direnanginya; sendok berdengar-dengar, nasi habis budi dapat; sendok besar tak mengenyang; sendok dan periuk lagi berantuk (sendok dengan belanga lagi berlaga)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.dok1 bentuk tidak baku: senduk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang digunakan sebagai pengganti tangan dalam mengambil sesuatu (seperti nasi), bentuknya bulat, cekung, dan bertangkai (ada bermacam-macam, misalnya centong, sudip)"
+        }
+      ]
+    },
+    {
+      "lema": "sen.dok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat daun"
+        }
+      ]
+    }
+  ]
+}

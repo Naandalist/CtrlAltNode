@@ -1,0 +1,37 @@
+{
+  "istilah": "rute",
+  "entri": "ru.te /rutê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "perute",
+    "perutean"
+  ],
+  "gabunganKata": [
+    "rute langsung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.te /rutê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jarak atau arah yang harus diturut (ditempuh, dilalui): menempuh -- itu dalam waktu 12 jam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan yang ditempuh (dilalui): reli itu akan menempuh -- Jakarta--Surabaya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalur angkutan yang menghubungkan dua tempat"
+        }
+      ]
+    }
+  ]
+}

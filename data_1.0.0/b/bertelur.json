@@ -1,0 +1,40 @@
+{
+  "istilah": "bertelur",
+  "entri": "telur » ber.te.lur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bertelur burung"
+  ],
+  "peribahasa": [
+    "ayam bertelur di padi; barang siapa yang berketuk, ialah yang bertelur; menantikan menguar-nguarkan bertelur; siapa berkotek, siapa bertelur"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "telur » ber.te.lur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengeluarkan telur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berak"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menjatuhkan bom (tentang pesawat terbang)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "mendatangkan hasil (keuntungan dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

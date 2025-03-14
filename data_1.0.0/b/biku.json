@@ -1,0 +1,43 @@
+{
+  "istilah": "biku",
+  "entri": "bi.ku1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbiku-biku"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pertapa, biksu, pendeta Buddha",
+    "kataAsal": "bhikṣu"
+  },
+  "data": [
+    {
+      "lema": "bi.ku1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "biksu"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ku2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arah garis yang naik turun dengan puncak dan dasar yang lancip"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lipatan-lipatan pada tepi kain, baju, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "takik bergerigi pada tepi dan sebagainya sebagai perhiasan"
+        }
+      ]
+    }
+  ]
+}

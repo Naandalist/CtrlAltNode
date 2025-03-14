@@ -1,0 +1,30 @@
+{
+  "istilah": "radiologi",
+  "entri": "ra.di.o.lo.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "radiologi intervensi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.di.o.lo.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu pengobatan yang menggunakan sinar X atau sinar radioaktif untuk mengetahui penyakit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang radioaktif"
+        }
+      ]
+    }
+  ]
+}

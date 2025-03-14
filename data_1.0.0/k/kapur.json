@@ -1,0 +1,52 @@
+{
+  "istilah": "kapur",
+  "entri": "ka.pur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkapur",
+    "mengapur",
+    "pekapuran",
+    "pengapuran",
+    "perkapuran"
+  ],
+  "gabunganKata": [
+    "kapur barus",
+    "kapur belanda",
+    "kapur hidup",
+    "kapur jahit",
+    "kapur jahit",
+    "kapur kembang",
+    "kapur kuripan",
+    "kapur mentah",
+    "kapur tohor",
+    "kapur tulis"
+  ],
+  "peribahasa": [
+    "hitam, hitam kereta api, putihputih kapur sirih; sebagai kunyit dengan kapur"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pohon kamper",
+    "kataAsal": "kāfūr"
+  },
+  "data": [
+    {
+      "lema": "ka.pur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan serbuk yang putih warnanya, diperoleh dari batu putih (sisa-sisa organisme laut) yang dibakar, digunakan sebagai campuran makan sirih, pemutih dinding, bahan obat-obatan, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.pur2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kayu1"
+        }
+      ]
+    }
+  ]
+}

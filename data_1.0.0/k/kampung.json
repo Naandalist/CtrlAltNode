@@ -1,0 +1,48 @@
+{
+  "istilah": "kampung",
+  "entri": "kam.pung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkampung",
+    "kampungan",
+    "mengampung",
+    "perkampungan"
+  ],
+  "gabunganKata": [
+    "kampung atlet",
+    "kampung halaman",
+    "kampung keluarga berencana",
+    "kampung seni"
+  ],
+  "peribahasa": [
+    "seperti gajah masuk kampung; seperti rusa masuk kampung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kam.pung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok rumah yang merupakan bagian kota (biasanya dihuni orang berpenghasilan rendah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "desa; dusun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesatuan administrasi terkecil yang menempati wilayah tertentu, terletak di bawah kecamatan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terbelakang (belum modern); berkaitan dengan kebiasaan di kampung; kolot"
+        }
+      ]
+    }
+  ]
+}

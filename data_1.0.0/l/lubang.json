@@ -1,0 +1,71 @@
+{
+  "istilah": "lubang",
+  "entri": "lu.bang1 bentuk tidak baku: lobang",
+  "bentukTidakBaku": "lobang",
+  "kataTurunan": [
+    "berlubang",
+    "berlubang-lubang",
+    "melubangi",
+    "pelubang",
+    "pelubangan"
+  ],
+  "gabunganKata": [
+    "lubang angin",
+    "lubang anjungan",
+    "lubang cacing",
+    "lubang hidung",
+    "lubang hitam",
+    "lubang intip",
+    "lubang jarum",
+    "lubang kancing",
+    "lubang kemaluan",
+    "lubang kepundan",
+    "lubang kulit",
+    "lubang kunci",
+    "lubang kuping",
+    "lubang langgak",
+    "lubang lengan",
+    "lubang muat sisi",
+    "lubang palkah",
+    "lubang pantat",
+    "lubang sembunyi",
+    "lubang spion",
+    "lubang telinga"
+  ],
+  "peribahasa": [
+    "barang siapa menggali lubang, ia akan terperosok ke dalamnya; gali lubang tutup lubang; menggali lubang, menutup lubang; mengorek lubang ulat; teperlus, maka hendak menutup lubang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lubang",
+    "kataAsal": "luwaṅ"
+  },
+  "data": [
+    {
+      "lema": "lu.bang1 bentuk tidak baku: lobang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "liang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lekuk di tanah dan sebagainya: ia menggali -- untuk menanam pisang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "lowongan yang ditinggalkan oleh elektron yang berpindah dalam zat padat dan bermuatan positif dan dapat menghantar arus listrik"
+        }
+      ]
+    },
+    {
+      "lema": "lu.bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "belut besar"
+        }
+      ]
+    }
+  ]
+}

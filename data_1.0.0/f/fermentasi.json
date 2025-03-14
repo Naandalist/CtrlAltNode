@@ -1,0 +1,35 @@
+{
+  "istilah": "fermentasi",
+  "entri": "fer.men.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berfermentasi",
+    "memfermentasi",
+    "memfermentasikan",
+    "pemfermentasi",
+    "terfermentasi",
+    "terfermentasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fer.men.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peragian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "penguraian metabolik senyawa organik oleh mikroorganisme yang menghasilkan energi yang pada umumnya berlangsung dengan kondisi anaerobik dan dengan pembebasan gas"
+        }
+      ]
+    }
+  ]
+}

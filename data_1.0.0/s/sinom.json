@@ -1,0 +1,42 @@
+{
+  "istilah": "sinom",
+  "entri": "si.nom1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cabang-cabang muda atau lentur, tunas atau sulur",
+    "kataAsal": "sinom"
+  },
+  "data": [
+    {
+      "lema": "si.nom1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "rambut pendek dan halus (anak rambut) yang tumbuh di antara wajah dan rambut kepala"
+        }
+      ]
+    },
+    {
+      "lema": "si.nom2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tembang (Jawa) macapat, biasanya romantis (berisi percintaan), tiap bait terdiri atas sembilan baris"
+        }
+      ]
+    },
+    {
+      "lema": "si.nom3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pucuk daun asam; daun asam yang masih muda"
+        }
+      ]
+    }
+  ]
+}

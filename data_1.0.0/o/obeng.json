@@ -1,0 +1,44 @@
+{
+  "istilah": "obeng",
+  "entri": "o.beng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengobeng",
+    "pengobeng"
+  ],
+  "gabunganKata": [
+    "obeng genjot",
+    "obeng genjot kawat",
+    "obeng kembang",
+    "obeng ketok",
+    "obeng minus",
+    "obeng pipih",
+    "obeng sok"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.beng1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk memutar sekrup"
+        }
+      ]
+    },
+    {
+      "lema": "o.beng2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengobeng; pengobeng"
+        }
+      ]
+    }
+  ]
+}

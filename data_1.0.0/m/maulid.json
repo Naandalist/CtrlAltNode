@@ -1,0 +1,36 @@
+{
+  "istilah": "maulid",
+  "entri": "mau.lid",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermaulid Rasul"
+  ],
+  "gabunganKata": [
+    "maulid Rasul"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hari kelahiran; tempat kelahiran",
+    "kataAsal": "maulid"
+  },
+  "data": [
+    {
+      "lema": "mau.lid",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari lahir (terutama hari lahir Nabi Muhammad saw.): memperingati -- Nabi Muhammad saw."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat lahir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(peringatan) hari lahir Nabi Muhammad saw.: acara -- akan diisi dengan ceramah; bulan -- bulan Rabiulawal"
+        }
+      ]
+    }
+  ]
+}

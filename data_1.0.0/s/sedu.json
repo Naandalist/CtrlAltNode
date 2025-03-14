@@ -1,0 +1,58 @@
+{
+  "istilah": "sedu",
+  "entri": "se.du1 /sêdu/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersedu",
+    "bersedu-sedu",
+    "tersedu-sedu"
+  ],
+  "gabunganKata": [
+    "sedu sedan",
+    "sedu hati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.du1 /sêdu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sedan"
+        }
+      ]
+    },
+    {
+      "lema": "se.du2 /sêdu/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sedih; susah hati; sedu hati"
+        }
+      ]
+    },
+    {
+      "lema": "se.du3 /sêdu/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ seduh2"
+        }
+      ]
+    },
+    {
+      "lema": "se.du4 /sêdu/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sahda"
+        }
+      ]
+    }
+  ]
+}

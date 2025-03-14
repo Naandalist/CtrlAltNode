@@ -1,0 +1,37 @@
+{
+  "istilah": "patil",
+  "entri": "pa.til1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mematil",
+    "berpatil",
+    "mematil"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "batang runcing atau sula (penyengat dari jenis ikan tertentu)",
+    "kataAsal": "patil"
+  },
+  "data": [
+    {
+      "lema": "pa.til1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rimbas (beliung) kecil: ia menarah kayu itu dengan --"
+        }
+      ]
+    },
+    {
+      "lema": "pa.til2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "duri sirip dada yang tajam dan berbisa (pada sebagian kelompok ikan bersungut)"
+        }
+      ]
+    }
+  ]
+}

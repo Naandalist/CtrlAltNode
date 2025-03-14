@@ -1,0 +1,53 @@
+{
+  "istilah": "gelandang",
+  "entri": "ge.lan.dang1 /gêlandang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergelandangan",
+    "gelandangan",
+    "menggelandang",
+    "menggelandang"
+  ],
+  "gabunganKata": [
+    "gelandang bertahan",
+    "gelandang jangkar",
+    "gelandang kanan",
+    "gelandang kiri",
+    "gelandang tengah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.lan.dang1 /gêlandang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelandangan"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lan.dang2 /gêlandang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "seret"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lan.dang3 /gêlandang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pemain sepak bola pada bagian tengah"
+        }
+      ]
+    }
+  ]
+}

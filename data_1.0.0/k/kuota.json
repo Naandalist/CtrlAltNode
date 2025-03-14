@@ -1,0 +1,35 @@
+{
+  "istilah": "kuota",
+  "entri": "ku.o.ta bentuk tidak baku: kuotum",
+  "bentukTidakBaku": "kuotum",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kuota ekspor",
+    "kuota impor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.o.ta bentuk tidak baku: kuotum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah yang ditentukan; jatah: pemerintah akan menentukan -- transmigrasi dari berbagai kabupaten; menurut --, daerah itu harus memenuhi 25% kebutuhan ternak potong"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah tertinggi dari barang yang mendapat izin impor (ekspor) ke pasaran internasional, negara lain, dan sebagainya dalam jumlah dan periode tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah tertinggi orang yang boleh masuk (keluar) ke (dari) suatu negara (seperti ketika menunaikan ibadah haji)"
+        }
+      ]
+    }
+  ]
+}

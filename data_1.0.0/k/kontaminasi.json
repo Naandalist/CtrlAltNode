@@ -1,0 +1,38 @@
+{
+  "istilah": "kontaminasi",
+  "entri": "kon.ta.mi.na.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengontaminasi",
+    "pengontaminasi",
+    "terkontaminasi"
+  ],
+  "gabunganKata": [
+    "kontaminasi silang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.ta.mi.na.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengotoran; pencemaran (khususnya karena kemasukan unsur luar)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "penggabungan beberapa bentuk (kata, frasa, dan sebagainya) yang menimbulkan bentuk baru yang tidak lazim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "efek distorsi dari fakta eksternal yang tidak terkontrol"
+        }
+      ]
+    }
+  ]
+}

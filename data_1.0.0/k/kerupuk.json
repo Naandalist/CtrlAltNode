@@ -1,0 +1,43 @@
+{
+  "istilah": "kerupuk",
+  "entri": "ke.ru.puk1 /kêrupuk/bentuk tidak baku: krupuk",
+  "bentukTidakBaku": "krupuk",
+  "kataTurunan": [
+    "kerupukan"
+  ],
+  "gabunganKata": [
+    "kerupuk jangat",
+    "kerupuk kulit",
+    "kerupuk melarat",
+    "kerupuk mi",
+    "kerupuk palembang",
+    "kerupuk rambak",
+    "kerupuk udang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kerupuk",
+    "kataAsal": "kurupuk"
+  },
+  "data": [
+    {
+      "lema": "ke.ru.puk1 /kêrupuk/bentuk tidak baku: krupuk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan yang dibuat dari adonan tepung dicampur dengan lumatan udang atau ikan, setelah dikukus disayat-sayat tipis atau dibentuk dengan alat cetak, dijemur agar mudah digoreng"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ru.puk2 /kêrupuk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "bingung"
+        }
+      ]
+    }
+  ]
+}

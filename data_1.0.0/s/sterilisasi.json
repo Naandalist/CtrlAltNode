@@ -1,0 +1,35 @@
+{
+  "istilah": "sterilisasi",
+  "entri": "ste.ri.li.sa.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sterilisasi kilat",
+    "sterilisasi paksa",
+    "sterilisasi panas",
+    "sterilisasi panas-kering",
+    "sterilisasi parsial",
+    "sterilisasi uap"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ste.ri.li.sa.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "perlakuan untuk menjadikan suatu bahan atau benda bebas dari mikroorganisme dengan cara pemanasan, penyinaran, atau dengan zat kimia untuk mematikan mikroorganisme hidup maupun sporanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "perlakuan untuk meniadakan kesanggupan berkembang biak pada hewan atau manusia dengan menghilangkan alat kelamin atau menghambat fungsinya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "tonggong",
+  "entri": "tong.gong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tong.gong1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tonggok2"
+        }
+      ]
+    },
+    {
+      "lema": "tong.gong2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "besar dan tinggi; bagur"
+        }
+      ]
+    },
+    {
+      "lema": "tong.gong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jendul; bongkol; punuk"
+        }
+      ]
+    }
+  ]
+}

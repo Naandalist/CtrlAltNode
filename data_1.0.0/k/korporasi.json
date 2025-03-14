@@ -1,0 +1,28 @@
+{
+  "istilah": "korporasi",
+  "entri": "kor.po.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kor.po.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "badan usaha yang sah; badan hukum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perusahaan atau badan usaha yang sangat besar atau beberapa perusahaan yang dikelola dan dijalankan sebagai satu perusahaan besar"
+        }
+      ]
+    }
+  ]
+}

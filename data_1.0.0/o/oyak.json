@@ -1,0 +1,37 @@
+{
+  "istilah": "oyak",
+  "entri": "o.yak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengoyak-oyak",
+    "mengoyak",
+    "mengoyak-oyak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kejar, buru",
+    "kataAsal": "uyak"
+  },
+  "data": [
+    {
+      "lema": "o.yak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengoyak-oyak"
+        }
+      ]
+    },
+    {
+      "lema": "o.yak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "kejar"
+        }
+      ]
+    }
+  ]
+}

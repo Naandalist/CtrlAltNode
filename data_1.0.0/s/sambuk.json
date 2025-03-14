@@ -1,0 +1,44 @@
+{
+  "istilah": "sambuk",
+  "entri": "sam.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyambuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.buk1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sabut1"
+        }
+      ]
+    },
+    {
+      "lema": "sam.buk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perahu kecil"
+        }
+      ]
+    },
+    {
+      "lema": "sam.buk3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cambuk"
+        }
+      ]
+    }
+  ]
+}

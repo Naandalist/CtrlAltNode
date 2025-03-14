@@ -1,0 +1,59 @@
+{
+  "istilah": "bus",
+  "entri": "bus1 bentuk tidak baku: bis2",
+  "bentukTidakBaku": "bis2",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bus AKAP",
+    "bus AKDP",
+    "bus antarkota",
+    "bus cepat",
+    "bus dua tingkat",
+    "bus karyawan",
+    "bus kota",
+    "bus malam",
+    "bus pasar",
+    "bus patas",
+    "bus pegawai",
+    "bus sekolah",
+    "bus tidur",
+    "bus tingkat",
+    "bus trans",
+    "bus wisata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bus1 bentuk tidak baku: bis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kendaraan bermotor angkutan umum yang besar, beroda empat atau lebih, dapat memuat penumpang banyak"
+        }
+      ]
+    },
+    {
+      "lema": "bus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi angin berembus"
+        }
+      ]
+    },
+    {
+      "lema": "BUS",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "bank umum syariah (bank dengan kegiatanusaha berdasarkan prinsip syariah, merupakan badan usaha yang setara dengan bank umum konvensional)"
+        }
+      ]
+    }
+  ]
+}

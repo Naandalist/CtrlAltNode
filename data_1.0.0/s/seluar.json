@@ -1,0 +1,33 @@
+{
+  "istilah": "seluar",
+  "entri": "se.lu.ar /sêluar/bentuk tidak baku: sarwal, serual",
+  "bentukTidakBaku": "sarwal, serual",
+  "kataTurunan": [
+    "berseluar"
+  ],
+  "gabunganKata": [
+    "seluar katuk",
+    "seluar kotong",
+    "seluar lenang",
+    "seluar pandak",
+    "seluar panjang",
+    "seluar pendek"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "celana panjang; celana pendek",
+    "kataAsal": "sirwāl"
+  },
+  "data": [
+    {
+      "lema": "se.lu.ar /sêluar/bentuk tidak baku: sarwal, serual",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celana"
+        }
+      ]
+    }
+  ]
+}

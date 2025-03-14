@@ -1,0 +1,39 @@
+{
+  "istilah": "jaram",
+  "entri": "ja.ram1 bentuk tidak baku: jeram2",
+  "bentukTidakBaku": "jeram2",
+  "kataTurunan": [
+    "berjaram",
+    "menjaram",
+    "penjaram",
+    "berjaram",
+    "menjaram"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.ram1 bentuk tidak baku: jeram2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kompres dingin penurun panas; daun dan sebagainya yang dipakai untuk membasahi kepala (misalnya pada waktu sakit demam)"
+        }
+      ]
+    },
+    {
+      "lema": "ja.ram2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuman, bibit penyakit yang menyebabkan gatal; radang (infeksi)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "konjungsi",
+  "entri": "kon.jung.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "konjungsi inferior",
+    "konjungsi koordinatif",
+    "konjungsi subordinatif",
+    "konjungsi superior"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.jung.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kata atau ungkapan penghubung antarkata, antarfrasa, antarklausa, dan antarkalimat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "pertemuan atau papasan semu antara dua benda langit atau lebih"
+        }
+      ]
+    }
+  ]
+}

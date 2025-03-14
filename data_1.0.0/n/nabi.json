@@ -1,0 +1,35 @@
+{
+  "istilah": "nabi",
+  "entri": "na.bi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kenabian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jalan yang terang; tempat yang tinggi; orang suci yang menerima wahyu untuk disampaikan pada umatnya",
+    "kataAsal": "nabī"
+  },
+  "data": [
+    {
+      "lema": "na.bi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menjadi pilihan Allah Swt. untuk menerima wahyu-Nya: Muhammad saw. ialah -- dan rasul terakhir"
+        }
+      ]
+    },
+    {
+      "lema": "Na.bi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah sekitar aliran Sungai Kuri, Kabupaten Manokwari, Papua Barat"
+        }
+      ]
+    }
+  ]
+}

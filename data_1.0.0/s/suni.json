@@ -1,0 +1,33 @@
+{
+  "istilah": "suni",
+  "entri": "su.ni1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "umat Nabi Muhammad saw. yang beragama berdasarkan Hadis Nabi dan kaul ulama salaf",
+    "kataAsal": "sunnī"
+  },
+  "data": [
+    {
+      "lema": "su.ni1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli sunah"
+        }
+      ]
+    },
+    {
+      "lema": "su.ni2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sunyi"
+        }
+      ]
+    }
+  ]
+}

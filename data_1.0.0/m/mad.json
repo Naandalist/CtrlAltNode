@@ -1,0 +1,24 @@
+{
+  "istilah": "mad",
+  "entri": "mad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tanda bunyi panjang dalam bahasa Arab",
+    "kataAsal": "madd"
+  },
+  "data": [
+    {
+      "lema": "mad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda bunyi panjang dalam bahasa Arab (bunyi pendek menjadi bunyi panjang): dewan hakim mencatat dengan cermat kesalahan lafal dan -- tiap-tiap qari"
+        }
+      ]
+    }
+  ]
+}

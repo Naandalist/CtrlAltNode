@@ -1,0 +1,36 @@
+{
+  "istilah": "roboh",
+  "entri": "ro.boh bentuk tidak baku: rubuh",
+  "bentukTidakBaku": "rubuh",
+  "kataTurunan": [
+    "kerobohan",
+    "merobohkan",
+    "perobohan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "roboh",
+    "kataAsal": "rubuh"
+  },
+  "data": [
+    {
+      "lema": "ro.boh bentuk tidak baku: rubuh",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "runtuh (tentang bangunan yang besar, seperti rumah, tembok): gedung-gedung -- akibat gempa bumi yang hebat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "rebah; tumbang (tentang pohon, tanaman): hujan dan angin ribut semalam menyebabkan pohon --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "jatuh (dalam berbagai-bagai arti seperti bangkrut, kalah, tidak dapat bertahan lagi, luntur imannya): pada ronde kedua petinju terkenal itu -- karena mendapat pukulan keras pada pelipisnya"
+        }
+      ]
+    }
+  ]
+}

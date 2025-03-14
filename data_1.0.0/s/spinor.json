@@ -1,0 +1,28 @@
+{
+  "istilah": "spinor",
+  "entri": "spi.nor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "spi.nor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "vektor dengan dua komponen kompleks yang mengalami transformasi uniter bermodulus satu apabila sistem koordinat trimatranya diputar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "besaran dengan empat komponen kompleks yang dibentuk dari dua spinor"
+        }
+      ]
+    }
+  ]
+}

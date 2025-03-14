@@ -1,0 +1,65 @@
+{
+  "istilah": "samping",
+  "entri": "sam.ping1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersampingan",
+    "mengesampingkan",
+    "menyamping",
+    "menyampingi",
+    "menyampingkan",
+    "penyampingan",
+    "samping-menyamping",
+    "sampingan",
+    "tersamping",
+    "bersamping"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.ping1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisi; sebelah: di -- kiri rumah kami terdapat kebun bunga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rusuk"
+        }
+      ]
+    },
+    {
+      "lema": "sam.ping2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain (sarung)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain (sarung) yang dipakai sampai di lutut"
+        }
+      ]
+    },
+    {
+      "lema": "sam.ping3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gendang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tambur buatan orang Keling"
+        }
+      ]
+    }
+  ]
+}

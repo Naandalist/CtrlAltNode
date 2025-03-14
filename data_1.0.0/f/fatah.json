@@ -1,0 +1,32 @@
+{
+  "istilah": "fatah",
+  "entri": "fa.tah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembukaan; penaklukan; kemenangan",
+    "kataAsal": "fatḥ"
+  },
+  "data": [
+    {
+      "lema": "fa.tah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penaklukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kemenangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "pembuka: Alfatah pembuka pintu gerbang kerahiman Allah; ya -- alkulub ya pembuka segala hati"
+        }
+      ]
+    }
+  ]
+}

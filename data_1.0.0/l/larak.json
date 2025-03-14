@@ -1,0 +1,33 @@
+{
+  "istilah": "larak",
+  "entri": "la.rak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.rak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rapat dan padat isinya (tentang durian)"
+        }
+      ]
+    },
+    {
+      "lema": "la.rak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lerak1"
+        }
+      ]
+    }
+  ]
+}

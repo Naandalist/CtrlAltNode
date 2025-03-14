@@ -1,0 +1,41 @@
+{
+  "istilah": "cucut",
+  "entri": "cu.cut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencucut"
+  ],
+  "gabunganKata": [
+    "cucut biru besar",
+    "cucut boto",
+    "cucut gergaji",
+    "cucut martil",
+    "cucut putih besar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cu.cut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut jenis hiu〔Pleurotremata〕"
+        }
+      ]
+    },
+    {
+      "lema": "cu.cut2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencucut"
+        }
+      ]
+    }
+  ]
+}

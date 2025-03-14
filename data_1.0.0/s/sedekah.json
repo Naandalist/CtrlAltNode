@@ -1,0 +1,41 @@
+{
+  "istilah": "sedekah",
+  "entri": "se.de.kah /sêdêkah/bentuk tidak baku: sidekah",
+  "bentukTidakBaku": "sidekah",
+  "kataTurunan": [
+    "bersedekah",
+    "menyedekahi",
+    "menyedekahkan"
+  ],
+  "gabunganKata": [
+    "sedekah arwah",
+    "sedekah bumi",
+    "sedekah kubur",
+    "sedekah rebutan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemberian sesuatu pada fakir miskin",
+    "kataAsal": "ṣadaqah"
+  },
+  "data": [
+    {
+      "lema": "se.de.kah /sêdêkah/bentuk tidak baku: sidekah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberian sesuatu kepada fakir miskin atau yang berhak menerimanya, di luar kewajiban zakat dan zakat fitrah sesuai dengan kemampuan pemberi; derma"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selamatan; kenduri: -- arwah; -- kubur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan (bunga-bunga dan sebagainya) yang disajikan kepada orang halus (roh penunggu dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

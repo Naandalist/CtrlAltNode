@@ -1,0 +1,66 @@
+{
+  "istilah": "paksa",
+  "entri": "pak.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keterpaksaan",
+    "memaksa",
+    "memaksa-maksa",
+    "memaksakan",
+    "mempaksa",
+    "paksaan",
+    "pemaksaan",
+    "terpaksa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "paksa tekukur, padi rebah, paksa tikus, lengkiang terbuka"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "waktu yang terdiri atas 15 hari atau setengah bulan",
+    "kataAsal": "pakṣa"
+  },
+  "data": [
+    {
+      "lema": "pak.sa1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengerjakan sesuatu yang diharuskan walaupun tidak mau: kawin --; kerja --; bongkar --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekerasan; perkosaan: negara diktator memerintah dengan --"
+        }
+      ]
+    },
+    {
+      "lema": "pak.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "waktu (saat, kesempatan) yang baik: menantikan -- yang baik"
+        }
+      ]
+    },
+    {
+      "lema": "pak.sa3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sayap; pihak; sisi"
+        }
+      ]
+    },
+    {
+      "lema": "pak.sa4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem penanggalan Jawa Kuno yang mencakupi waktu 15 hari (dalam satu bulan ada dua paksa, yaitu suklapaksa ‘paruh terang’ dan kresnapaksa ‘paruh gelap’)"
+        }
+      ]
+    }
+  ]
+}

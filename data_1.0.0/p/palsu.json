@@ -1,0 +1,48 @@
+{
+  "istilah": "palsu",
+  "entri": "pal.su",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepalsuan",
+    "memalsu",
+    "memalsukan",
+    "mempalsukan",
+    "pemalsu",
+    "pemalsuan",
+    "terpalsukan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pal.su",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tulen; tidak sah; lancung (tentang ijazah, surat keterangan, uang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tiruan (tentang gigi, kunci, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gadungan (tentang polisi, tentara, wartawan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "curang; tidak jujur (tentang permainan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sumbang (tentang suara dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

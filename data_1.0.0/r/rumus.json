@@ -1,0 +1,44 @@
+{
+  "istilah": "rumus",
+  "entri": "ru.mus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merumuskan",
+    "perumus",
+    "perumusan",
+    "rumusan",
+    "terumus",
+    "terumuskan"
+  ],
+  "gabunganKata": [
+    "rumus bangun",
+    "rumus banjir empiris",
+    "rumus empiris",
+    "rumus kimia",
+    "rumus molekul",
+    "rumus pengukuran",
+    "rumus psikometri",
+    "rumus titik embun"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "simbol; isyarat",
+    "kataAsal": "rumūz"
+  },
+  "data": [
+    {
+      "lema": "ru.mus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ringkasan (hukum, patokan, dan sebagainya dalam ilmu kimia, matematika, dan sebagainya) yang dilambangkan oleh huruf, angka, atau tanda: -- kimia untuk air ialah H₂O"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan atau simpulan tentang asas, pendirian, ketetapan, dan sebagainya yang disebutkan dengan kalimat yang ringkas dan tepat"
+        }
+      ]
+    }
+  ]
+}

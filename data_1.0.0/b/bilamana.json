@@ -1,0 +1,28 @@
+{
+  "istilah": "bilamana",
+  "entri": "bi.la.ma.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pandangan, ide, pikiran, kepercayaan, opini; mental",
+    "kataAsal": "manas"
+  },
+  "data": [
+    {
+      "lema": "bi.la.ma.na",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata penghubung yang digunakan untuk pengandaian, bersifat temporal, dan sebagainya; pada waktu apa"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kata tanya yang digunakan dalam ragam sastra untuk menanyakan waktu; bila; kapan: -- Indonesia merdeka?"
+        }
+      ]
+    }
+  ]
+}

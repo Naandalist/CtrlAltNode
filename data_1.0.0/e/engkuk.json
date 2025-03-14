@@ -1,0 +1,46 @@
+{
+  "istilah": "engkuk",
+  "entri": "eng.kuk3 /êng.kuk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eng.kuk3 /êng.kuk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "memilin leher lawan dan menekannya ke bawah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "menekan ke bawah agar menjadi lurus (tentang kayu, pipa besi, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "eng.kuk1 /êngkuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hama tanaman yang mengakibatkan tanaman mati kering: seratus hektare tanaman tembakau diserang hama --"
+        }
+      ]
+    },
+    {
+      "lema": "eng.kuk2 /êngkuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung kecil yang berbunyi “kuk, kuk”〔Xantholaema rosea〕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "dengu",
+  "entri": "de.ngu1 /dêngu/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdengu",
+    "mendengu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.ngu1 /dêngu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dengkus"
+        }
+      ]
+    },
+    {
+      "lema": "de.ngu2 /dêngu/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dungu"
+        }
+      ]
+    }
+  ]
+}

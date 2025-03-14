@@ -1,0 +1,48 @@
+{
+  "istilah": "enak",
+  "entri": "e.nak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berenak-enak",
+    "enak-enak",
+    "enakan",
+    "keenakan",
+    "memperenak",
+    "mengenakkan",
+    "seenak",
+    "seenaknya",
+    "terenak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "enak lauk dikunyah-kunyah, enak kata diperkatakan; minyak habis sambal tak enak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kesejahteraan, damai, kemudahan, kesukaan, kepuasan, laku yang mudah; (m)enak: senang, bebas, puas; mudah, lancar, tidak terganggu; senang, ramah, menyenangkan, sesuai, lebih baik",
+    "kataAsal": "inak"
+  },
+  "data": [
+    {
+      "lema": "e.nak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sedap, lezat (tentang rasa): kue ini -- rasanya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sehat atau segar (tentang kondisi badan): pada hari ini kondisi badan saya kurang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nikmat atau menyenangkan (tentang perasaan, suasana, dan sebagainya); nyaman: setelah mandi dengan air hangat, badan terasa --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pulas; lelap (tentang tidur): pada malam itu, tidurnya -- sekali"
+        }
+      ]
+    }
+  ]
+}

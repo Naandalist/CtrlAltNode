@@ -1,0 +1,42 @@
+{
+  "istilah": "haru",
+  "entri": "ha.ru1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keharuan",
+    "keterharuan",
+    "mengharu",
+    "mengharukan",
+    "terharu",
+    "mengharu",
+    "mengharukan",
+    "pengharu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.ru1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rawan hati (kasihan, iba, dan sebagainya) karena mendengar atau melihat sesuatu: ia memandang dengan -- kepada kedua anak piatu itu"
+        }
+      ]
+    },
+    {
+      "lema": "ha.ru2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "kacau"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "limbung",
+  "entri": "lim.bung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "limbungan"
+  ],
+  "gabunganKata": [
+    "limbung kapal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lim.bung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang dipagari di tepi pantai tempat perahu berlabuh; galangan kapal; dok"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat mandi di pinggir laut"
+        }
+      ]
+    },
+    {
+      "lema": "lim.bung2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "tidak mantap, goyah (berdirinya, duduknya, letaknya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -] ki[kiasan]",
+          "deskripsi": "tidak tetap pendiriannya (pikirannya, tujuannya, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

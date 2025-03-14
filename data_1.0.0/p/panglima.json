@@ -1,0 +1,35 @@
+{
+  "istilah": "panglima",
+  "entri": "pang.li.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "panglima laut",
+    "panglima pasukan",
+    "panglima tertinggi",
+    "panglima TNI"
+  ],
+  "peribahasa": [
+    "misai bertaring bagai panglima, sebulan sekali tak membunuh orang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "instrument atau kelengkapan perangkat",
+    "kataAsal": "paṅlima"
+  },
+  "data": [
+    {
+      "lema": "pang.li.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hulubalang; pemimpin pasukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin kesatuan tentara: -- daerah militer"
+        }
+      ]
+    }
+  ]
+}

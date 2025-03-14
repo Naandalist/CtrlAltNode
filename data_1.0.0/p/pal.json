@@ -1,0 +1,45 @@
+{
+  "istilah": "pal",
+  "entri": "pal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpal-pal",
+    "berpal-pal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tonggak batu sebagai tanda jarak, antara satu tonggak dan tonggak yang lain berjarak 1,5 km"
+        }
+      ]
+    },
+    {
+      "lema": "pal2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berpal-pal"
+        }
+      ]
+    },
+    {
+      "lema": "pal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "faal"
+        }
+      ]
+    }
+  ]
+}

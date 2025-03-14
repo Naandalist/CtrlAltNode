@@ -1,0 +1,38 @@
+{
+  "istilah": "sampul",
+  "entri": "sam.pul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersampul",
+    "menyampul",
+    "menyampuli",
+    "penyampul",
+    "tersampul"
+  ],
+  "gabunganKata": [
+    "sampul bantal",
+    "sampul gigi",
+    "sampul surat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.pul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembungkus (buku, surat, dan sebagainya dari kertas, plastik, kain, dan sebagainya); sarung: pakai saja kertas itu untuk --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "lembaran kertas paling luar di depan dan belakang buku"
+        }
+      ]
+    }
+  ]
+}

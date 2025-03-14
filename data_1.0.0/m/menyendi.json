@@ -1,0 +1,37 @@
+{
+  "istilah": "menyendi",
+  "entri": "sendi1 » me.nyen.di",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sendi1 » me.nyen.di",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberi sendi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyalut"
+        }
+      ]
+    },
+    {
+      "lema": "sendi2 » me.nyen.di",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menaruh batu sendi di bawah tiang dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

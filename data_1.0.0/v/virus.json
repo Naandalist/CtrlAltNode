@@ -1,0 +1,39 @@
+{
+  "istilah": "virus",
+  "entri": "vi.rus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bervirus"
+  ],
+  "gabunganKata": [
+    "virus flu burung",
+    "virus korona",
+    "virus mosaik",
+    "virus utuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vi.rus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mikroorganisme yang tidak dapat dilihat dengan menggunakan mikroskop biasa, hanya dapat dilihat dengan menggunakan mikroskop elektron, penyebab dan penular penyakit, seperti cacar, influenza, dan rabies"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "program ilegal yang dimasukkan ke dalam sistem komputer melalui jaringan atau perangkat keras sehingga menyebar dan dapat merusak program yang ada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pengaruh yang buruk, jahat, atau merusakkan: masyarakat Indonesia telah bersepakat bahwa korupsi adalah -- akut yang harus dibasmi bersama"
+        }
+      ]
+    }
+  ]
+}

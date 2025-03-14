@@ -1,0 +1,33 @@
+{
+  "istilah": "bongkrek",
+  "entri": "bong.krek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bong.krek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ampas kacang kedelai yang sudah diambil minyaknya: tempe --"
+        }
+      ]
+    },
+    {
+      "lema": "bong.krek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "burung yang berasal dari keluarga Timaliidae dan genus Pomatorhinus, berpenampilan cantik dengan ekor panjang, alis putih mencolok, berparuh panjang melengkung ke bawah dan bersuara monoton; cica kopi melayu〔Pomatorhinus montanus〕"
+        }
+      ]
+    }
+  ]
+}

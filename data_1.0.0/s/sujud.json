@@ -1,0 +1,35 @@
+{
+  "istilah": "sujud",
+  "entri": "su.jud",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersujud",
+    "tersujud"
+  ],
+  "gabunganKata": [
+    "sujud sahwi",
+    "sujud syukur",
+    "sujud tilawah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "berlutut serta meletakkan dahi ke lantai",
+    "kataAsal": "sujūd"
+  },
+  "data": [
+    {
+      "lema": "su.jud",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlutut serta meletakkan dahi ke lantai (misalnya pada waktu salat) sambil membaca tasbih"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pernyataan hormat dengan berlutut serta menundukkan kepala sampai ke tanah: sembah -- dari Ananda hormat dari Ananda"
+        }
+      ]
+    }
+  ]
+}

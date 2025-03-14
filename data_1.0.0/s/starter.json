@@ -1,0 +1,40 @@
+{
+  "istilah": "starter",
+  "entri": "star.ter1 /startêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menstarter",
+    "menstarterkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "star.ter1 /startêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat pada mobil dan sebagainya untuk memulai menghidupkan mesin"
+        }
+      ]
+    },
+    {
+      "lema": "star.ter2 /startêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "orang yang mengatur dan menguasai sepenuhnya perlombaan, dari awal sampai selesainya perlombaan: memang berat tugas -- dalam pertandingan bertaraf internasional karena harus memimpin jalannya pertandingan sampai sukses"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pemain yang bermain di awal pertandingan dalam suatu tim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "likat",
+  "entri": "li.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.kat1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rekat; lengket; lekat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keruh: kali itu airnya --"
+        }
+      ]
+    },
+    {
+      "lema": "li.kat2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "agak malu (tidak mau melihat, selalu tunduk saja, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

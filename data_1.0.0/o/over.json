@@ -1,0 +1,28 @@
+{
+  "istilah": "over",
+  "entri": "o.ver /ovêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.ver /ovêr/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bld[Belanda: -]",
+          "deskripsi": "oper"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Bld[Belanda: -]",
+          "deskripsi": "lewat"
+        }
+      ]
+    }
+  ]
+}

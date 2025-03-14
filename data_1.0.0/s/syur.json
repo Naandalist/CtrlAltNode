@@ -1,0 +1,39 @@
+{
+  "istilah": "syur",
+  "entri": "syur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mensyurkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perundingan",
+    "kataAsal": "syūrā"
+  },
+  "data": [
+    {
+      "lema": "syur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sangat menarik hati: jalannya dibuat-buat supaya -- bagi yang memandangnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sangat tertarik hatinya; sangat suka (akan)"
+        }
+      ]
+    },
+    {
+      "lema": "syur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "saran; nasihat; anjuran: jangan sia-siakan -- orang tuamu"
+        }
+      ]
+    }
+  ]
+}

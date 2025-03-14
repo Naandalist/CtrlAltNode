@@ -1,0 +1,46 @@
+{
+  "istilah": "puyu",
+  "entri": "pu.yu1",
+  "bentukTidakBaku": "puyo-puyo",
+  "kataTurunan": [
+    "memuyu-muyu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "puyu di air jernih"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.yu1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ puyuh3"
+        }
+      ]
+    },
+    {
+      "lema": "pu.yu2 bentuk tidak baku: puyo-puyo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ikan) betok"
+        }
+      ]
+    },
+    {
+      "lema": "pu.yu3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "gosok"
+        }
+      ]
+    }
+  ]
+}

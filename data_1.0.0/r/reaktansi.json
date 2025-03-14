@@ -1,0 +1,31 @@
+{
+  "istilah": "reaktansi",
+  "entri": "re.ak.tan.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "reaktansi induktif",
+    "reaktansi kapasitif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.ak.tan.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perlawanan terhadap arus bolak-balik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "bagian impedans yang disebabkan oleh kapasitor"
+        }
+      ]
+    }
+  ]
+}

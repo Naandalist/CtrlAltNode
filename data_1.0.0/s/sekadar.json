@@ -1,0 +1,41 @@
+{
+  "istilah": "sekadar",
+  "entri": "kadar1 » se.ka.dar bentuk tidak baku: sekedar",
+  "bentukTidakBaku": "sekedarsekedar",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kadar1 » se.ka.dar bentuk tidak baku: sekedar",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sesuai atau seimbang dengan; menurut keadaan (kemungkinan, keperluan, dan sebagainya); sepadan (dengan): ia berbicara ~ perlu dan pentingnya"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "hanya untuk: ~ memperoleh ketepatan ejaan; semua itu ~ olok-olok"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "seperlunya; seadanya: hal itu akan kuceritakan ~nya"
+        }
+      ]
+    },
+    {
+      "lema": "se.ka.dar /sêkadar/bentuk tidak baku: sekedar",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kadar1"
+        }
+      ]
+    }
+  ]
+}

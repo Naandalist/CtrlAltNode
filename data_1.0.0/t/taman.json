@@ -1,0 +1,95 @@
+{
+  "istilah": "taman",
+  "entri": "ta.man1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertaman",
+    "pertamanan"
+  ],
+  "gabunganKata": [
+    "taman air",
+    "taman atap",
+    "taman bacaan",
+    "taman bahagia",
+    "taman bermain",
+    "taman bertema",
+    "taman budaya",
+    "taman buru",
+    "taman dinding",
+    "taman Eden",
+    "taman formal",
+    "taman georelief vertikal",
+    "taman hiburan",
+    "taman hutan raya",
+    "taman kanak-kanak",
+    "taman kering",
+    "taman komunal",
+    "taman kontainer",
+    "taman kota",
+    "taman lalu lintas",
+    "taman laut",
+    "taman mediterania",
+    "taman nasional",
+    "taman pahlawan",
+    "taman penitipan anak",
+    "taman pustaka",
+    "taman rekreasi",
+    "taman safari",
+    "taman sari",
+    "taman tegak",
+    "taman tematik",
+    "taman ternak",
+    "taman tirta",
+    "taman tropis",
+    "taman vertikal",
+    "taman vertikal datar",
+    "taman wisata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.man1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kebun yang ditanami dengan bunga-bunga dan sebagainya (tempat bersenang-senang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat (yang menyenangkan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat duduk pengantin perempuan (yang dihiasi dengan bunga-bunga dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ta.man2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rajin; betah: -- bekerja"
+        }
+      ]
+    },
+    {
+      "lema": "Ta.man3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku yang mendiami wilayah Kabupaten Kapuas Hulu, Provinsi Kalimantan Barat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan suku Taman"
+        }
+      ]
+    }
+  ]
+}

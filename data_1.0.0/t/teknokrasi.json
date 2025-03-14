@@ -1,0 +1,28 @@
+{
+  "istilah": "teknokrasi",
+  "entri": "tek.no.kra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tek.no.kra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemerintahan yang dijalankan oleh teknokrat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengelolaan kehidupan masyarakat yang dilakukan oleh teknisi"
+        }
+      ]
+    }
+  ]
+}

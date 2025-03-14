@@ -1,0 +1,28 @@
+{
+  "istilah": "kursemangat",
+  "entri": "kur.se.ma.ngat /kursêmangat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kur.se.ma.ngat /kursêmangat/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kata seru (kata afektif) untuk menyadarkan orang pingsan, bayi baru lahir, dan sebagainya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kata seru (kata afektif) untuk menyatakan sayang, kaget, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

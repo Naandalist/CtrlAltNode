@@ -1,0 +1,32 @@
+{
+  "istilah": "sekongkol",
+  "entri": "se.kong.kol /sêkongkol/bentuk tidak baku: kongkol",
+  "bentukTidakBaku": "kongkol",
+  "kataTurunan": [
+    "bersekongkol",
+    "persekongkolan",
+    "sekongkolan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.kong.kol /sêkongkol/bentuk tidak baku: kongkol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang turut serta berkomplot melakukan kejahatan (kecurangan dan sebagainya): penyelundup narkotik serta beberapa orang --nya sudah tertangkap"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersekongkol: ia dituduh -- dengan kaum pengacau"
+        }
+      ]
+    }
+  ]
+}

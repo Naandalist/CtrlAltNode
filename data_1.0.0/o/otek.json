@@ -1,0 +1,42 @@
+{
+  "istilah": "otek",
+  "entri": "o.tek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.tek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan air laut atau payau, ukurannya mencapai 40 cm, hidup di dasar perairan tropis, tersebar di perairan Pakistan, Malaysia bagian selatan hingga ke Filipina, dan Indonesia〔Plicofollis tonggol〕"
+        }
+      ]
+    },
+    {
+      "lema": "o.tek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "biji-bijian untuk pakan burung; jawawut; sekoi"
+        }
+      ]
+    },
+    {
+      "lema": "o.tek3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "akan tanggal (tentang gigi)"
+        }
+      ]
+    }
+  ]
+}

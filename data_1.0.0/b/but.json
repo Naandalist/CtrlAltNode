@@ -1,0 +1,33 @@
+{
+  "istilah": "but",
+  "entri": "but",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "but",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "mulai awal"
+        }
+      ]
+    },
+    {
+      "lema": "BUT",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "bentuk usaha tetap (bentuk usaha milik orang pribadi yang tidak bertempat tinggal di Indonesia atau berada di Indonesia tidak lebih dari 183 hari dalam jangka waktu 12 bulan, atau badan yang tidak didirikan dan tidak berkedudukan di Indonesia, tetapi menjalankan usaha atau melakukan kegiatan di Indonesia)"
+        }
+      ]
+    }
+  ]
+}

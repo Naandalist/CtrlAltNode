@@ -1,0 +1,35 @@
+{
+  "istilah": "cepak",
+  "entri": "ce.pak1 /cêpak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencepak-cepak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pendek, kecil",
+    "kataAsal": "cěpak"
+  },
+  "data": [
+    {
+      "lema": "ce.pak1 /cêpak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi orang mengunyah makanan; kecap"
+        }
+      ]
+    },
+    {
+      "lema": "ce.pak2 /cêpak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pendek (tentang potongan rambut): rambut potongan -- model tentara"
+        }
+      ]
+    }
+  ]
+}

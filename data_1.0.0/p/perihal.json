@@ -1,0 +1,28 @@
+{
+  "istilah": "perihal",
+  "entri": "pe.ri.hal /pêrihal/bentuk tidak baku: prihal",
+  "bentukTidakBaku": "prihal",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ri.hal /pêrihal/bentuk tidak baku: prihal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal; peristiwa; kejadian"
+        }
+      ]
+    }
+  ]
+}

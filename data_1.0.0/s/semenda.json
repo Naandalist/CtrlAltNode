@@ -1,0 +1,39 @@
+{
+  "istilah": "semenda",
+  "entri": "se.men.da /sêmênda/bentuk tidak baku: semanda, sumanda",
+  "bentukTidakBaku": "semanda, sumanda",
+  "kataTurunan": [
+    "bersemenda",
+    "persemendaan",
+    "semenda-menyemenda"
+  ],
+  "gabunganKata": [
+    "semenda bapak paja",
+    "semenda kacang miang",
+    "semenda kutu dapur",
+    "semenda langau hijau",
+    "semenda lapik buruk",
+    "semenda ninik mamak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "koneksi, asosiasi, hubungan, pertemanan",
+    "kataAsal": "sambandha"
+  },
+  "data": [
+    {
+      "lema": "se.men.da /sêmênda/bentuk tidak baku: semanda, sumanda",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertalian keluarga karena perkawinan dengan anggota suatu kaum (misalnya orang yang kawin dengan saudara atau kemenakan istri atau suami): adat -- aturan adat bermamak kemenakan (menurut garis ibu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerabat karena hubungan perkawinan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "meleret",
+  "entri": "leret1 » me.le.ret",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "leret1 » me.le.ret",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membaris"
+        }
+      ]
+    },
+    {
+      "lema": "leret2 » me.le.ret",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "memanjang hingga terseret (seperti tali yang panjang ke tanah): rambutnya yang panjang ~ ke tanah"
+        }
+      ]
+    }
+  ]
+}

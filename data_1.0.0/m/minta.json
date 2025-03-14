@@ -1,0 +1,74 @@
+{
+  "istilah": "minta",
+  "entri": "min.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berminta",
+    "berminta-minta",
+    "meminta",
+    "meminta-minta",
+    "memintai",
+    "memintakan",
+    "minta-minta",
+    "peminta",
+    "peminta-minta",
+    "permintaan"
+  ],
+  "gabunganKata": [
+    "minta aman",
+    "minta ampun",
+    "minta berhenti",
+    "minta cerai",
+    "minta diri",
+    "minta izin",
+    "minta jalan",
+    "minta janji",
+    "minta kasih",
+    "minta korban",
+    "minta maaf",
+    "minta nyawa",
+    "minta sara",
+    "minta sedekah",
+    "minta selamat",
+    "minta tangan"
+  ],
+  "peribahasa": [
+    "mengalangkan leher, minta disembelih; minta dedak kepada orang mengubik; minta pucuk pada alu (menghendaki pucuk alu); minta sisik pada limbat; minta tulang kepada lintah; seperti Belanda minta tanah; seperti Belanda minta tanah, diberi kuku hendak menggarut; uir-uir minta getah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "permintaan, permohonan; aminta: meminta, memohon",
+    "kataAsal": "pinta"
+  },
+  "data": [
+    {
+      "lema": "min.ta",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berkata-kata supaya diberi atau mendapat sesuatu; mohon: anak itu merengek-rengek -- dibelikan mainan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempersilakan: panitia -- para pengunjung mengisi daftar tamu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "beli: dia -- dua porsi nasi rames"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "meminang; melamar: sudah banyak pemuda yang -- gadis itu, tetapi ia selalu menolaknya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memerlukan: kenakalan remaja akhir-akhir ini -- perhatian kita semua"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "membawa; menimbulkan: bencana tanah longsor itu ternyata -- banyak korban jiwa"
+        }
+      ]
+    }
+  ]
+}

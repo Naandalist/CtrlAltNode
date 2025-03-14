@@ -1,0 +1,32 @@
+{
+  "istilah": "repot",
+  "entri": "re.pot",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerepotan",
+    "merepotkan",
+    "repot-repot"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sibuk, sibuk dan karena itu terhalang",
+    "kataAsal": "repot"
+  },
+  "data": [
+    {
+      "lema": "re.pot",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sibuk; ribut; banyak kerja: belum pernah bekerja -- seperti ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sukar; berabe; dalam kesukaran; kalut: ia sangat -- mengurus usahanya"
+        }
+      ]
+    }
+  ]
+}

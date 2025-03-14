@@ -1,0 +1,61 @@
+{
+  "istilah": "polong",
+  "entri": "po.long1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "polong-polongan",
+    "polongan",
+    "polongan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "seperti polong kena sembur"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.long1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hantu atau roh jahat yang suka mengganggu orang (menyebabkan penyakit dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit saraf yang disebabkan oleh guna-guna"
+        }
+      ]
+    },
+    {
+      "lema": "po.long2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk biji tumbuhan yang bulat atau agak pipih, terdapat dalam kelopak yang lunak atau agak keras, dalam satu kelopak biasanya terdapat beberapa biji (seperti pada kara, ercis); kacang polong"
+        }
+      ]
+    },
+    {
+      "lema": "po.long3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunga lawang (cengkih)"
+        }
+      ]
+    },
+    {
+      "lema": "po.long4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "polongan"
+        }
+      ]
+    }
+  ]
+}

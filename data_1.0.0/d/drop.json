@@ -1,0 +1,36 @@
+{
+  "istilah": "drop",
+  "entri": "drop1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengedrop",
+    "pengedropan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "drop1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengedrop; pengedropan"
+        }
+      ]
+    },
+    {
+      "lema": "drop2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "menurun dan melemah (tentang kesehatan, kinerja): kesehatannya -- karena keletihan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "sling",
+  "entri": "sling",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sling",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "jerat untuk muatan yang dibuat dari tali, termasuk tali kawat atau baja, gunanya untuk mengangkat atau menurunkan muatan kapal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali pegangan yang melekat pada senapan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "simpai tali, kulit, rantai, atau jaring yang digunakan untuk mengangkat, menurunkan, atau membawa sesuatu yang berat"
+        }
+      ]
+    }
+  ]
+}

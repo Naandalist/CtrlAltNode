@@ -1,0 +1,35 @@
+{
+  "istilah": "geru",
+  "entri": "ge.ru1 /gêru/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggeru"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.ru1 /gêru/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "raung"
+        }
+      ]
+    },
+    {
+      "lema": "ge.ru2 /gêru/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "pembengkakan mengeras dalam otot"
+        }
+      ]
+    }
+  ]
+}

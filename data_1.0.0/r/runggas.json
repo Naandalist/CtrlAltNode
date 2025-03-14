@@ -1,0 +1,36 @@
+{
+  "istilah": "runggas",
+  "entri": "rung.gas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merunggas",
+    "berunggas-runggas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rung.gas1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "renggut"
+        }
+      ]
+    },
+    {
+      "lema": "rung.gas2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berunggas-runggas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "cekit",
+  "entri": "ce.kit1 /cêkit/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencekit",
+    "bercekit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.kit1 /cêkit/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "patuk"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kit2 /cêkit/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bercekit"
+        }
+      ]
+    }
+  ]
+}

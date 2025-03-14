@@ -1,0 +1,43 @@
+{
+  "istilah": "langsung",
+  "entri": "lang.sung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlangsung",
+    "keberlangsungan",
+    "kelangsungan",
+    "melangsungkan",
+    "perlangsungan",
+    "terlangsung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.sung",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "terus (tidak dengan perantaraan, tidak berhenti, dan sebagainya): berlayar -- dari Jakarta ke Manado; tindakan yang -- mengenai kepentingan umum"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlanjut (hingga beberapa lamanya, hingga jauh, dan sebagainya): pertikaian itu -- hingga kini"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lewat dari tujuan: -- dari sasarannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jadi (tidak urung): pertandingan tidak -- karena hujan"
+        }
+      ]
+    }
+  ]
+}

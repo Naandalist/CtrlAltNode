@@ -1,0 +1,62 @@
+{
+  "istilah": "cerita",
+  "entri": "ce.ri.ta /cêrita/bentuk tidak baku: ceritera, cetera2",
+  "bentukTidakBaku": "ceritera, cetera2",
+  "kataTurunan": [
+    "bercerita",
+    "ceritaan",
+    "menceritai",
+    "menceritakan",
+    "pencerita",
+    "penceritaan",
+    "terceritakan"
+  ],
+  "gabunganKata": [
+    "cerita banyolan",
+    "cerita berantai",
+    "cerita berbingkai",
+    "cerita bergambar",
+    "cerita bersambung",
+    "cerita binatang",
+    "cerita bingkai",
+    "cerita burung",
+    "cerita fantastik",
+    "cerita ibarat",
+    "cerita jenaka",
+    "cerita nyata",
+    "cerita pendek",
+    "cerita picisan",
+    "cerita rakyat",
+    "cerita rekaan",
+    "cerita sejarah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tindakan, praktik, aksi, petualangan, perbuatan, tingkah laku, sikap",
+    "kataAsal": "carita"
+  },
+  "data": [
+    {
+      "lema": "ce.ri.ta /cêrita/bentuk tidak baku: ceritera, cetera2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tuturan yang membentangkan bagaimana terjadinya suatu hal (peristiwa, kejadian, dan sebagainya): itulah --nya ketika kami mendaki Gunung Sumbing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karangan yang menuturkan perbuatan, pengalaman, atau penderitaan orang; kejadian dan sebagainya (baik yang sungguh-sungguh terjadi maupun yang hanya rekaan belaka)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lakon yang diwujudkan atau dipertunjukkan dalam film (sandiwara, wayang, dan sebagainya): film ini --nya kurang bagus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "omong kosong; dongengan (yang tidak benar); omongan: jangan banyak --"
+        }
+      ]
+    }
+  ]
+}

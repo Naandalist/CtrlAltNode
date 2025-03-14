@@ -1,0 +1,57 @@
+{
+  "istilah": "sebentar",
+  "entri": "bentar2 » se.ben.tar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sebentar-sebentar"
+  ],
+  "gabunganKata": [
+    "sebentar ini",
+    "sebentar lagi",
+    "sebentar malam",
+    "sebentar ini",
+    "sebentar malam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bentar2 » se.ben.tar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam waktu yang singkat; tidak lama: tunggulah ~, saya mau salat dulu"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "nanti: ~ Ibu datang"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kadang-kadang: ia ~ pergi, ~ tidak"
+        }
+      ]
+    },
+    {
+      "lema": "se.ben.tar /sêbêntar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "singkat; sesaat; tidak lama: tunggulah --, saya mau sembahyang dulu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nanti: -- Ibu datang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kadang-kadang: -- pergi, -- tidak"
+        }
+      ]
+    }
+  ]
+}

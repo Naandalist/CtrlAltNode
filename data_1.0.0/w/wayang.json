@@ -1,0 +1,83 @@
+{
+  "istilah": "wayang",
+  "entri": "wa.yang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mewayangkan",
+    "pewayang",
+    "pewayangan",
+    "wayangan"
+  ],
+  "gabunganKata": [
+    "wayang air",
+    "wayang bambu",
+    "wayang beber",
+    "wayang catur",
+    "wayang gambar",
+    "wayang gelap",
+    "wayang golek",
+    "wayang gung",
+    "wayang kancil",
+    "wayang kelitik",
+    "wayang keroncong",
+    "wayang kerucil",
+    "wayang kulit",
+    "wayang kuluk",
+    "wayang makao",
+    "wayang mbeling",
+    "wayang menak",
+    "wayang orang",
+    "wayang plastik",
+    "wayang potehi",
+    "wayang purwa",
+    "wayang rai wong",
+    "wayang sadat",
+    "wayang sarung tangan",
+    "wayang sasak",
+    "wayang suket",
+    "wayang suluh",
+    "wayang tavip",
+    "wayang topeng",
+    "wayang ukur",
+    "wayang wahyu",
+    "wayang wong"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wa.yang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "boneka tiruan yang terbuat dari pahatan kulit atau kayu dan sebagainya yang dapat dimanfaatkan untuk memerankan tokoh dalam pertunjukan drama tradisional (Bali, Jawa, Sunda, dan sebagainya), biasanya dimainkan oleh seseorang yang disebut dalang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertunjukan tradisional (Jawa, Sunda, Bali, dan sebagainya) yang menggunakan peranti wayang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pelaku (yang hanya sebagai pelaku, bukan sebagai perencana); orang suruhan yang harus bertindak sesuai dengan perintah orang lain: penembak calon presiden itu hanya -- bukan dalangnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "bayang-bayang"
+        }
+      ]
+    },
+    {
+      "lema": "Wa.yang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "wuku ke-27"
+        }
+      ]
+    }
+  ]
+}

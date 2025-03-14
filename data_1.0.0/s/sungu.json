@@ -1,0 +1,35 @@
+{
+  "istilah": "sungu",
+  "entri": "su.ngu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sungu badak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tanduk, puncak atau ujung, tanda, titik tertinggi",
+    "kataAsal": "śṛṅga"
+  },
+  "data": [
+    {
+      "lema": "su.ngu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tanduk"
+        }
+      ]
+    },
+    {
+      "lema": "su.ngu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "jungur"
+        }
+      ]
+    }
+  ]
+}

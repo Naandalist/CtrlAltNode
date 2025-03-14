@@ -1,0 +1,30 @@
+{
+  "istilah": "gubuk",
+  "entri": "gu.buk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gubukan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dangau, lumbung, gubug, pondok, gubug penjaga dan lain-lain",
+    "kataAsal": "gubug"
+  },
+  "data": [
+    {
+      "lema": "gu.buk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah kecil (biasanya yang kurang baik dan bersifat sementara): mereka tinggal dalam -- pengap beratap daun rumbia, berdinding kardus dan plastik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dangau"
+        }
+      ]
+    }
+  ]
+}

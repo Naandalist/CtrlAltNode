@@ -1,0 +1,49 @@
+{
+  "istilah": "s",
+  "entri": "S1 varian: s",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "S1 varian: s",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf ke-19 abjad Indonesia"
+        }
+      ]
+    },
+    {
+      "lema": "S2 varian: s",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "tanda atau cap; dari signum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "solo (dalam musik, berarti bernyanyi atau memainkan instrumen musik seorang diri)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -] kp[kependekan]",
+          "deskripsi": "soprano; suara tertinggi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "satu meter kubik (dalam sistem metrik); dari stere"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "strata (dalam sistem pendidikan tinggi)"
+        }
+      ]
+    }
+  ]
+}

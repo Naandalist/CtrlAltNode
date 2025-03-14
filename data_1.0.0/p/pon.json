@@ -1,0 +1,42 @@
+{
+  "istilah": "pon",
+  "entri": "pon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "nama hari pasaran, hari setiap pecan atau lima hari berganti",
+    "kataAsal": "pon"
+  },
+  "data": [
+    {
+      "lema": "pon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran berat 500 gr"
+        }
+      ]
+    },
+    {
+      "lema": "Pon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "hari ke-3 dalam pasaran Jawa"
+        }
+      ]
+    },
+    {
+      "lema": "PON3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Pekan Olahraga Nasional (pesta olahraga nasional yang diadakan setiap empat tahun sekali dan diikuti seluruh provinsi di Indonesia)"
+        }
+      ]
+    }
+  ]
+}

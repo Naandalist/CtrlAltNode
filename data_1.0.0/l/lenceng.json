@@ -1,0 +1,35 @@
+{
+  "istilah": "lenceng",
+  "entri": "len.ceng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melenceng"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "len.ceng",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melenceng"
+        }
+      ]
+    },
+    {
+      "lema": "len.ceng /lêncêng/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lencang"
+        }
+      ]
+    }
+  ]
+}

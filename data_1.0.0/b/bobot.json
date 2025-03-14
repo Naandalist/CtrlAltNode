@@ -1,0 +1,53 @@
+{
+  "istilah": "bobot",
+  "entri": "bo.bot",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbobot",
+    "memboboti",
+    "pembobot",
+    "pembobotan"
+  ],
+  "gabunganKata": [
+    "bobot atom",
+    "bobot isi",
+    "bobot isi tanah",
+    "bobot jenis",
+    "bobot lebih",
+    "bobot luah",
+    "bobot mati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.bot",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berat suatu benda: pesawat itu --nya lebih dari 10.000 kilogram"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berat seekor ternak pada suatu keadaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "timbangan; arti penting"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "nilai; mutu: sebuah film yang menitikberatkan -- seni"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -] ki[kiasan]",
+          "deskripsi": "derajat warna hitam pada huruf cetak (mulai dari yang sangat tipis warna hitamnya sampai dengan yang hitam sekali)"
+        }
+      ]
+    }
+  ]
+}

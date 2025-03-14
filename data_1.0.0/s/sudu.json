@@ -1,0 +1,44 @@
+{
+  "istilah": "sudu",
+  "entri": "su.du",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyudu",
+    "sudu-sudu",
+    "tersudu"
+  ],
+  "gabunganKata": [
+    "sudu hati"
+  ],
+  "peribahasa": [
+    "kurang-kurang bubur, lebih-lebih sudu (sudu yang lebih); sudu-sudu di tepi jalan, dipanjat kena durinya, disinggung kena rabasnya, ditakik kena getahnya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.du",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "paruh yang lebar (seperti paruh itik, angsa): -- itik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sendok besar (dari tempurung, kaleng, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menyendok (dari daun pisang dan sebagainya): ia makan dengan menggunakan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "daun mekanis dari suatu roda gerak turbin yang dijalankan oleh air, uap, atau angin"
+        }
+      ]
+    }
+  ]
+}

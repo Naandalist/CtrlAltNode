@@ -1,0 +1,33 @@
+{
+  "istilah": "berpasta",
+  "entri": "pasta1 » ber.pas.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pasta1 » ber.pas.ta",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memakai pasta: dia menyikat gigi tanpa ~ gigi"
+        }
+      ]
+    },
+    {
+      "lema": "pasta2 » ber.pas.ta",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengandung pasta: perutnya mual setelah makan masakan ~"
+        }
+      ]
+    }
+  ]
+}

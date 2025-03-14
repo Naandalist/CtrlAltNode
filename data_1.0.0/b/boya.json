@@ -1,0 +1,62 @@
+{
+  "istilah": "boya",
+  "entri": "bo.ya1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memboya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.ya1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "bui di laut"
+        }
+      ]
+    },
+    {
+      "lema": "bo.ya2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cerai-berai"
+        }
+      ]
+    },
+    {
+      "lema": "bo.ya3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kal[Kaili: -]",
+          "deskripsi": "pola perkampungan yang menyebar pada masyarakat suku Kaili, biasanya kampung tersebut mempunyai keluarga yang jumlahnya sedikit dan berjauhan tempat tinggalnya"
+        }
+      ]
+    },
+    {
+      "lema": "bo.ya4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mks[Makassar: -]",
+          "deskripsi": "berusaha mendapatkan (menemukan, memperoleh) dengan sungguh-sungguh"
+        }
+      ]
+    },
+    {
+      "lema": "bo.ya5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "pelampung sebagai rambu lalu lintas pelayaran di laut"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "kesak",
+  "entri": "ke.sak1 /kêsak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengesak",
+    "mengesakkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.sak1 /kêsak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengesak"
+        }
+      ]
+    },
+    {
+      "lema": "ke.sak2 /kêsak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sesak napas"
+        }
+      ]
+    }
+  ]
+}

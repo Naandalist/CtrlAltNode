@@ -1,0 +1,41 @@
+{
+  "istilah": "clearance",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "pembebasan dari keberatan, sangkaan atau tuduhan"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "perbuatan membebaskan barang-barang pada bea cukai"
+        }
+      ]
+    },
+    {
+      "lema": "clearance",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "pembebasan dari keberatan, sangkaan atau tuduhan"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "perbuatan membebaskan barang-barang pada bea cukai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "pegat",
+  "entri": "pe.gat1 /pêgat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memegat",
+    "pemegatan",
+    "memegat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "putus, (ter)potong; selesai, tamat, sempurna",
+    "kataAsal": "pěgat"
+  },
+  "data": [
+    {
+      "lema": "pe.gat1 /pêgat/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "putus"
+        }
+      ]
+    },
+    {
+      "lema": "pe.gat2 /pêgat/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tahan; adang"
+        }
+      ]
+    }
+  ]
+}

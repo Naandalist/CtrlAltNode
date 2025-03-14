@@ -1,0 +1,33 @@
+{
+  "istilah": "samseng",
+  "entri": "sam.seng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "tiga jenis makanan sesajen",
+    "kataAsal": "sam seng"
+  },
+  "data": [
+    {
+      "lema": "sam.seng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "jagoan; pendekar"
+        }
+      ]
+    },
+    {
+      "lema": "sam.seng /samsêng/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Cn[Cina: -]",
+          "deskripsi": "melayat (orang kematian): Ayah sedang -- ke rumah Babah Gemuk"
+        }
+      ]
+    }
+  ]
+}

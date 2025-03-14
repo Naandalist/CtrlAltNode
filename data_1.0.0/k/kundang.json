@@ -1,0 +1,57 @@
+{
+  "istilah": "kundang",
+  "entri": "kun.dang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengundang",
+    "berkundang",
+    "kundangan",
+    "kundangan",
+    "kundangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sekutu, pengikut",
+    "kataAsal": "kuṇḍaṅ"
+  },
+  "data": [
+    {
+      "lema": "kun.dang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "bawa ke mana-mana"
+        }
+      ]
+    },
+    {
+      "lema": "kun.dang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sayang"
+        }
+      ]
+    },
+    {
+      "lema": "kun.dang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kundangan"
+        }
+      ]
+    },
+    {
+      "lema": "kun.dang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kundangan"
+        }
+      ]
+    }
+  ]
+}

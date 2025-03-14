@@ -1,0 +1,32 @@
+{
+  "istilah": "eksitasi",
+  "entri": "ek.si.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ek.si.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangsangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan terangsang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "penambahan tenaga pada suatu sistem yang mengalihkannya dari keadaan dasarnya ke suatu keadaan dengan tenaga yang lebih tinggi"
+        }
+      ]
+    }
+  ]
+}

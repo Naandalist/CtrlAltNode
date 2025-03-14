@@ -1,0 +1,42 @@
+{
+  "istilah": "sayat",
+  "entri": "sa.yat1 bentuk tidak baku: sait",
+  "bentukTidakBaku": "sait",
+  "kataTurunan": [
+    "menyayat",
+    "menyayat-nyayat",
+    "menyayati",
+    "penyayat",
+    "penyayatan",
+    "sayatan",
+    "sesayat",
+    "tersayat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dengan sayatan (cabikan) koyak, terbuka, telanjang",
+    "kataAsal": "sayat"
+  },
+  "data": [
+    {
+      "lema": "sa.yat1 bentuk tidak baku: sait",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potongan kecil; iris"
+        }
+      ]
+    },
+    {
+      "lema": "sa.yat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sayet"
+        }
+      ]
+    }
+  ]
+}

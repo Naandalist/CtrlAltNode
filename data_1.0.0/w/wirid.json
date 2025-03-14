@@ -1,0 +1,35 @@
+{
+  "istilah": "wirid",
+  "entri": "wi.rid",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mewiridkan",
+    "wiridan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kutipan-kutipan Alquran yang ditetapkan untuk dibaca; bagian kepada malam untuk melakukan salat",
+    "kataAsal": "wird"
+  },
+  "data": [
+    {
+      "lema": "wi.rid",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kutipan-kutipan Al-Qur'an yang ditetapkan untuk dibaca"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "zikir yang diucapkan sesudah salat: sesudah salat dia selalu membaca --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "pelajaran (ilmu keagamaan)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "transkonduktans",
+  "entri": "trans.kon.duk.tans",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trans.kon.duk.tans",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "parameter tabung-elektron, sebesar perubahan arus anode dibagi perubahan pada tegangan kisi kendali sebagai penyebabnya, ketika tegangan anode dan tegangan-tegangan lain dijaga tetap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "boreh",
+  "entri": "bo.reh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memboreh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "boreh, bedak basah berbau harum",
+    "kataAsal": "boreh"
+  },
+  "data": [
+    {
+      "lema": "bo.reh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bedak basah yang kuning warnanya dan harum baunya; burat"
+        }
+      ]
+    },
+    {
+      "lema": "bo.reh /borêh/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "barang (atau surat berharga) yang diserahkan oleh orang yang berutang sebagai jaminan utangnya; agunan; jaminan: kalau hendak berutang harus ada --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang yang menanggung utang orang lain (dalam hal timbulnya kesulitan dalam pembayaran utang dan sebagainya); penanggung; penjamin: saya sanggup menjadi -- kakakku"
+        }
+      ]
+    }
+  ]
+}

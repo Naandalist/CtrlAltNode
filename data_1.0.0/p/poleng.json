@@ -1,0 +1,43 @@
+{
+  "istilah": "poleng",
+  "entri": "po.leng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "poleng-poleng"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pola warna hitam dan putih (juga berwarna-warni)",
+    "kataAsal": "poleṅ"
+  },
+  "data": [
+    {
+      "lema": "po.leng1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "bercorak kotak-kotak, seperti papan catur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "garis-garis hiasan (misalnya pada kain, tikar)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain dari Bali bercorak kotak-kotak hitam dan putih (seperti papan catur), dianggap sebagai kain penolak bala"
+        }
+      ]
+    },
+    {
+      "lema": "po.leng2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut yang ukurannya mencapai 11 cm, hidup di perairan karang tropis dengan kedalaman 1–15 m, tersebar di perairan Indo-Pasifik Barat, Samudra Hindia bagian Timur, termasuk Pulau Andaman dan Nikobar, Thailand, Semenanjung Malaya, dan Australia hingga Singapura, Indonesia dan Filipina; di wilayah utara hingga Thailand dan Kepulauan Ryukyu; ikan inggu; ikan badu; ikan badut〔Amphiphrion ocellaris〕"
+        }
+      ]
+    }
+  ]
+}

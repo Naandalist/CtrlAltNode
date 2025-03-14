@@ -1,0 +1,37 @@
+{
+  "istilah": "gendeng",
+  "entri": "gen.deng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergendeng-gendengan",
+    "menggendengkan",
+    "tergendeng"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gen.deng",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "condong; miring; ereng"
+        }
+      ]
+    },
+    {
+      "lema": "gen.deng /gêndêng/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "gila; tidak normal (ingatan, pikiran)"
+        }
+      ]
+    }
+  ]
+}

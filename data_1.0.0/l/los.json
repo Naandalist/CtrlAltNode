@@ -1,0 +1,44 @@
+{
+  "istilah": "los",
+  "entri": "los1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengeloskan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "los1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah besar panjang (pasar dan sebagainya); bangsal: -- pasar"
+        }
+      ]
+    },
+    {
+      "lema": "los2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapal mualim (penunjuk jalan di pelabuhan); kapal pandu"
+        }
+      ]
+    },
+    {
+      "lema": "los3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lepas; bebas"
+        }
+      ]
+    }
+  ]
+}

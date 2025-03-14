@@ -1,0 +1,34 @@
+{
+  "istilah": "titel",
+  "entri": "ti.tel /titêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertitel"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.tel /titêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar yang diperoleh setelah menamatkan tingkat pendidikan dan sebagainya; gelar kesarjanaan: dia akan pulang membawa -- doktor dalam bidang teknik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "judul (buku dan sebagainya): -- karangan ini ialah “Pembangunan dan Masyarakat”"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "titik di atas huruf i dan j"
+        }
+      ]
+    }
+  ]
+}

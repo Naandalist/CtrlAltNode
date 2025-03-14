@@ -1,0 +1,33 @@
+{
+  "istilah": "bidur",
+  "entri": "bi.dur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.dur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bongkah timah yang beratnya sekitar 3 pon (dipakai juga untuk ukuran harga): mahar putri, anak raja Perak, dikatakan 100 --"
+        }
+      ]
+    },
+    {
+      "lema": "bi.dur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelegata"
+        }
+      ]
+    }
+  ]
+}

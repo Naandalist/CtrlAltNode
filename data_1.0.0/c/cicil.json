@@ -1,0 +1,40 @@
+{
+  "istilah": "cicil",
+  "entri": "ci.cil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cicilan",
+    "mencicil",
+    "menyicil",
+    "pencicil",
+    "pencicilan",
+    "mencicil"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ci.cil1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bayar sedikit demi sedikit"
+        }
+      ]
+    },
+    {
+      "lema": "ci.cil2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencicil"
+        }
+      ]
+    }
+  ]
+}

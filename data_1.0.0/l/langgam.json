@@ -1,0 +1,36 @@
+{
+  "istilah": "langgam",
+  "entri": "lang.gam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "warna, nada, harmoni, lagu, corak, melodi; nafsu, gairah; badan",
+    "kataAsal": "rāga"
+  },
+  "data": [
+    {
+      "lema": "lang.gam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gaya; model; cara: -- permainannya khas, sukar ditiru orang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adat atau kebiasaan: -- orang di daerah itu kalau berkata dengan suara keras, tetapi hatinya baik dan suka berterus terang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk irama lagu (nyanyian): penyanyi lagu pop belum tentu dapat menyanyikan lagu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "ragam bahasa menurut sikap penutur dan jenis pemakaiannya"
+        }
+      ]
+    }
+  ]
+}

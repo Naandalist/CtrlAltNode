@@ -1,0 +1,27 @@
+{
+  "istilah": "tasyahud",
+  "entri": "ta.sya.hud",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tasyahud akhir",
+    "tasyahud awal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembacaan tahiat pada waktu salat",
+    "kataAsal": "tasyahhud"
+  },
+  "data": [
+    {
+      "lema": "ta.sya.hud",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pembacaan tahiat pada waktu salat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "yoyo",
+  "entri": "yo.yo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "yo.yo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mainan dari kayu, berbentuk bulat pipih menyerupai gelendong benang yang diikat dengan tali, jika digerakkan menyebabkan mainan itu terputar turun-naik karena talinya terlepas dan tergulung kembali"
+        }
+      ]
+    },
+    {
+      "lema": "yo.yo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "sistem pembongkaran atau pemuatan untuk muatan yang sangat berat, menggunakan empat batang pemuat kapal"
+        }
+      ]
+    }
+  ]
+}

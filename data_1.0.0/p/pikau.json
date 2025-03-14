@@ -1,0 +1,36 @@
+{
+  "istilah": "pikau",
+  "entri": "pi.kau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpikauan",
+    "terpikau-pikau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.kau1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berpikauan; terpikau-pikau"
+        }
+      ]
+    },
+    {
+      "lema": "pi.kau2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis puyuh〔Excalfactoria chinensis〕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "ikhwan",
+  "entri": "ikh.wan bentuk tidak baku: akhwan",
+  "bentukTidakBaku": "akhwan",
+  "kataTurunan": [
+    "seikhwan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "saudara; teman",
+    "kataAsal": "ikhwān"
+  },
+  "data": [
+    {
+      "lema": "ikh.wan bentuk tidak baku: akhwan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "saudara; teman: tidak seorang pun di antara --nya mengetahui hal itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Ar[Arab: -]",
+          "deskripsi": "sebutan untuk laki-laki muslim"
+        }
+      ]
+    }
+  ]
+}

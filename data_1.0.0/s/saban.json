@@ -1,0 +1,56 @@
+{
+  "istilah": "saban",
+  "entri": "sa.ban1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "saban-saban",
+    "saban-saban"
+  ],
+  "gabunganKata": [
+    "saban hari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "saban"
+  },
+  "data": [
+    {
+      "lema": "sa.ban1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tiap(-tiap): -- hari mereka berjualan di pasar"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ban2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "saban-saban"
+        }
+      ]
+    },
+    {
+      "lema": "Sa.ban3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ Syakban"
+        }
+      ]
+    },
+    {
+      "lema": "Sa.ban4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat Dayak Saban"
+        }
+      ]
+    }
+  ]
+}

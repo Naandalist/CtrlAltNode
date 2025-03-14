@@ -1,0 +1,62 @@
+{
+  "istilah": "suak",
+  "entri": "su.ak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyuak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.ak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teluk kecil (di sungai atau laut): mereka pergi ke -- tempat kumpulan sampan tertambat"
+        }
+      ]
+    },
+    {
+      "lema": "su.ak2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Mk[Minangkabau: -] Mk[Minangkabau]",
+          "deskripsi": "urung; batal: minta --  minta dibatalkan (dibebaskan) dari pembayaran kekalahan atau minta kembali sedikit dari uang kekalahannya; belum pernah -- [1] belum pernah gagal [2] selalu berhasil"
+        }
+      ]
+    },
+    {
+      "lema": "su.ak3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sibak"
+        }
+      ]
+    },
+    {
+      "lema": "su.ak4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat bulu"
+        }
+      ]
+    },
+    {
+      "lema": "su.ak5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "alur yang ketika air surut berdiri sendiri dan terpisah oleh daratan dari laut"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "bp4",
+  "entri": "BP41",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "BP41",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Badan Penasihat Perkawinan dan Penyelesaian Perceraian (lembaga pemerintah yang memberikan bantuan nasihat perkawinan kepada masyarakat)"
+        }
+      ]
+    },
+    {
+      "lema": "BP42",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Balai Pengobatan Pemberantasan Penyakit Paru-Paru (balai yang didirikan pemerintah yang bertugas di bidang pengobatan dan pemberantasan penyakit paru-paru)"
+        }
+      ]
+    }
+  ]
+}

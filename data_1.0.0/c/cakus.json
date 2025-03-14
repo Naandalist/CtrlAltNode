@@ -1,0 +1,35 @@
+{
+  "istilah": "cakus",
+  "entri": "ca.kus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencakus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.kus1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencakus"
+        }
+      ]
+    },
+    {
+      "lema": "ca.kus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "geretan; korek api"
+        }
+      ]
+    }
+  ]
+}

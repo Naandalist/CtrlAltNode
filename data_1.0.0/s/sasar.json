@@ -1,0 +1,61 @@
+{
+  "istilah": "sasar",
+  "entri": "sa.sar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesasar",
+    "menyasar",
+    "tersasar",
+    "bersasaran",
+    "menyasar",
+    "menyasarkan",
+    "sasaran",
+    "sasaran",
+    "sasarannya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kesasar, menyimpang dari jalan yang benar, tersesat",
+    "kataAsal": "sasar"
+  },
+  "data": [
+    {
+      "lema": "sa.sar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang pikir; tidak beres ingatan; setengah gila"
+        }
+      ]
+    },
+    {
+      "lema": "sa.sar2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "sesat; salah jalan"
+        }
+      ]
+    },
+    {
+      "lema": "sa.sar3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyasar"
+        }
+      ]
+    },
+    {
+      "lema": "sa.sar4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sasaran"
+        }
+      ]
+    }
+  ]
+}

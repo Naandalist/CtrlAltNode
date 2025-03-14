@@ -1,0 +1,40 @@
+{
+  "istilah": "jaya",
+  "entri": "ja.ya",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjaya",
+    "keberjayaan",
+    "kejayaan",
+    "menjayakan"
+  ],
+  "gabunganKata": [
+    "jaya kawijayan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.ya",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "selalu berhasil; sukses; hebat"
+        }
+      ]
+    },
+    {
+      "lema": "Ja.ya",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Jakarta Raya"
+        }
+      ]
+    }
+  ]
+}

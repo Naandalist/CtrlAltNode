@@ -1,0 +1,63 @@
+{
+  "istilah": "servis",
+  "entri": "ser.vis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyervis",
+    "menyervis"
+  ],
+  "gabunganKata": [
+    "servis makan",
+    "servis mobil",
+    "servis apung",
+    "servis as",
+    "servis bawah tangan",
+    "servis keras",
+    "servis keras dan tajam",
+    "servis lompat",
+    "servis mengambang",
+    "servis putar dalam",
+    "servis putar luar",
+    "servis rata",
+    "servis ringan",
+    "servis sempurna",
+    "servis sentuh jaring",
+    "servis tinggi",
+    "servis tipu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ser.vis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelayanan; layanan"
+        }
+      ]
+    },
+    {
+      "lema": "ser.vis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pukulan permulaan untuk memainkan bola (dalam permainan bola voli, tenis, tenis meja, bulu tangkis)"
+        }
+      ]
+    },
+    {
+      "lema": "ser.vis3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seperangkat perabot (makan, minum)"
+        }
+      ]
+    }
+  ]
+}

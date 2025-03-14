@@ -1,0 +1,37 @@
+{
+  "istilah": "qanun",
+  "entri": "qa.nun1 bentuk tidak baku: kanun",
+  "bentukTidakBaku": "kanun",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "qa.nun1 bentuk tidak baku: kanun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "undang-undang; peraturan; hukum; kaidah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kitab undang-undang"
+        }
+      ]
+    },
+    {
+      "lema": "qa.nun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat musik petik dari Arab, mirip kecapi, memiliki 81 dawai"
+        }
+      ]
+    }
+  ]
+}

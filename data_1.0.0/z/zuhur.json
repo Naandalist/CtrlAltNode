@@ -1,0 +1,32 @@
+{
+  "istilah": "zuhur",
+  "entri": "zu.hur bentuk tidak baku: lohor, zohor, duhur, dzuhur, zhuhur, juhur",
+  "bentukTidakBaku": "lohor, zohor, duhur, dzuhur, zhuhur, juhur",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "waktu tengah hari; waktu salat wajib setelah matahari tergelincir sampai menjelang petang",
+    "kataAsal": "ẓuhr"
+  },
+  "data": [
+    {
+      "lema": "zu.hur bentuk tidak baku: lohor, zohor, duhur, dzuhur, zhuhur, juhur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu tengah hari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu salat wajib setelah matahari tergelincir sampai menjelang petang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "(ditulis dengan huruf awal kapital) salat wajib sebanyak empat rakaat pada waktu tengah hari sampai menjelang petang"
+        }
+      ]
+    }
+  ]
+}

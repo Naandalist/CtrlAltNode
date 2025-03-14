@@ -1,0 +1,28 @@
+{
+  "istilah": "qari",
+  "entri": "qa.ri bentuk tidak baku: kari2",
+  "bentukTidakBaku": "kari2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "lelaki pembaca; lelaki pengumpul",
+    "kataAsal": "qāri’"
+  },
+  "data": [
+    {
+      "lema": "qa.ri bentuk tidak baku: kari2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembaca Al-Qur'an (laki-laki)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang (laki-laki) yang mahir dalam seni baca Al-Qur'an"
+        }
+      ]
+    }
+  ]
+}

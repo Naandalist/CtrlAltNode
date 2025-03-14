@@ -1,0 +1,36 @@
+{
+  "istilah": "payang",
+  "entri": "pa.yang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pemayang",
+    "memayang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "payaṅ"
+  },
+  "data": [
+    {
+      "lema": "pa.yang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pukat"
+        }
+      ]
+    },
+    {
+      "lema": "pa.yang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memayang"
+        }
+      ]
+    }
+  ]
+}

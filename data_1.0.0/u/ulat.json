@@ -1,0 +1,54 @@
+{
+  "istilah": "ulat",
+  "entri": "u.lat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berulat"
+  ],
+  "gabunganKata": [
+    "ulat daun",
+    "ulat gajah",
+    "ulat gerayak",
+    "ulat hongkong",
+    "ulat jedung",
+    "ulat jengkal",
+    "ulat keket",
+    "ulat kelatang",
+    "ulat kenari",
+    "ulat kilan",
+    "ulat kipat",
+    "ulat kubis",
+    "ulat mago",
+    "ulat sagu",
+    "ulat sutra",
+    "ulat tanah"
+  ],
+  "peribahasa": [
+    "mengorek lubang ulat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.lat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "larva serangga, terutama ordo Lepidoptera (kupu-kupu dan ngengat), bertubuh gilik memanjang, berkaki enam, sebagian besar bersifat herbivora, sering kali menjadi hama pertanian"
+        }
+      ]
+    },
+    {
+      "lema": "u.lat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ ulet"
+        }
+      ]
+    }
+  ]
+}

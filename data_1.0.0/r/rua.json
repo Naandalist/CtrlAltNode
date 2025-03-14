@@ -1,0 +1,35 @@
+{
+  "istilah": "rua",
+  "entri": "ru.a1 bentuk tidak baku: rowa",
+  "bentukTidakBaku": "rowa",
+  "kataTurunan": [
+    "merua"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.a1 bentuk tidak baku: rowa",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "banyak makan tempat; tidak ringkas; lebar: kalau ruangan luas, belilah alat rumah tangga yang --"
+        }
+      ]
+    },
+    {
+      "lema": "ru.a2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan: tanpa tujuan, ia menyusuri -- di kota dingin ini"
+        }
+      ]
+    }
+  ]
+}

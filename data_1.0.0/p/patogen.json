@@ -1,0 +1,28 @@
+{
+  "istilah": "patogen",
+  "entri": "pa.to.gen",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.to.gen",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "parasit yang mampu menimbulkan penyakit pada inangnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan yang menimbulkan penyakit"
+        }
+      ]
+    }
+  ]
+}

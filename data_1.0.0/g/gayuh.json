@@ -1,0 +1,45 @@
+{
+  "istilah": "gayuh",
+  "entri": "ga.yuh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergayuh",
+    "menggayuh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "gayuh"
+  },
+  "data": [
+    {
+      "lema": "ga.yuh1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gantung"
+        }
+      ]
+    },
+    {
+      "lema": "ga.yuh2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menggayuh"
+        }
+      ]
+    },
+    {
+      "lema": "ga.yuh3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kayuh"
+        }
+      ]
+    }
+  ]
+}

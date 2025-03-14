@@ -1,0 +1,45 @@
+{
+  "istilah": "bor",
+  "entri": "bor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengebor",
+    "pengebor",
+    "pengeboran"
+  ],
+  "gabunganKata": [
+    "bor batu",
+    "bor linggis",
+    "bor putar",
+    "bor sentak",
+    "bor tumbuk",
+    "bor udara",
+    "bor ulir"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkakas untuk menggerek kayu (besi dan sebagainya) atau menggali lubang dan sebagainya; jara"
+        }
+      ]
+    },
+    {
+      "lema": "bor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "papan (dalam kelas dan sebagainya) untuk menulis; papan tulis"
+        }
+      ]
+    }
+  ]
+}

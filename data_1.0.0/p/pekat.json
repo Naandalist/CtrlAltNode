@@ -1,0 +1,39 @@
+{
+  "istilah": "pekat",
+  "entri": "pe.kat1 /pêkat/bentuk tidak baku: pakat2",
+  "bentukTidakBaku": "pakat2",
+  "kataTurunan": [
+    "kepekatan",
+    "memekatkan",
+    "terpekat"
+  ],
+  "gabunganKata": [
+    "pekat hati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.kat1 /pêkat/bentuk tidak baku: pakat2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "likat atau kental (tidak encer tentang barang cair); keras (tentang kopi dan sebagainya); tidak jernih (tentang air)"
+        }
+      ]
+    },
+    {
+      "lema": "pe.kat2 /pêkat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mufakat"
+        }
+      ]
+    }
+  ]
+}

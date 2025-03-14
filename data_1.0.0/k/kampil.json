@@ -1,0 +1,35 @@
+{
+  "istilah": "kampil",
+  "entri": "kam.pil1 bentuk tidak baku: kampit",
+  "bentukTidakBaku": "kampit",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "mensiang yang baru dicari, kampil ‘lah sudah dahulu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tas, kantong (untuk uang atau benda berharga)",
+    "kataAsal": "kampil"
+  },
+  "data": [
+    {
+      "lema": "kam.pil1 bentuk tidak baku: kampit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pundi-pundi yang dibuat dari anyaman daun pandan: ayahku mempunyai sebuah -- untuk tempat tembakau"
+        }
+      ]
+    },
+    {
+      "lema": "kam.pil2 varian: kampilan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelewang panjang"
+        }
+      ]
+    }
+  ]
+}

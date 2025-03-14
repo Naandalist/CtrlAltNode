@@ -1,0 +1,24 @@
+{
+  "istilah": "model pengembangan inkremental",
+  "entri": "model1 » model pengembangan inkremental",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "model1 » model pengembangan inkremental",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "siklus pengembangan yang proyeknya dipecah menjadi serangkaian tahapan, masing-masing memberikan sebagian dari fungsionalitas yang tertuang di dalam persyaratan proyek secara keseluruhan"
+        }
+      ]
+    }
+  ]
+}

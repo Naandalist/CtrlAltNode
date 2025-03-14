@@ -1,0 +1,41 @@
+{
+  "istilah": "tokok",
+  "entri": "to.kok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertokok",
+    "menokok",
+    "menokok",
+    "penokok",
+    "tokok-menokok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kalau sorok lebih dahulu daripada tokok, tidak mati babi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.kok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tambahan sedikit (ketika menimbang, mengukur, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "to.kok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemukul; martil"
+        }
+      ]
+    }
+  ]
+}

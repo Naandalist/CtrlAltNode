@@ -1,0 +1,33 @@
+{
+  "istilah": "bioskop",
+  "entri": "bi.os.kop",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "perbioskopan"
+  ],
+  "gabunganKata": [
+    "bioskop alternatif",
+    "bioskop rumah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.os.kop",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertunjukan yang diperlihatkan dengan gambar (film) yang disorot sehingga dapat bergerak (berbicara); film: hampir setahun aku tidak pernah melihat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gedung pertunjukan film cerita: ia sedang pergi ke --"
+        }
+      ]
+    }
+  ]
+}

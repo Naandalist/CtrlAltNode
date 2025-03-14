@@ -1,0 +1,45 @@
+{
+  "istilah": "premis",
+  "entri": "pre.mis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "premis mayor",
+    "premis minor",
+    "premis silogisme"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pre.mis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "apa yang dianggap benar sebagai landasan kesimpulan; dasar pemikiran; alasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asumsi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kalimat atau proposisi yang dijadikan dasar penarikan kesimpulan di dalam logika"
+        }
+      ]
+    },
+    {
+      "lema": "pre.mis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "tanah, bangunan, dan benda-benda utama lain yang berhubungan dengan bagian utama bangunan"
+        }
+      ]
+    }
+  ]
+}

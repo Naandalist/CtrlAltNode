@@ -1,0 +1,49 @@
+{
+  "istilah": "lawas",
+  "entri": "la.was1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melawas",
+    "melawas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.was1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "luas"
+        }
+      ]
+    },
+    {
+      "lema": "la.was2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melawas"
+        }
+      ]
+    },
+    {
+      "lema": "la.was3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "lama"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tua"
+        }
+      ]
+    }
+  ]
+}

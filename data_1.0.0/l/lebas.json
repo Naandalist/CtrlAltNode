@@ -1,0 +1,35 @@
+{
+  "istilah": "lebas",
+  "entri": "le.bas1 /lêbas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melebas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.bas1 /lêbas/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "melebas"
+        }
+      ]
+    },
+    {
+      "lema": "le.bas2 /lêbas/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mdr[Madura: -]",
+          "deskripsi": "tingkat kematangan buah yang teramat masak, lunak, dan mendekati busuk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "oven",
+  "entri": "o.ven /ovên/bentuk tidak baku: open",
+  "bentukTidakBaku": "open",
+  "kataTurunan": [
+    "ovenan"
+  ],
+  "gabunganKata": [
+    "oven listrik",
+    "oven mikrogelombang",
+    "oven tangkring"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.ven /ovên/bentuk tidak baku: open",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat pembakaran (pemanggangan) kue atau roti"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tungku; dapur; perapian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat pembakaran dengan panas yang tinggi (seperti pembakaran kapur, batu bata); tanur"
+        }
+      ]
+    }
+  ]
+}

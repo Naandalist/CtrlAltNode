@@ -1,0 +1,46 @@
+{
+  "istilah": "engah",
+  "entri": "e.ngah1 /êngah/",
+  "bentukTidakBaku": "rengah",
+  "kataTurunan": [
+    "engah-engah",
+    "terengah-engah",
+    "terperengah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ngah1 /êngah/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "tahu (sadar atau mengerti): dia baru -- bahwa dompetnya telah dicopet orang"
+        }
+      ]
+    },
+    {
+      "lema": "e.ngah2 /êngah/bentuk tidak baku: rengah",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "engah-engah; terengah-engah"
+        }
+      ]
+    },
+    {
+      "lema": "e.ngah3 /êngah/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terperengah"
+        }
+      ]
+    }
+  ]
+}

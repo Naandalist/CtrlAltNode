@@ -1,0 +1,43 @@
+{
+  "istilah": "lekuk",
+  "entri": "le.kuk /lêkuk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlekuk",
+    "berlekuk-lekuk",
+    "lekukan",
+    "melekuk",
+    "melekukkan",
+    "pelekukan"
+  ],
+  "gabunganKata": [
+    "lekuk liku",
+    "lekuk lutut",
+    "lekuk mata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.kuk /lêkuk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berongga lekung atau jeluk (seperti tanah yang digali)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lepih seperti topi yang ditekan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berlekuk ke dalam (seperti lensa)"
+        }
+      ]
+    }
+  ]
+}

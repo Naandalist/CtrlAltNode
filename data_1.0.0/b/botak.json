@@ -1,0 +1,32 @@
+{
+  "istilah": "botak",
+  "entri": "bo.tak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebotakan",
+    "membotak",
+    "membotaki"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "botak",
+    "kataAsal": "butak"
+  },
+  "data": [
+    {
+      "lema": "bo.tak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gundul"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berbulu (tentang kepala binatang)"
+        }
+      ]
+    }
+  ]
+}

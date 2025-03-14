@@ -1,0 +1,42 @@
+{
+  "istilah": "buyut",
+  "entri": "bu.yut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bebuyutan",
+    "buyutan",
+    "kebuyutan",
+    "sebuyut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.yut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat keramat"
+        }
+      ]
+    },
+    {
+      "lema": "bu.yut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu dari nenek (urutannya: bapak/ibu, nenek, buyut)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak dari cucu"
+        }
+      ]
+    }
+  ]
+}

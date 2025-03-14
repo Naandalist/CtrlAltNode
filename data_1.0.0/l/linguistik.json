@@ -1,0 +1,39 @@
+{
+  "istilah": "linguistik",
+  "entri": "li.ngu.is.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "linguistik deskriptif",
+    "linguistik diakronis",
+    "linguistik forensik",
+    "linguistik historis",
+    "linguistik historis-komparatif",
+    "linguistik komparatif",
+    "linguistik komputasi",
+    "linguistik korpus",
+    "linguistik sinkronis",
+    "linguistik terapan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.ngu.is.tik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "telaah bahasa secara ilmiah"
+        }
+      ]
+    }
+  ]
+}

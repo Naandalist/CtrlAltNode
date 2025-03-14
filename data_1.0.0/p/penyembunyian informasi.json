@@ -1,0 +1,24 @@
+{
+  "istilah": "penyembunyian informasi",
+  "entri": "sembunyi » penyembunyian » penyembunyian informasi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sembunyi » penyembunyian » penyembunyian informasi",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "praktik desain yang implementasi rinci dari struktur data dan algoritma di dalam modul atau subrutin disembunyikan dari rutin yang menggunakan modul atau subrutin tersebut, sehingga dapat dipastikan bahwa rutin-rutin tersebut tidak tergantung pada beberapa implementasi detailnya"
+        }
+      ]
+    }
+  ]
+}

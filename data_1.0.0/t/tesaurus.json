@@ -1,0 +1,28 @@
+{
+  "istilah": "tesaurus",
+  "entri": "te.sau.rus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.sau.rus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku referensi berupa daftar kata dengan sinonim dan antonimnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku referensi berupa informasi tentang berbagai perangkat konsep atau istilah dalam pelbagai bidang kehidupan atau pengetahuan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "cempelung",
+  "entri": "cem.pe.lung1 /cêmpêlung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cem.pe.lung1 /cêmpêlung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu yang dijalankan dengan dayung"
+        }
+      ]
+    },
+    {
+      "lema": "cem.pe.lung2 /cêmpêlung/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ cemplung"
+        }
+      ]
+    }
+  ]
+}

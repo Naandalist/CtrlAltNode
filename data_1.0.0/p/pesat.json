@@ -1,0 +1,32 @@
+{
+  "istilah": "pesat",
+  "entri": "pe.sat /pêsat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepesatan",
+    "memesat",
+    "memesatkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "terbang (kabur); melesat ke udara",
+    "kataAsal": "pěsat"
+  },
+  "data": [
+    {
+      "lema": "pe.sat /pêsat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cepat sekali: meluncur dengan --; maju dengan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "maju (berkembang) dengan cepat: perusahaan yang dipimpinnya bertambah --"
+        }
+      ]
+    }
+  ]
+}

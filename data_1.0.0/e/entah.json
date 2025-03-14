@@ -1,0 +1,34 @@
+{
+  "istilah": "entah",
+  "entri": "en.tah /êntah/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "entah-berentah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.tah /êntah/",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kata untuk menyatakan atau menjawab bahwa tidak tahu: -- apa yang dibawa tadi, saya tidak melihatnya"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "boleh jadi: -- datang -- tidak boleh jadi datang, boleh jadi tidak"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "baik ... maupun ...: -- mahal, -- murah, saya tidak peduli"
+        }
+      ]
+    }
+  ]
+}

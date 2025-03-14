@@ -1,0 +1,29 @@
+{
+  "istilah": "stop",
+  "entri": "stop",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menstop",
+    "penstop",
+    "penstopan",
+    "stopan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "stop",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhenti; terhenti"
+        }
+      ]
+    }
+  ]
+}

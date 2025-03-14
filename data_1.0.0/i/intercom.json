@@ -1,0 +1,33 @@
+{
+  "istilah": "intercom",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -] kp[kependekan]",
+          "deskripsi": "intercommunication system; alat komunikasi dua arah yang dipakai terbatas (misalnya dalam rumah), menggunakan mikrofon dan alat pengeras suara"
+        }
+      ]
+    },
+    {
+      "lema": "intercom",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -] [kependekan]",
+          "deskripsi": "intercommunication system; alat komunikasi dua arah yang dipakai terbatas (misalnya dalam rumah), menggunakan mikrofon dan alat pengeras suara"
+        }
+      ]
+    }
+  ]
+}

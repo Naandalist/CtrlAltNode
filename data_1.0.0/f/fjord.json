@@ -1,0 +1,33 @@
+{
+  "istilah": "fjord",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Nr[Norwegia: -]",
+          "deskripsi": "teluk yang sempit dan panjang, kiri kanannya tebing batu yang amat curam (terdapat di Norwegia dan Greenland)"
+        }
+      ]
+    },
+    {
+      "lema": "fjord",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Norwegia: -]",
+          "deskripsi": "teluk yang sempit dan panjang, kiri kanannya tebing batu yang amat curam (terdapat di Norwegia dan Greenland)"
+        }
+      ]
+    }
+  ]
+}

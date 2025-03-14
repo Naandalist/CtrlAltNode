@@ -1,0 +1,36 @@
+{
+  "istilah": "spin",
+  "entri": "spin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "spin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "bilangan kuantum I yang menunjukkan bergasingnya partikel atau inti atom"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "elektron yang diandaikan mempunyai pusa sudut atas dirinya di samping pusa sudut akibat gerak edaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "putaran suatu benda atas sumbunya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "pusa sudut intrinsik suatu inti atau zarah keunsuran, yang selalu ada meskipun zarah itu dalam keadaan rehat, dan dapat dibedakan dengan pusa sudut putaran"
+        }
+      ]
+    }
+  ]
+}

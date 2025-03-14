@@ -1,0 +1,36 @@
+{
+  "istilah": "sema",
+  "entri": "se.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sema-sema",
+    "sema-sema"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.ma1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "cadik (katir) perahu; semah-semah"
+        }
+      ]
+    },
+    {
+      "lema": "se.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selesma"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "istilah": "struktur",
+  "entri": "struk.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berstruktur",
+    "menstrukturkan",
+    "penstrukturan",
+    "terstruktur"
+  ],
+  "gabunganKata": [
+    "struktur batin",
+    "struktur fonemis",
+    "struktur frase",
+    "struktur koordinatif",
+    "struktur lahir",
+    "struktur mengetupat",
+    "struktur modal",
+    "struktur organisasi",
+    "struktur organisasi berdivisi",
+    "struktur organisasi fungsional",
+    "struktur organisme karangan",
+    "struktur pasar",
+    "struktur semantis",
+    "struktur sintaksis",
+    "struktur sosial",
+    "struktur tematis",
+    "struktur tiang",
+    "struktur tulang",
+    "struktur usia"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "struk.tur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara sesuatu disusun atau dibangun; susunan; bangunan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang disusun dengan pola tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengaturan unsur atau bagian suatu benda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketentuan unsur-unsur dari suatu benda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pengaturan pola dalam bahasa secara sintagmatis"
+        }
+      ]
+    }
+  ]
+}

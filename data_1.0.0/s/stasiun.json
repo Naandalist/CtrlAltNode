@@ -1,0 +1,67 @@
+{
+  "istilah": "stasiun",
+  "entri": "sta.si.un bentuk tidak baku: setasiun",
+  "bentukTidakBaku": "setasiun",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "stasiun aerologi",
+    "stasiun antara",
+    "stasiun awal",
+    "stasiun bumi",
+    "stasiun cuaca laut",
+    "stasiun cuaca mobil",
+    "stasiun cuaca otomatik",
+    "stasiun dasar",
+    "stasiun hujan",
+    "stasiun iklim",
+    "stasiun iklim khusus",
+    "stasiun induk",
+    "stasiun kapal bergerak",
+    "stasiun kapal suar",
+    "stasiun kapal tambahan",
+    "stasiun kapal tetap",
+    "stasiun kereta api",
+    "stasiun klimatologi rujukan",
+    "stasiun klimatologi utama",
+    "stasiun meteorologi",
+    "stasiun meteorologi pertanian",
+    "stasiun meteorologi pertanian tambahan",
+    "stasiun meteorologi pertanian utama",
+    "stasiun pengamatan badai guntur",
+    "stasiun pengamatan meteorologi",
+    "stasiun radio",
+    "stasiun radiosonde",
+    "stasiun rawinsonde",
+    "stasiun ruang angkasa",
+    "stasiun ruang angkasa internasional",
+    "stasiun sambung siar",
+    "stasiun satelit bumi",
+    "stasiun sentral",
+    "stasiun sinoptis",
+    "stasiun sinoptis permukaan",
+    "stasiun tambahan",
+    "stasiun televisi",
+    "stasiun udara atas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sta.si.un bentuk tidak baku: setasiun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menunggu bagi calon penumpang kereta api dan sebagainya; tempat perhentian kereta api dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat atau bangunan yang dilengkapi peralatan secara khusus untuk melaksanakan fungsi tertentu"
+        }
+      ]
+    }
+  ]
+}

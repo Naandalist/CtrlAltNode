@@ -1,0 +1,48 @@
+{
+  "istilah": "entri",
+  "entri": "en.tri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengentri",
+    "pengentri",
+    "pengentrian"
+  ],
+  "gabunganKata": [
+    "entri data",
+    "entri leksikal",
+    "entri pokok"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.tri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kata atau frasa dalam kamus beserta penjelasan maknanya dengan tambahan penjelasan berupa kelas kata, lafal, etimologi, contoh pemakaian, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kata kepala; lema"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butir informasi atau data yang dimasukkan dalam daftar, buku, komputer, dan sebagainya: aplikasi analisis bisnis ini berisi ratusan ribu -- di beberapa pangkalan data"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses perekaman sesuatu secara tertulis atau pada komputer; pengentrian: kesalahan -- data"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pintu atau jalan masuk: kata-kata ini menjadi -- bagi pembaca untuk mencari tulisan lewat jaringan komputer"
+        }
+      ]
+    }
+  ]
+}

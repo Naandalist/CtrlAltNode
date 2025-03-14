@@ -1,0 +1,51 @@
+{
+  "istilah": "pahit",
+  "entri": "pa.hit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpahit-pahit",
+    "kepahitan",
+    "memahitkan",
+    "sepahit",
+    "terpahit"
+  ],
+  "gabunganKata": [
+    "pahit darah",
+    "pahit getir",
+    "pahit lidah",
+    "pahit maung",
+    "pahit pahang"
+  ],
+  "peribahasa": [
+    "di luar merah, di dalam pahit; lemak manis jangan ditelan, pahit jangan dimuntahkan; manis jangan lekas ditelan, pahit jangan lekas dimuntahkan; pahit dahulu, manis kemudian; pahit meninggal; pucuk diremas dengan santan, urat direndam dengan tengguli, lamun peria pahit juga; sedap dahulu, pahit kemudian; semanis-manis gula, ada pasir di dalamnya (manis-manis gula berpasir jua, sepahit-pahit jadam menjadi obat); sudah tahu peria pahit"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.hit1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rasa tidak sedap seperti rasa empedu: jamu temu hitam itu -- rasanya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak menyenangkan hati; menyusahkan hati; menyedihkan: pengalaman yang --"
+        }
+      ]
+    },
+    {
+      "lema": "pa.hit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman keras; jenewer"
+        }
+      ]
+    }
+  ]
+}

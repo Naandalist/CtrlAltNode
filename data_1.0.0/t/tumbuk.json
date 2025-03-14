@@ -1,0 +1,61 @@
+{
+  "istilah": "tumbuk",
+  "entri": "tum.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertumbuk",
+    "bertumbukan",
+    "menumbuk",
+    "menumbukkan",
+    "penumbuk",
+    "penumbukan",
+    "tertumbuk",
+    "tumbukan",
+    "ketumbukan"
+  ],
+  "gabunganKata": [
+    "tumbuk tanak",
+    "tumbuk lima"
+  ],
+  "peribahasa": [
+    "cencang putus, tiang tumbuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tum.buk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk melantak dan sebagainya supaya lumat hancur (seperti antan, anak gobek)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengupas atau menghaluskan dengan antan (bukan digiling): beras --"
+        }
+      ]
+    },
+    {
+      "lema": "tum.buk2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ketumbukan"
+        }
+      ]
+    },
+    {
+      "lema": "tum.buk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "persamaan frekuensi pada nada, senama antara slendro dan pelog pelengkapnya"
+        }
+      ]
+    }
+  ]
+}

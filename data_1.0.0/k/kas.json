@@ -1,0 +1,52 @@
+{
+  "istilah": "kas",
+  "entri": "kas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kas besar",
+    "kas harian",
+    "kas kecil",
+    "kas kurang",
+    "kas lebih",
+    "kas negara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menyimpan uang: uang iuran sudah dimasukkan ke dalam --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat membayar dan menerima uang: -- dibuka setiap hari dari pukul 08.00 hingga pukul 12.00"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluar masuknya uang: buku catatan --"
+        }
+      ]
+    },
+    {
+      "lema": "kas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peti kayu untuk mengirimkan barang: -- itu jangan dibuang karena akan dibuat kandang ayam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bak (wadah) tempat mesin arloji beserta tutupnya: kemarin arloji saya jatuh sehingga --nya retak"
+        }
+      ]
+    }
+  ]
+}

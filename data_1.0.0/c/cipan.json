@@ -1,0 +1,33 @@
+{
+  "istilah": "cipan",
+  "entri": "ci.pan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ci.pan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "senjata seperti kapak"
+        }
+      ]
+    },
+    {
+      "lema": "ci.pan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "badak tidak bercula; tapir; tenuk〔Tapirus indicus〕"
+        }
+      ]
+    }
+  ]
+}

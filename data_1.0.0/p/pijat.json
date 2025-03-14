@@ -1,0 +1,45 @@
+{
+  "istilah": "pijat",
+  "entri": "pi.jat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memijat",
+    "pemijat",
+    "pemijatan",
+    "pijatan",
+    "pijat-pijat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "karena pijat-pijat mati tuma; pijat-pijat menjadi kura-kura"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "pijět"
+  },
+  "data": [
+    {
+      "lema": "pi.jat1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tekan; pencet"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "urut; pijit"
+        }
+      ]
+    },
+    {
+      "lema": "pi.jat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pijat-pijat"
+        }
+      ]
+    }
+  ]
+}

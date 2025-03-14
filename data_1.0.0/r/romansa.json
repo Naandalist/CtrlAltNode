@@ -1,0 +1,28 @@
+{
+  "istilah": "romansa",
+  "entri": "ro.man.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.man.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "novel atau kisah prosa lainnya yang berciri khas tindakan kepahlawanan, kehebatan, dan keromantisan dengan latar historis atau imajiner"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "percintaan"
+        }
+      ]
+    }
+  ]
+}

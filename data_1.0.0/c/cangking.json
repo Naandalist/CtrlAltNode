@@ -1,0 +1,37 @@
+{
+  "istilah": "cangking",
+  "entri": "cang.king1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cangkingan",
+    "mencangking",
+    "pencangking"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menjinjing (tergantung), menarik, menyerek",
+    "kataAsal": "caṅkiṅ"
+  },
+  "data": [
+    {
+      "lema": "cang.king1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jinjing; bawa"
+        }
+      ]
+    },
+    {
+      "lema": "cang.king2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Gy[Gayo: -]",
+          "deskripsi": "duduk atau tidur sambil mengangkat kaki"
+        }
+      ]
+    }
+  ]
+}

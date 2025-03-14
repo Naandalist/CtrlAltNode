@@ -1,0 +1,38 @@
+{
+  "istilah": "dahan",
+  "entri": "da.han1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdahan",
+    "mendahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "baji dahan membelah dahan; dahan pembaji batang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.han1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabang batang pohon; bagian batang pohon yang tumbuh mencuat ke samping (beranting dan berdaun)"
+        }
+      ]
+    },
+    {
+      "lema": "da.han2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pendahan; lembing"
+        }
+      ]
+    }
+  ]
+}

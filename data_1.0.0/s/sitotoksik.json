@@ -1,0 +1,28 @@
+{
+  "istilah": "sitotoksik",
+  "entri": "si.to.tok.sik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.to.tok.sik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyebabkan kematian sel"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenan dengan obat yang mencegah pembelahan sel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "maksud",
+  "entri": "mak.sud",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermaksud",
+    "dimaksud",
+    "dimaksudkan",
+    "memaksudkan",
+    "termaksud"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "asing maksud, asing sampai; maksud bagai maksud manau"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hal yang dituju",
+    "kataAsal": "maqṣūd"
+  },
+  "data": [
+    {
+      "lema": "mak.sud",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dikehendaki; tujuan: telah tercapai --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "niat; kehendak: kami datang dengan -- baik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arti; makna (dari suatu perbuatan, perkataan, peristiwa, dan sebagainya): -- kalimat itu sudah jelas"
+        }
+      ]
+    }
+  ]
+}

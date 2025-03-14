@@ -1,0 +1,37 @@
+{
+  "istilah": "hidrometer",
+  "entri": "hid.ro.me.ter /hidrometêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hidrometer aki",
+    "hidrometer alkohol",
+    "hidrometer minyak",
+    "hidrometer tanah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hid.ro.me.ter /hidrometêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur kecepatan arus air yang mengalir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menimbang berat air, biasanya berupa batang kaca berongga dan berskala, yang akan terbenam sebagian dalam cairan; timbangan air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur berat jenis atau kepekatan air"
+        }
+      ]
+    }
+  ]
+}

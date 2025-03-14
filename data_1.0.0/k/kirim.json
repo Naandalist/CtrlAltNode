@@ -1,0 +1,44 @@
+{
+  "istilah": "kirim",
+  "entri": "ki.rim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkirim",
+    "berkirim-kiriman",
+    "berkiriman",
+    "kirim-berkirim",
+    "kirim-kirim",
+    "kirim-mengirim",
+    "kiriman",
+    "mengirim",
+    "mengirimi",
+    "mengirimkan",
+    "pengirim",
+    "pengiriman",
+    "perkiriman",
+    "terkirim",
+    "terkirimkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.rim",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "antar dengan perantara; sampaikan melalui"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -]",
+          "deskripsi": "mentransmisikan pesan atau berkas melalui saluran komunikasi"
+        }
+      ]
+    }
+  ]
+}

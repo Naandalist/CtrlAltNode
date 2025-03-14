@@ -1,0 +1,24 @@
+{
+  "istilah": "pemeriksa sintaks",
+  "entri": "periksa » pemeriksa » pemeriksa sintaks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "periksa » pemeriksa » pemeriksa sintaks",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "program untuk mengidentifikasi galat sintaks dalam bahasa pemrograman"
+        }
+      ]
+    }
+  ]
+}

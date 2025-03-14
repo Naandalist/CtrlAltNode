@@ -1,0 +1,39 @@
+{
+  "istilah": "memerah",
+  "entri": "merah1 » me.me.rah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "memerah keringat",
+    "memerah orang lain",
+    "memerah otak"
+  ],
+  "peribahasa": [
+    "memerah santan di kuku"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "merah1 » me.me.rah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi merah: besi yang dibakar itu mula-mula ~ kemudian lebur"
+        }
+      ]
+    },
+    {
+      "lema": "perah » me.me.rah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memeras (memijit) supaya keluar airnya: ~ kelapa memeras kelapa yang sudah dikukur supaya keluar santannya; ~ susu sapi"
+        }
+      ]
+    }
+  ]
+}

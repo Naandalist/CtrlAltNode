@@ -1,0 +1,51 @@
+{
+  "istilah": "lorong",
+  "entri": "lo.rong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melorongkan",
+    "berlorong"
+  ],
+  "gabunganKata": [
+    "lorong belalai",
+    "lorong bintang",
+    "lorong giring",
+    "lorong karpal",
+    "lorong samping"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "lurung"
+  },
+  "data": [
+    {
+      "lema": "lo.rong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan kecil (terutama yang ada rumah kiri-kanannya): di sepanjang -- itu banyak orang berjualan"
+        }
+      ]
+    },
+    {
+      "lema": "lo.rong2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berlorong"
+        }
+      ]
+    },
+    {
+      "lema": "lo.rong3",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] Mk[Minangkabau: -]",
+          "deskripsi": "tentang; mengenai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "rema",
+  "entri": "re.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "rambut (pada tubuh binatang dan manusia)",
+    "kataAsal": "roman"
+  },
+  "data": [
+    {
+      "lema": "re.ma1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rambut"
+        }
+      ]
+    },
+    {
+      "lema": "re.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bagian kalimat yang menyatakan gagasan, biasanya berupa predikat"
+        }
+      ]
+    }
+  ]
+}

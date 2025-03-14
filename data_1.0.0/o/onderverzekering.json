@@ -1,0 +1,33 @@
+{
+  "istilah": "onderverzekering",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "mengasuransikan barang di bawah harga yang sebenarnya dari barang itu dan jika terjadi kerusakan, yang ditanggung oleh perusahaan asuransi hanya sebesar yang dipertanggungkan"
+        }
+      ]
+    },
+    {
+      "lema": "onderverzekering",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "mengasuransikan barang di bawah harga yang sebenarnya dari barang itu dan jika terjadi kerusakan, yang ditanggung oleh perusahaan asuransi hanya sebesar yang dipertanggungkan"
+        }
+      ]
+    }
+  ]
+}

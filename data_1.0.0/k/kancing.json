@@ -1,0 +1,44 @@
+{
+  "istilah": "kancing",
+  "entri": "kan.cing",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkancing",
+    "mengancing",
+    "mengancingkan",
+    "pengancing",
+    "terkancing"
+  ],
+  "gabunganKata": [
+    "kancing baju",
+    "kancing bertangkai",
+    "kancing cina",
+    "kancing kait",
+    "kancing katup",
+    "kancing keping",
+    "kancing manset",
+    "kancing tarik",
+    "kancing tekan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ibu kunci, palang, grendel kunci",
+    "kataAsal": "kañciṅ"
+  },
+  "data": [
+    {
+      "lema": "kan.cing",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menutup bagian pakaian (baju, celana, dan sebagainya) yang harus ditutup; buah baju"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk merapatkan daun pintu, jendela, dan sebagainya sehingga tertutup erat dan terkunci"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "istilah": "lempung",
+  "entri": "lem.pung1 /lêmpung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lempung asam",
+    "lempung debuan",
+    "lempung kuning",
+    "lempung merah",
+    "lempung pasiran",
+    "lempung tahan api"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lembek, lunak, lembut",
+    "kataAsal": "lěmpuṅ"
+  },
+  "data": [
+    {
+      "lema": "lem.pung1 /lêmpung/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ringan (lunak) dan mudah patah (tentang kayu dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "lemah sekali; tidak berguna sedikit pun"
+        }
+      ]
+    },
+    {
+      "lema": "lem.pung2 /lêmpung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah pekat; tanah liat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "partikel tanah yang garis tengahnya 0,005 mm"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "batuan berwarna, terutama terdiri atas butir halus silikat alumina berair sebagai hasil pelapukan batuan felspar dan batuan silikat alumina lain"
+        }
+      ]
+    }
+  ]
+}

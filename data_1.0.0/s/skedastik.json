@@ -1,0 +1,28 @@
+{
+  "istilah": "skedastik",
+  "entri": "ske.das.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ske.das.tik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "distribusi galat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mat[Matematika: -]",
+          "deskripsi": "perihal distribusi galat"
+        }
+      ]
+    }
+  ]
+}

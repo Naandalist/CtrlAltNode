@@ -1,0 +1,56 @@
+{
+  "istilah": "popok",
+  "entri": "po.pok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpopok",
+    "popokan",
+    "memopok",
+    "memopokkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.pok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain alas bayi; lampin"
+        }
+      ]
+    },
+    {
+      "lema": "po.pok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "popokan"
+        }
+      ]
+    },
+    {
+      "lema": "po.pok3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemaluan anak perempuan"
+        }
+      ]
+    },
+    {
+      "lema": "po.pok4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "memopok"
+        }
+      ]
+    }
+  ]
+}

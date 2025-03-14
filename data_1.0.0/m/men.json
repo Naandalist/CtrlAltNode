@@ -1,0 +1,33 @@
+{
+  "istilah": "men",
+  "entri": "men1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "men1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "Resimen"
+        }
+      ]
+    },
+    {
+      "lema": "men2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] My[Muyu: -]",
+          "deskripsi": "rajut pengangkut"
+        }
+      ]
+    }
+  ]
+}

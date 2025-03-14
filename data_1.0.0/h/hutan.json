@@ -1,0 +1,105 @@
+{
+  "istilah": "hutan",
+  "entri": "hu.tan bentuk tidak baku: utan",
+  "bentukTidakBaku": "utan",
+  "kataTurunan": [
+    "berhutan",
+    "kehutanan",
+    "menghutan",
+    "menghutankan",
+    "penghutanan",
+    "perhutanan"
+  ],
+  "gabunganKata": [
+    "hutan adat",
+    "hutan alam",
+    "hutan asli",
+    "hutan bakau",
+    "hutan basah tropis",
+    "hutan batu kapur",
+    "hutan belantara",
+    "hutan belukar",
+    "hutan berdaun jarum",
+    "hutan besar",
+    "hutan beton",
+    "hutan boreal",
+    "hutan buatan",
+    "hutan campuran",
+    "hutan dataran rendah",
+    "hutan gambut",
+    "hutan hak",
+    "hutan heterogen",
+    "hutan homogen",
+    "hutan hujan",
+    "hutan hujan tropis",
+    "hutan industri",
+    "hutan karet",
+    "hutan kerangas",
+    "hutan klimaks",
+    "hutan komersial",
+    "hutan komunal",
+    "hutan konservasi",
+    "hutan koridor",
+    "hutan kota",
+    "hutan larangan",
+    "hutan lepas",
+    "hutan lindung",
+    "hutan monsun",
+    "hutan muda",
+    "hutan murni",
+    "hutan musim",
+    "hutan negara",
+    "hutan normal",
+    "hutan pantai",
+    "hutan pegunungan atas",
+    "hutan pegunungan rendah",
+    "hutan pegunungan tinggi",
+    "hutan perawan",
+    "hutan plantasi",
+    "hutan primer",
+    "hutan produksi",
+    "hutan rakyat",
+    "hutan rantau",
+    "hutan rawa",
+    "hutan rimba",
+    "hutan rontok",
+    "hutan sabana",
+    "hutan sekunder",
+    "hutan semak belukar",
+    "hutan suaka alam",
+    "hutan subalpin",
+    "hutan subtropis",
+    "hutan tanah",
+    "hutan tropis",
+    "hutan tua",
+    "hutan tutupan",
+    "hutan wisata"
+  ],
+  "peribahasa": [
+    "hutan sudah terambah, teratak sudah tertegak; ingin buah manggis hutan, masak ranum tergantung tinggi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hu.tan bentuk tidak baku: utan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah luas yang ditumbuhi pohon-pohon (biasanya tidak dipelihara orang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan yang tumbuh di atas tanah yang luas (biasanya di wilayah pegunungan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang tidak dipelihara orang; yang liar (tentang binatang dan sebagainya): ayam --; anjing --"
+        }
+      ]
+    }
+  ]
+}

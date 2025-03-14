@@ -1,0 +1,37 @@
+{
+  "istilah": "berganggang",
+  "entri": "ganggang1 » ber.gang.gang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ganggang1 » ber.gang.gang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berdiang; memanaskan diri (dekat api): karena tidak tahan udara dingin, ia ~ dekat api unggun itu"
+        }
+      ]
+    },
+    {
+      "lema": "ganggang2 » ber.gang.gang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bercelah; merenggang: sambungan kayu itu mulai ~ karena mengering"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bercerai (suami istri): suami istri itu kini sudah ~"
+        }
+      ]
+    }
+  ]
+}

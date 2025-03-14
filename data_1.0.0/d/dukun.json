@@ -1,0 +1,46 @@
+{
+  "istilah": "dukun",
+  "entri": "du.kun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdukun",
+    "mendukunkan",
+    "pendukunan",
+    "perdukunan"
+  ],
+  "gabunganKata": [
+    "dukun bayi",
+    "dukun beranak",
+    "dukun calak",
+    "dukun jampi",
+    "dukun japa",
+    "dukun klenik",
+    "dukun pangkeng",
+    "dukun santet",
+    "dukun siwer",
+    "dukun susuk",
+    "dukun tenung",
+    "dukun tiban"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dukun, ahli dalam resep magi (ramuan obat-obatan dan sebagainya)",
+    "kataAsal": "ḍukun"
+  },
+  "data": [
+    {
+      "lema": "du.kun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengobati, menolong orang sakit, memberi jampi-jampi (mantra, guna-guna, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin upacara agama Hindu Tengger; pandita; sulinggih"
+        }
+      ]
+    }
+  ]
+}

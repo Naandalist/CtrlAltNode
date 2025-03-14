@@ -1,0 +1,43 @@
+{
+  "istilah": "bera",
+  "entri": "be.ra1 /bêra/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memberakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kosong (tidak ditanami untuk tanah)",
+    "kataAsal": "běra"
+  },
+  "data": [
+    {
+      "lema": "be.ra1 /bêra/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merah redup (tentang cahaya); merah pucat (tentang muka); merah tua; merah kehitam-hitaman (seperti genting lama)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "malu: membuang -- membuang malu"
+        }
+      ]
+    },
+    {
+      "lema": "be.ra2 /bêra/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tidak ditanami selama beberapa waktu, dimaksudkan untuk memulihkan kesuburan tanah (tentang tanah pertanian atau sawah): sawah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tandus; kering; tidak subur (tentang tanah)"
+        }
+      ]
+    }
+  ]
+}

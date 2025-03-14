@@ -1,0 +1,36 @@
+{
+  "istilah": "kasip",
+  "entri": "ka.sip1 bentuk tidak baku: kasep1",
+  "bentukTidakBaku": "kasep1",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kasip bukit",
+    "kasip hutan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.sip1 bentuk tidak baku: kasep1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "terlambat; lewat waktu"
+        }
+      ]
+    },
+    {
+      "lema": "ka.sip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuh-tumbuhan, ada bermacam-macam"
+        }
+      ]
+    }
+  ]
+}

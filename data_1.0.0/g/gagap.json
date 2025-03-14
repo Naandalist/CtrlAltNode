@@ -1,0 +1,46 @@
+{
+  "istilah": "gagap",
+  "entri": "ga.gap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergagap-gagap",
+    "kegagapan",
+    "menggagap",
+    "tergagap",
+    "tergagap-gagap",
+    "menggagap"
+  ],
+  "gabunganKata": [
+    "gagap teknologi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.gap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gangguan bicara (kesalahan dalam ucapan dengan mengulang-ulang bunyi, suku kata, atau kata)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "kelainan wicara berupa pengulangan konsonan dan suku kata secara spasmodis karena gangguan psikofisiologis dan lebih banyak terjadi pada pria"
+        }
+      ]
+    },
+    {
+      "lema": "ga.gap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menggagap"
+        }
+      ]
+    }
+  ]
+}

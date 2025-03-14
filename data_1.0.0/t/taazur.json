@@ -1,0 +1,28 @@
+{
+  "istilah": "taazur",
+  "entri": "ta.a.zur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "halangan; alasan",
+    "kataAsal": "ta‘ażżur"
+  },
+  "data": [
+    {
+      "lema": "ta.a.zur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "terhalang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "halangan; uzur"
+        }
+      ]
+    }
+  ]
+}

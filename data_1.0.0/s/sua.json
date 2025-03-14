@@ -1,0 +1,39 @@
+{
+  "istilah": "sua",
+  "entri": "su.a1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersua",
+    "mempersuakan",
+    "menyua",
+    "persuaan",
+    "tersua"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.a1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyua"
+        }
+      ]
+    },
+    {
+      "lema": "su.a2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat bulu"
+        }
+      ]
+    }
+  ]
+}

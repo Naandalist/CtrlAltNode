@@ -1,0 +1,28 @@
+{
+  "istilah": "karbonat",
+  "entri": "kar.bo.nat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kar.bo.nat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mineral hasil senyawa antara karbon (C), oksigen (O₂), dan unsur lain, misalnya kalsit yang terdapat di dalam batuan gamping berupa stalaktit dan stalagmit (CaCO₃)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "garam yang mengandung ion CO₃"
+        }
+      ]
+    }
+  ]
+}

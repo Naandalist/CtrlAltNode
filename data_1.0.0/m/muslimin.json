@@ -1,0 +1,28 @@
+{
+  "istilah": "muslimin",
+  "entri": "mus.li.min",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang tunduk; orang yang beragama Islam",
+    "kataAsal": "muslimīn"
+  },
+  "data": [
+    {
+      "lema": "mus.li.min",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "para penganut agama Islam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laki-laki muslim"
+        }
+      ]
+    }
+  ]
+}

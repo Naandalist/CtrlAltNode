@@ -1,0 +1,48 @@
+{
+  "istilah": "langkap",
+  "entri": "lang.kap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melangkapkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.kap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon palem hutan, daunnya dapat dianyam untuk nyiru, badang, dan sebagainya〔Arenga obtusifolia〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun langkap"
+        }
+      ]
+    },
+    {
+      "lema": "lang.kap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepak tempat sirih, pinang, tembakau, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "lang.kap3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lalat; langau"
+        }
+      ]
+    }
+  ]
+}

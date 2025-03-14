@@ -1,0 +1,33 @@
+{
+  "istilah": "lio",
+  "entri": "lio1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "tempat pembakaran batu bata (genting)",
+    "kataAsal": "liâu"
+  },
+  "data": [
+    {
+      "lema": "lio1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(tempat) pembakaran batu bata (genting)"
+        }
+      ]
+    },
+    {
+      "lema": "Lio2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Li'o"
+        }
+      ]
+    }
+  ]
+}

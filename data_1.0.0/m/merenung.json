@@ -1,0 +1,37 @@
+{
+  "istilah": "merenung",
+  "entri": "renung1 » me.re.nung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "renung1 » me.re.nung",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memandang; menatap: ia tiada berani menentang mata A yang selalu ~nya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjenguk: ia ~ ke luar jendela"
+        }
+      ]
+    },
+    {
+      "lema": "renung2 » me.re.nung",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "diam memikirkan sesuatu; termenung; termangu: lama ia duduk ~"
+        }
+      ]
+    }
+  ]
+}

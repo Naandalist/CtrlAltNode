@@ -1,0 +1,40 @@
+{
+  "istilah": "remuk",
+  "entri": "re.muk1 /rêmuk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meremukkan",
+    "peremuk",
+    "peremukan"
+  ],
+  "gabunganKata": [
+    "remuk redam",
+    "remuk rengsa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.muk1 /rêmuk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hancur luluh; luluh lantak; hancur berkeping-keping: piring yang dibantingnya itu --"
+        }
+      ]
+    },
+    {
+      "lema": "re.muk2 /rêmuk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengecilkan ukuran dengan menggunakan gaya bentur, gaya tekan, gaya tarik, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "pengodean",
+  "entri": "kode » pe.ngo.de.an bentuk tidak baku: pengkodean",
+  "bentukTidakBaku": "pengkodean",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pengodean batang",
+    "pengodean deteksi galat",
+    "pengodean koreksi galat",
+    "pengodean program"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kode » pe.ngo.de.an bentuk tidak baku: pengkodean",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "proses penulisan algoritma atau prosedur pemecahan masalah ke dalam bahasa pemrograman komputer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, cara, perbuatan mengodekan"
+        }
+      ]
+    }
+  ]
+}

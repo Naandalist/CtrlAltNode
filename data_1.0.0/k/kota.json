@@ -1,0 +1,104 @@
+{
+  "istilah": "kota",
+  "entri": "ko.ta1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkota",
+    "kekota-kotaan",
+    "kekotaan",
+    "mengota",
+    "mengotai",
+    "mengotakan",
+    "pengotaan",
+    "perkotaan",
+    "mengotakan"
+  ],
+  "gabunganKata": [
+    "kota administratif",
+    "Kota Bahari",
+    "Kota Baja",
+    "Kota Batik",
+    "Kota Bawang",
+    "Kota Buaya",
+    "Kota Dodol",
+    "Kota Domba",
+    "kota gerbang",
+    "Kota Getuk",
+    "Kota Gudeg",
+    "Kota Gurindam",
+    "kota hantu",
+    "Kota Hujan",
+    "kota industri",
+    "Kota Intan",
+    "kota jasa",
+    "Kota Kain Tapis",
+    "Kota Kaledo",
+    "Kota Kembang",
+    "Kota Khatulistiwa",
+    "kota kosmopolitan",
+    "Kota Kretek",
+    "Kota Lumpia",
+    "kota madya",
+    "Kota Mangga",
+    "kota megalopolitan",
+    "kota megapolitan",
+    "kota metropolitan",
+    "Kota Pahlawan",
+    "Kota Patriot",
+    "kota pelabuhan",
+    "Kota Pelajar",
+    "kota perdagangan",
+    "kota pinggiran",
+    "kota praja",
+    "Kota Proklamator",
+    "kota pusat religi",
+    "Kota Santri",
+    "kota satelit",
+    "kota sepeda",
+    "Kota Serambi Madinah",
+    "Kota Serambi Mekah",
+    "Kota Seribu Sungai",
+    "kota suci",
+    "Kota Telur Asin",
+    "Kota Tepian",
+    "Kota Tinutuan",
+    "Kota Udang",
+    "Kota Wali"
+  ],
+  "peribahasa": [
+    "merawal memulang bukit, cerana menengah kota"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cari:",
+    "kataAsal": "kūṭa"
+  },
+  "data": [
+    {
+      "lema": "ko.ta1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah permukiman yang terdiri atas bangunan rumah yang merupakan kesatuan tempat tinggal dari berbagai lapisan masyarakat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dem[Demografi: -]",
+          "deskripsi": "daerah pemusatan penduduk dengan kepadatan tinggi serta fasilitas modern dan sebagian besar penduduknya bekerja di luar pertanian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dem[Demografi: -]",
+          "deskripsi": "dinding (tembok) yang mengelilingi tempat pertahanan"
+        }
+      ]
+    },
+    {
+      "lema": "ko.ta2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengotakan"
+        }
+      ]
+    }
+  ]
+}

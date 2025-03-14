@@ -1,0 +1,41 @@
+{
+  "istilah": "dusun",
+  "entri": "du.sun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pedusunan"
+  ],
+  "gabunganKata": [
+    "dusun pengasihan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dusun, desa, kampung, daerah luar kota, wilayah; (terutama jika rangkap) dari pedusunan (pedesaan, pedalaman)",
+    "kataAsal": "ḍusun"
+  },
+  "data": [
+    {
+      "lema": "du.sun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kampung; desa; dukuh"
+        }
+      ]
+    },
+    {
+      "lema": "Du.sun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Pasir, Kalimantan Timur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh Suku Dusun"
+        }
+      ]
+    }
+  ]
+}

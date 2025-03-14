@@ -1,0 +1,83 @@
+{
+  "istilah": "wali",
+  "entri": "wa.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kewalian",
+    "memperwalikan",
+    "mewalikan",
+    "perwalian"
+  ],
+  "gabunganKata": [
+    "wali Allah",
+    "wali hakim",
+    "wali kelas",
+    "wali kota",
+    "wali mujbir",
+    "wali murid",
+    "wali negara",
+    "wali negeri",
+    "wali rumah",
+    "wali sanga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "teman; orang dekat; kekasih Allah",
+    "kataAsal": "walī"
+  },
+  "data": [
+    {
+      "lema": "wa.li1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menurut hukum (agama, adat) diserahi kewajiban mengurus anak yatim serta hartanya, sebelum anak itu dewasa: penjualan tanah itu tidak dapat disahkan karena pemiliknya belum dewasa dan --nya tidak menyetujuinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menjadi penjamin dalam pengurusan dan pengasuhan anak: yang menjadi -- anak tersebut adalah pamannya karena anak itu tinggal bersama pamannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memiliki wewenang untuk menikahkan seorang perempuan, baik gadis maupun janda: yang menjadi -- dalam pernikahan anak  perempuan itu adalah ayahnya sendiri; karena ayahnya telah meninggal, maka saudara laki-lakinya yang menjadi -- dalam pernikahan anak perempuan itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang saleh (suci); penyebar agama: -- sanga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala pemerintah dan sebagainya: -- negeri"
+        }
+      ]
+    },
+    {
+      "lema": "wa.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kain kuning yang dilekatkan pada bahu pejabat istana yang melaksanakan upacara kerajaan"
+        }
+      ]
+    },
+    {
+      "lema": "wa.li3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pisau kecil untuk mengukir kayu dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "wa.li4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ rajawali"
+        }
+      ]
+    }
+  ]
+}

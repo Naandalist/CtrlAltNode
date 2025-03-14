@@ -1,0 +1,36 @@
+{
+  "istilah": "judul",
+  "entri": "ju.dul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjudul",
+    "menjuduli"
+  ],
+  "gabunganKata": [
+    "judul akuan",
+    "judul bawah",
+    "judul berita",
+    "judul prancis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tabel dalam buku; rajah",
+    "kataAsal": "jadwal"
+  },
+  "data": [
+    {
+      "lema": "ju.dul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama yang dipakai untuk buku atau bab dalam buku yang dapat menyiratkan secara pendek isi atau maksud buku atau bab itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala karangan (cerita, drama, dan sebagainya); tajuk"
+        }
+      ]
+    }
+  ]
+}

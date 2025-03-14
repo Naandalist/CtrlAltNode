@@ -1,0 +1,48 @@
+{
+  "istilah": "simpan",
+  "entri": "sim.pan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersimpan",
+    "menyimpan",
+    "menyimpani",
+    "menyimpankan",
+    "penyimpan",
+    "penyimpanan",
+    "simpanan",
+    "tersimpan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "tahu makan, tahu simpan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dikumpulkan dalam ruang terbatas, dikelompokkan bersama, dimampatkan, dalam jumlah terbatas, berisi keperluan pokok; menyimpan; menyembunyikan",
+    "kataAsal": "simpěn"
+  },
+  "data": [
+    {
+      "lema": "sim.pan1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyimpan"
+        }
+      ]
+    },
+    {
+      "lema": "sim.pan2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "singkat; pendek (tentang cerita, pembicaraan, dan sebagainya); ringkas: risalah yang --; mengambil -- meringkaskan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "terkemas (tentang barang dagangan dan sebagainya); beres"
+        }
+      ]
+    }
+  ]
+}

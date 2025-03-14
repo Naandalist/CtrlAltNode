@@ -1,0 +1,32 @@
+{
+  "istilah": "terbaca",
+  "entri": "baca » ter.ba.ca",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "baca » ter.ba.ca",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "telah dibaca"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat dibaca"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "dapat diramalkan atau diketahui (tentang sesuatu yang tersirat di balik yang tersurat)"
+        }
+      ]
+    }
+  ]
+}

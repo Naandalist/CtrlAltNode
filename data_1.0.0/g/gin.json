@@ -1,0 +1,33 @@
+{
+  "istilah": "gin",
+  "entri": "gin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "mesin untuk memisahkan serat kapas dari bijinya"
+        }
+      ]
+    },
+    {
+      "lema": "gin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "minuman beralkohol yang dibuat dengan cara menyuling ekstrak fermentasi bijian"
+        }
+      ]
+    }
+  ]
+}

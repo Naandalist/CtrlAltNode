@@ -1,0 +1,40 @@
+{
+  "istilah": "riba",
+  "entri": "ri.ba1",
+  "bentukTidakBaku": "rubiah2",
+  "kataTurunan": [
+    "meriba",
+    "ribaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penambahan; bunga yang diharamkan",
+    "kataAsal": "ribā"
+  },
+  "data": [
+    {
+      "lema": "ri.ba1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pangku"
+        }
+      ]
+    },
+    {
+      "lema": "ri.ba2 bentuk tidak baku: rubiah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelepas uang; lintah darat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunga uang; rente"
+        }
+      ]
+    }
+  ]
+}

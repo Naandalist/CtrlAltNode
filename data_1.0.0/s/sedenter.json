@@ -1,0 +1,32 @@
+{
+  "istilah": "sedenter",
+  "entri": "se.den.ter bentuk tidak baku: sedentair",
+  "bentukTidakBaku": "sedentair",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.den.ter bentuk tidak baku: sedentair",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat menetap; tidak berpindah-pindah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan banyak duduk dan sedikit berolahraga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang banyak duduk dan sedikit aktivitas fisik"
+        }
+      ]
+    }
+  ]
+}

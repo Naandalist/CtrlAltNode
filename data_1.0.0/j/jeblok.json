@@ -1,0 +1,47 @@
+{
+  "istilah": "jeblok",
+  "entri": "jeb.lok1 /jêblok/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terjeblok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jeb.lok1 /jêblok/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "becek; berlumpur"
+        }
+      ]
+    },
+    {
+      "lema": "jeb.lok2 /jêblok/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jatuh"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "turun (tentang harga, nilai); anjlok: harga gabah --, menyebabkan kehidupan petani bertambah sulit"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "rugi; bangkrut: bank itu -- karena bermain valuta asing"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "turun dari posisi semula: tiba-tiba daerah itu -- menjadi kantong kemiskinan"
+        }
+      ]
+    }
+  ]
+}

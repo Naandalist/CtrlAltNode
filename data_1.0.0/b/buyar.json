@@ -1,0 +1,34 @@
+{
+  "istilah": "buyar",
+  "entri": "bu.yar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membuyarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "terlepas, terurai (rambut)",
+    "kataAsal": "buyar"
+  },
+  "data": [
+    {
+      "lema": "bu.yar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengalir atau meresap mengembang (seperti tinta pada kertas yang kurang baik)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terserak; tercerai; berantakan (tentang awan, barang-barang yang berkumpul, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak terpusat lagi (tentang pikiran)"
+        }
+      ]
+    }
+  ]
+}

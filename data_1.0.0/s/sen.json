@@ -1,0 +1,36 @@
+{
+  "istilah": "sen",
+  "entri": "sen1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sen-senan",
+    "senan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan uang senilai 1/100 dari nilai satuannya, seperti rupiah, dolar Amerika, dolar Australia, ringgit Malaysia"
+        }
+      ]
+    },
+    {
+      "lema": "sen2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sein"
+        }
+      ]
+    }
+  ]
+}

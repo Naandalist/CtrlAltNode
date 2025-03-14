@@ -1,0 +1,34 @@
+{
+  "istilah": "encik",
+  "entri": "en.cik /êncik/bentuk tidak baku: ci2",
+  "bentukTidakBaku": "ci2",
+  "kataTurunan": [
+    "berencik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "paman; adik laki-laki ayah",
+    "kataAsal": "án chek"
+  },
+  "data": [
+    {
+      "lema": "en.cik /êncik/bentuk tidak baku: ci2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada laki-laki atau perempuan yang berkedudukan sedang atau yang tidak dikenal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada guru perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kakak"
+        }
+      ]
+    }
+  ]
+}

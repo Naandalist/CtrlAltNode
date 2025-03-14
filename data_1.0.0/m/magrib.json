@@ -1,0 +1,36 @@
+{
+  "istilah": "magrib",
+  "entri": "mag.rib bentuk tidak baku: menggerib, maghrib, mahrib",
+  "bentukTidakBaku": "menggerib, maghrib, mahrib",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "arah barat; tempat atau waktu matahari terbenam",
+    "kataAsal": "magrib"
+  },
+  "data": [
+    {
+      "lema": "mag.rib bentuk tidak baku: menggerib, maghrib, mahrib",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arah barat matahari terbenam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu matahari terbenam: ia tiba di Jakarta menjelang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu salat wajib menjelang matahari terbenam sampai lenyapnya sinar merah di ufuk barat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "(ditulis dengan huruf awal kapital) salat wajib sebanyak tiga rakaat pada waktu menjelang matahari terbenam sampai lenyapnya sinar merah di ufuk barat"
+        }
+      ]
+    }
+  ]
+}

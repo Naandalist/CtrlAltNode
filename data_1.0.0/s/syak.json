@@ -1,0 +1,33 @@
+{
+  "istilah": "syak",
+  "entri": "syak bentuk tidak baku: sak2",
+  "bentukTidakBaku": "sak2",
+  "kataTurunan": [
+    "mensyaki"
+  ],
+  "gabunganKata": [
+    "syak hati",
+    "syak wasangka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "keraguan",
+    "kataAsal": "syakk"
+  },
+  "data": [
+    {
+      "lema": "syak bentuk tidak baku: sak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rasa kurang percaya (sangsi, curiga, tidak yakin, ragu-ragu): menaruh --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang percaya, ragu, curiga, tidak yakin, ragu-ragu: jangan -- lagi; tidak -- lagi [1] yakin benar [2] tentu"
+        }
+      ]
+    }
+  ]
+}

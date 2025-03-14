@@ -1,0 +1,33 @@
+{
+  "istilah": "wulung",
+  "entri": "wu.lung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wu.lung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "biru kehitam-hitaman"
+        }
+      ]
+    },
+    {
+      "lema": "wu.lung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "elang"
+        }
+      ]
+    }
+  ]
+}

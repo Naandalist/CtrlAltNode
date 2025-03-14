@@ -1,0 +1,33 @@
+{
+  "istilah": "joting",
+  "entri": "jo.ting1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jo.ting1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "nyanyian Batak"
+        }
+      ]
+    },
+    {
+      "lema": "jo.ting2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "titik panduan penulisan teks"
+        }
+      ]
+    }
+  ]
+}

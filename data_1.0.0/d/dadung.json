@@ -1,0 +1,42 @@
+{
+  "istilah": "dadung",
+  "entri": "da.dung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdadung",
+    "mendadung",
+    "mendadungkan",
+    "mendadung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tali besar",
+    "kataAsal": "ḍaḍun"
+  },
+  "data": [
+    {
+      "lema": "da.dung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dendang"
+        }
+      ]
+    },
+    {
+      "lema": "da.dung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali besar (untuk menambat kerbau, lembu, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "tali besar untuk menambatkan kapal"
+        }
+      ]
+    }
+  ]
+}

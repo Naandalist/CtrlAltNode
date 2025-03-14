@@ -1,0 +1,46 @@
+{
+  "istilah": "robok",
+  "entri": "ro.bok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merobok",
+    "bersirobok",
+    "merobok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.bok1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "merobok"
+        }
+      ]
+    },
+    {
+      "lema": "ro.bok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bersirobok"
+        }
+      ]
+    },
+    {
+      "lema": "ro.bok3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "merobok"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "sedan",
+  "entri": "se.dan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersedan-sedan",
+    "tersedan-sedan"
+  ],
+  "gabunganKata": [
+    "sedan konvertibel",
+    "sedan sedu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.dan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kendaraan bermotor yang tertutup, beroda empat, berpintu dua atau empat, beratap, dengan tempat duduk untuk empat sampai lima orang"
+        }
+      ]
+    },
+    {
+      "lema": "se.dan /sêdan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suara tertahan-tahan (seperti pada orang yang lama menangis); isak"
+        }
+      ]
+    }
+  ]
+}

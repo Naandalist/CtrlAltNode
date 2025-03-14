@@ -1,0 +1,32 @@
+{
+  "istilah": "respirasi",
+  "entri": "res.pi.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "respirasi aerob",
+    "respirasi anaerob",
+    "respirasi seluler"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "res.pi.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "kegiatan memasukkan dan mengeluarkan udara ke dalam dan dari paru-paru; pernapasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pengikatan oksigen oleh butir-butir darah untuk penyediaan bahan bagi seluruh tubuh melalui permukaan alat pernapasan (paru-paru, insang) pada binatang sekaligus mengeluarkan karbon dioksida"
+        }
+      ]
+    }
+  ]
+}

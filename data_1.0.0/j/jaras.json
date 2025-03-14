@@ -1,0 +1,47 @@
+{
+  "istilah": "jaras",
+  "entri": "ja.ras",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjaras",
+    "sejaras"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "jaras dikatakan raga jarang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.ras",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tj[Tunjung: bahasa di Kalimantan Timur]",
+          "deskripsi": "hutan yang gersang"
+        }
+      ]
+    },
+    {
+      "lema": "ja.ras1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sejaras"
+        }
+      ]
+    },
+    {
+      "lema": "ja.ras2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keranjang yang terbuat dari tali bambu yang jarang anyamannya, digunakan untuk menjinjing"
+        }
+      ]
+    }
+  ]
+}

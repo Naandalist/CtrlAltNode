@@ -1,0 +1,42 @@
+{
+  "istilah": "pupur",
+  "entri": "pu.pur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpupur",
+    "memupuri",
+    "memupurkan",
+    "pemupuran",
+    "memupur"
+  ],
+  "gabunganKata": [
+    "pupur ayam",
+    "pupur puyuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bedak, wangi-wangian tepung beras putih digunakan sebagai bahan kecantikan",
+    "kataAsal": "pupur"
+  },
+  "data": [
+    {
+      "lema": "pu.pur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bedak: kulitnya yang kuning langsat tidak membutuhkan polesan --"
+        }
+      ]
+    },
+    {
+      "lema": "pu.pur2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berguling-guling dan berkepak-kepak di atas tanah atau pasir (tentang ayam, puyuh, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

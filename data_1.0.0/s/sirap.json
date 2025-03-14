@@ -1,0 +1,36 @@
+{
+  "istilah": "sirap",
+  "entri": "si.rap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyirapkan",
+    "tersirap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.rap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepingan papan tipis-tipis, biasanya dibuat dari kayu besi atau kayu ulin, dipakai untuk atap, dinding rumah, dan sebagainya: rumah itu tidak beratap genting, tetapi beratap --"
+        }
+      ]
+    },
+    {
+      "lema": "si.rap2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyirapkan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "mungkir",
+  "entri": "mung.kir bentuk tidak baku: pungkir, ungkir",
+  "bentukTidakBaku": "pungkir, ungkir",
+  "kataTurunan": [
+    "memungkiri",
+    "pemungkir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang membantah",
+    "kataAsal": "munkir"
+  },
+  "data": [
+    {
+      "lema": "mung.kir bentuk tidak baku: pungkir, ungkir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak mengaku(i); tidak mengiakan: ia tetap -- atas tuduhan yang ditimpakan kepadanya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak setia; tidak menepati (janji); menolak; menyangkal: -- akan janjinya"
+        }
+      ]
+    }
+  ]
+}

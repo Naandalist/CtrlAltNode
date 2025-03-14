@@ -1,0 +1,50 @@
+{
+  "istilah": "gagang",
+  "entri": "ga.gang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergagang"
+  ],
+  "gabunganKata": [
+    "gagang pena",
+    "gagang pisau",
+    "gagang pistol",
+    "gagang senapan",
+    "gagang telepon"
+  ],
+  "peribahasa": [
+    "sirih pulang ke gagang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.gang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangkai (daun, bunga, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hulu (pisau, golok, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "batang tumbuh-tumbuhan yang menjalar atau melilit (seperti sirih); sulur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -] Bot[Botani: -]",
+          "deskripsi": "tangkai utama perbungaan atau bunga tunggal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "tempat stik yang dipegang (tentang hoki)"
+        }
+      ]
+    }
+  ]
+}

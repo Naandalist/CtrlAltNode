@@ -1,0 +1,28 @@
+{
+  "istilah": "rotor",
+  "entri": "ro.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "cakram beserta seperangkat kontak masukan dan keluaran yang disambung sesuai dengan cara yang telah diatur sebelumnya, dan dirancang untuk berputar dalam mesin sandi elektris"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bagian yang berputar dalam mesin"
+        }
+      ]
+    }
+  ]
+}

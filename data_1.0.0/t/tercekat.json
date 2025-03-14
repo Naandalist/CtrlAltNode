@@ -1,0 +1,37 @@
+{
+  "istilah": "tercekat",
+  "entri": "cekat1 » ter.ce.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cekat1 » ter.ce.kat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "paling cekat"
+        }
+      ]
+    },
+    {
+      "lema": "cekat2 » ter.ce.kat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tersentak karena terkejut mendengar berita, melihat kejadian, membaca tulisan, dan sebagainya yang mendorong emosi tinggi dan sentimen yang kuat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tertahan (tentang suara)"
+        }
+      ]
+    }
+  ]
+}

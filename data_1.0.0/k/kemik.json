@@ -1,0 +1,35 @@
+{
+  "istilah": "kemik",
+  "entri": "ke.mik1 /kêmik/",
+  "bentukTidakBaku": "kemak-kemik",
+  "kataTurunan": [
+    "kemak-kemik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.mik1 /kêmik/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penyok; lekuk: mobil itu -- tersenggol truk"
+        }
+      ]
+    },
+    {
+      "lema": "ke.mik2 /kêmik/bentuk tidak baku: kemak-kemik",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kemak-kemik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "merapat",
+  "entri": "rapat1 » me.ra.pat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "merapat naik",
+    "merapat turun"
+  ],
+  "peribahasa": [
+    "merapat sambil berlayar (berlayar sambil memapan)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rapat1 » me.ra.pat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi rapat; mendekat: ia duduk ~ ke ayahnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlabuh dekat pangkalan dan sebagainya: perlahan-lahan perahu itu pun ~lah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi (berusaha) supaya akrab, erat (tentang persahabatan): keluarga yang berselisih itu mulai ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bio[Biologi: -]",
+          "deskripsi": "tumbuh dekat secara menyeluruh pada sumbu sambil menuju ke atas atau menaik dengan sudut kurang dari 15°"
+        }
+      ]
+    }
+  ]
+}

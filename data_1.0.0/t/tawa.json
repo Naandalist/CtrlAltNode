@@ -1,0 +1,43 @@
+{
+  "istilah": "tawa",
+  "entri": "ta.wa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketawa",
+    "menertawakan",
+    "mentertawai",
+    "mentertawakan",
+    "penertawaan",
+    "pentertawaan",
+    "tertawa",
+    "tertawa-tawa",
+    "tertawaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.wa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ungkapan rasa gembira, senang, geli, dan sebagainya dengan mengeluarkan suara (pelan, sedang, keras) melalui alat ucap: -- dan tangis terdengar silih berganti dalam pertemuan keluarga yang sudah bertahun-tahun berpisah itu"
+        }
+      ]
+    },
+    {
+      "lema": "ta.wa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "mantra dalam bahasa Minangkabau"
+        }
+      ]
+    }
+  ]
+}

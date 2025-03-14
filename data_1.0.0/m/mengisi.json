@@ -1,0 +1,33 @@
+{
+  "istilah": "mengisi",
+  "entri": "isi » meng.i.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mengisi adat",
+    "mengisi waktu"
+  ],
+  "peribahasa": [
+    "mengisi gantang pesuk; mengisi perian bubus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "isi » meng.i.si",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberi isi; memasukkan sesuatu ke dalam: kakak ~ termos dengan air panas"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -]",
+          "deskripsi": "mengirim berkas, data, atau program dari tempat penyimpanan komputer induk ke sekunder agar dapat dijalankan"
+        }
+      ]
+    }
+  ]
+}

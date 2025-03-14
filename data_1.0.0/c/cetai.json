@@ -1,0 +1,36 @@
+{
+  "istilah": "cetai",
+  "entri": "ce.tai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercetai-cetai",
+    "mencetai-cetai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.tai",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencuri secara bertahap agar si pemilik tidak menyadari kepunyaannya dicuri"
+        }
+      ]
+    },
+    {
+      "lema": "ce.tai /cêtai/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "robek, koyak"
+        }
+      ]
+    }
+  ]
+}

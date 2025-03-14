@@ -1,0 +1,33 @@
+{
+  "istilah": "menggolong",
+  "entri": "golong1 » meng.go.long",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "golong1 » meng.go.long",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi kelompok-kelompok"
+        }
+      ]
+    },
+    {
+      "lema": "golong2 » meng.go.long",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menindas: bukan buat menolong, tetapi hendak ~"
+        }
+      ]
+    }
+  ]
+}

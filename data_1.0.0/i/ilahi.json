@@ -1,0 +1,30 @@
+{
+  "istilah": "ilahi",
+  "entri": "I.la.hi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keilahian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang berkaitan dengan yang disembah",
+    "kataAsal": "ilāhī"
+  },
+  "data": [
+    {
+      "lema": "I.la.hi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Tuhanku: aku memohon ampun kepada --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat ketuhanan"
+        }
+      ]
+    }
+  ]
+}

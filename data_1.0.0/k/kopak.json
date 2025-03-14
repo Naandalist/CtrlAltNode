@@ -1,0 +1,64 @@
+{
+  "istilah": "kopak",
+  "entri": "ko.pak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengopak",
+    "mengopak",
+    "mengopak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.pak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kopok1"
+        }
+      ]
+    },
+    {
+      "lema": "ko.pak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kupas; kubak"
+        }
+      ]
+    },
+    {
+      "lema": "ko.pak3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "patah; rusak"
+        }
+      ]
+    },
+    {
+      "lema": "ko.pak4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "peti kecil tempat menyimpan pakaian"
+        }
+      ]
+    },
+    {
+      "lema": "ko.pak5",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tumbuh; bangkit"
+        }
+      ]
+    }
+  ]
+}

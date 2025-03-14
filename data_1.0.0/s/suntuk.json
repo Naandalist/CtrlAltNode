@@ -1,0 +1,48 @@
+{
+  "istilah": "suntuk",
+  "entri": "sun.tuk1",
+  "bentukTidakBaku": "sontok3",
+  "kataTurunan": [
+    "tersuntuk",
+    "kesuntukan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sun.tuk1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sudah sampai pada batasnya (hingga tidak dapat maju, lanjut, atau naik lagi)"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "telah lampau atau habis (tentang waktu): telah -- waktunya"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "larut atau jauh (tentang malam): -- malam baru ia kembali"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sepanjang (hari, malam, dan sebagainya): semalam --"
+        }
+      ]
+    },
+    {
+      "lema": "sun.tuk2 bentuk tidak baku: sontok3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "pendek (tentang akal, pikiran, dan sebagainya); singkat; picik: -- akal; -- pikiran"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "istilah": "sangga",
+  "entri": "sang.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersangga",
+    "bersanggakan",
+    "menyangga",
+    "penyangga",
+    "penyanggaan"
+  ],
+  "gabunganKata": [
+    "sangga buana",
+    "sangga bunuh",
+    "sangga galah",
+    "sangga langit",
+    "sangga layar",
+    "sangga mara",
+    "sangga pedang",
+    "sangga kerja"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sang.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang digunakan untuk menyangga (menopang dan sebagainya); penyangga; penopang"
+        }
+      ]
+    },
+    {
+      "lema": "sang.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "ukuran banyaknya padi yang sama dengan lima ikat: di lumbung masih terdapat sepuluh -- padi"
+        }
+      ]
+    },
+    {
+      "lema": "sang.ga3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Prm[Pramuka: Usulan untuk penambahan bidang baru]",
+          "deskripsi": "satuan terkecil dalam pramuka yang terdiri atas 5 – 10 orang"
+        }
+      ]
+    }
+  ]
+}

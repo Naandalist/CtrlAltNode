@@ -1,0 +1,28 @@
+{
+  "istilah": "stratum",
+  "entri": "stra.tum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "stra.tum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "lapisan batuan atau tanah yang setiap lapisannya dapat dibedakan satu dari yang lain karena proses pembentukannya, umurnya, susunannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "lapisan batuan sedimen yang dapat dibedakan dengan jelas dari lapisan di atas dan di bawahnya melalui ciri-cirinya yang khas (komposisi, fosil) dalam keadaan aslinya, dan yang selalu bersifat horizontal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "definisi",
+  "entri": "de.fi.ni.si bentuk tidak baku: defenisi",
+  "bentukTidakBaku": "defenisi",
+  "kataTurunan": [
+    "berdefinisi",
+    "mendefinisikan",
+    "pendefinisian",
+    "terdefinisi",
+    "terdefinisikan"
+  ],
+  "gabunganKata": [
+    "definisi berputar",
+    "definisi biverbal",
+    "definisi demonstratif",
+    "definisi melingkar",
+    "definisi metaforis",
+    "definisi nominal",
+    "definisi ostensif",
+    "definisi riel",
+    "definisi sinonim",
+    "definisi tinggi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.fi.ni.si bentuk tidak baku: defenisi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata, frasa, atau kalimat yang mengungkapkan makna, keterangan, atau ciri utama dari orang, benda, proses, atau aktivitas; batasan (arti)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumusan tentang ruang lingkup dan ciri-ciri suatu konsep yang menjadi pokok pembicaraan atau studi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "tingkat kejelasan (ketajaman dan kontras) gambar"
+        }
+      ]
+    }
+  ]
+}

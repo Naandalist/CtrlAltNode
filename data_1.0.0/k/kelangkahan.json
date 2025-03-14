@@ -1,0 +1,36 @@
+{
+  "istilah": "kelangkahan",
+  "entri": "langkah » ke.lang.kah.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "langkah » ke.lang.kah.an",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "didahului kawin (memperoleh sesuatu dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "terlangkahi (sudah dilangkahi); terlalui (sudah dilalui)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kalah dari istri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "laki-laki yang istrinya bermukah"
+        }
+      ]
+    }
+  ]
+}

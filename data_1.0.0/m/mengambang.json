@@ -1,0 +1,58 @@
+{
+  "istilah": "mengambang",
+  "entri": "ambang1 » meng.am.bang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ambang1 » meng.am.bang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghalangi; merintangi; menahan"
+        }
+      ]
+    },
+    {
+      "lema": "ambang2 » meng.am.bang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berada di permukaan air; mengapung; terapung; terapung-apung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tidak jelas; tidak mengena: kesimpulan yang dibuatnya terlalu ~"
+        }
+      ]
+    },
+    {
+      "lema": "kambang » me.ngam.bang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengapung di air; tidak tenggelam: setelah dua hari mayat nelayan yang terbawa banjir itu tampak ~ di muara"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terkatung(-katung) di udara: makin lama makin malam dan bulan pun ~ kian bertambah tinggi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tidak tetap (tentu): nilai rupiah dibiarkan ~; pikirannya ~, tidak tentu yang dipikirkan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tidak masuk ke suatu golongan (partai, dan sebagainya): massa ~"
+        }
+      ]
+    }
+  ]
+}

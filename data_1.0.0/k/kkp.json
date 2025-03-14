@@ -1,0 +1,33 @@
+{
+  "istilah": "kkp",
+  "entri": "KKP1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "KKP1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gz[Ilmu Gizi: ] sing[singkatan]",
+          "deskripsi": "kurang kalori protein"
+        }
+      ]
+    },
+    {
+      "lema": "KKP2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Kementerian Kelautan dan Perikanan"
+        }
+      ]
+    }
+  ]
+}

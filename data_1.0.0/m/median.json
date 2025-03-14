@@ -1,0 +1,50 @@
+{
+  "istilah": "median",
+  "entri": "me.di.an1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.di.an1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "nilai di tengah deret nilai yang disusun dengan tata urut dari kecil sampai besar, misalnya dalam deret 3,4,7 mediannya adalah 4"
+        }
+      ]
+    },
+    {
+      "lema": "me.di.an2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran antara yang kecil (pendek dan sebagainya) dan yang besar (tinggi, panjang); sedang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran untuk huruf yang berukuran sedang (11 titik): huruf --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran kertas (47 x 56 cm)"
+        }
+      ]
+    },
+    {
+      "lema": "me.di.an3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lahan memanjang yang memisahkan dua jalan dengan arah yang berlawanan"
+        }
+      ]
+    }
+  ]
+}

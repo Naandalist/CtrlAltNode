@@ -1,0 +1,39 @@
+{
+  "istilah": "foil",
+  "entri": "fo.il1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "foil aluminium"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fo.il1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "logam berupa lembaran yang sangat tipis dan fleksibel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "logam tipis, berwarna perak, biasa ditempel di belakang cermin"
+        }
+      ]
+    },
+    {
+      "lema": "fo.il2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pedang yang digunakan dalam anggar"
+        }
+      ]
+    }
+  ]
+}

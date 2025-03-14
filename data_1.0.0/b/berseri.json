@@ -1,0 +1,41 @@
+{
+  "istilah": "berseri",
+  "entri": "seri1 » ber.se.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "seri1 » ber.se.ri",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bercahaya; bersemarak; tampak elok (indah): istana itu indah ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tampak ceria atau cerah (tentang air muka): mukanya ~"
+        }
+      ]
+    },
+    {
+      "lema": "seri2 » ber.se.ri",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersambungan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bernomor urut"
+        }
+      ]
+    }
+  ]
+}

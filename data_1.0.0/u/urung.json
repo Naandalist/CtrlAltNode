@@ -1,0 +1,36 @@
+{
+  "istilah": "urung",
+  "entri": "u.rung1 bentuk tidak baku: wurung",
+  "bentukTidakBaku": "wurung",
+  "kataTurunan": [
+    "mengurungkan",
+    "berurung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.rung1 bentuk tidak baku: wurung",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "batal; tidak jadi: ada kecemasan di kalangan calon haji kalau-kalau -- naik haji karena adanya penipuan"
+        }
+      ]
+    },
+    {
+      "lema": "u.rung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berurung"
+        }
+      ]
+    }
+  ]
+}

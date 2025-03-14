@@ -1,0 +1,37 @@
+{
+  "istilah": "memajaki",
+  "entri": "pajak1 » me.ma.jak.i bentuk tidak baku: mempajaki",
+  "bentukTidakBaku": "mempajakimempajaki",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pajak1 » me.ma.jak.i bentuk tidak baku: mempajaki",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membayar pajak untuk: petani itu belum ~ sawahnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengenakan pajak pada: Pemerintah ~ perusahaan setiap tahun"
+        }
+      ]
+    },
+    {
+      "lema": "pajak2 » me.ma.jak.i bentuk tidak baku: mempajaki",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengepak (sarang burung, rawa, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

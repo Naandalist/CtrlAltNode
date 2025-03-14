@@ -1,0 +1,33 @@
+{
+  "istilah": "jahul",
+  "entri": "ja.hul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang bodoh",
+    "kataAsal": "jahūl"
+  },
+  "data": [
+    {
+      "lema": "ja.hul1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "jahat; jahil"
+        }
+      ]
+    },
+    {
+      "lema": "ja.hul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "perbaikan atau pemugaran makam pada hari ke-1000 dari kematian"
+        }
+      ]
+    }
+  ]
+}

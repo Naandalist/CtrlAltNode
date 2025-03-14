@@ -1,0 +1,51 @@
+{
+  "istilah": "sapi",
+  "entri": "sa.pi1 bentuk tidak baku: sampi",
+  "bentukTidakBaku": "sampi",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sapi angus",
+    "sapi apkir",
+    "sapi brahman",
+    "sapi dara",
+    "sapi gondok",
+    "sapi karapan",
+    "sapi kebiri",
+    "sapi kerap",
+    "sapi muda",
+    "sapi pedaging",
+    "sapi pejantan",
+    "sapi perah",
+    "sapi perahan",
+    "sapi sonok",
+    "sapi umbaran"
+  ],
+  "peribahasa": [
+    "kerbau punya susu, sapi punya nama"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lembu, sapi",
+    "kataAsal": "sapi"
+  },
+  "data": [
+    {
+      "lema": "sa.pi1 bentuk tidak baku: sampi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mamalia berkuku genap yang termasuk ke dalam kelompok ruminansia, bertubuh besar, bertanduk, berkaki empat, dipelihara untuk diambil daging dan susunya; lembu〔Bos spp.〕"
+        }
+      ]
+    },
+    {
+      "lema": "sa.pi2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat pohon1"
+        }
+      ]
+    }
+  ]
+}

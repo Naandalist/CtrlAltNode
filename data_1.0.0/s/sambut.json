@@ -1,0 +1,42 @@
+{
+  "istilah": "sambut",
+  "entri": "sam.but1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersambut",
+    "bersambut-sambutan",
+    "bersambutan",
+    "menyambut",
+    "penyambut",
+    "penyambutan",
+    "sambut-menyambut",
+    "sambutan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.but1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terima: kehadirannya kami -- dengan gembira"
+        }
+      ]
+    },
+    {
+      "lema": "sam.but2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "menggarap sawah dengan kerbau"
+        }
+      ]
+    }
+  ]
+}

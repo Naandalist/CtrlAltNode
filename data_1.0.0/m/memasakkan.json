@@ -1,0 +1,43 @@
+{
+  "istilah": "memasakkan",
+  "entri": "masak1 » me.ma.sak.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "memasakkan ke telinga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "masak1 » me.ma.sak.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasak untuk: bibi ~ kami opor ayam"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuat supaya masak: pedagang pisang itu selalu berusaha ~ pisang dagangannya dengan cara memeramnya di dalam tanah"
+        }
+      ]
+    },
+    {
+      "lema": "pasak » me.ma.sak.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memakai sesuatu untuk pasak: ~ sepotong kayu ke dalam lubang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menerangkan (menasihatkan dan sebagainya) benar-benar: dari dahulu Ayah telah ~ hal itu kepadamu"
+        }
+      ]
+    }
+  ]
+}

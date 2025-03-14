@@ -1,0 +1,54 @@
+{
+  "istilah": "girik",
+  "entri": "gi.rik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "girik-girik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "telah mengguncang girik"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gi.rik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kupon; surat kecil (sebagai keterangan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kartu giliran (untuk jaga, ronda, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "gi.rik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "gobek"
+        }
+      ]
+    },
+    {
+      "lema": "gi.rik3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "surat pajak hasil bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "surat pemilikan tanah"
+        }
+      ]
+    }
+  ]
+}

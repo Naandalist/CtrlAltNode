@@ -1,0 +1,24 @@
+{
+  "istilah": "tepa",
+  "entri": "te.pa /têpa/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "model, contoh, teladan, bentuk yang baik",
+    "kataAsal": "těpa"
+  },
+  "data": [
+    {
+      "lema": "te.pa /têpa/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "contoh; teladan"
+        }
+      ]
+    }
+  ]
+}

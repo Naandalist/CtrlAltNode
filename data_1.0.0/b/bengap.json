@@ -1,0 +1,41 @@
+{
+  "istilah": "bengap",
+  "entri": "be.ngap1 /bêngap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ngap1 /bêngap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa pekak dalam telinga (karena air masuk ke dalam telinga, pilek, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak nyaring atau jernih (tentang bunyi gendang, mata uang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sukar mengeluarkan perkataan (karena takut, malu, dan sebagainya); gagap"
+        }
+      ]
+    },
+    {
+      "lema": "be.ngap2 /bêngap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bimbang"
+        }
+      ]
+    }
+  ]
+}

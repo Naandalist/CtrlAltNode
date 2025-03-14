@@ -1,0 +1,38 @@
+{
+  "istilah": "konteks",
+  "entri": "kon.teks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkonteks"
+  ],
+  "gabunganKata": [
+    "konteks budaya",
+    "konteks lingkungan",
+    "konteks linguistis",
+    "konteks semotaktis",
+    "konteks sintaktis",
+    "konteks situasi",
+    "konteks situasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.teks",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bagian suatu uraian atau kalimat yang dapat mendukung atau menambah kejelasan makna"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "situasi yang ada hubungannya dengan suatu kejadian: orang itu harus dilihat sebagai manusia yang utuh dalam -- kehidupan pribadi dan masyarakatnya"
+        }
+      ]
+    }
+  ]
+}

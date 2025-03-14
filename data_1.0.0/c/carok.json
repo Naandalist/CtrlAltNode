@@ -1,0 +1,33 @@
+{
+  "istilah": "carok",
+  "entri": "ca.rok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.rok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "perkelahian dengan menggunakan senjata tajam yang dilakukan secara ksatria satu lawan satu"
+        }
+      ]
+    },
+    {
+      "lema": "ca.rok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "pojok di bagian luar rumah"
+        }
+      ]
+    }
+  ]
+}

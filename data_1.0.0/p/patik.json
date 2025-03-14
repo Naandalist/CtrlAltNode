@@ -1,0 +1,39 @@
+{
+  "istilah": "patik",
+  "entri": "pa.tik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mematik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menyentuh (dengan lembut)",
+    "kataAsal": "patik"
+  },
+  "data": [
+    {
+      "lema": "pa.tik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "budak belian; hamba tebusan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "hamba (dipakai ketika berkata-kata dengan raja): -- berdatang sembah ke hadapan Baginda"
+        }
+      ]
+    },
+    {
+      "lema": "pa.tik2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "petik"
+        }
+      ]
+    }
+  ]
+}

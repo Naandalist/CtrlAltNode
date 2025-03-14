@@ -1,0 +1,72 @@
+{
+  "istilah": "petak",
+  "entri": "pe.tak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpetak",
+    "berpetak-petak",
+    "memetak-metak",
+    "petakan"
+  ],
+  "gabunganKata": [
+    "petak jalan",
+    "petak pemukul",
+    "petak ranjau",
+    "petak semai",
+    "petak serong",
+    "petak kadal",
+    "petak umpat",
+    "petak umpet"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "pěṭak"
+  },
+  "data": [
+    {
+      "lema": "pe.tak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian ruang yang bersekat; kotak: ruang perahu itu ada delapan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilik kamar; kamar kecil: rumahnya disekat-sekat menjadi lima --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "piring (sebidang sawah yang dibatasi oleh pematang): sawahnya sepuluh --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bedeng (persemaian yang akan ditanami): tanah ladang itu dijadikan beberapa --"
+        }
+      ]
+    },
+    {
+      "lema": "pe.tak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "belang pada kepala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "belang putih pada dahi kuda: kuda -- kuda yang berdahi belang putih"
+        }
+      ]
+    },
+    {
+      "lema": "pe.tak3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "petak kadal; petak umpat; petak umpet"
+        }
+      ]
+    }
+  ]
+}

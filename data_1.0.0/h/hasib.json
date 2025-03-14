@@ -1,0 +1,28 @@
+{
+  "istilah": "hasib",
+  "entri": "ha.sib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penghitung",
+    "kataAsal": "ḥāsib"
+  },
+  "data": [
+    {
+      "lema": "ha.sib",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "al hasib (sebutan bagi Allah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ahli berhitung; ahli pemeriksaan pembukuan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "istilah": "kumbang",
+  "entri": "kum.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengumbang"
+  ],
+  "gabunganKata": [
+    "kumbang bangkai",
+    "kumbang beras",
+    "kumbang buah",
+    "kumbang cula",
+    "kumbang daun",
+    "kumbang gasing",
+    "kumbang goliat",
+    "kumbang janti",
+    "kumbang kelapa",
+    "kumbang koksi",
+    "kumbang kulit kayu",
+    "kumbang macan",
+    "kumbang madu",
+    "kumbang pengembara",
+    "kumbang penggerek",
+    "kumbang permata",
+    "kumbang pisang",
+    "kumbang rusa",
+    "kumbang sagu",
+    "kumbang selam",
+    "kumbang sungut panjang",
+    "kumbang tahi",
+    "kumbang tanduk",
+    "kumbang tepung",
+    "kumbang tomcat"
+  ],
+  "peribahasa": [
+    "kumbang tidak seekor (bunga tidak sekaki)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kum.bang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serangga yang besar dan hitam berkilap warnanya (seperti -- madu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serangga yang mempunyai eksoskeleton sangat keras, sayap depan keras untuk melindungi bagian belakang tubuh, sayap belakang tipis seperti membran (seperti -- tanduk, -- daun, -- gajah, -- hijau, -- kelapa)〔Coleoptera〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "hitam dan mengilat seperti warna sayap kumbang: harimau --"
+        }
+      ]
+    },
+    {
+      "lema": "kum.bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "angin fohn yang sewaktu-waktu berembus di Pulau Jawa (pantai utara Jawa Tengah), sering merusak tanaman tembakau"
+        }
+      ]
+    },
+    {
+      "lema": "kum.bang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "seruling dari dua ruas bambu berlubang empat yang ditiup secara horizontal"
+        }
+      ]
+    }
+  ]
+}

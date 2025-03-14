@@ -1,0 +1,24 @@
+{
+  "istilah": "buku barang",
+  "entri": "buku1 » buku barang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buku1 » buku barang",
+      "arti": [
+        {
+          "kelas_kata": "Hot[Perhotelan: ]",
+          "deskripsi": "buku catatan penanganan barang bawaan tamu"
+        }
+      ]
+    }
+  ]
+}

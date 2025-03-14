@@ -1,0 +1,73 @@
+{
+  "istilah": "pita",
+  "entri": "pi.ta1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpita",
+    "memita"
+  ],
+  "gabunganKata": [
+    "pita absorbsi",
+    "pita balet",
+    "pita cukai",
+    "pita duga",
+    "pita elektron",
+    "pita kaset",
+    "pita kejut",
+    "pita kepar",
+    "pita kosong",
+    "pita lebar",
+    "pita leher",
+    "pita magnetik",
+    "pita net",
+    "pita perekat",
+    "pita ranjau",
+    "pita rekaman",
+    "pita samping",
+    "pita sepatu",
+    "pita serut",
+    "pita simpul",
+    "pita suara",
+    "pita tali",
+    "pita tengah",
+    "pita ukur",
+    "pita valens",
+    "pita dasar",
+    "pita lebar",
+    "pita linear digital"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.ta1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalur (kain dan sebagainya) yang panjang: -- mesin tulis; kado itu dibungkus dengan kertas dan dikebat dengan -- merah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lajur kertas pendek sebagai tanda sudah membayar bea dan cukai: rokok tanpa -- seharga dua juta rupiah disita"
+        }
+      ]
+    },
+    {
+      "lema": "pi.ta2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "kisaran frekuensi antara dua batas yang digunakan untuk keperluan tertentu seperti penyiaran radio atau televisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "kelompok jalur di dalam cakram magnetik atau drum magnetik yang dibaca dan ditulis sebagai satu kelompok"
+        }
+      ]
+    }
+  ]
+}

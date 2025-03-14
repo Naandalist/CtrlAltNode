@@ -1,0 +1,33 @@
+{
+  "istilah": "encek",
+  "entri": "en.cek /êncek/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "paman; adik laki-laki ayah",
+    "kataAsal": "án chek"
+  },
+  "data": [
+    {
+      "lema": "en.cek /êncek/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kata sapaan untuk laki-laki Cina totok"
+        }
+      ]
+    },
+    {
+      "lema": "en.cek /êncek/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bt[Batak: -]",
+          "deskripsi": "mengakhiri permainan judi sesudah menang: orang itu terkenal suka --"
+        }
+      ]
+    }
+  ]
+}

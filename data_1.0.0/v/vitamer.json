@@ -1,0 +1,32 @@
+{
+  "istilah": "vitamer",
+  "entri": "vi.ta.mer",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vi.ta.mer",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat yang mampu menyembuhkan gejala kekurangan vitamin tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "senyawa yang memiliki susunan dan pengaruh fisiologis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gz[Ilmu Gizi: ]",
+          "deskripsi": "senyawa kimia yang secara struktural berhubungan dengan vitamin, dikonversi menjadi metabolit aktif yang sama di dalam tubuh"
+        }
+      ]
+    }
+  ]
+}

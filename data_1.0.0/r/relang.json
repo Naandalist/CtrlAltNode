@@ -1,0 +1,35 @@
+{
+  "istilah": "relang",
+  "entri": "re.lang1 /rêlang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merelang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.lang1 /rêlang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kilap; gilap"
+        }
+      ]
+    },
+    {
+      "lema": "re.lang2 /rêlang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkaran (selang-selang) pada rotan"
+        }
+      ]
+    }
+  ]
+}

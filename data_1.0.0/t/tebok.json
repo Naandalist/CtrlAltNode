@@ -1,0 +1,35 @@
+{
+  "istilah": "tebok",
+  "entri": "te.bok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menebok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.bok1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menebok"
+        }
+      ]
+    },
+    {
+      "lema": "te.bok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menampi beras; tampah (nyiru) kecil"
+        }
+      ]
+    }
+  ]
+}

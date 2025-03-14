@@ -1,0 +1,28 @@
+{
+  "istilah": "fidelitas",
+  "entri": "fi.de.li.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.de.li.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesetiaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "tingkat keakuratan perangkat elektronik dalam memproduksi gambar atau suara: salah satu kelebihan gelombang FM adalah memiliki tingkat -- yang tinggi"
+        }
+      ]
+    }
+  ]
+}

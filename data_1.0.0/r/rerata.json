@@ -1,0 +1,28 @@
+{
+  "istilah": "rerata",
+  "entri": "re.ra.ta /rêrata/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.ra.ta /rêrata/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nilai, angka, dan sebagainya yang paling umum; nilai dan sebagainya rata-rata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "statistik yang menunjukkan nilai yang paling umum atau pertengahan di antara nilai-nilai variabel acak yang telah diukur"
+        }
+      ]
+    }
+  ]
+}

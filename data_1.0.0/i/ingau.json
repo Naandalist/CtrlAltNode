@@ -1,0 +1,33 @@
+{
+  "istilah": "ingau",
+  "entri": "i.ngau",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ingau-ingauan",
+    "mengingau",
+    "mengingaukan",
+    "pengingau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.ngau",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "igau"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Md[Melayu Medan: -]",
+          "deskripsi": "mudah lupa dan tidak tentu pikirannya: agaknya dia sudah --, tak ada yang bisa dipegang cakapnya"
+        }
+      ]
+    }
+  ]
+}

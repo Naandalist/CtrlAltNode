@@ -1,0 +1,33 @@
+{
+  "istilah": "ikrab",
+  "entri": "ik.rab1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "paling dekat; lebih dekat",
+    "kataAsal": "aqrab"
+  },
+  "data": [
+    {
+      "lema": "ik.rab1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -] Ling[Linguistik: -]",
+          "deskripsi": "perubahan bentuk kata berkenaan dengan perbedaan, posisi, waktu, persona, dan jumlah (dalam kalimat)"
+        }
+      ]
+    },
+    {
+      "lema": "ik.rab2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang rapat benar; karib; akrab"
+        }
+      ]
+    }
+  ]
+}

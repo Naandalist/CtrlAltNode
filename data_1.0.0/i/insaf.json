@@ -1,0 +1,36 @@
+{
+  "istilah": "insaf",
+  "entri": "in.saf bentuk tidak baku: insyaf",
+  "bentukTidakBaku": "insyaf",
+  "kataTurunan": [
+    "keinsafan",
+    "menginsafi",
+    "menginsafkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemberian hak; keadilan",
+    "kataAsal": "inṣāf"
+  },
+  "data": [
+    {
+      "lema": "in.saf bentuk tidak baku: insyaf",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sadar (akan); mengerti benar (akan); yakin benar (akan): mereka tidak -- akan perubahan zaman"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sadar akan kekeliruannya dan bertekad akan memperbaiki dirinya: syukurlah ia kini telah -- dan menjauhkan diridr segala perbuatan tercela"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belas kasihan: penjahatitu tidak menaruh -- kepada para korbannya"
+        }
+      ]
+    }
+  ]
+}

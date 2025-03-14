@@ -1,0 +1,66 @@
+{
+  "istilah": "mengecap",
+  "entri": "cap1 » me.nge.cap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cap1 » me.nge.cap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membubuhkan cap; memberikan cap; menstempel: ada petugas khusus yang bertugas ~ surat-surat dinas"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencetak (buku, kain, dan sebagainya): kami sanggup ~ buku dan majalah, pekerjaan ditanggung rapi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberi merek (tanda): ia ~ semua sapinya dengan besi panas"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menganggap sebagai; menyatakan bahwa (buruk, baik, cakap, dan sebagainya); menamai: satu orang berbuat yang tidak senonoh, orang akan ~ seluruh keluarga itu kurang baik"
+        }
+      ]
+    },
+    {
+      "lema": "kecap » me.nge.cap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengatup-ngatupkan mulut hingga terdengar bunyi kecap atau cap-cap (seperti ketika makan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencoba (merasai) rasa (makanan dan sebagainya); mencicip"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menikmati; mengenyam; merasai: ~ kenikmatan hidup"
+        }
+      ]
+    },
+    {
+      "lema": "kecap » me.nge.cap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi (menyerupai kecap)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "membual"
+        }
+      ]
+    }
+  ]
+}

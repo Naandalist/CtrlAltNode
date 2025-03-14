@@ -1,0 +1,47 @@
+{
+  "istilah": "selempang",
+  "entri": "se.lem.pang /sêlempang/bentuk tidak baku: selepang",
+  "bentukTidakBaku": "selepangselimpang1",
+  "kataTurunan": [
+    "berselempang",
+    "menyelempangkan",
+    "menyelempangkan",
+    "terselempang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.lem.pang /sêlempang/bentuk tidak baku: selepang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pita lebar tanda pangkat dan sebagainya yang disandangkan di bahu, menyerong di dada ke arah pinggang kanan atau kiri"
+        }
+      ]
+    },
+    {
+      "lema": "se.lem.pang1 /sêlêmpang/bentuk tidak baku: selimpang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "khawatir (cemas); gelisah (takut, bimbang): sebenarnya saya agak --, kalau-kalau dia tidak dapat menunaikan tugasnya"
+        }
+      ]
+    },
+    {
+      "lema": "se.lem.pang2 /sêlêmpang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terselempang"
+        }
+      ]
+    }
+  ]
+}

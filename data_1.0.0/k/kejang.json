@@ -1,0 +1,40 @@
+{
+  "istilah": "kejang",
+  "entri": "ke.jang /kêjang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkejang",
+    "berkejang-kejang",
+    "kekejangan",
+    "mengejang",
+    "mengejangkan"
+  ],
+  "gabunganKata": [
+    "kejang demam",
+    "kejang laring",
+    "kejang mulut",
+    "kejang pedet",
+    "kejang urat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kaku (tentang tangan, kaki, ialah duduk di posisi mengekang, sebagai akibat cedera, dan lain-lain)",
+    "kataAsal": "kějaṅ"
+  },
+  "data": [
+    {
+      "lema": "ke.jang /kêjang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kaku dan menegang (tentang urat atau otot)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pengerutan otot yang berlebihan di luar kehendak"
+        }
+      ]
+    }
+  ]
+}

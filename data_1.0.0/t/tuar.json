@@ -1,0 +1,46 @@
+{
+  "istilah": "tuar",
+  "entri": "tu.ar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.ar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "ranting-ranting (daun-daun dan sebagainya) yang ditegakkan di sawah untuk menakut-nakuti burung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tengkalak dari ranting berduri dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "tu.ar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suar"
+        }
+      ]
+    },
+    {
+      "lema": "tu.ar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "merbah kelabu〔Microscelis flavalus cinereus〕"
+        }
+      ]
+    }
+  ]
+}

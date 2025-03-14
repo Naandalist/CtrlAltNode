@@ -1,0 +1,61 @@
+{
+  "istilah": "jali",
+  "entri": "ja.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terjali"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jelas",
+    "kataAsal": "jalī"
+  },
+  "data": [
+    {
+      "lema": "ja.li1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "terang (tentang ilham, wahyu); nyata"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "jelas"
+        }
+      ]
+    },
+    {
+      "lema": "ja.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman semusim, tumbuh berumpun, terdiri atas beberapa buluh yang berempulur dan biasanya bercabang pada bagian atas, daunnya berbentuk seperti pita, buahnya keras, kadang-kadang dibuat tasbih, dan sebagainya; jelai1; enjelai〔Coix lacryma jobi〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "biji buah jali"
+        }
+      ]
+    },
+    {
+      "lema": "ja.li3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "kuriak"
+        }
+      ]
+    },
+    {
+      "lema": "ja.li4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bg[Bugis: -]",
+          "deskripsi": "tikar yang terbuat dari anyaman rotan"
+        }
+      ]
+    }
+  ]
+}

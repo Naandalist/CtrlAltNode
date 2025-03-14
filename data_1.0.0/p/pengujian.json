@@ -1,0 +1,41 @@
+{
+  "istilah": "pengujian",
+  "entri": "uji1 » peng.u.ji.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pengujian antarmuka",
+    "pengujian atas bawah",
+    "pengujian beban",
+    "pengujian dokumentasi",
+    "pengujian hidrostatis",
+    "pengujian inkremental",
+    "pengujian negatif",
+    "pengujian unit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "uji1 » peng.u.ji.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, cara, perbuatan menguji"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "pemeriksaan atas transaksi keuangan; audit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "kegiatan yang memeriksa apakah sistem, baik perangkat lunak maupun perangkat keras, berperilaku sesuai dengan yang diinginkan"
+        }
+      ]
+    }
+  ]
+}

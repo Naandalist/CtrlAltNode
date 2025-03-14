@@ -1,0 +1,41 @@
+{
+  "istilah": "mori",
+  "entri": "mo.ri1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "Mori Atas",
+    "Mori Bawah",
+    "Mori Malili"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mori",
+    "kataAsal": "mori"
+  },
+  "data": [
+    {
+      "lema": "mo.ri1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain katun putih yang ditenun dengan sistem tenunan sederhana, biasanya digunakan dalam pembuatan kain batik dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "Mo.ri2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Kabupaten Poso, Sulawesi Tengah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan suku Mori"
+        }
+      ]
+    }
+  ]
+}

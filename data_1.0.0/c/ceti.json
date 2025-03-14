@@ -1,0 +1,39 @@
+{
+  "istilah": "ceti",
+  "entri": "ce.ti1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menceti"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pembantu perempuan, gadis pembantu",
+    "kataAsal": "ceṭī"
+  },
+  "data": [
+    {
+      "lema": "ce.ti1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang berasal dari India Selatan, biasanya menjadi pedagang (kebanyakan juga menjadi pelepas uang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang meminjamkan uang dengan bunga (yang tinggi); pelepas uang"
+        }
+      ]
+    },
+    {
+      "lema": "ce.ti2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perantara di dalam perhubungan antara laki-laki dan perempuan; muncikari; mak comblang: Ni Rawit -- penjual orang"
+        }
+      ]
+    }
+  ]
+}

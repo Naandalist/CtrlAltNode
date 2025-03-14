@@ -1,0 +1,31 @@
+{
+  "istilah": "pengompilasi",
+  "entri": "kompilasi » pe.ngom.pi.la.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pengompilasi bahasa",
+    "pengompilasi silang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kompilasi » pe.ngom.pi.la.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "perangkat lunak yang menerjemahkan semua kode sumber program yang ditulis dalam bahasa tingkat tinggi ke dalam kode objek yang merupakan pernyataan bahasa mesin sehingga program dapat dieksekusi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seperangkat perintah komputasi yang menerjemahkan kode dalam bahasa pemrograman menjadi kode yang dipahami komputer."
+        }
+      ]
+    }
+  ]
+}

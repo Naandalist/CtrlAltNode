@@ -1,0 +1,34 @@
+{
+  "istilah": "rokok",
+  "entri": "ro.kok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merokok",
+    "perokok"
+  ],
+  "gabunganKata": [
+    "rokok elektrik",
+    "rokok elektronik",
+    "rokok kawung",
+    "rokok kelembak",
+    "rokok keretek",
+    "rokok putih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.kok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gulungan tembakau (kira-kira sebesar kelingking) yang dibungkus (daun nipah, kertas)"
+        }
+      ]
+    }
+  ]
+}

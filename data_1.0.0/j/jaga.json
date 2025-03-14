@@ -1,0 +1,38 @@
+{
+  "istilah": "jaga",
+  "entri": "ja.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjaga",
+    "berjaga-jaga",
+    "jagaan",
+    "kejaga-jagaan",
+    "menjaga",
+    "menjagakan",
+    "penjaga",
+    "penjagaan",
+    "terjaga"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "waspada, berhati-hati; apa atau siapa yang datang, yang diharapkan",
+    "kataAsal": "jaga"
+  },
+  "data": [
+    {
+      "lema": "ja.ga",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bangun; tidak tidur: -- atau tidurkah orang itu?; -- dari tidur terbangun"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berkawal atau bertugas menjaga keselamatan dan keamanan; piket"
+        }
+      ]
+    }
+  ]
+}

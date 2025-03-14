@@ -1,0 +1,28 @@
+{
+  "istilah": "hipotaksis",
+  "entri": "hi.po.tak.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.po.tak.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "hubungan gramatikal antara klausa utama dan klausa terikat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "penggabungan kalimat dengan kalimat, klausa dengan klausa, frasa dengan frasa, atau kata dengan kata, dengan menggunakan kata penghubung"
+        }
+      ]
+    }
+  ]
+}

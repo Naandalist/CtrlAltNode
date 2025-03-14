@@ -1,0 +1,49 @@
+{
+  "istilah": "pelat",
+  "entri": "pe.lat bentuk tidak baku: plat",
+  "bentukTidakBaku": "platplat",
+  "kataTurunan": [
+    "berpelat"
+  ],
+  "gabunganKata": [
+    "pelat arloji",
+    "pelat baja",
+    "pelat getar",
+    "pelat lantai",
+    "pelat merah",
+    "pelat mode",
+    "pelat nomor",
+    "pelat sisi geladak",
+    "pelat tembaga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.lat bentuk tidak baku: plat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang sempurna mengucapkan kata-kata (seperti raja diucapkan laja); telor"
+        }
+      ]
+    },
+    {
+      "lema": "pe.lat /pêlat/bentuk tidak baku: plat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "piringan hitam (piringan gramofon)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "logam yang pipih (tipis)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "pangkin",
+  "entri": "pang.kin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kamar tidur",
+    "kataAsal": "pâng keng"
+  },
+  "data": [
+    {
+      "lema": "pang.kin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "tempat tidur; petiduran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "kamar tidur"
+        }
+      ]
+    }
+  ]
+}

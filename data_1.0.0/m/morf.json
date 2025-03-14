@@ -1,0 +1,30 @@
+{
+  "istilah": "morf",
+  "entri": "morf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "morf zero"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "morf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "fonem atau untaian fonem yang berasosiasi dengan suatu makna"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anggota morfem yang tidak dikaitkan dengan distribusinya (seperti i pada kata kenai)"
+        }
+      ]
+    }
+  ]
+}

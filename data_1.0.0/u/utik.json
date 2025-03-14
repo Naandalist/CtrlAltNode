@@ -1,0 +1,36 @@
+{
+  "istilah": "utik",
+  "entri": "u.tik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengutik-utik",
+    "pengutik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.tik1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "usik"
+        }
+      ]
+    },
+    {
+      "lema": "u.tik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jambal"
+        }
+      ]
+    }
+  ]
+}

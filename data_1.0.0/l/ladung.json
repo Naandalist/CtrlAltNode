@@ -1,0 +1,54 @@
+{
+  "istilah": "ladung",
+  "entri": "la.dung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berladung",
+    "meladungkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.dung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mengalir atau meluik (seperti embun di atas daun); terhenti"
+        }
+      ]
+    },
+    {
+      "lema": "la.dung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "timah pemberat kail, jala, batu duga, dan sebagainya supaya tenggelam di dalam air"
+        }
+      ]
+    },
+    {
+      "lema": "la.dung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "lekuk; keluk"
+        }
+      ]
+    },
+    {
+      "lema": "la.dung4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumpukan padi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "eksogen",
+  "entri": "ek.so.gen",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ek.so.gen",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "berasal dari atau disebabkan oleh faktor-faktor luar suatu organisme"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat-zat yang ada di bagian luar tubuh, tetapi sangat memengaruhi organisme dari tubuh itu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "jember",
+  "entri": "jem.ber1 /jêmbêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jem.ber1 /jêmbêr/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "kotor dan lembap"
+        }
+      ]
+    },
+    {
+      "lema": "Jem.ber2 /jêmbêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Jawa Timur, terkenal dengan sebutan Kota Suwar-Suwir"
+        }
+      ]
+    }
+  ]
+}

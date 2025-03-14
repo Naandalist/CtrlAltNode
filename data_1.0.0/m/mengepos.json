@@ -1,0 +1,33 @@
+{
+  "istilah": "mengepos",
+  "entri": "pos2 » me.nge.pos",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pos2 » me.nge.pos",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadikan sebagai pos (tempat berkumpul dan sebagainya): para penjahat itu ~ di tempat pelacuran"
+        }
+      ]
+    },
+    {
+      "lema": "pos1 » menge.pos",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempublikasikan sesuatu (opini, pesan, gambar, video, dan sebagainya) secara daring pada media sosial: dia ~ opini yang memicu kontroversi pada media sosial"
+        }
+      ]
+    }
+  ]
+}

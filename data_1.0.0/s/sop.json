@@ -1,0 +1,33 @@
+{
+  "istilah": "sop",
+  "entri": "sop",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sop",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sup"
+        }
+      ]
+    },
+    {
+      "lema": "SOP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "prosedur operasional standar; standard operating procedure"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "istilah": "damar",
+  "entri": "da.mar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdamar",
+    "mendamar",
+    "pedamaran",
+    "pendamar",
+    "berdamar"
+  ],
+  "gabunganKata": [
+    "damar batu",
+    "damar bunga",
+    "damar daging",
+    "damar darah",
+    "damar kesturi",
+    "damar laut",
+    "damar mata kucing"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.mar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "getah keras yang berasal dari bermacam-macam pohon (banyak macamnya, seperti -- batu, -- daging, -- hitam)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lampu; pelita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "sisa padat yang diperoleh dari terpentin (dengan sifat keras rapuh, tembus sinar, tanpa rasa, berwarna kuning, dapat digunakan untuk membuat sabun, pernis, cat, dan sebagainya dalam industri farmasi)"
+        }
+      ]
+    },
+    {
+      "lema": "da.mar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kemiri"
+        }
+      ]
+    },
+    {
+      "lema": "Da.mar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami Kepulauan Damar di wilayah Kabupaten Maluku Tenggara, Provinsi Maluku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Damar di Maluku"
+        }
+      ]
+    }
+  ]
+}

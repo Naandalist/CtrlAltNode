@@ -1,0 +1,30 @@
+{
+  "istilah": "parfum",
+  "entri": "par.fum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berparfum"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "par.fum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minyak wangi; bau wangi-wangian yang berupa cairan, padatan, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat pewangi"
+        }
+      ]
+    }
+  ]
+}

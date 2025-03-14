@@ -1,0 +1,60 @@
+{
+  "istilah": "makam",
+  "entri": "ma.kam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memakamkan",
+    "pemakaman",
+    "permakaman",
+    "bermakam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat tinggal; kedudukan; tempat suci; jalan suci bertingkat yang harus dilalui wali atau sufi",
+    "kataAsal": "maqām"
+  },
+  "data": [
+    {
+      "lema": "ma.kam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kubur: mengantarkan jenazah ke --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekuburan"
+        }
+      ]
+    },
+    {
+      "lema": "ma.kam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tempat tinggal; kediaman"
+        }
+      ]
+    },
+    {
+      "lema": "ma.kam3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tas[Tasawuf: -]",
+          "deskripsi": "jalan panjang yang berisi tingkatan yang harus ditempuh oleh seorang sufi yang penuh dengan berbagai kesulitan dan memerlukan usaha yang sungguh-sungguh sehingga tercapai keadaan yang tetap menjadi milik pribadi orang sufi"
+        }
+      ]
+    },
+    {
+      "lema": "ma.kam4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedudukan mulia (tinggi): ia mengakui belum sampai pada -- untuk bisa memahami konsep ulama besar itu secara rasional"
+        }
+      ]
+    }
+  ]
+}

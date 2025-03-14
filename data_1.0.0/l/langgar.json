@@ -1,0 +1,43 @@
+{
+  "istilah": "langgar",
+  "entri": "lang.gar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlanggar-langgar",
+    "berlanggaran",
+    "langgar-melanggar",
+    "melanggar",
+    "melanggarkan",
+    "pelanggar",
+    "pelanggaran",
+    "perlanggaran",
+    "terlanggar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.gar1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melanggar"
+        }
+      ]
+    },
+    {
+      "lema": "lang.gar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masjid kecil tempat mengaji atau bersalat, tetapi tidak digunakan untuk salat Jumat; surau; musala"
+        }
+      ]
+    }
+  ]
+}

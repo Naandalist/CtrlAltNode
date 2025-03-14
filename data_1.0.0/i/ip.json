@@ -1,0 +1,33 @@
+{
+  "istilah": "ip",
+  "entri": "IP1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "IP1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -] sing[singkatan]",
+          "deskripsi": "alamat identifikasi untuk tiap komputer hos dalam jaringan internet, berupa deretan angka biner antara 32 bit sampai 128 bit; internet protocol address"
+        }
+      ]
+    },
+    {
+      "lema": "IP2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "indeks prestasi"
+        }
+      ]
+    }
+  ]
+}

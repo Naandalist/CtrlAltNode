@@ -1,0 +1,63 @@
+{
+  "istilah": "tangkai",
+  "entri": "tang.kai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertangkai",
+    "setangkai",
+    "tangkaian"
+  ],
+  "gabunganKata": [
+    "tangkai anak",
+    "tangkai bedil",
+    "tangkai cerek",
+    "tangkai dayung",
+    "tangkai hati",
+    "tangkai kering",
+    "tangkai not",
+    "tangkai pena",
+    "tangkai putik",
+    "tangkai sari",
+    "tangkai sendok",
+    "tangkai sibur",
+    "tangkai tombak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tang.kai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gagang pada buah (daun, bunga)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batang tumbuhan yang kecil-kecil (seperti kecambah, padi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong untuk bunga: tiga -- bunga mawar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gagang atau pegangan suatu alat; batang (tombak, dayung, dan sebagainya); hulu (pisau dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tang.kai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menyimpan padi; rengkiang; lumbung"
+        }
+      ]
+    }
+  ]
+}

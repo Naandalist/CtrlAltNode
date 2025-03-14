@@ -1,0 +1,37 @@
+{
+  "istilah": "mengopi",
+  "entri": "kopi1 » me.ngo.pi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kopi1 » me.ngo.pi",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "minum kopi"
+        }
+      ]
+    },
+    {
+      "lema": "kopi2 » me.ngo.pi",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyalin (meniru sesuai dengan aslinya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuat salinan (berkas, perangkat lunak, dan sebagainya) tanpa mengubah bentuk aslinya"
+        }
+      ]
+    }
+  ]
+}

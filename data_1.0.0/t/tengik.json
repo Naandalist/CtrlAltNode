@@ -1,0 +1,43 @@
+{
+  "istilah": "tengik",
+  "entri": "te.ngik1 /têngik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketengikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.ngik1 /têngik/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbau atau berasa tidak sedap (seperti bau minyak kelapa yang sudah lama); berbau busuk: jangan menggoreng dengan minyak kelapa yang sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "jahat, kejam, kasar (tentang perbuatan, perkataan, dan sebagainya): sikap dan ucapannya yang -- menyebabkan dia dibenci kawan-kawannya"
+        }
+      ]
+    },
+    {
+      "lema": "te.ngik2 /têngik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang berkayu empuk dan getahnya beracun〔Antiaris toxicaria〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu tengik"
+        }
+      ]
+    }
+  ]
+}

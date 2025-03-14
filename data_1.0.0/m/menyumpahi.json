@@ -1,0 +1,33 @@
+{
+  "istilah": "menyumpahi",
+  "entri": "sumpah1 » me.nyum.pah.i",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sumpah1 » me.nyum.pah.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengambil sumpah"
+        }
+      ]
+    },
+    {
+      "lema": "sumpah2 » me.nyum.pah.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengeluarkan kata-kata kotor berkali-kali; menyumpah-nyumpah"
+        }
+      ]
+    }
+  ]
+}

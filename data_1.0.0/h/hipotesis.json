@@ -1,0 +1,44 @@
+{
+  "istilah": "hipotesis",
+  "entri": "hi.po.te.sis bentuk tidak baku: hipotesa",
+  "bentukTidakBaku": "hipotesa",
+  "kataTurunan": [
+    "berhipotesis",
+    "menghipotesiskan"
+  ],
+  "gabunganKata": [
+    "hipotesis alternatif",
+    "hipotesis argumentatif",
+    "hipotesis deskriptif",
+    "hipotesis frustrasi-agresi",
+    "hipotesis inokulasi",
+    "hipotesis kemampuan gerak umum",
+    "hipotesis kerja",
+    "hipotesis kualitatif",
+    "hipotesis kuantitatif",
+    "hipotesis nol",
+    "hipotesis operasional",
+    "hipotesis penggunaan isyarat",
+    "hipotesis penjelasan",
+    "hipotesis penyangga",
+    "hipotesis penyesuaian",
+    "hipotesis tandingan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.po.te.sis bentuk tidak baku: hipotesa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dianggap benar untuk alasan atau pengutaraan pendapat (teori, proposisi, dan sebagainya) meskipun kebenarannya masih harus dibuktikan; anggapan dasar"
+        }
+      ]
+    }
+  ]
+}

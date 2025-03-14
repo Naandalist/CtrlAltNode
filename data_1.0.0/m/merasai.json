@@ -1,0 +1,45 @@
+{
+  "istilah": "merasai",
+  "entri": "rasa1 » me.ra.sa.i",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rasa1 » me.ra.sa.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengecap (makanan); mencicipi: ~ minuman sejuk setelah lama berjalan dalam panas matahari"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengalami (mendapat) kesenangan dan sebagainya: ~ kebahagiaan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meraba dengan tangan dan kaki untuk mendapatkan sesuatu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menduga (mengajuk) hati orang dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "rasai » me.ra.sai",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(banyak) menderita (kesusahan); mengalami (kesedihan)"
+        }
+      ]
+    }
+  ]
+}

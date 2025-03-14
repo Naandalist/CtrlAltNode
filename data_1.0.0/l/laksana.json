@@ -1,0 +1,43 @@
+{
+  "istilah": "laksana",
+  "entri": "lak.sa.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melaksanakan",
+    "pelaksana",
+    "pelaksanaan",
+    "terlaksana",
+    "terlaksanakan"
+  ],
+  "gabunganKata": [
+    "laksana istri",
+    "laksana perempuan"
+  ],
+  "peribahasa": [
+    "hidung laksana kuntum seroja, dada seperti mawar merekah; laksana bunga dadap, sungguh merah berbau tidak; laksana jentayu menantikan hujan; laksana manau, seribu kali embat haram tak patah; laksana mengaprit di tengah laut, dipukul ombak jatuh ke tepi; laksana mestika gamat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "indikasi, kualitas, tanda",
+    "kataAsal": "lakṣaṇā"
+  },
+  "data": [
+    {
+      "lema": "lak.sa.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tanda yang baik; sifat; laku; perbuatan"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "seperti; sebagai: -- pinang dibelah dua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "benda yang dipegang dan menjadi tanda khusus suatu arca"
+        }
+      ]
+    }
+  ]
+}

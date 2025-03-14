@@ -1,0 +1,46 @@
+{
+  "istilah": "pijar",
+  "entri": "pi.jar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpijar",
+    "berpijar-pijar",
+    "memijar",
+    "memijar-mijar",
+    "memijarkan",
+    "pijar-pijar"
+  ],
+  "gabunganKata": [
+    "pijar udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.jar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "percikan nyala merah kekuning-kuningan karena panas atau terbakar; nyala api"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "percikan logam (besi dan sebagainya) yang menyala ketika ditempa"
+        }
+      ]
+    },
+    {
+      "lema": "pi.jar2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pijar-pijar"
+        }
+      ]
+    }
+  ]
+}

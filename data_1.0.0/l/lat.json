@@ -1,0 +1,44 @@
+{
+  "istilah": "lat",
+  "entri": "lat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "selat-latnya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "selang; antara: -- sehari sesudah kedatangannya yang pertama, dia datang lagi"
+        }
+      ]
+    },
+    {
+      "lema": "lat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "terlambat; kasip"
+        }
+      ]
+    },
+    {
+      "lema": "lat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilah (pada kasau)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "maulana",
+  "entri": "mau.la.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tuan kami",
+    "kataAsal": "maulānā"
+  },
+  "data": [
+    {
+      "lema": "mau.la.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "gelar kehormatan untuk Tuhan (sebagai pelindung penolong); gelar kehormatan untuk para nabi (sebagai pembimbing umat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar kehormatan untuk ulama besar atau sufi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tuan kita: pakaian anak raja --"
+        }
+      ]
+    }
+  ]
+}

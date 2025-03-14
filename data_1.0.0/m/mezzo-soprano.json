@@ -1,0 +1,33 @@
+{
+  "istilah": "mezzo-soprano",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -] Mus[Musik: -]",
+          "deskripsi": "suara wanita antara soprano dan kontralto"
+        }
+      ]
+    },
+    {
+      "lema": "mezzo-soprano",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -] [Musik: -]",
+          "deskripsi": "suara wanita antara soprano dan kontralto"
+        }
+      ]
+    }
+  ]
+}

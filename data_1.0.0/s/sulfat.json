@@ -1,0 +1,28 @@
+{
+  "istilah": "sulfat",
+  "entri": "sul.fat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sul.fat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "garam asam belerang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Min[Mineralogi: -]",
+          "deskripsi": "batuan yang mengandung sulfat"
+        }
+      ]
+    }
+  ]
+}

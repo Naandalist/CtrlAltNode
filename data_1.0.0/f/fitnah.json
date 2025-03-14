@@ -1,0 +1,32 @@
+{
+  "istilah": "fitnah",
+  "entri": "fit.nah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memfitnah",
+    "pemfitnah",
+    "terfitnah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ujian; cobaan",
+    "kataAsal": "fitnah"
+  },
+  "data": [
+    {
+      "lema": "fit.nah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkataan bohong atau tanpa berdasarkan kebenaran yang disebarkan dengan maksud menjelekkan orang (seperti menodai nama baik, merugikan kehormatan orang): -- adalah perbuatan yang tidak terpuji"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "perbuatan yang menimbulkan kekacauan, seperti mengusir orang lain dari kampung halamannya, merampas harta, menyakiti orang lain, menghalangi dari jalan Allah, atau melakukan kemusyrikan: -- itu lebih kejam daripada pembunuhan"
+        }
+      ]
+    }
+  ]
+}

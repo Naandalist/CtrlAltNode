@@ -1,0 +1,78 @@
+{
+  "istilah": "jadi",
+  "entri": "ja.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jadi-jadian",
+    "jadian",
+    "kejadian",
+    "kemenjadian",
+    "menjadi",
+    "menjadi-jadi",
+    "menjadi-jadikan",
+    "menjadikan",
+    "penjadi",
+    "penjadian",
+    "sejadi-jadinya",
+    "terjadi"
+  ],
+  "gabunganKata": [
+    "jadi umum"
+  ],
+  "peribahasa": [
+    "acap berulang, yang jauh jadi dekat; adat semula jadi; berguru kepalang ajar, bagai bunga kembang tak jadi; bukit jadi paya; buntat hendak jadi kemala; iba akan kacang sebuah, tak jadi memengat; jadi abu arang; jadi alas cakap; jadi bumi langit; jadi kain basahan; jadi mata telinga (jadi kaki tangan); kalah jadi abu, menang jadi arang; kalau pandai menggulai, badar jadi tenggiri; katak hendak jadi lembu; lopak jadi perigi; lupak jadi perigi; rindu jadi batasnya, maka manis tak jadi cuka; secupak tak jadi segantang; sehari selembar benang, lama-lama jadi sehelai kain; siapa pun jadi raja, tanganku ke dahi juga; telah jadi indarus; tiada rotan, akar pun berguna (jadi); yang secupak takkan jadi segantang; yang sesukat tak akan jadi segantang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "yang terjadi, yang timbul, yang muncul, yang tumbuh",
+    "kataAsal": "jāta"
+  },
+  "data": [
+    {
+      "lema": "ja.di1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "langsung berlaku (dilakukan, dikerjakan); tidak batal: kemarin ia -- pergi ke Bogor"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "betul-betul terjadi; menjadi kenyataan (berhasil): barang kehendaknya --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "selesai dibuat: rumahnya belum --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lahir; dilahirkan: ketika itu engkau baru --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah selesai dibuat; siap pakai: ia membeli pakaian --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "baiklah begitu; setuju: kalau begitu --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "oleh sebab itu; maka; dengan demikian: ibunya sakit, -- dia terpaksa pulang"
+        }
+      ]
+    },
+    {
+      "lema": "Ja.di2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "Kaprikornus"
+        }
+      ]
+    }
+  ]
+}

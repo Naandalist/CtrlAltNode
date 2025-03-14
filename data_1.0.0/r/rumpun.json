@@ -1,0 +1,43 @@
+{
+  "istilah": "rumpun",
+  "entri": "rum.pun bentuk tidak baku: umpun",
+  "bentukTidakBaku": "umpun",
+  "kataTurunan": [
+    "berumpun",
+    "berumpun-rumpun",
+    "merumpun",
+    "serumpun"
+  ],
+  "gabunganKata": [
+    "rumpun bahasa",
+    "rumpun depresi",
+    "rumpun telinga"
+  ],
+  "peribahasa": [
+    "alah di rumpun betung; kerosok ular di rumpun bambu; rebung tidak jauh dari rumpun"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rum.pun bentuk tidak baku: umpun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok tumbuhan yang tumbuh anak-beranak seakan-akan mempunyai akar yang sama (seperti buluh, tebu, pisang, serai, dan talas); perdu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan besar bangsa (bahasa) yang sama asal dan jenisnya; golongan hasil susastra yang sejenis: -- cerita rakyat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang-orang yang seketurunan sama nenek moyangnya"
+        }
+      ]
+    }
+  ]
+}

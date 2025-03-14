@@ -1,0 +1,44 @@
+{
+  "istilah": "raras",
+  "entri": "ra.ras1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merarasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.ras1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "luruh semuanya (tentang daun di pohon)"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ras2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ss[Sasak: -]",
+          "deskripsi": "mencuci beras atau biji-bijian yang hendak dimasak"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ras3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "gerakan peralihan antara dua adegan dalam tari Sunda"
+        }
+      ]
+    }
+  ]
+}

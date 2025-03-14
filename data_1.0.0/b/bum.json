@@ -1,0 +1,37 @@
+{
+  "istilah": "bum",
+  "entri": "bum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bum1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu palang penghalang (perintang) di pelabuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pabean"
+        }
+      ]
+    },
+    {
+      "lema": "bum2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peningkatan (perluasan, penambahan, dan sebagainya) yang pesat (tentang ekonomi dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "nekrologi",
+  "entri": "nek.ro.lo.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nek.ro.lo.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daftar atau catatan mengenai orang yang meninggal dalam suatu waktu (periode) tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "catatan riwayat hidup orang yang baru saja meninggal"
+        }
+      ]
+    }
+  ]
+}

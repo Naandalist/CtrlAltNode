@@ -1,0 +1,32 @@
+{
+  "istilah": "heterotropik",
+  "entri": "he.te.ro.tro.pik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "he.te.ro.tro.pik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat menyintesis bahan anorganik menjadi organik sehingga bergantung pada makanan dari luar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "organisme yang membutuhkan bahan organik untuk makanannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nutrisi tumbuhan dan hewan yang makanannya bergantung pada bahan organik"
+        }
+      ]
+    }
+  ]
+}

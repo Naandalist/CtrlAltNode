@@ -1,0 +1,68 @@
+{
+  "istilah": "suhu",
+  "entri": "su.hu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersuhu"
+  ],
+  "gabunganKata": [
+    "suhu basal",
+    "suhu basal badan",
+    "suhu bola basah",
+    "suhu bola basah termodinamik",
+    "suhu bola kering",
+    "suhu efektif",
+    "suhu ekstrem",
+    "suhu harian rata-rata",
+    "suhu inversi",
+    "suhu kardinal",
+    "suhu kondensasi",
+    "suhu maksimum",
+    "suhu maksimum bulanan",
+    "suhu maksimum bulanan mutlak",
+    "suhu maksimum harian",
+    "suhu maya",
+    "suhu minimum",
+    "suhu minimum bulanan",
+    "suhu minimum bulanan mutlak",
+    "suhu minimum harian",
+    "suhu minimum rumput",
+    "suhu pengembunan",
+    "suhu permukaan laut",
+    "suhu politik",
+    "suhu potensial bola basah",
+    "suhu potensial setara",
+    "suhu termodinamika",
+    "suhu titik embun"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "guru silat",
+    "kataAsal": "su hū"
+  },
+  "data": [
+    {
+      "lema": "su.hu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran kuantitatif terhadap temperatur; panas dan dingin, diukur dengan termometer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "keadaan atau situasi"
+        }
+      ]
+    },
+    {
+      "lema": "su.hu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "guru dalam dunia persilatan: dia dikenal sebagai -- yang menguasai berbagai macam ilmu silat"
+        }
+      ]
+    }
+  ]
+}

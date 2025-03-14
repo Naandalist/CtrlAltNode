@@ -1,0 +1,38 @@
+{
+  "istilah": "lalah",
+  "entri": "la.lah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pelalah",
+    "melalah",
+    "pelalah",
+    "terlalah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cari:",
+    "kataAsal": "lola"
+  },
+  "data": [
+    {
+      "lema": "la.lah1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suka makan sebarang makanan; rakus"
+        }
+      ]
+    },
+    {
+      "lema": "la.lah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melalah; pelalah; terlalah"
+        }
+      ]
+    }
+  ]
+}

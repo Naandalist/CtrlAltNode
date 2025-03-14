@@ -1,0 +1,33 @@
+{
+  "istilah": "koa",
+  "entri": "koa1 bentuk tidak baku: kua",
+  "bentukTidakBaku": "kua",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "permainan kartu ceki",
+    "kataAsal": "koà"
+  },
+  "data": [
+    {
+      "lema": "koa1 bentuk tidak baku: kua",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan kartu ceki"
+        }
+      ]
+    },
+    {
+      "lema": "koa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sng[Sangir: -]",
+          "deskripsi": "kue kering khas Sangir, terbuat dari adonan sagu, kacang hijau, kacang tanah atau kenari yang dihaluskan, gula putih, dicetak, dan kemudian dipanggang"
+        }
+      ]
+    }
+  ]
+}

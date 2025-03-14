@@ -1,0 +1,35 @@
+{
+  "istilah": "restorasi",
+  "entri": "res.to.ra.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merestorasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "res.to.ra.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengembalian atau pemulihan ke keadaan semula (tentang gedung bersejarah, kedudukan raja, negara); pemugaran"
+        }
+      ]
+    },
+    {
+      "lema": "res.to.ra.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerbong kereta api yang dijadikan restoran"
+        }
+      ]
+    }
+  ]
+}

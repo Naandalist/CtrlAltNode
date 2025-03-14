@@ -1,0 +1,46 @@
+{
+  "istilah": "mes",
+  "entri": "mes1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mes1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pupuk buatan untuk menyuburkan tanaman: tebunya dipupuk dengan -- supaya baik pertumbuhannya"
+        }
+      ]
+    },
+    {
+      "lema": "mes2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah tempat tinggal bersama yang sifatnya sementara atau sebagai tempat menginap tamu (di kalangan militer untuk tempat tinggal perwira yang belum berkeluarga)"
+        }
+      ]
+    },
+    {
+      "lema": "mes3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "lubang ayakan berbentuk bujur sangkar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "ukuran yang menunjukkan banyaknya lubang yang terdapat pada ayakan setiap satu inci linier"
+        }
+      ]
+    }
+  ]
+}

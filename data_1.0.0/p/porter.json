@@ -1,0 +1,33 @@
+{
+  "istilah": "porter",
+  "entri": "por.ter2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "por.ter2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pramuantar"
+        }
+      ]
+    },
+    {
+      "lema": "por.ter1 /portêr/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ portir"
+        }
+      ]
+    }
+  ]
+}

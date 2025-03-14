@@ -1,0 +1,43 @@
+{
+  "istilah": "lantas",
+  "entri": "lan.tas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlantas",
+    "berlantasan",
+    "melantas",
+    "melantaskan",
+    "terlantas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.tas1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "langsung; terus: begitu datang, dia -- masuk"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "lalu; kemudian: sesudah berenang, -- mereka makan dengan lahap"
+        }
+      ]
+    },
+    {
+      "lema": "lan.tas2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Als[Alas: -]",
+          "deskripsi": "menyeberangi air dengan berjalan kaki"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "ulak",
+  "entri": "u.lak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ulak-ulak",
+    "ulak-ulak",
+    "ulakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "merayap-rayap seperti kangkung di ulak jamban"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.lak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ulak-ulak"
+        }
+      ]
+    },
+    {
+      "lema": "u.lak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ulak-ulak; ulakan"
+        }
+      ]
+    },
+    {
+      "lema": "u.lak3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ ulek1"
+        }
+      ]
+    }
+  ]
+}

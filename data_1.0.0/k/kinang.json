@@ -1,0 +1,37 @@
+{
+  "istilah": "kinang",
+  "entri": "ki.nang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kinangan",
+    "menginang",
+    "penginangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sirih dan ramuannya, disiapkan untuk mengunyah",
+    "kataAsal": "kinaṅ"
+  },
+  "data": [
+    {
+      "lema": "ki.nang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekapur sirih"
+        }
+      ]
+    },
+    {
+      "lema": "ki.nang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ ginang-ginang"
+        }
+      ]
+    }
+  ]
+}

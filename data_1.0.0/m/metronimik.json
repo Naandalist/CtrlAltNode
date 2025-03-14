@@ -1,0 +1,28 @@
+{
+  "istilah": "metronimik",
+  "entri": "met.ro.ni.mik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "met.ro.ni.mik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "diturunkan dari nama ibu atau nenek moyang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama keturunan dari ibu atau nenek moyang ibu"
+        }
+      ]
+    }
+  ]
+}

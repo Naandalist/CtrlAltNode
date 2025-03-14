@@ -1,0 +1,69 @@
+{
+  "istilah": "tusuk",
+  "entri": "tu.suk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertusuk",
+    "menusuk",
+    "menusuk-nusuk",
+    "menusuk-nusukkan",
+    "menusukkan",
+    "penusuk",
+    "penusukan",
+    "tertusuk",
+    "tusukan"
+  ],
+  "gabunganKata": [
+    "tusuk balik",
+    "tusuk balut",
+    "tusuk batang",
+    "tusuk beras",
+    "tusuk biku",
+    "tusuk bintang",
+    "tusuk bulu",
+    "tusuk feston",
+    "tusuk flanel",
+    "tusuk gigi",
+    "tusuk isi",
+    "tusuk jarum",
+    "tusuk jelujur",
+    "tusuk konde",
+    "tusuk kontak",
+    "tusuk mosaik",
+    "tusuk pakis",
+    "tusuk pipih",
+    "tusuk piquer",
+    "tusuk rantai",
+    "tusuk silang",
+    "tusuk silang ganda",
+    "tusuk simpul",
+    "tusuk tangkai",
+    "tusuk terbang",
+    "tusuk tikam jejak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.suk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasukkan (dengan cara menikamkan) suatu benda yang runcing (jarum, pisau, dan sebagainya) ke benda lain; cocok"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "teknik jahit; jahitan: -- jelujur; -- silang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda runcing, biasanya untuk dimasukkan ke benda lain: -- konde"
+        }
+      ]
+    }
+  ]
+}

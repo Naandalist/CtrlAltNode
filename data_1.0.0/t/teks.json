@@ -1,0 +1,59 @@
+{
+  "istilah": "teks",
+  "entri": "teks1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "teks buta",
+    "teks diskursif",
+    "teks ekspresif",
+    "teks evaluatif",
+    "teks film",
+    "teks informatif",
+    "teks linguistik",
+    "teks magi",
+    "teks naratif",
+    "teks persuasif",
+    "teks profan",
+    "teks ritual",
+    "teks sakral"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "teks1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "naskah yang berupa kata-kata asli dari pengarang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kutipan dari kitab suci untuk pangkal ajaran atau alasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan tertulis untuk dasar memberikan pelajaran, berpidato, dan sebagainya: upacara itu didahului dengan pembacaan -- Pancasila; berulang kali ia melirik ke dalam -- terjemahan sajak-sajak yang sedang dibacanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wacana tertulis"
+        }
+      ]
+    },
+    {
+      "lema": "teks2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan berat untuk mengukur kepadatan benang, setara dengan 1 gram per 1.000 meter"
+        }
+      ]
+    }
+  ]
+}

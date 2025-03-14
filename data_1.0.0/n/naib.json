@@ -1,0 +1,31 @@
+{
+  "istilah": "naib",
+  "entri": "na.ib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "naib ketua",
+    "naib laksamana"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengganti",
+    "kataAsal": "nā’ib"
+  },
+  "data": [
+    {
+      "lema": "na.ib",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wakil; pengganti"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penghulu urusan agama Islam"
+        }
+      ]
+    }
+  ]
+}

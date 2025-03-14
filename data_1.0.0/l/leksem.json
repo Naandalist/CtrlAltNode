@@ -1,0 +1,28 @@
+{
+  "istilah": "leksem",
+  "entri": "lek.sem",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lek.sem",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan leksikal dasar yang abstrak yang mendasari pelbagai bentuk kata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan terkecil dalam leksikon; lema"
+        }
+      ]
+    }
+  ]
+}

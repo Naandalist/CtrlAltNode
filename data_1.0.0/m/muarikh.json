@@ -1,0 +1,28 @@
+{
+  "istilah": "muarikh",
+  "entri": "mu.a.rikh bentuk tidak baku: muwarikh",
+  "bentukTidakBaku": "muwarikh",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sejarawan",
+    "kataAsal": "mu’arrikh"
+  },
+  "data": [
+    {
+      "lema": "mu.a.rikh bentuk tidak baku: muwarikh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penulis sejarah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ahli sejarah"
+        }
+      ]
+    }
+  ]
+}

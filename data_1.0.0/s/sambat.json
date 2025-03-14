@@ -1,0 +1,55 @@
+{
+  "istilah": "sambat",
+  "entri": "sam.bat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersambat",
+    "bersambatan",
+    "menyambat",
+    "penyambatan",
+    "bersambat",
+    "menyambat",
+    "persambatan",
+    "sambatan",
+    "sesambat",
+    "bersambat",
+    "sambatan",
+    "sesambat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ratapan, keluhan, raungan",
+    "kataAsal": "sambat"
+  },
+  "data": [
+    {
+      "lema": "sam.bat1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sambung"
+        }
+      ]
+    },
+    {
+      "lema": "sam.bat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersambat"
+        }
+      ]
+    },
+    {
+      "lema": "sam.bat3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersambat"
+        }
+      ]
+    }
+  ]
+}

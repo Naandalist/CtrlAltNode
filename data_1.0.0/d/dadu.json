@@ -1,0 +1,43 @@
+{
+  "istilah": "dadu",
+  "entri": "da.du1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdadu"
+  ],
+  "gabunganKata": [
+    "dadu pusing",
+    "dadu putar",
+    "dadu sintir"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dadu, warna merah muda, kemerah-merahan",
+    "kataAsal": "dadu"
+  },
+  "data": [
+    {
+      "lema": "da.du1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kubus kecil bersisi enam (biasanya terbuat dari kayu, tulang, gading, atau plastik), pada keenam sisinya diberi mata satu sampai enam yang diatur sedemikian rupa sehingga dua sisi yang saling berhadapan selalu berjumlah tujuh (digunakan dalam permainan, berjudi, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda berbentuk persegi empat yang mempunyai enam permukaan; kubus"
+        }
+      ]
+    },
+    {
+      "lema": "da.du2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merah muda: pipinya yang dulu biasa berwarna -- sekarang menjadi pucat"
+        }
+      ]
+    }
+  ]
+}

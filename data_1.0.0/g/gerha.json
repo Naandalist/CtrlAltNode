@@ -1,0 +1,33 @@
+{
+  "istilah": "gerha",
+  "entri": "ger.ha1 /gêrha/",
+  "bentukTidakBaku": "graha1, greha",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bangunan rumah, candi, habitat",
+    "kataAsal": "gṛha"
+  },
+  "data": [
+    {
+      "lema": "ger.ha1 /gêrha/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "istri; permaisuri"
+        }
+      ]
+    },
+    {
+      "lema": "ger.ha2 /gêrha/bentuk tidak baku: graha1, greha",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan, kantor, tempat tinggal, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

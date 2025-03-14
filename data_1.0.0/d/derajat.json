@@ -1,0 +1,62 @@
+{
+  "istilah": "derajat",
+  "entri": "de.ra.jat1 /dêrajat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyederajatkan",
+    "sederajat"
+  ],
+  "gabunganKata": [
+    "derajat kekerabatan",
+    "derajat busur",
+    "derajat hari",
+    "derajat keasaman",
+    "derajat kebebasan",
+    "derajat kelvin",
+    "derajat panas",
+    "derajat penjenuhan",
+    "derajat polimerisasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kedudukan yang tinggi",
+    "kataAsal": "darajah"
+  },
+  "data": [
+    {
+      "lema": "de.ra.jat1 /dêrajat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkatan; martabat; pangkat: naik (turun) --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "gelar yang diberikan oleh perguruan tinggi (universitas) untuk mahasiswa yang telah lulus dalam ujian yang diharuskan: ia telah mencapai -- sarjana di Institut Teknologi Bandung"
+        }
+      ]
+    },
+    {
+      "lema": "de.ra.jat2 /dêrajat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "satuan ukuran sudut, satu derajat (ditulis 1°) sama dengan 1/90 besar sudut siku-siku; satuan ukuran 1/90 bagian dari sudut siku tegak lurus (90°)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "satuan ukuran panjang dan lebar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "satuan ukuran suhu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang sama dari skala (pengukur suhu dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

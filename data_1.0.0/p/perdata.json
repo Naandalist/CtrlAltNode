@@ -1,0 +1,40 @@
+{
+  "istilah": "perdata",
+  "entri": "per.da.ta1 /pêrdata/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "perdata formal",
+    "perdata material"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per.da.ta1 /pêrdata/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "sipil (sebagai) lawan kriminal atau pidana"
+        }
+      ]
+    },
+    {
+      "lema": "per.da.ta2 /pêrdata/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "hati-hati; ingat-ingat; teliti"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "memperhatikan; memedulikan"
+        }
+      ]
+    }
+  ]
+}

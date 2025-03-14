@@ -1,0 +1,32 @@
+{
+  "istilah": "membias",
+  "entri": "bias » mem.bi.as",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bias » mem.bi.as",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbelok dari arah (seperti perahu yang dilanggar ombak, hujan yang tertiup angin)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Fis[Fisika: -]",
+          "deskripsi": "berbelok arah dari garis tempuhan karena menembus benda bening yang lain (seperti cahaya yang menembus kaca, bayangan yang berada dalam air)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menyimpang (tentang nilai, ukuran) dari yang sebenarnya"
+        }
+      ]
+    }
+  ]
+}

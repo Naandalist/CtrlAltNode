@@ -1,0 +1,42 @@
+{
+  "istilah": "ijab",
+  "entri": "i.jab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berijab",
+    "mengijabkan"
+  ],
+  "gabunganKata": [
+    "ijab kabul",
+    "ijab nikah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penetapan; proses mewajibkan; ucapan tanda penyerahan dari pihak yang menyerahkan dalam suatu akad",
+    "kataAsal": "ījāb"
+  },
+  "data": [
+    {
+      "lema": "i.jab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ucapan tanda penyerahan dari pihak yang menyerahkan dalam suatu perjanjian (kontrak, jual beli)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata-kata yang diucapkan oleh wali mempelai perempuan pada waktu menikahkan mempelai perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penawaran ketika membeli (lawan kabul)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lulus atau diterima (tentang permohonan dalam salat)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "sanga",
+  "entri": "sa.nga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tersanga-sanga"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "saṅa"
+  },
+  "data": [
+    {
+      "lema": "sa.nga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buih atau kotoran logam yang dilebur: besi-besi bekas itu dilebur kembali untuk menghilangkan --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "material yang ditapis dari logam cair"
+        }
+      ]
+    },
+    {
+      "lema": "sa.nga2",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Jw[Jawa: -]",
+          "deskripsi": "sembilan: nama Wali -- terkenal di Indonesia"
+        }
+      ]
+    },
+    {
+      "lema": "sa.nga3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "tersanga-sanga"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "pembanding",
+  "entri": "banding » pem.ban.ding",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "banding » pem.ban.ding",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang membandingkan sesuatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "peranti yang membandingkan dua unsur untuk menentukan kesamaan keduanya; komparator"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "pihak yang mengajukan upaya hukum banding di pengadilan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "mayday",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "tolong saya; panggilan darurat dalam komunikasi radio-telepon internasional"
+        }
+      ]
+    },
+    {
+      "lema": "Mayday",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "tolong saya; panggilan darurat dalam komunikasi radio-telepon internasional"
+        }
+      ]
+    }
+  ]
+}

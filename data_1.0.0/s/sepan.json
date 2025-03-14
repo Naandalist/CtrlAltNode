@@ -1,0 +1,40 @@
+{
+  "istilah": "sepan",
+  "entri": "se.pan1 /sêpan/bentuk tidak baku: span",
+  "bentukTidakBaku": "span",
+  "kataTurunan": [
+    "menyepan",
+    "bersepan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.pan1 /sêpan/bentuk tidak baku: span",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "hanya cukup (sangat terbatas, tidak ada lebihnya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sempit (tidak longgar); ketat: rok --"
+        }
+      ]
+    },
+    {
+      "lema": "se.pan2 /sêpan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bisul-bisul atau bubul pada jari tangan atau kaki seperti bunga karang"
+        }
+      ]
+    }
+  ]
+}

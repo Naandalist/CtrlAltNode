@@ -1,0 +1,37 @@
+{
+  "istilah": "hengkang",
+  "entri": "heng.kang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "heng.kang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mundur: ketika perintah -- diberikan, aku segera meninggalkan tempat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melarikan diri; angkat kaki: bromocorah itu -- saat desa sedang sepi"
+        }
+      ]
+    },
+    {
+      "lema": "heng.kang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pengkar: ada wanita agak -- pergi meninggalkan gedung itu"
+        }
+      ]
+    }
+  ]
+}

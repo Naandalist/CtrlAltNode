@@ -1,0 +1,37 @@
+{
+  "istilah": "siratan",
+  "entri": "sirat1 » si.rat.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sirat1 » si.rat.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil menyirat (merajut) tali jala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "simpul-simpul tali jala yang membentuk mata jala"
+        }
+      ]
+    },
+    {
+      "lema": "sirat2 » si.rat.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sirat-sirat"
+        }
+      ]
+    }
+  ]
+}

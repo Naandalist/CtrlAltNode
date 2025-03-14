@@ -1,0 +1,58 @@
+{
+  "istilah": "pantar",
+  "entri": "pan.tar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pantaran",
+    "sepantar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.tar1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pantaran; sepantar"
+        }
+      ]
+    },
+    {
+      "lema": "pan.tar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sbw[Sumbawa: diubah singkatan label karena ada bahasa ]",
+          "deskripsi": "tempat bersantai berada di kolong rumah panggung di Sumbawa"
+        }
+      ]
+    },
+    {
+      "lema": "pan.tar4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "tiang kayu simbol tangga arwah menuju surga"
+        }
+      ]
+    },
+    {
+      "lema": "Pan.tar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami Pulau Pantar, Kabupaten Alor, Provinsi Nusa Tenggara Timur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Pulau di Kabupaten Alor, Nusa Tenggara Timur"
+        }
+      ]
+    }
+  ]
+}

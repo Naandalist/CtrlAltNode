@@ -1,0 +1,75 @@
+{
+  "istilah": "indeks",
+  "entri": "in.deks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengindeks",
+    "pengindeks",
+    "pengindeksan"
+  ],
+  "gabunganKata": [
+    "indeks albumen",
+    "indeks bias",
+    "indeks Broca",
+    "indeks daur",
+    "indeks es",
+    "indeks glikemik",
+    "indeks glisemik",
+    "indeks harga",
+    "indeks harga konsumen",
+    "indeks harga saham sektoral",
+    "indeks iklim",
+    "indeks insulin",
+    "indeks jari",
+    "indeks keanekaan",
+    "indeks kelembapan",
+    "indeks kemarau",
+    "indeks kersang",
+    "indeks klimatik",
+    "indeks kualitas air",
+    "indeks kuning telur",
+    "indeks makan sehat",
+    "indeks massa tubuh",
+    "indeks meridional",
+    "indeks Miller",
+    "indeks mutu gizi",
+    "indeks peredaran",
+    "indeks prestasi",
+    "indeks prestasi kumulatif",
+    "indeks refraksi",
+    "indeks saham",
+    "indeks sirkulasi",
+    "indeks sitasi",
+    "indeks tekanan rendah",
+    "indeks tekanan tinggi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.deks",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daftar kata atau istilah penting yang terdapat dalam buku cetakan (biasanya pada bagian akhir buku) tersusun menurut abjad yang memberikan informasi mengenai halaman tempat kata atau istilah itu ditemukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daftar harga sekarang dibandingkan dengan harga sebelumnya menurut persentase untuk mengetahui turun naiknya harga barang: -- biaya hidup di Jakarta setiap tahun naik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "(artikel) daftar berita penting hari itu (dalam majalah, surat kabar) yang dimuat di halaman depan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "rasio antara dua unsur kebahasaan tertentu yang mungkin menjadi ukuran suatu ciri tertentu; penunjuk"
+        }
+      ]
+    }
+  ]
+}

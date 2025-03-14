@@ -1,0 +1,36 @@
+{
+  "istilah": "warga",
+  "entri": "war.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kewargaan"
+  ],
+  "gabunganKata": [
+    "warga dalam",
+    "warga dunia",
+    "warga jagat",
+    "warga kota",
+    "warga pinggiran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kelompok, golongan, keluarga, klan, bagian",
+    "kataAsal": "varga"
+  },
+  "data": [
+    {
+      "lema": "war.ga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anggota (keluarga, perkumpulan, dan sebagainya): ia pulang ke kampung untuk menengok --nya yang sakit keras"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tingkatan dalam masyarakat; kasta: Brahmana adalah -- pertama dalam agama Hindu"
+        }
+      ]
+    }
+  ]
+}

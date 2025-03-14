@@ -1,0 +1,33 @@
+{
+  "istilah": "lamur",
+  "entri": "la.mur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.mur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak terang penglihatan; rabun"
+        }
+      ]
+    },
+    {
+      "lema": "la.mur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daging yang banyak lemaknya: jika memasak sayur dengan menggunakan --, bakarlah sepotong jahe dan memarkan, lalu campurkan pada masakan itu"
+        }
+      ]
+    }
+  ]
+}

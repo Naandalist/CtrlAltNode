@@ -1,0 +1,33 @@
+{
+  "istilah": "hobo",
+  "entri": "ho.bo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ho.bo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat musik tiup dari kayu, berbentuk tabung sepanjang 65 cm dengan rongga sempit berbentuk kerucut, kolom udara digetarkan melalui klep tiup ganda"
+        }
+      ]
+    },
+    {
+      "lema": "ho.bo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "rawa yang ditumbuhi rumput yang terapung"
+        }
+      ]
+    }
+  ]
+}

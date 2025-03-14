@@ -1,0 +1,40 @@
+{
+  "istilah": "nobat",
+  "entri": "no.bat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menobatkan",
+    "penobatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "no.bat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "gendang besar; nekara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "gamelan Melayu yang hanya dibunyikan pada waktu upacara penobatan raja: pukul -- tiup nafiri, hendak tabal raja di Keling"
+        }
+      ]
+    },
+    {
+      "lema": "no.bat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keluar dari penghadapan; dihadap: maka empat puluh hari baginda tiada --"
+        }
+      ]
+    }
+  ]
+}

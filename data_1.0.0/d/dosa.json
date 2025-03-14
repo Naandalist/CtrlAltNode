@@ -1,0 +1,46 @@
+{
+  "istilah": "dosa",
+  "entri": "do.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdosa",
+    "pendosa"
+  ],
+  "gabunganKata": [
+    "dosa asal",
+    "dosa besar",
+    "dosa maut",
+    "dosa pokok",
+    "dosa waris"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kesalahan, kejahatan, kerusakan",
+    "kataAsal": "doṣa"
+  },
+  "data": [
+    {
+      "lema": "do.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan yang melanggar hukum Tuhan atau agama: ya Tuhan, ampunilah segala -- kami"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan salah (seperti terhadap orang tua, adat, negara): perbuatan itu dapat dianggap sebagai -- besar terhadap nusa dan bangsa"
+        }
+      ]
+    },
+    {
+      "lema": "do.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "getah pohon kapur barus yang terdapat pada bagian terluar batang"
+        }
+      ]
+    }
+  ]
+}

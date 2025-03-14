@@ -1,0 +1,33 @@
+{
+  "istilah": "tetampan",
+  "entri": "te.tam.pan1 /têtampan/bentuk tidak baku: tetapan",
+  "bentukTidakBaku": "tetapantatapan",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.tam.pan1 /têtampan/bentuk tidak baku: tetapan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "talam"
+        }
+      ]
+    },
+    {
+      "lema": "te.tam.pan2 /têtampan/bentuk tidak baku: tatapan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "selampai dari sutra kuning (dipakai pada bahu oleh pegawai istana apabila menghadap raja atau untuk menudungi barang-barang yang dipersembahkan kepada raja)"
+        }
+      ]
+    }
+  ]
+}

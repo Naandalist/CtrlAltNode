@@ -1,0 +1,37 @@
+{
+  "istilah": "nominal",
+  "entri": "no.mi.nal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "no.mi.nal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hanya namanya: ia hanya secara -- sebagai presiden, sedangkan yang menentukan haluan politik adalah orang lain"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menurut yang tercatat atau apa yang tertulis saja: harga --; nilai --"
+        }
+      ]
+    },
+    {
+      "lema": "no.mi.nal2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "berkaitan dengan nomina"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "raden",
+  "entri": "ra.den",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "raden ajeng",
+    "raden aryo panji",
+    "raden ayu",
+    "raden mas",
+    "raden roro"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.den",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "gelar putra dan putri raja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "gelar keturunan raja (untuk kerabat yang sudah jauh)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sapaan atau panggilan kepada bangsawan (keturunan raja)"
+        }
+      ]
+    }
+  ]
+}

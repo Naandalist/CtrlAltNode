@@ -1,0 +1,42 @@
+{
+  "istilah": "topang",
+  "entri": "to.pang1 bentuk tidak baku: tupang1",
+  "bentukTidakBaku": "tupang1",
+  "kataTurunan": [
+    "bertopang",
+    "bertopangkan",
+    "menopang",
+    "penopang",
+    "tertopang",
+    "topangan",
+    "bertopang",
+    "menopang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.pang1 bentuk tidak baku: tupang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyokong atau penunjang (kayu dan sebagainya) yang bercagak: karena buahnya sarat, pokok pisang itu terpaksa ditunjang dengan --"
+        }
+      ]
+    },
+    {
+      "lema": "to.pang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertopang"
+        }
+      ]
+    }
+  ]
+}

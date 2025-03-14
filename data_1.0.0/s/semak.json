@@ -1,0 +1,63 @@
+{
+  "istilah": "semak",
+  "entri": "se.mak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersemak",
+    "menyemak",
+    "menyemakkan",
+    "semak-semak"
+  ],
+  "gabunganKata": [
+    "semak belukar",
+    "semak hati",
+    "semak pikiran",
+    "semak samun",
+    "semak tinggi"
+  ],
+  "peribahasa": [
+    "bagai getah dibawa ke semak; dari semak ke belukar; dari semak ke belukar; tohok lembing ke semak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.mak",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ simak"
+        }
+      ]
+    },
+    {
+      "lema": "se.mak1 /sêmak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan seperti perdu, tetapi lebih kecil dan rendah, hanya cabang utamanya yang berkayu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh dengan tumbuh-tumbuhan kecil: bukit itu terlalu -- jalannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "kusut (tentang pikiran, perasaan)"
+        }
+      ]
+    },
+    {
+      "lema": "se.mak2 /sêmak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "seemak; seibu: saudara --"
+        }
+      ]
+    }
+  ]
+}

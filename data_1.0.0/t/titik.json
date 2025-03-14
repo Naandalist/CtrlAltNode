@@ -1,0 +1,111 @@
+{
+  "istilah": "titik",
+  "entri": "ti.tik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertitik",
+    "bertitik-titik",
+    "menitik",
+    "menitiki",
+    "menitikkan"
+  ],
+  "gabunganKata": [
+    "titik akhir",
+    "titik akses",
+    "titik api",
+    "titik aries",
+    "titik artikulasi",
+    "titik asap",
+    "titik awal",
+    "titik balik",
+    "titik beku",
+    "titik burjamhal",
+    "titik buta",
+    "titik cair",
+    "titik didih",
+    "titik dua",
+    "titik embun",
+    "titik episentrum",
+    "titik gading",
+    "titik hiperbolik",
+    "titik ibun",
+    "titik impas",
+    "titik inti surya",
+    "titik kabut",
+    "titik kaki",
+    "titik kata",
+    "titik kedalaman",
+    "titik koma",
+    "titik koordinat",
+    "titik kulminasi",
+    "titik kumpul",
+    "titik layu permanen",
+    "titik lebur",
+    "titik leleh",
+    "titik librasi",
+    "titik lidah",
+    "titik magnetik",
+    "titik mata",
+    "titik netral",
+    "titik nyala",
+    "titik optimum",
+    "titik ordinat",
+    "titik panas",
+    "titik pangkal",
+    "titik patah",
+    "titik pegangan",
+    "titik penalti",
+    "titik penambah",
+    "titik pengapungan",
+    "titik penyangkaran",
+    "titik pusar",
+    "titik pusat",
+    "titik putih",
+    "titik sambung",
+    "titik selera",
+    "titik temu",
+    "titik tendangan pojok",
+    "titik tengah",
+    "titik terang",
+    "titik tolak",
+    "titik tumpu",
+    "titik uap",
+    "titik zusanli"
+  ],
+  "peribahasa": [
+    "bagai air titik ke batu; biar titik, jangan tumpah; hinggap bak langau, titik bak hujan; memalit rembes menampung titik; sampai titik darah yang penghabisan; takut titik, lalu tumpah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.tik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "noktah (pada huruf, tanda, tanda baca, dan sebagainya): setiap kalimat berita diakhiri dengan tanda --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran tipografi sebesar 1/72 inci"
+        }
+      ]
+    },
+    {
+      "lema": "ti.tik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butiran kecil yang jatuh (tentang air, embun, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jatuh menetes (tentang air, embun, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

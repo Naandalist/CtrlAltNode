@@ -1,0 +1,41 @@
+{
+  "istilah": "serong",
+  "entri": "se.rong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keserongan",
+    "menyerong",
+    "menyerongkan",
+    "serong-menyerong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.rong",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak lurus (tentang arah); menyimpang dari garis (arah) yang lurus; menyudut (tidak merupakan siku-siku); mencong: tulisannya -- sedikit"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak sebagaimana mestinya; menyimpang dari arah yang lurus: berjalan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "curang; tidak lurus hati; tidak jujur: berbuat (berlaku) --; siapa yang -- ketahuan juga akhirnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak setia; tidak tulus hati: berbuat -- dalam perkawinan adalah perbuatan yang tidak terpuji"
+        }
+      ]
+    }
+  ]
+}

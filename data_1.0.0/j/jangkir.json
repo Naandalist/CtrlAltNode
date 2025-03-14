@@ -1,0 +1,35 @@
+{
+  "istilah": "jangkir",
+  "entri": "jang.kir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jongkar-jangkir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jang.kir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "jari kaki burung yang paling belakang"
+        }
+      ]
+    },
+    {
+      "lema": "jang.kir2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "jongkar-jangkir"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "istilah": "pers",
+  "entri": "pers",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pers buruh",
+    "pers di atas angin",
+    "pers di bawah angin",
+    "pers informasi",
+    "pers kampus",
+    "pers kolek",
+    "pers opini",
+    "pers perjuangan",
+    "pers sensasional"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pers",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "usaha percetakan dan penerbitan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "usaha pengumpulan dan penyiaran berita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyiaran berita melalui surat kabar, majalah, dan radio"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang bergerak dalam penyiaran berita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "medium penyiaran berita, seperti surat kabar, majalah, radio, televisi, dan film"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "singkap",
+  "entri": "sing.kap bentuk tidak baku: singkak",
+  "bentukTidakBaku": "singkak",
+  "kataTurunan": [
+    "menyingkap",
+    "menyingkapkan",
+    "penyingkapan",
+    "singkapan",
+    "tersingkap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "singkap daun, ambil isi (buah)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menyingkap, membuka",
+    "kataAsal": "siṅkab"
+  },
+  "data": [
+    {
+      "lema": "sing.kap bentuk tidak baku: singkak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "buka"
+        }
+      ]
+    }
+  ]
+}

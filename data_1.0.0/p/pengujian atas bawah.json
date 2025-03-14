@@ -1,0 +1,24 @@
+{
+  "istilah": "pengujian atas bawah",
+  "entri": "uji1 » pengujian » pengujian atas bawah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "uji1 » pengujian » pengujian atas bawah",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "pendekatan untuk pengujian integrasi yang komponen di bagian atas hierarki komponen diuji pertama, dengan komponen di tingkat yang lebih rendah disimulasikan oleh program"
+        }
+      ]
+    }
+  ]
+}

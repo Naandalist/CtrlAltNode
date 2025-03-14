@@ -1,0 +1,41 @@
+{
+  "istilah": "lesa",
+  "entri": "le.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lesa lenyai",
+    "lesa lesu",
+    "lesa tulang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "berat, lamban, malas, lembam, tanpa energi, lelah",
+    "kataAsal": "alasa"
+  },
+  "data": [
+    {
+      "lema": "le.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dayung pendek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendayung rakit di sungai"
+        }
+      ]
+    },
+    {
+      "lema": "le.sa /lêsa/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lemah atau lumpuh (tentang anggota badan); lasa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "lampu merah",
+  "entri": "lampu1 » lampu merah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lampu1 » lampu merah",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lampu lalu lintas yang berwarna merah, mengisyaratkan kendaraan tidak boleh jalan"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "isyarat ada bahaya"
+        },
+        {
+          "kelas_kata": "ki[kiasan]",
+          "deskripsi": "isyarat untuk menghentikan kegiatan"
+        },
+        {
+          "kelas_kata": "cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lampu lalu lintas"
+        }
+      ]
+    }
+  ]
+}

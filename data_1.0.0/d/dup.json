@@ -1,0 +1,35 @@
+{
+  "istilah": "dup",
+  "entri": "dup",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengedup"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dup",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengedup"
+        }
+      ]
+    },
+    {
+      "lema": "DUP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "daftar usulan proyek"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "mika",
+  "entri": "mi.ka1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mika cokelat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mi.ka1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "engkau; kamu"
+        }
+      ]
+    },
+    {
+      "lema": "mi.ka2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mineral yang menyerupai kaca yang (secara kimiawi) kompleks, digunakan untuk isolasi listrik; batu cermin; abrak"
+        }
+      ]
+    }
+  ]
+}

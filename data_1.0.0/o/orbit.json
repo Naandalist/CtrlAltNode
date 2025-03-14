@@ -1,0 +1,33 @@
+{
+  "istilah": "orbit",
+  "entri": "or.bit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengorbit",
+    "mengorbitkan",
+    "pengorbit",
+    "pengorbitan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "or.bit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan yang dilalui oleh benda langit dalam peredarannya mengelilingi benda langit lain yang lebih besar gaya gravitasinya: -- bumi mengelilingi matahari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan yang dilalui elektron ketika bergerak mengelilingi inti atom"
+        }
+      ]
+    }
+  ]
+}

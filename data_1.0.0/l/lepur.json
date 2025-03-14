@@ -1,0 +1,36 @@
+{
+  "istilah": "lepur",
+  "entri": "le.pur1 /lêpur/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melepur",
+    "melepur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.pur1 /lêpur/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mati lemas terbenam dalam lumpur"
+        }
+      ]
+    },
+    {
+      "lema": "le.pur2 /lêpur/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melepur"
+        }
+      ]
+    }
+  ]
+}

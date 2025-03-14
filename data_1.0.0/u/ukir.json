@@ -1,0 +1,44 @@
+{
+  "istilah": "ukir",
+  "entri": "u.kir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berukir",
+    "mengukir",
+    "mengukiri",
+    "mengukirkan",
+    "pengukir",
+    "pengukiran",
+    "terukir",
+    "ukir-mengukir",
+    "ukir-ukiran",
+    "ukiran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.kir1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ukir, toreh, pahat"
+        }
+      ]
+    },
+    {
+      "lema": "U.kir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "wuku ke-3"
+        }
+      ]
+    }
+  ]
+}

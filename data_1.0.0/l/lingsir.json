@@ -1,0 +1,27 @@
+{
+  "istilah": "lingsir",
+  "entri": "ling.sir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melingsirkan",
+    "pelingsir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bergerak dari tempatnya, bergerak ke samping, memberi jalan: bergerak ke bawah (dari titik tertinggi), mundur/ berkurang/ susut (matahari, bulan, usia)",
+    "kataAsal": "liṅsir"
+  },
+  "data": [
+    {
+      "lema": "ling.sir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbenam; turun (tentang matahari): matahari pun telah --"
+        }
+      ]
+    }
+  ]
+}

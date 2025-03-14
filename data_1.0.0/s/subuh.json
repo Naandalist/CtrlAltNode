@@ -1,0 +1,34 @@
+{
+  "istilah": "subuh",
+  "entri": "su.buh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "subuh gajah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "waktu fajar",
+    "kataAsal": "ṣubḥ"
+  },
+  "data": [
+    {
+      "lema": "su.buh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu antara terbit fajar dan menjelang terbit matahari; waktu subuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu salat wajib setelah terbit fajar sampai menjelang matahari terbit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "(huruf awal ditulis kapital) salat wajib sebanyak dua rakaat pada waktu antara terbit fajar dan menjelang terbit matahari"
+        }
+      ]
+    }
+  ]
+}

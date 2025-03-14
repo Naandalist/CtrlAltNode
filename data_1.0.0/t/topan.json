@@ -1,0 +1,28 @@
+{
+  "istilah": "topan",
+  "entri": "to.pan bentuk tidak baku: taufan, tofan",
+  "bentukTidakBaku": "taufan, tofan",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "badai; banjir bandang",
+    "kataAsal": "ṭūfān"
+  },
+  "data": [
+    {
+      "lema": "to.pan bentuk tidak baku: taufan, tofan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "siklon tropis yang berkecepatan sangat tinggi; angin ribut; badai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "konveksi yang kekuatan anginnya melebihi 12 pada skala Beaufort"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "rasuk",
+  "entri": "ra.suk1",
+  "bentukTidakBaku": "rangsuk",
+  "kataTurunan": [
+    "kerasukan",
+    "merasuk",
+    "merasuki",
+    "terasuki"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.suk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balok palang yang dipasang di antara tiang rumah untuk menahan atau menopang lantai (pada rumah panggung)"
+        }
+      ]
+    },
+    {
+      "lema": "ra.suk2 bentuk tidak baku: rangsuk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merasuk"
+        }
+      ]
+    }
+  ]
+}

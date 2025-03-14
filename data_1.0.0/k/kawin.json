@@ -1,0 +1,81 @@
+{
+  "istilah": "kawin",
+  "entri": "ka.win1 bentuk tidak baku: kahwin",
+  "bentukTidakBaku": "kahwin",
+  "kataTurunan": [
+    "berkawin",
+    "kawin-mawin",
+    "mengawin",
+    "mengawini",
+    "mengawinkan",
+    "pengawinan",
+    "perkawinan",
+    "mengawin",
+    "pengawin"
+  ],
+  "gabunganKata": [
+    "kawin acak",
+    "kawin amanua",
+    "kawin angkat bapak",
+    "kawin bantu",
+    "kawin batin",
+    "kawin belis",
+    "kawin campur",
+    "kawin di bawah tangan",
+    "kawin gantung",
+    "kawin gelap",
+    "kawin kantor",
+    "kawin kontrak",
+    "kawin lari",
+    "kawin liwat",
+    "kawin masuk",
+    "kawin mutah",
+    "kawin paksa",
+    "kawin roko",
+    "kawin siri",
+    "kawin sirih pinang",
+    "kawin sumbang",
+    "kawin suntik",
+    "kawin tambahan",
+    "kawin tukar gadis",
+    "kawin wakil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.win1 bentuk tidak baku: kahwin",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membentuk keluarga dengan lawan jenis; bersuami atau beristri; menikah: ia -- dengan anak kepala kampung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melakukan hubungan kelamin; berkelamin (untuk hewan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bersetubuh: -- sudah, menikah belum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkawinan"
+        }
+      ]
+    },
+    {
+      "lema": "ka.win2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengawin; pengawin"
+        }
+      ]
+    }
+  ]
+}

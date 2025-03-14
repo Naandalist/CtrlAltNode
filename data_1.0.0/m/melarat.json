@@ -1,0 +1,54 @@
+{
+  "istilah": "melarat",
+  "entri": "larat1 » me.la.rat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemelaratan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "melarat panjang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "larat1 » me.la.rat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlarat-larat, menjalar ke mana-mana (tentang api)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "miskin"
+        }
+      ]
+    },
+    {
+      "lema": "me.la.rat1 /mêlarat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "miskin; sengsara: harapan dapat hidup lebih baik di kota, tetapi yang terjadi justru sebaliknya, mereka menjadi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rugi: harus dipikirkan -- dan manfaatnya"
+        }
+      ]
+    },
+    {
+      "lema": "me.la.rat2 /mêlarat/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ larat1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "mindo",
+  "entri": "min.do1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "min.do1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "endapan (misalnya kopi, tepung) yang muncul setelah dikocok"
+        }
+      ]
+    },
+    {
+      "lema": "min.do2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "makan beberapa saat setelah makan besar: baru 15 menit yang lalu dia makan, sekarang --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "makan dua kali (menambah)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "makan nasi tengah hari (dengan nasi sisa bekas makan pagi)"
+        }
+      ]
+    }
+  ]
+}

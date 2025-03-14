@@ -1,0 +1,44 @@
+{
+  "istilah": "dangkar",
+  "entri": "dang.kar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendangkar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dang.kar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dangkal: sungai itu menjadi -- akibat erosi"
+        }
+      ]
+    },
+    {
+      "lema": "dang.kar2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "gulung"
+        }
+      ]
+    },
+    {
+      "lema": "dang.kar3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat berani; dakar"
+        }
+      ]
+    }
+  ]
+}

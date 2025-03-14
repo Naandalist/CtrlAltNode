@@ -1,0 +1,41 @@
+{
+  "istilah": "lelap",
+  "entri": "le.lap /lêlap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melelapkan",
+    "terlelap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "tidur tak lelap, makan tak kenyang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.lap /lêlap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "nyenyak (tidur); tidak sadarkan diri: ia baru saja --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hilang; lenyap: semuanya -- dari pandangan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lalu tidak boleh ditebus (tentang gadaian): cincinnya -- pada akhir bulan ini"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beku (tentang minyak kelapa): minyak kelapa -- kedinginan"
+        }
+      ]
+    }
+  ]
+}

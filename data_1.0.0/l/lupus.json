@@ -1,0 +1,38 @@
+{
+  "istilah": "lupus",
+  "entri": "lu.pus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lupus diskoid",
+    "lupus eritematosus",
+    "lupus imbasan obat",
+    "lupus neonatal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.pus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit kulit yang berupa borok (terutama pada kulit wajah)"
+        }
+      ]
+    },
+    {
+      "lema": "Lu.pus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "rasi bintang di belahan langit selatan, yang terletak di antara rasi bintang Sentaurus dan Skorpio, namanya berarti 'serigala' dalam bahasa Latin"
+        }
+      ]
+    }
+  ]
+}

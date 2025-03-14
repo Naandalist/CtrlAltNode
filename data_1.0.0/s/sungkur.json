@@ -1,0 +1,39 @@
+{
+  "istilah": "sungkur",
+  "entri": "sung.kur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyungkur",
+    "tersungkur",
+    "menyungkur"
+  ],
+  "gabunganKata": [
+    "sungkur sembam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sung.kur1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyungkur"
+        }
+      ]
+    },
+    {
+      "lema": "sung.kur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mn[Minahasa: -]",
+          "deskripsi": "sekop"
+        }
+      ]
+    }
+  ]
+}

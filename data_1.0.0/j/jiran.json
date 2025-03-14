@@ -1,0 +1,39 @@
+{
+  "istilah": "jiran",
+  "entri": "ji.ran1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjiran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tetangga",
+    "kataAsal": "jīrān"
+  },
+  "data": [
+    {
+      "lema": "ji.ran1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang tinggal sebelah-menyebelah atau dekat (sekitar) rumah; tetangga: -- yang terdekat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "negara tetangga, misalnya Malaysia atau Brunei Darussalam"
+        }
+      ]
+    },
+    {
+      "lema": "ji.ran2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "segala yang terjadi di luar pembawaan keturunan atau genotipe organisme"
+        }
+      ]
+    }
+  ]
+}

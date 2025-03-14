@@ -1,0 +1,61 @@
+{
+  "istilah": "lopak",
+  "entri": "lo.pak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlopak",
+    "berlopak-lopak",
+    "lopak-lapik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "lopak jadi perigi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.pak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lekukan tanah yang berisi air (tidak mengalir); kobakan"
+        }
+      ]
+    },
+    {
+      "lema": "lo.pak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "petak (sawah): memiliki sawah tiga --"
+        }
+      ]
+    },
+    {
+      "lema": "lo.pak3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kembali bertingkah laku, berpikir, dan sebagainya sebagai anak-anak (tentang orang yang berusia lanjut)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tahu yang akan dikatakannya; bingung"
+        }
+      ]
+    },
+    {
+      "lema": "lo.pak4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Min[Mineralogi: -]",
+          "deskripsi": "tempat menampung air atau cairan lumpur pada tambang yang kemudian dipompakan ke luar"
+        }
+      ]
+    }
+  ]
+}

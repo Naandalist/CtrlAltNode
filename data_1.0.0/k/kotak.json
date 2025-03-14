@@ -1,0 +1,72 @@
+{
+  "istilah": "kotak",
+  "entri": "ko.tak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkotak-kotak",
+    "berkotakan",
+    "mengkotak-kotakkan",
+    "mengotak",
+    "mengotak-ngotakkan",
+    "pengotak-ngotakan",
+    "pengotakan",
+    "terkotak",
+    "terkotak-kotak"
+  ],
+  "gabunganKata": [
+    "kotak alamat",
+    "kotak amal",
+    "kotak arsip",
+    "kotak barometer",
+    "kotak hitam",
+    "kotak kontak",
+    "kotak kosmetik",
+    "kotak listrik",
+    "kotak makan",
+    "kotak masuk",
+    "kotak musik",
+    "kotak obrolan",
+    "kotak pandora",
+    "kotak pemecahan",
+    "kotak penalti",
+    "kotak pensil",
+    "kotak perkakas",
+    "kotak pesan",
+    "kotak pos",
+    "kotak saran",
+    "kotak sarang",
+    "kotak spora",
+    "kotak suara",
+    "kotak surat",
+    "kotak tembakan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.tak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peti kecil tempat barang perhiasan, barang kecil, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "petak: setelah panen, -- sawah itu ditaburi dengan benih ikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "tingkatan atau tempat yang tiada masuk dalam hitungan: dalam babak penyisihan kesebelasan itu sudah masuk --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Olr[Olahraga: -]",
+          "deskripsi": "ruang (bidang) empat persegi: di dalamnya terdapat dua kolam renang, satu berbentuk lingkaran dan satunya lagi berbentuk --"
+        }
+      ]
+    }
+  ]
+}

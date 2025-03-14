@@ -1,0 +1,64 @@
+{
+  "istilah": "ciri",
+  "entri": "ci.ri1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berciri",
+    "bercirikan",
+    "mencirikan",
+    "pencirian"
+  ],
+  "gabunganKata": [
+    "ciri akustis",
+    "ciri ekspresif",
+    "ciri ekstralinguistis",
+    "ciri intralinguistis",
+    "ciri khas bahasa",
+    "ciri konfigurasi",
+    "ciri korelasi",
+    "ciri linier",
+    "ciri lokal",
+    "ciri melimpah",
+    "ciri nondistingtif",
+    "ciri pembagian",
+    "ciri pembeda",
+    "ciri rongga",
+    "ciri sekunder",
+    "ciri sumber",
+    "ciri suprasegmental"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tanda, ciri pembeda, bukti",
+    "kataAsal": "ciri"
+  },
+  "data": [
+    {
+      "lema": "ci.ri1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "mantra (doa) yang dibacakan pada waktu penobatan raja; ceria: setelah orang yang hendak diberi gelar itu datang, dibacalah --"
+        }
+      ]
+    },
+    {
+      "lema": "ci.ri2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda khas yang membedakan sesuatu dari yang lain: bagaimana -- anak yang hilang itu?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ikn[Perikanan: -]",
+          "deskripsi": "tanda pada organisme yang merupakan interaksi antargen atau antargen dan lingkungan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "tanda atau sifat suatu bentuk kebahasaan"
+        }
+      ]
+    }
+  ]
+}

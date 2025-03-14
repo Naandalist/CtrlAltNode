@@ -1,0 +1,33 @@
+{
+  "istilah": "sa",
+  "entri": "sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama huruf ke-4 abjad Arab",
+    "kataAsal": "ṡā’"
+  },
+  "data": [
+    {
+      "lema": "sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-4 abjad Arab"
+        }
+      ]
+    },
+    {
+      "lema": "SA",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "satuan astronomi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "mengemasi",
+  "entri": "emas1 » meng.e.mas.i",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "emas1 » meng.e.mas.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melapisi dengan emas: pandai emas itu telah ~ perhiasan perunggu yang dijualnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menyogok; menyuap: dia tidak berhasil ~ jaksa itu"
+        }
+      ]
+    },
+    {
+      "lema": "kemas » me.nge.mas.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengemas"
+        }
+      ]
+    }
+  ]
+}

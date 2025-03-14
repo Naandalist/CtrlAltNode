@@ -1,0 +1,44 @@
+{
+  "istilah": "singgang",
+  "entri": "sing.gang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyinggang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sing.gang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang direbus dan digarami supaya tahan lama"
+        }
+      ]
+    },
+    {
+      "lema": "sing.gang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "panggang; salai: ayam --"
+        }
+      ]
+    },
+    {
+      "lema": "sing.gang3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "jongkok, lalu berdiri dengan menyilangkan tangan dan menarik telinga sendiri (sebagai hukuman terhadap murid-murid dan sebagainya) secara berulang-ulang"
+        }
+      ]
+    }
+  ]
+}

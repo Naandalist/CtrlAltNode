@@ -1,0 +1,33 @@
+{
+  "istilah": "flop",
+  "entri": "flop1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "flop1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "gaya lompat tinggi dengan gerak jungkir balik di udara dan menyentak-nyentakkan kaki: Fosbury Flop atlet dari Amerika Serikat pada Olimpiade ke XIX di Meksiko tahun 1968 melakukan untuk pertama kali teknik lompat tinggi --"
+        }
+      ]
+    },
+    {
+      "lema": "flop2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bld[Belanda: -]",
+          "deskripsi": "kegagalan"
+        }
+      ]
+    }
+  ]
+}

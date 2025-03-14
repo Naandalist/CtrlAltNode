@@ -1,0 +1,28 @@
+{
+  "istilah": "konoid",
+  "entri": "ko.no.id",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.no.id",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "kelenjar di tengah otak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "benda tiga dimensi yang diperoleh apabila elips, parabola, atau hiperbola diputar mengelilingi sumbunya"
+        }
+      ]
+    }
+  ]
+}

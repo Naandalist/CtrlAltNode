@@ -1,0 +1,37 @@
+{
+  "istilah": "berderang",
+  "entri": "derang1 » ber.de.rang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "derang1 » ber.de.rang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbunyi “rang, rang”"
+        }
+      ]
+    },
+    {
+      "lema": "derang2 » ber.de.rang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "mulai terang: hari telah ~ siang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -] ki[kiasan]",
+          "deskripsi": "mulai terbuka: akal ~"
+        }
+      ]
+    }
+  ]
+}

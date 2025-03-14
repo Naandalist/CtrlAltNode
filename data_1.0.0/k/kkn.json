@@ -1,0 +1,33 @@
+{
+  "istilah": "kkn",
+  "entri": "KKN1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "KKN1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kuliah kerja nyata"
+        }
+      ]
+    },
+    {
+      "lema": "KKN2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "korupsi, kolusi, dan nepotisme"
+        }
+      ]
+    }
+  ]
+}

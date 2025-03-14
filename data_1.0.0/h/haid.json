@@ -1,0 +1,34 @@
+{
+  "istilah": "haid",
+  "entri": "ha.id",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "haid pertama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "siklus pada wanita dalam masa reproduksi dengan keluarnya darah dari rahim pada waktu tertentu; datang bulan",
+    "kataAsal": "ḥaiḍ"
+  },
+  "data": [
+    {
+      "lema": "ha.id",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "peristiwa fisiologis dan siklus pada wanita dalam masa reproduksi dengan keluarnya darah dari rahim sebagai akibat pelepasan selaput lendir rahim; menstruasi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keluar darah dari rahim wanita dewasa setiap bulan sebagai bagian dari siklus hidup biologisnya; datang bulan; mendapat kain kotor: wanita yang sedang -- tidak diizinkan melakukan salat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "datang bulan; menstruasi"
+        }
+      ]
+    }
+  ]
+}

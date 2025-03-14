@@ -1,0 +1,70 @@
+{
+  "istilah": "isi",
+  "entri": "i.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berisi",
+    "berisikan",
+    "isian",
+    "keterisian",
+    "mengisi",
+    "mengisikan",
+    "pengisi",
+    "pengisian",
+    "seisi",
+    "terisi"
+  ],
+  "gabunganKata": [
+    "isi dada",
+    "isi frekuensi",
+    "isi hati",
+    "isi kampung",
+    "isi kawin",
+    "isi negeri",
+    "isi pantun",
+    "isi perut",
+    "isi pulau",
+    "isi rumah",
+    "isi tolak"
+  ],
+  "peribahasa": [
+    "bagai kuku dengan isi; berebut lontong tanpa isi; buka kulit, ambil (tampak) isi; isi lemak dapat ke orang, tulang bulu pulang ke kita; singkap daun, ambil isi (buah)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "isi, apa yang terdapat (hidup, dan lain-lain) dalam sesuatu tempat, isi yang khas, inti atau esensi, hiasan untuk, cita-cita dari",
+    "kataAsal": "isi"
+  },
+  "data": [
+    {
+      "lema": "i.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang ada (termuat, terkandung, dan sebagainya) di dalam suatu benda dan sebagainya: -- gudang itu pupuk dan alat-alat pertanian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "besarnya suatu ruangan; volume: -- kaleng itu 20 liter"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "apa yang tertulis di dalamnya (tentang buku, surat, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "inti atau bagian yang pokok dari suatu wejangan (pidato,pembicaraan, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ISI",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Institut Seni Indonesia"
+        }
+      ]
+    }
+  ]
+}

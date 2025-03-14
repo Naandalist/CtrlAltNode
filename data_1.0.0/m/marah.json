@@ -1,0 +1,43 @@
+{
+  "istilah": "marah",
+  "entri": "ma.rah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemarah-marahan",
+    "kemarahan",
+    "marah-marah",
+    "marahan",
+    "memarahi",
+    "memarahkan",
+    "pemarah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "marah akan tikus, rengkiang dibakar"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "darah; marah: berdarah",
+    "kataAsal": "rah"
+  },
+  "data": [
+    {
+      "lema": "ma.rah1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat tidak senang (karena dihina, diperlakukan tidak sepantasnya, dan sebagainya); berang; gusar"
+        }
+      ]
+    },
+    {
+      "lema": "ma.rah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "gelar anak sutan yang menikah dengan perempuan biasa atau putri (bangsawan) dengan laki-laki biasa"
+        }
+      ]
+    }
+  ]
+}

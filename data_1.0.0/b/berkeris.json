@@ -1,0 +1,38 @@
+{
+  "istilah": "berkeris",
+  "entri": "keris » ber.ke.ris",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "berkeras tidak berkeris"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "keris » ber.ke.ris",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memakai (mempergunakan) keris: ia tidak ~, tetapi berpedang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tikam-menikam dengan keris: mereka main ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyandang keris"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mempunyai kekuatan untuk mempertahankan diri"
+        }
+      ]
+    }
+  ]
+}

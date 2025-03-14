@@ -1,0 +1,42 @@
+{
+  "istilah": "jebol",
+  "entri": "je.bol /jêbol/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jebolan",
+    "menjebol",
+    "menjebolkan",
+    "penjebol",
+    "penjebolan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.bol /jêbol/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terangkat dari tempatnya tertanam (tentang tanaman) sampai ke akar-akarnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rusak parah (terbongkar) hingga tidak berfungsi (tentang tanggul air, dinding, dan sebagainya) karena tidak mampu menahan benturan keras yang melanda"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak mampu menahan serangan lawan (misalnya dalam pertandingan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tidak mampu mempertahankan nilai-nilai budaya yang dimiliki dalam menghadapi arus budaya lain (asing) yang melanda"
+        }
+      ]
+    }
+  ]
+}

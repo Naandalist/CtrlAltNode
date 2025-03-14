@@ -1,0 +1,30 @@
+{
+  "istilah": "takmir",
+  "entri": "tak.mir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "takmir masjid"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pelanggengan",
+    "kataAsal": "ta‘mīr"
+  },
+  "data": [
+    {
+      "lema": "tak.mir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "upaya memakmurkan atau meramaikan misalnya tentang masjid"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pengurus masjid"
+        }
+      ]
+    }
+  ]
+}

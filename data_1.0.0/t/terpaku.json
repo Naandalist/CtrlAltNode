@@ -1,0 +1,40 @@
+{
+  "istilah": "terpaku",
+  "entri": "paku1 » ter.pa.ku",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "paku1 » ter.pa.ku",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah dipaku: peti-peti barang yang akan dikirimkan semuanya ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "diam berdiri di tempat, tidak sempat bereaksi: penjaga gawang itu ~ ketika tendangan bola lawan mendadak membobolkan gawangnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "berdiri (duduk) tidak bergerak-gerak: ia duduk ~ sambil memikirkan nasibnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "melekat; tertanam: pesan ibunya sudah ~ di sanubarinya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "terhenti; terbenam; tertuju: perhatiannya ~ pada masalah yang satu itu saja"
+        }
+      ]
+    }
+  ]
+}

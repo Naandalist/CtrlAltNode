@@ -1,0 +1,42 @@
+{
+  "istilah": "sekah",
+  "entri": "se.kah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.kah1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "gagah tangkas (sikapnya); baik sikap tubuhnya; segak"
+        }
+      ]
+    },
+    {
+      "lema": "se.kah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ seka1"
+        }
+      ]
+    },
+    {
+      "lema": "se.kah /sêkah/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ serkah"
+        }
+      ]
+    }
+  ]
+}

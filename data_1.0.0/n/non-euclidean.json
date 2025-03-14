@@ -1,0 +1,33 @@
+{
+  "istilah": "non-euclidean",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "tentang ilmu ukur yang tidak mengikuti aksioma Euclides bahwa antara dua titik hanya dapat ditarik satu garis"
+        }
+      ]
+    },
+    {
+      "lema": "non-Euclidean",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "tentang ilmu ukur yang tidak mengikuti aksioma Euclides bahwa antara dua titik hanya dapat ditarik satu garis"
+        }
+      ]
+    }
+  ]
+}

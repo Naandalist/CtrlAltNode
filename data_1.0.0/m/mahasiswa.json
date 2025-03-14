@@ -1,0 +1,26 @@
+{
+  "istilah": "mahasiswa",
+  "entri": "ma.ha.sis.wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemahasiswaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "murid, seseorang yang diajari",
+    "kataAsal": "śiṣya"
+  },
+  "data": [
+    {
+      "lema": "ma.ha.sis.wa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang belajar di perguruan tinggi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "istilah": "kakap",
+  "entri": "ka.kap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengakap",
+    "pengakap",
+    "mengakap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "kakap"
+  },
+  "data": [
+    {
+      "lema": "ka.kap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut yang sering memasuki perairan tawar, ukurannya dapat mencapai 200 cm, tubuhnya pipih memanjang, bersisik, warnanya keperakan, tersebar di daerah Indo-Pasifik〔Lates calcarifer〕"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "berukuran besar atau tinggi secara fisik atau kualitas (tentang penjahat, perusahaan, dan sebagainya); penting (tentang berita dan sebagainya): pengusaha --; koruptor --"
+        }
+      ]
+    },
+    {
+      "lema": "ka.kap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu yang sempit dan rendah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapal perang lama, bentuknya seperti kakap"
+        }
+      ]
+    },
+    {
+      "lema": "ka.kap3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengakap; pengakap"
+        }
+      ]
+    },
+    {
+      "lema": "ka.kap4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat sirih"
+        }
+      ]
+    },
+    {
+      "lema": "ka.kap5",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "pegang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.kap6",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kelas1"
+        }
+      ]
+    }
+  ]
+}

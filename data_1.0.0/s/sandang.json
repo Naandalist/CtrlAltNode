@@ -1,0 +1,47 @@
+{
+  "istilah": "sandang",
+  "entri": "san.dang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sandangan",
+    "mempersandangkan",
+    "menyandang",
+    "menyandangkan",
+    "penyandang",
+    "tersandang"
+  ],
+  "gabunganKata": [
+    "sandang gawai",
+    "sandang pangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "san.dang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan pakaian: mutu -- dalam negeri tidak kalah dengan buatan luar negeri"
+        }
+      ]
+    },
+    {
+      "lema": "san.dang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali (dari kulit, kain, rotan, dan sebagainya) yang dipakai untuk membawa sesuatu dengan disampirkan di bahu atau disilangkan di dada: bedil itu diikat dengan -- kulit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selendang; selempang: -- merah yang menggantung di bahunya menambah cantik pemakainya"
+        }
+      ]
+    }
+  ]
+}

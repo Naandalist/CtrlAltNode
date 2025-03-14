@@ -1,0 +1,42 @@
+{
+  "istilah": "bonggol",
+  "entri": "bong.gol1 bentuk tidak baku: bongkol1, bonjol1",
+  "bentukTidakBaku": "bongkol1, bonjol1",
+  "kataTurunan": [
+    "berbonggol",
+    "membonggol",
+    "membonggol",
+    "membonggoli"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bong.gol1 bentuk tidak baku: bongkol1, bonjol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bonjol pada batang kayu dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daging pada tengkuk; punuk"
+        }
+      ]
+    },
+    {
+      "lema": "bong.gol2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "pukul"
+        }
+      ]
+    }
+  ]
+}

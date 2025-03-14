@@ -1,0 +1,38 @@
+{
+  "istilah": "kucek",
+  "entri": "ku.cek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kucekan",
+    "mengucek",
+    "mengucek-ngucek",
+    "pengucekan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.cek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "anak ayam yang masih kecil"
+        }
+      ]
+    },
+    {
+      "lema": "ku.cek /kucêk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gosok (dengan tangan)"
+        }
+      ]
+    }
+  ]
+}

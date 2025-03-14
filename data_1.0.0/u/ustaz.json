@@ -1,0 +1,28 @@
+{
+  "istilah": "ustaz",
+  "entri": "us.taz bentuk tidak baku: istaz, ustad, ustadz",
+  "bentukTidakBaku": "istaz, ustad, ustadz",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengajar",
+    "kataAsal": "ustāż"
+  },
+  "data": [
+    {
+      "lema": "us.taz bentuk tidak baku: istaz, ustad, ustadz",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "guru agama atau guru besar (laki-laki)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "tuan (sebutan atau sapaan)"
+        }
+      ]
+    }
+  ]
+}

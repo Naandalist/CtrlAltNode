@@ -1,0 +1,38 @@
+{
+  "istilah": "sampir",
+  "entri": "sam.pir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersampiran",
+    "menyampirkan",
+    "sampiran",
+    "tersampir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "syal, selendang",
+    "kataAsal": "sampir"
+  },
+  "data": [
+    {
+      "lema": "sam.pir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian sarung keris sebelah atas (dibuat dari kayu kemuning)"
+        }
+      ]
+    },
+    {
+      "lema": "sam.pir2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyampirkan"
+        }
+      ]
+    }
+  ]
+}

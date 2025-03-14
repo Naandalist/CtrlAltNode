@@ -1,0 +1,40 @@
+{
+  "istilah": "manfaat",
+  "entri": "man.fa.at bentuk tidak baku: menepaat",
+  "bentukTidakBaku": "menepaat",
+  "kataTurunan": [
+    "bermanfaat",
+    "kebermanfaatan",
+    "kemanfaatan",
+    "memanfaatkan",
+    "pemanfaatan"
+  ],
+  "gabunganKata": [
+    "manfaat dan mudarat",
+    "manfaat langsung",
+    "manfaat sekunder",
+    "manfaat terpakai",
+    "manfaat tidak langsung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "guna",
+    "kataAsal": "manfa‘ah"
+  },
+  "data": [
+    {
+      "lema": "man.fa.at bentuk tidak baku: menepaat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "guna; faedah: sumbangan itu banyak --nya bagi orang-orang miskin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laba; untung: -- penjualan ternaknya berlipat ganda"
+        }
+      ]
+    }
+  ]
+}

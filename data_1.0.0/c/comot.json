@@ -1,0 +1,38 @@
+{
+  "istilah": "comot",
+  "entri": "co.mot1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cemomot",
+    "comot-comot",
+    "comotan",
+    "mencomot"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.mot1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kotor sekali (seperti coreng-moreng, berlumur lumpur): rupanya seperti beruk --; pakaian mereka -- setelah membersihkan mobil"
+        }
+      ]
+    },
+    {
+      "lema": "co.mot2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ambil"
+        }
+      ]
+    }
+  ]
+}

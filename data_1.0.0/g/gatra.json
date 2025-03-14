@@ -1,0 +1,42 @@
+{
+  "istilah": "gatra",
+  "entri": "gat.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggatra"
+  ],
+  "gabunganKata": [
+    "gatra pangkal",
+    "gatra sebutan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "anggota badan, cabang, dahan",
+    "kataAsal": "gātra"
+  },
+  "data": [
+    {
+      "lema": "gat.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "lingkungan tertentu dalam kalimat yang dapat ditempati oleh suatu unsur bahasa"
+        }
+      ]
+    },
+    {
+      "lema": "gat.ra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wujud"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sudut pandangan; aspek"
+        }
+      ]
+    }
+  ]
+}

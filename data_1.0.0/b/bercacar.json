@@ -1,0 +1,37 @@
+{
+  "istilah": "bercacar",
+  "entri": "cacar1 » ber.ca.car",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cacar1 » ber.ca.car",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersuntik cacar (untuk menolak penyakit cacar): ibu-ibu membawa bayinya ~ di balai pengobatan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(sudah) disuntik cacar: agar tidak sakit, kita harus ~"
+        }
+      ]
+    },
+    {
+      "lema": "cacar2 » ber.ca.car",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlari-lari saja (tentang kuda yang masih liar): kuda itu ~, tidak mau diam"
+        }
+      ]
+    }
+  ]
+}

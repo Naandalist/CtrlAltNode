@@ -1,0 +1,37 @@
+{
+  "istilah": "ucok",
+  "entri": "u.cok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.cok1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim] Mk[Minangkabau: -]",
+          "deskripsi": "berunding dengan damai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim] Mk[Minangkabau: -]",
+          "deskripsi": "berdamai"
+        }
+      ]
+    },
+    {
+      "lema": "u.cok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "anak laki-laki"
+        }
+      ]
+    }
+  ]
+}

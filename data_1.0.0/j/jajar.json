@@ -1,0 +1,58 @@
+{
+  "istilah": "jajar",
+  "entri": "ja.jar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjajar",
+    "berjajar-jajar",
+    "bersejajar",
+    "jajaran",
+    "menjajarkan",
+    "mensejajarkan",
+    "menyejajarkan",
+    "penjajaran",
+    "penyejajaran",
+    "persejajaran",
+    "sejajar",
+    "jajaran",
+    "menjajar",
+    "menjajarkan",
+    "terjajar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "jajar"
+  },
+  "data": [
+    {
+      "lema": "ja.jar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baris; deret; banjar: -- pohon cemara"
+        }
+      ]
+    },
+    {
+      "lema": "ja.jar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang panjang bekas dibajak; alur"
+        }
+      ]
+    },
+    {
+      "lema": "ja.jar3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menjajarkan; terjajar"
+        }
+      ]
+    }
+  ]
+}

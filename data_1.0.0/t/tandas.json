@@ -1,0 +1,50 @@
+{
+  "istilah": "tandas",
+  "entri": "tan.das1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menandaskan",
+    "menandaskan",
+    "penandasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tan.das1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "habis semuanya; hilang sama sekali; habis-habisan: seluruh gajinya telah -- di meja judi; licin -- (lindang --) habis sama sekali; gurun (padang) -- padang yang tidak ditumbuhi apa-apa"
+        }
+      ]
+    },
+    {
+      "lema": "tan.das2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pasti dan tegas sekali; jelas; nyata: dikatakan dengan --; sikap yang --"
+        }
+      ]
+    },
+    {
+      "lema": "tan.das3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jamban, kakus (di atas selokan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat mandi (di sungai); pemandian"
+        }
+      ]
+    }
+  ]
+}

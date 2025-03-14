@@ -1,0 +1,32 @@
+{
+  "istilah": "isya",
+  "entri": "i.sya bentuk tidak baku: isha",
+  "bentukTidakBaku": "isha",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "waktu salat wajib setelah lenyapnya sinar merah di ufuk barat sampai menjelang terbit fajar; salat wajib sebanyak empat rakaat pada malam hari antara habis waktu magrib dan menjelang subuh",
+    "kataAsal": "‘isyā’"
+  },
+  "data": [
+    {
+      "lema": "i.sya bentuk tidak baku: isha",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu menjelang malam sesudah lenyapnya sinar merah di ufuk barat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu salat wajib setelah lenyapnya sinar merah di ufuk barat sampai menjelang terbit fajar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "(ditulis dengan huruf awal kapital) salat wajib sebanyak empat rakaat pada malam hari antara habis waktu magrib dan menjelang subuh"
+        }
+      ]
+    }
+  ]
+}

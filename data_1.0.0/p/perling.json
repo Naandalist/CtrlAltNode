@@ -1,0 +1,35 @@
+{
+  "istilah": "perling",
+  "entri": "per.ling1 /pêrling/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "teperling"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per.ling1 /pêrling/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cemperling"
+        }
+      ]
+    },
+    {
+      "lema": "per.ling2 /pêrling/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "teperling"
+        }
+      ]
+    }
+  ]
+}

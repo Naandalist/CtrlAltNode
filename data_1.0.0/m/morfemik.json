@@ -1,0 +1,28 @@
+{
+  "istilah": "morfemik",
+  "entri": "mor.fe.mik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mor.fe.mik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "teknik penganalisisan bahasa ke dalam morfem, termasuk deskripsi mengenai bentuk dan susunannya (istilah ini digunakan di dalam kajian sinkronis, aspek kesejarahan mengenai pembentukan kata yang tercakup di dalam bidang morfologi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "morfologi"
+        }
+      ]
+    }
+  ]
+}

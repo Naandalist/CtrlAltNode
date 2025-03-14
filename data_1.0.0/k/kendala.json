@@ -1,0 +1,40 @@
+{
+  "istilah": "kendala",
+  "entri": "ken.da.la /kêndala/bentuk tidak baku: gendala",
+  "bentukTidakBaku": "gendala",
+  "kataTurunan": [
+    "berkendala",
+    "mengendalakan",
+    "terkendala"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cela, salah",
+    "kataAsal": "kandala"
+  },
+  "data": [
+    {
+      "lema": "ken.da.la /kêndala/bentuk tidak baku: gendala",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "halangan; rintangan; gendala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "faktor atau keadaan yang membatasi, menghalangi, atau mencegah pencapaian sasaran; kekuatan yang memaksa pembatalan pelaksanaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "hal (khususnya bentuk geometri lingkungan) yang membatasi keleluasaan gerak sebuah benda atau suatu sistem"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "hal-hal yang membatasi kemampuan gerak seseorang"
+        }
+      ]
+    }
+  ]
+}

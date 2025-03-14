@@ -1,0 +1,46 @@
+{
+  "istilah": "rempak",
+  "entri": "rem.pak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berempak",
+    "menyerempak",
+    "serempak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bergabung, dikumpulkan bersama, berbondong-bondong, dalam barisan rapat",
+    "kataAsal": "rampak"
+  },
+  "data": [
+    {
+      "lema": "rem.pak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sumbing pada tepinya (tentang pisau dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "rem.pak1 /rêmpak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berjejer sederet (bersama-sama maju atau bergerak)"
+        }
+      ]
+    },
+    {
+      "lema": "rem.pak2 /rêmpak/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ rampak2"
+        }
+      ]
+    }
+  ]
+}

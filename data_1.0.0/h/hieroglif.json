@@ -1,0 +1,28 @@
+{
+  "istilah": "hieroglif",
+  "entri": "hi.e.rog.lif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.e.rog.lif",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tulisan dan abjad Mesir Kuno, yang terdiri atas 700 gambar dan lambang dalam bentuk manusia, hewan, atau benda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lambang tulisan (menyerupai gambar paku) yang bersifat rahasia atau teka-teki yang sukar dibaca atau dipahami maknanya"
+        }
+      ]
+    }
+  ]
+}

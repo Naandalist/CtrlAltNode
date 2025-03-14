@@ -1,0 +1,29 @@
+{
+  "istilah": "nukil",
+  "entri": "nu.kil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menukil",
+    "menukilkan",
+    "nukilan",
+    "ternukil"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "dipindah; disalin; dikutip",
+    "kataAsal": "nuqila"
+  },
+  "data": [
+    {
+      "lema": "nu.kil",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kutip"
+        }
+      ]
+    }
+  ]
+}

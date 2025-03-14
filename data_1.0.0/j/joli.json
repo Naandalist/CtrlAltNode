@@ -1,0 +1,45 @@
+{
+  "istilah": "joli",
+  "entri": "jo.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sejoli",
+    "joli-joli"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jo.li1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tandu yang biasanya tertutup atau bertirai untuk mengusung raja, putri-putri keraton, dan sebagainya; usungan"
+        }
+      ]
+    },
+    {
+      "lema": "jo.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasangan (tentang kuda)"
+        }
+      ]
+    },
+    {
+      "lema": "jo.li3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "joli-joli"
+        }
+      ]
+    }
+  ]
+}

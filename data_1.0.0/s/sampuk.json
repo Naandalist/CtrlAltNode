@@ -1,0 +1,30 @@
+{
+  "istilah": "sampuk",
+  "entri": "sam.puk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersampuk",
+    "kesampukan",
+    "menyampuk",
+    "menyampukkan",
+    "tersampuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.puk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "langgar, tabrak, tubruk, bentur"
+        }
+      ]
+    }
+  ]
+}

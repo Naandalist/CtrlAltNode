@@ -1,0 +1,33 @@
+{
+  "istilah": "sinapsis",
+  "entri": "si.nap.sis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.nap.sis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat sinyal berpindah dari satu sel saraf ke sel saraf yang lain"
+        }
+      ]
+    },
+    {
+      "lema": "si.nap.sis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasangan kromosom homolog dari setiap induk selama tahap profase awal pembelahan sel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "dramatisasi",
+  "entri": "dra.ma.ti.sa.si bentuk tidak baku: dramatisir",
+  "bentukTidakBaku": "dramatisir",
+  "kataTurunan": [
+    "mendramatisasi",
+    "mendramatisasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dra.ma.ti.sa.si bentuk tidak baku: dramatisir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyesuaian cerita untuk pertunjukan sandiwara; pendramaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal membuat suatu peristiwa menjadi mengesankan atau mengharukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembawaan atau pembacaan puisi atau prosa secara drama"
+        }
+      ]
+    }
+  ]
+}

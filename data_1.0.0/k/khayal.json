@@ -1,0 +1,36 @@
+{
+  "istilah": "khayal",
+  "entri": "kha.yal bentuk tidak baku: kayal",
+  "bentukTidakBaku": "kayal",
+  "kataTurunan": [
+    "berkhayal",
+    "khayalan",
+    "mengkhayal",
+    "mengkhayalkan",
+    "pengkhayal",
+    "pengkhayalan",
+    "terkhayal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bayang-bayang",
+    "kataAsal": "khayāl"
+  },
+  "data": [
+    {
+      "lema": "kha.yal bentuk tidak baku: kayal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lukisan (gambar) dalam angan-angan; fantasi: apa yang diceritakan itu -- belaka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang diangan-angankan seperti benar-benar ada: cerita --"
+        }
+      ]
+    }
+  ]
+}

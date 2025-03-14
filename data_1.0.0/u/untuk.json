@@ -1,0 +1,68 @@
+{
+  "istilah": "untuk",
+  "entri": "un.tuk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beruntuk",
+    "memperuntukkan",
+    "menguntukkan",
+    "peruntukan",
+    "teruntuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "un.tuk1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata depan untuk menyatakan bagi ...; bagian: ini --ku, yang itu --mu"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "sebab atau alasan: -- kesalahan itu, ia dihukum dua tahun; -- semua itu, ia mau berkorban"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "tujuan atau maksud; bagi: lemari -- (menyimpan) pakaian; pakaian -- segala usia"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "penggantian (sebagai ganti ...); (disediakan, digunakan, dipakai) sebagai ...: peti itu dipakai -- meja makan; diberi pisau -- senjata"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "selama: -- beberapa bulan ia terpaksa istirahat di rumah sakit"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "sudah: -- ketiga kalinya saya memperingatkan"
+        }
+      ]
+    },
+    {
+      "lema": "un.tuk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "bagian dari milik yang dibagi-bagikan"
+        }
+      ]
+    },
+    {
+      "lema": "un.tuk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemaluan perempuan (kata penghalus)"
+        }
+      ]
+    }
+  ]
+}

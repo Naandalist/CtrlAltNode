@@ -1,0 +1,60 @@
+{
+  "istilah": "sarat",
+  "entri": "sa.rat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyarat",
+    "menyarat-nyarat",
+    "menyarati"
+  ],
+  "gabunganKata": [
+    "sarat bertepas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.rat1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh dan berat (karena berisi muatan atau karena banyak buahnya dan sebagainya): kapal itu telah -- muatan beras berkarung-karung; pohon mangga itu -- dengan buah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlalu banyak dan terlalu berat: perahu yang -- tidak dapat laju"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh mengandung (air, kesusahan, dan sebagainya): -- hati memikirkan anaknya itu; mendung hitam -- mengandung hujan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "bunting; mengandung: lembunya sedang --; perempuan itu sedang --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "jarak yang diukur tegak lurus dari titik paling bawah dari lunas kapal sampai ke permukaan air"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rat3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ syarat"
+        }
+      ]
+    }
+  ]
+}

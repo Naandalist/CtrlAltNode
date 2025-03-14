@@ -1,0 +1,49 @@
+{
+  "istilah": "taruh",
+  "entri": "ta.ruh bentuk tidak baku: taruk2",
+  "bentukTidakBaku": "taruk2",
+  "kataTurunan": [
+    "berpenaruhan",
+    "berpetaruh",
+    "bertaruh",
+    "bertaruhan",
+    "mempertaruhkan",
+    "menaruh",
+    "menaruhi",
+    "menaruhkan",
+    "penaruhan",
+    "pertaruhan",
+    "petaruh",
+    "taruhan"
+  ],
+  "gabunganKata": [
+    "taruh kata"
+  ],
+  "peribahasa": [
+    "ada beras, taruh dalam padi; taruh beras dalam padi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.ruh bentuk tidak baku: taruk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(uang) taruhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cagar; tanggungan (utang dan sebagainya); sandera: jika akan berutang Rp250.000,00 harus menyerahkan barang seharga Rp1.000.000,00 sebagai --nya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menaruh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "berpal-pal",
+  "entri": "pal1 » ber.pal-pal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pal1 » ber.pal-pal",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beberapa pal jauhnya"
+        }
+      ]
+    },
+    {
+      "lema": "pal2 » berpal-pal",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlayar serong-menyerong menyongsong angin (tentang perahu); berlayar menggergaji; membuang pal"
+        }
+      ]
+    }
+  ]
+}

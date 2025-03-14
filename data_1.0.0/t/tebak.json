@@ -1,0 +1,58 @@
+{
+  "istilah": "tebak",
+  "entri": "te.bak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menebak",
+    "penebakan",
+    "tebak-tebakan",
+    "tertebak",
+    "menebak",
+    "menebak-nebak",
+    "penebak",
+    "tebak-tebakan",
+    "tebakan",
+    "tertebak",
+    "menebak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.bak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menebak"
+        }
+      ]
+    },
+    {
+      "lema": "te.bak1 /têbak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menebak"
+        }
+      ]
+    },
+    {
+      "lema": "te.bak2 /têbak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "alat untuk memecah batu (dalam tambang dan sebagainya); linggis; alabangka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "penggali; sekop"
+        }
+      ]
+    }
+  ]
+}

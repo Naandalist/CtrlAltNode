@@ -1,0 +1,28 @@
+{
+  "istilah": "deklamator",
+  "entri": "dek.la.ma.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dek.la.ma.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mendeklamasikan sajak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "seorang aktor yang tampil dengan gaya deklamasi"
+        }
+      ]
+    }
+  ]
+}

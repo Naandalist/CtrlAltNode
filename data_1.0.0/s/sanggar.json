@@ -1,0 +1,40 @@
+{
+  "istilah": "sanggar",
+  "entri": "sang.gar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sanggaran"
+  ],
+  "gabunganKata": [
+    "sanggar kecantikan",
+    "sanggar kerja",
+    "sanggar pengantin",
+    "sanggar produksi",
+    "sanggar silat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tempat suci, sanggar, candi",
+    "kataAsal": "saṅgar"
+  },
+  "data": [
+    {
+      "lema": "sang.gar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tempat pemujaan yang terletak di pekarangan rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tempat untuk kegiatan seni (tari, lukis, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "dangau kecil yang dibuat untuk tempat menyimpan sesajian pada saat mulai menuai padi"
+        }
+      ]
+    }
+  ]
+}

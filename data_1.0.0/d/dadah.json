@@ -1,0 +1,40 @@
+{
+  "istilah": "dadah",
+  "entri": "da.dah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pendadah",
+    "pendadahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.dah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berbagai obat yang tersedia (sudah terkemas, siap pakai)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan narkotika (seperti ganja, heroin) yang membius, meracuni, dan mematikan orang yang menggunakannya secara berlebihan"
+        }
+      ]
+    },
+    {
+      "lema": "da.dah2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengatakan dah (untuk memberi salam pertemuan atau perpisahan)"
+        }
+      ]
+    }
+  ]
+}

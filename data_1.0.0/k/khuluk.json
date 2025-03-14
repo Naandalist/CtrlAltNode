@@ -1,0 +1,33 @@
+{
+  "istilah": "khuluk",
+  "entri": "khu.luk1",
+  "bentukTidakBaku": "khulak",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perceraian atas permintaan pihak perempuan dengan membayar sejumlah uang atau mengembalikan maskawin yang diterimanya",
+    "kataAsal": "khul‘"
+  },
+  "data": [
+    {
+      "lema": "khu.luk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat asli (dibawa sejak lahir); pembawaan; tabiat"
+        }
+      ]
+    },
+    {
+      "lema": "khu.luk2 bentuk tidak baku: khulak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "perceraian atas permintaan pihak perempuan dengan membayar sejumlah uang atau mengembalikan maskawin yang diterimanya; tebus talak"
+        }
+      ]
+    }
+  ]
+}

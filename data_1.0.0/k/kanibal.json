@@ -1,0 +1,38 @@
+{
+  "istilah": "kanibal",
+  "entri": "ka.ni.bal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "penganibalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.ni.bal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang suka makan daging manusia; pemakan daging sejenis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang yang suka membunuh dan memakan daging binatang lain yang sejenis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ternak yang suka menggigit atau mematuki temannya sampai luka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pengambilan suku cadang kendaraan untuk dipasang di kendaraan lain yang sejenis"
+        }
+      ]
+    }
+  ]
+}

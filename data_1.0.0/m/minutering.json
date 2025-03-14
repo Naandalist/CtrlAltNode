@@ -1,0 +1,51 @@
+{
+  "istilah": "minutering",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "penyelesaian berkas perkara yang terdiri atas putusan dan berita acara sidang"
+        }
+      ]
+    },
+    {
+      "lema": "minutering1",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "penyelesaian berkas perkara yang terdiri atas putusan dan berita acara sidang"
+        }
+      ]
+    },
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "pengalihan ke dalam tulisan"
+        }
+      ]
+    },
+    {
+      "lema": "minutering2",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "pengalihan ke dalam tulisan"
+        }
+      ]
+    }
+  ]
+}

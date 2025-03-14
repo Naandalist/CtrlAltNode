@@ -1,0 +1,41 @@
+{
+  "istilah": "ringgit",
+  "entri": "ring.git1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beringgit",
+    "beringgit-ringgit",
+    "meringgiti"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ring.git1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "mata uang dari perak yang harganya Rp2,50"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang Malaysia"
+        }
+      ]
+    },
+    {
+      "lema": "ring.git2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rigi-rigi (seperti pada lereng roda geretan)"
+        }
+      ]
+    }
+  ]
+}

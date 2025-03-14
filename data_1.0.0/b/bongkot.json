@@ -1,0 +1,33 @@
+{
+  "istilah": "bongkot",
+  "entri": "bong.kot1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bong.kot1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "pangkal (batang kayu, tebu, dan sebagainya); punggur"
+        }
+      ]
+    },
+    {
+      "lema": "bong.kot2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "menyambar benang layang-layang lawan dari jarak serendah mungkin"
+        }
+      ]
+    }
+  ]
+}

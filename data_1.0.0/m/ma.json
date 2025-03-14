@@ -1,0 +1,41 @@
+{
+  "istilah": "ma",
+  "entri": "ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ mak1"
+        }
+      ]
+    },
+    {
+      "lema": "MA",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Mahkamah Agung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "mata anggaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "madrasah aliah"
+        }
+      ]
+    }
+  ]
+}

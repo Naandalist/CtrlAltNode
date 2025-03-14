@@ -1,0 +1,46 @@
+{
+  "istilah": "kak",
+  "entri": "kak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada saudara tua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "kakak; saudara tua"
+        }
+      ]
+    },
+    {
+      "lema": "kak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi orang tertawa terbahak-bahak"
+        }
+      ]
+    },
+    {
+      "lema": "KAK",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kerangka acuan kerja"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "mufasir",
+  "entri": "mu.fa.sir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang ahli dalam menjelaskan maksud Alquran",
+    "kataAsal": "mufassir"
+  },
+  "data": [
+    {
+      "lema": "mu.fa.sir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "orang yang menerangkan makna (maksud) ayat Al-Qur'an; ahli tafsir (terutama penafsiran)"
+        }
+      ]
+    }
+  ]
+}

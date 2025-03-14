@@ -1,0 +1,44 @@
+{
+  "istilah": "gampang",
+  "entri": "gam.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gampang-gampangan",
+    "gampangan",
+    "menggampangkan",
+    "segampang"
+  ],
+  "gabunganKata": [
+    "gampang-gampang susah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mudah, gampang-gampangan, tidak hati-hati, tidak peduli, tanpa banyak pikir atau kesungguhan hati",
+    "kataAsal": "gampaṅ"
+  },
+  "data": [
+    {
+      "lema": "gam.pang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah; tidak sukar: berbicara itu --, yang sukar adalah mengerjakannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "enteng; remeh; sepele: itu adalah persoalan --, tidak perlu kita bicarakan sekarang"
+        }
+      ]
+    },
+    {
+      "lema": "gam.pang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Gy[Gayo: -]",
+          "deskripsi": "panjang dan mencuat ke atas (tentang tanduk)"
+        }
+      ]
+    }
+  ]
+}

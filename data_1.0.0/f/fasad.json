@@ -1,0 +1,33 @@
+{
+  "istilah": "fasad",
+  "entri": "fa.sad1",
+  "bentukTidakBaku": "vasad",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kerusakan",
+    "kataAsal": "fasād"
+  },
+  "data": [
+    {
+      "lema": "fa.sad1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kerusakan (moral dan sebagainya); kebinasaan"
+        }
+      ]
+    },
+    {
+      "lema": "fa.sad2 bentuk tidak baku: vasad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "muka bangunan"
+        }
+      ]
+    }
+  ]
+}

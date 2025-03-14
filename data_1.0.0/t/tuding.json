@@ -1,0 +1,44 @@
+{
+  "istilah": "tuding",
+  "entri": "tu.ding1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menuding",
+    "menuding-nuding",
+    "menudingkan",
+    "penuding",
+    "penudingan",
+    "tudingan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.ding1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "miring arah ke bawah (tentang menikam, menembak, menunjukkan ke lereng, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "meruncing tajam (lancip), tetapi merupakan sudut tumpul (tentang mata pisau, mata pahat, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tu.ding2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tunjuk; menunjuk"
+        }
+      ]
+    }
+  ]
+}

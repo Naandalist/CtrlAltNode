@@ -1,0 +1,48 @@
+{
+  "istilah": "gubal",
+  "entri": "gu.bal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggubal"
+  ],
+  "gabunganKata": [
+    "gubal besi"
+  ],
+  "peribahasa": [
+    "teras terunjam, gubal melayang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.bal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu yang lunak antara kulit dan teras"
+        }
+      ]
+    },
+    {
+      "lema": "gu.bal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rencana"
+        }
+      ]
+    },
+    {
+      "lema": "gu.bal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bungkah (tanah, batu, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

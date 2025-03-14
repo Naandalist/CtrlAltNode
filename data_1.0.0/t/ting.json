@@ -1,0 +1,33 @@
+{
+  "istilah": "ting",
+  "entri": "ting1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Fuzhou",
+    "arti": "lampu",
+    "kataAsal": "ting1"
+  },
+  "data": [
+    {
+      "lema": "ting1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi giring-giring dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ting2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lentera; tanglung"
+        }
+      ]
+    }
+  ]
+}

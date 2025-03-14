@@ -1,0 +1,42 @@
+{
+  "istilah": "dai",
+  "entri": "da.i1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang mengajak",
+    "kataAsal": "dā‘ī"
+  },
+  "data": [
+    {
+      "lema": "da.i1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "orang yang pekerjaannya berdakwah; pendakwah: melalui kegiatan dakwah, para -- menyebarluaskan ajaran agama"
+        }
+      ]
+    },
+    {
+      "lema": "da.i2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Wl[Wolio: -]",
+          "deskripsi": "simpul mati di kail atau jangkar"
+        }
+      ]
+    },
+    {
+      "lema": "DAI",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Dewan Asuransi Indonesia (wadah seluruh perusahaan asuransi di Indonesia yang berfungsi membantu pemerintah dalam pembinaan dan pengawasan usaha asuransi)"
+        }
+      ]
+    }
+  ]
+}

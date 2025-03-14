@@ -1,0 +1,37 @@
+{
+  "istilah": "sepir",
+  "entri": "se.pir1 /sêpir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.pir1 /sêpir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "otot; urat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "otot yang dibina"
+        }
+      ]
+    },
+    {
+      "lema": "se.pir2 /sêpir/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sipir"
+        }
+      ]
+    }
+  ]
+}

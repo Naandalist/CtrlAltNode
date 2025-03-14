@@ -1,0 +1,60 @@
+{
+  "istilah": "saku",
+  "entri": "sa.ku1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersaku",
+    "menyakukan",
+    "saku-saku",
+    "menyakukan",
+    "tersaku"
+  ],
+  "gabunganKata": [
+    "saku bertutup",
+    "saku bobak",
+    "saku celah",
+    "saku dalam",
+    "saku gembung",
+    "saku kelim",
+    "saku klep",
+    "saku penghangat",
+    "saku tempel"
+  ],
+  "peribahasa": [
+    "bergaduk diri, saku-saku diterbangkan angin"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.ku1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kantong (pada baju, celana, rok, dan sebagainya): -- kemeja biasanya terdapat pada bagian dada sebelah kiri; pada -- jasnya terselip saputangan putih yang dilipat bentuk piramida"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ku2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "saku-saku"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ku3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pisah"
+        }
+      ]
+    }
+  ]
+}

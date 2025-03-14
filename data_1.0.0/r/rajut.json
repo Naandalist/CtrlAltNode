@@ -1,0 +1,45 @@
+{
+  "istilah": "rajut",
+  "entri": "ra.jut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berajut",
+    "merajut",
+    "perajut",
+    "perajutan",
+    "rajutan",
+    "terajut"
+  ],
+  "gabunganKata": [
+    "rajut keranjang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sejenis jala (untuk menangkap burung dan ikan)",
+    "kataAsal": "rajut"
+  },
+  "data": [
+    {
+      "lema": "ra.jut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jaring-jaring; jala-jala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "siratan benang yang berupa jaring untuk pundi-pundi, penutup sanggul, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pundi-pundi (pura) yang dibuat dari siratan benang, rami, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan pakaian yang disirat dengan tangan atau mesin rajut: kain -- lebih mahal daripada kain tenun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "bengkong",
+  "entri": "beng.kong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "belengkong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "beng.kong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bengkok"
+        }
+      ]
+    },
+    {
+      "lema": "beng.kong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tukang sunat; tukang khitan"
+        }
+      ]
+    }
+  ]
+}

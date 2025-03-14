@@ -1,0 +1,35 @@
+{
+  "istilah": "rapu",
+  "entri": "ra.pu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merapu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.pu1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "merapu"
+        }
+      ]
+    },
+    {
+      "lema": "ra.pu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "kuku dan rambut orang yang telah meninggal"
+        }
+      ]
+    }
+  ]
+}

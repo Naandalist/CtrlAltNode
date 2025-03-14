@@ -1,0 +1,37 @@
+{
+  "istilah": "sulut",
+  "entri": "su.lut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyulut",
+    "penyulut",
+    "tersulut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.lut1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sundut"
+        }
+      ]
+    },
+    {
+      "lema": "Su.lut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Sulawesi Utara"
+        }
+      ]
+    }
+  ]
+}

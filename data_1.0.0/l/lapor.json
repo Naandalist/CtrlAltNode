@@ -1,0 +1,36 @@
+{
+  "istilah": "lapor",
+  "entri": "la.por bentuk tidak baku: lapur1",
+  "bentukTidakBaku": "lapur1",
+  "kataTurunan": [
+    "laporan",
+    "melapor",
+    "melaporkan",
+    "pelapor",
+    "pelaporan",
+    "terlapor"
+  ],
+  "gabunganKata": [
+    "lapor berangkat",
+    "lapor berita",
+    "lapor keluar",
+    "lapor masuk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.por bentuk tidak baku: lapur1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beri tahu"
+        }
+      ]
+    }
+  ]
+}

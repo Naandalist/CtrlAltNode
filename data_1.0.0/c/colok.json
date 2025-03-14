@@ -1,0 +1,80 @@
+{
+  "istilah": "colok",
+  "entri": "co.lok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencolok",
+    "mencoloki",
+    "mencolok",
+    "colokan",
+    "mencolok",
+    "mencolokkan",
+    "tercolok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.lok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suluh yang dibuat dari kain usang dan sebagainya yang terpilin dan dicelupkan ke dalam minyak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lidi dan sebagainya yang diberi damar atau belerang untuk pelita (pengganti gores api dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belang putih pada anjing yang berbulu hitam"
+        }
+      ]
+    },
+    {
+      "lema": "co.lok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "celupan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -] ki[kiasan]",
+          "deskripsi": "derajat (kedudukan dan sebagainya): jatuh (turun) --nya"
+        }
+      ]
+    },
+    {
+      "lema": "co.lok3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "colokan; mencolok; mencolokkan; tercolok"
+        }
+      ]
+    },
+    {
+      "lema": "co.lok4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sampan kecil untuk menangkap ikan, dilengkapi dengan tangguk, kail, dan lampu petromaks"
+        }
+      ]
+    },
+    {
+      "lema": "colok5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tns[Minahasa Tonsea: -]",
+          "deskripsi": "penganan goreng khas Tonsea, dibuat dari adonan tepung beras, gula aren, kayu manis, dan telur"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "egois",
+  "entri": "e.go.is",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keegoisan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.go.is",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "orang yang selalu mementingkan diri sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fil[Filsafat: -]",
+          "deskripsi": "penganut teori egoisme"
+        }
+      ]
+    }
+  ]
+}

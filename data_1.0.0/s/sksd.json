@@ -1,0 +1,33 @@
+{
+  "istilah": "sksd",
+  "entri": "SKSD1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "SKSD1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "sistem komunikasi satelit domestik"
+        }
+      ]
+    },
+    {
+      "lema": "SKSD2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] sing[singkatan]",
+          "deskripsi": "sok kenal sok dekat: dia berlagak -- dengan keluargaku"
+        }
+      ]
+    }
+  ]
+}

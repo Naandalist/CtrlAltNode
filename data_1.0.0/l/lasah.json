@@ -1,0 +1,47 @@
+{
+  "istilah": "lasah",
+  "entri": "la.sah1 bentuk tidak baku: lesah",
+  "bentukTidakBaku": "lesah",
+  "kataTurunan": [
+    "melasahkan",
+    "memperlasah",
+    "melasah",
+    "pelasah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.sah1 bentuk tidak baku: lesah",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melasahkan; memperlasah"
+        }
+      ]
+    },
+    {
+      "lema": "la.sah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melasah"
+        }
+      ]
+    },
+    {
+      "lema": "la.sah3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pelasah"
+        }
+      ]
+    }
+  ]
+}

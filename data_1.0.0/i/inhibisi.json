@@ -1,0 +1,32 @@
+{
+  "istilah": "inhibisi",
+  "entri": "in.hi.bi.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.hi.bi.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "hambatan bagi otot-otot dalam bekerja: makin gencar kita melakukan latihan fisik menyebabkan makin tidak --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "larangan; pencegahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "proses penghambatan fisiologis atau psikologis oleh suatu hal tertentu"
+        }
+      ]
+    }
+  ]
+}

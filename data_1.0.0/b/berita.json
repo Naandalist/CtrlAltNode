@@ -1,0 +1,65 @@
+{
+  "istilah": "berita",
+  "entri": "be.ri.ta /bêrita/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berberita",
+    "memberitakan",
+    "pemberita",
+    "pemberitaan",
+    "terberita",
+    "terberitakan"
+  ],
+  "gabunganKata": [
+    "berita acara",
+    "berita basi",
+    "berita bergambar",
+    "berita burung",
+    "berita duka",
+    "berita hangat",
+    "berita inti",
+    "berita keluarga",
+    "berita kematian",
+    "berita khas",
+    "berita kilat",
+    "berita kriminal",
+    "berita lokal",
+    "berita lutut",
+    "berita miring",
+    "berita negara",
+    "berita penting",
+    "berita peringatan",
+    "berita polisi",
+    "berita rekaan",
+    "berita ringan",
+    "berita sensasi",
+    "berita sepekan",
+    "berita singkat",
+    "berita utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "peristiwa, laporan, urusan",
+    "kataAsal": "vṛtta"
+  },
+  "data": [
+    {
+      "lema": "be.ri.ta /bêrita/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerita atau keterangan mengenai kejadian atau peristiwa yang hangat; kabar: semalam dia mendengar  -- bahwa kampungnya dilanda banjir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laporan: ia bertugas membuat -- harian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberitahuan; pengumuman: -- redaksi"
+        }
+      ]
+    }
+  ]
+}

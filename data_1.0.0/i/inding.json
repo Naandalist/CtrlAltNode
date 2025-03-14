@@ -1,0 +1,35 @@
+{
+  "istilah": "inding",
+  "entri": "in.ding1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menginding"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.ding1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pandang penuh harap"
+        }
+      ]
+    },
+    {
+      "lema": "in.ding2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "hutan larangan yang diyakini masyarakat sebagai tempat berkumpulnya mahluk gaib"
+        }
+      ]
+    }
+  ]
+}

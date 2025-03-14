@@ -1,0 +1,84 @@
+{
+  "istilah": "para",
+  "entri": "pa.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "para-para"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "para"
+  },
+  "data": [
+    {
+      "lema": "pa.ra1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata penyerta yang menyatakan pengacuan ke kelompok: -- tamu mulai berdatangan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karet; getah (perca): (per)kebun(an) --"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ra3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "para-para"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ra4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "parasut"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ra5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "prajurit dalam kesatuan angkatan udara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesatuan angkatan udara"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ra7",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "pasukan parasut"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ra8",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "ruang antara langit-langit dan atap rumah"
+        }
+      ]
+    }
+  ]
+}

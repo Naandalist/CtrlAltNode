@@ -1,0 +1,44 @@
+{
+  "istilah": "pelak",
+  "entri": "pe.lak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bak mandi di air kiambang, pelak lepas gatal pun datang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.lak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "hantu jahat (dipakai juga untuk memaki); pilak"
+        }
+      ]
+    },
+    {
+      "lema": "pe.lak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "salah; keliru; luput: tidak -- lagi"
+        }
+      ]
+    },
+    {
+      "lema": "pe.lak3 /pêlak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa panas; gerah; palak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "istilah": "ikat",
+  "entri": "i.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berikat",
+    "berikatan",
+    "ikat-ikatan",
+    "ikatan",
+    "keterikatan",
+    "mengikat",
+    "mengikatkan",
+    "pengikat",
+    "pengikatan",
+    "perikatan",
+    "terikat"
+  ],
+  "gabunganKata": [
+    "ikat kepala",
+    "ikat kolam",
+    "ikat permata",
+    "ikat pinggang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kesatuan",
+    "kataAsal": "ekatā"
+  },
+  "data": [
+    {
+      "lema": "i.kat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali (benang, kain, dan sebagainya) untuk mengebat (menyatukan, memberkas, menggabungkan): -- barang itu sudahlepas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bingkai (dari kayu, logam, dan sebagainya) yang dipakai untuk menguatkan (mencengkam, memegang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berkas; gabung: ia membeli sepuluh -- rambutan; dua -- kayu api"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "cara mengatur (menyusun) pasukan (tentang barisan dan sebagainya): -- perang susunan pasukan dalam perang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kebat"
+        }
+      ]
+    }
+  ]
+}

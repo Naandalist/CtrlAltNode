@@ -1,0 +1,54 @@
+{
+  "istilah": "pesan",
+  "entri": "pe.san1 /pêsan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpesan",
+    "memesan",
+    "memesani",
+    "memesankan",
+    "pemesan",
+    "pemesanan",
+    "pesanan",
+    "pesan-pesan",
+    "sipesan"
+  ],
+  "gabunganKata": [
+    "pesan instan",
+    "pesan petaruh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.san1 /pêsan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perintah, nasihat, permintaan, amanat yang disampaikan lewat orang lain: apa -- ayahmu ketika beliau berangkat ke Bandung?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkataan (nasihat, wasiat) yang terakhir (dari orang yang akan meninggal dunia): aku teringat -- ayahku tatkala ia akan menutup mata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pesanan: banyak -- yang tidak dapat dilayani karena kekurangan tenaga dan bahan"
+        }
+      ]
+    },
+    {
+      "lema": "pe.san2 /pêsan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lipan yang sangat berbisa"
+        }
+      ]
+    }
+  ]
+}

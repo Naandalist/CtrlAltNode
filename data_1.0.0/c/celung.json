@@ -1,0 +1,46 @@
+{
+  "istilah": "celung",
+  "entri": "ce.lung1 /cêlung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "celung-celung",
+    "mencelung",
+    "mencelungkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.lung1 /cêlung/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cekung (tentang pipi, mata)"
+        }
+      ]
+    },
+    {
+      "lema": "ce.lung2 /cêlung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi angklung dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ce.lung3 /cêlung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kandang gajah atau kerbau yang sempit"
+        }
+      ]
+    }
+  ]
+}

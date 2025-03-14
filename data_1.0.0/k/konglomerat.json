@@ -1,0 +1,41 @@
+{
+  "istilah": "konglomerat",
+  "entri": "kong.lo.me.rat1 /konglomêrat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kong.lo.me.rat1 /konglomêrat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengusaha besar yang mempunyai banyak perusahaan atau anak perusahaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perusahaan besar yang beranggotakan berbagai macam perusahaan dan bergerak dalam bidang usaha yang bermacam-macam"
+        }
+      ]
+    },
+    {
+      "lema": "kong.lo.me.rat2 /konglomêrat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "massa atau campuran yang terjadi dari bermacam-macam unsur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "batuan sedimen yang dibangun oleh kerakal bundar atau pecahan batuan; bergaris tengah lebih dari 4 mm dan yang tersemen, membentuk massa yang padu"
+        }
+      ]
+    }
+  ]
+}

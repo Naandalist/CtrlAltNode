@@ -1,0 +1,38 @@
+{
+  "istilah": "topografi",
+  "entri": "to.po.gra.fi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "topografi termokars"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.po.gra.fi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kajian atau penguraian yang terperinci tentang keadaan muka bumi pada suatu daerah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemetaan yang terperinci tentang muka bumi pada daerah tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan muka bumi pada suatu kawasan atau daerah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uraian tentang suatu bagian tubuh sampai ke segala hal ihwal anatominya"
+        }
+      ]
+    }
+  ]
+}

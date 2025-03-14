@@ -1,0 +1,33 @@
+{
+  "istilah": "rial",
+  "entri": "ri.al1 bentuk tidak baku: real2, reyal",
+  "bentukTidakBaku": "real2, reyal",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "mata uang Arab Saudi, Oman, Qatar, Yaman yang nilainya berbeda-beda sesuai negara",
+    "kataAsal": "riyāl"
+  },
+  "data": [
+    {
+      "lema": "ri.al1 bentuk tidak baku: real2, reyal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang Iran dan Oman"
+        }
+      ]
+    },
+    {
+      "lema": "ri.al2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran berat 0,5 tail atau 20 g"
+        }
+      ]
+    }
+  ]
+}

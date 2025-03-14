@@ -1,0 +1,30 @@
+{
+  "istilah": "sungga",
+  "entri": "sung.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyungga"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sebatang bambu yang berujung tajam (ditancapkan miring dalam tanah yang ujungnya ke atas, menangkap atau membunuh binatang)",
+    "kataAsal": "suṅga"
+  },
+  "data": [
+    {
+      "lema": "sung.ga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pacu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suda (jenis ranjau)"
+        }
+      ]
+    }
+  ]
+}

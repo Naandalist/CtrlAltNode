@@ -1,0 +1,37 @@
+{
+  "istilah": "muhrim",
+  "entri": "muh.rim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang melakukan ihram; orang yang masuk ke Tanah Suci",
+    "kataAsal": "muḥrim"
+  },
+  "data": [
+    {
+      "lema": "muh.rim1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "orang yang sedang mengerjakan ihram"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "orang laki-laki yang dianggap dapat menjaga dan melindungi wanita yang melakukan ibadah haji dan/atau umrah"
+        }
+      ]
+    },
+    {
+      "lema": "muh.rim2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ mahram"
+        }
+      ]
+    }
+  ]
+}

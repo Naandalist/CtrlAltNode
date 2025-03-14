@@ -1,0 +1,38 @@
+{
+  "istilah": "lelang",
+  "entri": "le.lang bentuk tidak baku: lelung",
+  "bentukTidakBaku": "lelung",
+  "kataTurunan": [
+    "lelangan",
+    "melelang",
+    "melelangkan",
+    "memperlelangkan",
+    "pelelang",
+    "pelelangan",
+    "perlelangan",
+    "terlelang"
+  ],
+  "gabunganKata": [
+    "lelang barang",
+    "lelang jabatan",
+    "lelang jasa",
+    "lelang pajak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.lang bentuk tidak baku: lelung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjualan di hadapan orang banyak (dengan tawaran yang atas-mengatasi) dipimpin oleh pejabat lelang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "limun",
+  "entri": "li.mun1 bentuk tidak baku: limonade",
+  "bentukTidakBaku": "limonade",
+  "kataTurunan": [
+    "limunan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "limun"
+  },
+  "data": [
+    {
+      "lema": "li.mun1 bentuk tidak baku: limonade",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bld[Belanda: -]",
+          "deskripsi": "minuman manis dengan rasa sari buah-buahan (dikemas dalam botol)"
+        }
+      ]
+    },
+    {
+      "lema": "li.mun2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "limunan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "kontra",
+  "entri": "kon.tra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kontra revolusi",
+    "kontra revolusioner",
+    "kontra bas",
+    "kontra fagot",
+    "kontra tenor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.tra1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam keadaan tidak setuju; dalam keadaan menentang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menentang (pendapat dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "kon.tra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "petunjuk untuk suara yang lebih rendah daripada yang tertulis, biasanya satu oktaf lebih rendah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "sektarian",
+  "entri": "sek.ta.ri.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sek.ta.ri.an",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan anggota (pendukung, penganut) suatu sekte atau mazhab"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "picik, terkungkung pada satu aliran saja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anggota kelompok keagamaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang sangat fanatik kepada suatu doktrin dan menolak paham yang berbeda dengannya"
+        }
+      ]
+    }
+  ]
+}

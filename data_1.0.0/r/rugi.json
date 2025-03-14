@@ -1,0 +1,49 @@
+{
+  "istilah": "rugi",
+  "entri": "ru.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkerugian",
+    "berugi",
+    "kerugian",
+    "merugi",
+    "merugikan"
+  ],
+  "gabunganKata": [
+    "rugi barang",
+    "rugi keseluruhan total",
+    "rugi tenaga",
+    "rugi waktu"
+  ],
+  "peribahasa": [
+    "jerih menentang boleh, rugi menentang laba; laba sama dibagi, rugi sama diterjuni; rugi menentang laba, jerih menentang boleh"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.gi",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(terjual) kurang dari harga beli atau modalnya; tidak mendapat laba: -- sedikit dijualnya juga karena ia memerlukan uang tunai"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang dari modal (karena menjual lebih rendah daripada harga pokok): jika dijual Rp550.000,00, --nya Rp50.000,00"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mendapat faedah (manfaat); tidak beroleh sesuatu yang berguna: ia merasa -- mengikuti kursus itu karena apa yang diajarkan di kursus itu telah dipelajarinya setahun yang lalu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang kurang baik (tidak menguntungkan); mudarat: apa --nya kalau kaumaafkan kesalahan adikmu itu"
+        }
+      ]
+    }
+  ]
+}

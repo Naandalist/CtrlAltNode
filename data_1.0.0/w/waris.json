@@ -1,0 +1,58 @@
+{
+  "istilah": "waris",
+  "entri": "wa.ris1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kewarisan",
+    "mewarisi",
+    "mewariskan",
+    "pewaris",
+    "pewarisan",
+    "terwariskan",
+    "warisan"
+  ],
+  "gabunganKata": [
+    "waris asli",
+    "waris karib",
+    "waris sah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang berhak menerima harta pusaka kepada orang yang telah meninggal",
+    "kataAsal": "wāriṡ"
+  },
+  "data": [
+    {
+      "lema": "wa.ris1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang berhak menerima harta pusaka dari orang yang telah meninggal"
+        }
+      ]
+    },
+    {
+      "lema": "wa.ris2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "selalu mujur; untung"
+        }
+      ]
+    },
+    {
+      "lema": "Wa.ris3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami wilayah perbatasan dengan Papua Nugini, sebelah tenggara Kabupaten Jayapura"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan suku Waris"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "bomber",
+  "entri": "bom.ber /bombêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bom.ber /bombêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pesawat terbang pengebom"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang gemuk kekar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemain penyerang; striker: absennya dua -- ini jelas-jelas menggangu daya gedor lini depan Indonesia"
+        }
+      ]
+    },
+    {
+      "lema": "bom.ber2 /bombêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggrafiti"
+        }
+      ]
+    }
+  ]
+}

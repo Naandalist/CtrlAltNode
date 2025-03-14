@@ -1,0 +1,33 @@
+{
+  "istilah": "cit",
+  "entri": "cit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi suara tikus atau anak burung"
+        }
+      ]
+    },
+    {
+      "lema": "cit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain cita; encit"
+        }
+      ]
+    }
+  ]
+}

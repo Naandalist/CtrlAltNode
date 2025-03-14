@@ -1,0 +1,45 @@
+{
+  "istilah": "timbal",
+  "entri": "tim.bal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertimbal",
+    "bertimbal-timbalan",
+    "bertimbalan",
+    "kesetimbalan",
+    "menimbal",
+    "menimbali",
+    "penimbal",
+    "setimbal",
+    "timbalan"
+  ],
+  "gabunganKata": [
+    "timbal balik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "satu di atas atau sesudah yang lain, seorang demi seorang, kelipatan",
+    "kataAsal": "timbal"
+  },
+  "data": [
+    {
+      "lema": "tim.bal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "timbang; imbang"
+        }
+      ]
+    },
+    {
+      "lema": "tim.bal2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat plumbum"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "besing",
+  "entri": "be.sing1 /bêsing/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.sing1 /bêsing/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "desing"
+        }
+      ]
+    },
+    {
+      "lema": "be.sing2 /bêsing/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlalu kenyang makan"
+        }
+      ]
+    }
+  ]
+}

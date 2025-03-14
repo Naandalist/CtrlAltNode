@@ -1,0 +1,33 @@
+{
+  "istilah": "tahang",
+  "entri": "ta.hang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "tong; pasu kayu",
+    "kataAsal": "tháng"
+  },
+  "data": [
+    {
+      "lema": "ta.hang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasu dari kayu; tong"
+        }
+      ]
+    },
+    {
+      "lema": "ta.hang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jurang; lurah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "syair",
+  "entri": "sya.ir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersyair",
+    "kepensyairan",
+    "mensyair",
+    "mensyairkan",
+    "pensyair",
+    "pesyair"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "puisi",
+    "kataAsal": "syi‘r"
+  },
+  "data": [
+    {
+      "lema": "sya.ir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Ar[Arab: -]",
+          "deskripsi": "pesyair; orang yang bersyair"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "puisi lama yang tiap-tiap bait terdiri atas empat larik (baris) yang berakhir dengan bunyi yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "sajak; puisi"
+        }
+      ]
+    }
+  ]
+}

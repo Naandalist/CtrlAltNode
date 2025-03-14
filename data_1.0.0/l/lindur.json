@@ -1,0 +1,39 @@
+{
+  "istilah": "lindur",
+  "entri": "lin.dur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melindur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lin.dur1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melindur"
+        }
+      ]
+    },
+    {
+      "lema": "lin.dur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman yang dominan tumbuh di hutan mangrove, tingginya mencapai 30 m, memiliki akar papan dan akar lutut, kulit kayunya memiliki lentisel dan berwarna abu-abu tua sampai cokelat, dapat tumbuh di daerah dengan salinitas rendah dan kering, berbunga dan berbuah sepanjang tahun; bakau daun besar〔Bruguiera gymnorrhiza〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah dari pohon lindur, memiliki kelopak berwarna kemerahan"
+        }
+      ]
+    }
+  ]
+}

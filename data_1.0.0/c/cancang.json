@@ -1,0 +1,36 @@
+{
+  "istilah": "cancang",
+  "entri": "can.cang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tercancang",
+    "mencancang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "can.cang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancang"
+        }
+      ]
+    },
+    {
+      "lema": "can.cang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "mencancang"
+        }
+      ]
+    }
+  ]
+}

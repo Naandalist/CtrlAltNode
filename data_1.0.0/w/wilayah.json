@@ -1,0 +1,40 @@
+{
+  "istilah": "wilayah",
+  "entri": "wi.la.yah bentuk tidak baku: ulayah, ulayat1, wilayat",
+  "bentukTidakBaku": "ulayah, ulayat1, wilayat",
+  "kataTurunan": [
+    "kewilayahan",
+    "mewilayahi",
+    "perwilayahan",
+    "sewilayah"
+  ],
+  "gabunganKata": [
+    "wilayah adiabat",
+    "wilayah administratif",
+    "wilayah antar",
+    "wilayah hukum",
+    "wilayah informasi penerbangan",
+    "wilayah kerja",
+    "wilayah konveksi",
+    "wilayah niaga bebas",
+    "wilayah perbatasan",
+    "wilayah pisah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kekuasaan",
+    "kataAsal": "wilāyah"
+  },
+  "data": [
+    {
+      "lema": "wi.la.yah bentuk tidak baku: ulayah, ulayat1, wilayat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah (kekuasaan, pemerintahan, pengawasan, dan sebagainya); lingkungan daerah (provinsi, kabupaten, kecamatan)"
+        }
+      ]
+    }
+  ]
+}

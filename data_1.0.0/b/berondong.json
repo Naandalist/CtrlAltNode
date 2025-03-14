@@ -1,0 +1,42 @@
+{
+  "istilah": "berondong",
+  "entri": "be.ron.dong1 /bêrondong/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berondongan",
+    "memberondong",
+    "pemberondong",
+    "pemberondongan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ron.dong1 /bêrondong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butir-butir jagung yang dipanaskan dengan sedikit minyak atau mentega sehingga mengembang dan pecah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sebutan untuk pria muda"
+        }
+      ]
+    },
+    {
+      "lema": "be.ron.dong2 /bêrondong/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tembak beruntun"
+        }
+      ]
+    }
+  ]
+}

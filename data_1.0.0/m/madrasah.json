@@ -1,0 +1,31 @@
+{
+  "istilah": "madrasah",
+  "entri": "mad.ra.sah bentuk tidak baku: madarsah, mandarsah",
+  "bentukTidakBaku": "madarsah, mandarsah",
+  "kataTurunan": [
+    "memadrasahkan"
+  ],
+  "gabunganKata": [
+    "madrasah aliah",
+    "madrasah diniah",
+    "madrasah ibtidaiah",
+    "madrasah sanawiah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat belajar",
+    "kataAsal": "madrasah"
+  },
+  "data": [
+    {
+      "lema": "mad.ra.sah bentuk tidak baku: madarsah, mandarsah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekolah atau perguruan (biasanya yang berdasarkan agama Islam)"
+        }
+      ]
+    }
+  ]
+}

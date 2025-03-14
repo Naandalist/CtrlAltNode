@@ -1,0 +1,41 @@
+{
+  "istilah": "se-",
+  "entri": "se-1 /sê-/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se-1 /sê-/",
+      "arti": [
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "satu: sekamar; sekelas; serumah"
+        },
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "sama: sepandai; setinggi; secerdas"
+        }
+      ]
+    },
+    {
+      "lema": "se-2 /sê-/",
+      "arti": [
+        {
+          "kelas_kata": "prefiks pembentuk adverbia[- : -]",
+          "deskripsi": "dengan: seizinku"
+        },
+        {
+          "kelas_kata": "prefiks pembentuk adverbia[- : -]",
+          "deskripsi": "setelah: sepergimu"
+        }
+      ]
+    }
+  ]
+}

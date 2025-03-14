@@ -1,0 +1,46 @@
+{
+  "istilah": "gandik",
+  "entri": "gan.dik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gan.dik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhiasan emas pada dahi pengantin perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhiasan pada keris sebelah atas"
+        }
+      ]
+    },
+    {
+      "lema": "gan.dik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu giling"
+        }
+      ]
+    },
+    {
+      "lema": "gan.dik3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbg[Tata Boga: -]",
+          "deskripsi": "bagian paha belakang sapi, biasanya dimasak untuk dendeng balado atau abon sapi"
+        }
+      ]
+    }
+  ]
+}

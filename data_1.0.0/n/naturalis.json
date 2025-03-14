@@ -1,0 +1,32 @@
+{
+  "istilah": "naturalis",
+  "entri": "na.tu.ra.lis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "na.tu.ra.lis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengadakan penyelidikan khusus mengenai binatang dan tumbuhan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat natural (alami); bercorak alam nyata (dalam seni): barang yang dipasarkan adalah lukisan dari batik yang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menganut paham naturalisme: seorang pelukis --"
+        }
+      ]
+    }
+  ]
+}

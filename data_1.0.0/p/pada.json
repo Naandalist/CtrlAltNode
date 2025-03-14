@@ -1,0 +1,85 @@
+{
+  "istilah": "pada",
+  "entri": "pa.da1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpada-pada",
+    "kepadaan",
+    "memada-madai",
+    "memadai",
+    "memadakan",
+    "terpada"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "asal ada, kecil pun pada; ayam itik raja pada tempatnya; bergantung pada rambut sehelai; bergantung pada tali rapuh; malu tercoreng pada kening; minta pucuk pada alu (menghendaki pucuk alu); minta sisik pada limbat; mudah juga pada yang ada, sukar jua pada yang tidak; orang terpegang pada hulunya, awak terpegang pada matanya; pilih-pilih ruas, terpilih pada buku; pilih-pilih ruas, terpilih pada buku (terkena buku buluh); sukar kaji pada orang alim, sukar uang pada orang kaya; syariat palu-memalu, pada hakikatnya adalah balas-membalas; tegak pada yang datang; terajar pada banting pincang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "baris, larik (perempat bagian dari satu bait yang terdiri atas empat larik)",
+    "kataAsal": "pada"
+  },
+  "data": [
+    {
+      "lema": "pa.da1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata depan yang dipakai untuk menunjukkan posisi di atas atau di dalam hubungan atas atau di dalam hubungan dengan, searti dengan di (dipakai di depan kata benda, kata ganti orang, keterangan waktu) atau ke: -- dasarnya; ada --nya (-ku, -mu); -- keesokan harinya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "menurut ...: -- sangkanya"
+        }
+      ]
+    },
+    {
+      "lema": "pa.da2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cukup (tidak kurang, tetapi tidak lebih); lumayan: asal ada, kecil pun --; sekian itu belum -- juga"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "puas: belum -- hatinya"
+        }
+      ]
+    },
+    {
+      "lema": "pa.da3",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sama-sama (untuk menyatakan bahwa yang melakukan banyak): mereka belum -- datang"
+        }
+      ]
+    },
+    {
+      "lema": "pa.da4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan pola tekanan yang dipakai untuk mengukur struktur persajakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan fonologis yang terjadi dalam sekelompok suku kata bertekanan dan/atau tidak bertekanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "bait dalam puisi tradisional Sunda"
+        }
+      ]
+    },
+    {
+      "lema": "Pa.da5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Kabupaten Poso, Provinsi Sulawesi Tengah"
+        }
+      ]
+    }
+  ]
+}

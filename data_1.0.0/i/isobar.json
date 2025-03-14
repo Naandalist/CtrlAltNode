@@ -1,0 +1,28 @@
+{
+  "istilah": "isobar",
+  "entri": "i.so.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.so.bar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "garis pada peta yang menghubungkan tempat yang sama tekanan udaranya pada waktu tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "garis yang menghubungkan titik yang bertekanan sama pada grafik variabel termodinamik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "luncur",
+  "entri": "lun.cur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berseluncur",
+    "luncuran",
+    "meluncur",
+    "meluncuri",
+    "meluncurkan",
+    "peluncur",
+    "peluncuran",
+    "terluncur"
+  ],
+  "gabunganKata": [
+    "luncur gantung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lun.cur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meluncur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Olr[Olahraga: -]",
+          "deskripsi": "gerak meluncurkan badan atau kaki untuk menghalangi bola yang hanya dilakukan oleh penjaga gawang (tentang hoki)"
+        }
+      ]
+    }
+  ]
+}

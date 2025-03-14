@@ -1,0 +1,40 @@
+{
+  "istilah": "gaji",
+  "entri": "ga.ji",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergaji",
+    "gajian",
+    "menggaji",
+    "penggajian"
+  ],
+  "gabunganKata": [
+    "gaji bersih",
+    "gaji bulanan",
+    "gaji buta",
+    "gaji ketiga belas",
+    "gaji kotor",
+    "gaji pokok"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menerima ganjaran atau hadiah",
+    "kataAsal": "gajih"
+  },
+  "data": [
+    {
+      "lema": "ga.ji",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "upah kerja yang dibayar dalam waktu yang tetap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balas jasa yang diterima pekerja dalam bentuk uang berdasarkan waktu tertentu"
+        }
+      ]
+    }
+  ]
+}

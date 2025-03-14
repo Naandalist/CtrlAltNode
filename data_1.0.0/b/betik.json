@@ -1,0 +1,49 @@
+{
+  "istilah": "betik",
+  "entri": "be.tik1 /bêtik/bentuk tidak baku: bentik1",
+  "bentukTidakBaku": "bentik1",
+  "kataTurunan": [
+    "terbetik"
+  ],
+  "gabunganKata": [
+    "betik belulang",
+    "betik bubur"
+  ],
+  "peribahasa": [
+    "selangkas betik berbuah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sebangsa ikan sungai",
+    "kataAsal": "běṭok"
+  },
+  "data": [
+    {
+      "lema": "be.tik1 /bêtik/bentuk tidak baku: bentik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pepaya"
+        }
+      ]
+    },
+    {
+      "lema": "be.tik2 /bêtik/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terbetik"
+        }
+      ]
+    },
+    {
+      "lema": "be.tik3 /bêtik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "betok1"
+        }
+      ]
+    }
+  ]
+}

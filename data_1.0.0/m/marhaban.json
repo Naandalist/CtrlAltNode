@@ -1,0 +1,30 @@
+{
+  "istilah": "marhaban",
+  "entri": "mar.ha.ban",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "marhabanan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "selamat datang",
+    "kataAsal": "marḥaban"
+  },
+  "data": [
+    {
+      "lema": "mar.ha.ban",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kata seru (afektif) untuk menyambut atau menghormati kedatangan tamu (yang berarti selamat datang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "lagu puji-pujian"
+        }
+      ]
+    }
+  ]
+}

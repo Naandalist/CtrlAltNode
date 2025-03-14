@@ -1,0 +1,36 @@
+{
+  "istilah": "kotek",
+  "entri": "ko.tek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkotek",
+    "berkotek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.tek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kokok ayam betina (biasanya setelah selesai bertelur): terdengar sangat riuh -- ayam yang sudah selesai bertelur itu"
+        }
+      ]
+    },
+    {
+      "lema": "ko.tek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ekor yang berbulu"
+        }
+      ]
+    }
+  ]
+}

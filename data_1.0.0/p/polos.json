@@ -1,0 +1,38 @@
+{
+  "istilah": "polos",
+  "entri": "po.los",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepolosan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.los",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berwarna semacam saja (tidak dihiasi atau diberi bunga-bunga dan sebagainya): piring --; bajunya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sangat sederhana (sikap, tingkah laku, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "apa adanya; dengan sebenarnya: jawabannya -- saja"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak bermaksud jahat; jujur (tentang hati, pikiran)"
+        }
+      ]
+    }
+  ]
+}

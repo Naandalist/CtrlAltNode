@@ -1,0 +1,37 @@
+{
+  "istilah": "sengker",
+  "entri": "seng.ker1 /sêngkêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyengker",
+    "sengkeran",
+    "sengkeran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "batas luar, batas, pembatasan, batas waktu, jarak (ke batas), ruji-ruji roda",
+    "kataAsal": "sěṅkěr"
+  },
+  "data": [
+    {
+      "lema": "seng.ker1 /sêngkêr/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menyengker"
+        }
+      ]
+    },
+    {
+      "lema": "seng.ker2 /sêngkêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "batas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "tunjuk",
+  "entri": "tun.juk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertunjuk",
+    "bertunjuk-tunjukan",
+    "mempertunjukkan",
+    "menunjuk",
+    "menunjuki",
+    "menunjukkan",
+    "penunjuk",
+    "penunjukan",
+    "pertunjuk",
+    "pertunjukan",
+    "petunjuk",
+    "tunjuk-menunjuk"
+  ],
+  "gabunganKata": [
+    "tunjuk diri",
+    "tunjuk hidung",
+    "tunjuk muka",
+    "tunjuk perasaan"
+  ],
+  "peribahasa": [
+    "tunjuk lurus, kelingking berkait"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tun.juk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menunjuk(kan): -- diri; -- muka"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "telunjuk"
+        }
+      ]
+    }
+  ]
+}

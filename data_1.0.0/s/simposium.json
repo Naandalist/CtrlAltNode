@@ -1,0 +1,32 @@
+{
+  "istilah": "simposium",
+  "entri": "sim.po.si.um",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sim.po.si.um",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertemuan dengan beberapa pembicara yang mengemukakan pidato singkat tentang topik tertentu atau tentang beberapa aspek dari topik yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan pendapat tentang sesuatu, terutama yang dihimpun dan diterbitkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan konsep yang diajukan oleh beberapa orang atas permintaan suatu panitia"
+        }
+      ]
+    }
+  ]
+}

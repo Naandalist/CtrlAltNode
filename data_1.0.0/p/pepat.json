@@ -1,0 +1,33 @@
+{
+  "istilah": "pepat",
+  "entri": "pe.pat /pêpat/bentuk tidak baku: papat",
+  "bentukTidakBaku": "papat",
+  "kataTurunan": [
+    "berpepat",
+    "memepat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "pepat di luar, rancung (pancunya) di dalam; pepat kuku seperti bulan tiga hari"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.pat /pêpat/bentuk tidak baku: papat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rata (karena dikerat, dipangkas, didabung tentang gigi, dipenggal puncaknya, dan sebagainya): kukunya dikerat --; giginya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh; genap; tidak kurang sedikit pun: tiga hari --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "istilah": "sara",
+  "entri": "sa.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersara",
+    "menyara",
+    "menyarai",
+    "bersara"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dipakai untuk memelihara atau menyelamatkan hidup (seperti bekal, ransum, uang sokongan): -- hidup"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang sara"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ra2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "bersara"
+        }
+      ]
+    },
+    {
+      "lema": "SARA",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "suku, agama, ras, dan antargolongan"
+        }
+      ]
+    }
+  ]
+}

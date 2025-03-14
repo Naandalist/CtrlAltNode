@@ -1,0 +1,38 @@
+{
+  "istilah": "gejolak",
+  "entri": "ge.jo.lak /gêjolak/bentuk tidak baku: gelojak, kejolak",
+  "bentukTidakBaku": "gelojak, kejolak",
+  "kataTurunan": [
+    "bergejolak",
+    "menggejolak"
+  ],
+  "gabunganKata": [
+    "gejolak jiwa",
+    "gejolak matahari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.jo.lak /gêjolak/bentuk tidak baku: gelojak, kejolak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "luapan (bualan) air seperti pada waktu mendidih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nyala api yang berkobar-kobar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "gerakan (pemberontakan dan sebagainya); huru-hara"
+        }
+      ]
+    }
+  ]
+}

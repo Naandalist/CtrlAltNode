@@ -1,0 +1,33 @@
+{
+  "istilah": "tablig",
+  "entri": "tab.lig",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertablig",
+    "menabligkan"
+  ],
+  "gabunganKata": [
+    "tablig akbar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyampaian",
+    "kataAsal": "tablīg"
+  },
+  "data": [
+    {
+      "lema": "tab.lig",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyiaran ajaran agama Islam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyampaian"
+        }
+      ]
+    }
+  ]
+}

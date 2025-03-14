@@ -1,0 +1,41 @@
+{
+  "istilah": "sembab",
+  "entri": "sem.bab1 /sêmbab/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sem.bab1 /sêmbab/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sembap"
+        }
+      ]
+    },
+    {
+      "lema": "sem.bab2 /sêmbab/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bot[Botani: -]",
+          "deskripsi": "berair dan berdaging (tentang daun dan batang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "tekstur organ yang lunak, berdaging, berair, dan umumnya tebal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "penimbunan cairan yang berlebih di dalam jaringan"
+        }
+      ]
+    }
+  ]
+}

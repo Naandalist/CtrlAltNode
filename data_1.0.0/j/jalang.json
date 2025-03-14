@@ -1,0 +1,43 @@
+{
+  "istilah": "jalang",
+  "entri": "ja.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kejalangan",
+    "menjalang",
+    "menjalang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "padi sekepuk hampa, emas seperti loyang, kerbau sekandang jalang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.lang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dipelihara orang (tentang binatang); liar: di daerah itu masih terdapat kerbau --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nakal (tentang perbuatan yang melanggar susila): perempuan -- pelacur"
+        }
+      ]
+    },
+    {
+      "lema": "ja.lang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "pergi ke"
+        }
+      ]
+    }
+  ]
+}

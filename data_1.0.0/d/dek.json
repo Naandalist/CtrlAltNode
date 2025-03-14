@@ -1,0 +1,33 @@
+{
+  "istilah": "dek",
+  "entri": "dek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "geladak kapal"
+        }
+      ]
+    },
+    {
+      "lema": "dek2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] ark[Arkais: menandai kata yang tidak lazim] Mk[Minangkabau: -]",
+          "deskripsi": "oleh karena; oleh sebab"
+        }
+      ]
+    }
+  ]
+}

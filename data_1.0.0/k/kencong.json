@@ -1,0 +1,35 @@
+{
+  "istilah": "kencong",
+  "entri": "ken.cong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengencongkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ken.cong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pencong; serong"
+        }
+      ]
+    },
+    {
+      "lema": "ken.cong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "girah2〔Ellipeia nervosa〕"
+        }
+      ]
+    }
+  ]
+}

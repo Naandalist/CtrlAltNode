@@ -1,0 +1,36 @@
+{
+  "istilah": "misal",
+  "entri": "mi.sal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memisalkan",
+    "misalkan",
+    "misalnya",
+    "permisalan",
+    "semisal"
+  ],
+  "gabunganKata": [
+    "misal kata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tolok ukur; ukuran; serupa",
+    "kataAsal": "miṡāl"
+  },
+  "data": [
+    {
+      "lema": "mi.sal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang menggambarkan sebagian dari suatu keseluruhan; contoh; perumpamaan: banyak binatang yang harus dilindungi, sebagai --, banteng, orang utan, burung cenderawasih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dianggap bukan sungguh-sungguh (tentang peristiwa dan sebagainya): jangan marah, itu hanya sebagai --"
+        }
+      ]
+    }
+  ]
+}

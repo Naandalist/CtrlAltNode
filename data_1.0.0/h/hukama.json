@@ -1,0 +1,28 @@
+{
+  "istilah": "hukama",
+  "entri": "hu.ka.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang bijaksana",
+    "kataAsal": "ḥukamā’"
+  },
+  "data": [
+    {
+      "lema": "hu.ka.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "orang-orang cerdik pandai: majelis itu mengeluarkan fatwa keagamaan yang dipatuhi oleh segala -- dan ulama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "(bentuk jamak) hakim"
+        }
+      ]
+    }
+  ]
+}

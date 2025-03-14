@@ -1,0 +1,67 @@
+{
+  "istilah": "geladak",
+  "entri": "ge.la.dak1 /gêladak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergeladak"
+  ],
+  "gabunganKata": [
+    "geladak anjungan",
+    "geladak antara",
+    "geladak atas",
+    "geladak cuaca",
+    "geladak embarkasi",
+    "geladak kompas",
+    "geladak pendaratan",
+    "geladak penumpang",
+    "geladak sekat",
+    "geladak sekoci",
+    "geladak terbang",
+    "geladak terbuka",
+    "geladak ternak",
+    "geladak tonase"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lantai (licin, dari kayu atau batu)",
+    "kataAsal": "galadag"
+  },
+  "data": [
+    {
+      "lema": "ge.la.dak1 /gêladak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lantai kapal atau lantai perahu; dek: penumpang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah (tempat) menginap kuli (terbuat dari papan)"
+        }
+      ]
+    },
+    {
+      "lema": "ge.la.dak2 /gêladak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "liar: anjing --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "jalang: perempuan --"
+        }
+      ]
+    },
+    {
+      "lema": "ge.la.dak3 /gêladak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "air nasi yang melekat pada tutup periuk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "detektor",
+  "entri": "de.tek.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "detektor bom",
+    "detektor gerak",
+    "detektor kebakaran",
+    "detektor kebohongan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.tek.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mencatat yang bekerja secara otomatis (misalnya mencatat perubahan suhu atau tekanan udara setempat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang bekerja dengan getaran magnet untuk mengetahui atau menemukan adanya benda logam (bom), gelombang radio, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

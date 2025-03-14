@@ -1,0 +1,41 @@
+{
+  "istilah": "sontek",
+  "entri": "son.tek1",
+  "bentukTidakBaku": "contek",
+  "kataTurunan": [
+    "menyontek",
+    "penyontekan",
+    "sontekan",
+    "mencontek",
+    "menyontek",
+    "penyontek",
+    "sontekan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "son.tek1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyontek"
+        }
+      ]
+    },
+    {
+      "lema": "son.tek2 bentuk tidak baku: contek",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyontek"
+        }
+      ]
+    }
+  ]
+}

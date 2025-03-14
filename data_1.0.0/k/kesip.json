@@ -1,0 +1,35 @@
+{
+  "istilah": "kesip",
+  "entri": "ke.sip1 /kêsip/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengesip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.sip1 /kêsip/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berbiji (tentang buah)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.sip2 /kêsip/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kedip"
+        }
+      ]
+    }
+  ]
+}

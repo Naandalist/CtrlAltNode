@@ -1,0 +1,37 @@
+{
+  "istilah": "merodong",
+  "entri": "rodong1 » me.ro.dong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rodong1 » me.ro.dong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tiba-tiba berjumpa (dengan); memergoki"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyandung; melanggar; menempuh (hutan dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "rodong2 » me.ro.dong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengembara ke mana-mana"
+        }
+      ]
+    }
+  ]
+}

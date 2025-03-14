@@ -1,0 +1,33 @@
+{
+  "istilah": "lombok",
+  "entri": "lom.bok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lom.bok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabai"
+        }
+      ]
+    },
+    {
+      "lema": "Lom.bok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pulau di Kepulauan Nusa Tenggara, berbatasan dengan Selat Lombok di sebelat barat dan Selat Alas di sebelah timur, merupakan bagian dari Porvinsi Nusa Tenggara Barat"
+        }
+      ]
+    }
+  ]
+}

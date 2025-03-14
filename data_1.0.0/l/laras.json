@@ -1,0 +1,90 @@
+{
+  "istilah": "laras",
+  "entri": "la.ras1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlarasan",
+    "berselaras",
+    "kelarasan",
+    "keselarasan",
+    "melaras",
+    "melaraskan",
+    "menyelaraskan",
+    "pelarasan",
+    "penyelaras",
+    "penyelarasan",
+    "selaras",
+    "selarasan",
+    "melarasi"
+  ],
+  "gabunganKata": [
+    "laras bahasa",
+    "laras pancer",
+    "laras inti"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "busur",
+    "kataAsal": "laras"
+  },
+  "data": [
+    {
+      "lema": "la.ras1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(tinggi rendah) nada (suara, bunyi musik, dan sebagainya); tala: kecapi ini agak rendah --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesesuaian; kesamaan: bentuk dan isi sajak itu menunjukkan --"
+        }
+      ]
+    },
+    {
+      "lema": "la.ras2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bulat panjang dan lurus (seperti batang pohon, bambu)"
+        }
+      ]
+    },
+    {
+      "lema": "la.ras3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuluh senapan (bedil) tempat lewat peluru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong untuk senapan: mereka membawa lima -- senapan"
+        }
+      ]
+    },
+    {
+      "lema": "la.ras4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "distrik di Minangkabau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dasar pemerintahan menurut adat"
+        }
+      ]
+    },
+    {
+      "lema": "la.ras5",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "gugur; luruh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "urutan",
+  "entri": "urut2 » u.rut.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "urutan kata",
+    "urutan kata bebas",
+    "urutan kata tetap",
+    "urutan pelolosan",
+    "urutan pelolosan balik",
+    "urutan pengumpanan",
+    "urutan pengumpanan balik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "urut2 » u.rut.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nomor urut: gilirannya jatuh pada ~ ketiga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "deretan; rentetan; hal berurut: ~ kata dalam kalimat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susunan: ~ nama pasien itu tidak menurut abjad"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kumpulan unsur-unsur bahasa berstruktur yang secara teoretis terletak berderetan dalam suatu hubungan formal"
+        }
+      ]
+    }
+  ]
+}

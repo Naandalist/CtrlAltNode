@@ -1,0 +1,33 @@
+{
+  "istilah": "heng",
+  "entri": "heng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "heng1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menyentuh bola dengan tangan (dalam permainan sepak bola)"
+        }
+      ]
+    },
+    {
+      "lema": "heng2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "macet (tentang komputer, ponsel, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

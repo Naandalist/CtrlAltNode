@@ -1,0 +1,32 @@
+{
+  "istilah": "biometri",
+  "entri": "bi.o.met.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.o.met.ri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pengukuran yang dilakukan pada proses biologis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pengukuran matematis yang biasa digunakan dalam pemeriksaan biologis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "penghitungan nilai harapan hidup pada asuransi jiwa"
+        }
+      ]
+    }
+  ]
+}

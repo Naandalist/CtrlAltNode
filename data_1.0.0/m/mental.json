@@ -1,0 +1,52 @@
+{
+  "istilah": "mental",
+  "entri": "men.tal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermental"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "men.tal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersangkutan dengan batin dan watak manusia, yang bukan bersifat badan atau tenaga: bukan hanya pembangunan fisik yang diperhatikan, melainkan juga pembangunan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batin dan watak"
+        }
+      ]
+    },
+    {
+      "lema": "men.tal1 /mêntal/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terpelanting; terpental"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terlempar kembali; berbalik arah"
+        }
+      ]
+    },
+    {
+      "lema": "men.tal2 /mêntal/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sd[Sunda: -]",
+          "deskripsi": "ada gunanya, ada pengaruhnya (tentang obat, nasihat, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "sukun",
+  "entri": "su.kun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ketenangan;",
+    "kataAsal": "sukūn"
+  },
+  "data": [
+    {
+      "lema": "su.kun1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "tidak bergigi (tentang gusi)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "tidak berbiji (untuk buah-buahan yang biasanya berbiji): jambu --"
+        }
+      ]
+    },
+    {
+      "lema": "su.kun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon seperti keluih yang buahnya tidak berbiji〔Artocarpus communis〕"
+        }
+      ]
+    },
+    {
+      "lema": "su.kun3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penanda hilangnya vokal dalam ejaan bahasa Arab yang diletakkan di atas konsonan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "istilah": "ilat",
+  "entri": "i.lat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyakit; alasan",
+    "kataAsal": "‘illah"
+  },
+  "data": [
+    {
+      "lema": "i.lat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kerugian; kecelakaan; kemalangan; kesakitan: turutlah nasihat orang tua, supaya terhindar dari --"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] Ar[Arab: -]",
+          "deskripsi": "sebab; lantaran: kematiannya, bukan -- apa-apa, melainkan karena ajal semata"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "tidak dapat bekerja lagi karena anggota badannya rusak (karena kecelakaan, akibat peperangan, dan sebagainya); sakit: dia termasuk veteran --"
+        }
+      ]
+    },
+    {
+      "lema": "i.lat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "bagian yang tajam pada benda berbilah seperti pisau, golok"
+        }
+      ]
+    },
+    {
+      "lema": "i.lat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "alat berlubang pada resonator kecapi untuk memasukkan ujung poros penegang senar"
+        }
+      ]
+    }
+  ]
+}

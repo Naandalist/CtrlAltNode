@@ -1,0 +1,52 @@
+{
+  "istilah": "lindung",
+  "entri": "lin.dung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlindung",
+    "kelindungan",
+    "lindungan",
+    "melindungi",
+    "melindungkan",
+    "memperlindungi",
+    "pelindung",
+    "pelindungan",
+    "perlindungan",
+    "terlindung",
+    "terlindungi"
+  ],
+  "gabunganKata": [
+    "lindung angin",
+    "lindung nilai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lin.dung1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berlindung; kelindungan; lindungan; melindungi; melindungkan; memperlindungi; pelindung; pelindungan; perlindungan; terlindung; terlindungi"
+        }
+      ]
+    },
+    {
+      "lema": "lin.dung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sidat"
+        }
+      ]
+    }
+  ]
+}

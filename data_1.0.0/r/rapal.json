@@ -1,0 +1,27 @@
+{
+  "istilah": "rapal",
+  "entri": "ra.pal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merapal",
+    "rapalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembuangan makanan dan minuman kepada mulut; pengucapan",
+    "kataAsal": "lafẓ"
+  },
+  "data": [
+    {
+      "lema": "ra.pal",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merapal"
+        }
+      ]
+    }
+  ]
+}

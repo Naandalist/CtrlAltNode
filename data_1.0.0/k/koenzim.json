@@ -1,0 +1,31 @@
+{
+  "istilah": "koenzim",
+  "entri": "ko.en.zim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "koenzim A",
+    "koenzim Q"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.en.zim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "senyawa nonprotein tahan panas yang akan membentuk bagian aktif sistem enzim setelah bereaksi dengan apoenzim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "katalis untuk mengaktifkan enzim"
+        }
+      ]
+    }
+  ]
+}

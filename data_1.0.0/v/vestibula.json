@@ -1,0 +1,32 @@
+{
+  "istilah": "vestibula",
+  "entri": "ves.ti.bu.la bentuk tidak baku: vestibul, vestibulum",
+  "bentukTidakBaku": "vestibul, vestibulum",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ves.ti.bu.la bentuk tidak baku: vestibul, vestibulum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang kecil; lobi; beranda; serambi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pintu sambungan antargerbong kereta api yang tertutup"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "rongga yang ada di tengah-tengah labirin telinga"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "timpang",
+  "entri": "tim.pang bentuk tidak baku: tempang",
+  "bentukTidakBaku": "tempang",
+  "kataTurunan": [
+    "ketimpangan",
+    "menimpang",
+    "menimpang-nimpangkan",
+    "menimpangkan",
+    "tertimpang-timpang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "orang timpang jangan dicacat, ingat-ingat hari belakang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tim.pang bentuk tidak baku: tempang",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pincang yang tetap (karena salah satu kakinya tidak sama panjang): kakinya --; meja itu -- kakinya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "incang-incut: berjalan -- (tertimpang)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak seimbang; ada kekurangan (ada cela); berat sebelah: perjanjian itu dianggapnya --"
+        }
+      ]
+    }
+  ]
+}

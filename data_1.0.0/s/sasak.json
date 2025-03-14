@@ -1,0 +1,54 @@
+{
+  "istilah": "sasak",
+  "entri": "sa.sak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersasak",
+    "menyasak",
+    "sasakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.sak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anyaman (bilah bambu) kasar untuk pagar, dinding, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buluh bambu atau kayu yang disusun menjadi satu; rakit"
+        }
+      ]
+    },
+    {
+      "lema": "sa.sak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyasak"
+        }
+      ]
+    },
+    {
+      "lema": "Sa.sak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang berasal dari atau mendiami sebagian besar daerah Nusa Tenggara Barat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Sasak"
+        }
+      ]
+    }
+  ]
+}

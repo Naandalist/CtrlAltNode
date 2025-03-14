@@ -1,0 +1,76 @@
+{
+  "istilah": "sela",
+  "entri": "se.la",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyelakan",
+    "bersela",
+    "menyela",
+    "penyela",
+    "penyelaan",
+    "sela-menyela",
+    "sela-sela"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "batu, pilar",
+    "kataAsal": "śilā"
+  },
+  "data": [
+    {
+      "lema": "se.la",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pelana"
+        }
+      ]
+    },
+    {
+      "lema": "se.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "batu"
+        }
+      ]
+    },
+    {
+      "lema": "se.la2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "juling (tentang mata)"
+        }
+      ]
+    },
+    {
+      "lema": "se.la3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sila2"
+        }
+      ]
+    },
+    {
+      "lema": "se.la /sêla/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat (ruang) di antara dua benda (barang): terletak di -- gunung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celah: ia melihat dari -- dinding"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang tersisip (terletak) di antara benda-benda dan sebagainya; selang: nanas boleh juga digunakan sebagai tanaman --"
+        }
+      ]
+    }
+  ]
+}

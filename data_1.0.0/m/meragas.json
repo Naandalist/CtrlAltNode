@@ -1,0 +1,37 @@
+{
+  "istilah": "meragas",
+  "entri": "ragas1 » me.ra.gas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ragas1 » me.ra.gas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencabut (rambut, rumput, dan sebagainya); menyentak"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "memotong rambut; memangkas tanaman dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ragas2 » me.ra.gas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merambat; memanjat (tentang tumbuh-tumbuhan)"
+        }
+      ]
+    }
+  ]
+}

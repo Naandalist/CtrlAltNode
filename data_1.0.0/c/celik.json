@@ -1,0 +1,36 @@
+{
+  "istilah": "celik",
+  "entri": "ce.lik /cêlik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencelikkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bungkuk baru betul, (buta baru celik); buta baru celik (melihat)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.lik /cêlik/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbuka (tentang mata): matanya sudah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mampu melihat; tidak buta"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "sadar; insaf: baru sekaranglah orang Indonesia -- akan kejahatan penyelundupan itu"
+        }
+      ]
+    }
+  ]
+}

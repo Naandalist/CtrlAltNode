@@ -1,0 +1,42 @@
+{
+  "istilah": "evaluasi",
+  "entri": "e.va.lu.a.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengevaluasi",
+    "pengevaluasi",
+    "pengevaluasian",
+    "terevaluasi"
+  ],
+  "gabunganKata": [
+    "evaluasi dinamik",
+    "evaluasi internal",
+    "evaluasi mutu",
+    "evaluasi penggamakan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.va.lu.a.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penilaian: hasil -- itu hingga saat ini belum diperoleh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "proses untuk menemukan nilai layanan informasi atau produk sesuai dengan kebutuhan konsumen atau pengguna"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengumpulan dan pengamatan dari berbagai macam bukti untuk mengukur dampak dan efektivitas dari suatu objek, program, atau proses berkaitan dengan spesifikasi dan persyaratan pengguna yang telah ditetapkan sebelumnya"
+        }
+      ]
+    }
+  ]
+}

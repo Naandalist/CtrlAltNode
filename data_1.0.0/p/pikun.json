@@ -1,0 +1,30 @@
+{
+  "istilah": "pikun",
+  "entri": "pi.kun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terpikun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pikun, jompo, tua renta, lemah karena usia lanjut",
+    "kataAsal": "pikun"
+  },
+  "data": [
+    {
+      "lema": "pi.kun",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kelainan tingkah laku (sering lupa dan sebagainya) yang biasa terjadi pada orang yang sudah berusia lanjut; linglung; pelupa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak berfungsi dengan baik karena sudah lama atau tua (mesin, perkakas, dan sebagainya): alat pencatat gempa yang sudah -- karena tuanya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "kurap",
+  "entri": "ku.rap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkurap"
+  ],
+  "gabunganKata": [
+    "kurap kuku",
+    "kurap kulit kepala"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.rap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit kulit semacam kudis yang menyebabkan gatal (ada bermacam-macam seperti -- ayam, -- anjing, -- besi)"
+        }
+      ]
+    },
+    {
+      "lema": "ku.rap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat daun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "tembung",
+  "entri": "tem.bung1 /têmbung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menembung",
+    "bertembung",
+    "pertembungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem.bung1 /têmbung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkat pemukul atau penangkis (sebagai senjata berkelahi)"
+        }
+      ]
+    },
+    {
+      "lema": "tem.bung2 /têmbung/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertembung"
+        }
+      ]
+    },
+    {
+      "lema": "tem.bung3 /têmbung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cambuk; cemeti"
+        }
+      ]
+    },
+    {
+      "lema": "tem.bung4 /têmbung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "ukuran untuk setiap 25 gulungan tembakau yang siap diiris"
+        }
+      ]
+    }
+  ]
+}

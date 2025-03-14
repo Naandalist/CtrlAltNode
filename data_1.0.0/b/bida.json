@@ -1,0 +1,37 @@
+{
+  "istilah": "bida",
+  "entri": "bi.da1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.da1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] kp[kependekan]",
+          "deskripsi": "bidadari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "dayang (pengasuh) dalam istana"
+        }
+      ]
+    },
+    {
+      "lema": "bi.da2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan untuk mengukur jumlah hari sejak kelahiran: setelah tujuh --, acara tersebut dilaksanakan sebagai bentuk syukur kelahiran adik"
+        }
+      ]
+    }
+  ]
+}

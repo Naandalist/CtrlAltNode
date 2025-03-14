@@ -1,0 +1,37 @@
+{
+  "istilah": "salsa",
+  "entri": "sal.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sal.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saus khas Meksiko yang terbuat dari tomat cincang, bawang merah, bawang putih, lemon, limau, cabai jalapeno, daun ketumbar, garam, lada, dan jintan"
+        }
+      ]
+    },
+    {
+      "lema": "sal.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "musik dansa asal Amerika Latin yang merupakan perpaduan antara ritme jaz dan musik rok"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tarian asal Amerika Latin yang dilakukan secara berpasangan dengan gerakan maju mundur, saling menyilang, berputar, dan terkadang akrobatik, biasanya diiringi oleh musik khas Amerika Latin bertempo cepat"
+        }
+      ]
+    }
+  ]
+}

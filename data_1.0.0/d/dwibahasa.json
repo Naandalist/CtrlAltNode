@@ -1,0 +1,30 @@
+{
+  "istilah": "dwibahasa",
+  "entri": "dwi.ba.ha.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kedwibahasaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "ucapan; bahasa",
+    "kataAsal": "bhāṣā"
+  },
+  "data": [
+    {
+      "lema": "dwi.ba.ha.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dua bahasa: kamus --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mampu memahami dan menggunakan dua bahasa; bilingual: masyarakat Indonesia merupakan masyarakat --"
+        }
+      ]
+    }
+  ]
+}

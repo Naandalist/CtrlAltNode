@@ -1,0 +1,30 @@
+{
+  "istilah": "busana",
+  "entri": "bu.sa.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbusana"
+  ],
+  "gabunganKata": [
+    "busana liturgi",
+    "busana madya",
+    "busana muslim"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "hiasan, perhiasan, pakaian pesta",
+    "kataAsal": "bhūṣaṇa"
+  },
+  "data": [
+    {
+      "lema": "bu.sa.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pakaian; baju"
+        }
+      ]
+    }
+  ]
+}

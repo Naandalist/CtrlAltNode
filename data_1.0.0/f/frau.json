@@ -1,0 +1,41 @@
+{
+  "istilah": "frau",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "istri"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "ibu; nyonya"
+        }
+      ]
+    },
+    {
+      "lema": "Frau",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "istri"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "ibu; nyonya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "busa",
+  "entri": "bu.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbusa",
+    "membusa",
+    "membusakan",
+    "pembusa"
+  ],
+  "gabunganKata": [
+    "busa cukur",
+    "busa alam",
+    "busa sintetis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelembung-gelembung putih kecil-kecil (seperti pada sabun dan sebagainya); buih: sabun yang baik banyak --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suspensi gas dalam zat cair yang cukup stabil (dihasilkan oleh kocokan atau dengan bantuan zat kimia)"
+        }
+      ]
+    },
+    {
+      "lema": "bu.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karet gembus dan empuk, biasanya untuk isi jok atau kasur"
+        }
+      ]
+    },
+    {
+      "lema": "bu.sa3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membusa; membusakan; pembusa"
+        }
+      ]
+    }
+  ]
+}

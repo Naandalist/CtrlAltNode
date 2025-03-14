@@ -1,0 +1,70 @@
+{
+  "istilah": "matriks",
+  "entri": "mat.riks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "matriks asli",
+    "matriks baris",
+    "matriks bujur sangkar",
+    "matriks elementer",
+    "matriks koefisien",
+    "matriks kolom",
+    "matriks kompleks",
+    "matriks nol",
+    "matriks pita",
+    "matriks real",
+    "matriks serupa",
+    "matriks singular",
+    "matriks taksingular"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mat.riks",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerangka, bagan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rekaman induk (tentang piringan hitam)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "matris"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pola acuan untuk ragam hias relief atau patung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "tabel yang disusun dalam lajur dan jajaran sehingga butir-butir uraian yang diisikan dapat dibaca dari atas ke bawah dan dari kiri ke kanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "substansi antarselular pada suatu jaringan, seperti pada tulang atau jaringan tempat berkembangnya struktur, seperti pada rambut dan kuku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pita logam untuk membuat bentuk yang tepat pada restorasi gigi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "susunan unsur matematis yang berbentuk segi empat, ditulis di antara kurung, terdiri atas kolom dan baris"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "larik dua dimensi yang disusun dalam baris dan kolom yang nilai baris dan kolomnya dapat sama atau berbeda"
+        }
+      ]
+    }
+  ]
+}

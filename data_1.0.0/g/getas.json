@@ -1,0 +1,37 @@
+{
+  "istilah": "getas",
+  "entri": "ge.tas1 /gêtas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.tas1 /gêtas/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rapuh; mudah pecah; mudah robek: gelas adalah barang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "mudah patah hati"
+        }
+      ]
+    },
+    {
+      "lema": "ge.tas2 /gêtas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penganan goreng, dibuat dari juadah yang disalut dengan gula"
+        }
+      ]
+    }
+  ]
+}

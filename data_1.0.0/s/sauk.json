@@ -1,0 +1,52 @@
+{
+  "istilah": "sauk",
+  "entri": "sa.uk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyauk",
+    "menyauki",
+    "penyaukan",
+    "sauk-menyauk",
+    "sauk-sauk",
+    "saukan"
+  ],
+  "gabunganKata": [
+    "sauk tangis"
+  ],
+  "peribahasa": [
+    "sauk (menyauk) air mandikan diri"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.uk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang dipakai untuk mencedok (menimba dan sebagainya) seperti gayung dan sendok kuah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebanyak yang dicedok dengan sauk: se-- air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sauk-sauk"
+        }
+      ]
+    },
+    {
+      "lema": "sa.uk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluh; erang"
+        }
+      ]
+    }
+  ]
+}

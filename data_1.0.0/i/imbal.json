@@ -1,0 +1,47 @@
+{
+  "istilah": "imbal",
+  "entri": "im.bal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengimbal",
+    "mengimbalkan",
+    "pengimbal",
+    "pengimbalan",
+    "imbalan",
+    "mengimbali"
+  ],
+  "gabunganKata": [
+    "imbal balik",
+    "imbal beli"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "im.bal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "miring ke satu pihak; bengot (tidak bundar benar)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak seimbang; berat sebelah; pincang (tidak sebagaimana mestinya)"
+        }
+      ]
+    },
+    {
+      "lema": "im.bal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balas(an); upah"
+        }
+      ]
+    }
+  ]
+}

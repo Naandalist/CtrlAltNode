@@ -1,0 +1,46 @@
+{
+  "istilah": "lung",
+  "entri": "lung1",
+  "bentukTidakBaku": "elung2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ranting muda dan lemas, pucuk (khususnya tumbuhan menjalar)",
+    "kataAsal": "luṅ"
+  },
+  "data": [
+    {
+      "lema": "lung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis berlekuk; keluk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "busur panah: sebelum latihan, ia melenturkan --"
+        }
+      ]
+    },
+    {
+      "lema": "lung2 bentuk tidak baku: elung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peti mati yang tidak beralas (jadi ditutupkan saja di liang kubur)"
+        }
+      ]
+    },
+    {
+      "lema": "lung3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ long"
+        }
+      ]
+    }
+  ]
+}

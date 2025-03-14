@@ -1,0 +1,35 @@
+{
+  "istilah": "bongkah",
+  "entri": "bong.kah bentuk tidak baku: bungkah",
+  "bentukTidakBaku": "bungkah",
+  "kataTurunan": [
+    "berbongkah",
+    "berbongkah-bongkah",
+    "bongkahan",
+    "membongkahi"
+  ],
+  "gabunganKata": [
+    "bongkah tanah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bong.kah bentuk tidak baku: bungkah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gumpalan (tanah dan sebagainya); bingkah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "gumpalan batu dengan garis tengah lebih besar dari 265 mm"
+        }
+      ]
+    }
+  ]
+}

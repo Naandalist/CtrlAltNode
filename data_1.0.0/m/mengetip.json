@@ -1,0 +1,37 @@
+{
+  "istilah": "mengetip",
+  "entri": "ketip1 » me.nge.tip",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ketip1 » me.nge.tip",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggigit (tentang nyamuk dan sebagainya): nyamuk malaria ~ sambil menungging"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencubit sedikit: ~ paha"
+        }
+      ]
+    },
+    {
+      "lema": "tip2 » me.nge.tip",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyentuh bola dengan jari tangan (agar tidak masuk gol): penjaga gawang PSSI berhasil ~ bola tanggung itu sehingga tidak menambah gol"
+        }
+      ]
+    }
+  ]
+}

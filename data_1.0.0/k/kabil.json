@@ -1,0 +1,39 @@
+{
+  "istilah": "kabil",
+  "entri": "ka.bil2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkabilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama anak Nabi Adam a.s. yang membunuh saudaranya, Habil",
+    "kataAsal": "qābīl"
+  },
+  "data": [
+    {
+      "lema": "ka.bil2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berkabilan"
+        }
+      ]
+    },
+    {
+      "lema": "Ka.bil1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama anak Nabi Adam a.s. yang membunuh saudaranya, Habil"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "durhaka"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "prostetik",
+  "entri": "pros.te.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pros.te.tik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan prostesis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu bedah yang mempelajari desain, produksi, dan penggunaan bagian tubuh buatan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan ilmu kedokteran yang mempelajari desain, produksi, dan penggunaan bagian tubuh buatan"
+        }
+      ]
+    }
+  ]
+}

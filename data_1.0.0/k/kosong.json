@@ -1,0 +1,70 @@
+{
+  "istilah": "kosong",
+  "entri": "ko.song",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekosongan",
+    "mengosongkan",
+    "pengosong",
+    "pengosongan",
+    "sekosong-kosongnya"
+  ],
+  "gabunganKata": [
+    "kosong melompong"
+  ],
+  "peribahasa": [
+    "besar bungkus tak berisi (tong kosong nyaring bunyinya); seperti buah kedempung, di luar berisi di dalam kosong; tong kosong nyaring bunyinya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.song",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berisi: peti -- itu rupanya menjadi sarang tikus"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berpenghuni: rumah itu sudah lama --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hampa; berongga: batang kangkung itu -- di dalamnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mengandung arti: dia menerima tangan saya dengan sikap dingin dan pandangan yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak bergairah: sejak suaminya meninggal, hidupnya serasa --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada yang menjabatnya; terluang: sudah tiga bulan jabatan kepala dinas itu -- dan belum ada yang menggantikannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada sesuatu yang berharga (penting): pidato yang berjam-jam itu -- belaka"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada muatannya: perahu itu --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak pandai; tidak cerdas: otaknya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "nol"
+        }
+      ]
+    }
+  ]
+}

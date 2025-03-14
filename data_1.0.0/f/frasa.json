@@ -1,0 +1,33 @@
+{
+  "istilah": "frasa",
+  "entri": "fra.sa bentuk tidak baku: frase",
+  "bentukTidakBaku": "frase",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "frasa adjektival",
+    "frasa adverbial",
+    "frasa apositif",
+    "frasa eksosentris",
+    "frasa endosentris",
+    "frasa nominal",
+    "frasa parataktis",
+    "frasa verbal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fra.sa bentuk tidak baku: frase",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "gabungan dua kata atau lebih yang bersifat nonpredikatif (misalnya gunung tinggi disebut frasa karena merupakan konstruksi nonpredikatif)"
+        }
+      ]
+    }
+  ]
+}

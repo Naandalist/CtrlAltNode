@@ -1,0 +1,41 @@
+{
+  "istilah": "membabat",
+  "entri": "babat1 » mem.ba.bat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "babat1 » mem.ba.bat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menebas; merambah (pohon-pohon, semak belukar, rerumputan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menghabiskan; menyikat habis (makanan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Olr[Olahraga: -]",
+          "deskripsi": "mengalahkan lawan-lawan (dalam pertandingan): dalam babak penyisihan dia telah ~ semua lawannya tanpa kesukaran"
+        }
+      ]
+    },
+    {
+      "lema": "babat4 » mem.ba.bat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membebat"
+        }
+      ]
+    }
+  ]
+}

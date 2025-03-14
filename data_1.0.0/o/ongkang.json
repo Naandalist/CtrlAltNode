@@ -1,0 +1,36 @@
+{
+  "istilah": "ongkang",
+  "entri": "ong.kang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ongkang-ongkang",
+    "mengongkang-ongkang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ong.kang1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ongkang-ongkang"
+        }
+      ]
+    },
+    {
+      "lema": "ong.kang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengongkang-ongkang"
+        }
+      ]
+    }
+  ]
+}

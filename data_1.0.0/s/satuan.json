@@ -1,0 +1,43 @@
+{
+  "istilah": "satuan",
+  "entri": "satu » sa.tu.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "satuan astronomi",
+    "satuan kerja",
+    "satuan kredit profesi",
+    "satuan tempur",
+    "satuan ternak",
+    "satuan tugas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "satu » sa.tu.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilangan bulat positif terkecil dari bilangan seluruhnya (bilangan satu): bilangan 235 ~nya 5, puluhannya 3, dan ratusannya 2"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "standar atau dasar ukuran (takaran, sukatan, uang, dan sebagainya): meter ialah ~ ukuran panjang, sedangkan gram ~ berat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekelompok orang (tentara, alat-alat, dan sebagainya) yang merupakan keutuhan: ~ pasukan bermotor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangkat; unit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "canggah",
+  "entri": "cang.gah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercanggah",
+    "percanggahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "piut cucu dari cucu",
+    "kataAsal": "caṅgah"
+  },
+  "data": [
+    {
+      "lema": "cang.gah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "galah (tongkat dan sebagainya) yang ujungnya bercabang (untuk senjata, menggancu, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dahan yang bercabang dua"
+        }
+      ]
+    },
+    {
+      "lema": "cang.gah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "piut (cucu dari cucu)"
+        }
+      ]
+    }
+  ]
+}

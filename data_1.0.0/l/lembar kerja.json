@@ -1,0 +1,28 @@
+{
+  "istilah": "lembar kerja",
+  "entri": "lembar » lembar kerja",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lembar » lembar kerja",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lembar untuk mengerjakan suatu tugas atau pekerjaan"
+        },
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "lembar berupa matriks sel tunggal dalam program pengolah data yang dapat dikelompokkan dengan yang lain dalam buku kerja tertentu"
+        }
+      ]
+    }
+  ]
+}

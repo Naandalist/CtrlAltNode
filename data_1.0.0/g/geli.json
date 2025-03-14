@@ -1,0 +1,50 @@
+{
+  "istilah": "geli",
+  "entri": "ge.li /gêli/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kegelian",
+    "menggeli",
+    "menggelikan",
+    "penggeli"
+  ],
+  "gabunganKata": [
+    "geli geman",
+    "geli hati"
+  ],
+  "peribahasa": [
+    "habis geli oleh gelitik, (habis bisa oleh biasa); hilang geli karena gelitik"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.li /gêli/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perasaan seperti ketika dikitik-kitik (digelitik)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hendak tertawa karena lucu dan sebagainya: -- aku membaca suratmu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merasa dan terasa adanya kelucuan: alangkah --nya kalau kakek mau turun melantai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merasa ngilu atau nyeri seperti mendengar orang mengikir gergaji dan sebagainya: -- aku mendengar orang meraut kulit bambu itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "agak jengkel"
+        }
+      ]
+    }
+  ]
+}

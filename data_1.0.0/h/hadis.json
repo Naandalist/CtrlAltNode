@@ -1,0 +1,43 @@
+{
+  "istilah": "hadis",
+  "entri": "ha.dis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hadis daif",
+    "hadis fikli",
+    "hadis hasan",
+    "hadis kauli",
+    "hadis maktuk",
+    "hadis marfuk",
+    "hadis maukuf",
+    "hadis mursal",
+    "hadis musalsal",
+    "hadis mutawatir",
+    "hadis palsu",
+    "hadis qudsi",
+    "hadis sahih",
+    "hadis takriri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "cerita; perkataan, perbuatan, dan ketetapan yang berkaitan dengan Nabi Muhammad saw.",
+    "kataAsal": "ḥadīṡ"
+  },
+  "data": [
+    {
+      "lema": "ha.dis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "sabda, perbuatan, takrir (ketetapan) Nabi Muhammad saw. yang diriwayatkan atau diceritakan oleh sahabat untuk menjelaskan dan menetapkan hukum Islam: -- itu diriwayatkan oleh sahabat Nabi terdekat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "sumber ajaran Islam yang kedua setelah Al-Qur'an: untuk lebih mendalami Islam, ia sangat tekun membaca -- Nabi Muhammad saw. di samping menghafal ayat-ayat Al-Qur'an"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "selut",
+  "entri": "se.lut1 /sêlut/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.lut1 /sêlut/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lumpur"
+        }
+      ]
+    },
+    {
+      "lema": "se.lut2 /sêlut/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ss[Sasak: -]",
+          "deskripsi": "besi yang dipasang di ujung tangkai parang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "cincin pada ujung atas gagang kujang untuk memperkuat pegangan kujang"
+        }
+      ]
+    },
+    {
+      "lema": "se.lut3 /sêlut/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "gerakan dalam tarian Sunda, dilakukan dengan memutar pergelangan hingga telapak tangan menghadap keluar, lalu diputar lagi sampai tangan dalam posisi menghadap ke depan"
+        }
+      ]
+    }
+  ]
+}

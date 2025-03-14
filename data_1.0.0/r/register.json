@@ -1,0 +1,50 @@
+{
+  "istilah": "register",
+  "entri": "re.gis.ter1 /registêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "register cek",
+    "register kas",
+    "register pengaktifan interupsi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.gis.ter1 /registêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bld[Belanda: -]",
+          "deskripsi": "buku catatan atau daftar (nama dan sebagainya) yang disusun secara bersistem dan menurut abjad: para siswa dilatih membaca tabel, grafik dengan menggunakan -- dan kamus"
+        }
+      ]
+    },
+    {
+      "lema": "re.gis.ter2 /registêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "pengaturan acuan atau pelat cetak demikian rupa sehingga yang satu akan tetap berada pada letak atau posisi yang benar terhadap yang lain, misalnya pada cetak warna"
+        }
+      ]
+    },
+    {
+      "lema": "re.gis.ter3 /registêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "rangkaian listrik untuk menyimpan data dalam bentuk sandi biner"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "rangkaian memori berkecepatan tinggi dalam sebuah mikroprosesor"
+        }
+      ]
+    }
+  ]
+}

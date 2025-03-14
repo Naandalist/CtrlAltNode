@@ -1,0 +1,35 @@
+{
+  "istilah": "kusa",
+  "entri": "ku.sa1 bentuk tidak baku: kosa",
+  "bentukTidakBaku": "kosa",
+  "kataTurunan": [
+    "mengusa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "rumput",
+    "kataAsal": "kuśa"
+  },
+  "data": [
+    {
+      "lema": "ku.sa1 bentuk tidak baku: kosa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkat yang ujungnya diberi besi berkait (untuk mengendalikan gajah); angkusa"
+        }
+      ]
+    },
+    {
+      "lema": "ku.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "rumput"
+        }
+      ]
+    }
+  ]
+}

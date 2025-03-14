@@ -1,0 +1,32 @@
+{
+  "istilah": "musyarakah",
+  "entri": "mu.sya.ra.kah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "persekutuan; perkongsian",
+    "kataAsal": "musyārakah"
+  },
+  "data": [
+    {
+      "lema": "mu.sya.ra.kah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "serikat dagang; kongsi; perseroan; persekutuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "masyarakat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kontrak bagi hasil (keuntungan dan kerugian dibagi sesuai dengan porsi investasi)"
+        }
+      ]
+    }
+  ]
+}

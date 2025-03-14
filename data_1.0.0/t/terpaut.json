@@ -1,0 +1,45 @@
+{
+  "istilah": "terpaut",
+  "entri": "paut1 » ter.pa.ut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "terpaut kasih"
+  ],
+  "peribahasa": [
+    "tertambat hati, terpaut sayang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "paut1 » ter.pa.ut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tersangkut dan terikat: bagian ujung tambang itu ~ pada tonggak di tepi dermaga"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tertambat (tentang cinta kasih); terpikat: hatinya ~ pada kelembutan hati gadis itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terpaku: pandangannya ~ pada gadis semampai berambut panjang itu"
+        }
+      ]
+    },
+    {
+      "lema": "paut2 » ter.pa.ut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbeda; berselisih: umur kakaknya ~ tiga tahun dengan adiknya"
+        }
+      ]
+    }
+  ]
+}

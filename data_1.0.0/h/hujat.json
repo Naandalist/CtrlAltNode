@@ -1,0 +1,33 @@
+{
+  "istilah": "hujat",
+  "entri": "hu.jat bentuk tidak baku: hujah1",
+  "bentukTidakBaku": "hujah1",
+  "kataTurunan": [
+    "hujatan",
+    "menghujat",
+    "penghujat",
+    "penghujatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ejaan aksara Arab; kecaman",
+    "kataAsal": "hijā’"
+  },
+  "data": [
+    {
+      "lema": "hu.jat bentuk tidak baku: hujah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "caci; cela"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "fitnah"
+        }
+      ]
+    }
+  ]
+}

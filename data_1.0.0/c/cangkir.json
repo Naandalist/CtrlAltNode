@@ -1,0 +1,36 @@
+{
+  "istilah": "cangkir",
+  "entri": "cang.kir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "cangkir pensil",
+    "cangkir piring"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cang.kir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mangkuk kecil yang bertelinga (tempat air teh atau kopi yang hendak diminum): setelah menghabiskan kopi dua -- dia merasa segar kembali; kami menghadiahi satu set -- buatan Cina pada hari perkawinan mereka"
+        }
+      ]
+    },
+    {
+      "lema": "cang.kir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "jari cakar yang belakang (tentang burung, ayam, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

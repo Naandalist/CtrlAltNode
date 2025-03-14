@@ -1,0 +1,33 @@
+{
+  "istilah": "ictus",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -] Sas[Sastra: -]",
+          "deskripsi": "tekanan yang berulang-ulang pada urutan sajak"
+        }
+      ]
+    },
+    {
+      "lema": "ictus",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -] [Sastra: -]",
+          "deskripsi": "tekanan yang berulang-ulang pada urutan sajak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "hero",
+  "entri": "he.ro",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hero romantik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "he.ro",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dihormati karena keberanian (pribadi yang mulia dan sebagainya); pahlawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dikagumi karena kecakapan, prestasi, atau karena sebagai idola"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "tokoh utama dalam novel, puisi, dan sebagainya yang mampu menimbulkan rasa simpati pembaca"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "sosok pahlawan dalam drama"
+        }
+      ]
+    }
+  ]
+}

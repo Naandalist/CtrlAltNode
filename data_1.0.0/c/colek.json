@@ -1,0 +1,45 @@
+{
+  "istilah": "colek",
+  "entri": "co.lek1 bentuk tidak baku: colet1",
+  "bentukTidakBaku": "colet1",
+  "kataTurunan": [
+    "colekan",
+    "mencolek",
+    "mencolek-colek",
+    "pencolek",
+    "pencolekan",
+    "secolek",
+    "mencolek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.lek1 bentuk tidak baku: colet1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sentuhan dengan ujung jari dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggolong sesuatu yang lembut dan sedikit sekali (sebanyak yang diambil dengan ujung jari): taruhlah sambal barang dua --"
+        }
+      ]
+    },
+    {
+      "lema": "co.lek2 /colêk/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencolek"
+        }
+      ]
+    }
+  ]
+}

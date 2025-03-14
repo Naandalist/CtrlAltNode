@@ -1,0 +1,37 @@
+{
+  "istilah": "pedal",
+  "entri": "pe.dal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpedal"
+  ],
+  "gabunganKata": [
+    "pedal rem"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.dal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pijak-pijak pada sepeda, piano, mesin jahit, dan sebagainya: aku melambatkan laju sepeda, -- tidak kukayuh lagi"
+        }
+      ]
+    },
+    {
+      "lema": "pe.dal /pêdal/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ empedal"
+        }
+      ]
+    }
+  ]
+}

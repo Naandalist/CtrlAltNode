@@ -1,0 +1,72 @@
+{
+  "istilah": "kupang",
+  "entri": "ku.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kupang beras",
+    "kupang jawa",
+    "kupang kawung",
+    "kupang merah",
+    "kupang putih"
+  ],
+  "peribahasa": [
+    "bagai kambing harga dua kupang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "uang (kerang dipakai sebagai uang); uang logam tertentu atau nilai mata uang, dalam prasasti disingkat ku; seratus (unit mata uang yang kecil)",
+    "kataAsal": "kupaṅ"
+  },
+  "data": [
+    {
+      "lema": "ku.pang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang zaman dahulu yang nilainya berbeda-beda berdasarkan daerah sirkulasinya, misalnya di Penang 10 sen, di Kelantan 12½ sen, di Padang 50 sen, di Agam 30 sen, di Payakumbuh 40 sen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran berat emas (sekitar ½ real = 10 g)"
+        }
+      ]
+    },
+    {
+      "lema": "ku.pang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "siput laut termasuk genus Mytilus yang dahulu digunakan sebagai mata uang〔Musculus〕"
+        }
+      ]
+    },
+    {
+      "lema": "ku.pang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketepeng"
+        }
+      ]
+    },
+    {
+      "lema": "kupang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "kerang laut kecil yang dagingnya sering dimasak untuk dijadikan soto dan petis"
+        }
+      ]
+    },
+    {
+      "lema": "Ku.pang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu kota Provinsi Nusa Tenggara Timur"
+        }
+      ]
+    }
+  ]
+}

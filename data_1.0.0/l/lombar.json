@@ -1,0 +1,35 @@
+{
+  "istilah": "lombar",
+  "entri": "lom.bar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melombar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lom.bar1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "melombar"
+        }
+      ]
+    },
+    {
+      "lema": "lom.bar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MAb[Melayu Ambon: Bahasa di Maluku]",
+          "deskripsi": "pelepah pinang atau pelepah sagu: pada zaman Jepang mereka memakai -- sebagai tempat makan"
+        }
+      ]
+    }
+  ]
+}

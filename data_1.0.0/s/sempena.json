@@ -1,0 +1,38 @@
+{
+  "istilah": "sempena",
+  "entri": "sem.pe.na1 /sêmpêna/bentuk tidak baku: sempana",
+  "bentukTidakBaku": "sempana",
+  "kataTurunan": [
+    "bersempena",
+    "menyempenakan"
+  ],
+  "gabunganKata": [
+    "sempena hati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "lamban, tidur, mimpi, rasa kantuk",
+    "kataAsal": "svapna"
+  },
+  "data": [
+    {
+      "lema": "sem.pe.na1 /sêmpêna/bentuk tidak baku: sempana",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "berkat; tuah"
+        }
+      ]
+    },
+    {
+      "lema": "sem.pe.na2 /sêmpêna/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "mimpi"
+        }
+      ]
+    }
+  ]
+}

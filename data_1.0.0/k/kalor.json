@@ -1,0 +1,50 @@
+{
+  "istilah": "kalor",
+  "entri": "ka.lor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kalor beku",
+    "kalor embun",
+    "kalor fusi",
+    "kalor jenis",
+    "kalor lebur",
+    "kalor reaksi",
+    "kalor sensibel",
+    "kalor uap"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.lor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "tenaga panas yang dapat diterima dan diteruskan oleh satu benda ke benda lain secara hantaran (konduksi), penyinaran (radiasi), atau aliran (konveksi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "panas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dirg[Kedirgantaraan: -]",
+          "deskripsi": "bahang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.lor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MAb[Melayu Ambon: Bahasa di Maluku]",
+          "deskripsi": "kebotakan pada bagian tertentu di kepala akibat rambut rontok"
+        }
+      ]
+    }
+  ]
+}

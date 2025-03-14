@@ -1,0 +1,44 @@
+{
+  "istilah": "kentut",
+  "entri": "ken.tut1 /kêntut/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkentut",
+    "mengentut",
+    "mengentuti",
+    "terkentut",
+    "terkentut-kentut",
+    "kentutan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ken.tut1 /kêntut/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gas berbau busuk (gas busuk) yang keluar dari anus"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berkentut"
+        }
+      ]
+    },
+    {
+      "lema": "ken.tut2 /kêntut/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kentutan"
+        }
+      ]
+    }
+  ]
+}

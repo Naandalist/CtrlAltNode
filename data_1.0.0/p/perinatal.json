@@ -1,0 +1,28 @@
+{
+  "istilah": "perinatal",
+  "entri": "pe.ri.na.tal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ri.na.tal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "bertalian dengan atau terjadinya dalam masa sesaat sebelum dan sesudah kelahiran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "masa yang dimulai dari akhir minggu ke-20 hingga minggu ke-28 kehamilan dan berakhir 7 hingga 28 hari setelah melahirkan"
+        }
+      ]
+    }
+  ]
+}

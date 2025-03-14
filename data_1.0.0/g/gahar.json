@@ -1,0 +1,39 @@
+{
+  "istilah": "gahar",
+  "entri": "ga.har1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggahar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.har1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gosok kuat-kuat"
+        }
+      ]
+    },
+    {
+      "lema": "ga.har2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sd[Sunda: -]",
+          "deskripsi": "rasa segar dari perpaduan rasa asam dan pedas"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kasar; ganas"
+        }
+      ]
+    }
+  ]
+}

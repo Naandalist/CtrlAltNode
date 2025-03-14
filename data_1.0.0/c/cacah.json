@@ -1,0 +1,69 @@
+{
+  "istilah": "cacah",
+  "entri": "ca.cah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercacah",
+    "cacahan",
+    "mencacah",
+    "mencacah-cacah",
+    "pencacah",
+    "pencacahan",
+    "tercacah",
+    "mencacah",
+    "mencacah",
+    "pencacah",
+    "pencacahan"
+  ],
+  "gabunganKata": [
+    "cacah lubang",
+    "cacah baku",
+    "cacah ekonomi",
+    "cacah karya",
+    "cacah sawah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berpenggal-penggal, bersobekan, berpotong, penuh dengan luka-luka",
+    "kataAsal": "cacah"
+  },
+  "data": [
+    {
+      "lema": "ca.cah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar pada kulit yang dibuat dengan cara melukai dengan barang tajam atau runcing yang kemudian diwarnai; tato"
+        }
+      ]
+    },
+    {
+      "lema": "ca.cah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cencang"
+        }
+      ]
+    },
+    {
+      "lema": "ca.cah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "petani yang tetap menjadi warga desa"
+        }
+      ]
+    },
+    {
+      "lema": "ca.cah4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bilangan; jumlah"
+        }
+      ]
+    }
+  ]
+}

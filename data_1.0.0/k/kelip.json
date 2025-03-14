@@ -1,0 +1,38 @@
+{
+  "istilah": "kelip",
+  "entri": "ke.lip1 /kêlip/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkelip",
+    "berkelip-kelip",
+    "mengelip-ngelip",
+    "terkelip-kelip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.lip1 /kêlip/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cahaya kecil yang terputus-putus"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lip2 /kêlip/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mata uang dari nikel bernilai lima sen"
+        }
+      ]
+    }
+  ]
+}

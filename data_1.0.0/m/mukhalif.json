@@ -1,0 +1,28 @@
+{
+  "istilah": "mukhalif",
+  "entri": "mu.kha.lif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang berselisih pendapat",
+    "kataAsal": "mukhālif"
+  },
+  "data": [
+    {
+      "lema": "mu.kha.lif",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "sekte"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "yang berlainan pendapat, pembawa perpecahan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "dr.",
+  "entri": "dr.",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dr.",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "dokter"
+        }
+      ]
+    },
+    {
+      "lema": "Dr.",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "doktor"
+        }
+      ]
+    }
+  ]
+}

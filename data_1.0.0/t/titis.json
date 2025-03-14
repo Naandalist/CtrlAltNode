@@ -1,0 +1,50 @@
+{
+  "istilah": "titis",
+  "entri": "ti.tis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menitis",
+    "menitiskan",
+    "titisan",
+    "ketitisan",
+    "menitis",
+    "penitisan",
+    "titisan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lahir kembali (reinkarnasi)",
+    "kataAsal": "titis"
+  },
+  "data": [
+    {
+      "lema": "ti.tis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "titik (air dan sebagainya): air matanya jatuh beberapa --"
+        }
+      ]
+    },
+    {
+      "lema": "ti.tis2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menitis"
+        }
+      ]
+    },
+    {
+      "lema": "ti.tis3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pandai mengarahkan pada sasaran (misalnya memanah, menembak)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "korsleting",
+  "entri": "kor.sle.ting bentuk tidak baku: konsleting",
+  "bentukTidakBaku": "konsleting",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kor.sle.ting bentuk tidak baku: konsleting",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terputusnya arus listrik karena kawat yang bermuatan arus positif dan negatif bersentuhan sehingga terjadi hubungan pendek"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "keretakan hubungan antara orang yang berkawan atau bersahabat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "keadaan tidak dapat berpikir dengan baik"
+        }
+      ]
+    }
+  ]
+}

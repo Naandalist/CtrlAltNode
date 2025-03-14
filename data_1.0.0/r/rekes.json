@@ -1,0 +1,30 @@
+{
+  "istilah": "rekes",
+  "entri": "re.kes /rêkes/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merekes"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.kes /rêkes/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(surat) permohonan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(surat) lamaran pekerjaan"
+        }
+      ]
+    }
+  ]
+}

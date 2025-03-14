@@ -1,0 +1,39 @@
+{
+  "istilah": "cecer",
+  "entri": "ce.cer bentuk tidak baku: cicir",
+  "bentukTidakBaku": "cicircicir",
+  "kataTurunan": [
+    "berceceran",
+    "kececeran",
+    "mencecerkan",
+    "tercecer",
+    "ceceran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.cer bentuk tidak baku: cicir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jatuh atau tumpah sedikit-sedikit"
+        }
+      ]
+    },
+    {
+      "lema": "ce.cer /cêcêr/bentuk tidak baku: cicir",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ cecar"
+        }
+      ]
+    }
+  ]
+}

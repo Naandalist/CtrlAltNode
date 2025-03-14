@@ -1,0 +1,39 @@
+{
+  "istilah": "tiras",
+  "entri": "ti.ras1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertiras-tiras"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.ras1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potongan atau guntingan benang (kain dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benang pada tepi kain dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ti.ras2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "oplah: majalah berbahasa daerah itu sekarang mempunyai -- 75.000 eksemplar"
+        }
+      ]
+    }
+  ]
+}

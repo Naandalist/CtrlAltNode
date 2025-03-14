@@ -1,0 +1,39 @@
+{
+  "istilah": "kendang",
+  "entri": "ken.dang1 /kêndang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkendang",
+    "kendangan",
+    "sekendang"
+  ],
+  "gabunganKata": [
+    "kendang bumbung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kendang",
+    "kataAsal": "kěṇḍaṅ"
+  },
+  "data": [
+    {
+      "lema": "ken.dang1 /kêndang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "gendang"
+        }
+      ]
+    },
+    {
+      "lema": "ken.dang2 /kêndang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemasan kertas berisi antara 480–500 helai; rim"
+        }
+      ]
+    }
+  ]
+}

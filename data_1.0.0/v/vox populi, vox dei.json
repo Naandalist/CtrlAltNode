@@ -1,0 +1,33 @@
+{
+  "istilah": "vox populi, vox dei",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "suara rakyat adalah suara Tuhan"
+        }
+      ]
+    },
+    {
+      "lema": "vox populi, vox Dei",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "suara rakyat adalah suara Tuhan"
+        }
+      ]
+    }
+  ]
+}

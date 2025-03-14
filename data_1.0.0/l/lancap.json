@@ -1,0 +1,35 @@
+{
+  "istilah": "lancap",
+  "entri": "lan.cap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terlancap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.cap1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rata dan licin"
+        }
+      ]
+    },
+    {
+      "lema": "lan.cap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terlancap"
+        }
+      ]
+    }
+  ]
+}

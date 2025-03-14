@@ -1,0 +1,42 @@
+{
+  "istilah": "klb",
+  "entri": "KLB",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "KLB",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kes[Kesehatan: -] sing[singkatan]",
+          "deskripsi": "kejadian luar biasa (kondisi meningkatnya jumlah penderita yang sakit atau meninggal dalam daerah dan kurun waktu tertentu yang menjurus kepada terjadinya wabah)"
+        }
+      ]
+    },
+    {
+      "lema": "KLB1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kes[Kesehatan: -] sing[singkatan]",
+          "deskripsi": "kejadian luar biasa (kondisi meningkatnya jumlah penderita yang sakit atau meninggal dalam daerah dan kurun waktu tertentu yang menjurus kepada terjadinya wabah)"
+        }
+      ]
+    },
+    {
+      "lema": "KLB2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "koefisien luas bangunan"
+        }
+      ]
+    }
+  ]
+}

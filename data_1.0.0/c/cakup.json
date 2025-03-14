@@ -1,0 +1,45 @@
+{
+  "istilah": "cakup",
+  "entri": "ca.kup1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencakup",
+    "mencakup-cakup",
+    "pencakup",
+    "cakup-mencakup",
+    "cakupan",
+    "ketercakupan",
+    "mencakup",
+    "mencakupi",
+    "tercakup"
+  ],
+  "gabunganKata": [
+    "cakup lindung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memegang dengan tangan, menggenggam",
+    "kataAsal": "cakup"
+  },
+  "data": [
+    {
+      "lema": "ca.kup1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencakup; mencakup-cakup; pencakup"
+        }
+      ]
+    },
+    {
+      "lema": "ca.kup2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencakup"
+        }
+      ]
+    }
+  ]
+}

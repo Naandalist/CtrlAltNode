@@ -1,0 +1,55 @@
+{
+  "istilah": "sah",
+  "entri": "sah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesahan",
+    "mengesahkan",
+    "mensahkan",
+    "pengesah",
+    "pengesahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sembuh; sah; sesuai fakta; terjadi",
+    "kataAsal": "ṣaḥḥa"
+  },
+  "data": [
+    {
+      "lema": "sah1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dilakukan menurut hukum (undang-undang, peraturan) yang berlaku: berdasarkan akta notaris, pendirian yayasan itu sudah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak batal (tentang keagamaan): salatnya tetap -- meskipun tidak memakai peci"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlaku; diakui kebenarannya; diakui oleh pihak resmi: para pelamar harus membawa surat-surat keterangan yang --; karangan untuk media massa harus ditulis dengan ejaan yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "boleh dipercaya; tidak diragukan (disangsikan); benar; asli; autentik: naskah proklamasi yang dibacakan pada setiap peringatan tanggal 17 Agustus adalah naskah yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nyata dan tentu; pasti: peti ini -- berisi uang"
+        }
+      ]
+    },
+    {
+      "lema": "sah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ syah"
+        }
+      ]
+    }
+  ]
+}

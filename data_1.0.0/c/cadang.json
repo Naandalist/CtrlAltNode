@@ -1,0 +1,42 @@
+{
+  "istilah": "cadang",
+  "entri": "ca.dang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercadang",
+    "cadangan",
+    "mencadangkan",
+    "pencadang",
+    "pencadangan",
+    "percadangan"
+  ],
+  "gabunganKata": [
+    "cadangan devisa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "cadaṅ"
+  },
+  "data": [
+    {
+      "lema": "ca.dang1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bercadang; cadangan; mencadangkan; pencadang; pencadangan; percadangan"
+        }
+      ]
+    },
+    {
+      "lema": "ca.dang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hadiah perkawinan dari orang tua mempelai laki-laki"
+        }
+      ]
+    }
+  ]
+}

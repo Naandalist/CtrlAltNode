@@ -1,0 +1,41 @@
+{
+  "istilah": "kurator",
+  "entri": "ku.ra.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekuratoran",
+    "menguratori"
+  ],
+  "gabunganKata": [
+    "kurator koleksi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.ra.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengurus atau pengawas harta benda orang yang pailit dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anggota pengawas dari perguruan tinggi; penyantun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengurus atau pengawas museum (gedung pameran seni lukis, perpustakaan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengelola atau mengawasi sesuatu yang berkaitan dengan koleksi museum, perpustakaan, dan lain-lain"
+        }
+      ]
+    }
+  ]
+}

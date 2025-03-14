@@ -1,0 +1,50 @@
+{
+  "istilah": "cengkok",
+  "entri": "ceng.kok1",
+  "bentukTidakBaku": "cengkuk",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lekuk, cekung",
+    "kataAsal": "ceṅkok"
+  },
+  "data": [
+    {
+      "lema": "ceng.kok1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bengkok; kelok: tangannya -- karena patah waktu ia jatuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "logat (bahasa)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "irama lagu"
+        }
+      ]
+    },
+    {
+      "lema": "ceng.kok2 bentuk tidak baku: cengkuk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kera; cigak"
+        }
+      ]
+    },
+    {
+      "lema": "ceng.kok3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat merajang tembakau"
+        }
+      ]
+    }
+  ]
+}

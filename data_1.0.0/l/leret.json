@@ -1,0 +1,41 @@
+{
+  "istilah": "leret",
+  "entri": "le.ret1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berleret",
+    "berleret-leret",
+    "leretan",
+    "meleret",
+    "meleretkan",
+    "seleret",
+    "meleret"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.ret1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baris: dua -- pohon kelapa"
+        }
+      ]
+    },
+    {
+      "lema": "le.ret2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "meleret"
+        }
+      ]
+    }
+  ]
+}

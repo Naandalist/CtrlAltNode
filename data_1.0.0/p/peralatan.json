@@ -1,0 +1,36 @@
+{
+  "istilah": "peralatan",
+  "entri": "alat1 » per.a.lat.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "peralatan faksimile",
+    "peralatan terminal data"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "alat1 » per.a.lat.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berbagai alat perkakas; perbekalan; kelengkapan"
+        }
+      ]
+    },
+    {
+      "lema": "alat2 » per.a.lat.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perjamuan; pesta (upacara) adat"
+        }
+      ]
+    }
+  ]
+}

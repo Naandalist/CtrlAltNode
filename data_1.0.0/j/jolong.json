@@ -1,0 +1,38 @@
+{
+  "istilah": "jolong",
+  "entri": "jo.long1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjolong",
+    "jolong-jolong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagai gadis jolong bersubang; seperti gadis jolong bersubang, bujang jolong bekerja; yang tinggi tampak jauh, yang dekat jolong bersua"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jo.long1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menjolong"
+        }
+      ]
+    },
+    {
+      "lema": "jo.long2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "mula-mula; mulai; pertama-tama (tentang pohon yang mulai berbuah dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

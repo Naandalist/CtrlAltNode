@@ -1,0 +1,36 @@
+{
+  "istilah": "santun",
+  "entri": "san.tun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesantunan",
+    "menyantun",
+    "menyantuni",
+    "penyantun",
+    "penyantunan",
+    "santunan",
+    "tersantun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "diam, tenang, bersih, damai, lembut",
+    "kataAsal": "śānta"
+  },
+  "data": [
+    {
+      "lema": "san.tun",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "halus dan baik (budi bahasanya, tingkah lakunya); sabar dan tenang; sopan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh rasa belas kasihan; suka menolong"
+        }
+      ]
+    }
+  ]
+}

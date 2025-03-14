@@ -1,0 +1,52 @@
+{
+  "istilah": "bimbang",
+  "entri": "bim.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebimbangan",
+    "membimbangkan"
+  ],
+  "gabunganKata": [
+    "bimbang hati",
+    "bimbang gedang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bim.bang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(merasa) tidak tetap hati (kurang percaya); ragu-ragu; imbang2: ia masih -- menerima usul itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(merasa) khawatir; cemas: ia selalu -- memikirkan nasib anaknya yang merantau di negeri orang"
+        }
+      ]
+    },
+    {
+      "lema": "bim.bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "upacara atau pesta adat"
+        }
+      ]
+    },
+    {
+      "lema": "bim.bang3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berganti-ganti; bergantian"
+        }
+      ]
+    }
+  ]
+}

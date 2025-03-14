@@ -1,0 +1,46 @@
+{
+  "istilah": "sebal",
+  "entri": "se.bal1 /sêbal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesebalan",
+    "menyebalkan",
+    "menyebal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dikejar nasib jelek, tidak berhasil, tidak berguna, gagal",
+    "kataAsal": "sěběl"
+  },
+  "data": [
+    {
+      "lema": "se.bal1 /sêbal/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kesal (hati); mendongkol (karena kecewa, tidak senang, dan sebagainya): -- aku melihat tingkah lakunya yang kasar itu"
+        }
+      ]
+    },
+    {
+      "lema": "se.bal2 /sêbal/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sial; tidak mujur"
+        }
+      ]
+    },
+    {
+      "lema": "se.bal3 /sêbal/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menyebal"
+        }
+      ]
+    }
+  ]
+}

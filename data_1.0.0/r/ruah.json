@@ -1,0 +1,48 @@
+{
+  "istilah": "ruah",
+  "entri": "ru.ah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meruah",
+    "meruahkan",
+    "meruah",
+    "seperuah",
+    "seruah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.ah1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meruah"
+        }
+      ]
+    },
+    {
+      "lema": "ru.ah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meruah"
+        }
+      ]
+    },
+    {
+      "lema": "Ru.ah3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ Ruwah"
+        }
+      ]
+    }
+  ]
+}

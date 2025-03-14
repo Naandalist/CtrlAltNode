@@ -1,0 +1,33 @@
+{
+  "istilah": "vario lectio",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "teks yang lain; pembacaan yang menyimpang"
+        }
+      ]
+    },
+    {
+      "lema": "vario lectio",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "teks yang lain; pembacaan yang menyimpang"
+        }
+      ]
+    }
+  ]
+}

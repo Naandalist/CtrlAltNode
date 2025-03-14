@@ -1,0 +1,38 @@
+{
+  "istilah": "patuk",
+  "entri": "pa.tuk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mematuk",
+    "mematuk-matuk",
+    "mematuki",
+    "terpatuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.tuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "catuk; cotok; pagut (dengan paruh)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.tuk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "alat kelamin laki-laki; zakar"
+        }
+      ]
+    }
+  ]
+}

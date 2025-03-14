@@ -1,0 +1,42 @@
+{
+  "istilah": "lut",
+  "entri": "lut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nabi diutus Tuhan untuk kaum Sodom",
+    "kataAsal": "lūṭ"
+  },
+  "data": [
+    {
+      "lema": "lut1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "dapat terluka oleh senjata; tidak kebal terhadap senjata; telap; mempan: orang itu tidak -- oleh senjata tajam"
+        }
+      ]
+    },
+    {
+      "lema": "lut2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "batu (timah dan sebagainya) yang digantungkan pada tali untuk menduga kedalaman laut dan sebagainya; batu anting; batu duga"
+        }
+      ]
+    },
+    {
+      "lema": "Lut3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "nabi dan rasul ketujuh yang diutus Allah Swt. untuk kaum Sodom"
+        }
+      ]
+    }
+  ]
+}

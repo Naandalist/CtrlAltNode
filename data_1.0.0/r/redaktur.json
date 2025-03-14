@@ -1,0 +1,50 @@
+{
+  "istilah": "redaktur",
+  "entri": "re.dak.tur /rêdaktur/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "redaktur bersama",
+    "redaktur film",
+    "redaktur foto",
+    "redaktur ilmiah",
+    "redaktur kawat",
+    "redaktur kota",
+    "redaktur luar negeri",
+    "redaktur malam",
+    "redaktur meja",
+    "redaktur mingguan",
+    "redaktur olahraga",
+    "redaktur pelaksana",
+    "redaktur penyumbang",
+    "redaktur penyunting",
+    "redaktur regional",
+    "redaktur tamu",
+    "redaktur tugas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.dak.tur /rêdaktur/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menangani bidang redaksi (misalnya -- artistik, -- fotografi, -- interior)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin (kepala atau penerbit) surat kabar dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "wartawan yang membantu atau memberikan sumbangan karangan pada suatu penerbitan"
+        }
+      ]
+    }
+  ]
+}

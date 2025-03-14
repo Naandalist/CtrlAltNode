@@ -1,0 +1,28 @@
+{
+  "istilah": "wasal",
+  "entri": "wa.sal bentuk tidak baku: waslah",
+  "bentukTidakBaku": "waslah",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyambungan",
+    "kataAsal": "waṣl"
+  },
+  "data": [
+    {
+      "lema": "wa.sal bentuk tidak baku: waslah",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "perangkaian dua buah kata yang menghilangkan bunyi huruf alif (yaitu a) dari kata kedua, misalnya khalifat + Allah menjadi khalifatullah, masjid + alharam menjadi masjidilharam"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "perangkaian; penghubungan"
+        }
+      ]
+    }
+  ]
+}

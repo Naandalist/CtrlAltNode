@@ -1,0 +1,34 @@
+{
+  "istilah": "copet",
+  "entri": "co.pet",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kecopetan",
+    "mencopet",
+    "pencopet",
+    "pencopetan",
+    "percopetan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.pet",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "curi (barang yang sedang dipakai, uang dalam saku, barang yang dijajakan, dan sebagainya) dengan cepat dan tangkas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mencuri (sesuatu yang sedang dipakai, uang di dalam saku, barang yang dijajakan, dan sebagainya) dengan cepat dan tangkas; tukang copet; pencopet"
+        }
+      ]
+    }
+  ]
+}

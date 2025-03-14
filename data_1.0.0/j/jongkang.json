@@ -1,0 +1,36 @@
+{
+  "istilah": "jongkang",
+  "entri": "jong.kang1 bentuk tidak baku: jongkah",
+  "bentukTidakBaku": "jongkah",
+  "kataTurunan": [
+    "jongkang-jangking",
+    "menjongkang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jong.kang1 bentuk tidak baku: jongkah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjongkang"
+        }
+      ]
+    },
+    {
+      "lema": "jong.kang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ jongkong"
+        }
+      ]
+    }
+  ]
+}

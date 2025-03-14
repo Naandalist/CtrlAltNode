@@ -1,0 +1,36 @@
+{
+  "istilah": "reklamasi",
+  "entri": "re.kla.ma.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mereklamasikan"
+  ],
+  "gabunganKata": [
+    "reklamasi pantai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.kla.ma.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bantahan atau sanggahan (dengan nada keras)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "pemanfaatan daerah yang semula tidak berguna untuk memperluas tanah (pertanian) atau tujuan lain, misalnya dengan cara menguruk daerah rawa-rawa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "pengurukan (tanah)"
+        }
+      ]
+    }
+  ]
+}

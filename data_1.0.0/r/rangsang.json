@@ -1,0 +1,61 @@
+{
+  "istilah": "rangsang",
+  "entri": "rang.sang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berangsang",
+    "keterangsangan",
+    "merangsang",
+    "perangsang",
+    "perangsangan",
+    "rangsangan",
+    "terangsang",
+    "merangsang",
+    "merangsangkan",
+    "perangsang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menyerang, menyerbu, merangsang",
+    "kataAsal": "raṅsaṅ"
+  },
+  "data": [
+    {
+      "lema": "rang.sang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dapat memengaruhi indra (pencium, peraba, perasa, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dapat membangkitkan perasaan tertentu (kegembiraan, kesedihan, keberanian, kehangatan)"
+        }
+      ]
+    },
+    {
+      "lema": "rang.sang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "merangsang"
+        }
+      ]
+    },
+    {
+      "lema": "rang.sang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ranting kering (mati) yang telah jatuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rintangan dari ranting-ranting berduri yang dipasang pada batang pohon (supaya tidak dapat dipanjat orang)"
+        }
+      ]
+    }
+  ]
+}

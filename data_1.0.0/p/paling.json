@@ -1,0 +1,40 @@
+{
+  "istilah": "paling",
+  "entri": "pa.ling1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpaling",
+    "memalingkan",
+    "mempalingkan",
+    "palingan",
+    "paling-paling",
+    "sepaling"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ling1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "putar"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ling2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "ter-; teramat: anaknya yang -- besar duduk di kelas 3 SMU"
+        }
+      ]
+    }
+  ]
+}

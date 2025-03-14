@@ -1,0 +1,38 @@
+{
+  "istilah": "doa",
+  "entri": "doa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdoa",
+    "mendoa",
+    "mendoakan"
+  ],
+  "gabunganKata": [
+    "doa arwah",
+    "doa halimunan",
+    "doa kunut",
+    "doa pematah lidah",
+    "doa pengasih",
+    "doa sanjung",
+    "doa selamat"
+  ],
+  "peribahasa": [
+    "hidup tidak karena doa, mati tidak karena sumpah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "permohonan",
+    "kataAsal": "du‘ā’"
+  },
+  "data": [
+    {
+      "lema": "doa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permohonan (harapan, permintaan, pujian) kepada Tuhan"
+        }
+      ]
+    }
+  ]
+}

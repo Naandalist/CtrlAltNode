@@ -1,0 +1,48 @@
+{
+  "istilah": "radikal",
+  "entri": "ra.di.kal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meradikalkan",
+    "peradikalan"
+  ],
+  "gabunganKata": [
+    "radikal asam",
+    "radikal bebas",
+    "radikal organik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.di.kal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "secara mendasar (sampai kepada hal yang prinsip): perubahan yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Pol[Politik dan Pemerintahan: -]",
+          "deskripsi": "amat keras menuntut perubahan (undang-undang, pemerintahan)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "maju dalam berpikir atau bertindak"
+        }
+      ]
+    },
+    {
+      "lema": "ra.di.kal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "gugus atom yang dapat masuk ke dalam berbagai reaksi sebagai satu satuan, yang bereaksi seakan-akan satu unsur saja, misalnya CH3- (metil), C2H5- (etil), SO4 (sulfat)"
+        }
+      ]
+    }
+  ]
+}

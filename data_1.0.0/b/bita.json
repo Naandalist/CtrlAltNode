@@ -1,0 +1,28 @@
+{
+  "istilah": "bita",
+  "entri": "bi.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok dari delapan digit biner yang diproses sebagai satuan oleh komputer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan yang terdiri atas delapan bit (dibuat untuk mengode karakter)"
+        }
+      ]
+    }
+  ]
+}

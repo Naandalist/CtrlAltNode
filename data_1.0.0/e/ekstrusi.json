@@ -1,0 +1,42 @@
+{
+  "istilah": "ekstrusi",
+  "entri": "eks.tru.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.tru.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "hal keluarnya magma atau lava ke permukaan bumi"
+        }
+      ]
+    },
+    {
+      "lema": "eks.tru.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuatan makanan ikan yang diolah pada temperatur bertekanan tinggi"
+        }
+      ]
+    },
+    {
+      "lema": "eks.tru.si3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberian bentuk pada logam dengan menekan agar logam mengalir dengan cepat melalui lubang dengan bentuk profil yang diinginkan"
+        }
+      ]
+    }
+  ]
+}

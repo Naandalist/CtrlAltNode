@@ -1,0 +1,44 @@
+{
+  "istilah": "sakti",
+  "entri": "sak.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesaktian",
+    "menyaktikan",
+    "tersakti"
+  ],
+  "gabunganKata": [
+    "sakti mandraguna"
+  ],
+  "peribahasa": [
+    "teluknya dalam, rantaunya sakti"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kemampuan, kekuatan, energi",
+    "kataAsal": "śakti"
+  },
+  "data": [
+    {
+      "lema": "sak.ti",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mampu (kuasa) berbuat sesuatu yang melampaui kodrat alam; mempunyai kesaktian: pendeta -- itu dapat berjalan di atas air"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mempunyai kuasa gaib; bertuah: umumnya masyarakat menganggap benda-benda peninggalan Wali Songo itu --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keramat: tempat yang dianggap -- itu pada hari-hari tertentu dikunjungi penduduk desa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hin[Agama Hindu: -]",
+          "deskripsi": "energi; kekuatan; spirit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "istilah": "giring",
+  "entri": "gi.ring1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "giring-giring",
+    "menggiring",
+    "penggiring",
+    "penggiringan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gi.ring1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "giring-giring"
+        }
+      ]
+    },
+    {
+      "lema": "gi.ring2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "halau ke suatu tempat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bawa lari bola dengan kaki"
+        }
+      ]
+    },
+    {
+      "lema": "gi.ring3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jinak dan dapat pulang masuk kandang sendiri (tentang merpati): burung merpati yang sudah -- dan sudah cukup umur untuk mulai bertelur harganya lebih mahal"
+        }
+      ]
+    }
+  ]
+}

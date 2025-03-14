@@ -1,0 +1,28 @@
+{
+  "istilah": "malangge",
+  "entri": "ma.lang.ge",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.lang.ge",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tradisi berbagi durian untuk masyarakat yang tidak memiliki kebun durian, berupa kebebasan memungut durian yang jatuh di kebun siapa saja pada waktu yang telah ditentukan, terbuka untuk semua warga di desa Koto Malintang, Maninjau"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "memungut durian di kebun durian orang lain pada waktu yang telah ditentukan"
+        }
+      ]
+    }
+  ]
+}

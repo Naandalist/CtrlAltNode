@@ -1,0 +1,63 @@
+{
+  "istilah": "dam",
+  "entri": "dam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dam-dam"
+  ],
+  "gabunganKata": [
+    "dam sabo"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "darah",
+    "kataAsal": "dam"
+  },
+  "data": [
+    {
+      "lema": "dam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis permainan dengan keping-keping bulat dan papan bertapak catur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "corak tapak catur (tentang corak kain dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "dam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengempang air terbuat dari beton; bendungan; tanggul"
+        }
+      ]
+    },
+    {
+      "lema": "dam3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "denda karena melanggar salah satu ketentuan yang berkenaan dengan ibadah haji atau umrah: membayar -- seekor kambing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "denda karena melanggar larangan/pantangan: Pak Kiai menyuruh pasiennya membayar -- karena pantangan yang dilanggar"
+        }
+      ]
+    },
+    {
+      "lema": "dam4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "dekameter"
+        }
+      ]
+    }
+  ]
+}

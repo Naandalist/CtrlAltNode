@@ -1,0 +1,58 @@
+{
+  "istilah": "kalis",
+  "entri": "ka.lis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kalis air",
+    "kalis gas",
+    "kalis jais",
+    "kalis udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "murni; putih; bersih",
+    "kataAsal": "khāliṣ"
+  },
+  "data": [
+    {
+      "lema": "ka.lis1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suci; bersih; murni: bayi yang -- dari dosa jangan disia-siakan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berkilat atau bersinar karena tersaput sesuatu (tentang kaca, barang logam, dan sebagainya): kaca itu -- sebab terkena air"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat kena air atau tidak dapat basah (seperti daun keladi): daun keladi bersifat --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat kena penyakit; kebal (dari penyakit): sejak kecil anak saya ini -- dari penyakit"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat dimasuki gas (udara); kedap udara: -- udara"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terhindar (dari bahaya)"
+        }
+      ]
+    },
+    {
+      "lema": "ka.lis2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Tbg[Tata Boga: -]",
+          "deskripsi": "elastis jika ditarik dan tidak mudah sobek"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "langkas",
+  "entri": "lang.kas1 bentuk tidak baku: lengkas",
+  "bentukTidakBaku": "lengkas",
+  "kataTurunan": [
+    "selangkas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "langkas buah pepaya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.kas1 bentuk tidak baku: lengkas",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tangkas; giat; cerdas; rajin"
+        }
+      ]
+    },
+    {
+      "lema": "lang.kas2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gugur karena sudah cukup matang (tentang buah-buahan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berakhir musim buah-buahan"
+        }
+      ]
+    }
+  ]
+}

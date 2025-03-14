@@ -1,0 +1,50 @@
+{
+  "istilah": "mantel",
+  "entri": "man.tel /mantêl/bentuk tidak baku: mantol",
+  "bentukTidakBaku": "mantol",
+  "kataTurunan": [
+    "bermantel"
+  ],
+  "gabunganKata": [
+    "mantel ambilan",
+    "mantel kardigan",
+    "mantel kasmir",
+    "mantel kasual",
+    "mantel kemah",
+    "mantel kendara",
+    "mantel klasik",
+    "mantel kotak",
+    "mantel pantai",
+    "mantel pelaut",
+    "mantel tudung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.tel /mantêl/bentuk tidak baku: mantol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baju panjang (biasanya dari bahan kain tebal), berlengan atau tidak berlengan untuk menyelubungi tubuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "lipatan kulit yang menyelubungi badan pada moluska, cangkang pada individu bercangkang, dan dinding tubuh pada cumi-cumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "bagian terbesar dari lapisan kulit bumi yang terdapat di antara inti dan kerak bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "lapisan batuan lepas pada permukaan bumi yang merupakan bahan dasar bagi pembentukan tanah"
+        }
+      ]
+    }
+  ]
+}

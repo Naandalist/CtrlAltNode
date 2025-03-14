@@ -1,0 +1,28 @@
+{
+  "istilah": "superinfeksi",
+  "entri": "su.per.in.fek.si /supêrinfeksi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.per.in.fek.si /supêrinfeksi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "terinfeksinya kembali inang oleh jenis parasit yang sebelumnya sudah pernah menyerangnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "infeksi ulang oleh virus yang sama"
+        }
+      ]
+    }
+  ]
+}

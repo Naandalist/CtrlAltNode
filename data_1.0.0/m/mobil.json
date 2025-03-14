@@ -1,0 +1,65 @@
+{
+  "istilah": "mobil",
+  "entri": "mo.bil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermobil",
+    "mobil-mobilan",
+    "pemobil",
+    "permobilan"
+  ],
+  "gabunganKata": [
+    "mobil ambulans",
+    "mobil angkutan",
+    "mobil baja",
+    "mobil bak terbuka",
+    "mobil balap",
+    "mobil bekas",
+    "mobil bodong",
+    "mobil boks",
+    "mobil dinas",
+    "mobil film",
+    "mobil formula satu",
+    "mobil hiper",
+    "mobil kemah",
+    "mobil kota",
+    "mobil listrik",
+    "mobil niaga",
+    "mobil patroli",
+    "mobil pemadam kebakaran",
+    "mobil pembangkit listrik",
+    "mobil pribadi",
+    "mobil reli",
+    "mobil rumah",
+    "mobil sport",
+    "mobil super",
+    "mobil toko",
+    "mobil umum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.bil1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kendaraan darat yang digerakkan oleh tenaga mesin, beroda empat atau lebih (selalu genap), biasanya menggunakan bahan bakar minyak untuk menghidupkan mesinnya; oto; otomobil"
+        }
+      ]
+    },
+    {
+      "lema": "mo.bil2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah bergerak (berpindah) atau digerakkan (dipindah-pindahkan): ia sangat -- sehingga cocok untuk melakukan tugas luar"
+        }
+      ]
+    }
+  ]
+}

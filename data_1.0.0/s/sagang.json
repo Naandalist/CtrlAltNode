@@ -1,0 +1,37 @@
+{
+  "istilah": "sagang",
+  "entri": "sa.gang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyagang",
+    "tersagang",
+    "menyagang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.gang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyangga tombak (senjata dan sebagainya); sandaran: senjata itu diletakkannya pada -- di ruang jaga"
+        }
+      ]
+    },
+    {
+      "lema": "sa.gang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menyagang"
+        }
+      ]
+    }
+  ]
+}

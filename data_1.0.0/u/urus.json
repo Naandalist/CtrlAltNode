@@ -1,0 +1,46 @@
+{
+  "istilah": "urus",
+  "entri": "u.rus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berurusan",
+    "kepengurusan",
+    "keurus",
+    "keurusan",
+    "mengurus",
+    "mengurusi",
+    "menguruskan",
+    "pengurus",
+    "pengurusan",
+    "terurus",
+    "urusan",
+    "urus-urus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.rus1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "rawat; piara; pelihara; atur"
+        }
+      ]
+    },
+    {
+      "lema": "u.rus2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "urus-urus"
+        }
+      ]
+    }
+  ]
+}

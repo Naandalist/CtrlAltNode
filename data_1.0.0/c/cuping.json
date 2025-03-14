@@ -1,0 +1,51 @@
+{
+  "istilah": "cuping",
+  "entri": "cu.ping1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercuping"
+  ],
+  "gabunganKata": [
+    "cuping hidung",
+    "cuping telinga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cu.ping1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang tidak bertulang pada daun telinga dan hidung"
+        }
+      ]
+    },
+    {
+      "lema": "cu.ping2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "sudut atau kiri dan/atau kanan pada halaman pertama surat kabar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cuatan kanan kiri pada matris huruf"
+        }
+      ]
+    },
+    {
+      "lema": "cu.ping3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "ruangan tempat elektron tertentu suatu atom berada untuk sebagian besar waktunya"
+        }
+      ]
+    }
+  ]
+}

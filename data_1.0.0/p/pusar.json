@@ -1,0 +1,36 @@
+{
+  "istilah": "pusar",
+  "entri": "pu.sar bentuk tidak baku: puser",
+  "bentukTidakBaku": "puser",
+  "kataTurunan": [
+    "berpusar",
+    "berpusar-pusar",
+    "memusar",
+    "pusar-pusar",
+    "pusaran"
+  ],
+  "gabunganKata": [
+    "pusar kepala"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.sar bentuk tidak baku: puser",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat tumbuh rambut di kepala atau tempat tumbuh bulu pada tubuh yang bentuknya melingkar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cekungan di tengah-tengah dinding perut bekas tempat tali pusar yang menghubungkan perut dengan tembuni ketika bayi baru lahir; pusat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "tib",
+  "entri": "tib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ilmu kedokteran",
+    "kataAsal": "ṭibb"
+  },
+  "data": [
+    {
+      "lema": "tib",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu mengenai obat-obatan atau kesehatan; ilmu tib; ilmu kedokteran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kitab tib"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "rujak",
+  "entri": "ru.jak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merujak"
+  ],
+  "gabunganKata": [
+    "rujak bebek",
+    "rujak buah dingin",
+    "rujak cingur",
+    "rujak colek",
+    "rujak desa",
+    "rujak gobet",
+    "rujak kangkung",
+    "rujak ketam",
+    "rujak manis",
+    "rujak serut",
+    "rujak tumbuk",
+    "rujak ulek"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memotong menjadi kepingan kecil-kecil;",
+    "kataAsal": "rujak"
+  },
+  "data": [
+    {
+      "lema": "ru.jak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan yang dibuat dari buah-buahan kadang-kadang disertai sayuran yang diiris (ditumbuk dan sebagainya), kemudian diberi bumbu yang terdiri atas asam, gula, cabai, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

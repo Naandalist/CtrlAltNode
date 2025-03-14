@@ -1,0 +1,37 @@
+{
+  "istilah": "mengekol",
+  "entri": "kekol » me.nge.kol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kekol » me.nge.kol",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyuap (menyogok) untuk memperoleh kemudahan"
+        }
+      ]
+    },
+    {
+      "lema": "kol4 » me.nge.kol",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memperhitungkan; memperkirakan (tentang ongkos cetak, pengeluaran uang)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memeriksa dengan mencocokkan (daftar gaji, daftar nama, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

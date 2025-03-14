@@ -1,0 +1,58 @@
+{
+  "istilah": "rajah",
+  "entri": "ra.jah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merajah",
+    "perajah",
+    "merajah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "garis-garis dan gambar-gambar khususnya dengan arti magis",
+    "kataAsal": "rajah"
+  },
+  "data": [
+    {
+      "lema": "ra.jah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suratan (gambaran, tanda, dan sebagainya) yang dipakai sebagai azimat (untuk penolak penyakit dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis pada tapak tangan; guratan tangan; retak tangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "coreng-coreng (cacahan) pada tubuh yang dibuat dengan barang tajam; tato"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar berupa garis; bagan"
+        }
+      ]
+    },
+    {
+      "lema": "ra.jah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tusuk"
+        }
+      ]
+    },
+    {
+      "lema": "ra.jah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "mantra permohonan izin kepada leluhur sebelum diadakan upacara atau pertunjukan kesenian tradisional"
+        }
+      ]
+    }
+  ]
+}

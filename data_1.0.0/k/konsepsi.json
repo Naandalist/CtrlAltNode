@@ -1,0 +1,32 @@
+{
+  "istilah": "konsepsi",
+  "entri": "kon.sep.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.sep.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengertian; pendapat (paham)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rancangan (cita-cita dan sebagainya) yang telah ada dalam pikiran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "percampuran antara inti sel jantan dan inti sel betina; pembuahan benih"
+        }
+      ]
+    }
+  ]
+}

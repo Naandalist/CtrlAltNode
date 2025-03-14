@@ -1,0 +1,35 @@
+{
+  "istilah": "sun",
+  "entri": "sun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengesun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "murni (khususnya tentang tembakau)",
+    "kataAsal": "sûn"
+  },
+  "data": [
+    {
+      "lema": "sun1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat tembakau"
+        }
+      ]
+    },
+    {
+      "lema": "sun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ciuman"
+        }
+      ]
+    }
+  ]
+}

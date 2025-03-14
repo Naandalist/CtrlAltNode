@@ -1,0 +1,28 @@
+{
+  "istilah": "eksotermik",
+  "entri": "ek.so.ter.mik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ek.so.ter.mik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Kim[Kimia: -]",
+          "deskripsi": "berkaitan dengan pelepasan panas saat terjadinya reaksi kimia: reaksi --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Fis[Fisika: -]",
+          "deskripsi": "berkenaan dengan reaksi inti yang melepaskan energi"
+        }
+      ]
+    }
+  ]
+}

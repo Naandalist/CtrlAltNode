@@ -1,0 +1,33 @@
+{
+  "istilah": "fault",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -] Olr[Olahraga: -]",
+          "deskripsi": "pukulan yang salah (tentang tenis)"
+        }
+      ]
+    },
+    {
+      "lema": "fault",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -] [Olahraga: -]",
+          "deskripsi": "pukulan yang salah (tentang tenis)"
+        }
+      ]
+    }
+  ]
+}

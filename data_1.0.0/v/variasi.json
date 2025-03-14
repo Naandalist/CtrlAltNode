@@ -1,0 +1,51 @@
+{
+  "istilah": "variasi",
+  "entri": "va.ri.a.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bervariasi",
+    "memvariasikan"
+  ],
+  "gabunganKata": [
+    "variasi bebas",
+    "variasi kebetulan",
+    "variasi morfofonemis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "va.ri.a.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tindakan atau hasil perubahan dari keadaan semula; selingan: segalanya berlangsung berulang-ulang tanpa --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk (rupa) yang lain; yang berbeda bentuk (rupa): harga tiket pesawat memang ada --nya; berbagai -- dialek bahasa Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hiasan tambahan: sepeda motornya diberi -- berupa lampu-lampu kecil (gambar tempel dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "perubahan rupa (bentuk) yang turun-temurun pada binatang yang disebabkan oleh perubahan lingkungan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "wujud pelbagai manifestasi, baik bersyarat maupun tidak bersyarat dari suatu satuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "konsep yang mencakupi variabel dan varian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "istilah": "sakat",
+  "entri": "sa.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyakat",
+    "menyakatkan",
+    "penyakat",
+    "tersakat"
+  ],
+  "gabunganKata": [
+    "sakat batu",
+    "sakat bunga",
+    "sakat hitam",
+    "sakat sarang langsuir",
+    "sakat tanduk rusa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.kat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benalu; pasilan"
+        }
+      ]
+    },
+    {
+      "lema": "sa.kat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "usik"
+        }
+      ]
+    },
+    {
+      "lema": "sa.kat3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat suku1"
+        }
+      ]
+    }
+  ]
+}

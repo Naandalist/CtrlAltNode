@@ -1,0 +1,83 @@
+{
+  "istilah": "serang",
+  "entri": "se.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keserangan",
+    "menyerang",
+    "penyerang",
+    "penyerangan",
+    "serang-menyerang",
+    "serang-serangan",
+    "serangan",
+    "terserang",
+    "berserang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "sraṅ"
+  },
+  "data": [
+    {
+      "lema": "se.rang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "silau"
+        }
+      ]
+    },
+    {
+      "lema": "se.rang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jarang atau lebar-lebar jaraknya (tentang barang yang dirajut seperti keranjang, mata jala)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak lebat (tentang buah-buahan di pohon)"
+        }
+      ]
+    },
+    {
+      "lema": "Se.rang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu kota di Provinsi Banten, terkenal dengan sebutan Kota Santri"
+        }
+      ]
+    },
+    {
+      "lema": "se.rang1 /sêrang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerang"
+        }
+      ]
+    },
+    {
+      "lema": "se.rang2 /sêrang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berserang"
+        }
+      ]
+    },
+    {
+      "lema": "se.rang3 /sêrang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "mandor di kapal; kepala kelasi"
+        }
+      ]
+    }
+  ]
+}

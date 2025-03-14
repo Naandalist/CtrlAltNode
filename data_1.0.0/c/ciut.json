@@ -1,0 +1,49 @@
+{
+  "istilah": "ciut",
+  "entri": "ci.ut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menciut",
+    "menciutkan",
+    "penciut",
+    "penciutan",
+    "seciut",
+    "berciut-ciut",
+    "menciut-ciut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ci.ut1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sempit; picik"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi sempit; menyusut; mengerut: ruang gerak perusahaannya makin --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tawar; takut (tentang hati, perasaan): mendengar itu hatiku bertambah --"
+        }
+      ]
+    },
+    {
+      "lema": "ci.ut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi pohon ditempuh angin, pintu terbuka, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

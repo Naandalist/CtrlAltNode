@@ -1,0 +1,38 @@
+{
+  "istilah": "nikmat",
+  "entri": "nik.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kenikmatan",
+    "menikmati",
+    "penikmat",
+    "penikmatan",
+    "ternikmat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "keadaan yang enak; anugerah",
+    "kataAsal": "ni‘mah"
+  },
+  "data": [
+    {
+      "lema": "nik.mat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "enak; lezat: masakannya memang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merasa puas; senang: -- rasanya tidur di kamar sebagus ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberian atau karunia (dari Allah Swt.): Allah Swt. telah memberi -- kepada manusia"
+        }
+      ]
+    }
+  ]
+}

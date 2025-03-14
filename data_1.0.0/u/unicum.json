@@ -1,0 +1,33 @@
+{
+  "istilah": "unicum",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "sesuatu yang khas; sesuatu yang unik"
+        }
+      ]
+    },
+    {
+      "lema": "unicum",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "sesuatu yang khas; sesuatu yang unik"
+        }
+      ]
+    }
+  ]
+}

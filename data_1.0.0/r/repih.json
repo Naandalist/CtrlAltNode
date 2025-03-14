@@ -1,0 +1,31 @@
+{
+  "istilah": "repih",
+  "entri": "re.pih /rêpih/bentuk tidak baku: repis",
+  "bentukTidakBaku": "repis",
+  "kataTurunan": [
+    "repihan",
+    "serepih"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.pih /rêpih/bentuk tidak baku: repis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah dipecahkan (seperti roti kering)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "repihan"
+        }
+      ]
+    }
+  ]
+}

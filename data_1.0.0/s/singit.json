@@ -1,0 +1,38 @@
+{
+  "istilah": "singit",
+  "entri": "si.ngit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyingit",
+    "tersingit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "biar singit, jangan tertiarap; tersingit-singit bagai katung di bawah reba"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kecondongan, kecenderungan, arah gerakan, condong kepada, cenderung untuk, berbakti kepada, asyik",
+    "kataAsal": "siṅit"
+  },
+  "data": [
+    {
+      "lema": "si.ngit1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "miring ke sebelah (tidak seimbang); sendeng; senget: karena telah letih sekali, mereka umumnya sudah sempoyongan seperti layangan --"
+        }
+      ]
+    },
+    {
+      "lema": "si.ngit2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menyingit"
+        }
+      ]
+    }
+  ]
+}

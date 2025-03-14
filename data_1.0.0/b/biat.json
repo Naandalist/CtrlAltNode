@@ -1,0 +1,33 @@
+{
+  "istilah": "biat",
+  "entri": "bi.at1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.at1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "denda adat yang harus dibayarkan kepada keluarga yang meninggal karena kesalahan membunuh (di Kalimantan)"
+        }
+      ]
+    },
+    {
+      "lema": "bi.at2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bt[Batak: -]",
+          "deskripsi": "penuh sekali (tentang payudara wanita)"
+        }
+      ]
+    }
+  ]
+}

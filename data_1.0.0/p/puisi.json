@@ -1,0 +1,46 @@
+{
+  "istilah": "puisi",
+  "entri": "pu.i.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpuisi",
+    "memuisikan",
+    "pemuisian",
+    "perpuisian"
+  ],
+  "gabunganKata": [
+    "puisi baru",
+    "puisi bebas",
+    "puisi berpola",
+    "puisi diafan",
+    "puisi dramatik",
+    "puisi esai",
+    "puisi lama",
+    "puisi mbeling"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.i.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ragam sastra yang bahasanya terikat oleh irama, matra, rima, serta penyusunan larik dan bait"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gubahan dalam bahasa yang bentuknya dipilih dan ditata secara cermat sehingga mempertajam kesadaran orang akan pengalaman hidup dan membangkitkan tanggapan khusus lewat penataan bunyi, irama, dan makna khusus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sajak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "pigmen",
+  "entri": "pig.men",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpigmen"
+  ],
+  "gabunganKata": [
+    "pigmen biru violet",
+    "pigmen pelengkap",
+    "pigmen serangga",
+    "pigmen ungu-hitam",
+    "pigmen visual"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pig.men",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat warna tubuh manusia, binatang, dan tumbuh-tumbuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "zat warna yang bisa dicampur air, minyak, atau bahan dasar lain yang digunakan sebagai bahan pewarna pakaian"
+        }
+      ]
+    }
+  ]
+}

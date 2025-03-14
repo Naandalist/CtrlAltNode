@@ -1,0 +1,47 @@
+{
+  "istilah": "dewasa",
+  "entri": "de.wa.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kedewasaan",
+    "mendewasakan",
+    "pendewasaan"
+  ],
+  "gabunganKata": [
+    "dewasa kelamin"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "hari; waktu, titik waktu; sudah pada waktunya",
+    "kataAsal": "diwasa"
+  },
+  "data": [
+    {
+      "lema": "de.wa.sa1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "akil balig: tarif pangkas rambut untuk orang -- berbeda dengan tarif untuk anak-anak"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Tern[Peternakan: -]",
+          "deskripsi": "telah mencapai kematangan kelamin"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "matang (tentang pikiran, pandangan, dan sebagainya): cara berpikirnya sudah --"
+        }
+      ]
+    },
+    {
+      "lema": "de.wa.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu; masa (akhir-akhir ini): -- ini pembangunan dilakukan di seluruh pelosok tanah air"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "cangak",
+  "entri": "ca.ngak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencangak",
+    "tercangak-cangak"
+  ],
+  "gabunganKata": [
+    "cangak abu",
+    "cangak besar",
+    "cangak merah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sejenis burung bangau (Ardea)",
+    "kataAsal": "caṅa"
+  },
+  "data": [
+    {
+      "lema": "ca.ngak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencangak; tercangak-cangak"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ngak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bangau pemangsa belut, ikan kecil, dan binatang kecil lain yang hidup di lumpur〔Ardea cinerea rectirostris〕"
+        }
+      ]
+    }
+  ]
+}

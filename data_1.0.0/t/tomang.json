@@ -1,0 +1,35 @@
+{
+  "istilah": "tomang",
+  "entri": "to.mang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menomang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.mang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menomang"
+        }
+      ]
+    },
+    {
+      "lema": "to.mang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ff[Fakfak: -]",
+          "deskripsi": "noken ciri khas salah satu suku di Papua: -- saya berisi ubi jalar, kelapa, dan sayur-sayuran"
+        }
+      ]
+    }
+  ]
+}

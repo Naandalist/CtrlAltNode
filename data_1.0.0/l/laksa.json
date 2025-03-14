@@ -1,0 +1,37 @@
+{
+  "istilah": "laksa",
+  "entri": "lak.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lak.sa1",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "sepuluh ribu"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Sd[Sunda: -]",
+          "deskripsi": "ukuran tembakau, 10 lempeng"
+        }
+      ]
+    },
+    {
+      "lema": "lak.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masakan berkuah mengandung rempah, biasanya berisi soun, daging, ikan, sayuran, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "habib",
+  "entri": "ha.bib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pria yang mencintai; pria yang dicintai",
+    "kataAsal": "ḥabīb"
+  },
+  "data": [
+    {
+      "lema": "ha.bib",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dicintai; kekasih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panggilan kepada orang Arab yang berarti tuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panggilan kepada orang yang bergelar sayid"
+        }
+      ]
+    }
+  ]
+}

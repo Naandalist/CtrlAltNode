@@ -1,0 +1,35 @@
+{
+  "istilah": "jalu",
+  "entri": "ja.lu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjalu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.lu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susuh; taji"
+        }
+      ]
+    },
+    {
+      "lema": "ja.lu2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ri[Melayu Riau: -]",
+          "deskripsi": "berjalan dalam keadaan tidur: anak itu sering -- di mana pun ia tidur"
+        }
+      ]
+    }
+  ]
+}

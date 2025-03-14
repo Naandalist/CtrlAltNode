@@ -1,0 +1,52 @@
+{
+  "istilah": "marak",
+  "entri": "ma.rak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersemarak",
+    "memarak",
+    "memarakkan",
+    "menyemarak",
+    "menyemarakkan",
+    "semarak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.rak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terang; mencolok (tentang warna): warna itu sangat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nyala: -- api"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berseri"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "meningkat; ramai: isu pencatatan perkawinan -- belakangan ini"
+        }
+      ]
+    },
+    {
+      "lema": "ma.rak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "menangkap ikan berama-ramai di sungai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "pemair",
+  "entri": "pair1 » pe.ma.ir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pair1 » pe.ma.ir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu peronda (penjelajah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjaga keamanan (peronda) di laut (perairan)"
+        }
+      ]
+    },
+    {
+      "lema": "pe.ma.ir /pêmair/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang ahli mengukur tanah; mantri ukur"
+        }
+      ]
+    }
+  ]
+}

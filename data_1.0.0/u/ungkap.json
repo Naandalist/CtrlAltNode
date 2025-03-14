@@ -1,0 +1,42 @@
+{
+  "istilah": "ungkap",
+  "entri": "ung.kap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengungkap",
+    "mengungkapi",
+    "mengungkapkan",
+    "pengungkapan",
+    "terungkap",
+    "ungkapan",
+    "mengungkap",
+    "terungkap-ungkap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ung.kap1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "buka, singkap"
+        }
+      ]
+    },
+    {
+      "lema": "ung.kap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengungkap; terungkap-ungkap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "ongkos",
+  "entri": "ong.kos",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengongkosi",
+    "perongkosan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ong.kos",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "biaya: -- kirim tiga ratus rupiah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belanja: -- makan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "upah; bayaran: berapa -- pekerja sehari"
+        }
+      ]
+    }
+  ]
+}

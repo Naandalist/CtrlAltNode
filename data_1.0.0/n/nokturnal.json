@@ -1,0 +1,36 @@
+{
+  "istilah": "nokturnal",
+  "entri": "nok.tur.nal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nok.tur.nal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan malam hari: perjalanan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "beraktivitas hidup (tentang hewan) pada malam hari"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bot[Botani: -]",
+          "deskripsi": "keadaan bunga yang mekar pada malam hari dan menutup pada siang hari"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Zool[Zoologi: -]",
+          "deskripsi": "keadaan hewan yang sifatnya atau kebiasaannya aktif terutama pada malam hari"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "istilah": "rol",
+  "entri": "rol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "rol belakang",
+    "rol depan",
+    "rol pernis",
+    "rol rambut",
+    "rol tinta"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "peranan: yang memegang -- dalam peristiwa pembunuhan itu ternyata tetangganya sendiri"
+        }
+      ]
+    },
+    {
+      "lema": "rol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gulungan (film): ia telah menghabiskan tiga -- untuk mengabadikan peristiwa itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu, besi, dan sebagainya yang bulat torak bangunnya untuk pelindis, penggaris, pengimpit: -- mesin tulis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggulung rambut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengecat tembok dengan cara menggelindingkannya supaya catnya rata"
+        }
+      ]
+    }
+  ]
+}

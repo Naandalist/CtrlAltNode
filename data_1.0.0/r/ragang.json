@@ -1,0 +1,45 @@
+{
+  "istilah": "ragang",
+  "entri": "ra.gang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meragang",
+    "ragangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.gang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "panjat"
+        }
+      ]
+    },
+    {
+      "lema": "ra.gang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerang dan menyerbu (kota dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ra.gang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ragangan"
+        }
+      ]
+    }
+  ]
+}

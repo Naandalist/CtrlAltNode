@@ -1,0 +1,37 @@
+{
+  "istilah": "ejan",
+  "entri": "e.jan1 /êjan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengejan",
+    "mengejan",
+    "mengejan-ejan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.jan1 /êjan/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tekan supaya keluar"
+        }
+      ]
+    },
+    {
+      "lema": "e.jan2 /êjan/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "paksa; cari"
+        }
+      ]
+    }
+  ]
+}

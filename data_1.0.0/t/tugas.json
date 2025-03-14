@@ -1,0 +1,58 @@
+{
+  "istilah": "tugas",
+  "entri": "tu.gas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertugas",
+    "menugasi",
+    "menugaskan",
+    "penugas",
+    "penugasan",
+    "petugas"
+  ],
+  "gabunganKata": [
+    "tugas akhir",
+    "tugas dua proses",
+    "tugas penampilan",
+    "tugas pokok",
+    "tugas ubah perilaku"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.gas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang wajib dikerjakan atau yang ditentukan untuk dilakukan; pekerjaan yang menjadi tanggung jawab seseorang; pekerjaan yang dibebankan: pegawai hendaklah menjalankan -- masing-masing dengan baik; kerjakan -- Saudara baik-baik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suruhan (perintah) untuk melakukan sesuatu: beliau diberi -- menyelidiki keadaan rakyat di pulau itu; surat -- surat perintah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "fungsi (jabatan): terangkan -- akhiran “-lah” pada kata “minumlah” dalam kalimat itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "fungsi yang harus dikerjakan"
+        }
+      ]
+    },
+    {
+      "lema": "tu.gas2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tukas1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "istilah": "konversi",
+  "entri": "kon.ver.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dikonversi",
+    "mengonversi",
+    "mengonversikan",
+    "terkonversi"
+  ],
+  "gabunganKata": [
+    "konversi analog digital",
+    "konversi berkas",
+    "konversi energi",
+    "konversi heksadesimal",
+    "konversi lahan",
+    "konversi makanan",
+    "konversi media",
+    "konversi pakan",
+    "konversi perangkat lunak",
+    "konversi sistem",
+    "konversi tanaman"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.ver.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perubahan dari satu sistem pengetahuan ke sistem yang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perubahan pemilikan atas suatu benda, tanah, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perubahan dari satu bentuk (rupa, dan sebagainya) ke bentuk (rupa, dan sebagainya) yang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "proses perubahan dari satu bentuk atau format ke bentuk atau format yang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pengalihan kata dari kategori gramatikal satu ke kategori gramatikal lain tanpa perubahan bentuk (seperti kata kubur dalam \"Ia berziarah ke kubur ayahnya\" dan \"Segera kubur bangkai itu!\")"
+        }
+      ]
+    }
+  ]
+}

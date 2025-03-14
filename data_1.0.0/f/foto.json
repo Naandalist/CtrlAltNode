@@ -1,0 +1,40 @@
+{
+  "istilah": "foto",
+  "entri": "fo.to bentuk tidak baku: photo, poto",
+  "bentukTidakBaku": "photo, poto",
+  "kataTurunan": [
+    "berfoto",
+    "memfoto",
+    "memfotoi",
+    "memfotokan"
+  ],
+  "gabunganKata": [
+    "foto finis",
+    "foto jarak jauh",
+    "foto licin",
+    "foto negatif",
+    "foto topeng",
+    "foto udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fo.to bentuk tidak baku: photo, poto",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potret: --nya dimuat di dalam surat kabar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "gambaran; bayangan; pantulan: ragam ilmiah seakan-akan -- kegiatan pikiran"
+        }
+      ]
+    }
+  ]
+}

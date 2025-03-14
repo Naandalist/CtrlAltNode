@@ -1,0 +1,50 @@
+{
+  "istilah": "mengetap",
+  "entri": "ketap » me.nge.tap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ketap » me.nge.tap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengetam (mengatup) rapat-rapat (tentang bibir)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggigit bibir (karena marah atau kesal)"
+        }
+      ]
+    },
+    {
+      "lema": "tap1 » me.nge.tap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menuang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyadap"
+        }
+      ]
+    },
+    {
+      "lema": "tap3 » me.nge.tap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kegiatan membuat ulir dalam secara manual"
+        }
+      ]
+    }
+  ]
+}

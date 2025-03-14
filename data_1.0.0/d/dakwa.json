@@ -1,0 +1,42 @@
+{
+  "istilah": "dakwa",
+  "entri": "dak.wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdakwa",
+    "dakwaan",
+    "memperdakwakan",
+    "mendakwa",
+    "mendakwai",
+    "mendakwakan",
+    "pendakwa",
+    "pendakwaan",
+    "terdakwa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengakuan",
+    "kataAsal": "da‘wā"
+  },
+  "data": [
+    {
+      "lema": "dak.wa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tuduhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengaduan atau tuntutan yang diajukan kepada hakim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tuntutan atau gugatan yang diajukan oleh seseorang terhadap orang lain karena haknya telah dilanggar, dirugikan, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

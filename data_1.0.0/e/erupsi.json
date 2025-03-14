@@ -1,0 +1,34 @@
+{
+  "istilah": "erupsi",
+  "entri": "e.rup.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bererupsi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.rup.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "letusan gunung api"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "semburan sumber minyak dan uap panas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "kelainan pada kulit yang timbul secara cepat dan mendadak"
+        }
+      ]
+    }
+  ]
+}

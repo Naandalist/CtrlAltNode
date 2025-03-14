@@ -1,0 +1,42 @@
+{
+  "istilah": "cop",
+  "entri": "cop1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cop1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata afektif untuk menyatakan bahwa apa yang dikatakan atau diperbuat adalah keliru sehingga perkataan atau perbuatan itu dicabut atau tidak diteruskan (berarti: \"maaf!\", \"tidak begitu!\"): telah ditetapkan “bermain,” eh -- “berlangsung” di Australia"
+        }
+      ]
+    },
+    {
+      "lema": "cop2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kecup"
+        }
+      ]
+    },
+    {
+      "lema": "cop3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pukulan yang menyebabkan jatuhnya bola di lapangan depan dekat net (dalam permainan bulu tangkis, tenis meja, tenis)"
+        }
+      ]
+    }
+  ]
+}

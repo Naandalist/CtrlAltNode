@@ -1,0 +1,32 @@
+{
+  "istilah": "calit",
+  "entri": "ca.lit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercalit",
+    "mencalit",
+    "mencalitkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.lit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan atau bubuk yang biasa ditempelkan untuk rias muka seperti celak mata, cat alis, cat bibir; palit"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Gy[Gayo: -]",
+          "deskripsi": "mengoleskan sesuatu dengan ujung jari"
+        }
+      ]
+    }
+  ]
+}

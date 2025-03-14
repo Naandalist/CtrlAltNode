@@ -1,0 +1,45 @@
+{
+  "istilah": "rapuh",
+  "entri": "ra.puh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerapuhan",
+    "merapuh",
+    "merapuhkan",
+    "perapuh",
+    "terapuh"
+  ],
+  "gabunganKata": [
+    "rapuh hati",
+    "rapuh iman",
+    "rapuh mulut",
+    "rapuh tulang"
+  ],
+  "peribahasa": [
+    "bergantung pada tali rapuh"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "letih, lesu, lemah, tidak kuat, kehabisan tenaga, putus asa",
+    "kataAsal": "rapuh"
+  },
+  "data": [
+    {
+      "lema": "ra.puh",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah rusak (patah, pecah, sobek putus): kayu yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "lemah, sakit-sakitan (tentang tubuh): tubuhnya kecil dan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak teguh (tidak tetap pendirian dan sebagainya): pendiriannya --"
+        }
+      ]
+    }
+  ]
+}

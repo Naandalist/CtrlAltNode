@@ -1,0 +1,35 @@
+{
+  "istilah": "inggris",
+  "entri": "Ing.gris bentuk tidak baku: Inggeris",
+  "bentukTidakBaku": "Inggeris",
+  "kataTurunan": [
+    "keinggris-inggrisan",
+    "menginggriskan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Ing.gris bentuk tidak baku: Inggeris",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "negara bagian dari Britania Raya, beribu kota London"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama bangsa yang mendiami Kepulauan Inggris"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan suku bangsa Inggris"
+        }
+      ]
+    }
+  ]
+}

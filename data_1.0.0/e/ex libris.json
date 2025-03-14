@@ -1,0 +1,41 @@
+{
+  "istilah": "ex libris",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "milik perpustakaan"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "tanda milik yang dicantumkan pada buku, biasanya berupa gambar lambang"
+        }
+      ]
+    },
+    {
+      "lema": "ex libris",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "milik perpustakaan"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "tanda milik yang dicantumkan pada buku, biasanya berupa gambar lambang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "bendung",
+  "entri": "ben.dung /bêndung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bendungan",
+    "membendung",
+    "pembendung",
+    "pembendungan",
+    "terbendung"
+  ],
+  "gabunganKata": [
+    "bendung bebas",
+    "bendung gerak",
+    "bendung segi empat",
+    "bendung segitiga",
+    "bendung terendam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.dung /bêndung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengempang untuk menahan air di sungai (tepi laut dan sebagainya); tanggul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "rintangan yang bersifat kontinu dan padat, letaknya tidak selalu melintangi sebuah sungai, tujuannya untuk mengalihkan, mengawasi, dan mengukur aliran air"
+        }
+      ]
+    }
+  ]
+}

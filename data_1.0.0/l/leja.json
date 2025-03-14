@@ -1,0 +1,35 @@
+{
+  "istilah": "leja",
+  "entri": "le.ja",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meleja"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.ja",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain cita"
+        }
+      ]
+    },
+    {
+      "lema": "le.ja /lêja/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meleja"
+        }
+      ]
+    }
+  ]
+}

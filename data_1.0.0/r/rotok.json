@@ -1,0 +1,36 @@
+{
+  "istilah": "rotok",
+  "entri": "ro.tok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merotok",
+    "merotok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.tok1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merotok"
+        }
+      ]
+    },
+    {
+      "lema": "ro.tok2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merotok"
+        }
+      ]
+    }
+  ]
+}

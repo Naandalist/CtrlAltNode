@@ -1,0 +1,39 @@
+{
+  "istilah": "tekel",
+  "entri": "te.kel /tekêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menekel",
+    "penekelan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.kel /tekêl/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menekel"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Olr[Olahraga: -]",
+          "deskripsi": "merebut bola dari lawan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjatuhkan pembawa bola ke tanah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "posisi pada garis serang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "bendahara",
+  "entri": "ben.da.ha.ra /bêndahara/bentuk tidak baku: bendara1",
+  "bentukTidakBaku": "bendara1",
+  "kataTurunan": [
+    "perbendaharaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.da.ha.ra /bêndahara/bentuk tidak baku: bendara1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penanggung jawab (pemegang) atau pengurus keuangan (yayasan, perkumpulan, dan sebagainya); bendahari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pemegang harta benda (kekayaan) negara atau raja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perdana menteri; wazir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "menteri (dalam permainan catur)"
+        }
+      ]
+    }
+  ]
+}

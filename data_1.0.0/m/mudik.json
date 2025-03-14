@@ -1,0 +1,37 @@
+{
+  "istilah": "mudik",
+  "entri": "mu.dik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memudik",
+    "memudikkan",
+    "pemudik",
+    "semudik"
+  ],
+  "gabunganKata": [
+    "mudik bersama"
+  ],
+  "peribahasa": [
+    "hilir malam mudik tak singgah, daun nipah dikatakan daun abu; ke mudik tentu hulunya, ke hilir tentu muaranya; mudik menyongsong arus, hilir menyongsong pasang; rongkong menghadap mudik; seorang ke hilir, seorang ke mudik; tingkalak menghadap mudik, lukah menghadap hilir"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "naik; maju (berjalan) ke hulu; menuju ke darat",
+    "kataAsal": "muḍik"
+  },
+  "data": [
+    {
+      "lema": "mu.dik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(berlayar, pergi) ke udik (hulu sungai, pedalaman): dari Palembang -- sampai ke Sekayu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pulang ke kampung halaman: seminggu menjelang Lebaran sudah banyak orang yang --"
+        }
+      ]
+    }
+  ]
+}

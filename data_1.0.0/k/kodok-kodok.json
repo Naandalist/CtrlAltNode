@@ -1,0 +1,33 @@
+{
+  "istilah": "kodok-kodok",
+  "entri": "ko.dok-ko.dok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.dok-ko.dok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengisap (air dan sebagainya) pompa"
+        }
+      ]
+    },
+    {
+      "lema": "ko.dok-ko.dok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "tupai-tupai"
+        }
+      ]
+    }
+  ]
+}

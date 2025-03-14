@@ -1,0 +1,42 @@
+{
+  "istilah": "tokek",
+  "entri": "to.kek1 bentuk tidak baku: tekek",
+  "bentukTidakBaku": "tekek",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.kek1 bentuk tidak baku: tekek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang merayap, kulitnya kasap berbintik-bintik, suaranya keras, hidup di rumah (pohon dan sebagainya)〔Gekko gecko〕"
+        }
+      ]
+    },
+    {
+      "lema": "to.kek2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ takik"
+        }
+      ]
+    },
+    {
+      "lema": "to.kek3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kudis (borok) di kepala"
+        }
+      ]
+    }
+  ]
+}

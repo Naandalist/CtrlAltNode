@@ -1,0 +1,45 @@
+{
+  "istilah": "rawi",
+  "entri": "ra.wi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merawi",
+    "merawikan",
+    "perawi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "matahari, gunung",
+    "kataAsal": "ravi"
+  },
+  "data": [
+    {
+      "lema": "ra.wi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang meriwayatkan hadis Nabi Muhammad saw."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang bercerita; pengarang cerita (sahibulhikayat, yang empunya cerita)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "riwayat (tentang hadis); cerita"
+        }
+      ]
+    },
+    {
+      "lema": "ra.wi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "matahari"
+        }
+      ]
+    }
+  ]
+}

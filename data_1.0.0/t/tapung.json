@@ -1,0 +1,44 @@
+{
+  "istilah": "tapung",
+  "entri": "ta.pung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menapung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.pung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menapung"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tepung"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baju khas (Bugis), panjang dan sempit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "istilah": "lambung",
+  "entri": "lam.bung1 bentuk tidak baku: lembung2",
+  "bentukTidakBaku": "lembung2",
+  "kataTurunan": [
+    "berlambung",
+    "melambung",
+    "melambungi",
+    "melambung",
+    "melambungkan",
+    "pelambung"
+  ],
+  "gabunganKata": [
+    "lambung jala",
+    "lambung masam",
+    "lambung otot",
+    "lambung sejati",
+    "lambung bebas",
+    "lambung timbul"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lam.bung1 bentuk tidak baku: lembung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perut besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian rusuk atau samping (badan, kapal, dan sebagainya): --nya terluka ditusuk perampok"
+        }
+      ]
+    },
+    {
+      "lema": "lam.bung2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melompat tinggi (bola, perahu yang dipukul ombak, dan sebagainya); naik"
+        }
+      ]
+    },
+    {
+      "lema": "lam.bung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pakaian adat perempuan suku Sasak"
+        }
+      ]
+    }
+  ]
+}

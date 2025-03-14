@@ -1,0 +1,36 @@
+{
+  "istilah": "demo",
+  "entri": "de.mo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendemo",
+    "pedemo"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.mo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kendaraan bermotor beroda tiga (hampir sama dengan bemo)"
+        }
+      ]
+    },
+    {
+      "lema": "de.mo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "demonstrasi"
+        }
+      ]
+    }
+  ]
+}

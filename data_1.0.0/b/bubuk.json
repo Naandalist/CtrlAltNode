@@ -1,0 +1,62 @@
+{
+  "istilah": "bubuk",
+  "entri": "bu.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bubukan",
+    "membubuk",
+    "pembubukan",
+    "membubuk"
+  ],
+  "gabunganKata": [
+    "bubuk pemuai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.buk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang kecil yang berkulit keras, berupa kumbang yang suka makan kayu, balok, beras, dan sebagainya: tiang itu rusak dimakan --"
+        }
+      ]
+    },
+    {
+      "lema": "bu.buk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serbuk dari barang yang lapuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang ditumbuk menjadi tepung halus: -- kopi"
+        }
+      ]
+    },
+    {
+      "lema": "bu.buk3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rebus"
+        }
+      ]
+    },
+    {
+      "lema": "bu.buk4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bn[Benuaq: -]",
+          "deskripsi": "alat untuk mengambil air, dibuat dari tempurung kelapa"
+        }
+      ]
+    }
+  ]
+}

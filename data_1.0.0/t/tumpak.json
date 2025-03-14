@@ -1,0 +1,35 @@
+{
+  "istilah": "tumpak",
+  "entri": "tum.pak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertumpak-tumpak",
+    "setumpak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tum.pak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kelompok; kumpulan; rumpun (pohon-pohonan, belukar, dan sebagainya): -- belukar di seberang sungai itu sudah dipotong"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tempat; bidang (yang terdiri atas beberapa bidang kecil)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuantitas atau jumlah sesuatu yang diproduksi pada satu waktu"
+        }
+      ]
+    }
+  ]
+}

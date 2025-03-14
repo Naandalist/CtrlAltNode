@@ -1,0 +1,42 @@
+{
+  "istilah": "rekognisi",
+  "entri": "re.kog.ni.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "rekognisi pola"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.kog.ni.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal atau keadaan yang diakui; pengakuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengenalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penghargaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "identifikasi informasi yang sebelumnya telah dilihat, dibaca, atau didengar, lalu disimpan dalam ingatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "strategi dasar untuk menilai kemampuan ingatan"
+        }
+      ]
+    }
+  ]
+}

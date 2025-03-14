@@ -1,0 +1,27 @@
+{
+  "istilah": "tasrif",
+  "entri": "tas.rif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menasrifkan",
+    "penasrifan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perubahan bentuk; sistem perubahan bentuk kata untuk membedakan kasus, kala, jenis, jumlah, dan aspek",
+    "kataAsal": "taṣrīf"
+  },
+  "data": [
+    {
+      "lema": "tas.rif",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "sistem perubahan bentuk kata untuk membedakan kasus, kala, jenis, jumlah, dan aspek"
+        }
+      ]
+    }
+  ]
+}

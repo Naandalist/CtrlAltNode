@@ -1,0 +1,48 @@
+{
+  "istilah": "koordinasi",
+  "entri": "ko.or.di.na.si bentuk tidak baku: koordinir",
+  "bentukTidakBaku": "koordinir",
+  "kataTurunan": [
+    "berkoordinasi",
+    "mengkoordinasikan",
+    "mengoordinasi",
+    "mengoordinasikan",
+    "pengkoordinasian",
+    "pengoordinasi",
+    "pengoordinasian",
+    "terkoordinasi",
+    "terkoordinasikan"
+  ],
+  "gabunganKata": [
+    "koordinasi bimanual"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.or.di.na.si bentuk tidak baku: koordinir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal mengatur suatu organisasi atau kegiatan sehingga peraturan dan tindakan yang akan dilaksanakan tidak saling bertentangan atau simpang siur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "penggabungan satuan gramatikal yang sederajat dengan konjungsi koordinatif"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "kemampuan respons anggota tubuh terkait keseluruhan rancangan fisik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pembatasan sistem untuk mengatur pola gerak supaya mencapai sasaran tertentu"
+        }
+      ]
+    }
+  ]
+}

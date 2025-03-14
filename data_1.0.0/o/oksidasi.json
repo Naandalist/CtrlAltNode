@@ -1,0 +1,37 @@
+{
+  "istilah": "oksidasi",
+  "entri": "ok.si.da.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengoksidasi",
+    "pengoksidasi",
+    "pengoksidasian",
+    "teroksidasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ok.si.da.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "penggabungan suatu zat dengan oksigen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "pelepasan elektron dari suatu partikel (molekul)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "penguraian mineral yang mengandung logam oleh O₂ dan menimbulkan karat yang merupakan satu bentuk pelapukan kimia"
+        }
+      ]
+    }
+  ]
+}

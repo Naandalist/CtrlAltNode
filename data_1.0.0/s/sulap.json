@@ -1,0 +1,44 @@
+{
+  "istilah": "sulap",
+  "entri": "su.lap1 bentuk tidak baku: sunglap",
+  "bentukTidakBaku": "sunglap",
+  "kataTurunan": [
+    "bersulap",
+    "menyulap",
+    "penyulap",
+    "penyulapan",
+    "pesulap",
+    "sulapan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.lap1 bentuk tidak baku: sunglap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertunjukan berbuat sesuatu yang menakjubkan (seperti saputangan diubah menjadi burung merpati)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "silap mata"
+        }
+      ]
+    },
+    {
+      "lema": "su.lap2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "salah cara menenun (tentang kain tenun)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "retrovirus",
+  "entri": "ret.ro.vi.rus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ret.ro.vi.rus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "virus yang informasi genetiknya terkandung dalam RNA"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "virus yang menggunakan sel tubuhnya sendiri untuk memproduksi kembali dirinya"
+        }
+      ]
+    }
+  ]
+}

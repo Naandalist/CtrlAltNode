@@ -1,0 +1,35 @@
+{
+  "istilah": "lecut",
+  "entri": "le.cut /lêcut/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melecut",
+    "melecutkan",
+    "pelecut",
+    "terlecut"
+  ],
+  "gabunganKata": [
+    "lecut cambuk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.cut /lêcut/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi cambuk yang dikibaskan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cambuk"
+        }
+      ]
+    }
+  ]
+}

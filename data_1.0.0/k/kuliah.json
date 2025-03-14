@@ -1,0 +1,51 @@
+{
+  "istilah": "kuliah",
+  "entri": "ku.li.ah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkuliah",
+    "kuliahan",
+    "menguliahi",
+    "perkuliahan"
+  ],
+  "gabunganKata": [
+    "kuliah kerja",
+    "kuliah kerja lapangan",
+    "kuliah kerja nyata",
+    "kuliah lapangan",
+    "kuliah Ramadan",
+    "kuliah Subuh",
+    "kuliah tamu",
+    "kuliah terbuka",
+    "kuliah umum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "keseluruhan; fakultas",
+    "kataAsal": "kulliyyah"
+  },
+  "data": [
+    {
+      "lema": "ku.li.ah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekolah tinggi: -- guru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelajaran yang diberikan di perguruan tinggi: ia memberikan -- di Fakultas Ekonomi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengikuti pelajaran di perguruan tinggi: ia sedang --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ceramah: -- subuh ceramah agama yang disampaikan setelah salat subuh"
+        }
+      ]
+    }
+  ]
+}

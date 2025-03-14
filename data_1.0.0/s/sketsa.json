@@ -1,0 +1,38 @@
+{
+  "istilah": "sketsa",
+  "entri": "sket.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mensketsa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sket.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lukisan cepat (hanya garis-garis besarnya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar rancangan; rengrengan; denah; bagan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelukisan dengan kata-kata mengenai suatu hal secara garis besar; tulisan singkat; ikhtisar ringkas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adegan pendek pada suatu pertunjukan drama"
+        }
+      ]
+    }
+  ]
+}

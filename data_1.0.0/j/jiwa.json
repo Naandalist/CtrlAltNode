@@ -1,0 +1,57 @@
+{
+  "istilah": "jiwa",
+  "entri": "ji.wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjiwa",
+    "kejiwaan",
+    "menjiwai",
+    "penjiwaan"
+  ],
+  "gabunganKata": [
+    "jiwa raga"
+  ],
+  "peribahasa": [
+    "jiwa bergantung di ujung rambut"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "hidup, eksistensi; prinsip hidup, jiwa individu",
+    "kataAsal": "jiwa"
+  },
+  "data": [
+    {
+      "lema": "ji.wa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "roh manusia (yang ada di dalam tubuh dan menyebabkan seseorang hidup); nyawa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seluruh kehidupan batin manusia (yang terjadi dari perasaan, pikiran, angan-angan, dan sebagainya): ia berusaha menyelami -- istrinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu atau orang yang utama dan menjadi sumber tenaga dan semangat: beliau dipandang sebagai -- pergerakan rakyat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "isi (maksud) yang sebenarnya; arti (maksud) yang tersirat (dalam perkataan, perjanjian, dan sebagainya): tindakannya tidak sesuai dengan -- undang-undang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "buah hati; kekasih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang (dalam perhitungan penduduk): penduduk Jakarta telah melebihi 10 juta --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "daya hidup orang atau makhluk hidup lain"
+        }
+      ]
+    }
+  ]
+}

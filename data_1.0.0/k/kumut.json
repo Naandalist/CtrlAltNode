@@ -1,0 +1,35 @@
+{
+  "istilah": "kumut",
+  "entri": "ku.mut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkumut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.mut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "seringai"
+        }
+      ]
+    },
+    {
+      "lema": "ku.mut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] My[Muyu: -]",
+          "deskripsi": "nyanyian pesta babi"
+        }
+      ]
+    }
+  ]
+}

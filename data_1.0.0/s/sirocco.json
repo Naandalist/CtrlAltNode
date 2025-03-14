@@ -1,0 +1,41 @@
+{
+  "istilah": "sirocco",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -]",
+          "deskripsi": "angin panas yang bertiup dari gurun Afrika Utara ke Italia"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -]",
+          "deskripsi": "angin sektor panas yang bertiup dari daerah panas"
+        }
+      ]
+    },
+    {
+      "lema": "sirocco",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -]",
+          "deskripsi": "angin panas yang bertiup dari gurun Afrika Utara ke Italia"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -]",
+          "deskripsi": "angin sektor panas yang bertiup dari daerah panas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "pastel",
+  "entri": "pas.tel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pas.tel1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang dibuat dari tepung terigu, bentuknya seperti kerang, di dalamnya diisi dengan daging dan sebagainya (biasanya digoreng atau dipanggang)"
+        }
+      ]
+    },
+    {
+      "lema": "pas.tel2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapur berwarna untuk menggambar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar atau sketsa yang dibuat dengan kapur berwarna"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna lembut polos"
+        }
+      ]
+    }
+  ]
+}

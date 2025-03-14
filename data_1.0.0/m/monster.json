@@ -1,0 +1,41 @@
+{
+  "istilah": "monster",
+  "entri": "mon.ster1 /monstêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mon.ster1 /monstêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "contoh barang dagangan untuk dinilai mutunya (bobotnya, warnanya, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "mon.ster2 /monstêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang, orang, atau tumbuhan yang bentuk atau rupanya sangat menyimpang dari yang biasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makhluk yang berukuran luar biasa (sangat besar)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makhluk yang menakutkan, hanya terdapat dalam dongeng, seperti ular naga raksasa"
+        }
+      ]
+    }
+  ]
+}

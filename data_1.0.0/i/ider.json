@@ -1,0 +1,42 @@
+{
+  "istilah": "ider",
+  "entri": "i.der1 /idêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.der1 /idêr/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjualan dengan cara berkeliling"
+        }
+      ]
+    },
+    {
+      "lema": "i.der2 /idêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "alat yang terbuat dari anyaman bilah bambu seperti ayakan berbentuk kotak kubus, terdapat pegangan di sisi kanan dan kiri, digunakan untuk memisahkan ikan besar dan ikan kecil"
+        }
+      ]
+    },
+    {
+      "lema": "i.der3 /idêr/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "mencari dukungan dengan cara mendatangi satu per satu: untuk menjaring suara, calon kepala desa biasanya -- mengunjungi tokoh masyarakat"
+        }
+      ]
+    }
+  ]
+}

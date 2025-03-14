@@ -1,0 +1,43 @@
+{
+  "istilah": "miring",
+  "entri": "mi.ring bentuk tidak baku: mereng",
+  "bentukTidakBaku": "mereng",
+  "kataTurunan": [
+    "kemiringan",
+    "memiringkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mengiringi; terbaring miring, berdiri di samping; miring, landai, condong",
+    "kataAsal": "miriṅ"
+  },
+  "data": [
+    {
+      "lema": "mi.ring bentuk tidak baku: mereng",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan sisi yang satu lebih tinggi daripada sisi yang lain (tentang garis atau permukaan) rendah sebelah; tidak datar; landai: cerobong ini -- sedikit"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tegak lurus; condong: cerobong kapal itu -- ke belakang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "senget: kapal yang bocor itu -- ke kanan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "agak gila; kurang waras; sinting: orang itu sudah -- (otaknya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "agak murah: harga barang-barang di koperasi lebih -- daripada di toko"
+        }
+      ]
+    }
+  ]
+}

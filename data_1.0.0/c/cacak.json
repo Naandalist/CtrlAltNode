@@ -1,0 +1,48 @@
+{
+  "istilah": "cacak",
+  "entri": "ca.cak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencacak",
+    "mencacakkan",
+    "tercacak",
+    "mencacak",
+    "pencacak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.cak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tegak lurus (tentang barang panjang yang dipancangkan di tanah)"
+        }
+      ]
+    },
+    {
+      "lema": "ca.cak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencacak; pencacak"
+        }
+      ]
+    },
+    {
+      "lema": "ca.cak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "tudung kepala pengantin laki-laki Belitung: -- yang dipakainya sangat bagus"
+        }
+      ]
+    }
+  ]
+}

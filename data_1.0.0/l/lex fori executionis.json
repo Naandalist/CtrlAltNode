@@ -1,0 +1,33 @@
+{
+  "istilah": "lex fori executionis",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "hukum yang berlaku di tempat keputusan dibuat"
+        }
+      ]
+    },
+    {
+      "lema": "lex fori executionis",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "hukum yang berlaku di tempat keputusan dibuat"
+        }
+      ]
+    }
+  ]
+}

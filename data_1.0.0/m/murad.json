@@ -1,0 +1,28 @@
+{
+  "istilah": "murad",
+  "entri": "mu.rad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "maksud; keinginan",
+    "kataAsal": "murād"
+  },
+  "data": [
+    {
+      "lema": "mu.rad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kehendak; maksud; keinginan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "arti atau makna yang lebih luas"
+        }
+      ]
+    }
+  ]
+}

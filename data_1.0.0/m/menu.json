@@ -1,0 +1,36 @@
+{
+  "istilah": "menu",
+  "entri": "me.nu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "menu batang",
+    "menu gantung pintu",
+    "menu hierarkis",
+    "menu kombinasi",
+    "menu layanan kamar",
+    "menu layar penuh",
+    "menu sembul"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.nu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daftar atau rangkaian jenis makanan dan minuman yang tersedia dan dapat dihidangkan: --nya sesuai dengan seleraku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "daftar perintah atau pilihan yang terdapat pada layar monitor komputer"
+        }
+      ]
+    }
+  ]
+}

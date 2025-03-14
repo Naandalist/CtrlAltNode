@@ -1,0 +1,42 @@
+{
+  "istilah": "kapas",
+  "entri": "ka.pas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkapas",
+    "mengapas"
+  ],
+  "gabunganKata": [
+    "kapas belanda",
+    "kapas benggala",
+    "kapas jawa",
+    "kapas wajah"
+  ],
+  "peribahasa": [
+    "bagai kapas dibusur"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.pas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman yang mencapai tinggi hingga 2 m, buahnya mengandung serat berbulu putih yang dibuat benang dan sebagainya〔Gossypium〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "isi buah kapas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serat yang berbulu putih yang dapat dipintal menjadi benang dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

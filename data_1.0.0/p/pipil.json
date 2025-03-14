@@ -1,0 +1,28 @@
+{
+  "istilah": "pipil",
+  "entri": "pi.pil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memipil",
+    "pemipil",
+    "pipilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memungut, menghimpun, mengambil, mengangkat (anak)",
+    "kataAsal": "pipil"
+  },
+  "data": [
+    {
+      "lema": "pi.pil",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memipil"
+        }
+      ]
+    }
+  ]
+}

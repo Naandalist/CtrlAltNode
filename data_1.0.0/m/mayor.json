@@ -1,0 +1,43 @@
+{
+  "istilah": "mayor",
+  "entri": "ma.yor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mayor jenderal TNI"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.yor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkat perwira menengah peringkat terendah dalam ketentaraan, satu tingkat di bawah letnan kolonel, satu tingkat di atas kapten (tanda pangkatnya sekuntum melati emas yang ditempatkan di bahu baju)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang utama; yang besar"
+        }
+      ]
+    },
+    {
+      "lema": "ma.yor2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "utama, besar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mus[Musik: -]",
+          "deskripsi": "lebih tinggi setengah nada daripada minor"
+        }
+      ]
+    }
+  ]
+}

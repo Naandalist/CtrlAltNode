@@ -1,0 +1,33 @@
+{
+  "istilah": "tir",
+  "entri": "tir1 bentuk tidak baku: tar1, ter2",
+  "bentukTidakBaku": "tar1, ter2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tir1 bentuk tidak baku: tar1, ter2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah catur (benteng, gajah)"
+        }
+      ]
+    },
+    {
+      "lema": "tir2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ ter1"
+        }
+      ]
+    }
+  ]
+}

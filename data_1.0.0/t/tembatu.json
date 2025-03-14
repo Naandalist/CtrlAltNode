@@ -1,0 +1,41 @@
+{
+  "istilah": "tembatu",
+  "entri": "tem.ba.tu1 /têmbatu/bentuk tidak baku: tematu",
+  "bentukTidakBaku": "tematu",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem.ba.tu1 /têmbatu/bentuk tidak baku: tematu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "buah yang keras (terutama buah nipah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pisang yang bijinya keras seperti batu"
+        }
+      ]
+    },
+    {
+      "lema": "tem.ba.tu2 /têmbatu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, kayunya baik untuk bahan bangunan dan kayu bakar〔Neoscrtechinia kingli〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu besi"
+        }
+      ]
+    }
+  ]
+}

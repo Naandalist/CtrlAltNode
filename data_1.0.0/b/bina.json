@@ -1,0 +1,41 @@
+{
+  "istilah": "bina",
+  "entri": "bi.na1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "binaan",
+    "membina",
+    "pembina",
+    "pembinaan"
+  ],
+  "gabunganKata": [
+    "bina mandiri",
+    "bina wisata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bangunan",
+    "kataAsal": "binā’"
+  },
+  "data": [
+    {
+      "lema": "bi.na1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bangun sesuatu (negara, orang, dan sebagainya) supaya lebih baik"
+        }
+      ]
+    },
+    {
+      "lema": "bi.na2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "akumulasi dan akselerasi secara bertahap dalam tempo, intensitas, emosi, dan kelakuan untuk mencapai titik klimaks dalam drama"
+        }
+      ]
+    }
+  ]
+}

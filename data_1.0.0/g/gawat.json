@@ -1,0 +1,39 @@
+{
+  "istilah": "gawat",
+  "entri": "ga.wat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gawatan",
+    "kegawatan",
+    "menggawat",
+    "segawat"
+  ],
+  "gabunganKata": [
+    "gawat darurat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.wat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "genting; berbahaya: dengan beraksinya gerombolan bersenjata, situasi menjadi --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kritis; mengkhawatirkan; dekat kepada kematian: penderita itu sangat -- keadaannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sulit; terancam: waktu itu kompi pasukan kami berada dalam kedudukan paling --"
+        }
+      ]
+    }
+  ]
+}

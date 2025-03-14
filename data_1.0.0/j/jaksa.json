@@ -1,0 +1,31 @@
+{
+  "istilah": "jaksa",
+  "entri": "jak.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kejaksaan"
+  ],
+  "gabunganKata": [
+    "jaksa agung",
+    "jaksa agung muda",
+    "jaksa penuntut umum",
+    "jaksa tinggi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "ketua, pengawas, pemimpin, penguasa, raja",
+    "kataAsal": "adhyakṣa"
+  },
+  "data": [
+    {
+      "lema": "jak.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pejabat di bidang hukum yang bertugas menyampaikan dakwaan atau tuduhan di dalam proses pengadilan terhadap orang yang diduga melanggar hukum"
+        }
+      ]
+    }
+  ]
+}

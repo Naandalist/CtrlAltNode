@@ -1,0 +1,44 @@
+{
+  "istilah": "drainase",
+  "entri": "dra.i.na.se /drainasê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "drainase aerasi",
+    "drainase alamiah",
+    "drainase bawah permukaan",
+    "drainase induk",
+    "drainase lapangan",
+    "drainase permukaan",
+    "drainase terbuka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dra.i.na.se /drainasê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengatusan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyaluran air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saluran air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyaliran"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "hebat",
+  "entri": "he.bat bentuk tidak baku: heban2",
+  "bentukTidakBaku": "heban2",
+  "kataTurunan": [
+    "hebat-hebatan",
+    "kehebatan",
+    "memperhebat",
+    "menghebat",
+    "menghebatkan",
+    "terhebat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kebibawaan; ketakutan",
+    "kataAsal": "haibah"
+  },
+  "data": [
+    {
+      "lema": "he.bat bentuk tidak baku: heban2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlampau, amat sangat (dahsyat, ramai, kuat, seru, bagus, menakutkan, dan sebagainya): pertempuran itu -- sekali; kedua orang itu menampilkan permainan yang --; gempa bumi yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "takut; segan; gerun: maka setelah kedengaran kabar itu, sang raja -- mendengarnya dan bermusyawarah dengan segala menteri"
+        }
+      ]
+    }
+  ]
+}

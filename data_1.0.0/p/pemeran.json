@@ -1,0 +1,37 @@
+{
+  "istilah": "pemeran",
+  "entri": "peran1 » pe.me.ran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pemeran pembantu",
+    "pemeran sulihan",
+    "pemeran tambahan",
+    "pemeran utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "peran1 » pe.me.ran",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memerankan sesuatu dalam film, sandiwara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menjalankan peranan tertentu dalam suatu peristiwa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "sosok atau aktor yang memerankan tokoh dalam cerita dramatik"
+        }
+      ]
+    }
+  ]
+}

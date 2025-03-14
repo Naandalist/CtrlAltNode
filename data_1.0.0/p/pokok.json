@@ -1,0 +1,76 @@
+{
+  "istilah": "pokok",
+  "entri": "po.kok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpokok",
+    "memokoki",
+    "memokokkan"
+  ],
+  "gabunganKata": [
+    "pokok angin",
+    "pokok hujan",
+    "pokok hukum",
+    "pokok kalimat",
+    "pokok kayu",
+    "pokok masalah",
+    "pokok pangkal",
+    "pokok pekerjaan",
+    "pokok pencarian",
+    "pokok penghidupan",
+    "pokok ribut",
+    "pokok sialang",
+    "pokok tentara"
+  ],
+  "peribahasa": [
+    "kalau tak ada angin, takkan pokok bergoyang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.kok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segala tumbuhan yang berbatang keras dan besar; pokok kayu: -- beringin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batang kayu dari pangkal ke atas; pokok kayu: pada -- pohon karet itu terdapat banyak torehan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang yang dipakai sebagai induk dalam berniaga; modal: -- perusahaan itu lima juta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "harga pembelian: kain ini dijual di bawah harga --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lantaran; sebab: itulah yang menjadi -- perselisihan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asas; dasar; inti sari: -- pikiran; pada --nya pada dasarnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pusat (yang menjadi titik perhatian dan sebagainya): -- pembicaraannya ialah masalah remaja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tergantung; terserah: jadi atau tidak, --nya kepada tuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "yang terutama; yang sangat penting: makanan --; pelaku --; perkara --; soal --; syarat --; --nya asal menang yang terutama ialah menang"
+        }
+      ]
+    }
+  ]
+}

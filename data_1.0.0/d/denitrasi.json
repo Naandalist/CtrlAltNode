@@ -1,0 +1,28 @@
+{
+  "istilah": "denitrasi",
+  "entri": "de.nit.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.nit.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "penggantian atau pemisahan gugus nitro senyawa organik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "penguraian senyawa nitrat oleh bakteri penghasil nitrogen"
+        }
+      ]
+    }
+  ]
+}

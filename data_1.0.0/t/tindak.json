@@ -1,0 +1,43 @@
+{
+  "istilah": "tindak",
+  "entri": "tin.dak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertindak",
+    "menindak",
+    "menindakkan",
+    "penindak",
+    "penindakan",
+    "tindakan"
+  ],
+  "gabunganKata": [
+    "tindak kriminal",
+    "tindak pidana",
+    "tindak pidana khusus",
+    "tindak pidana militer",
+    "tindak pidana perpajakan",
+    "tindak pidana umum",
+    "tindak tanduk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tin.dak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "langkah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan"
+        }
+      ]
+    }
+  ]
+}

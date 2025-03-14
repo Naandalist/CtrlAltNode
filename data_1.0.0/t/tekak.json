@@ -1,0 +1,44 @@
+{
+  "istilah": "tekak",
+  "entri": "te.kak1 /têkak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertekak",
+    "menekak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.kak1 /têkak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang lembut dari langit-langit mulut sebelah belakang (tempat saraf perasa)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang atau rongga kerongkongan; faring"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "rasa atau perasa pada mulut: tidak sedap --nya tidak enak rasanya (tentang makanan); kering --nya haus sekali; umpan -- pembangkit selera makan; payau (langu) --nya makan apa pun tidak sedap rasanya"
+        }
+      ]
+    },
+    {
+      "lema": "te.kak2 /têkak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tegar (hati); tidak mau menurut; keras kepala"
+        }
+      ]
+    }
+  ]
+}

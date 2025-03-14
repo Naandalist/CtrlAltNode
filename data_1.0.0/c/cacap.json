@@ -1,0 +1,32 @@
+{
+  "istilah": "cacap",
+  "entri": "ca.cap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cacap-cacapan",
+    "mencacap",
+    "mencacapi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.cap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lendir yang terdapat pada sendi tulang (sapi, kerbau, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan untuk memperlebat tumbuhnya rambut (dibuat dari lendir sendi tulang sapi, kerbau, dan sebagainya atau dari batang pisang, lendir daun lidah buaya, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

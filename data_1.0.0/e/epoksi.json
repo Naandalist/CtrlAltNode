@@ -1,0 +1,28 @@
+{
+  "istilah": "epoksi",
+  "entri": "e.pok.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.pok.si",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Kim[Kimia: -]",
+          "deskripsi": "mengandung atom oksigen dalam lingkar organik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "plastik hasil polimerisasi senyawa epoksi"
+        }
+      ]
+    }
+  ]
+}

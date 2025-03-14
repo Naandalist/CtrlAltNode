@@ -1,0 +1,47 @@
+{
+  "istilah": "kerak",
+  "entri": "ke.rak1 /kêrak/bentuk tidak baku: karak1",
+  "bentukTidakBaku": "karak1",
+  "kataTurunan": [
+    "berkerak",
+    "mengerak",
+    "pengerakan",
+    "terkerak"
+  ],
+  "gabunganKata": [
+    "kerak bumi",
+    "kerak gurun",
+    "kerak nasi",
+    "kerak pai",
+    "kerak roti",
+    "kerak telur"
+  ],
+  "peribahasa": [
+    "ada nasi di balik kerak; besar periuk besar kerak; kerak nasi membusut jantan; membesarkan kerak nasi; nasi sama ditanak, kerak dimakan seorang; sudah biasa makan kerak; sudah kenyang makan kerak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bersorak sorai dengan keras",
+    "kataAsal": "krak"
+  },
+  "data": [
+    {
+      "lema": "ke.rak1 /kêrak/bentuk tidak baku: karak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapisan yang kering (keras) atau hangus yang melekat pada benda lain"
+        }
+      ]
+    },
+    {
+      "lema": "ke.rak2 /kêrak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi orang dan sebagainya menggaruk-garuk barang yang keras"
+        }
+      ]
+    }
+  ]
+}

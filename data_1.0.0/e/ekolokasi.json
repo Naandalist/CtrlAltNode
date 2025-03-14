@@ -1,0 +1,28 @@
+{
+  "istilah": "ekolokasi",
+  "entri": "e.ko.lo.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ko.lo.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "sonar biologis yang dimilki oleh beberapa jenis binatang (kelelawar, lumba-lumba) untuk mengetahui lokasi sumber suara dari berbagai objek yang ada di dekatnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "kemampuan makhluk hidup (terutama hewan) dalam mengeluarkan bunyi dan menangkap kembali pantulan bunyi dari objek-objek yang ada di sekitarnya, berfungsi sebagai alat navigasi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "injap",
+  "entri": "in.jap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menginjap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.jap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pintu bubu (lukah) yang berbentuk seperti corong"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "katup"
+        }
+      ]
+    }
+  ]
+}

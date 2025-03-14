@@ -1,0 +1,35 @@
+{
+  "istilah": "cetera",
+  "entri": "ce.te.ra1 /cêtêra/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "cetera jantung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "payung",
+    "kataAsal": "chattra"
+  },
+  "data": [
+    {
+      "lema": "ce.te.ra1 /cêtêra/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "payung (terutama payung kebesaran seperti payung ubur-ubur)"
+        }
+      ]
+    },
+    {
+      "lema": "ce.te.ra2 /cêtêra/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ cerita"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "skenario",
+  "entri": "ske.na.ri.o bentuk tidak baku: senario",
+  "bentukTidakBaku": "senario",
+  "kataTurunan": [
+    "menskenariokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ske.na.ri.o bentuk tidak baku: senario",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rencana lakon sandiwara atau film berupa adegan demi adegan yang tertulis secara terperinci: penulis -- yang juga menyutradarai film itu akan berusaha menarik simpati penonton; dari dulu hingga sekarang, -- penulis itu tetap digemari orang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rancangan penyelenggaraan (upacara, pesta, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "cerita drama yang berjalan dari satu adegan ke adegan berikutnya secara terperinci"
+        }
+      ]
+    }
+  ]
+}

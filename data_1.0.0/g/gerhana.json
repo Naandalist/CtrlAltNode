@@ -1,0 +1,37 @@
+{
+  "istilah": "gerhana",
+  "entri": "ger.ha.na /gêrhana/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gerhana bulan",
+    "gerhana cincin",
+    "gerhana gelang",
+    "gerhana matahari",
+    "gerhana mutlak",
+    "gerhana parsial",
+    "gerhana sebagian",
+    "gerhana total"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "gerhana; gema, gaung; persetujuan; pernikahan",
+    "kataAsal": "grahaṇa"
+  },
+  "data": [
+    {
+      "lema": "ger.ha.na /gêrhana/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bulan (matahari) gelap sebagian atau seluruhnya dilihat dari bumi; eklips"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "dalam kesulitan (kesusahan)"
+        }
+      ]
+    }
+  ]
+}

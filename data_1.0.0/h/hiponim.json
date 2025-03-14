@@ -1,0 +1,26 @@
+{
+  "istilah": "hiponim",
+  "entri": "hi.po.nim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kehiponiman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.po.nim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kata yang memiliki makna lebih sempit dan terliput dalam makna dari satu kata yang lebih umum, misalnya kucing, anjing, kambing disebut hiponim dari hewan"
+        }
+      ]
+    }
+  ]
+}

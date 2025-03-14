@@ -1,0 +1,28 @@
+{
+  "istilah": "musala",
+  "entri": "mu.sa.la bentuk tidak baku: musalla, mushala, mushola, musola",
+  "bentukTidakBaku": "musalla, mushala, mushola, musola",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat sembahyang",
+    "kataAsal": "muṣallā"
+  },
+  "data": [
+    {
+      "lema": "mu.sa.la bentuk tidak baku: musalla, mushala, mushola, musola",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat salat; langgar; surau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tikar salat; sajadah"
+        }
+      ]
+    }
+  ]
+}

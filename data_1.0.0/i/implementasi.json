@@ -1,0 +1,35 @@
+{
+  "istilah": "implementasi",
+  "entri": "im.ple.men.ta.si /implêmentasi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengimplementasi",
+    "mengimplementasikan",
+    "pengimplementasi",
+    "pengimplementasian",
+    "terimplementasi",
+    "terimplementasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "im.ple.men.ta.si /implêmentasi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelaksanaan; penerapan: pertemuan kedua ini bermaksud mencari bentuk -- tentang hal yang disepakati dulu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "pengembangan versi kerja sistem dari desain yang diberikan"
+        }
+      ]
+    }
+  ]
+}

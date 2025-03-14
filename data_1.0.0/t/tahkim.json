@@ -1,0 +1,30 @@
+{
+  "istilah": "tahkim",
+  "entri": "tah.kim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertahkim"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perihal menjadikan hakim; pemutusan hukum",
+    "kataAsal": "taḥkīm"
+  },
+  "data": [
+    {
+      "lema": "tah.kim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perihal menjadikan hakim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "keputusan (pertimbangan)"
+        }
+      ]
+    }
+  ]
+}

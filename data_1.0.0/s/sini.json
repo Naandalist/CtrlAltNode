@@ -1,0 +1,38 @@
+{
+  "istilah": "sini",
+  "entri": "si.ni",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesinian",
+    "mengesinikan",
+    "sinian"
+  ],
+  "gabunganKata": [
+    "ke sini"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.ni",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "tempat ini: dia akan diusir dari --; tunggu di --, jangan beranjak sebelum aku tiba"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kemari"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "saya: -- sudah setuju, tinggal situ bagaimana"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "pepera",
+  "entri": "pe.pe.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.pe.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Huk[Hukum: -]",
+          "deskripsi": "perwira penyerah perkara; perwira yang bertugas mengeluarkan surat keputusan penyerahan perkara"
+        }
+      ]
+    },
+    {
+      "lema": "pe.pe.ra /pêpêra/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "penentuan pendapat rakyat"
+        }
+      ]
+    }
+  ]
+}

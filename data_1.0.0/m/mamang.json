@@ -1,0 +1,55 @@
+{
+  "istilah": "mamang",
+  "entri": "ma.mang1 bentuk tidak baku: mamar",
+  "bentukTidakBaku": "mamar",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kosong, tumpul, linglung",
+    "kataAsal": "maměṅ"
+  },
+  "data": [
+    {
+      "lema": "ma.mang1 bentuk tidak baku: mamar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kabur matanya (karena hendak pingsan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bingung; ketakutan"
+        }
+      ]
+    },
+    {
+      "lema": "ma.mang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan terna suku Capparidaceae, daunnya dibuat asinan dan sebagai pewangi nasi, air remasan daun dipakai untuk obat masuk angin〔Cleome gynandra〕"
+        }
+      ]
+    },
+    {
+      "lema": "ma.mang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "peribahasa yang mengandung nasihat"
+        }
+      ]
+    },
+    {
+      "lema": "ma.mang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "paman"
+        }
+      ]
+    }
+  ]
+}

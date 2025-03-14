@@ -1,0 +1,47 @@
+{
+  "istilah": "penulis",
+  "entri": "tulis » pe.nu.lis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "penulis cepat",
+    "penulis naskah",
+    "penulis pelancong",
+    "penulis siluman",
+    "penulis tajuk",
+    "penulis ulang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tulis » pe.nu.lis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menulis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengarang: ~ naskah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panitera; sekretaris; setia usaha"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelukis; penggambar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "redaktur yang menulis naskah dari bahan berita untuk dimuat dalam terbitan pers"
+        }
+      ]
+    }
+  ]
+}

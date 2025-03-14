@@ -1,0 +1,33 @@
+{
+  "istilah": "gandi",
+  "entri": "gan.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sejenis senjata, barangkali projektil yang dilemparkan dengan umban; busur (dan panah)",
+    "kataAsal": "gaṇḍi"
+  },
+  "data": [
+    {
+      "lema": "gan.di1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "busur"
+        }
+      ]
+    },
+    {
+      "lema": "gan.di2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ gandin"
+        }
+      ]
+    }
+  ]
+}

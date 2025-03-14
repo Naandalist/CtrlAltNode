@@ -1,0 +1,31 @@
+{
+  "istilah": "sang",
+  "entri": "sang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sang Dwiwarna",
+    "sang Merah Putih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "partikel yang dipakai di depan kata benda menunjuk orang dari derajat tertentu",
+    "kataAsal": "saṅ"
+  },
+  "data": [
+    {
+      "lema": "sang",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata yang dipakai di depan nama orang, binatang, atau benda yang dianggap hidup atau dimuliakan: -- Arjuna; -- Kancil; -- nasib"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata yang dipakai di depan nama benda untuk berolok-olok: -- suami"
+        }
+      ]
+    }
+  ]
+}

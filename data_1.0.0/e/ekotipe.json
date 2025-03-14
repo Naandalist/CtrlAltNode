@@ -1,0 +1,32 @@
+{
+  "istilah": "ekotipe",
+  "entri": "e.ko.ti.pe /ekotipê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ko.ti.pe /ekotipê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bagian populasi suatu jenis yang menunjukkan ciri-ciri morfologi kimia atau fisiologi yang mantap dan agaknya diatur oleh faktor-faktor genetika yang berkorelasi dengan keadaan ekologi tertentu, tetapi yang dianggap kurang berarti dari sudut taksonomi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "ras atau populasi yang beradaptasi terhadap tekanan seleksi lingkungan, mempunyai ciri khas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bagian ekospesies yang berbeda karena tekanan seleksi dan isolasi habitat setempat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "edisi",
+  "entri": "e.di.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "edisi bajakan",
+    "edisi bintang",
+    "edisi ekstra",
+    "edisi khusus",
+    "edisi kritis",
+    "edisi kuarto",
+    "edisi kumpulan",
+    "edisi mewah",
+    "edisi murah",
+    "edisi naskah",
+    "edisi niaga",
+    "edisi pendahuluan",
+    "edisi revisi",
+    "edisi standar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.di.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk buku yang diterbitkan: buku -- saku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluaran (buku, surat kabar, majalah, kamus, dan sebagainya yang di terbitkan) dari macam yang sama dan dalam waktu yang sama pula: -- keempat Kamus Besar Bahasa Indonesia susunan tim Pusat Bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "versi karya sastra yang diterbitkan pada waktu dan tempat tertentu"
+        }
+      ]
+    }
+  ]
+}

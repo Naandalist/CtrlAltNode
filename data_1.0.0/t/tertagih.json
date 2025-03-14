@@ -1,0 +1,28 @@
+{
+  "istilah": "tertagih",
+  "entri": "tagih » ter.ta.gih",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tagih » ter.ta.gih",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang wajib membayar tagihan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat ditagih"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "jangkau",
+  "entri": "jang.kau bentuk tidak baku: jingkau",
+  "bentukTidakBaku": "jingkau",
+  "kataTurunan": [
+    "berjangkau",
+    "jangkauan",
+    "keterjangkauan",
+    "menjangkau",
+    "sejangkauan",
+    "sepenjangkauan",
+    "terjangkau"
+  ],
+  "gabunganKata": [
+    "jangkau tanah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jang.kau bentuk tidak baku: jingkau",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jarak mendatar maksimum yang dapat dicapai peluru atau proyektil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "jarak terbesar antara dua zarah sebelum interaksinya"
+        }
+      ]
+    }
+  ]
+}

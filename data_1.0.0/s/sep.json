@@ -1,0 +1,35 @@
+{
+  "istilah": "sep",
+  "entri": "sep1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersep"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sep1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kepala (kantor, stasiun, dan sebagainya): kalau --nya orang baik, senanglah ia bekerja"
+        }
+      ]
+    },
+    {
+      "lema": "sep2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mrd[Bian Marind Deg: -]",
+          "deskripsi": "makanan yang dimasak dengan batu panas yang telah dibakar: acara adat itu disemarakkan dengan pesta --"
+        }
+      ]
+    }
+  ]
+}

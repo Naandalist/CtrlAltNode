@@ -1,0 +1,41 @@
+{
+  "istilah": "bengkel",
+  "entri": "beng.kel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membengkel",
+    "perbengkelan"
+  ],
+  "gabunganKata": [
+    "bengkel jilid"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "beng.kel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat memperbaiki mobil, sepeda motor, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pabrik kecil; tempat tukang bekerja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "tempat berlatih sandiwara dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "tempat melakukan suatu kegiatan dengan arah dan tujuan yang pasti"
+        }
+      ]
+    }
+  ]
+}

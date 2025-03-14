@@ -1,0 +1,33 @@
+{
+  "istilah": "kurban",
+  "entri": "kur.ban",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkurban",
+    "mengurbankan"
+  ],
+  "gabunganKata": [
+    "kurban misa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "persembahan pada Allah sebagai bentuk ketaatan dan wasilah; penyembelihan hewan ternak sebagai bentuk ketaatan pada Allah",
+    "kataAsal": "qurbān"
+  },
+  "data": [
+    {
+      "lema": "kur.ban",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "persembahan kepada Allah Swt. (seperti biri-biri, sapi, unta yang disembelih pada hari Lebaran Haji) sebagai wujud ketaatan muslim kepada-Nya: ia menyembelih kerbau untuk --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pujaan atau persembahan kepada dewa-dewa: setahun sekali diadakan upacara mempersembahkan -- kepada Batara Brahma"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "moderato",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -]",
+          "deskripsi": "sedang (dalam tempo musik)"
+        }
+      ]
+    },
+    {
+      "lema": "moderato",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -]",
+          "deskripsi": "sedang (dalam tempo musik)"
+        }
+      ]
+    },
+    {
+      "lema": "mo.de.ra.to /modêrato/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mus[Musik: -]",
+          "deskripsi": "tenang, sedang dalam tempo"
+        }
+      ]
+    }
+  ]
+}

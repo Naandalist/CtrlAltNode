@@ -1,0 +1,28 @@
+{
+  "istilah": "menyutra",
+  "entri": "sutra » me.nyu.tra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sutra » me.nyu.tra",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerupai sutra"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bot[Botani: -]",
+          "deskripsi": "memiliki permukaan yang tertutup bulu-bulu halus panjang yang rapat"
+        }
+      ]
+    }
+  ]
+}

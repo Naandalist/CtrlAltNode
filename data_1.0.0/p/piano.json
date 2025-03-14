@@ -1,0 +1,32 @@
+{
+  "istilah": "piano",
+  "entri": "pi.a.no",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "piano harpa",
+    "piano konser",
+    "piano listrik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.a.no",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat musik berdawai baja, dibunyikan dengan memukulkan palu-paluan pada dawai itu, dan dimainkan dengan menekan tutsnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "istilah musik yang berarti lembut (tentang lagu yang harus dimainkan dengan lembut)"
+        }
+      ]
+    }
+  ]
+}

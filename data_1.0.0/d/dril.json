@@ -1,0 +1,35 @@
+{
+  "istilah": "dril",
+  "entri": "dril1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengedril"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dril1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan tenun (katun) yang tebal dan tahan lama"
+        }
+      ]
+    },
+    {
+      "lema": "dril2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "latihan yang diulang-ulang dalam waktu singkat; tubian: belajar bahasa Inggris dengan --"
+        }
+      ]
+    }
+  ]
+}

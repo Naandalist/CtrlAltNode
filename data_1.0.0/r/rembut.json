@@ -1,0 +1,36 @@
+{
+  "istilah": "rembut",
+  "entri": "rem.but1 /rêmbut/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terembut-rembut",
+    "berembut-rembut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rem.but1 /rêmbut/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terembut-rembut"
+        }
+      ]
+    },
+    {
+      "lema": "rem.but2 /rêmbut/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "rebut"
+        }
+      ]
+    }
+  ]
+}

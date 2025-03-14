@@ -1,0 +1,36 @@
+{
+  "istilah": "dekode",
+  "entri": "de.ko.de /dekodê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.ko.de /dekodê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengubahan informasi dari bentuk sandi dan sebagainya ke dalam bahasa yang dikenal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengubahan suatu sistem kode ke sistem kode yang lain"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menemukan (menafsirkan) makna atau arti suatu pesan dalam bahasa (rahasia); mengurai (menjabarkan) kode atau bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tindakan mengonversi data kembali ke dalam bentuk aslinya, biasanya berupa teks yang dapat dibaca"
+        }
+      ]
+    }
+  ]
+}

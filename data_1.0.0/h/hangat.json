@@ -1,0 +1,52 @@
+{
+  "istilah": "hangat",
+  "entri": "ha.ngat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kehangatan",
+    "menghangat",
+    "menghangati",
+    "menghangatkan",
+    "penghangat",
+    "sehangat",
+    "terhangat"
+  ],
+  "gabunganKata": [
+    "hangat hati"
+  ],
+  "peribahasa": [
+    "bagai menggenggam bara, terasa hangat dilepaskan; berani sendok pengedang, air hangat direnanginya; bersandar di lemang hangat; hangat-hangat (suam-suam) kuku; hangat-hangat tahi ayam; menyandang lemang hangat orang; terpegang di abu hangat; terpijak bara hangat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "hangat (kurang panas) hangat yang menyenangkan",
+    "kataAsal": "haṅět"
+  },
+  "data": [
+    {
+      "lema": "ha.ngat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "agak panas: masakannya masih --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sedikit lebih daripada timbangan (bobot) yang sebenarnya: gula itu -- timbangannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gembira: kedatangan Menteri Pendidikan disambut -- oleh masyarakat setempat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "genting; tegang: suasana politik -- kembali"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "baru saja terjadi; masih baru (tentang peristiwa, kabar): surat kabar itu selalu memuat berita-berita yang --"
+        }
+      ]
+    }
+  ]
+}

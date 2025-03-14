@@ -1,0 +1,42 @@
+{
+  "istilah": "pace",
+  "entri": "pa.ce1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ce1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "mengkudu"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ce2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "serbuk rempah-rempah yang ditaburkan di kain kafan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ce3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "paman"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "kudus",
+  "entri": "ku.dus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekudusan",
+    "menguduskan",
+    "pengudusan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "suci",
+    "kataAsal": "quds"
+  },
+  "data": [
+    {
+      "lema": "ku.dus1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suci; murni"
+        }
+      ]
+    },
+    {
+      "lema": "Ku.dus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Jawa Tengah, terkenal dengan sebutan Kota Kretek"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "istilah": "kaum",
+  "entri": "ka.um",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkaum",
+    "kauman",
+    "perkauman"
+  ],
+  "gabunganKata": [
+    "kaum bendoro",
+    "kaum dagang",
+    "kaum dahrian",
+    "kaum eksekutif",
+    "kaum ekstremis",
+    "kaum halai balai",
+    "kaum ibu",
+    "kaum kolot",
+    "kaum konfederasi",
+    "kaum mapan",
+    "kaum muda",
+    "kaum non",
+    "kaum rendahan",
+    "kaum revolusioner",
+    "kaum unionis",
+    "kaum urakan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "masyarakat",
+    "kataAsal": "qaum"
+  },
+  "data": [
+    {
+      "lema": "ka.um",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa: dahulu perang antar-- sering terjadi di pedalaman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sanak saudara; kerabat; keluarga: ia hidup terasing dari --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan (orang yang sekerja, sepaham, sepangkat, dan sebagainya): -- terpelajar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lebai; modin: perbatin, penggawa, atau -- hanya berhenti sebab mati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "keluarga garis matrilineal"
+        }
+      ]
+    }
+  ]
+}

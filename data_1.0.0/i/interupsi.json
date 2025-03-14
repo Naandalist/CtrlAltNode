@@ -1,0 +1,34 @@
+{
+  "istilah": "interupsi",
+  "entri": "in.te.rup.si /intêrupsi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menginterupsi",
+    "penginterupsi",
+    "penginterupsian"
+  ],
+  "gabunganKata": [
+    "interupsi cek program"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.te.rup.si /intêrupsi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyelaan atau pemotongan (pembicaraan, pidato, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "sinyal suatu peranti ke prosesor komputer untuk meminta perhatian dari prosesor sebagai tanggapan terhadap galat program atau permintaan untuk layanan sistem operasi"
+        }
+      ]
+    }
+  ]
+}

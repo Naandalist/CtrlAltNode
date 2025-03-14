@@ -1,0 +1,46 @@
+{
+  "istilah": "lalai",
+  "entri": "la.lai1 bentuk tidak baku: talai",
+  "bentukTidakBaku": "talai",
+  "kataTurunan": [
+    "berlalai-lalai",
+    "kelalaian",
+    "melalaikan",
+    "memperlalaikan",
+    "pelalai",
+    "pelalaian",
+    "terlalai",
+    "terlalaikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.lai1 bentuk tidak baku: talai",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kurang hati-hati; tidak mengindahkan (kewajiban, pekerjaan, dan sebagainya); lengah: karena -- dompetnya hilang disambar copet"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak ingat karena asyik melakukan sesuatu; terlupa: semuanya -- bermain kartu"
+        }
+      ]
+    },
+    {
+      "lema": "la.lai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "tali di kapal (perahu) sebagai pemutar kayu palang tempat menggantungkan layar"
+        }
+      ]
+    }
+  ]
+}

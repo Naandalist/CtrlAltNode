@@ -1,0 +1,37 @@
+{
+  "istilah": "tenor",
+  "entri": "te.nor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.nor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis suara tertinggi untuk orang laki-laki: untuk menjadi penyanyi -- yang baik, ia harus berlatih sebaik mungkin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mempunyai suara tenor"
+        }
+      ]
+    },
+    {
+      "lema": "te.nor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jangka waktu penyelesaian cicilan yang harus dipenuhi sebelum jatuh tempo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "kasad",
+  "entri": "ka.sad1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengasadkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tujuan; keadilan; pemecahan",
+    "kataAsal": "qaṣd"
+  },
+  "data": [
+    {
+      "lema": "ka.sad1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maksud; tujuan: niat dan -- orang tua itu tidak lain hanya ingin menyenangkan anak-anaknya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makna konotasi: fatwa --nya agamawi, petuah --nya sosial"
+        }
+      ]
+    },
+    {
+      "lema": "Ka.sad2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Kepala Staf Angkatan Darat"
+        }
+      ]
+    }
+  ]
+}

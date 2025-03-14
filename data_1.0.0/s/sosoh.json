@@ -1,0 +1,40 @@
+{
+  "istilah": "sosoh",
+  "entri": "so.soh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyosoh",
+    "penyosoh",
+    "penyosohan",
+    "sosohan",
+    "bersosoh",
+    "menyosoh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.soh1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyosoh"
+        }
+      ]
+    },
+    {
+      "lema": "so.soh2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menyosoh"
+        }
+      ]
+    }
+  ]
+}

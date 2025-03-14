@@ -1,0 +1,51 @@
+{
+  "istilah": "siring",
+  "entri": "si.ring1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.ring1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangguk rotan untuk menangkap ikan-ikan kecil, udang, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "si.ring2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selokan; got: janganlah dibiasakan membuang sampah ke dalam --"
+        }
+      ]
+    },
+    {
+      "lema": "si.ring3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tepi (kain dan sebagainya) yang berbeda warnanya"
+        }
+      ]
+    },
+    {
+      "lema": "si.ring4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "hiasan dekoratif pada pakaian, berbentuk kerutan yang dihasilkan dari jahitan paralel dengan menggunakan benang karet"
+        }
+      ]
+    }
+  ]
+}

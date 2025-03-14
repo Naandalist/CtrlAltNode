@@ -1,0 +1,31 @@
+{
+  "istilah": "cokek",
+  "entri": "co.kek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cokekan",
+    "mencokek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Zhangzhou",
+    "arti": "tarian tradisional Betawi",
+    "kataAsal": "chhiò͘ⁿ khek"
+  },
+  "data": [
+    {
+      "lema": "co.kek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kesenian tradisional Betawi yang diiringi gambang keromong dengan penari wanita yang juga bersedia diajak menari bersama para tamu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "penari wanita dari rombongan tontonan cokek yang dapat diajak menari bersama"
+        }
+      ]
+    }
+  ]
+}

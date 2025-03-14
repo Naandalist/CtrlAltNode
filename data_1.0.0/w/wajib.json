@@ -1,0 +1,43 @@
+{
+  "istilah": "wajib",
+  "entri": "wa.jib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkewajiban",
+    "berwajib",
+    "kewajiban",
+    "mewajibkan",
+    "sewajibnya"
+  ],
+  "gabunganKata": [
+    "wajib belajar",
+    "wajib kerja",
+    "wajib lapor",
+    "wajib latihan kerja",
+    "wajib militer",
+    "wajib pajak",
+    "wajib pajak takbayar",
+    "wajib serah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "harus",
+    "kataAsal": "wājib"
+  },
+  "data": [
+    {
+      "lema": "wa.jib",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "harus dilakukan; tidak boleh tidak dilaksanakan (ditinggalkan): seorang muslim -- salat lima kali dalam sehari semalam"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah semestinya; harus: kalau kita ingin berhasil dalam usaha, kita -- berikhtiar"
+        }
+      ]
+    }
+  ]
+}

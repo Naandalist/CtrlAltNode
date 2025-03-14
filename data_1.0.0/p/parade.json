@@ -1,0 +1,32 @@
+{
+  "istilah": "parade",
+  "entri": "pa.ra.de /paradê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berparade"
+  ],
+  "gabunganKata": [
+    "parade busana"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ra.de /paradê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pawai barisan tentara, kontingen olahraga, dan sebagainya (pada upacara atau perayaan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "hiburan yang berbentuk drama pendek yang ditampilkan di luar gedung, dapat langsung disaksikan penonton yang sedang melintas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "undangan",
+  "entri": "undang1 » un.dang.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "undang1 » un.dang.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal (perbuatan, cara) mengundang; panggilan (supaya datang): ~nya baru dapat saya penuhi sekarang; ~ orang itu untuk sekadar basa-basi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang diundang: ~ sudah memenuhi tempat yang disediakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat untuk mengundang; surat undangan: ~nya hanya ditulis tangan"
+        }
+      ]
+    },
+    {
+      "lema": "undang2 » un.dang.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "dewan yang berkuasa membuat undang-undang; badan legislatif dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

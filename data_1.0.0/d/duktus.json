@@ -1,0 +1,40 @@
+{
+  "istilah": "duktus",
+  "entri": "duk.tus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "duktus empedu",
+    "duktus torakikus"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "duk.tus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "saluran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pembuluh"
+        }
+      ]
+    },
+    {
+      "lema": "duk.tus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "arah gerakan tangan ketika menulis huruf, misalnya huruf la"
+        }
+      ]
+    }
+  ]
+}

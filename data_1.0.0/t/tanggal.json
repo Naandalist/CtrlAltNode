@@ -1,0 +1,62 @@
+{
+  "istilah": "tanggal",
+  "entri": "tang.gal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menanggali",
+    "menanggalkan",
+    "penanggalan",
+    "bertanggal",
+    "menanggali",
+    "penanggalan",
+    "tanggalan",
+    "tertanggal"
+  ],
+  "gabunganKata": [
+    "tanggal akhir kontrak",
+    "tanggal akhir perjanjian",
+    "tanggal akhir program",
+    "tanggal berita",
+    "tanggal efektif",
+    "tanggal jatuh tempo",
+    "tanggal mati",
+    "tanggal merah",
+    "tanggal muda",
+    "tanggal pembukuan",
+    "tanggal surut",
+    "tanggal terbit",
+    "tanggal tua"
+  ],
+  "peribahasa": [
+    "gigi tanggal, rawan murah; inai tertepung, kuku tanggal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "paruh bulan pertama (1--15), hari-hari dalam paruh bulan pertama",
+    "kataAsal": "taṅgal"
+  },
+  "data": [
+    {
+      "lema": "tang.gal1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terlepas (kelupas, lulus, lucut) lalu jatuh; luruh (tentang daun, kulit, ular, dan sebagainya): giginya sudah -- semua"
+        }
+      ]
+    },
+    {
+      "lema": "tang.gal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilangan yang menyatakan hari yang ke berapa dalam bulan; hari bulan: kami memperingati hari lahir R.A. Kartini pada -- 21 April"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhitungan hari bulan; tarikh: buku itu tidak diketahui -- penerbitannya"
+        }
+      ]
+    }
+  ]
+}

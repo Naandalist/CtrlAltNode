@@ -1,0 +1,59 @@
+{
+  "istilah": "satu",
+  "entri": "sa.tu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersatu",
+    "kebersatuan",
+    "kesatu",
+    "kesatuan",
+    "mempersatukan",
+    "menyatu",
+    "menyatukan",
+    "pemersatu",
+    "pemersatuan",
+    "penyatu",
+    "penyatuan",
+    "persatuan",
+    "satu-satu",
+    "satu-satunya",
+    "satuan"
+  ],
+  "gabunganKata": [
+    "satu bahasa",
+    "satu jaga satu rapat",
+    "satu lawan satu",
+    "satu rayu"
+  ],
+  "peribahasa": [
+    "bagai kacang direbus satu; diindang ditampi beras, dipilih antah satu-satu; dipilih antah satu-satu; gugur satu, tumbuh seribu; hilang satu, sepuluh gantinya; jung satu, nakhoda dua; kapal satu, nakhoda dua; madu satu tong, jika rembes, rembesnya pun madu jua; mulut satu, lidah bertopang; satu juga gendang berbunyi; satu nyawa, dua badan; satu sangkar, dua burung; telur sesangkak, pecah satu pecah semua"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.tu",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "bilangan yang dilambangkan dengan angka 1 (Arab) atau I (Romawi)"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "nama bagi lambang bilangan asli 1 (angka Arab) atau I (angka Romawi)"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "urutan pertama sebelum ke-2"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "bilangan asli terkecil sesudah 0"
+        }
+      ]
+    }
+  ]
+}

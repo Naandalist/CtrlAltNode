@@ -1,0 +1,28 @@
+{
+  "istilah": "dermis",
+  "entri": "der.mis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "der.mis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "lapisan atau jaringan kulit di bawah epidermis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "pembuluh darah yang sensitif di bawah lapisan mesodermik di dalam kulit"
+        }
+      ]
+    }
+  ]
+}

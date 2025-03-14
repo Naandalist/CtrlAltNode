@@ -1,0 +1,55 @@
+{
+  "istilah": "kapasitas",
+  "entri": "ka.pa.si.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkapasitas"
+  ],
+  "gabunganKata": [
+    "kapasitas aerobik",
+    "kapasitas anaerobik",
+    "kapasitas bahang",
+    "kapasitas gerak",
+    "kapasitas ikat besi total",
+    "kapasitas kalor",
+    "kapasitas kanal",
+    "kapasitas lapang",
+    "kapasitas maksimum",
+    "kapasitas siap testamen",
+    "kapasitas silinder",
+    "kapasitas termal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.pa.si.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang yang tersedia; daya tampung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daya serap (panas, listrik, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluaran maksimum; kemampuan berproduksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "kemampuan kapasitor untuk menghimpun muatan listrik (diukur dalam satuan farad)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemampuan atau kecakapan dalam melakukan sesuatu: -- seorang pemimpin akan terlihat saat dia menangani masalah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "istilah": "tetap",
+  "entri": "te.tap1 /têtap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berketetapan",
+    "ketetapan",
+    "mempertetap",
+    "mempertetapkan",
+    "menetap",
+    "menetapi",
+    "menetapkan",
+    "penetap",
+    "penetapan",
+    "tetapan",
+    "menetap",
+    "penetap"
+  ],
+  "gabunganKata": [
+    "tetap hati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.tap1 /têtap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "selalu berada (tinggal, berdiri, dan sebagainya) di tempatnya: orang tuanya -- tinggal di dusun"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berubah (keadaannya, kedudukannya, dan sebagainya): kalimat itu terbentuk menurut pola-pola -- dan tertentu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak berpindah-pindah; tidak beranjak: bertiup angin timur yang -- arahnya"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "selalu demikian halnya (tentang keadaan, perbuatan, dan sebagainya): sampai kini ia masih -- menjadi bupati; sekali merdeka -- merdeka"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "tidak putus-putusnya; selalu; terus: matanya -- melihat pada satu tempat saja; biar bagaimanapun ia -- hendak mempertahankan haknya"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "untuk selamanya (tidak untuk sementara): bangunan --; pegawai --; pembantu --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kekal selama-lamanya; lestari: di dunia ini tiada sesuatu pun yang --; mudah-mudahan persahabatan kita -- hingga akhir zaman"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sudah pasti (tentu): tempat dan harinya sudah --; pajaknya sudah --; pekerjaannya tidak -- tidak tentu"
+        }
+      ]
+    },
+    {
+      "lema": "te.tap2 /têtap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menetap"
+        }
+      ]
+    }
+  ]
+}

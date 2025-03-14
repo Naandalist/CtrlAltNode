@@ -1,0 +1,32 @@
+{
+  "istilah": "sahifah",
+  "entri": "sa.hi.fah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tulisan",
+    "kataAsal": "ṣaḥīfah"
+  },
+  "data": [
+    {
+      "lema": "sa.hi.fah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "lembaran yang bertulis; surat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "dokumen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "halaman (buku)"
+        }
+      ]
+    }
+  ]
+}

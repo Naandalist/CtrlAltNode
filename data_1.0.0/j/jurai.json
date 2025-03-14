@@ -1,0 +1,49 @@
+{
+  "istilah": "jurai",
+  "entri": "ju.rai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjurai",
+    "berjurai-jurai",
+    "berjuraian",
+    "terjurai"
+  ],
+  "gabunganKata": [
+    "jurai dalam",
+    "jurai luar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ju.rai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "secarik yang panjang (kain dan sebagainya); lajur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seikat barang yang berjuntai seperti benang, rambut, kacang panjang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rentetan; deretan yang berturut-turut: -- keturunan raja-raja dan orang-orang besar"
+        }
+      ]
+    },
+    {
+      "lema": "ju.rai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis sambungan antara bidang atap yang satu dengan bidang atap yang lain"
+        }
+      ]
+    }
+  ]
+}

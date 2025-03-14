@@ -1,0 +1,40 @@
+{
+  "istilah": "timang",
+  "entri": "ti.mang1 bentuk tidak baku: imang",
+  "bentukTidakBaku": "imang",
+  "kataTurunan": [
+    "ditimang",
+    "menimang",
+    "menimang-nimang",
+    "menimangkan",
+    "penimang",
+    "timang-timangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.mang1 bentuk tidak baku: imang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menimang"
+        }
+      ]
+    },
+    {
+      "lema": "ti.mang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kepala tali (ikat) pinggang; gesper"
+        }
+      ]
+    }
+  ]
+}

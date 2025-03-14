@@ -1,0 +1,33 @@
+{
+  "istilah": "sks",
+  "entri": "SKS1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "SKS1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "satuan kredit semester"
+        }
+      ]
+    },
+    {
+      "lema": "SKS2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] sing[singkatan]",
+          "deskripsi": "sistem kebut semalam"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "sidi",
+  "entri": "si.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kesempurnaan, sukses; kepandaian atau kemampuan yang luar biasa; kemahiran supranatural; sangat kuat secara supernatural, dengan jalan magis; yoga tertentu",
+    "kataAsal": "siddhi"
+  },
+  "data": [
+    {
+      "lema": "si.di1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "anggota yang sah dari gereja"
+        },
+        {
+          "kelas_kata": "Kris[Agama Kristen: -]",
+          "deskripsi": "pengakuan iman setelah seseorang mengikuti katekisasi dan diteguhkan oleh pendeta"
+        }
+      ]
+    },
+    {
+      "lema": "si.di2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sempurna: purnama -- bulan purnama penuh (raya)"
+        }
+      ]
+    },
+    {
+      "lema": "si.di3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "sayidi; tuanku"
+        }
+      ]
+    }
+  ]
+}

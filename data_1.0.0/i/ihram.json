@@ -1,0 +1,30 @@
+{
+  "istilah": "ihram",
+  "entri": "ih.ram",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berihram"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "niat melakukan ibadah haji atau umrah, dan meninggalkan larangannya, seperti memakai pakain berjahit, wewangian",
+    "kataAsal": "iḥrām"
+  },
+  "data": [
+    {
+      "lema": "ih.ram",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Isl[Agama Islam: -]",
+          "deskripsi": "suci; dalam keadaan bersuci diri (pada waktu melakukan ibadah haji dan umrah di Makkah)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Isl[Agama Islam: -]",
+          "deskripsi": "meniatkan dan melakukan pekerjaan ihram untuk tujuan ibadah haji dan/atau umrah"
+        }
+      ]
+    }
+  ]
+}

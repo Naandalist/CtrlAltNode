@@ -1,0 +1,38 @@
+{
+  "istilah": "pilot",
+  "entri": "pi.lot",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memiloti"
+  ],
+  "gabunganKata": [
+    "pilot karier",
+    "pilot otomatis",
+    "pilot studi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.lot",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengemudi pesawat terbang; penerbang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perintis"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat sebagai peranti pemandu, sarana penggiat, atau sarana percobaan"
+        }
+      ]
+    }
+  ]
+}

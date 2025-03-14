@@ -1,0 +1,30 @@
+{
+  "istilah": "hibernasi",
+  "entri": "hi.ber.na.si /hibêrnasi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhibernasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.ber.na.si /hibêrnasi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "keadaan istirahat atau tidur pada binatang selama musim dingin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tidak aktif; mati sementara untuk menghemat baterai"
+        }
+      ]
+    }
+  ]
+}

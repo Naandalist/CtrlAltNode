@@ -1,0 +1,36 @@
+{
+  "istilah": "oktaf",
+  "entri": "ok.taf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ok.taf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "nada yang ke-8 dalam deretan tangga nada diatonik yang mempunyai getaran sebanyak dua kali lipat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "kumpulan delapan nada berturut-turut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "sajak yang terdiri atas delapan larik dalam satu bait"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "selang antara dua bunyi yang rasio frekuensi dasarnya sama dengan dua"
+        }
+      ]
+    }
+  ]
+}

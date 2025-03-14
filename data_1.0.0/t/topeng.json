@@ -1,0 +1,40 @@
+{
+  "istilah": "topeng",
+  "entri": "to.peng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertopeng",
+    "mempertopeng",
+    "menopengi",
+    "penopengan"
+  ],
+  "gabunganKata": [
+    "topeng gas",
+    "topeng monyet"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.peng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penutup muka (dari kayu, kertas, dan sebagainya) yang menyerupai muka orang, binatang, dan sebagainya: waktu merampok dia memakai --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kepura-puraan untuk menutupi maksud sebenarnya; kedok: gerakan kebatinan itu sebenarnya hanya sebagai -- organisasi yang terlarang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "topeng yang digunakan dalam pertunjukan drama untuk menunjukkan tokoh beserta karakternya"
+        }
+      ]
+    }
+  ]
+}

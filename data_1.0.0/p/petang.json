@@ -1,0 +1,46 @@
+{
+  "istilah": "petang",
+  "entri": "pe.tang1 /pêtang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepetangan",
+    "memetang-metangkan",
+    "pemetang-metang",
+    "petang-petang",
+    "sepetang-petangan",
+    "kepetangan"
+  ],
+  "gabunganKata": [
+    "petang Ahad malam Senin",
+    "petang esok",
+    "petang hari"
+  ],
+  "peribahasa": [
+    "bagai itik pulang petang; bagai keluan bebar petang; disangka panas sampai petang, kiranya hujan tengah hari; panas tidak sampai petang; sabung selepas hari petang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.tang1 /pêtang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu sesudah tengah hari (kira-kira dari pukul tiga sampai matahari terbenam); sore: pukul lima --; besok -- (besok petangnya), petang sesudah hari ini"
+        }
+      ]
+    },
+    {
+      "lema": "pe.tang2 /pêtang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kepetangan"
+        }
+      ]
+    }
+  ]
+}

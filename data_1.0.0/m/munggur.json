@@ -1,0 +1,33 @@
+{
+  "istilah": "munggur",
+  "entri": "mung.gur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mung.gur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "trembesi"
+        }
+      ]
+    },
+    {
+      "lema": "mung.gur2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ mungkur"
+        }
+      ]
+    }
+  ]
+}

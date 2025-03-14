@@ -1,0 +1,93 @@
+{
+  "istilah": "rapat",
+  "entri": "ra.pat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berapat-rapat",
+    "kerapatan",
+    "memperapat",
+    "merapat",
+    "merapati",
+    "merapatkan",
+    "perapat",
+    "rapatan",
+    "berapat",
+    "kerapatan",
+    "merapatkan"
+  ],
+  "gabunganKata": [
+    "rapat muatan",
+    "rapat akbar",
+    "rapat anggota",
+    "rapat desa",
+    "rapat kerja",
+    "rapat kilat",
+    "rapat lengkap",
+    "rapat paripurna",
+    "rapat paripurna luar biasa",
+    "rapat pleno",
+    "rapat raksasa",
+    "rapat samudra",
+    "rapat tahunan",
+    "rapat terbuka",
+    "rapat umum",
+    "rapat umum tahunan"
+  ],
+  "peribahasa": [
+    "tangguk rapat, keruntung bubus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.pat1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hampir tidak berantara; dekat sekali (tidak renggang): rumah-rumah di kota -- sekali"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kerap (tentang tanaman, anyaman, dan sebagainya): padi jangan ditanam terlalu --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tertutup benar-benar hingga tidak bercelah: ia menutup pintu dengan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhampiran sekali; dekat benar: kapal dapat berlabuh -- pada pangkalan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "karib; erat (tentang persahabatan): teman --; menambah -- persahabatan"
+        }
+      ]
+    },
+    {
+      "lema": "ra.pat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertemuan (kumpulan) untuk membicarakan sesuatu; sidang; majelis"
+        }
+      ]
+    },
+    {
+      "lema": "ra.pat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu rapat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit dari kayu rapat"
+        }
+      ]
+    }
+  ]
+}

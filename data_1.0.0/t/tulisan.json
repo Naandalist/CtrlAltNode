@@ -1,0 +1,46 @@
+{
+  "istilah": "tulisan",
+  "entri": "tulis » tu.lis.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tulisan cepat",
+    "tulisan fitnah",
+    "tulisan nasib",
+    "tulisan penghinaan",
+    "tulisan tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tulis » tu.lis.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil menulis; barang yang ditulis; cara menulis: dengan ~ dengan tertulis (tidak dengan lisan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karangan (dalam majalah, surat kabar, dan sebagainya atau yang berupa cerita, dongeng, dan sebagainya); buku-buku (karya-karya tulis dan sebagainya): aku ingin membaca ~ Chairil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambaran; lukisan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batik (yang dibatik bukan dicetak, tentang kain)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "suratan (nasib, takdir)"
+        }
+      ]
+    }
+  ]
+}

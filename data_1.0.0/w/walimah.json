@@ -1,0 +1,27 @@
+{
+  "istilah": "walimah",
+  "entri": "wa.li.mah bentuk tidak baku: walimat",
+  "bentukTidakBaku": "walimat",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "walimah safar",
+    "walimah urusy"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perjamuan",
+    "kataAsal": "walīmah"
+  },
+  "data": [
+    {
+      "lema": "wa.li.mah bentuk tidak baku: walimat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perjamuan"
+        }
+      ]
+    }
+  ]
+}

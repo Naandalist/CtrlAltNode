@@ -1,0 +1,33 @@
+{
+  "istilah": "makakawin",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bl[Bali: -]",
+          "deskripsi": "membaca lontar (berisi kakawin)"
+        }
+      ]
+    },
+    {
+      "lema": "makakawin",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Bali: -]",
+          "deskripsi": "membaca lontar (berisi kakawin)"
+        }
+      ]
+    }
+  ]
+}

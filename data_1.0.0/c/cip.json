@@ -1,0 +1,39 @@
+{
+  "istilah": "cip",
+  "entri": "cip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "cip cokelat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cip1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "keping kecil bahan semikonduktor yang mengandung rangkaian elektronika dalam bentuk rangkaian padu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "peranti elektronik yang terdiri atas butir kecil kristal semikonduktor yang memadukan sejumlah komponen, seperti transistor, resistor, dan kapasitor yang secara bersama-sama membentuk suatu fungsi"
+        }
+      ]
+    },
+    {
+      "lema": "cip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "tendangan atau tembakan pendek yang melengkung"
+        }
+      ]
+    }
+  ]
+}

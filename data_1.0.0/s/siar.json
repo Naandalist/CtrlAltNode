@@ -1,0 +1,78 @@
+{
+  "istilah": "siar",
+  "entri": "si.ar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepenyiaran",
+    "menyiarkan",
+    "penyiar",
+    "penyiaran",
+    "persiaran",
+    "siaran",
+    "tersiar",
+    "menyiar",
+    "tersiar",
+    "bersiar",
+    "bersiar-siar",
+    "pesiar",
+    "menyiar"
+  ],
+  "gabunganKata": [
+    "siar bakar"
+  ],
+  "peribahasa": [
+    "siar bakar berpuntung suluh"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "cari:",
+    "kataAsal": "sāra"
+  },
+  "data": [
+    {
+      "lema": "si.ar1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyiarkan"
+        }
+      ]
+    },
+    {
+      "lema": "si.ar2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyiar"
+        }
+      ]
+    },
+    {
+      "lema": "si.ar3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bersiar; bersiar-siar; pesiar"
+        }
+      ]
+    },
+    {
+      "lema": "si.ar4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyambung atau perekat antara batu bata yang satu dengan batu bata yang lain"
+        }
+      ]
+    },
+    {
+      "lema": "si.ar5",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat daun"
+        }
+      ]
+    }
+  ]
+}

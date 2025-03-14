@@ -1,0 +1,35 @@
+{
+  "istilah": "ego",
+  "entri": "e.go",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "ego alien",
+    "ego bebas konflik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.go",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "aku; diri pribadi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "rasa sadar akan diri sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "konsepsi individu tentang dirinya sendiri"
+        }
+      ]
+    }
+  ]
+}

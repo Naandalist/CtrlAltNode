@@ -1,0 +1,72 @@
+{
+  "istilah": "warna",
+  "entri": "war.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berwarna",
+    "berwarna-warna",
+    "mewarnai",
+    "mewarnakan",
+    "pewarna",
+    "pewarnaan",
+    "sewarna"
+  ],
+  "gabunganKata": [
+    "warna akromatik",
+    "warna aksen",
+    "warna apatetik",
+    "warna aposem",
+    "warna asli",
+    "warna bahasa",
+    "warna bunyi",
+    "warna cempaka",
+    "warna dasar",
+    "warna delima",
+    "warna dingin",
+    "warna hangat",
+    "warna intravital",
+    "warna komplementer",
+    "warna kontras",
+    "warna koral",
+    "warna kromatik",
+    "warna lokal",
+    "warna nada",
+    "warna netral",
+    "warna primer",
+    "warna primer aditif",
+    "warna primer subtraktif",
+    "warna sari",
+    "warna sawo matang",
+    "warna sejuk",
+    "warna sekunder",
+    "warna soga",
+    "warna tersier",
+    "warna utama",
+    "warna warta"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "spesies, karakter, bentuk, corak, rona, figur, macam",
+    "kataAsal": "varṇa"
+  },
+  "data": [
+    {
+      "lema": "war.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesan yang diperoleh mata dari cahaya yang dipantulkan oleh benda-benda yang dikenainya; corak rupa, seperti biru dan hijau: dia sering memakai baju yang biru --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kasta; golongan; tingkatan (dalam masyarakat): masyarakat Hindu membagi manusia menjadi empat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "corak; ragam (sifat sesuatu): usaha partai itu tidak jelas --nya"
+        }
+      ]
+    }
+  ]
+}

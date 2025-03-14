@@ -1,0 +1,34 @@
+{
+  "istilah": "ruwat",
+  "entri": "ru.wat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meruwat",
+    "peruwat",
+    "ruwatan"
+  ],
+  "gabunganKata": [
+    "ruwat pekarangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "membuat tidak berdaya, hancur, binasa (kejahatan, kutuk, pengaruh jahat, dan lain-lain)",
+    "kataAsal": "ruwat"
+  },
+  "data": [
+    {
+      "lema": "ru.wat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pulih kembali sebagai keadaan semula (tentang jadi-jadian, orang kena tulah)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terlepas (bebas) dari nasib buruk yang akan menimpa (tentang orang yang menurut kepercayaan akan tertimpa nasib buruk, misalnya anak tunggal)"
+        }
+      ]
+    }
+  ]
+}

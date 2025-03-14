@@ -1,0 +1,32 @@
+{
+  "istilah": "hinggap",
+  "entri": "hing.gap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menghinggapi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "abu saja tak hinggap; hinggap bak langau, titik bak hujan; mara hinggap mara terbang, enggang lalu ranting patah; terbang bertumpu hinggap mencekam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hing.gap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertengger setelah terbang (tentang burung): burung itu terbang, kemudian -- di jendela"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menimpa (tentang penyakit dan sebagainya); menjangkit (tentang noda, api, cacat, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "tip",
+  "entri": "tip1",
+  "bentukTidakBaku": "tips",
+  "kataTurunan": [
+    "mengetip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tip1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "persen (kepada pelayan restoran, pengangkat koper di bandar udara, pelayan hotel, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tip2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengetip"
+        }
+      ]
+    },
+    {
+      "lema": "tip3 bentuk tidak baku: tips",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saran, nasihat, atau petunjuk praktis dan bermanfaat untuk melakukan sesuatu: -- memasak santan agar tidak pecah"
+        }
+      ]
+    }
+  ]
+}

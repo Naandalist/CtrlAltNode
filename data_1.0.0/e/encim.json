@@ -1,0 +1,28 @@
+{
+  "istilah": "encim",
+  "entri": "en.cim /êncim/bentuk tidak baku: cim",
+  "bentukTidakBaku": "cim",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "bibi; istri adik laki-laki ayah",
+    "kataAsal": "án chím"
+  },
+  "data": [
+    {
+      "lema": "en.cim /êncim/bentuk tidak baku: cim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perempuan keturunan Cina yang sudah bersuami"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada perempuan keturunan Cina yang sudah bersuami"
+        }
+      ]
+    }
+  ]
+}

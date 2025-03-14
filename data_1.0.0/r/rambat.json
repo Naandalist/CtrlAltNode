@@ -1,0 +1,41 @@
+{
+  "istilah": "rambat",
+  "entri": "ram.bat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merambat",
+    "merambatkan",
+    "perambat",
+    "perambatan",
+    "rambatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "seperti biji saga rambat di atas talam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sejenis bangunan atau ruangan terbuka",
+    "kataAsal": "rambat"
+  },
+  "data": [
+    {
+      "lema": "ram.bat1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merambat"
+        }
+      ]
+    },
+    {
+      "lema": "ram.bat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tempat atau bagian rumah yang lebih tinggi sedikit, biasanya untuk tempat menerima tamu"
+        }
+      ]
+    }
+  ]
+}

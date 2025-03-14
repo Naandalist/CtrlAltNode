@@ -1,0 +1,30 @@
+{
+  "istilah": "wangsa",
+  "entri": "wang.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kewangsaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "keluarga, klan, ras garis keturunan",
+    "kataAsal": "vaṃśa"
+  },
+  "data": [
+    {
+      "lema": "wang.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "keturunan raja; keluarga raja: -- Syailendra"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bangsa"
+        }
+      ]
+    }
+  ]
+}

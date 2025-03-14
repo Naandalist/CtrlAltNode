@@ -1,0 +1,39 @@
+{
+  "istilah": "kayak",
+  "entri": "ka.yak1 bentuk tidak baku: kaya2",
+  "bentukTidakBaku": "kaya2",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kayak air tenang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "seperti, nampaknya seolah-olah seperti",
+    "kataAsal": "kayaI"
+  },
+  "data": [
+    {
+      "lema": "ka.yak1 bentuk tidak baku: kaya2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "seperti; sebagai"
+        }
+      ]
+    },
+    {
+      "lema": "ka.yak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu kecil orang Eskimo yang dibungkus kulit hewan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "perahu kecil (dengan seorang atau dua orang pendayung) untuk lomba mendayung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "penuturan",
+  "entri": "tutur1 » pe.nu.tur.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tutur1 » pe.nu.tur.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, cara, perbuatan menuturkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberitaan; pembicaraan; uraian tentang suatu hal"
+        }
+      ]
+    },
+    {
+      "lema": "tutur3 » pe.nu.tur.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "keturunan"
+        }
+      ]
+    }
+  ]
+}

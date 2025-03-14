@@ -1,0 +1,36 @@
+{
+  "istilah": "defensi",
+  "entri": "de.fen.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "defensi afirmatif",
+    "defensi kegilaan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.fen.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -]",
+          "deskripsi": "pembelaan"
+        }
+      ]
+    },
+    {
+      "lema": "de.fen.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "proses alam bawah sadar seseorang untuk menghindarkan dirinya dari kecemasan, dipermalukan, tidak percaya diri, dan lain-lain, termasuk bentuk penipuan terhadap diri sendiri"
+        }
+      ]
+    }
+  ]
+}

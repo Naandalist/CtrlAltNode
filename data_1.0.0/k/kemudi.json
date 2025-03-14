@@ -1,0 +1,44 @@
+{
+  "istilah": "kemudi",
+  "entri": "ke.mu.di /kêmudi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkemudi",
+    "mengemudi",
+    "mengemudikan",
+    "pengemudi"
+  ],
+  "gabunganKata": [
+    "kemudi bundar",
+    "kemudi cawat",
+    "kemudi haluan",
+    "kemudi sepak"
+  ],
+  "peribahasa": [
+    "patah kemudi dengan bamnya; patah kemudi dengan ebamnya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kemudi",
+    "kataAsal": "kamuḍi"
+  },
+  "data": [
+    {
+      "lema": "ke.mu.di /kêmudi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkakas pada kendaraan (mobil, pesawat terbang, kapal, dan sebagainya) yang gunanya untuk mengatur arah perjalanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pemimpin (pengurus, pengatur arah) pada perserikatan, pemerintahan, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] ki[kiasan]",
+          "deskripsi": "pusar-pusar bulu (pada kuda)"
+        }
+      ]
+    }
+  ]
+}

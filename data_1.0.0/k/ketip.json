@@ -1,0 +1,48 @@
+{
+  "istilah": "ketip",
+  "entri": "ke.tip1 /kêtip/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengetip",
+    "pengetip",
+    "seketip",
+    "berketap-ketip",
+    "ketap-ketip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.tip1 /kêtip/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gigitan binatang kecil (seperti agas, nyamuk)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.tip2 /kêtip/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mata uang yang nilainya sama dengan sepersepuluh rupiah atau sepuluh sen; picis"
+        }
+      ]
+    },
+    {
+      "lema": "ke.tip3 /kêtip/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelip yang berlangsung cepat (tentang benda yang kecil); kedip"
+        }
+      ]
+    }
+  ]
+}

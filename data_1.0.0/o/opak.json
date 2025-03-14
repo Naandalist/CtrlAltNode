@@ -1,0 +1,56 @@
+{
+  "istilah": "opak",
+  "entri": "o.pak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengopak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "opak"
+  },
+  "data": [
+    {
+      "lema": "o.pak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan goreng, dibuat dari ubi kayu yang digiling dan dibumbui, dibentuk bundar dan pipih, dijemur hingga kering"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerupuk yang terbuat dari ketan dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "o.pak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengopak"
+        }
+      ]
+    },
+    {
+      "lema": "o.pak3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "legap"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tertembus oleh radiasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan yang tidak dapat ditembus oleh cahaya"
+        }
+      ]
+    }
+  ]
+}

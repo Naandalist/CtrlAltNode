@@ -1,0 +1,33 @@
+{
+  "istilah": "caplok",
+  "entri": "cap.lok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencaplok",
+    "pencaplok",
+    "pencaplokan",
+    "tercaplok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cap.lok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ambil"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tangkap"
+        }
+      ]
+    }
+  ]
+}

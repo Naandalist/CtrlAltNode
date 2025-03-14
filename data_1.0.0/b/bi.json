@@ -1,0 +1,46 @@
+{
+  "istilah": "bi",
+  "entri": "bi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sapaan untuk adik perempuan ibu atau ayah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "bibi"
+        }
+      ]
+    },
+    {
+      "lema": "BI1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "bahasa Indonesia"
+        }
+      ]
+    },
+    {
+      "lema": "BI2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Bank Indonesia (bank sentral Republik Indonesia)"
+        }
+      ]
+    }
+  ]
+}

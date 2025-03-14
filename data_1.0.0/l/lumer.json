@@ -1,0 +1,33 @@
+{
+  "istilah": "lumer",
+  "entri": "lu.mer",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melumer",
+    "melumerkan",
+    "pelumer",
+    "pelumeran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menuju ke arah, mengarah kepada",
+    "kataAsal": "lumer"
+  },
+  "data": [
+    {
+      "lema": "lu.mer",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "encer; leleh: baja hanya dapat dicetak dalam keadaan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "mau menurut; tidak bersikeras lagi: setelah dinasihati, akhirnya -- juga hatinya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "rabu",
+  "entri": "ra.bu2",
+  "bentukTidakBaku": "Rebo",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hari ke-4 dalam jangka waktu satu minggu",
+    "kataAsal": "arbi‘ā’"
+  },
+  "data": [
+    {
+      "lema": "ra.bu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "paru-paru"
+        }
+      ]
+    },
+    {
+      "lema": "Ra.bu1 bentuk tidak baku: Rebo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari ke-4 dalam jangka waktu satu minggu"
+        }
+      ]
+    }
+  ]
+}

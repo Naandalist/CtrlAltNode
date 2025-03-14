@@ -1,0 +1,33 @@
+{
+  "istilah": "pelantaran",
+  "entri": "lantar1 » pe.lan.ta.ran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lantar1 » pe.lan.ta.ran",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perantaraan"
+        }
+      ]
+    },
+    {
+      "lema": "lantar2 » pe.lan.tar.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelantar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "tekik",
+  "entri": "te.kik1 /têkik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ditekik",
+    "menekik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "lunak disudu, keras tekik"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.kik1 /têkik/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menekik"
+        }
+      ]
+    },
+    {
+      "lema": "te.kik2 /têkik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bengkarung; kadal: -- besar banyak terdapat di semak-semak"
+        }
+      ]
+    }
+  ]
+}

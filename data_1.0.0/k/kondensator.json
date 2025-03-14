@@ -1,0 +1,32 @@
+{
+  "istilah": "kondensator",
+  "entri": "kon.den.sa.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.den.sa.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "alat untuk mengubah uap menjadi benda cair atau embun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "peranti penghimpun tenaga listrik; kapasitor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "lensa pada pesawat optik untuk menghimpun cahaya"
+        }
+      ]
+    }
+  ]
+}

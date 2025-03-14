@@ -1,0 +1,47 @@
+{
+  "istilah": "kacar",
+  "entri": "ka.car1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengacar",
+    "mengacar"
+  ],
+  "gabunganKata": [
+    "kacar lakum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.car1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kail untuk menangkap cumi-cumi dan sebagainya (biasanya tidak memakai kawat tajam, melainkan memakai bulu dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ka.car2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengacar"
+        }
+      ]
+    },
+    {
+      "lema": "ka.car3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kacar lakum"
+        }
+      ]
+    }
+  ]
+}

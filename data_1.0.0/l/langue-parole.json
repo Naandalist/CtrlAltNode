@@ -1,0 +1,33 @@
+{
+  "istilah": "langue-parole",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Pr[Prancis: -]",
+          "deskripsi": "dua konsep yang digunakan untuk membedakan bahasa sebagai sistem bentuk dan kontras yang tersimpan di dalam akal budi pemakai bahasa (langue) dan bahasa sebagai perbuatan berbicara oleh seorang individu pada waktu tertentu (parole)"
+        }
+      ]
+    },
+    {
+      "lema": "langue-parole",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Prancis: -]",
+          "deskripsi": "dua konsep yang digunakan untuk membedakan bahasa sebagai sistem bentuk dan kontras yang tersimpan di dalam akal budi pemakai bahasa (langue) dan bahasa sebagai perbuatan berbicara oleh seorang individu pada waktu tertentu (parole)"
+        }
+      ]
+    }
+  ]
+}

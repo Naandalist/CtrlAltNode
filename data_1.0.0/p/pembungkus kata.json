@@ -1,0 +1,24 @@
+{
+  "istilah": "pembungkus kata",
+  "entri": "bungkus » pembungkus » pembungkus kata",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bungkus » pembungkus » pembungkus kata",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "kemampuan program pemroses kata atau program penyuntingan teks untuk memecah baris teks secara otomatis agar tetap berada dalam batas tepi halaman atau jendela dokumen tanpa harus menekan tombol enter"
+        }
+      ]
+    }
+  ]
+}

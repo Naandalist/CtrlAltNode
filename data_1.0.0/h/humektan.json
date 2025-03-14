@@ -1,0 +1,28 @@
+{
+  "istilah": "humektan",
+  "entri": "hu.mek.tan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hu.mek.tan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelembap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "bahan kimia yang mampu menurunkan aktivitas air dalam makanan dengan menurunkan tekanan uap, misalnya garam, gula, dan gliserol"
+        }
+      ]
+    }
+  ]
+}

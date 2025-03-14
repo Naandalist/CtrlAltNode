@@ -1,0 +1,46 @@
+{
+  "istilah": "mimik",
+  "entri": "mi.mik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mi.mik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peniruan dengan gerak-gerik anggota badan dan raut muka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "bentuk pertunjukan teatrikal tanpa kata-kata yang diucapkan, makna disampaikan hanya melalui gerakan dan gestur"
+        }
+      ]
+    },
+    {
+      "lema": "mi.mik2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "makan; termimik-mimik"
+        }
+      ]
+    },
+    {
+      "lema": "mi.mik3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Jw[Jawa: -]",
+          "deskripsi": "minum (bahasa anak-anak)"
+        }
+      ]
+    }
+  ]
+}

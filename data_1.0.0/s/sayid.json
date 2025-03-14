@@ -1,0 +1,28 @@
+{
+  "istilah": "sayid",
+  "entri": "sa.yid bentuk tidak baku: said",
+  "bentukTidakBaku": "said",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tuan",
+    "kataAsal": "sayyid"
+  },
+  "data": [
+    {
+      "lema": "sa.yid bentuk tidak baku: said",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada orang Arab keturunan Nabi Muhammad saw.; tuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang Arab keturunan Nabi Muhammad saw."
+        }
+      ]
+    }
+  ]
+}

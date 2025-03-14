@@ -1,0 +1,51 @@
+{
+  "istilah": "cang",
+  "entri": "cang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "penganan berupa nasi ketan",
+    "kataAsal": "tsàng"
+  },
+  "data": [
+    {
+      "lema": "cang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi yang nyaring dan melengking"
+        }
+      ]
+    },
+    {
+      "lema": "cang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang dibuat dari nasi ketan yang dibumbui, diisi daging cacah, dibungkus dengan daun bambu seperti lepat dan dikukus, rasanya gurih; bacang"
+        }
+      ]
+    },
+    {
+      "lema": "cang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "jaring besar untuk menangkap ikan"
+        }
+      ]
+    },
+    {
+      "lema": "cang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kata sapaan untuk kakak dari  ayah atau ibu; uak"
+        }
+      ]
+    }
+  ]
+}

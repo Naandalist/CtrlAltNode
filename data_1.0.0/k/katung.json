@@ -1,0 +1,38 @@
+{
+  "istilah": "katung",
+  "entri": "ka.tung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengatung",
+    "terkatung-katung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "tersingit-singit bagai katung di bawah reba"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.tung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyu〔Dermochelys coriacea〕"
+        }
+      ]
+    },
+    {
+      "lema": "ka.tung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengatung; terkatung-katung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "mengidam",
+  "entri": "idam1 » meng.i.dam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "idam1 » meng.i.dam",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ingin sekali mengecap sesuatu (ketika hamil muda): istrinya sedang ~, ingin sekali makan durian, padahal belum musimnya"
+        }
+      ]
+    },
+    {
+      "lema": "idam2 » meng.i.dam",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mengidap; menderita (sakit dan sebagainya): banyak ternak ~ penyakit yang tidak dikenal oleh para dokter hewan"
+        }
+      ]
+    }
+  ]
+}

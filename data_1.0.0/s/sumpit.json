@@ -1,0 +1,63 @@
+{
+  "istilah": "sumpit",
+  "entri": "sum.pit1",
+  "bentukTidakBaku": "cupitsupit1",
+  "kataTurunan": [
+    "menyumpit",
+    "penyumpit",
+    "penyumpitan",
+    "sumpitan",
+    "tersumpit",
+    "sumpit-sumpit",
+    "sumpit-sumpit"
+  ],
+  "gabunganKata": [
+    "sumpit sekali pakai"
+  ],
+  "peribahasa": [
+    "menegakkan sumpit tak berisi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sum.pit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumpitan"
+        }
+      ]
+    },
+    {
+      "lema": "sum.pit2 bentuk tidak baku: cupit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menyuap makanan berupa batangan (dari kayu dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "sum.pit3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang dapat hidup di air tawar dan payau, berukuran kurang lebih 30 cm, bertubuh pipih dengan rahang menonjol dan memiliki garis hitam vertikal di tubuhnya, mampu menyemprotkan air ke arah mangsa di atas permukaan air dengan jarak 1–2 meter〔Toxotes jaculatrix〕"
+        }
+      ]
+    },
+    {
+      "lema": "sum.pit4 bentuk tidak baku: supit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karung dari anyaman pandan dan sebagainya (tempat beras dan sebagainya): -- beras; -- garam"
+        }
+      ]
+    }
+  ]
+}

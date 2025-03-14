@@ -1,0 +1,28 @@
+{
+  "istilah": "mujahadat",
+  "entri": "mu.ja.ha.dat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perang melawan nafsu",
+    "kataAsal": "mujāhadah"
+  },
+  "data": [
+    {
+      "lema": "mu.ja.ha.dat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perang membela agama Islam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "usaha menahan hawa nafsu"
+        }
+      ]
+    }
+  ]
+}

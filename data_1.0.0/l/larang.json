@@ -1,0 +1,41 @@
+{
+  "istilah": "larang",
+  "entri": "la.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "larangan",
+    "melarang",
+    "melarangkan",
+    "pelarangan",
+    "terlarang"
+  ],
+  "gabunganKata": [
+    "larang catat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.rang1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "larangan; melarang; melarangkan; pelarangan; terlarang"
+        }
+      ]
+    },
+    {
+      "lema": "la.rang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "jarang: Paman -- sekali mengunjungi Nenek"
+        }
+      ]
+    }
+  ]
+}

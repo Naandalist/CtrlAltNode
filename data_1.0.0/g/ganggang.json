@@ -1,0 +1,61 @@
+{
+  "istilah": "ganggang",
+  "entri": "gang.gang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berganggang",
+    "mengganggang",
+    "berganggang",
+    "mengganggang",
+    "mengganggangkan"
+  ],
+  "gabunganKata": [
+    "ganggang air tawar",
+    "ganggang biru",
+    "ganggang cokelat",
+    "ganggang hijau",
+    "ganggang kersik",
+    "ganggang kuning",
+    "ganggang laut",
+    "ganggang merah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sejenis tumbuh-tumbuhan air tawar (rumput air) bertangkai panjang",
+    "kataAsal": "gaṅgěṅ"
+  },
+  "data": [
+    {
+      "lema": "gang.gang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "taruh di atas api"
+        }
+      ]
+    },
+    {
+      "lema": "gang.gang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sela-sela di antara dua barang; celah: ia mengintip dari -- pintu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "renggang; tidak rapat: persahabatan mereka makin --"
+        }
+      ]
+    },
+    {
+      "lema": "gang.gang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aneka ragam jenis tanaman yang terdapat di pantai, terutama pantai berkarang dan berombak besar, digunakan sebagai sumber bahan makanan atau bahan lain"
+        }
+      ]
+    }
+  ]
+}

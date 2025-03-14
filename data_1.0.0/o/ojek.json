@@ -1,0 +1,43 @@
+{
+  "istilah": "ojek",
+  "entri": "o.jek1",
+  "bentukTidakBaku": "ojeg",
+  "kataTurunan": [
+    "mengojek",
+    "mengojekkan",
+    "pengojek"
+  ],
+  "gabunganKata": [
+    "ojek daring",
+    "ojek konvensional",
+    "ojek pangkalan",
+    "ojek payung",
+    "ojek turis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.jek1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "ojok"
+        }
+      ]
+    },
+    {
+      "lema": "o.jek2 bentuk tidak baku: ojeg",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepeda atau sepeda motor yang ditambangkan dengan cara memboncengkan penumpang atau penyewanya"
+        }
+      ]
+    }
+  ]
+}

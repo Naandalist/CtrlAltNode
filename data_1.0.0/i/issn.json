@@ -1,0 +1,24 @@
+{
+  "istilah": "issn",
+  "entri": "ISSN",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ISSN",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -] sing[singkatan]",
+          "deskripsi": "sistem penomoran internasional suatu terbitan untuk memudahkan registrasi; dari International Standard Serial Number"
+        }
+      ]
+    }
+  ]
+}

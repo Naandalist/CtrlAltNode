@@ -1,0 +1,31 @@
+{
+  "istilah": "gantol",
+  "entri": "gan.tol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gantolan",
+    "menggantol"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gan.tol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kait"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mencuri arus listrik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "fitofarmaka",
+  "entri": "fi.to.far.ma.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.to.far.ma.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan yang diteliti untuk keperluan pengobatan sehingga didapatkan manfaat baru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Far[Farmasi dan Farmakologi: -]",
+          "deskripsi": "obat tradisional dari bahan alami yang pembuatannya terstandarkan dan memenuhi kriteria ilmiah"
+        }
+      ]
+    }
+  ]
+}

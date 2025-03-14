@@ -1,0 +1,62 @@
+{
+  "istilah": "tepung",
+  "entri": "te.pung /têpung/bentuk tidak baku: tapung2",
+  "bentukTidakBaku": "tapung2",
+  "kataTurunan": [
+    "bertepung",
+    "menepung",
+    "penepungan"
+  ],
+  "gabunganKata": [
+    "tepung almon",
+    "tepung aren",
+    "tepung beras",
+    "tepung darah",
+    "tepung gandum hitam",
+    "tepung gaplek",
+    "tepung gula",
+    "tepung hasil ikan",
+    "tepung ikan",
+    "tepung jagung",
+    "tepung kanji",
+    "tepung kentang",
+    "tepung ketan",
+    "tepung kustar",
+    "tepung larut",
+    "tepung limfa",
+    "tepung panir",
+    "tepung peternakan",
+    "tepung premiks",
+    "tepung roti",
+    "tepung sagu",
+    "tepung sari",
+    "tepung tabur",
+    "tepung tapioka",
+    "tepung telur",
+    "tepung tulang",
+    "tepung utuh"
+  ],
+  "peribahasa": [
+    "bagai menghela rambut dalam tepung; tepung kena ragi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.pung /têpung/bentuk tidak baku: tapung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang lumat-lumat (karena ditumbuk, digiling, dan sebagainya): -- beras; -- gandum; -- jagung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serbuk yang lumat; bubukan: -- cat bubukan untuk cat"
+        }
+      ]
+    }
+  ]
+}

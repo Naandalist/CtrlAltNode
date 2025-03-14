@@ -1,0 +1,38 @@
+{
+  "istilah": "ungkapan",
+  "entri": "ungkap1 » ung.kap.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "ungkapan analitis",
+    "ungkapan penghubung",
+    "ungkapan penghubung antarkalimat",
+    "ungkapan penghubung intrakalimat",
+    "ungkapan surat-menyurat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ungkap1 » ung.kap.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "apa-apa yang diungkapkan: ~ kedua saksi itu benar adanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kelompok kata atau gabungan kata yang menyatakan makna khusus (makna unsur-unsurnya sering kali menjadi kabur)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "gerak mata (tangan dan sebagainya), perubahan air muka yang menyatakan perasaan hati"
+        }
+      ]
+    }
+  ]
+}

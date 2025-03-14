@@ -1,0 +1,28 @@
+{
+  "istilah": "endemik",
+  "entri": "en.de.mik /endêmik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.de.mik /endêmik/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan penyakit yang muncul dalam wilayah tertentu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan spesies organisme yang terbatas pada wilayah geografis tertentu"
+        }
+      ]
+    }
+  ]
+}

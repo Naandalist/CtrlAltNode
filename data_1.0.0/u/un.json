@@ -1,0 +1,33 @@
+{
+  "istilah": "un",
+  "entri": "UN1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "UN1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Perserikatan Bangsa-Bangsa; dari United Nations"
+        }
+      ]
+    },
+    {
+      "lema": "UN2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujian nasional"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "cawis",
+  "entri": "ca.wis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "telah siap tersedia",
+    "kataAsal": "cawis"
+  },
+  "data": [
+    {
+      "lema": "ca.wis",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Jw[Jawa: -]",
+          "deskripsi": "sedia, tersedia"
+        }
+      ]
+    }
+  ]
+}

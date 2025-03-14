@@ -1,0 +1,38 @@
+{
+  "istilah": "sambil",
+  "entri": "sam.bil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyambilkan",
+    "sambilan",
+    "tersambil"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "berkayuh sambil ke hilir; berlayar sambil memapan; ke sungai sambil mandi; merapat sambil berlayar (berlayar sambil memapan); sambil berdendang biduk hilir; sambil berdiang, nasi masak; sambil menyelam minum air; sambil menyelam minum air; sambil menyeruduk (menyuruk) galas lalu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dan pada waktu yang sama, sambil",
+    "kataAsal": "sambil"
+  },
+  "data": [
+    {
+      "lema": "sam.bil",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata penghubung untuk menandai peristiwa atau perbuatan bersamaan; seraya; sembari: ia berkata -- menyerahkan bungkusan itu"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "dengan: kita berolahraga -- berlari"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "sementara: -- bekerja, saya menawarkan barang dagangan kepada kawan-kawan"
+        }
+      ]
+    }
+  ]
+}

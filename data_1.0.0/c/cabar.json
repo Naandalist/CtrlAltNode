@@ -1,0 +1,39 @@
+{
+  "istilah": "cabar",
+  "entri": "ca.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kecabaran",
+    "mencabarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pengecut, penakut",
+    "kataAsal": "cabar"
+  },
+  "data": [
+    {
+      "lema": "ca.bar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "hilang dayanya; tidak manjur (tentang guna-guna dan sebagainya): keampuhan aji-aji itu akan -- manakala terdengar ayam berkokok"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tawar (tentang hati, keberanian)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kurang ingat; lalai; lengah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kurang (tidak) hemat; boros: orang yang -- tidak akan kaya"
+        }
+      ]
+    }
+  ]
+}

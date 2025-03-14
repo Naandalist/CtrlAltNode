@@ -1,0 +1,28 @@
+{
+  "istilah": "pusparagam",
+  "entri": "pus.pa.ra.gam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "warna, nada, harmoni, lagu, corak, melodi; nafsu, gairah; badan",
+    "kataAsal": "rāga"
+  },
+  "data": [
+    {
+      "lema": "pus.pa.ra.gam",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "berwarna-warna; aneka warna"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kumpulan berbagai-bagai lagu (musik)"
+        }
+      ]
+    }
+  ]
+}

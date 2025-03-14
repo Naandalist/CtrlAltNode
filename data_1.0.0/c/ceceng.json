@@ -1,0 +1,24 @@
+{
+  "istilah": "ceceng",
+  "entri": "ce.ceng /cêceng/bentuk tidak baku: seceng",
+  "bentukTidakBaku": "seceng",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "seribu",
+    "kataAsal": "chi̍t chheng"
+  },
+  "data": [
+    {
+      "lema": "ce.ceng /cêceng/bentuk tidak baku: seceng",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Cn[Cina: -]",
+          "deskripsi": "seribu"
+        }
+      ]
+    }
+  ]
+}

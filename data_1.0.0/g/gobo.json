@@ -1,0 +1,33 @@
+{
+  "istilah": "gobo",
+  "entri": "go.bo",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "go.bo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jp[Jepang: -] Bot[Botani: -]",
+          "deskripsi": "umbi tanaman yang bentuknya bulat memanjang, seperti wortel, berdaun besar, biasanya untuk bahan campuran sup〔Arctium lappa〕"
+        }
+      ]
+    },
+    {
+      "lema": "go.bo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "material perlengkapan lampu yang digunakan untuk mengubah bentuk atau pola pancaran cahaya"
+        }
+      ]
+    }
+  ]
+}

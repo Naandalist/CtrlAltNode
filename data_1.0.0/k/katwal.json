@@ -1,0 +1,28 @@
+{
+  "istilah": "katwal",
+  "entri": "kat.wal bentuk tidak baku: ketual",
+  "bentukTidakBaku": "ketual",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kat.wal bentuk tidak baku: ketual",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pegawai polisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "komisaris polisi"
+        }
+      ]
+    }
+  ]
+}

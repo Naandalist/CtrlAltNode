@@ -1,0 +1,24 @@
+{
+  "istilah": "kata asli",
+  "entri": "kata1 » kata asli",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kata1 » kata asli",
+      "arti": [
+        {
+          "kelas_kata": "Ling[Linguistik: -]",
+          "deskripsi": "kata yang berkembang dari perbendaharaan asli suatu bahasa dan bukan kata pinjaman"
+        }
+      ]
+    }
+  ]
+}

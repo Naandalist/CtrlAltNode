@@ -1,0 +1,36 @@
+{
+  "istilah": "zalir",
+  "entri": "za.lir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kezaliran"
+  ],
+  "gabunganKata": [
+    "zalir encer",
+    "zalir ideal",
+    "zalir kental",
+    "zalir sempurna",
+    "zalir serebrospinal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "za.lir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "cairan dan gas fase bahan yang hanya mampu menopang tekanan isotropik seragam tanpa mengalami erotasi atau distorsi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat yang dapat mengalir dan mengalah terhadap setiap gaya yang berusaha mengubah bentuk zat tanpa mengubah volumenya, seperti air dan udara; zat alir; fluida"
+        }
+      ]
+    }
+  ]
+}

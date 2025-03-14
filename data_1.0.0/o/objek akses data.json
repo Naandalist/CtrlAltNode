@@ -1,0 +1,24 @@
+{
+  "istilah": "objek akses data",
+  "entri": "objek » objek akses data",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "objek » objek akses data",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "antarmuka pemrograman yang disediakan dengan berbagai aplikasi pangkalan data yang memungkinkan pengembang untuk mengakses sumber data"
+        }
+      ]
+    }
+  ]
+}

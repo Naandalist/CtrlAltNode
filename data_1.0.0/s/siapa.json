@@ -1,0 +1,42 @@
+{
+  "istilah": "siapa",
+  "entri": "si.a.pa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "siapa-siapa"
+  ],
+  "gabunganKata": [
+    "siapa lagi",
+    "siapa lu siapa gua",
+    "siapa pula",
+    "siapa pun",
+    "siapa saja"
+  ],
+  "peribahasa": [
+    "barang siapa menggali lubang, ia akan terperosok ke dalamnya; barang siapa yang berketuk, ialah yang bertelur; dalam laut boleh diajuk, dalam hati siapa tahu; siapa berkotek, siapa bertelur; siapa cepat, dia dapat; siapa gatal, dialah menggaruk; siapa lama tahan, menang; siapa makan lada, ialah berasa pedas; siapa melejang, siap patah; siapa melejang, siapa patah (siapa melalah, siapa patah; siapa menyuruk, siapa bungkuk); siapa menjala, siapa terjun; siapa pun jadi raja, tanganku ke dahi juga; siapa sakit, siapa menyiuk; siapa yang gatal, dialah yang menggaruk; siapa yang makan cabai, dialah yang berasa pedas (kepedasan); tuah ayam boleh dilihat, tuah manusia siapa tahu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "siapa",
+    "kataAsal": "syapa"
+  },
+  "data": [
+    {
+      "lema": "si.a.pa",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk menanyakan nomina insan: anak -- dia?; adik -- yang nakal itu?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata untuk menanyakan nama orang: -- namamu?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "seseorang yang tidak tentu: -- yang datang disambut dengan baik"
+        }
+      ]
+    }
+  ]
+}

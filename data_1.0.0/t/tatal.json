@@ -1,0 +1,37 @@
+{
+  "istilah": "tatal",
+  "entri": "ta.tal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tertatal"
+  ],
+  "gabunganKata": [
+    "tatal ketam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bagian kecil potongan kayu yang tipis-tipis, kepingan kayu tipis, tatal",
+    "kataAsal": "tatal"
+  },
+  "data": [
+    {
+      "lema": "ta.tal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serpih-serpih kayu yang ditarah (diketam); sampah yang tipis-tipis: -- ketam"
+        }
+      ]
+    },
+    {
+      "lema": "ta.tal2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tertatal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "sompret",
+  "entri": "som.pret",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "som.pret",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "trompet"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kata untuk memaki (mendamprat dan sebagainya); kata makian"
+        }
+      ]
+    }
+  ]
+}

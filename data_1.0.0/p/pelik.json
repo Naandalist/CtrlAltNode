@@ -1,0 +1,45 @@
+{
+  "istilah": "pelik",
+  "entri": "pe.lik1 /pêlik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepelikan",
+    "memperpelik",
+    "terpelik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jenis hiasan telinga",
+    "kataAsal": "pělik"
+  },
+  "data": [
+    {
+      "lema": "pe.lik1 /pêlik/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jarang ada; aneh; tidak biasa: peneliti itu mencari barang yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "amat indah: itu adalah suatu kisah yang -- dalam hidupnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat rumit; sulit: soal yang --"
+        }
+      ]
+    },
+    {
+      "lema": "pe.lik2 /pêlik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kerabu; subang kecil"
+        }
+      ]
+    }
+  ]
+}

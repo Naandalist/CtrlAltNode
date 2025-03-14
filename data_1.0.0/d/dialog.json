@@ -1,0 +1,41 @@
+{
+  "istilah": "dialog",
+  "entri": "di.a.log",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdialog",
+    "mendialogkan"
+  ],
+  "gabunganKata": [
+    "dialog bantuan",
+    "dialog batin",
+    "dialog horizontal",
+    "dialog interaktif",
+    "dialog internal",
+    "dialog pemancing",
+    "dialog pribadi",
+    "dialog vertikal",
+    "dialog wisata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.a.log",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "percakapan (dalam sandiwara, cerita, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karya tulis yang disajikan dalam bentuk percakapan antara dua tokoh atau lebih"
+        }
+      ]
+    }
+  ]
+}

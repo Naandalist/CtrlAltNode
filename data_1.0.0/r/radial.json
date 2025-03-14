@@ -1,0 +1,37 @@
+{
+  "istilah": "radial",
+  "entri": "ra.di.al1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.di.al1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan sinar atau seperti sinar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan atau menyerupai jari-jari lingkaran"
+        }
+      ]
+    },
+    {
+      "lema": "ra.di.al2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis ban luar mobil yang alur kembangnya membuat ban memiliki daya cengkeram yang lebih baik"
+        }
+      ]
+    }
+  ]
+}

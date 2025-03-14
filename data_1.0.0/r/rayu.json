@@ -1,0 +1,45 @@
+{
+  "istilah": "rayu",
+  "entri": "ra.yu1",
+  "bentukTidakBaku": "rayun",
+  "kataTurunan": [
+    "merayu",
+    "merayukan",
+    "terayu",
+    "merayu",
+    "merayu-rayu",
+    "perayu",
+    "rayuan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.yu1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mempunyai perasaan iba (sedih dan sebagainya); pilu hati; rawan hati"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merasa pilu; terharu"
+        }
+      ]
+    },
+    {
+      "lema": "ra.yu2 bentuk tidak baku: rayun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hiburan atau bujukan (janji muluk dan sebagainya) untuk menyenangkan hati: hatinya tidak tergoda oleh bujuk --"
+        }
+      ]
+    }
+  ]
+}

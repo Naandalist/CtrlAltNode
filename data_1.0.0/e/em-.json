@@ -1,0 +1,46 @@
+{
+  "istilah": "em-",
+  "entri": "en-2 varian: em-",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en-2 varian: em-",
+      "arti": [
+        {
+          "kelas_kata": "prefiks[- : -]",
+          "deskripsi": "di dalam: ensefalon"
+        },
+        {
+          "kelas_kata": "prefiks[- : -]",
+          "deskripsi": "ke dalam: embargo"
+        }
+      ]
+    },
+    {
+      "lema": "-em-1 /-êm-/",
+      "arti": [
+        {
+          "kelas_kata": "infiks pembentuk numeralia[- : -]",
+          "deskripsi": "kumpulan (banyak, aneka): gemunung; temali"
+        }
+      ]
+    },
+    {
+      "lema": "-em-2 /-êm-/",
+      "arti": [
+        {
+          "kelas_kata": "infiks pembentuk adjektiva[- : -]",
+          "deskripsi": "berulang-ulang atau terus-menerus: gemerlap"
+        }
+      ]
+    }
+  ]
+}

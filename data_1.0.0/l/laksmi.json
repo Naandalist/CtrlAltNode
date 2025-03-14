@@ -1,0 +1,33 @@
+{
+  "istilah": "laksmi",
+  "entri": "lak.smi2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kecantikan, martabat, kemuliaan, kekayaan, (dilambangkan sebagai dewi kemakmuran dan kecantikan, istri Dewa Wisnu)",
+    "kataAsal": "lakṣmī"
+  },
+  "data": [
+    {
+      "lema": "lak.smi2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "elok; molek; cantik"
+        }
+      ]
+    },
+    {
+      "lema": "Lak.smi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama dewi (Batari Laksmi) istri Batara Wisnu"
+        }
+      ]
+    }
+  ]
+}

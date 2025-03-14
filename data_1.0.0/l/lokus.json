@@ -1,0 +1,32 @@
+{
+  "istilah": "lokus",
+  "entri": "lo.kus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lokus gen",
+    "lokus kendali",
+    "lokus kontrol sehat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.kus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bagian atau tempat pada kromosom yang diduduki oleh gen; lokus gen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "tempat kedudukan titik-titik atau himpunan titik yang koordinatnya memenuhi persamaan"
+        }
+      ]
+    }
+  ]
+}

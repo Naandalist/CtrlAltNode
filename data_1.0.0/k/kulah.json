@@ -1,0 +1,56 @@
+{
+  "istilah": "kulah",
+  "entri": "ku.lah1 bentuk tidak baku: kolah",
+  "bentukTidakBaku": "kolah",
+  "kataTurunan": [
+    "kulah-kulah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "cari:",
+    "kataAsal": "qullah"
+  },
+  "data": [
+    {
+      "lema": "ku.lah1 bentuk tidak baku: kolah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menyimpan air yang dibuat dari batu; bak air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kamar mandi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kolam kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran banyaknya air yang menggenang yang dapat digunakan untuk mencuci dan berwudu (dua kulah ialah banyaknya air yang menurut ukuran 1,25 hasta panjang, lebar, dan tinggi): dibuat bak tempat wudu yang lebih besar yang isinya lebih dari dua --"
+        }
+      ]
+    },
+    {
+      "lema": "ku.lah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kulah-kulah"
+        }
+      ]
+    },
+    {
+      "lema": "ku.lah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis pohon mangga"
+        }
+      ]
+    }
+  ]
+}

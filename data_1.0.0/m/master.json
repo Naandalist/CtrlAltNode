@@ -1,0 +1,55 @@
+{
+  "istilah": "master",
+  "entri": "mas.ter1 /mastêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "masteran",
+    "memaster",
+    "memasterkan",
+    "pemaster",
+    "pemasteran"
+  ],
+  "gabunganKata": [
+    "master internasional",
+    "master kicauan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mas.ter1 /mastêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memimpin orang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang utama, yang paling tinggi (pandai, cakap, dan sebagainya) di antara yang lain; juara (olahraga catur): dari sekian puluh jago catur, hanya satu dua orang yang menjadi --"
+        }
+      ]
+    },
+    {
+      "lema": "mas.ter2 /mastêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "acuan untuk pencetakan lebih lanjut; disket yang menjadi dasar untuk memperbanyak rekaman"
+        }
+      ]
+    },
+    {
+      "lema": "mas.ter3 /mastêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "magister"
+        }
+      ]
+    }
+  ]
+}

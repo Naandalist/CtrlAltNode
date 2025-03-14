@@ -1,0 +1,43 @@
+{
+  "istilah": "limas",
+  "entri": "li.mas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "limasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "wadah makanan (cf Melayu “mangkuk atau gayung dari daun palma atau seludang”, yang digunakan untuk minum, mandi, dan sebagainya)",
+    "kataAsal": "limas"
+  },
+  "data": [
+    {
+      "lema": "li.mas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "takir yang dibuat dari upih pinang, daun pisang, dan sebagainya, yang dilipat berbentuk corong (bulat) untuk tempat air, gulai, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "merunjung ke atas (tentang bentuk atap bangunan, seperti bentuk piramida)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda ruang yang alasnya berbentuk segitiga (segi empat dan sebagainya) dan bidang sisinya berbentuk segitiga dengan titik puncak yang berimpit"
+        }
+      ]
+    },
+    {
+      "lema": "li.mas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Plb[Palembang: -]",
+          "deskripsi": "rumah adat Palembang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "talak",
+  "entri": "ta.lak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menalak"
+  ],
+  "gabunganKata": [
+    "talak bain",
+    "talak dua",
+    "talak satu",
+    "talak tiga"
+  ],
+  "peribahasa": [
+    "bercerai sudah, talak tidak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perceraian antara suami dan istri; lepasnya ikatan perkawinan",
+    "kataAsal": "ṭalāq"
+  },
+  "data": [
+    {
+      "lema": "ta.lak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "perceraian antara suami dan istri; lepasnya ikatan perkawinan"
+        }
+      ]
+    }
+  ]
+}

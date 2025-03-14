@@ -1,0 +1,36 @@
+{
+  "istilah": "pedang",
+  "entri": "pe.dang /pêdang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpedang",
+    "memedang"
+  ],
+  "gabunganKata": [
+    "pedang anggar",
+    "pedang bara",
+    "pedang jenawi",
+    "pedang kehormatan",
+    "pedang samurai",
+    "pedang setiabu"
+  ],
+  "peribahasa": [
+    "kena pedang bermata dua; menepik mata pedang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pedang",
+    "kataAsal": "pěḍaṅ"
+  },
+  "data": [
+    {
+      "lema": "pe.dang /pêdang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "parang panjang (banyak macamnya seperti -- bentuk, -- lurus, -- ekor pari)"
+        }
+      ]
+    }
+  ]
+}

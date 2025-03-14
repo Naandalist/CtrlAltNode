@@ -1,0 +1,41 @@
+{
+  "istilah": "cas",
+  "entri": "cas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengecas",
+    "mengecaskan",
+    "casan",
+    "mengecas",
+    "mengecaskan",
+    "pengecas",
+    "pengecasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan dengan saling memegang atau mengangkat kaki untuk menjatuhkan lawan"
+        }
+      ]
+    },
+    {
+      "lema": "cas2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengisi daya listrik"
+        }
+      ]
+    }
+  ]
+}

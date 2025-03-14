@@ -1,0 +1,36 @@
+{
+  "istilah": "logistik",
+  "entri": "lo.gis.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.gis.tik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengadaan, perawatan, distribusi, dan penyediaan (untuk mengganti) perlengkapan, perbekalan, dan ketenagaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segi ilmu kemiliteran mengenai pengadaan, perawatan, dan transportasi peralatan, pembekalan, dan pasukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -]",
+          "deskripsi": "segala persiapan dan tindakan yang diperlukan untuk memperlengkapi pasukan dengan alat dan perbekalan agar dapat bertempur dalam kondisi yang paling baik dan menguntungkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -]",
+          "deskripsi": "penanganan seluk-beluk operasi militer"
+        }
+      ]
+    }
+  ]
+}

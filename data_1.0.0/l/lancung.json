@@ -1,0 +1,42 @@
+{
+  "istilah": "lancung",
+  "entri": "lan.cung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelancungan",
+    "lancungan",
+    "melancung",
+    "melancungkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.cung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tulen; palsu; tiruan: uang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak jujur; curang: perbuatan yang --"
+        }
+      ]
+    },
+    {
+      "lema": "lan.cung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lancong"
+        }
+      ]
+    }
+  ]
+}

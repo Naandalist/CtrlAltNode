@@ -1,0 +1,44 @@
+{
+  "istilah": "beta",
+  "entri": "be.ta1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbeta"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ta1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "saya (digunakan orang-orang besar pada zaman dahulu dalam cerita klasik Melayu), penyair dalam karya sastra masa kemudian, atau masyarakat di Maluku"
+        }
+      ]
+    },
+    {
+      "lema": "be.ta2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-2 abjad Yunani"
+        }
+      ]
+    },
+    {
+      "lema": "be.ta3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mu[Muna: -]",
+          "deskripsi": "sarung pengantin laki-laki"
+        }
+      ]
+    }
+  ]
+}

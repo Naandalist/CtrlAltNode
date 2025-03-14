@@ -1,0 +1,28 @@
+{
+  "istilah": "malik",
+  "entri": "ma.lik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemilik kekuasaan",
+    "kataAsal": "malik"
+  },
+  "data": [
+    {
+      "lema": "ma.lik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "orang yang empunya; orang yang memiliki; tuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "raja: -- Ibrahim"
+        }
+      ]
+    }
+  ]
+}

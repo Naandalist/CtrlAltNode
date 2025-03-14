@@ -1,0 +1,62 @@
+{
+  "istilah": "dapat",
+  "entri": "da.pat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdapat",
+    "berpendapat",
+    "berpendapatan",
+    "dapatan",
+    "kedapatan",
+    "keterdapatan",
+    "memperdapat",
+    "mendapat",
+    "mendapati",
+    "mendapatkan",
+    "pendapat",
+    "pendapatan",
+    "sedapat",
+    "sedapat-dapatnya",
+    "sedapatnya",
+    "sependapat",
+    "terdapat"
+  ],
+  "gabunganKata": [
+    "dapat hati"
+  ],
+  "peribahasa": [
+    "angin tak dapat ditangkap, asap tak dapat digenggam; bagai menyesah kain dapat; belalang dapat menuai; berebut buluh tamiang hanyut, tangan luka buluh tamiang tak dapat; biar telinga rabit, asal dapat bersubang; bingung tak dapat diajar, cerdik tak dapat diikuti; dapat durian runtuh; dapat kijang teruit; dapat tebu rebah; dekat dapat ditunjal, jauh dapat ditunjuk; dengan sesendok madu dapat lebih banyak ditangkap serangga daripada dengan cuka sesendok; habis umpan, kerong tak dapat; ikan belum dapat, airnya sudah keruh; ikan biar dapat, serampang jangan pokah; ikan biar dapat, serampang jangan pukah; isi lemak dapat ke orang, tulang bulu pulang ke kita; jauh dapat ditunjuk, dekat dapat ditunjal; jikalau di hulu airnya keruh, tak dapat tidak di hilirnya keruh juga; ke gunung tak dapat angin; kerbau seratus dapat digembalakan, manusia seorang tiada terkawal; kodok dapat bunga sekuntum; mahal dibeli, sukar dijual (mahal tak dapat dibeli, murah tak dapat diminta); mati gajah tidak dapat belalainya, mati harimau tidak dapat belangnya; mulut kapuk dapat ditutup, mulut orang tidak; pukat terlabuh, ikan tak dapat; rezeki elang tak akan dapat (dimakan) oleh musang (burung pipit); sebagai kera dapat canggung; sendok berdengar-dengar, nasi habis budi dapat; sepasin dapat bersiang; siapa cepat, dia dapat; seperti cembul dengan tutupnya (dapat tutupnya); seperti kera dapat bunga; sudah dapat gading bertuah, tanduk tiada berguna lagi; tali busur tidak selamanya dapat diregang; tanduk di kepala tak dapat digelengkan; telah dapat gading bertuah, terbuang tanduk kerbau mati; tersesak undang kepada yang runcing, tiada dapat bertenggang lagi; tohok raja tidak dapat dielakkan; tuba habis, ikan tak dapat; utang emas dapat dibayar, utang budi dibawa mati; yang dikandung berceceran, yang dikejar tiada dapat; yang dikejar tiada dapat, yang dikandung berceceran; yang dikejar tidak dapat, yang dikandung berceceran"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.pat",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "mampu; sanggup; bisa: serangan musuh tidak -- ditahan; isi hatinya tidak -- kita ketahui"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menerima; memperoleh: pemuda yang membacok temannya itu -- hukuman penjara tiga bulan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ditemukan; tertangkap dan sebagainya: ke mana pun dicarinya, anting itu tidak -- juga; cari mereka sampai --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhasil; tercapai (maksudnya dan sebagainya): mudah-mudahan -- juga apa yang engkau cita-citakan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "datang bulan; haid: dia terlihat murung, mungkin karena lagi --"
+        }
+      ]
+    }
+  ]
+}

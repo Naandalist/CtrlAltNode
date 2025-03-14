@@ -1,0 +1,35 @@
+{
+  "istilah": "kesatria",
+  "entri": "ke.sat.ri.a /kêsatria/bentuk tidak baku: ksatria, satria",
+  "bentukTidakBaku": "ksatria, satria",
+  "kataTurunan": [
+    "kekesatriaan",
+    "kesatriaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.sat.ri.a /kêsatria/bentuk tidak baku: ksatria, satria",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satu dari empat golongan dalam catur warna, yaitu golongan bangsawan dan prajurit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengayom, penegak, dan pembela kebenaran dalam agama Hindu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang (prajurit, perwira) yang gagah berani; pemberani"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "vitalitas",
+  "entri": "vi.ta.li.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vi.ta.li.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemampuan untuk bertahan hidup; daya hidup: aku harus mempertahankan diriku sebagai lelaki perkasa, penuh --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kehidupan (dalam seni, sastra, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "daya hidup suatu bahasa yang ditunjukkan oleh eksistensi dan intensitas penggunaannya  dalam berbagai konteks sosial"
+        }
+      ]
+    }
+  ]
+}

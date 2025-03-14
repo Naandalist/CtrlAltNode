@@ -1,0 +1,33 @@
+{
+  "istilah": "canasta",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Sp[Spanyol: -]",
+          "deskripsi": "permainan kartu, variasi dari remi"
+        }
+      ]
+    },
+    {
+      "lema": "canasta",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Spanyol: -]",
+          "deskripsi": "permainan kartu, variasi dari remi"
+        }
+      ]
+    }
+  ]
+}

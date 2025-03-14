@@ -1,0 +1,33 @@
+{
+  "istilah": "lengkara",
+  "entri": "leng.ka.ra1 /lêngkara/bentuk tidak baku: langkara1",
+  "bentukTidakBaku": "langkara1langkara2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sesuatu yang menakjubkan atau memesona, bentuk yang fantastik",
+    "kataAsal": "lěngkara"
+  },
+  "data": [
+    {
+      "lema": "leng.ka.ra1 /lêngkara/bentuk tidak baku: langkara1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tidak mungkin ada; tidak boleh jadi; mustahil"
+        }
+      ]
+    },
+    {
+      "lema": "leng.ka.ra2 /lêngkara/bentuk tidak baku: langkara2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tabuh; beduk (gendang besar); nekara"
+        }
+      ]
+    }
+  ]
+}

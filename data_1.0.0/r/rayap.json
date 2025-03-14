@@ -1,0 +1,52 @@
+{
+  "istilah": "rayap",
+  "entri": "ra.yap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merayap",
+    "merayap",
+    "merayapi",
+    "rayapan",
+    "terayap-rayap"
+  ],
+  "gabunganKata": [
+    "rayap bermoncong",
+    "rayap karet",
+    "rayap kayu",
+    "rayap pekerja",
+    "rayap prajurit",
+    "rayap tanah"
+  ],
+  "peribahasa": [
+    "merayap-rayap seperti kangkung di ulak jamban"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.yap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serangga (seperti semut) yang hidup berkelompok, menyukai tempat yang gelap, lembap, dan hangat, memakan kayu sehingga dapat menyebabkan kerusakan pada bangunan dan struktur kayu, dan merupakan hama bagi kehidupan manusia; rayap tanah; semut putih; anai-anai; rangas; julur2〔Termitoidae〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang mengeruk kantong orang lain"
+        }
+      ]
+    },
+    {
+      "lema": "ra.yap2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merayap"
+        }
+      ]
+    }
+  ]
+}

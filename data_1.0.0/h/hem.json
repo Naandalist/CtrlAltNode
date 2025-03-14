@@ -1,0 +1,42 @@
+{
+  "istilah": "hem",
+  "entri": "hem1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hem1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemeja"
+        }
+      ]
+    },
+    {
+      "lema": "hem2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "protein porfirin yang mengandung besi yang apabila bergabung dengan protein globin akan membentuk hemoglobin atau mioglobin"
+        }
+      ]
+    },
+    {
+      "lema": "hem /hêm/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk menyatakan geram dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

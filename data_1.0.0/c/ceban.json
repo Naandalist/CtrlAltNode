@@ -1,0 +1,24 @@
+{
+  "istilah": "ceban",
+  "entri": "ce.ban /cêban/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "sepuluh ribu",
+    "kataAsal": "chi̍t bān"
+  },
+  "data": [
+    {
+      "lema": "ce.ban /cêban/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] Cn[Cina: -]",
+          "deskripsi": "sepuluh ribu"
+        }
+      ]
+    }
+  ]
+}

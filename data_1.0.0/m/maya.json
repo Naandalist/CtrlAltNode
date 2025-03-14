@@ -1,0 +1,44 @@
+{
+  "istilah": "maya",
+  "entri": "ma.ya1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemayaan",
+    "memayakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "halusinasi, ilusi, tak nyata",
+    "kataAsal": "māyā"
+  },
+  "data": [
+    {
+      "lema": "ma.ya1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hanya tampaknya ada, tetapi nyatanya tidak ada; hanya ada dalam angan-angan; khayalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "merujuk pada fitur atau peranti yang tidak benar-benar ada, disimulasikan oleh komputer dan dapat digunakan oleh pengguna seolah-olah memang ada"
+        }
+      ]
+    },
+    {
+      "lema": "Ma.ya2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku Indian yang mendiami Amerika bagian tengah dan Meksiko yang mencatat puncak kejayaan pada abad ke-15"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Kabupaten Raja Ampat, Papua; Salawati; Samate; Sailolof"
+        }
+      ]
+    }
+  ]
+}

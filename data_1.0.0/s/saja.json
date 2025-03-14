@@ -1,0 +1,46 @@
+{
+  "istilah": "saja",
+  "entri": "sa.ja bentuk tidak baku: sahaja1",
+  "bentukTidakBaku": "sahaja1",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "abu saja tak hinggap; sedatar saja lurah dengan bukit"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "orisinal, natural, biasa",
+    "kataAsal": "sahaja"
+  },
+  "data": [
+    {
+      "lema": "sa.ja bentuk tidak baku: sahaja1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "melulu (tiada lain hanya; semata-mata): barang ini untuk contoh --, tidak untuk dijual"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "juga; pun (untuk menyatakan tidak tentu): asal bermaksud baik siapa -- boleh datang ke rumahku"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "selalu; terus-menerus: mengapa semalaman anakmu menangis --?"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "seenaknya; sesuka hati: tanpa diperiksa lebih dahulu, dibawa -- orang itu ke kantor polisi"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "lebih baik (sebagai anjuran): sudahlah, pulang --, tidak usah ikut menjaga adikmu di rumah sakit"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sekali (sebagai penegas): perkara itu dapat diselesaikannya dengan mudah --"
+        }
+      ]
+    }
+  ]
+}

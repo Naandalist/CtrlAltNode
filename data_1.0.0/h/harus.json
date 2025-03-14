@@ -1,0 +1,41 @@
+{
+  "istilah": "harus",
+  "entri": "ha.rus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keharusan",
+    "mengharuskan",
+    "seharusnya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.rus1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "patut"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "wajib; mesti (tidak boleh tidak): kalau dia tidak datang, kau -- menggantikannya"
+        }
+      ]
+    },
+    {
+      "lema": "ha.rus2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "boleh dilakukan dan boleh juga ditinggalkan; jaiz; mubah: hal yang demikian itu hukumnya --"
+        }
+      ]
+    }
+  ]
+}

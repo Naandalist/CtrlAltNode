@@ -1,0 +1,32 @@
+{
+  "istilah": "elevasi",
+  "entri": "e.le.va.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "elevasi jalan",
+    "elevasi surut",
+    "elevasi titik nol barometer"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.le.va.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketinggian suatu tempat terhadap daerah sekitarnya (di atas permukaan laut)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketinggian atau sudut tinggi suatu benda langit di atas horizon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "istilah": "gagal",
+  "entri": "ga.gal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kegagalan",
+    "menggagalkan",
+    "penggagal",
+    "penggagalan"
+  ],
+  "gabunganKata": [
+    "gagal bayar",
+    "gagal ginjal",
+    "gagal ginjal akut",
+    "gagal ginjal intrinsik",
+    "gagal ginjal kronis",
+    "gagal ginjal pascarenal",
+    "gagal ginjal prerenal",
+    "gagal jantung",
+    "gagal napas",
+    "gagal terbang",
+    "gagal total",
+    "gagal tumbuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.gal",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak berhasil; tidak tercapai (maksudnya): keinginannya untuk menjadi juara --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak jadi: tahun ini panen --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Olr[Olahraga: -]",
+          "deskripsi": "melakukan kesalahan pukulan servis, ditandai dengan terlemparnya bola ke luar daerah servis yang dituju"
+        }
+      ]
+    }
+  ]
+}

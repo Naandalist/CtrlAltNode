@@ -1,0 +1,33 @@
+{
+  "istilah": "sasi",
+  "entri": "sa.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bulan"
+        }
+      ]
+    },
+    {
+      "lema": "sa.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Aln[Alune: bahasa di Maluku, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "larangan untuk mengambil barang atau hasil sumber daya alam karena telah didoakan sampai batas waktu yang telah ditentukan sebagai upaya pelestarian sumber daya alam"
+        }
+      ]
+    }
+  ]
+}

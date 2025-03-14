@@ -1,0 +1,44 @@
+{
+  "istilah": "dislokasi",
+  "entri": "dis.lo.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "dislokasi kanan",
+    "dislokasi kiri",
+    "dislokasi kredit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dis.lo.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perubahan atau pemindahan lokasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "perenggangan persendian pada patah tulang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "pergeseran lapisan tanah karena gerakan tektonis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -]",
+          "deskripsi": "pemindahan atau penyebaran kesatuan militer dari suatu pangkalan atau pertahanan ke daerah lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pemindahan unsur kalimat ke awal (sebagai topik) atau ke akhir kalimat (sebagai penegasan)"
+        }
+      ]
+    }
+  ]
+}

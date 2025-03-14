@@ -1,0 +1,41 @@
+{
+  "istilah": "pirau",
+  "entri": "pi.rau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpirau",
+    "berpirau-pirau",
+    "memirau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.rau1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berwarna abu-abu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kabur (tentang penglihatan)"
+        }
+      ]
+    },
+    {
+      "lema": "pi.rau2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berpirau; berpirau-pirau; memirau"
+        }
+      ]
+    }
+  ]
+}

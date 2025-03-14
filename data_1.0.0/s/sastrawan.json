@@ -1,0 +1,34 @@
+{
+  "istilah": "sastrawan",
+  "entri": "sas.tra.wan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesastrawanan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kata ganti milik",
+    "kataAsal": "vat"
+  },
+  "data": [
+    {
+      "lema": "sas.tra.wan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli sastra"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pujangga; pengarang prosa dan puisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(orang) pandai-pandai; cerdik cendekia"
+        }
+      ]
+    }
+  ]
+}

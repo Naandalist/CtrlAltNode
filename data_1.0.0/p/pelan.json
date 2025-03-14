@@ -1,0 +1,38 @@
+{
+  "istilah": "pelan",
+  "entri": "pe.lan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memelan",
+    "memelankan",
+    "pelan-pelan",
+    "terpelan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.lan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "tanah lapang; lapangan (bola dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "pe.lan /pêlan/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bergerak dan sebagainya dengan perlahan-lahan; lambat"
+        }
+      ]
+    }
+  ]
+}

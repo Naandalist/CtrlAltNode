@@ -1,0 +1,33 @@
+{
+  "istilah": "tintir",
+  "entri": "tin.tir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tin.tir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lampu minyak tanah; pelita"
+        }
+      ]
+    },
+    {
+      "lema": "tin.tir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "obat merah; merkurokrom"
+        }
+      ]
+    }
+  ]
+}

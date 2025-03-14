@@ -1,0 +1,69 @@
+{
+  "istilah": "tara",
+  "entri": "ta.ra1",
+  "bentukTidakBaku": "tarra",
+  "kataTurunan": [
+    "bertara",
+    "kesetaraan",
+    "menarakan",
+    "menyetarakan",
+    "penyetara",
+    "penyetaraan",
+    "setara",
+    "tertara"
+  ],
+  "gabunganKata": [
+    "tara air salju",
+    "tara lengas"
+  ],
+  "peribahasa": [
+    "sumbing melukai, retak melampaui tara (garis)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "akhiran perbandingan Sanskerta digunakan dengan arti “sangat”",
+    "kataAsal": "tara"
+  },
+  "data": [
+    {
+      "lema": "ta.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang sama (tingkatnya, kedudukannya, dan sebagainya); banding(an); imbangan: tiada --nya; sukar dicari --nya; -- banding(an)nya tidak ada bandingannya"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ra2 bentuk tidak baku: tarra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selisih antara berat bruto dan neto: berat bruto 100 kg, neto 90 kg, -- 10 kg"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potongan harga barang yang dinyatakan dengan persen (uang, bobot) dengan pengganti pembungkusnya (petinya dan sebagainya): tiap peti diperhitungkan --nya 5%"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ra3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat dari kayu yang berpaku untuk membuat garis pada kayu"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ra4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambaran; angan-angan; imaji: mereka sudah dikuasai oleh -- bahwa Pulau Bali memang sangat indah dan memesona"
+        }
+      ]
+    }
+  ]
+}

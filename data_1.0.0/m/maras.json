@@ -1,0 +1,46 @@
+{
+  "istilah": "maras",
+  "entri": "ma.ras1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "khawatir, cemas, gelisah, takut",
+    "kataAsal": "maras"
+  },
+  "data": [
+    {
+      "lema": "ma.ras1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ketakutan; sangat khawatir"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ras2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perundingan antara dua keluarga mengenai perkawinan anak-anaknya (di daerah Batak)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk perkawinan endogami (di Pulau Buru)"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ras3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mn[Minahasa: -]",
+          "deskripsi": "membuka tanah"
+        }
+      ]
+    }
+  ]
+}

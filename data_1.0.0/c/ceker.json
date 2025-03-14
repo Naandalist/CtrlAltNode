@@ -1,0 +1,35 @@
+{
+  "istilah": "ceker",
+  "entri": "ce.ker1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menceker"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.ker1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cakar (1) (tentang unggas)"
+        }
+      ]
+    },
+    {
+      "lema": "ce.ker2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kikir; pelit"
+        }
+      ]
+    }
+  ]
+}

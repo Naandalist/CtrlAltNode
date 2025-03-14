@@ -1,0 +1,36 @@
+{
+  "istilah": "merek",
+  "entri": "me.rek /merêk/bentuk tidak baku: merk",
+  "bentukTidakBaku": "merk",
+  "kataTurunan": [
+    "bermerek"
+  ],
+  "gabunganKata": [
+    "merek air",
+    "merek dagang",
+    "merek eksklusif",
+    "merek kambangan",
+    "merek perusahaan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.rek /merêk/bentuk tidak baku: merk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda yang dikenakan oleh pengusaha (pabrik, produsen, dan sebagainya) pada barang yang dihasilkan sebagai tanda pengenal; cap (tanda) yang menjadi pengenal untuk menyatakan nama dan sebagainya: pisau ini tidak ada --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kegagahan; keunggulan; kualitas"
+        }
+      ]
+    }
+  ]
+}

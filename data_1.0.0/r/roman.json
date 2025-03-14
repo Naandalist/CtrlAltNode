@@ -1,0 +1,63 @@
+{
+  "istilah": "roman",
+  "entri": "ro.man1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "roman berangsur",
+    "roman bertendens",
+    "roman detektif",
+    "roman kodian",
+    "roman masyarakat",
+    "roman picisan",
+    "roman sejarah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.man1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rupa muka; wajah: -- gadis itu seperti ibunya"
+        }
+      ]
+    },
+    {
+      "lema": "ro.man2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karangan prosa yang melukiskan perbuatan pelakunya menurut watak dan isi jiwa masing-masing: -- lebih banyak membawa sifat-sifat zamannya daripada drama atau puisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(cerita) percintaan"
+        }
+      ]
+    },
+    {
+      "lema": "ro.man3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekam (padi); tangkai padi (merang)"
+        }
+      ]
+    },
+    {
+      "lema": "ro.man4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat huruf"
+        }
+      ]
+    }
+  ]
+}

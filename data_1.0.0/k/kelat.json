@@ -1,0 +1,68 @@
+{
+  "istilah": "kelat",
+  "entri": "ke.lat1 /kêlat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengelati",
+    "pengelat",
+    "terkelat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.lat1 /kêlat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "tali besar berpilin empat, dibuat dari sabut kelapa atau rami untuk tali-temali perahu"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lat2 /kêlat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sepat (berasa seperti rasa pinang, salak mentah, pisang mentah)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lat3 /kêlat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang keras kayunya, banyak macamnya seperti kelat api, kelat kuning, kelat merah〔Eugenia〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu kelat"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lat4 /kêlat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lekat: setelah matanya mulai --, mereka berhenti berbual"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lat5 /kêlat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "senyawa kimia logam dan nonlogam, biasanya organik, atom-atomnya berkombinasi"
+        }
+      ]
+    }
+  ]
+}

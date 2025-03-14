@@ -1,0 +1,74 @@
+{
+  "istilah": "dulang",
+  "entri": "du.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dulang-dulang",
+    "mendulang",
+    "pendulang",
+    "pendulangan",
+    "mendulang",
+    "mendulang"
+  ],
+  "gabunganKata": [
+    "dulang alas",
+    "dulang pelanda",
+    "dulang rendah",
+    "dulang tinggi"
+  ],
+  "peribahasa": [
+    "bagai dulang dengan tudung saji; lain dulang lain kaki, lain orang lain hati; mengata dulang paku serpih, mengata orang awak yang lebih"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "dulaṅ"
+  },
+  "data": [
+    {
+      "lema": "du.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baki yang biasanya berbibir pada tepinya dan berkaki, dibuat dari kayu"
+        }
+      ]
+    },
+    {
+      "lema": "du.lang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "memasukkan makanan ke dalam mulut orang lain; suap"
+        }
+      ]
+    },
+    {
+      "lema": "du.lang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mendulang"
+        }
+      ]
+    },
+    {
+      "lema": "du.lang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jarak2〔Ricinus communis〕"
+        }
+      ]
+    },
+    {
+      "lema": "du.lang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kpr[Melayu Kep. Riau: ]",
+          "deskripsi": "tempat mengisi bunga rampai yang terbuat dari kayu"
+        }
+      ]
+    }
+  ]
+}

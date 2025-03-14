@@ -1,0 +1,44 @@
+{
+  "istilah": "sumbi",
+  "entri": "sum.bi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyumbi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sum.bi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkat peregang kain pada perkakas tenun (biasanya dibuat dari batang nibung)"
+        }
+      ]
+    },
+    {
+      "lema": "sum.bi2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyumbi"
+        }
+      ]
+    },
+    {
+      "lema": "sum.bi3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "alat khitan tradisional berbentuk pipa berdiameter 10 mm dengan panjang 10—15 cm, terbuat dari kayu, bambu, atau tanduk"
+        }
+      ]
+    }
+  ]
+}

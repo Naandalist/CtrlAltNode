@@ -1,0 +1,28 @@
+{
+  "istilah": "sahib",
+  "entri": "sa.hib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "teman",
+    "kataAsal": "ṣāḥib"
+  },
+  "data": [
+    {
+      "lema": "sa.hib",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "sahabat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "yang empunya; pemilik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "olah",
+  "entri": "o.lah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berolah",
+    "memperolahkan",
+    "mengolah",
+    "olah-olah",
+    "olahan",
+    "seolah-olah",
+    "mengolah",
+    "olahan",
+    "pengolah",
+    "pengolahan",
+    "terolah"
+  ],
+  "gabunganKata": [
+    "olah pesan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.lah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laku; ulah; akal (daya upaya, tipu daya): berbagai macam -- dilakukannya untuk mencapai maksudnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan: hal itu terjadi karena --nya juga; bukan -- [1] bukan buatan [2] bukan main"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkah; canda: orang itu sudah tua, tetapi masih banyak --nya"
+        }
+      ]
+    },
+    {
+      "lema": "o.lah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengolah"
+        }
+      ]
+    }
+  ]
+}

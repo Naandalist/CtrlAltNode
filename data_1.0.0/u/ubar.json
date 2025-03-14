@@ -1,0 +1,44 @@
+{
+  "istilah": "ubar",
+  "entri": "u.bar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengubar",
+    "mengubar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "ubar"
+  },
+  "data": [
+    {
+      "lema": "u.bar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang kulitnya dijadikan bahan pewarna untuk mencelup jala, jaring, dan sebagainya〔Eugenia cymosa〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan pewarna (cat) dari kulit ubar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "cat"
+        }
+      ]
+    },
+    {
+      "lema": "u.bar2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengubar"
+        }
+      ]
+    }
+  ]
+}

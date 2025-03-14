@@ -1,0 +1,37 @@
+{
+  "istilah": "cendekia",
+  "entri": "cen.de.ki.a /cêndêkia/bentuk tidak baku: cendikia",
+  "bentukTidakBaku": "cendikia",
+  "kataTurunan": [
+    "kecendekiaan",
+    "mencendekiakan",
+    "pencendekiaan",
+    "secendekia"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cen.de.ki.a /cêndêkia/bentuk tidak baku: cendikia",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tajam pikiran; lekas mengerti (kalau diberi tahu tentang sesuatu); cerdas; pandai"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cepat mengerti situasi dan pandai mencari jalan keluar (pandai menggunakan kesempatan); cerdik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terpelajar; cerdik pandai; cerdik cendekia: kaum cerdik --"
+        }
+      ]
+    }
+  ]
+}

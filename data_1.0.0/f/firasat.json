@@ -1,0 +1,36 @@
+{
+  "istilah": "firasat",
+  "entri": "fi.ra.sat bentuk tidak baku: pirasat, wirasat",
+  "bentukTidakBaku": "pirasat, wirasat",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perasaan akan terjadi sesuatu",
+    "kataAsal": "firāsah"
+  },
+  "data": [
+    {
+      "lema": "fi.ra.sat bentuk tidak baku: pirasat, wirasat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan yang dirasakan (diketahui) akan terjadi sesudah melihat gelagat: rupanya dia sudah mendapat -- bahwa tidak lama lagi polisi akan membekuknya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecakapan mengetahui (meramalkan) sesuatu dengan melihat keadaan (muka dan sebagainya): menurut --ku, ia adalah orang yang bijaksana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan tentang tanda-tanda pada badan (tangan dan sebagainya) untuk mengetahui tabiat (untung malang dan sebagainya) orang: setengah orang percaya benar kepada ilmu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan muka (mata, bibir, dan sebagainya) yang dihubung-hubungkan dengan tabiat orangnya (untuk mengetahui tabiat orang): menilik --nya orang itu keras hati sebab rambutnya tebal dan kaku"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "melesit",
+  "entri": "lesit1 » me.le.sit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "melesit hidung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lesit1 » me.le.sit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbunyi seperti bunyi peluit ditiup, jangkrik"
+        }
+      ]
+    },
+    {
+      "lema": "lesit2 » me.le.sit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memancarkan ke luar; menyemprot"
+        }
+      ]
+    },
+    {
+      "lema": "lesit3 » me.le.sit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "membuang ingus dengan memijit hidung"
+        }
+      ]
+    }
+  ]
+}

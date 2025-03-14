@@ -1,0 +1,39 @@
+{
+  "istilah": "fovea",
+  "entri": "fo.vea1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "fovea sentral"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fo.vea1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bagian kecil yang melekuk pada retina mata yang menghasilkan penglihatan yang tajam"
+        }
+      ]
+    },
+    {
+      "lema": "fo.vea2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "dasar polinia pada tanaman anggrek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cekungan pada dasar daun paku Isoetales yang mengandung sporangium"
+        }
+      ]
+    }
+  ]
+}

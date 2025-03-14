@@ -1,0 +1,37 @@
+{
+  "istilah": "mendekap",
+  "entri": "dekap1 » men.de.kap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dekap1 » men.de.kap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memeluk"
+        }
+      ]
+    },
+    {
+      "lema": "dekap2 » men.de.kap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendekat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melekat"
+        }
+      ]
+    }
+  ]
+}

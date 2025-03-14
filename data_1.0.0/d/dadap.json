@@ -1,0 +1,41 @@
+{
+  "istilah": "dadap",
+  "entri": "da.dap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "dadap ayam",
+    "dadap cangkring",
+    "dadap duri",
+    "dadap laut",
+    "dadap minyak"
+  ],
+  "peribahasa": [
+    "laksana bunga dadap, sungguh merah berbau tidak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "perisai penangkis yang sempit dan panjang",
+    "kataAsal": "ḍaḍap"
+  },
+  "data": [
+    {
+      "lema": "da.dap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama untuk berbagai jenis pohon, ada yang berduri dan ada yang tidak, bunganya merah〔Erythrina〕"
+        }
+      ]
+    },
+    {
+      "lema": "da.dap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perisai yang terbuat dari kulit atau rotan, berbentuk bulat"
+        }
+      ]
+    }
+  ]
+}

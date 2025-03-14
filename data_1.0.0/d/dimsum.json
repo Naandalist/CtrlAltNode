@@ -1,0 +1,24 @@
+{
+  "istilah": "dimsum",
+  "entri": "dim.sum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Kanton",
+    "arti": "makanan kecil",
+    "kataAsal": "dím sām"
+  },
+  "data": [
+    {
+      "lema": "dim.sum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "hidangan tradisional Cina yang terdiri atas berbagai jenis makanan, seperti pangsit atau siomai, yang dikukus atau digoreng dan disajikan dalam porsi kecil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "rinai",
+  "entri": "ri.nai1 bentuk tidak baku: ranai, renai, renyai1, rinyai",
+  "bentukTidakBaku": "ranai, renai, renyai1, rinyai",
+  "kataTurunan": [
+    "berinaian",
+    "rinai-rinai",
+    "merinai",
+    "merinaikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ri.nai1 bentuk tidak baku: ranai, renai, renyai1, rinyai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "gerimis; rintik-rintik; tetes-tetes (tentang hujan)"
+        }
+      ]
+    },
+    {
+      "lema": "ri.nai2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merinai"
+        }
+      ]
+    }
+  ]
+}

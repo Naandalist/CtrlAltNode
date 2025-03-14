@@ -1,0 +1,42 @@
+{
+  "istilah": "rang",
+  "entri": "rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bunyi atau suara dalam yang terus-menerus, suara gaduh, suara menggerutu, suara mengeluh, suara menggeram, suara mendengung, suara menderum",
+    "kataAsal": "raṅ"
+  },
+  "data": [
+    {
+      "lema": "rang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar; tulisan, dan sebagainya yang dibuat contoh (pola); buram; rancangan"
+        }
+      ]
+    },
+    {
+      "lema": "rang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi genderang; bunyi derang"
+        }
+      ]
+    },
+    {
+      "lema": "rang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Mk[Minangkabau: -]",
+          "deskripsi": "orang: -- kaya orang kaya"
+        }
+      ]
+    }
+  ]
+}

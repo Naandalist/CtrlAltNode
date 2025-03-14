@@ -1,0 +1,35 @@
+{
+  "istilah": "tajur",
+  "entri": "ta.jur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "penajur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "atap yang berbentuk piramida",
+    "kataAsal": "tajur"
+  },
+  "data": [
+    {
+      "lema": "ta.jur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tampak memanjang (menganjur)"
+        }
+      ]
+    },
+    {
+      "lema": "ta.jur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perdu yang batangnya persegi, daunnya menjantung dengan urat menyirip, perbungaannya berwarna merah kejingga-jinggaan, biasa digunakan sebagai tanaman hias〔Clerodendrum buchananii〕"
+        }
+      ]
+    }
+  ]
+}

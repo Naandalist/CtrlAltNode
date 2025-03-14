@@ -1,0 +1,43 @@
+{
+  "istilah": "keropok",
+  "entri": "ke.ro.pok1 /kêropok/",
+  "bentukTidakBaku": "keropong",
+  "kataTurunan": [
+    "sekeropok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ro.pok1 /kêropok/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "sekeropok"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ro.pok2 /kêropok/bentuk tidak baku: keropong",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada isinya; kosong"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berlubang-lubang (berongga-rongga) karena lapuk dimakan rayap (tentang kayu) atau dimakan panas (cuaca)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "lemah; lembek"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "heuristik",
+  "entri": "he.u.ris.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "he.u.ris.tik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan formulasi yang biasanya spekulatif, berfungsi sebagai panduan dalam penyelidikan atau pemecahan masalah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan metode pendidikan yang pemelajarannya berlangsung melalui penemuan berdasarkan pencarian oleh siswa atau pengalaman siswa sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seni atau ilmu yang berhubungan dengan penemuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kajian dan penerapan metode atau prosedur analitis yang dimulai dengan perkiraan yang tepat dan mengecek ulang sebelum memberi kepastian; bersifat heuristis"
+        }
+      ]
+    }
+  ]
+}

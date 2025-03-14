@@ -1,0 +1,28 @@
+{
+  "istilah": "mampis",
+  "entri": "mam.pis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mam.pis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bt[Batak: -]",
+          "deskripsi": "masih sedikit buahnya (tentang pohon)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bt[Batak: -]",
+          "deskripsi": "mengambil sisa buah pohon"
+        }
+      ]
+    }
+  ]
+}

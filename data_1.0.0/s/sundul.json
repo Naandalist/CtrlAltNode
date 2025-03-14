@@ -1,0 +1,33 @@
+{
+  "istilah": "sundul",
+  "entri": "sun.dul bentuk tidak baku: sondol",
+  "bentukTidakBaku": "sondol",
+  "kataTurunan": [
+    "menyundul",
+    "penyundul",
+    "penyundulan",
+    "sundulan",
+    "tersundul"
+  ],
+  "gabunganKata": [
+    "sundul angkasa",
+    "sundul langit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sun.dul bentuk tidak baku: sondol",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyundul"
+        }
+      ]
+    }
+  ]
+}

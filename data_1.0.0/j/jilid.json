@@ -1,0 +1,39 @@
+{
+  "istilah": "jilid",
+  "entri": "ji.lid",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjilid",
+    "berjilid-jilid",
+    "menjilid",
+    "penjilid",
+    "penjilidan"
+  ],
+  "gabunganKata": [
+    "jilid kain",
+    "jilid keras",
+    "jilid lunak",
+    "jilid spiral"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kulit",
+    "kataAsal": "jild"
+  },
+  "data": [
+    {
+      "lema": "ji.lid",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jahitan buku (majalah dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggalan atau bagian buku: buku sejarah Indonesia untuk SMP terbagi menjadi tiga --"
+        }
+      ]
+    }
+  ]
+}

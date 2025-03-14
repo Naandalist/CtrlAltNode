@@ -1,0 +1,31 @@
+{
+  "istilah": "memesan",
+  "entri": "pesan1 » me.me.san",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "memesan buku",
+    "memesan tempat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pesan1 » me.me.san",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberi pesan (nasihat, petunjuk, dan sebagainya): saya ~ dia agar segera bercukur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyuruh (meminta) supaya dikirim (disediakan, dibuatkan) sesuatu: ia ~ kopi lima gelas"
+        }
+      ]
+    }
+  ]
+}

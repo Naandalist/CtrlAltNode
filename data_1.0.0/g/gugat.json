@@ -1,0 +1,40 @@
+{
+  "istilah": "gugat",
+  "entri": "gu.gat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gugatan",
+    "menggugat",
+    "penggugat",
+    "penggugatan",
+    "tergugat",
+    "menggugat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.gat1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dakwa; adukan; tuntut"
+        }
+      ]
+    },
+    {
+      "lema": "gu.gat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "guncangan"
+        }
+      ]
+    }
+  ]
+}

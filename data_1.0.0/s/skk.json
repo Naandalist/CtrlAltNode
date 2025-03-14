@@ -1,0 +1,33 @@
+{
+  "istilah": "skk",
+  "entri": "SKK",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "SKK",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Prm[Pramuka: Usulan untuk penambahan bidang baru] sing[singkatan]",
+          "deskripsi": "syarat kecakapan khusus"
+        }
+      ]
+    },
+    {
+      "lema": "SKK2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan kerja khusus: SKK Migas"
+        }
+      ]
+    }
+  ]
+}

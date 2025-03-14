@@ -1,0 +1,51 @@
+{
+  "istilah": "sewa",
+  "entri": "se.wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersewa",
+    "mempersewakan",
+    "menyewa",
+    "menyewakan",
+    "penyewa",
+    "penyewaan",
+    "sewa-menyewa",
+    "sewaan",
+    "tersewa"
+  ],
+  "gabunganKata": [
+    "sewa beli",
+    "sewa guna usaha",
+    "sewa lanjut",
+    "sewa rahim"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pelayanan, kunjungan",
+    "kataAsal": "sevā"
+  },
+  "data": [
+    {
+      "lema": "se.wa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemakaian sesuatu dengan membayar uang: penjualan tidak membatalkan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang yang dibayarkan karena memakai atau meminjam sesuatu; ongkos; biaya pengangkutan (transpor): -- rumah makin mahal sekarang; kalau kita naik helicak dari sini, --nya mahal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang boleh dipakai setelah dibayar dengan uang: mereka berekreasi ke kebun binatang dengan memakai mobil --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "penumpang"
+        }
+      ]
+    }
+  ]
+}

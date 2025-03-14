@@ -1,0 +1,36 @@
+{
+  "istilah": "membagi",
+  "entri": "bagi2 » mem.ba.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bagi2 » mem.ba.gi",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menceraikan (memecahkan, memisahkan, membelah) menjadi beberapa bagian (yang sama): ia ~ tanah itu menjadi tiga bagian"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mat[Matematika: -]",
+          "deskripsi": "memecahkan (menyederhanakan) bilangan dengan bilangan tertentu: ia ~ bilangan 60 itu dengan 2 =(60:2)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memecahkan (sesuatu) lalu memberikannya kepada pihak lain: ia telah ~ seluruh harta pusakanya kepada ketiga orang anaknya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberikan (sebagian) untuk orang lain: dia selalu ~ keuntungannya dengan saya"
+        }
+      ]
+    }
+  ]
+}

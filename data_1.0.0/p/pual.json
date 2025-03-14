@@ -1,0 +1,48 @@
+{
+  "istilah": "pual",
+  "entri": "pu.al1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpual-pual",
+    "kepualan"
+  ],
+  "gabunganKata": [
+    "pual garis",
+    "pual pegun"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.al1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain (cita) kasa yang tipis dan halus"
+        }
+      ]
+    },
+    {
+      "lema": "pu.al2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bual"
+        }
+      ]
+    },
+    {
+      "lema": "pu.al3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "aliran yang melakukan gerakan berpusar"
+        }
+      ]
+    }
+  ]
+}

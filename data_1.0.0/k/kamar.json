@@ -1,0 +1,81 @@
+{
+  "istilah": "kamar",
+  "entri": "ka.mar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkamar"
+  ],
+  "gabunganKata": [
+    "kamar arnes",
+    "kamar baca",
+    "kamar bebas asap rokok",
+    "kamar belajar",
+    "kamar besi",
+    "kamar bola",
+    "kamar contoh",
+    "kamar dagang",
+    "kamar dingin",
+    "kamar ganda",
+    "kamar gandeng",
+    "kamar gas",
+    "kamar gelap",
+    "kamar hias",
+    "kamar insang",
+    "kamar jenazah",
+    "kamar kecil",
+    "kamar keluarga",
+    "kamar kembar",
+    "kamar kersik",
+    "kamar makan",
+    "kamar mandi",
+    "kamar mandi basah",
+    "kamar mandi kering",
+    "kamar mati",
+    "kamar mayat",
+    "kamar mesin",
+    "kamar obrol",
+    "kamar pas",
+    "kamar pengantin",
+    "kamar penuh",
+    "kamar perdata",
+    "kamar perkawinan",
+    "kamar peta",
+    "kamar peti kemas",
+    "kamar pidana",
+    "kamar susu",
+    "kamar swainap",
+    "kamar tamu",
+    "kamar terblokir",
+    "kamar terhubung",
+    "kamar tidur",
+    "kamar tripel",
+    "kamar tunggal",
+    "kamar tunggu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bulan",
+    "kataAsal": "qamar"
+  },
+  "data": [
+    {
+      "lema": "ka.mar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang yang bersekat (tertutup) dinding yang menjadi bagian rumah atau bangunan (biasanya disekat atau dibatasi empat dinding); bilik"
+        }
+      ]
+    },
+    {
+      "lema": "ka.mar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "bulan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "bisu",
+  "entri": "bi.su",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbisu",
+    "membisu"
+  ],
+  "gabunganKata": [
+    "bisu tuli"
+  ],
+  "peribahasa": [
+    "bagai si bisu berasian (bermimpi), terasa ada terkatakan tidak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pertapa, biksu, pendeta Buddha",
+    "kataAsal": "bhikṣu"
+  },
+  "data": [
+    {
+      "lema": "bi.su",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat berkata-kata (karena tidak sempurna alat percakapannya atau karena tuli sejak kecil); tunawicara"
+        }
+      ]
+    }
+  ]
+}

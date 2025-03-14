@@ -1,0 +1,32 @@
+{
+  "istilah": "main-main",
+  "entri": "main » ma.in-ma.in",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "main » ma.in-ma.in",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bermain-main; bersenang-senang dengan melakukan sesuatu: kami ~ di pasir dengan membuat lubang sumur-sumuran dan gua-guaan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melakukan sesuatu tidak dengan sungguh-sungguh; hanya berkelakar; bermain-main saja: engkau jangan ~, ini masalah penting"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "berbuat serong: belum sebulan kawin dia telah ~ dengan perempuan lain"
+        }
+      ]
+    }
+  ]
+}

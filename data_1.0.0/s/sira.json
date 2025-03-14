@@ -1,0 +1,28 @@
+{
+  "istilah": "sira",
+  "entri": "si.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kata ganti orang ketiga dalam parwa dan kakawin",
+    "kataAsal": "sira"
+  },
+  "data": [
+    {
+      "lema": "si.ra",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "engkau"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "ia; beliau"
+        }
+      ]
+    }
+  ]
+}

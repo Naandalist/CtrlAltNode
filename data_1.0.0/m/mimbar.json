@@ -1,0 +1,30 @@
+{
+  "istilah": "mimbar",
+  "entri": "mim.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mimbar tilawah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat yang tinggi untuk khatib menyampaikan pidato",
+    "kataAsal": "minbar"
+  },
+  "data": [
+    {
+      "lema": "mim.bar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panggung kecil tempat berkhotbah (berpidato)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tempat melahirkan pikiran dan menyatakan pendapat (seperti surat kabar)"
+        }
+      ]
+    }
+  ]
+}

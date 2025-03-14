@@ -1,0 +1,41 @@
+{
+  "istilah": "peraduan",
+  "entri": "adu1 » per.a.du.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "adu1 » per.a.du.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal beradu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat beradu: mereka beramai-ramai pergi ke ~ ayam"
+        }
+      ]
+    },
+    {
+      "lema": "radu » pe.ra.du.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat beristirahat; peristirahatan: tempat ~ raja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] hor[Hormat: menandai kata yang digunakan dalam ragam resmi]",
+          "deskripsi": "tempat tidur"
+        }
+      ]
+    }
+  ]
+}

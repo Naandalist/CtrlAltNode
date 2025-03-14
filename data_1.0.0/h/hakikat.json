@@ -1,0 +1,32 @@
+{
+  "istilah": "hakikat",
+  "entri": "ha.ki.kat bentuk tidak baku: hakekat",
+  "bentukTidakBaku": "hakekat",
+  "kataTurunan": [
+    "berhakikat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "syariat palu-memalu, hakikat balas-membalas"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kenyataan yang sebenarnya",
+    "kataAsal": "ḥaqīqah"
+  },
+  "data": [
+    {
+      "lema": "ha.ki.kat bentuk tidak baku: hakekat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "inti sari atau dasar: dia yang menanamkan -- ajaran Islam di hatiku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kenyataan yang sebenarnya (sesungguhnya): pada --nya mereka orang baik-baik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "limpah atas",
+  "entri": "limpah » limpah atas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "limpah » limpah atas",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "kondisi yang terjadi jika nilai yang dihasilkan suatu operasi aritmetika terlalu besar untuk disimpan pada lokasi penyimpanan data yang tersedia"
+        }
+      ]
+    }
+  ]
+}

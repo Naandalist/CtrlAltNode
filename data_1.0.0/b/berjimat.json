@@ -1,0 +1,37 @@
+{
+  "istilah": "berjimat",
+  "entri": "jimat1 » ber.ji.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jimat1 » ber.ji.mat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai jimat; memakai jimat"
+        }
+      ]
+    },
+    {
+      "lema": "jimat2 » ber.ji.mat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhemat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhati-hati; saksama"
+        }
+      ]
+    }
+  ]
+}

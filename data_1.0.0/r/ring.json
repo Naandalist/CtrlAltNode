@@ -1,0 +1,55 @@
+{
+  "istilah": "ring",
+  "entri": "ring1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ring1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi seperti bel, ‘ring-ring’"
+        }
+      ]
+    },
+    {
+      "lema": "ring2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cincin; gelang-gelang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk melakukan berbagai bentuk gerakan (dalam senam ketangkasan atau akrobatik); lingkaran dari besi yang digantungkan pada palang yang kuat (palang besi)"
+        }
+      ]
+    },
+    {
+      "lema": "ring3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arena adu tinju; gelanggang tinju: dia berhasil mendesak lawannya ke sudut --"
+        }
+      ]
+    },
+    {
+      "lema": "ring4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lingkaran: polisi telah menyiapkan empat -- pengamanan untuk mengawal demonstrasi tersebut"
+        }
+      ]
+    }
+  ]
+}

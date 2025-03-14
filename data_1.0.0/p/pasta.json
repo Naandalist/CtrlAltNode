@@ -1,0 +1,63 @@
+{
+  "istilah": "pasta",
+  "entri": "pas.ta1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpasta",
+    "berpasta"
+  ],
+  "gabunganKata": [
+    "pasta gigi",
+    "pasta cabai",
+    "pasta gnoci",
+    "pasta gula",
+    "pasta kering",
+    "pasta konsigli",
+    "pasta rigatoni",
+    "pasta roti untir",
+    "pasta rotini"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pas.ta1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat perekat yang lengket"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan farmasi berupa salep (bubur) setengah padat, pada umumnya dibungkus dalam kemasan tabung pipih, mengandung antiseptik untuk obat luar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan beracun untuk membasmi kutu atau tikus"
+        }
+      ]
+    },
+    {
+      "lema": "pas.ta2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan makanan yang dibuat dari terigu dicampur air dan telur, bentuknya bermacam-macam, ada yang pipih panjang seperti lembaran dan ada yang bulat panjang seperti pipa"
+        }
+      ]
+    },
+    {
+      "lema": "pas.ta3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "produk makanan halus yang dibuat melalui penggilingan atau penguapan: -- tomat"
+        }
+      ]
+    }
+  ]
+}

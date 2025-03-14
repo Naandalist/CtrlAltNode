@@ -1,0 +1,42 @@
+{
+  "istilah": "menukas",
+  "entri": "tukas1 » me.nu.kas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tukas1 » me.nu.kas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendakwa (menuduh) tanpa alasan yang cukup (asal menuduh saja)"
+        }
+      ]
+    },
+    {
+      "lema": "tukas2 » me.nu.kas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengulang lagi (permintaan, jawab, minum obat, panggilan, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tukas4 » me.nu.kas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghentikan (memotong dan sebagainya) perkataan atau ucapan seseorang"
+        }
+      ]
+    }
+  ]
+}

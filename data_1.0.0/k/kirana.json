@@ -1,0 +1,28 @@
+{
+  "istilah": "kirana",
+  "entri": "ki.ra.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sinar, debu",
+    "kataAsal": "kiraṇa"
+  },
+  "data": [
+    {
+      "lema": "ki.ra.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sinar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim] ki[kiasan]",
+          "deskripsi": "molek; cantik; elok"
+        }
+      ]
+    }
+  ]
+}

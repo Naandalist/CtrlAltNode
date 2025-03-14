@@ -1,0 +1,49 @@
+{
+  "istilah": "kritis",
+  "entri": "kri.tis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekritisan",
+    "mengkritis",
+    "mengkritisi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kri.tis1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam keadaan krisis, gawat; genting: keadaan pasien sangat -- karena terlampau banyak mengeluarkan darah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam keadaan yang paling menentukan berhasil atau gagalnya suatu usaha"
+        }
+      ]
+    },
+    {
+      "lema": "kri.tis2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat tidak lekas percaya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat selalu berusaha menemukan kesalahan atau kekeliruan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tajam dalam penganalisisan"
+        }
+      ]
+    }
+  ]
+}

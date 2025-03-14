@@ -1,0 +1,45 @@
+{
+  "istilah": "wasiat",
+  "entri": "wa.si.at1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berwasiat",
+    "mewasiatkan",
+    "pewasiat"
+  ],
+  "gabunganKata": [
+    "wasiat di bawah tangan",
+    "wasiat hukum",
+    "wasiat rahasia"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pesan terakhir yang disampaikan oleh orang yang akan meninggal",
+    "kataAsal": "waṣiyyah"
+  },
+  "data": [
+    {
+      "lema": "wa.si.at1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pesan terakhir yang disampaikan oleh orang yang akan meninggal (biasanya berkenaan dengan harta kekayaan dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "wa.si.at2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pusaka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dapat membuat sesuatu yang ganjil; yang bertuah; yang gaib: tongkat --"
+        }
+      ]
+    }
+  ]
+}

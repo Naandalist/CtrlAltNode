@@ -1,0 +1,53 @@
+{
+  "istilah": "relai",
+  "entri": "re.lai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merelai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.lai",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sambung siar"
+        }
+      ]
+    },
+    {
+      "lema": "re.lai1 /rêlai/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "siput mutiara"
+        }
+      ]
+    },
+    {
+      "lema": "re.lai2 /rêlai/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rusak berpisah-pisah (tentang kayu) karena lapuk dan busuk"
+        }
+      ]
+    },
+    {
+      "lema": "re.lai3 /rêlai/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "saklar eletronik yang dikendalikan oleh listrik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "buak",
+  "entri": "bu.ak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membuak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.ak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bual"
+        }
+      ]
+    },
+    {
+      "lema": "bu.ak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "tidak tetap hati, pikiran, dan sebagainya; bertingkah"
+        }
+      ]
+    }
+  ]
+}

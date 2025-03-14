@@ -1,0 +1,53 @@
+{
+  "istilah": "perkara",
+  "entri": "per.ka.ra /pêrkara/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beperkara",
+    "memerkarai",
+    "memerkarakan",
+    "memperkarai",
+    "memperkarakan"
+  ],
+  "gabunganKata": [
+    "perkara anak",
+    "perkara belakang",
+    "perkara besar",
+    "perkara sipil"
+  ],
+  "peribahasa": [
+    "habis perkara, nasi sudah menjadi bubur"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "mode, cara, bentuk, jenis",
+    "kataAsal": "prakāra"
+  },
+  "data": [
+    {
+      "lema": "per.ka.ra /pêrkara/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masalah; persoalan: ini hanya -- kecil saja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "urusan (yang perlu diselesaikan atau dibereskan): ia tersangkut -- polisi; masalah itu adalah -- saya, bukan urusanmu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tindak pidana: kedua saudagar besar itu tersangkut dalam -- penyelundupan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tentang; mengenai: sudahlah, -- uang jangan kaurisaukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "karena: perkelahian itu hanya -- uang seribu rupiah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "kancil",
+  "entri": "kan.cil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "gajah berjuang sama gajah, pelanduk (kancil) mati di tengah-tengah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kancil, Tragulus pygmaeus",
+    "kataAsal": "kañcil"
+  },
+  "data": [
+    {
+      "lema": "kan.cil1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelanduk yang berukuran paling kecil kurang lebih 0,5 m; pelanduk kancil〔Tragulus kanchil〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tokoh utama binatang yang cerdik dalam cerita rakyat di Asia Tenggara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang cerdik dan licik (banyak akal)"
+        }
+      ]
+    },
+    {
+      "lema": "kan.cil2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kendaraan angkutan bentuk kecil beroda empat hasil modifikasi dari bemo dan bajaj"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "istilah": "kantor",
+  "entri": "kan.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkantor",
+    "kantoran",
+    "perkantoran"
+  ],
+  "gabunganKata": [
+    "kantor bank",
+    "kantor belakang",
+    "kantor berita",
+    "kantor besar",
+    "kantor cabang",
+    "kantor cabang pembantu",
+    "kantor depan",
+    "kantor departemen",
+    "kantor dinas",
+    "kantor kasir",
+    "kantor kawat",
+    "kantor lelang",
+    "kantor pengadilan",
+    "kantor perwakilan",
+    "kantor polisi",
+    "kantor pos",
+    "kantor pusat",
+    "kantor tera",
+    "kantor wilayah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kan.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balai (gedung, rumah, ruang) tempat mengurus suatu pekerjaan (perusahaan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat bekerja"
+        }
+      ]
+    }
+  ]
+}

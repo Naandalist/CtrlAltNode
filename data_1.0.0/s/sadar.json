@@ -1,0 +1,61 @@
+{
+  "istilah": "sadar",
+  "entri": "sa.dar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesadaran",
+    "ketidaksadaran",
+    "menyadar",
+    "menyadari",
+    "menyadarkan",
+    "penyadaran",
+    "sadarkan",
+    "tersadar"
+  ],
+  "gabunganKata": [
+    "ketidaksadaran kolektif",
+    "sadar hukum",
+    "sadar lingkungan",
+    "sadar wisata"
+  ],
+  "peribahasa": [
+    "bintang di langit boleh dibilang, tetapi arang di muka tak sadar"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "dada; permulaan",
+    "kataAsal": "ṣadr"
+  },
+  "data": [
+    {
+      "lema": "sa.dar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "insaf; merasa; tahu dan mengerti: kita harus -- bahwa hidup ini penuh perjuangan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ingat kembali (dari pingsan dan sebagainya); siuman: orang yang pingsan tadi kini sudah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bangun (dari tidur): tengah malam dia -- dari tidurnya karena bermimpi buruk"
+        }
+      ]
+    },
+    {
+      "lema": "sa.dar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "dada; bagian depan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "permulaan; pendahuluan"
+        }
+      ]
+    }
+  ]
+}

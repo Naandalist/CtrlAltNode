@@ -1,0 +1,69 @@
+{
+  "istilah": "mal",
+  "entri": "mal1",
+  "bentukTidakBaku": "mall",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mal siber"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "harta",
+    "kataAsal": "māl"
+  },
+  "data": [
+    {
+      "lema": "mal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala atau bagian atas (dari tiang batu, kaki meja, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ganja (tentang keris)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dasar atau bagian pada pangkal (tentang bilah senjata)"
+        }
+      ]
+    },
+    {
+      "lema": "mal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "harta benda (uang, barang); khazanah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dana"
+        }
+      ]
+    },
+    {
+      "lema": "mal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cetakan jambangan keramik yang terbuat dari kayu atau seng yang tebal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pola"
+        }
+      ]
+    },
+    {
+      "lema": "mal4 bentuk tidak baku: mall",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gedung atau kelompok gedung yang berisi macam-macam toko dihubungkan oleh lorong (jalan penghubung)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "istilah": "kampuh",
+  "entri": "kam.puh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkampuh",
+    "mengampuh",
+    "pengampuhan",
+    "mengampuh"
+  ],
+  "gabunganKata": [
+    "kampuh balik",
+    "kampuh bisban",
+    "kampuh lipat",
+    "kampuh pipa",
+    "kampuh prancis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kain penutup angkong",
+    "kataAsal": "khàm pò͘"
+  },
+  "data": [
+    {
+      "lema": "kam.puh1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain selimut yang dibuat dari tiga helai kain dijahit menjadi satu: rajin sekali Ibu menjahit --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jahitan dari dua helai barang tipis (kertas, kulit buku, dan sebagainya): -- buku-buku yang sudah rusak itu akan segera diperbaiki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "jahitan yang menyatukan dua helai kain, dapat dikerjakan dengan mesin maupun tangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jarak antara garis pola atau jahitan dan tepi potongan kain"
+        }
+      ]
+    },
+    {
+      "lema": "kam.puh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "garis pertautan dua organ yang sama, misalnya antara daun dan buah"
+        }
+      ]
+    }
+  ]
+}

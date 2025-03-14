@@ -1,0 +1,43 @@
+{
+  "istilah": "susut",
+  "entri": "su.sut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyusut",
+    "menyusuti",
+    "menyusutkan",
+    "penyusut",
+    "penyusutan",
+    "susutan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.sut",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menjadi berkurang: modalnya -- karena banyak utang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengerut menjadi pendek, kecil, dan sebagainya: kain yang mutunya kurang baik -- setelah dicuci"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "turun (tentang air); surut: permukaan sungai -- setelah hujan mereda"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menjadi kurus (tentang badan): badannya menjadi -- setelah ditinggal suaminya"
+        }
+      ]
+    }
+  ]
+}

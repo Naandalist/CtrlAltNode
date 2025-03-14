@@ -1,0 +1,24 @@
+{
+  "istilah": "talmud",
+  "entri": "tal.mud",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "catatan tentang diskusi para rabi yang berkaitan dengan hukum, etika, kebiasaan, dan sejarah Yahudi",
+    "kataAsal": "talmūd"
+  },
+  "data": [
+    {
+      "lema": "tal.mud",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "catatan tentang diskusi para rabi yang berkaitan dengan hukum, etika, kebiasaan, dan sejarah Yahudi"
+        }
+      ]
+    }
+  ]
+}

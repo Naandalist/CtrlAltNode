@@ -1,0 +1,33 @@
+{
+  "istilah": "segmentasi",
+  "entri": "seg.men.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyegmentasi",
+    "menyegmentasikan"
+  ],
+  "gabunganKata": [
+    "segmentasi pasar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "seg.men.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembagian dalam segmen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembagian struktur sosial ke dalam unit-unit tertentu yang sama"
+        }
+      ]
+    }
+  ]
+}

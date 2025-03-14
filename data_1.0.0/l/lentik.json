@@ -1,0 +1,41 @@
+{
+  "istilah": "lentik",
+  "entri": "len.tik1 /lêntik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melentik",
+    "melentikkan",
+    "pelentik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "len.tik1 /lêntik/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lengkung ke atas atau ke belakang (pangkal dan ujungnya mengarah ke atas atau ke belakang, sedangkan bagian tengahnya lendut seperti rumah Minangkabau): bulu matanya panjang dan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkeluk ke atas sedikit pada ujungnya (seperti haluan perahu)"
+        }
+      ]
+    },
+    {
+      "lema": "len.tik2 /lêntik/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan air yang diam (tidak mengalir) seperti danau, empang, dan rawa"
+        }
+      ]
+    }
+  ]
+}

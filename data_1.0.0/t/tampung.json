@@ -1,0 +1,52 @@
+{
+  "istilah": "tampung",
+  "entri": "tam.pung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menampung",
+    "menampungkan",
+    "penampung",
+    "penampungan",
+    "tampungan",
+    "tertampung",
+    "bertampung",
+    "menampung",
+    "menampung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tam.pung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menampung"
+        }
+      ]
+    },
+    {
+      "lema": "tam.pung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perca dan sebagainya yang ditampalkan atau disambungkan sebagai pengganti kain yang koyak atau rusak"
+        }
+      ]
+    },
+    {
+      "lema": "tam.pung3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menampung"
+        }
+      ]
+    }
+  ]
+}

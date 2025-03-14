@@ -1,0 +1,34 @@
+{
+  "istilah": "logam",
+  "entri": "lo.gam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlogam"
+  ],
+  "gabunganKata": [
+    "logam adi",
+    "logam batas",
+    "logam berat",
+    "logam campur",
+    "logam dwivalen",
+    "logam induk",
+    "logam mulia"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "metal, tembaga, senjata, benda apapun yang terbuat dari besi",
+    "kataAsal": "loha"
+  },
+  "data": [
+    {
+      "lema": "lo.gam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mineral yang tidak tembus pandang, dapat menjadi penghantar panas dan arus listrik (misalnya besi, aluminium, nikel); metal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "pos elektronik",
+  "entri": "pos1 » pos elektronik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pos1 » pos elektronik",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "penggunaan jejaring komputer untuk mengirim dan menerima pesan"
+        },
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "untai yang mengidentifikasikan pengguna sehingga pengguna dapat menerima surat elektronik melalui internet, biasanya terdiri atas nama yang mengidentifikasi pengguna di dalam server surat, diikuti dengan tanda @ dan nama hos dan nama domain dari server surat, misalnya bunga@anggrek.com"
+        }
+      ]
+    }
+  ]
+}

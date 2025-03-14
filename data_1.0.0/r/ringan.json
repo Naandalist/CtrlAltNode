@@ -1,0 +1,56 @@
+{
+  "istilah": "ringan",
+  "entri": "ri.ngan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keringanan",
+    "memperingankan",
+    "meringankan",
+    "peringanan",
+    "teringan"
+  ],
+  "gabunganKata": [
+    "ringan kaki",
+    "ringan kepala",
+    "ringan langkah",
+    "ringan lidah",
+    "ringan mulut",
+    "ringan tangan",
+    "ringan tulang"
+  ],
+  "peribahasa": [
+    "berat sama dipikul, ringan sama dijinjing; berat sama dipikul, ringan sama dijinjing; berat sepikul, ringan sejinjing; cepat kaki, ringan tangan; ringan sama dijinjing, berat sama dipikul; ringan tulang, berat perut"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ri.ngan",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dapat diangkat dengan mudah; sedikit bobotnya; enteng: kayu ini --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak membahayakan; tidak parah: lima orang luka --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "mudah dikerjakan: pekerjaan itu -- sekali"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sedikit (tidak besar) jumlahnya: pajaknya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sebentar (tidak lama): hukumannya -- tidak berat"
+        }
+      ]
+    }
+  ]
+}

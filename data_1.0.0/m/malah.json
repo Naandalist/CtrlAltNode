@@ -1,0 +1,34 @@
+{
+  "istilah": "malah",
+  "entri": "ma.lah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "malahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bahkan, sampai pada, sampai titik, sampai, jika waktu telah tiba, akhirnya, seluruhnya (waktu), jauh ke dalam",
+    "kataAsal": "malah"
+  },
+  "data": [
+    {
+      "lema": "ma.lah",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "bahkan; makin (bertambah): setelah minum obat itu, ia tidak menjadi baik -- bertambah sakitnya"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "bahkan sebaliknya: disuruh duduk, -- berdiri"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "justru: -- kamu yang harus datang, bukan orang tuamu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "fakultatif",
+  "entri": "fa.kul.ta.tif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fa.kul.ta.tif",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak diwajibkan (tentang pelajaran, hari libur, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat pilihan; boleh memilih salah satu bidang ilmu yang sesuai dengan bakat atau minat (tentang jurusan bidang ilmu)"
+        }
+      ]
+    }
+  ]
+}

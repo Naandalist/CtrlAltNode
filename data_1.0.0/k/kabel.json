@@ -1,0 +1,45 @@
+{
+  "istilah": "kabel",
+  "entri": "ka.bel /kabêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkabel"
+  ],
+  "gabunganKata": [
+    "kabel data",
+    "kabel daya",
+    "kabel fisik",
+    "kabel keras",
+    "kabel kertas",
+    "kabel koaksial",
+    "kabel las",
+    "kabel laut",
+    "kabel listrik",
+    "kabel pintar",
+    "kabel primer",
+    "kabel serat optik",
+    "kabel tanam",
+    "kabel udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.bel /kabêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kawat (penghantar arus listrik) berbungkus karet, plastik, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kawat besar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "poros",
+  "entri": "po.ros",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berporos"
+  ],
+  "gabunganKata": [
+    "poros bubungan",
+    "poros bumi",
+    "poros engkol",
+    "poros halang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.ros",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumbu (gandar) roda dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujung (tentang tombak, tiang, kerucut, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

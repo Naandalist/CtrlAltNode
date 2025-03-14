@@ -1,0 +1,35 @@
+{
+  "istilah": "rekapitulasi",
+  "entri": "re.ka.pi.tu.la.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merekapitulasi",
+    "terekapitulasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.ka.pi.tu.la.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ringkasan; ikhtisar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ringkasan isi atau ikhtisar pada akhir laporan atau akhir hitungan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuatan perincian data yang bercampur aduk menurut kelompok utama"
+        }
+      ]
+    }
+  ]
+}

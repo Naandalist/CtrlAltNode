@@ -1,0 +1,37 @@
+{
+  "istilah": "interferensi",
+  "entri": "in.ter.fe.ren.si /intêrfêrensi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "interferensi antarsimbol",
+    "interferensi gangguan",
+    "interferensi kontekstual",
+    "interferensi radio industri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.ter.fe.ren.si /intêrfêrensi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gangguan; campur tangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "masuknya unsur serapan ke dalam bahasa lain yang bersifat melanggar kaidah gramatika bahasa yang menyerap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "interaksi dua buah gelombang yang berfrekuensi dan berfase sama besar"
+        }
+      ]
+    }
+  ]
+}

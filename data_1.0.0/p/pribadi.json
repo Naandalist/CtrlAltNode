@@ -1,0 +1,32 @@
+{
+  "istilah": "pribadi",
+  "entri": "pri.ba.di bentuk tidak baku: peribadi",
+  "bentukTidakBaku": "peribadi",
+  "kataTurunan": [
+    "berkepribadian",
+    "kepribadian",
+    "mempribadikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pri.ba.di bentuk tidak baku: peribadi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "manusia sebagai perseorangan (diri manusia atau diri sendiri): kritik itu ditujukan kepada orang itu sebagai ketua, bukannya sebagai --; pendapat -- pendapat sendiri, bukan pendapat orang lain; pengawal -- pengawal untuk diri sendiri; sekretaris --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan manusia sebagai perseorangan; keseluruhan sifat-sifat yang merupakan watak orang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "common sense",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "pendapat orang biasa yang bukan hasil pemikiran"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "penilaian yang baik dan sehat meskipun tidak terlalu bijaksana"
+        }
+      ]
+    },
+    {
+      "lema": "common sense",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "pendapat orang biasa yang bukan hasil pemikiran"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "penilaian yang baik dan sehat meskipun tidak terlalu bijaksana"
+        }
+      ]
+    }
+  ]
+}

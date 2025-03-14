@@ -1,0 +1,39 @@
+{
+  "istilah": "iseng",
+  "entri": "i.seng /isêng/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "iseng-iseng",
+    "mengisengi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.seng /isêng/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merasa menganggur (tidak ada yang perlu segera dikerjakan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(berbuat atau mengerjakan sesuatu supaya jangan menganggur) sebagai perintang-rintang waktu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mau menganggur (rewel, suka mengganggu, suka omong, suka makan apa saja, dan sebagainya): karena tangan anak-anak yang --, dinding sekolah itu penuh corat-coret"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sekadar main-main; tidak bersungguh-sungguh"
+        }
+      ]
+    }
+  ]
+}

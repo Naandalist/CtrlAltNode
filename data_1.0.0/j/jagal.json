@@ -1,0 +1,48 @@
+{
+  "istilah": "jagal",
+  "entri": "ja.gal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjagal",
+    "jagalan",
+    "menjagal",
+    "pejagalan",
+    "penjagal",
+    "penjagalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jagal",
+    "kataAsal": "jagal"
+  },
+  "data": [
+    {
+      "lema": "ja.gal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pedagang kecil (di kedai dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ja.gal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang bertugas menyembelih (memotong) binatang ternak (seperti lembu, kambing, kerbau) di rumah pemotongan hewan; pembantai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang berusaha di bidang potong-memotong hewan atau sebagai agen penjual daging hewan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pembunuh orang yang tidak bersalah"
+        }
+      ]
+    }
+  ]
+}

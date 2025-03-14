@@ -1,0 +1,28 @@
+{
+  "istilah": "kakografi",
+  "entri": "ka.ko.gra.fi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.ko.gra.fi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tulisan yang sulit dibaca"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "ejaan yang menyimpang dari ejaan yang berlaku"
+        }
+      ]
+    }
+  ]
+}

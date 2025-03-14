@@ -1,0 +1,90 @@
+{
+  "istilah": "sampai",
+  "entri": "sam.pai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkesampaian",
+    "kesampaian",
+    "ketersampaian",
+    "menyampai",
+    "menyampaikan",
+    "penyampai",
+    "penyampaian",
+    "sampai-sampai",
+    "sesampai",
+    "tersampaikan",
+    "menyampaikan",
+    "sampaian",
+    "tersampai"
+  ],
+  "gabunganKata": [
+    "sampai ajal",
+    "sampai akal",
+    "sampai akhir zaman",
+    "sampai bulannya",
+    "sampai hari kiamat",
+    "sampai hati",
+    "sampai janjinya",
+    "sampai jumpa",
+    "sampai ke akar-akarnya",
+    "sampai ke gunjainya",
+    "sampai ke liang kubur",
+    "sampai ke sumsum",
+    "sampai rasa",
+    "sampai tua",
+    "sampai umur",
+    "sampai waktu"
+  ],
+  "peribahasa": [
+    "ampang sampai ke seberang, dinding sampai ke langit; asing maksud, asing sampai; berjalan sampai ke batas, berlayar sampai ke pulau; berlayar sampai ke pulau, berjalan sampai ke batas; disangka panas sampai petang, kiranya hujan tengah hari; disigai sampai ke langit (tinggi disigai, besar ditebang); empang sampai ke seberang, dinding sampai ke langit; harapan tak putus sampai jerat tersentak rantus; janji sampai, sukatan penuh; jumbai bertenun sampai ke bunjainya; kalau pandai meniti buih, selamat badan sampai ke seberang; ke langit tak sampai, ke bumi tak nyata; napas tidak sampai ke hidung; panas tidak sampai petang; sampai titik darah yang penghabisan; ucap habis, niat sampai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.pai1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencapai; datang; tiba: setelah berjuang melawan badai, akhimya perahu kami -- di pantai dengan selamat; kami -- di Bandung malam hari"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbatas: kedalaman sungai hanya -- lutut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terlaksana (tentang cita-cita, harapan, niat, dan sebagainya); tercapai: mudah-mudahan cita-citamu --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cukup: gaji kami tidak -- untuk hidup satu bulan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lebih dari: harganya tidak -- seratus rupiah"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "hingga: buku itu dibacanya -- tamat; perjanjian itu berlaku -- tahun depan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencapai tujuan; tamat: sekolahnya tidak --"
+        }
+      ]
+    },
+    {
+      "lema": "sam.pai2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gantung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "yurisdiksi",
+  "entri": "yu.ris.dik.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "yurisdiksi medis",
+    "yurisdiksi pengadilan militer"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "yu.ris.dik.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "kekuasaan mengadili; lingkup kuasa kehakiman; peradilan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "lingkungan hak dan kewajiban, serta tanggung jawab dalam suatu wilayah atau lingkungan kerja tertentu; kekuasaan hukum"
+        }
+      ]
+    }
+  ]
+}

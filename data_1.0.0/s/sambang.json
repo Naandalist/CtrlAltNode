@@ -1,0 +1,67 @@
+{
+  "istilah": "sambang",
+  "entri": "sam.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersambang",
+    "menyambang",
+    "menyambangi"
+  ],
+  "gabunganKata": [
+    "sambang api-api",
+    "sambang tembakau"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pertolongan, bantuan, kerja sama",
+    "kataAsal": "sambaṅ"
+  },
+  "data": [
+    {
+      "lema": "sam.bang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ronda"
+        }
+      ]
+    },
+    {
+      "lema": "sam.bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penyakit (yang konon disebabkan oleh roh jahat): anaknya terkena -- sehingga sepanjang malam mengigau"
+        }
+      ]
+    },
+    {
+      "lema": "sam.bang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sarang lebah yang sudah ditinggalkan oleh lebahnya"
+        }
+      ]
+    },
+    {
+      "lema": "sam.bang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kotak; tabung"
+        }
+      ]
+    },
+    {
+      "lema": "sam.bang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "buah jengkol yang sudah masak dan jatuh sendiri dari pohon"
+        }
+      ]
+    }
+  ]
+}

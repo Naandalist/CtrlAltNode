@@ -1,0 +1,37 @@
+{
+  "istilah": "hidrofili",
+  "entri": "hid.ro.fi.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hid.ro.fi.li1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "orang yang sangat tertarik pada air"
+        }
+      ]
+    },
+    {
+      "lema": "hid.ro.fi.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "penyerbukan bunga yang terlaksana dengan bantuan air (arus atau aliran air)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat yang menyukai air"
+        }
+      ]
+    }
+  ]
+}

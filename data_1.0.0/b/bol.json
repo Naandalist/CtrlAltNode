@@ -1,0 +1,42 @@
+{
+  "istilah": "bol",
+  "entri": "bol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujung usus pada pelepasan (dubur)"
+        }
+      ]
+    },
+    {
+      "lema": "bol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jambul pada baret, topi, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "bol3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat jambu1"
+        }
+      ]
+    }
+  ]
+}

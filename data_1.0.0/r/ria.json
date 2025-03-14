@@ -1,0 +1,41 @@
+{
+  "istilah": "ria",
+  "entri": "ria1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beria",
+    "beria-ria",
+    "keriaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pamer",
+    "kataAsal": "riyā’"
+  },
+  "data": [
+    {
+      "lema": "ria1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "riang; gembira; suka cita: ia disambut dengan segala -- dan suka hati"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ramai (oleh suara orang bersuka-suka dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ria2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "sombong; congkak; bangga (karena telah berbuat baik)"
+        }
+      ]
+    }
+  ]
+}

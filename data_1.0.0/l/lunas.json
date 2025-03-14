@@ -1,0 +1,54 @@
+{
+  "istilah": "lunas",
+  "entri": "lu.nas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lunasan",
+    "melunasi",
+    "melunaskan",
+    "pelunas",
+    "pelunasan"
+  ],
+  "gabunganKata": [
+    "lunas dada"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.nas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "balok memanjang di dasar perahu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian bawah (kuali dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "lu.nas2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beres dan selesai dibayar (tentang utang); terbayar; impas: utangnya telah --"
+        }
+      ]
+    },
+    {
+      "lema": "lu.nas3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "dua dari lima daun mahkota bunga kacang-kacangan Papilionaceae yang terletak paling bawah dan menyatu, sehingga berbentuk seperti perahu"
+        }
+      ]
+    }
+  ]
+}

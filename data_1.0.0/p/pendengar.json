@@ -1,0 +1,41 @@
+{
+  "istilah": "pendengar",
+  "entri": "dengar » pen.de.ngar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pendengar aktif",
+    "pendengar pasif",
+    "pendengar selektif",
+    "pendengar spontan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dengar » pen.de.ngar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mendengar atau mendengarkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "indra untuk mendengar; telinga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mendengarkan (pidato, musik, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelajar (mahasiswa) yang ikut mendengarkan pelajaran (kuliah), tetapi tidak terdaftar sebagai pelajar (mahasiswa) biasa"
+        }
+      ]
+    }
+  ]
+}

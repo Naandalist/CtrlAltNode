@@ -1,0 +1,42 @@
+{
+  "istilah": "pantang",
+  "entri": "pan.tang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpantang",
+    "memantang",
+    "memantangkan",
+    "pantangan"
+  ],
+  "gabunganKata": [
+    "pantang berkala",
+    "pantang kelintasan"
+  ],
+  "peribahasa": [
+    "hawa pantang kerendahan, nafsu pantang kekurangan; pantang kutu dicukur, pantang manusia dihinakan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.tang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal (perbuatan dan sebagainya) yang terlarang menurut adat atau kepercayaan; pantangan: membeli jarum dan garam pada malam hari adalah -- menurut orang-orang tua di sini; minum minuman keras adalah -- bagi umat beragama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan (minuman dan sebagainya) yang terlarang bagi penderita suatu penyakit; makanan (minuman dan sebagainya) yang sengaja dihindari; pantangan: daging kambing dan buah durian -- bagi penderita penyakit tekanan darah tinggi; makanan yang berasal dari makhluk yang bernyawa -- bagi seorang vegetaris"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berpantang: ia masih dalam --"
+        }
+      ]
+    }
+  ]
+}

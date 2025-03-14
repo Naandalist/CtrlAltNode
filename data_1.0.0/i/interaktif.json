@@ -1,0 +1,32 @@
+{
+  "istilah": "interaktif",
+  "entri": "in.ter.ak.tif /intêraktif/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.ter.ak.tif /intêraktif/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat saling melakukan aksi; antarhubungan; saling aktif"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Komp[Komputer: -]",
+          "deskripsi": "berkaitan dengan dialog antara komputer dan terminal atau antara komputer dan komputer"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Komp[Komputer: -]",
+          "deskripsi": "keadaan yang ditandai dengan pertukaran percakapan dari masukan dan keluaran, seperti ketika pengguna memasukkan pertanyaan atau perintah dan sistem segera memberikan tanggapan"
+        }
+      ]
+    }
+  ]
+}

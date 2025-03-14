@@ -1,0 +1,36 @@
+{
+  "istilah": "elon",
+  "entri": "e.lon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengeloni",
+    "mengelon"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.lon1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengeloni"
+        }
+      ]
+    },
+    {
+      "lema": "e.lon2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ambil hati; bujuk"
+        }
+      ]
+    }
+  ]
+}

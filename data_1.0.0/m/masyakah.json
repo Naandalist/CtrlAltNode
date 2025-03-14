@@ -1,0 +1,24 @@
+{
+  "istilah": "masyakah",
+  "entri": "ma.sya.kah bentuk tidak baku: masyakat",
+  "bentukTidakBaku": "masyakat",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kesusahan",
+    "kataAsal": "masyaqqah"
+  },
+  "data": [
+    {
+      "lema": "ma.sya.kah bentuk tidak baku: masyakat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kesukaran; kesusahan"
+        }
+      ]
+    }
+  ]
+}

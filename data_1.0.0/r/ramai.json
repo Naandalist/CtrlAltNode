@@ -1,0 +1,49 @@
+{
+  "istilah": "ramai",
+  "entri": "ra.mai bentuk tidak baku: rame",
+  "bentukTidakBaku": "rame",
+  "kataTurunan": [
+    "beramai-ramai",
+    "keramaian",
+    "meramaikan",
+    "teramai"
+  ],
+  "gabunganKata": [
+    "ramai lancar"
+  ],
+  "peribahasa": [
+    "ramai beragam, rimbun menyelara"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cantik, indah, bahagia",
+    "kataAsal": "ramya"
+  },
+  "data": [
+    {
+      "lema": "ra.mai bentuk tidak baku: rame",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "riuh rendah (tentang suara, bunyi): -- benar suara tembakan itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "riang gembira; meriah: perjamuan itu -- sekali"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "serba giat; sibuk (tentang pasar, perdagangan): belakangan ini pasar itu -- kembali"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "banyak (penduduk, orang): kampung itu agak --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "banyak kendaraan berlalu-lalang: lalu lintas mulai -- menjelang Lebaran"
+        }
+      ]
+    }
+  ]
+}

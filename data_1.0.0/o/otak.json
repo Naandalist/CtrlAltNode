@@ -1,0 +1,56 @@
+{
+  "istilah": "otak",
+  "entri": "o.tak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berotak",
+    "mengotaki",
+    "otak-otakan"
+  ],
+  "gabunganKata": [
+    "otak ayam",
+    "otak besar",
+    "otak depan",
+    "otak encer",
+    "otak kecil",
+    "otak kejahatan",
+    "otak miring",
+    "otak pelaku",
+    "otak telum",
+    "otak udang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.tak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda putih yang lunak terdapat di dalam rongga tengkorak yang menjadi pusat saraf; benak: dia tewas dalam kecelakaan itu, kepalanya pecah dan --nya terlihat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "alat berpikir; pikiran; benak: tajam --nya pandai; miring --nya agak gila; memeras (memutar) -- memikirkan dengan susah payah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "biang keladi; tokoh; gembong: -- kejahatan yang merencanakan (memimpin, mengepalai) suatu kejahatan"
+        }
+      ]
+    },
+    {
+      "lema": "o.tak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "otak-otakan"
+        }
+      ]
+    }
+  ]
+}

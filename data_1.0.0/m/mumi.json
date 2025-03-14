@@ -1,0 +1,35 @@
+{
+  "istilah": "mumi",
+  "entri": "mu.mi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memumikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mu.mi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mayat yang diawetkan dengan jalan pembalsaman (seperti pada orang Mesir Kuno)"
+        }
+      ]
+    },
+    {
+      "lema": "mu.mi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "buah kering yang mengerut karena suatu penyakit (merupakan sumber penularan pada musim berikutnya)"
+        }
+      ]
+    }
+  ]
+}

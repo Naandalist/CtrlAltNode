@@ -1,0 +1,32 @@
+{
+  "istilah": "madani",
+  "entri": "ma.da.ni",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sipil",
+    "kataAsal": "madanī"
+  },
+  "data": [
+    {
+      "lema": "ma.da.ni",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan hak-hak sipil"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan perkotaan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menjunjung tinggi nilai, norma, hukum yang ditopang oleh penguasaan iman, ilmu, dan teknologi yang berperadaban"
+        }
+      ]
+    }
+  ]
+}

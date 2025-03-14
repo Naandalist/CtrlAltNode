@@ -1,0 +1,33 @@
+{
+  "istilah": "tubus",
+  "entri": "tu.bus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.bus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian non-optik mikroskop yang berfungsi untuk mengatur fokus dan sebagai bagian penghubung antara lensa okuler dan lensa objektif; tabung mikroskop"
+        }
+      ]
+    },
+    {
+      "lema": "tu.bus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bintik keras pada bagian tubuh ikan"
+        }
+      ]
+    }
+  ]
+}

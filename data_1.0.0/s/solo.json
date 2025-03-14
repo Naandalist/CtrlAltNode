@@ -1,0 +1,46 @@
+{
+  "istilah": "solo",
+  "entri": "so.lo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.lo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nyanyian (lagu, musik) tunggal (yang dinyanyikan atau dimainkan oleh satu orang)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tunggal (melakukan sesuatu dan sebagainya seorang diri); sendiri: penyanyi --; terbang --; -- karier karier yang (hendak) dikerjakan sendirian"
+        }
+      ]
+    },
+    {
+      "lema": "so.lo2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mdr[Madura: -]",
+          "deskripsi": "menangkap ikan pada malam hari"
+        }
+      ]
+    },
+    {
+      "lema": "So.lo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Surakarta"
+        }
+      ]
+    }
+  ]
+}

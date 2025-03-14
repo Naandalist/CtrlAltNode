@@ -1,0 +1,41 @@
+{
+  "istilah": "halter",
+  "entri": "hal.ter1 /haltêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hal.ter1 /haltêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat olahraga angkat besi berupa batang besi yang pada kedua ujungnya diberi besi pemberat dengan ukuran berat tertentu; barbel"
+        }
+      ]
+    },
+    {
+      "lema": "hal.ter2 /haltêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "pakaian (atasan) tanpa lengan dengan tali atau pita dari dada melilit leher, membiarkan leher terbuka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbs[Tata Busana: -]",
+          "deskripsi": "pakaian dengan potongan leher bentuk V yang tercipta dari bagian depan baju yang saling tumpang, diteruskan ke belakang mengitari leher, membiarkan bahu dan punggung terbuka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali (biasanya dari kulit) yang dipasang pada kepala kuda agar penunggang mudah mengendalikan kuda"
+        }
+      ]
+    }
+  ]
+}

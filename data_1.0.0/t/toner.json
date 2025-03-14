@@ -1,0 +1,28 @@
+{
+  "istilah": "toner",
+  "entri": "to.ner /tonêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.ner /tonêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan kosmetik yang digunakan untuk merawat dan membersihkan wajah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat bubuk yang digunakan pada proses fotokopi dan cetak laser untuk membentuk teks dan gambar pada kertas"
+        }
+      ]
+    }
+  ]
+}

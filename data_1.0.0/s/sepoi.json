@@ -1,0 +1,39 @@
+{
+  "istilah": "sepoi",
+  "entri": "se.poi1 /sêpoi/bentuk tidak baku: sepui",
+  "bentukTidakBaku": "sepui",
+  "kataTurunan": [
+    "sepoi-sepoi"
+  ],
+  "gabunganKata": [
+    "sepoi kuat",
+    "sepoi lemah",
+    "sepoi lembut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.poi1 /sêpoi/bentuk tidak baku: sepui",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "silir-semilir (tentang angin)"
+        }
+      ]
+    },
+    {
+      "lema": "se.poi2 /sêpoi/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sipahi"
+        }
+      ]
+    }
+  ]
+}

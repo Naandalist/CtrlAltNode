@@ -1,0 +1,43 @@
+{
+  "istilah": "votum",
+  "entri": "vo.tum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "votum kepercayaan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vo.tum1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suara (dalam pemilihan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari pemungutan suara (untuk menentukan sesuatu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "janji tidak tertulis atau janji di bawah sumpah kepada Tuhan"
+        }
+      ]
+    },
+    {
+      "lema": "vo.tum2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "Pernyataan dalam liturgi Gereja Protestan, dibacakan oleh Pendeta atau penatua, merupakan proklamasi bahwa Tuhan Sang Pencipta adalah yang melandasi peribadahan tersebut"
+        }
+      ]
+    }
+  ]
+}

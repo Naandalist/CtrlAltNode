@@ -1,0 +1,41 @@
+{
+  "istilah": "perlak",
+  "entri": "per.lak1 /pêrlak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per.lak1 /pêrlak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain tebal dengan lapisan berkilat; kain cat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alas tidur bayi yang terbuat dari bahan yang tidak tembus air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit tiruan dengan lapisan berkilat (dibuat sepatu dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "per.lak2 /pêrlak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kebun; taman"
+        }
+      ]
+    }
+  ]
+}

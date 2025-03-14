@@ -1,0 +1,38 @@
+{
+  "istilah": "papua",
+  "entri": "Pa.pu.a",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "Papua Barat",
+    "Papua Barat Daya",
+    "Papua Pegunungan",
+    "Papua Selatan",
+    "Papua Tengah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Pa.pu.a",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pulau terbesar dan paling timur di Indonesia, terdiri atas dua provinsi, yaitu Papua dan Papua Barat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan di daerah Papua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "provinsi yang terletak di Pulau Papua, beribu kota Jayapura"
+        }
+      ]
+    }
+  ]
+}

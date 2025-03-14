@@ -1,0 +1,42 @@
+{
+  "istilah": "pancung",
+  "entri": "pan.cung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memancung",
+    "pancungan",
+    "pemancung",
+    "terpancung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.cung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "punca (ujung, penjuru) kain dan sebagainya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersegi runcing"
+        }
+      ]
+    },
+    {
+      "lema": "pan.cung2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "penggal, potong"
+        }
+      ]
+    }
+  ]
+}

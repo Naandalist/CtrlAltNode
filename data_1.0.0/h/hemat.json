@@ -1,0 +1,51 @@
+{
+  "istilah": "hemat",
+  "entri": "he.mat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhemat",
+    "berhemat-hemat",
+    "kehematan",
+    "menghemat",
+    "penghemat",
+    "penghematan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "hemat pangkal kaya, rajin pangkal pandai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tekad; kecenderungan",
+    "kataAsal": "himmah"
+  },
+  "data": [
+    {
+      "lema": "he.mat1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhati-hati dalam membelanjakan uang, dan sebagainya; tidak boros; cermat: kita harus -- dalam penggunaan bahan bakar"
+        }
+      ]
+    },
+    {
+      "lema": "he.mat2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh minat dan perhatian; (dengan) saksama; teliti: ia mendengarkan pelajaran dengan -- dan cermat"
+        }
+      ]
+    },
+    {
+      "lema": "he.mat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pikiran; pendapat: menurut -- kami, dia sebaiknya pulang saja"
+        }
+      ]
+    }
+  ]
+}

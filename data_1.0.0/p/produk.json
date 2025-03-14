@@ -1,0 +1,63 @@
+{
+  "istilah": "produk",
+  "entri": "pro.duk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "produk akhir",
+    "produk akuatik",
+    "produk budaya",
+    "produk domestik bruto",
+    "produk domestik neto",
+    "produk ekspor",
+    "produk impor",
+    "produk instalasi gas",
+    "produk jadi",
+    "produk khas",
+    "produk lebar pita tunda",
+    "produk lokal",
+    "produk manufaktur",
+    "produk marginal",
+    "produk nasional bersih",
+    "produk nasional bruto",
+    "produk nasional kotor",
+    "produk nasional neto",
+    "produk olahan",
+    "produk organik",
+    "produk pornografi",
+    "produk rata-rata",
+    "produk ruahan",
+    "produk sampingan",
+    "produk sertaan",
+    "produk unggulan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.duk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang atau jasa yang dibuat dan ditambah gunanya atau nilainya dalam proses produksi dan menjadi hasil akhir dari proses produksi itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda atau yang bersifat kebendaan seperti barang, bahan, atau bangunan yang merupakan hasil konstruksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil; hasil kerja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "hasil kali"
+        }
+      ]
+    }
+  ]
+}

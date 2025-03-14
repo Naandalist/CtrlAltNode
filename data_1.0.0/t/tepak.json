@@ -1,0 +1,42 @@
+{
+  "istilah": "tepak",
+  "entri": "te.pak bentuk tidak baku: tipak",
+  "bentukTidakBaku": "tipaktipak",
+  "kataTurunan": [
+    "menepak",
+    "menepak-nepak",
+    "menepak-nepakkan",
+    "menepakkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.pak bentuk tidak baku: tipak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotak kecil bertutup dibuat dari pandan, kayu, dan sebagainya untuk tempat sirih, tembakau, rokok, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "te.pak /têpak/bentuk tidak baku: tipak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepuk; pukul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepukan (gendang); pukulan (gendang): dalam gendang pencak kita kenal tepak-tepak gendang, seperti -- dua, -- tiga"
+        }
+      ]
+    }
+  ]
+}

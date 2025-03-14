@@ -1,0 +1,24 @@
+{
+  "istilah": "multiplatform",
+  "entri": "mul.ti.plat.form",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mul.ti.plat.form",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "perangkat lunak yang dapat dijalankan pada beberapa platform perangkat keras yang berbeda"
+        }
+      ]
+    }
+  ]
+}

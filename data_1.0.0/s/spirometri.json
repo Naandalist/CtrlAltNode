@@ -1,0 +1,28 @@
+{
+  "istilah": "spirometri",
+  "entri": "spi.ro.me.tri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "spi.ro.me.tri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "metode yang digunakan untuk mencatat dan mempelajari volume udara yang keluar dan masuk paru-paru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur udara yang memasuki dan meninggalkan paru-paru"
+        }
+      ]
+    }
+  ]
+}

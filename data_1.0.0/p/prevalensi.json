@@ -1,0 +1,28 @@
+{
+  "istilah": "prevalensi",
+  "entri": "pre.va.len.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pre.va.len.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal yang umum; kelaziman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "jumlah keseluruhan kasus penyakit yang terjadi pada suatu waktu tertentu di suatu wilayah"
+        }
+      ]
+    }
+  ]
+}

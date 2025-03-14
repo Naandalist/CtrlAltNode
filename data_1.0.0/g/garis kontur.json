@@ -1,0 +1,28 @@
+{
+  "istilah": "garis kontur",
+  "entri": "garis1 » garis kontur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "garis1 » garis kontur",
+      "arti": [
+        {
+          "kelas_kata": "Geo[Geografi dan Geologi: -]",
+          "deskripsi": "isohipse"
+        },
+        {
+          "kelas_kata": "Hidm[Hidrometeorologi: -]",
+          "deskripsi": "kontur"
+        }
+      ]
+    }
+  ]
+}

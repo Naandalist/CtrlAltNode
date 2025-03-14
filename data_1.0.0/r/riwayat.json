@@ -1,0 +1,40 @@
+{
+  "istilah": "riwayat",
+  "entri": "ri.wa.yat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beriwayat",
+    "keriwayatan",
+    "meriwayatkan",
+    "periwayatan"
+  ],
+  "gabunganKata": [
+    "riwayat diet",
+    "riwayat hidup"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "transmisi",
+    "kataAsal": "riwāyah"
+  },
+  "data": [
+    {
+      "lema": "ri.wa.yat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerita yang turun-temurun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sejarah; tambo: -- berdirinya Kerajaan Mataram"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "catatan dari laman web dan berkas lain yang telah diakses dan disimpan oleh peramban web"
+        }
+      ]
+    }
+  ]
+}

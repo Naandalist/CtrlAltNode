@@ -1,0 +1,28 @@
+{
+  "istilah": "toapekong",
+  "entri": "to.a.pe.kong bentuk tidak baku: pekong, tepekong",
+  "bentukTidakBaku": "pekong, tepekong",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "nama dewa",
+    "kataAsal": "tōa peh kong"
+  },
+  "data": [
+    {
+      "lema": "to.a.pe.kong bentuk tidak baku: pekong, tepekong",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar (patung) dewa yang dipuja dalam kelenteng"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kelenteng"
+        }
+      ]
+    }
+  ]
+}

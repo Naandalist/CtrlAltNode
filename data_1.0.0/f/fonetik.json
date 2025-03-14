@@ -1,0 +1,32 @@
+{
+  "istilah": "fonetik",
+  "entri": "fo.ne.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "fonetik akustik",
+    "fonetik artikulatoris",
+    "fonetik auditoris"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fo.ne.tik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bidang linguistik tentang pengucapan (penghasilan) bunyi ujar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem bunyi suatu bahasa"
+        }
+      ]
+    }
+  ]
+}

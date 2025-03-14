@@ -1,0 +1,47 @@
+{
+  "istilah": "jabar",
+  "entri": "ja.bar2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jabaran",
+    "menjabarkan",
+    "penjabaran",
+    "terjabarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang memaksa",
+    "kataAsal": "jabbār"
+  },
+  "data": [
+    {
+      "lema": "ja.bar2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "urai (secara terperinci)"
+        }
+      ]
+    },
+    {
+      "lema": "Ja.bar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mahaperkasa"
+        }
+      ]
+    },
+    {
+      "lema": "Ja.bar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Jawa Barat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "perbukuan",
+  "entri": "buku1 » per.bu.ku.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buku1 » per.bu.ku.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal buku: meningkatkan kegiatan dan usaha dalam bidang ~"
+        }
+      ]
+    },
+    {
+      "lema": "buku2 » per.bu.ku.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sendi; persendian"
+        }
+      ]
+    }
+  ]
+}

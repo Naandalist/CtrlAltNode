@@ -1,0 +1,44 @@
+{
+  "istilah": "portal",
+  "entri": "por.tal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "por.tal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pintu gerbang; gapura"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan (pintu) masuk ke dalam tambang bawah tanah, terowongan, jembatan, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gang (beranda dan sebagainya) lebar di depan kamar-kamar dalam rumah, gedung, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tonggak atau palang yang dipasang di ujung gang (jalan) untuk menghalangi masuknya kendaraan tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "situs web yang menyediakan tautan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tempat penjualan"
+        }
+      ]
+    }
+  ]
+}

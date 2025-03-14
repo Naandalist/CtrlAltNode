@@ -1,0 +1,46 @@
+{
+  "istilah": "overste",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "letnan kolonel (dalam ketentaraan Hindia Belanda)"
+        }
+      ]
+    },
+    {
+      "lema": "overste",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "letnan kolonel (dalam ketentaraan Hindia Belanda)"
+        }
+      ]
+    },
+    {
+      "lema": "o.ver.ste /ovêrstê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pangkat perwira menengah dalam ketentaraan (letnan kolonel); obrus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kepala biarawan(-wati)"
+        }
+      ]
+    }
+  ]
+}

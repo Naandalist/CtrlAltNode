@@ -1,0 +1,24 @@
+{
+  "istilah": "varistor",
+  "entri": "va.ris.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "va.ris.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "peranti semipenghantar dengan dua elektrode yang hambatannya taklinear, biasa digunakan sebagai pengaman ketika terjadi arus pendek"
+        }
+      ]
+    }
+  ]
+}

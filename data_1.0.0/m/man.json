@@ -1,0 +1,59 @@
+{
+  "istilah": "man",
+  "entri": "man1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kata ganti milik",
+    "kataAsal": "vat"
+  },
+  "data": [
+    {
+      "lema": "man1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "satuan ukuran berat sama dengan 80 pon atau 36,2874 kg"
+        }
+      ]
+    },
+    {
+      "lema": "man2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "paman"
+        }
+      ]
+    },
+    {
+      "lema": "MAN",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "madrasah aliah negeri"
+        }
+      ]
+    },
+    {
+      "lema": "-wan2 varian: -man, -wati",
+      "arti": [
+        {
+          "kelas_kata": "sufiks pembentuk nomina[- : -]",
+          "deskripsi": "orang yang ahli dalam bidang: ilmuwan; budayawan; seniman"
+        },
+        {
+          "kelas_kata": "sufiks pembentuk nomina[- : -]",
+          "deskripsi": "orang yang bergerak dalam: karyawati; wartawan"
+        },
+        {
+          "kelas_kata": "sufiks pembentuk nomina[- : -]",
+          "deskripsi": "orang yang memiliki barang atau sifat khusus: dermawan; hartawan; rupawan; bangsawan"
+        }
+      ]
+    }
+  ]
+}

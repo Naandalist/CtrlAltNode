@@ -1,0 +1,45 @@
+{
+  "istilah": "keset",
+  "entri": "ke.set bentuk tidak baku: koset1",
+  "bentukTidakBaku": "koset1koset1",
+  "kataTurunan": [
+    "berkeset",
+    "mengeset"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.set bentuk tidak baku: koset1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengesat kaki, terbuat dari sabut kelapa dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ke.set /kêset/bentuk tidak baku: koset1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "malas; tidak rajin"
+        }
+      ]
+    },
+    {
+      "lema": "ke.set1 /kêsêt/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "eset; kuliti"
+        }
+      ]
+    }
+  ]
+}

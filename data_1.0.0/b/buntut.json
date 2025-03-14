@@ -1,0 +1,47 @@
+{
+  "istilah": "buntut",
+  "entri": "bun.tut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbuntut",
+    "berbuntut-buntut",
+    "membuntut",
+    "membuntuti",
+    "pembuntut"
+  ],
+  "gabunganKata": [
+    "buntut belangkas",
+    "buntut bulan",
+    "buntut kapal",
+    "buntut kuda",
+    "buntut perarakan",
+    "buntut tikus"
+  ],
+  "peribahasa": [
+    "ada kepala tidak mematuk, ada buntut tidak melilit; siput memuji buntut"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bun.tut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(bagian) yang di belakang sekali; ekor: sup --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesudahan; akibat: kejadian ini masih ada --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "permainan judi yang menebak angka-angka akhir dari suatu undian resmi; judi buntut: permainan menebak --"
+        }
+      ]
+    }
+  ]
+}

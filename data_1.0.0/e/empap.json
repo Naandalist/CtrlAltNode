@@ -1,0 +1,39 @@
+{
+  "istilah": "empap",
+  "entri": "em.pap1 /êmpap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengempap",
+    "mengempapkan",
+    "berempap",
+    "mengempapkan",
+    "terempap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.pap1 /êmpap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tindih atau tekan dengan barang berat"
+        }
+      ]
+    },
+    {
+      "lema": "em.pap2 /êmpap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "banting; lempar; empas"
+        }
+      ]
+    }
+  ]
+}

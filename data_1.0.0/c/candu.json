@@ -1,0 +1,44 @@
+{
+  "istilah": "candu",
+  "entri": "can.du",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kecanduan",
+    "mencandu",
+    "mencandui",
+    "mencandukan",
+    "pecandu",
+    "pencandu",
+    "percanduan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sejenis palit (juga sebagai bahan celup)",
+    "kataAsal": "candu"
+  },
+  "data": [
+    {
+      "lema": "can.du",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon besar, tingginya 4,5 m, kayunya rapuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "getah kering pahit berwarna cokelat kekuning-kuningan yang diambil dari buah bunga popi, dapat mengurangi rasa nyeri dan merangsang rasa kantuk serta menimbulkan rasa ketagihan bagi yang sering menggunakannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan kental berwarna hitam yang melekat pada pipa yang keluar dari rokok saat diisap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang menjadi kegemaran"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "lego",
+  "entri": "le.go1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melego"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.go1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jual"
+        }
+      ]
+    },
+    {
+      "lema": "le.go2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ditulis dengan huruf awal kapital) merek dagang untuk mainan berupa bongkahan plastik kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan berupa bongkah-bongkah plastik kecil yang dapat disusun menjadi model apa saja"
+        }
+      ]
+    }
+  ]
+}

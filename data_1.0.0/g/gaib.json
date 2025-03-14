@@ -1,0 +1,35 @@
+{
+  "istilah": "gaib",
+  "entri": "ga.ib bentuk tidak baku: ghaib, ghoib",
+  "bentukTidakBaku": "ghaib, ghoib",
+  "kataTurunan": [
+    "kegaiban",
+    "menggaib"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tidak kelihatan",
+    "kataAsal": "gaib"
+  },
+  "data": [
+    {
+      "lema": "ga.ib bentuk tidak baku: ghaib, ghoib",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak kelihatan; tersembunyi; tidak nyata: para ilmuwan mencoba meneliti hal-hal yang -- di alam semesta ini"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hilang; lenyap: sekalian dewa-dewa itu pun --lah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak diketahui sebab-sebabnya (halnya dan sebagainya): banyak peristiwa -- yang belum diselidiki"
+        }
+      ]
+    }
+  ]
+}

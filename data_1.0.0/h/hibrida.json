@@ -1,0 +1,35 @@
+{
+  "istilah": "hibrida",
+  "entri": "hib.ri.da bentuk tidak baku: hibrid",
+  "bentukTidakBaku": "hibrid",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hibrida antarjenis",
+    "hibrida resiprok"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hib.ri.da bentuk tidak baku: hibrid",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "turunan yang dihasilkan dari perkawinan antara dua jenis yang berlainan (tentang hewan atau tumbuhan): pohon kelapa -- dapat berbuah pada usia empat tahun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kata kompleks yang bagian-bagiannya berasal dari bahasa berbeda, seperti dwifungsi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Oto[Otomotif: -]",
+          "deskripsi": "penggunaan atau pemasangan dua teknologi yang berlainan untuk fungsi yang sama dalam satu mesin: teknologi -- banyak digunakan pada mobil keluaran terbaru karena terbukti ramah lingkungan"
+        }
+      ]
+    }
+  ]
+}

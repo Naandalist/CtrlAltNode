@@ -1,0 +1,37 @@
+{
+  "istilah": "melamun",
+  "entri": "lamun1 » me.la.mun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lamun1 » me.la.mun",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "termenung sambil pikiran melayang ke mana-mana"
+        }
+      ]
+    },
+    {
+      "lema": "lamun3 » me.la.mun",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menumpukkan (melonggokkan) tidak beraturan: ~ barang bekas di gudang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menggenangi, meliputi (seperti air menutupi karang)"
+        }
+      ]
+    }
+  ]
+}

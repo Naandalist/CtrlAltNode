@@ -1,0 +1,46 @@
+{
+  "istilah": "lokalitas",
+  "entri": "lo.ka.li.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lokalitas rujukan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.ka.li.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "keadaan elektron dalam ikatan kimia yang terbatas gerakannya, hanya antara dua atom berdampingan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat atau wilayah tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "situasi dalam ruang atau waktu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sas[Sastra: -]",
+          "deskripsi": "wilayah, tempat, kondisi, atau situasi dalam teks yang menggambarkan para pelaku memainkan perannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sas[Sastra: -]",
+          "deskripsi": "ruang kultural yang menyimpan potret sosial dan ideologi yang direpresentasikan melalui interaksi tokoh-tokohnya dan dinamika kultural yang mengungkapkan dan menyimpan nilai-nilai tentang manusia dalam kehidupan berkebudayaan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sas[Sastra: -]",
+          "deskripsi": "proses pemaknaan atas teks, baik yang tersurat maupun yang tersirat"
+        }
+      ]
+    }
+  ]
+}

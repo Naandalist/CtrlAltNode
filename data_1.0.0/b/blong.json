@@ -1,0 +1,48 @@
+{
+  "istilah": "blong",
+  "entri": "blong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "blong-blongan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "blong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidak berfungsi karena tidak ada tahanan (tentang rem); dol: belum dapat dipastikan sebab-sebab kecelakaan itu, apakah remnya -- atau supirnya mengantuk"
+        }
+      ]
+    },
+    {
+      "lema": "blong2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berisi apa-apa; kosong"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menganga atau terbuka lebar (tentang lubang dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "blong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tempat hasil tangkapan berupa tong plastik besar yang dilapisi karung plastik dan tali tambang yang dianyam"
+        }
+      ]
+    }
+  ]
+}

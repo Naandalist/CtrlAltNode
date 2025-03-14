@@ -1,0 +1,28 @@
+{
+  "istilah": "sumsum",
+  "entri": "sum.sum bentuk tidak baku: sungsum",
+  "bentukTidakBaku": "sungsum",
+  "kataTurunan": [
+    "menyumsum"
+  ],
+  "gabunganKata": [
+    "sumsum tulang belakang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sungsum tulang",
+    "kataAsal": "sumsum"
+  },
+  "data": [
+    {
+      "lema": "sum.sum bentuk tidak baku: sungsum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benak tulang: (sampai) ke tulang -- mendalam sekali (perasaan dingin dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

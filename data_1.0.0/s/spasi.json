@@ -1,0 +1,28 @@
+{
+  "istilah": "spasi",
+  "entri": "spa.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "spa.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jarak (antara huruf cetak atau antara baris tulisan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keping timah kecil-kecil untuk memberi jarak huruf-huruf atau baris di percetakan"
+        }
+      ]
+    }
+  ]
+}

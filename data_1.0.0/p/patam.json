@@ -1,0 +1,30 @@
+{
+  "istilah": "patam",
+  "entri": "pa.tam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpatam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pita, ikat kepala, hiasan kepala",
+    "kataAsal": "paṭṭa"
+  },
+  "data": [
+    {
+      "lema": "pa.tam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "hiasan (dari pasmen, kain, emas, dan sebagainya) yang dipasang pada tepi pakaian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perhiasan yang dipakai di dahi pengantin"
+        }
+      ]
+    }
+  ]
+}

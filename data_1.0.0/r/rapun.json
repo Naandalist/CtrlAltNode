@@ -1,0 +1,36 @@
+{
+  "istilah": "rapun",
+  "entri": "ra.pun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merapun",
+    "berapun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.pun1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "hancur; remuk; pecah"
+        }
+      ]
+    },
+    {
+      "lema": "ra.pun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelim yang berkerut"
+        }
+      ]
+    }
+  ]
+}

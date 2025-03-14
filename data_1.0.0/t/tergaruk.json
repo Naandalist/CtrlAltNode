@@ -1,0 +1,36 @@
+{
+  "istilah": "tergaruk",
+  "entri": "garuk » ter.ga.ruk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "garuk » ter.ga.ruk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terkukur; tidak sengaja kena kukur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tercakar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tertangkap (oleh petugas negara)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "terkeruk (terambil) sebanyak-banyaknya (harta)"
+        }
+      ]
+    }
+  ]
+}

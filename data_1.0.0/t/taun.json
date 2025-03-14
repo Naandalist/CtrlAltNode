@@ -1,0 +1,28 @@
+{
+  "istilah": "taun",
+  "entri": "ta.un",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "wabah penyakit",
+    "kataAsal": "ṭā‘ūn"
+  },
+  "data": [
+    {
+      "lema": "ta.un",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penyakit menular; wabah; epidemi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "musim penyakit menular"
+        }
+      ]
+    }
+  ]
+}

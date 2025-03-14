@@ -1,0 +1,33 @@
+{
+  "istilah": "peranggu",
+  "entri": "pe.rang.gu /pêranggu/bentuk tidak baku: anggu1",
+  "bentukTidakBaku": "anggu1",
+  "kataTurunan": [
+    "seperanggu",
+    "seperangguan"
+  ],
+  "gabunganKata": [
+    "peranggu dapur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.rang.gu /pêranggu/bentuk tidak baku: anggu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangkat; setel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan peranti makan yang ditata untuk satu orang di meja makan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "haul",
+  "entri": "ha.ul1",
+  "bentukTidakBaku": "khaulhol",
+  "kataTurunan": [
+    "berhaul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "setahun",
+    "kataAsal": "ḥaul"
+  },
+  "data": [
+    {
+      "lema": "ha.ul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kekuasaan; kekuatan"
+        }
+      ]
+    },
+    {
+      "lema": "ha.ul2 bentuk tidak baku: khaul",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Isl[Agama Islam: -]",
+          "deskripsi": "jangka waktu satu tahun yang menjadi batas kewajiban membayar zakat bagi pemilikan harta kekayaan, seperti perniagaan, emas, ternak: perniagaan cukup --"
+        }
+      ]
+    },
+    {
+      "lema": "ha.ul3 bentuk tidak baku: hol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peringatan hari wafat seseorang yang diadakan setahun sekali (biasanya disertai selamatan arwah): semua keluarga diundang untuk menghadiri -- mendiang neneknya"
+        }
+      ]
+    }
+  ]
+}

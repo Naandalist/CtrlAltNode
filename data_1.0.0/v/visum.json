@@ -1,0 +1,28 @@
+{
+  "istilah": "visum",
+  "entri": "vi.sum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vi.sum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda pernyataan atau keterangan telah mengetahui atau menyetujui"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "visa"
+        }
+      ]
+    }
+  ]
+}

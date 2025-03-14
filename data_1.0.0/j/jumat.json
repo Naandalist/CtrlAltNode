@@ -1,0 +1,29 @@
+{
+  "istilah": "jumat",
+  "entri": "Jum.at bentuk tidak baku: jum'at",
+  "bentukTidakBaku": "jum'at",
+  "kataTurunan": [
+    "berjumat",
+    "jumatan"
+  ],
+  "gabunganKata": [
+    "Jumat Agung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hari di mana seluruh pria Muslim wajib melakukan salat berjemaah dua rakaat pada waktu Zuhur",
+    "kataAsal": "jum‘ah"
+  },
+  "data": [
+    {
+      "lema": "Jum.at bentuk tidak baku: jum'at",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari ke-6 dalam jangka waktu satu minggu"
+        }
+      ]
+    }
+  ]
+}

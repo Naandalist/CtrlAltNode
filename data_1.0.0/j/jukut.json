@@ -1,0 +1,39 @@
+{
+  "istilah": "jukut",
+  "entri": "ju.kut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jukut cangkore"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ju.kut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "rumput"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "ulam"
+        }
+      ]
+    },
+    {
+      "lema": "ju.kut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kh[Kapuas Hulu: -]",
+          "deskripsi": "ikan yang diolah untuk diawetkan; pindang"
+        }
+      ]
+    }
+  ]
+}

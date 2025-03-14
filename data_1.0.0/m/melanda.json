@@ -1,0 +1,37 @@
+{
+  "istilah": "melanda",
+  "entri": "landa1 » me.lan.da",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "landa1 » me.lan.da",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengenai; menimpa; melanggar: banjir ~ daerah itu sehingga sawah-sawah rusak"
+        }
+      ]
+    },
+    {
+      "lema": "landa2 » me.lan.da",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melimbang (emas, intan, timah, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melandau"
+        }
+      ]
+    }
+  ]
+}

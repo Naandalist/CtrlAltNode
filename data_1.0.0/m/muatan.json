@@ -1,0 +1,44 @@
+{
+  "istilah": "muatan",
+  "entri": "muat » mu.at.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "muatan awan",
+    "muatan beku",
+    "muatan cair",
+    "muatan curah",
+    "muatan dingin",
+    "muatan geladak",
+    "muatan kembali",
+    "muatan kering",
+    "muatan listrik",
+    "muatan lokal",
+    "muatan pindahan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "muat » mu.at.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang diangkut dengan kendaraan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "isi (kapal dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "jumlah listrik positif atau jumlah listrik negatif yang ada pada benda"
+        }
+      ]
+    }
+  ]
+}

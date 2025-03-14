@@ -1,0 +1,50 @@
+{
+  "istilah": "kelembak",
+  "entri": "ke.lem.bak1 /kêlêmbak/bentuk tidak baku: kalambak",
+  "bentukTidakBaku": "kalambakkalembak",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kelembak (sejenis kayu yang harum, Aqulana malacensis)",
+    "kataAsal": "kalěmbak"
+  },
+  "data": [
+    {
+      "lema": "ke.lem.bak1 /kêlêmbak/bentuk tidak baku: kalambak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tengkaras〔Aquilaria malaccensis〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu gaharu"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lem.bak2 /kêlêmbak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan, akarnya berbau harum dan banyak dijual di toko obat, juga digunakan sebagai campuran pada tembakau rokok〔Rheum〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akar kelembak"
+        }
+      ]
+    },
+    {
+      "lema": "ke.lem.bak3 /kêlêmbak/bentuk tidak baku: kalembak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kupu-kupu besar〔Papilionoidea〕"
+        }
+      ]
+    }
+  ]
+}

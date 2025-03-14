@@ -1,0 +1,33 @@
+{
+  "istilah": "oncor",
+  "entri": "on.cor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "on.cor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "suluh"
+        }
+      ]
+    },
+    {
+      "lema": "on.cor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengaliran air ke sawah-sawah; irigasi"
+        }
+      ]
+    }
+  ]
+}

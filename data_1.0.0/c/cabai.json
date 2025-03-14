@@ -1,0 +1,40 @@
+{
+  "istilah": "cabai",
+  "entri": "ca.bai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercabai",
+    "kecabaian"
+  ],
+  "gabunganKata": [
+    "cabai ceri",
+    "cabai jalapeno",
+    "cabai jawa",
+    "cabai merah",
+    "cabai panjang",
+    "cabai rawit"
+  ],
+  "peribahasa": [
+    "kecil-kecil cabai rawit; kecil-kecil cabai rawit; siapa yang makan cabai, dialah yang berasa pedas (kepedasan)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cabai Jawa, Piper chaba",
+    "kataAsal": "cabya"
+  },
+  "data": [
+    {
+      "lema": "ca.bai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman perdu yang buahnya berbentuk bulat panjang dengan ujung meruncing, apabila sudah tua berwarna merah kecokelat-cokelatan atau hijau tua, berisi banyak biji yang pedas rasanya; lombok〔Capsicum annuum〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah cabai (biasa dibuat sambal atau campuran sayur)"
+        }
+      ]
+    }
+  ]
+}

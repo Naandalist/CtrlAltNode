@@ -1,0 +1,49 @@
+{
+  "istilah": "liat",
+  "entri": "li.at1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meliat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "jangat liat kurang panggang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.at1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lemah (tidak kaku), tetapi tidak mudah patah atau putus; kenyal: daging yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pekat; lekat sekali: lempung (tanah) ini sangat --; adonan ini -- sekali"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak mudah kalah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sukar atau segan membayar utang"
+        }
+      ]
+    },
+    {
+      "lema": "li.at2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kering (sehingga tanaman tidak tumbuh): sawah -- karena musim kemarau panjang"
+        }
+      ]
+    }
+  ]
+}

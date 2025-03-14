@@ -1,0 +1,45 @@
+{
+  "istilah": "pekuk",
+  "entri": "pe.kuk1 /pêkuk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pelekuk",
+    "memekuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.kuk1 /pêkuk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mencong atau bengkok ke luar (tentang tangan, kaki); bengkok: tangannya --"
+        }
+      ]
+    },
+    {
+      "lema": "pe.kuk2 /pêkuk/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memekuk"
+        }
+      ]
+    },
+    {
+      "lema": "pe.kuk3 /pêkuk/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat pekik"
+        }
+      ]
+    }
+  ]
+}

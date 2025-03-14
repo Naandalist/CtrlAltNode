@@ -1,0 +1,55 @@
+{
+  "istilah": "monitor",
+  "entri": "mo.ni.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memonitor",
+    "memonitori",
+    "pemonitoran"
+  ],
+  "gabunganKata": [
+    "monitor digital",
+    "monitor kinerja"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.ni.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memantau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk memantau (seperti alat penerima yang digunakan untuk melihat gambar yang diambil oleh kamera televisi, alat untuk mengamati kondisi atau fungsi biologis, alat yang memantau kerja suatu sistem, terutama sistem komputer, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat semprot air dengan tekanan 4–7 atmosfer yang digunakan pada tambang timah aluvial untuk menambang biji timah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang dirancang untuk mengobservasi, mengawasi, mengontrol, atau memverifikasi operasi suatu sistem"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengawasan dan tindakan memverifikasi kebenaran operasi suatu program selama pelaksanaannya berdasarkan rutin diagnostik yang digunakan dari waktu ke waktu untuk menjawab pertanyaan tentang program tersebut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pantau; cek secara cermat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "perangkat video yang menampilkan data atau gambar yang dihasilkan oleh komputer"
+        }
+      ]
+    }
+  ]
+}

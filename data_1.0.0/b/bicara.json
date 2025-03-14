@@ -1,0 +1,53 @@
+{
+  "istilah": "bicara",
+  "entri": "bi.ca.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbicara",
+    "membicarakan",
+    "pembicara",
+    "pembicaraan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "ide, pikiran, pertimbangan",
+    "kataAsal": "vicāra"
+  },
+  "data": [
+    {
+      "lema": "bi.ca.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akal budi; pikiran: dalam menghadapi segala hal selalu dipergunakan budi --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "perundingan: rasanya tidak perlu diadakan -- lagi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beperkara; berurusan: orang yang membawa barang larangan itu akan dibawanya  -- kepada hakim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pertimbangan pikiran; pendapat: seperti -- Tuan, hamba pun demikian; pada -- patik"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbahasa; berkata: sedikit -- banyak bekerja"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sedang dipakai untuk bercakap (dalam telepon): sudah tiga kali saya menelepon, tetapi selalu dijawab “ --”"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Jk[Melayu Jakarta: -]",
+          "deskripsi": "tanggung, tentu (pasti): kata penjual durian itu, “ --” tebal dan manis"
+        }
+      ]
+    }
+  ]
+}

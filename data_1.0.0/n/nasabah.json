@@ -1,0 +1,36 @@
+{
+  "istilah": "nasabah",
+  "entri": "na.sa.bah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "nasabah bermasalah",
+    "nasabah debitur",
+    "nasabah utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pertalian; ukuran; perbandingan",
+    "kataAsal": "nisbah"
+  },
+  "data": [
+    {
+      "lema": "na.sa.bah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang biasa berhubungan dengan atau menjadi pelanggan bank (dalam hal keuangan); pelanggan: bank itu mengadakan malam perkenalan dengan para --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menjadi tanggungan asuransi: seorang -- sedang mengeklaim asuransi kesehatannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbandingan; pertalian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "bocok",
+  "entri": "bo.cok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.cok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kelambu (kain tipis) penutup buaian bayi"
+        }
+      ]
+    },
+    {
+      "lema": "bo.cok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tanah tandus; tanah tidak subur"
+        }
+      ]
+    }
+  ]
+}

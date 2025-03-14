@@ -1,0 +1,28 @@
+{
+  "istilah": "naratif",
+  "entri": "na.ra.tif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "na.ra.tif",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat narasi; bersifat menguraikan (menjelaskan dan sebagainya): karangan yang --; bahasa mereka ini bersifat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "prosa yang subjeknya merupakan suatu rangkaian kejadian"
+        }
+      ]
+    }
+  ]
+}

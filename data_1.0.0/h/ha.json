@@ -1,0 +1,67 @@
+{
+  "istilah": "ha",
+  "entri": "ha1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama huruf ke-27 abjad Arab",
+    "kataAsal": "hā’"
+  },
+  "data": [
+    {
+      "lema": "ha1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk menyatakan girang: --, itu dia yang kucari"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk mengejek: --, mana mungkin ia dapat memenangi pertandingan itu"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk menyatakan rasa lega: --, akhirnya terungkap juga rahasianya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru yang menyatakan terkejut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suara orang tertawa lepas"
+        }
+      ]
+    },
+    {
+      "lema": "ha2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ha kecil) nama huruf ke-6 abjad Arab"
+        }
+      ]
+    },
+    {
+      "lema": "ha3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ha besar) nama huruf ke-27 abjad Arab"
+        }
+      ]
+    },
+    {
+      "lema": "ha4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf h"
+        }
+      ]
+    }
+  ]
+}

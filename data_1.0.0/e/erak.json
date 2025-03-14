@@ -1,0 +1,37 @@
+{
+  "istilah": "erak",
+  "entri": "e.rak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bererak",
+    "mengerak",
+    "mengerakkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.rak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pisah"
+        }
+      ]
+    },
+    {
+      "lema": "e.rak /êrak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lelah"
+        }
+      ]
+    }
+  ]
+}

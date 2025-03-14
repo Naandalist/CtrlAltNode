@@ -1,0 +1,28 @@
+{
+  "istilah": "perdua",
+  "entri": "dua1 » per.dua",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dua1 » per.dua",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bagi dua"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "bagian dari sesuatu yang dibagi dua"
+        }
+      ]
+    }
+  ]
+}

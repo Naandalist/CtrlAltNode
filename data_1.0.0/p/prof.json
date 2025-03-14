@@ -1,0 +1,33 @@
+{
+  "istilah": "prof",
+  "entri": "prof1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "prof1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "profesor; panggilan terhadap profesor"
+        }
+      ]
+    },
+    {
+      "lema": "prof2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kp[kependekan]",
+          "deskripsi": "profesional"
+        }
+      ]
+    }
+  ]
+}

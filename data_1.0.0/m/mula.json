@@ -1,0 +1,46 @@
+{
+  "istilah": "mula",
+  "entri": "mu.la",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bepermulaan",
+    "bermula",
+    "bermula-mula",
+    "memula",
+    "memulakan",
+    "mula-mula",
+    "pemula",
+    "permulaan",
+    "sebermula",
+    "semula"
+  ],
+  "gabunganKata": [
+    "dari kecil mula",
+    "mula pertama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "asal, dasar, akar, sumber, dasar",
+    "kataAsal": "mūla"
+  },
+  "data": [
+    {
+      "lema": "mu.la",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asal; awal; pokok asal: bagaimana --nya sehingga kaudapatkan barang itu?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang paling awal; yang dahulu sekali; waktu (tempat, keadaan, dan sebagainya) yang menjadi pangkal: pada --nya bukan kota, melainkan dusun kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lantaran; sebab: apa --nya sehingga engkau menjadi begini?"
+        }
+      ]
+    }
+  ]
+}

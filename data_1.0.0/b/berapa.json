@@ -1,0 +1,41 @@
+{
+  "istilah": "berapa",
+  "entri": "be.ra.pa /bêrapa/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beberapa",
+    "seberapa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "berapa berat mata memandang, berat juga bahu memikul"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ra.pa /bêrapa/",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk menanyakan bilangan yang mewakili jumlah, ukuran, nilai, harga, satuan, waktu: -- ekor hewan yang dijual?; -- kilometer jauhnya dari sini?; -- jam kita harus menunggu?; -- rupiah kerugiannya?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kapan; bilamana: tahun -- dia lahir?; pukul -- dia datang?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "berulang-ulang; berkali-kali: -- pun dinasihati tidak diturutnya juga"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "betapa: sekarang barulah dirasakannya -- malu dihinakan orang di depan umum"
+        }
+      ]
+    }
+  ]
+}

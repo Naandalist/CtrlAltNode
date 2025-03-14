@@ -1,0 +1,33 @@
+{
+  "istilah": "betok",
+  "entri": "be.tok1 /bêtok/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.tok1 /bêtok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang hidup di ekosistem perairan tawar dan payau, ukurannya dapat mencapai 25 cm, tubuhnya pipih agak membulat dan bersisik keras, warnanya hijau kekuningan, tersebar luas di perairan Indonesia, India, dan Cina; harfan; bato1; betik3〔Anabas testudineus〕"
+        }
+      ]
+    },
+    {
+      "lema": "be.tok2 /bêtok/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "hangus (oleh air keras dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

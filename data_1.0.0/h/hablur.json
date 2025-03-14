@@ -1,0 +1,41 @@
+{
+  "istilah": "hablur",
+  "entri": "hab.lur bentuk tidak baku: ablur",
+  "bentukTidakBaku": "ablur",
+  "kataTurunan": [
+    "berhablur",
+    "menghablur",
+    "menghablurkan",
+    "penghablur",
+    "penghabluran",
+    "terhablur"
+  ],
+  "gabunganKata": [
+    "hablur es"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hab.lur bentuk tidak baku: ablur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda keras yang bening seperti kaca; kristal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "bentuk padat yang homogen dan bersudut dari suatu zat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang tampak bening berkilau (tentang mata); bersinar-sinar: gadis itu bermata --"
+        }
+      ]
+    }
+  ]
+}

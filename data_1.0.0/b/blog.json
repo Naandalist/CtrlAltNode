@@ -1,0 +1,27 @@
+{
+  "istilah": "blog",
+  "entri": "blog",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengeblog",
+    "pengeblog"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "blog",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "catatan harian atau jurnal pribadi di internet yang dapat diakses oleh siapa saja"
+        }
+      ]
+    }
+  ]
+}

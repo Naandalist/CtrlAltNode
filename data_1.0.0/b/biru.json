@@ -1,0 +1,67 @@
+{
+  "istilah": "biru",
+  "entri": "bi.ru1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebiru-biruan",
+    "kebiruan",
+    "membiru",
+    "membirukan"
+  ],
+  "gabunganKata": [
+    "biru benhur",
+    "biru berlin",
+    "biru bulan",
+    "biru ceraka",
+    "biru dongker",
+    "biru gerau",
+    "biru jelak",
+    "biru kelasi",
+    "biru langit",
+    "biru laut",
+    "biru lebam",
+    "biru malam",
+    "biru muda",
+    "biru telang",
+    "biru tua"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "biru",
+    "kataAsal": "birū"
+  },
+  "data": [
+    {
+      "lema": "bi.ru1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna dasar yang serupa dengan warna langit yang terang (tidak berawan dan sebagainya) serta merupakan warna asli (bukan hasil campuran beberapa warna)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengandung atau memperlihatkan warna yang serupa dengan biru"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ru2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lipatan-lipatan pada tepi baju, kain, dan sebagainya sebagai hiasan"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ru3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Aln[Alune: bahasa di Maluku, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "mulut merah bekas makan pinang"
+        }
+      ]
+    }
+  ]
+}

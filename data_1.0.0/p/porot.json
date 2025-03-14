@@ -1,0 +1,28 @@
+{
+  "istilah": "porot",
+  "entri": "po.rot",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memorot",
+    "memoroti",
+    "terporoti"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menyerang dan sebagainya dengan membabi buta",
+    "kataAsal": "porod"
+  },
+  "data": [
+    {
+      "lema": "po.rot",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "memorot"
+        }
+      ]
+    }
+  ]
+}

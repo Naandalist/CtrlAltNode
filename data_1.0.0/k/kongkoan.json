@@ -1,0 +1,28 @@
+{
+  "istilah": "kongkoan",
+  "entri": "kong.ko.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "gedung untuk keperluan umum",
+    "kataAsal": "kong koán"
+  },
+  "data": [
+    {
+      "lema": "kong.ko.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gedung untuk umum (terutama di kalangan masyarakat Cina)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "majelis (penasihat) urusan Cina"
+        }
+      ]
+    }
+  ]
+}

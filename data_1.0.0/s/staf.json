@@ -1,0 +1,36 @@
+{
+  "istilah": "staf",
+  "entri": "staf bentuk tidak baku: staff",
+  "bentukTidakBaku": "staff",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "staf pimpinan",
+    "staf pribadi",
+    "staf umum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "staf bentuk tidak baku: staff",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Adm[Administrasi dan Kepegawaian: -]",
+          "deskripsi": "sekelompok orang yang bekerja sama membantu seorang ketua dalam mengelola sesuatu: -- redaksi majalah dinding di sekolah kami berjumlah lima orang; ia berkedudukan sebagai -- pimpinan di kantor itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekelompok perwira yang memimpin (mengatur dan sebagainya) tentara: ia adalah salah seorang kepala -- dalam kesatuan angkatan laut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian organisasi yang tidak mempunyai hak memberikan perintah, tetapi mempunyai hak membantu pimpinan, memberikan nasihat, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

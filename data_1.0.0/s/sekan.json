@@ -1,0 +1,33 @@
+{
+  "istilah": "sekan",
+  "entri": "se.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.kan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "garis lurus yang mempunyai satu titik persekutuan atau lebih dengan suatu lengkungan, jarak titik persekutuan bergantung pada posisi bentuk lengkungan"
+        }
+      ]
+    },
+    {
+      "lema": "se.kan /sêkan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dn[Dani: Bahasa di Papua]",
+          "deskripsi": "gelang anyaman dibuat dari kulit kayu atau kulit anggrek"
+        }
+      ]
+    }
+  ]
+}

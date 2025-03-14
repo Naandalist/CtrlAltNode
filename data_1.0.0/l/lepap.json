@@ -1,0 +1,35 @@
+{
+  "istilah": "lepap",
+  "entri": "le.pap1 /lêpap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terlepap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.pap1 /lêpap/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terlepap"
+        }
+      ]
+    },
+    {
+      "lema": "le.pap2 /lêpap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu kecil yang leper (ceper) lunasnya"
+        }
+      ]
+    }
+  ]
+}

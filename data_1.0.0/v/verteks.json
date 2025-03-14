@@ -1,0 +1,28 @@
+{
+  "istilah": "verteks",
+  "entri": "ver.teks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ver.teks",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "titik tempat permukaan kanta berpotongan dengan sumbu optis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "titik tembus sumbu optik dengan permukaan lensa dalam optika geometri"
+        }
+      ]
+    }
+  ]
+}

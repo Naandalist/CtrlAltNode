@@ -1,0 +1,55 @@
+{
+  "istilah": "rampak",
+  "entri": "ram.pak1",
+  "bentukTidakBaku": "rempak2",
+  "kataTurunan": [
+    "merampak"
+  ],
+  "gabunganKata": [
+    "rampak rindang",
+    "rampak gendang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bergabung, dikumpulkan bersama, berbondong-bondong, dalam barisan rapat",
+    "kataAsal": "rampak"
+  },
+  "data": [
+    {
+      "lema": "ram.pak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berdahan atau bercabang banyak dan panjang memapar (seperti pohon ketapang)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "banyak pakaian dan perhiasan yang dikenakan: pakaian pengantin perempuan lebih -- daripada pakaian pengantin lelaki"
+        }
+      ]
+    },
+    {
+      "lema": "ram.pak2 bentuk tidak baku: rempak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tumbang atau roboh (karena dilanggar dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ram.pak3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terdengar rapi; teratur; laras (tentang bunyi-bunyian, tetabuhan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kor"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "selia",
+  "entri": "se.li.a1 /sêlia/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyelia",
+    "penyelia",
+    "penyeliaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.li.a1 /sêlia/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "teratur rapi; elok (buatannya dan sebagainya); apik"
+        }
+      ]
+    },
+    {
+      "lema": "se.li.a2 /sêlia/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melihat"
+        }
+      ]
+    }
+  ]
+}

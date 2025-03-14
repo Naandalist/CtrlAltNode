@@ -1,0 +1,36 @@
+{
+  "istilah": "piawai",
+  "entri": "pi.a.wai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepiawaian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "neraca yang palingan, bungkal yang piawai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.a.wai",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pandai; cakap; mampu: yang menjadi juru bicara kedua belah pihak benar-benar orang yang --; dia adalah ahli ekonomi yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "betul (tentang anak timbangan): bungkal yang -- anak timbangan yang betul"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "adil (tentang pertimbangan, putusan, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

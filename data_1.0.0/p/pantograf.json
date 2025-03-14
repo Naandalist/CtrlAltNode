@@ -1,0 +1,28 @@
+{
+  "istilah": "pantograf",
+  "entri": "pan.to.graf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.to.graf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk membesarkan dan mengecilkan gambar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "konstruksi berbentuk belah ketupat yang dipasang di atas kereta api listrik, gunanya untuk mengalirkan arus listrik dari kabel ke motor-motor kereta api itu"
+        }
+      ]
+    }
+  ]
+}

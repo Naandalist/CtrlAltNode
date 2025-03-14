@@ -1,0 +1,39 @@
+{
+  "istilah": "talun",
+  "entri": "ta.lun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertalun",
+    "bertalun-talun",
+    "penalun",
+    "talun-temalun",
+    "talunan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.lun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "gaung; gema"
+        }
+      ]
+    },
+    {
+      "lema": "ta.lun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "lahan yang ditanami aneka tanaman keras"
+        }
+      ]
+    }
+  ]
+}

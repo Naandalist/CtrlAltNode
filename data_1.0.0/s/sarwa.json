@@ -1,0 +1,24 @@
+{
+  "istilah": "sarwa",
+  "entri": "sar.wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "setiap, seluruh, semua",
+    "kataAsal": "sarva"
+  },
+  "data": [
+    {
+      "lema": "sar.wa",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "semua; sekalian; serba"
+        }
+      ]
+    }
+  ]
+}

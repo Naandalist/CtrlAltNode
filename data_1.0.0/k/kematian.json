@@ -1,0 +1,37 @@
+{
+  "istilah": "kematian",
+  "entri": "mati » ke.ma.ti.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kematian bayi",
+    "kematian ibu",
+    "kematian neonatal",
+    "kematian obor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mati » ke.ma.ti.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal mati: ~ itu disebabkan oleh penyakit disentri"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menderita karena salah seorang meninggal: ia belum lama ini ~ anak sulungnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menderita karena sesuatu yang mati: perahu ~ angin"
+        }
+      ]
+    }
+  ]
+}

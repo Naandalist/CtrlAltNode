@@ -1,0 +1,37 @@
+{
+  "istilah": "partikel",
+  "entri": "par.ti.kel /partikêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpartikel"
+  ],
+  "gabunganKata": [
+    "partikel alfa",
+    "partikel bebas",
+    "partikel beta",
+    "partikel ingkar",
+    "partikel penegas",
+    "partikel tanya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "par.ti.kel /partikêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "unsur butir (dasar) benda atau bagian benda yang sangat kecil dan berdimensi; materi yang sangat kecil, seperti butir pasir, elektron, atom, atau molekul; zarah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kata yang biasanya tidak dapat diderivasikan atau diinfleksikan, mengandung makna gramatikal dan tidak mengandung makna leksikal, termasuk di dalamnya artikel, preposisi, konjungsi, dan interjeksi"
+        }
+      ]
+    }
+  ]
+}

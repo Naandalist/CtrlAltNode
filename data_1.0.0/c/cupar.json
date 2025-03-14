@@ -1,0 +1,35 @@
+{
+  "istilah": "cupar",
+  "entri": "cu.par1 bentuk tidak baku: copar",
+  "bentukTidakBaku": "copar",
+  "kataTurunan": [
+    "mencupar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cu.par1 bentuk tidak baku: copar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suka berkata-kata keji (serampangan saja dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "cu.par2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "sangat pelit dan selalu mencampuri urusan dapur atau pekerjaan orang perempuan (tentang seorang laki-laki)"
+        }
+      ]
+    }
+  ]
+}

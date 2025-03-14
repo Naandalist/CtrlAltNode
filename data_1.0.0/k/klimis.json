@@ -1,0 +1,34 @@
+{
+  "istilah": "klimis",
+  "entri": "kli.mis bentuk tidak baku: kelimis",
+  "bentukTidakBaku": "kelimis",
+  "kataTurunan": [
+    "terklimis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kli.mis bentuk tidak baku: kelimis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "licin dan berkilap: ia biasa berpakaian rapi dan rambutnya selalu --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rapi dan bersih (tentang pakaian, dandanan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "agak gemuk (tentang badan)"
+        }
+      ]
+    }
+  ]
+}

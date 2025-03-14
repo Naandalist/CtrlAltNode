@@ -1,0 +1,46 @@
+{
+  "istilah": "caplak",
+  "entri": "cap.lak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cap.lak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "artropoda kecil, memiliki empat pasang kaki, termasuk dalam subkelas Acarina, merupakan ektoparasit, mengisap darah vertebrata, vektor berbagai penyakit menular〔Ixodoidea〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lalat kuda (kerbau dan sebagainya); pikat1"
+        }
+      ]
+    },
+    {
+      "lema": "cap.lak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kutil besar"
+        }
+      ]
+    },
+    {
+      "lema": "cap.lak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "alat dari kayu dengan ujung bergerigi sama untuk membuat garis jarak tanam padi"
+        }
+      ]
+    }
+  ]
+}

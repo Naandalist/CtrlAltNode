@@ -1,0 +1,28 @@
+{
+  "istilah": "biliun",
+  "entri": "bi.li.un bentuk tidak baku: bilyun",
+  "bentukTidakBaku": "bilyun",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.li.un bentuk tidak baku: bilyun",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "satuan bilangan yang dilambangkan dengan dua belas nol (000.000.000.000) di belakang angka 1–9 (di Inggris dan Jerman)"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "satuan bilangan yang dilambangkan dengan sembilan nol (000.000.000) di belakang angka 1–9 (di Amerika Serikat dan Prancis)"
+        }
+      ]
+    }
+  ]
+}

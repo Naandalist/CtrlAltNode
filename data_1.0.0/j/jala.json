@@ -1,0 +1,46 @@
+{
+  "istilah": "jala",
+  "entri": "ja.la",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jala-jala",
+    "jalaan",
+    "menjala",
+    "menjalakan",
+    "penjala",
+    "penjalaan",
+    "terjala"
+  ],
+  "gabunganKata": [
+    "jala muatan",
+    "jala rambang",
+    "jala tangga"
+  ],
+  "peribahasa": [
+    "bagai menghela tali jala; ikan terkilat, jala tiba; pusat jala pumpunan ikan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jebakan, kumpulan, jaring",
+    "kataAsal": "jāla"
+  },
+  "data": [
+    {
+      "lema": "ja.la",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menangkap ikan yang berupa jaring bulat (penggunaannya dengan cara menebarkan atau mencampakkan ke air)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "net"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tangkap (tentang ikan) dengan jaring"
+        }
+      ]
+    }
+  ]
+}

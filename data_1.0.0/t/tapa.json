@@ -1,0 +1,61 @@
+{
+  "istilah": "tapa",
+  "entri": "ta.pa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertapa",
+    "mempertapakan",
+    "pertapa",
+    "pertapaan",
+    "petapa"
+  ],
+  "gabunganKata": [
+    "tapa biala",
+    "tapa brata",
+    "tapa pendem"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "asketisme, meditasi dalam, penderitaan, aib, ketegangan, penebusan dosa, ketaatan",
+    "kataAsal": "tapas"
+  },
+  "data": [
+    {
+      "lema": "ta.pa1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertapa"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tapah"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pa3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "kuat: tahan --"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pa4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tempa"
+        }
+      ]
+    }
+  ]
+}

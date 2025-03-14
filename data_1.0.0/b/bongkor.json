@@ -1,0 +1,33 @@
+{
+  "istilah": "bongkor",
+  "entri": "bong.kor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bong.kor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bakul dari kulit kayu yang dipakai untuk mengambil sarang lebah (madu)"
+        }
+      ]
+    },
+    {
+      "lema": "bong.kor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sebidang tanah yang tidak dikerjakan, antara lain, karena tidak ada waktu untuk mengerjakannya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "simbah",
+  "entri": "sim.bah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersimbah",
+    "menyimbah",
+    "bersimbah",
+    "menyimbah",
+    "menyimbahkan",
+    "tersimbah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sim.bah1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "basah"
+        }
+      ]
+    },
+    {
+      "lema": "sim.bah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menyimbah"
+        }
+      ]
+    },
+    {
+      "lema": "sim.bah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "embah"
+        }
+      ]
+    }
+  ]
+}

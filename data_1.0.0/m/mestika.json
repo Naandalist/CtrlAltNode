@@ -1,0 +1,37 @@
+{
+  "istilah": "mestika",
+  "entri": "mes.ti.ka /mêstika/bentuk tidak baku: mentika, mustika",
+  "bentukTidakBaku": "mentika, mustika",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mestika embun",
+    "mestika gamat"
+  ],
+  "peribahasa": [
+    "laksana mestika gamat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mes.ti.ka /mêstika/bentuk tidak baku: mentika, mustika",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu hablur yang sakti (terdapat dalam kepala ular, teripang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu permata yang berharga (seperti intan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "yang terelok; yang tercantik: elok sekali seperti -- gamat"
+        }
+      ]
+    }
+  ]
+}

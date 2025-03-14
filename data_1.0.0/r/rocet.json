@@ -1,0 +1,28 @@
+{
+  "istilah": "rocet",
+  "entri": "ro.cet",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.cet",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "banyak coretan (tentang tulisan)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kusut atau kacau (tentang pekerjaan, administrasi, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

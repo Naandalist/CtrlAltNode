@@ -1,0 +1,50 @@
+{
+  "istilah": "johar",
+  "entri": "jo.har2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Venus",
+    "kataAsal": "zuharah"
+  },
+  "data": [
+    {
+      "lema": "jo.har2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "intan; jauhar"
+        }
+      ]
+    },
+    {
+      "lema": "jo.har3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, tingginya mencapai 20 m, biasa ditanam sebagai pohon peneduh, kayunya yang tua sangat kuat dan keras, dibuat hulu dan sarung keris, daunnya digunakan untuk pengobatan malaria; juar〔Cassia siamea〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu johar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun johar"
+        }
+      ]
+    },
+    {
+      "lema": "Jo.har1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bintang timur; Venus; Zohrah"
+        }
+      ]
+    }
+  ]
+}

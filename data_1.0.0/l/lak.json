@@ -1,0 +1,44 @@
+{
+  "istilah": "lak",
+  "entri": "lak1 bentuk tidak baku: laka1",
+  "bentukTidakBaku": "laka1",
+  "kataTurunan": [
+    "mengelak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lak1 bentuk tidak baku: laka1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perekat keras dari damar berwarna merah atau hitam, untuk cap, meterai, dan sebagainya; lakeri"
+        }
+      ]
+    },
+    {
+      "lema": "lak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ent[Entomologi: -]",
+          "deskripsi": "serangga berukuran kecil yang termasuk keluarga Kerriidae, tersebar di kawasan Asia, mengisap cairan tanaman inangnya, menghasilkan sekresi lak yang menempel pada pohon, hidupnya berkelompok, merupakan serangga yang penting secara komersial, dan menjadi sumber utama resin yang dapat dimurnikan menjadi lak dan produk lainnya〔Kerria lacca〕"
+        }
+      ]
+    },
+    {
+      "lema": "lak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ent[Entomologi: -]",
+          "deskripsi": "zat anorganik yang menyerap warna"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "memepet",
+  "entri": "mepet » me.me.pet",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mepet » me.me.pet",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendesak"
+        }
+      ]
+    },
+    {
+      "lema": "pepet » me.me.pet",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengimpit"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendesak (ke sudut atau pinggir)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merapat"
+        }
+      ]
+    }
+  ]
+}

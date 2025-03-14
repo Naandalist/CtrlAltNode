@@ -1,0 +1,37 @@
+{
+  "istilah": "lintar",
+  "entri": "lin.tar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lin.tar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "halilintar"
+        }
+      ]
+    },
+    {
+      "lema": "lin.tar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lilit (suatu benda)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keliling (suatu bidang)"
+        }
+      ]
+    }
+  ]
+}

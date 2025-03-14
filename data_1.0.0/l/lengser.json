@@ -1,0 +1,38 @@
+{
+  "istilah": "lengser",
+  "entri": "leng.ser1 bentuk tidak baku: lenser",
+  "bentukTidakBaku": "lenser",
+  "kataTurunan": [
+    "melengser",
+    "melengserkan",
+    "pelengseran",
+    "melengser"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "liṅsir"
+  },
+  "data": [
+    {
+      "lema": "leng.ser1 bentuk tidak baku: lenser",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melengser"
+        }
+      ]
+    },
+    {
+      "lema": "leng.ser2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melengser"
+        }
+      ]
+    }
+  ]
+}

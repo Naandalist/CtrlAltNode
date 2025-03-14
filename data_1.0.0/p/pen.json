@@ -1,0 +1,33 @@
+{
+  "istilah": "pen",
+  "entri": "pen1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pen1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pena"
+        }
+      ]
+    },
+    {
+      "lema": "pen2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyangga dari logam (tembaga dan sebagainya) untuk memperkuat tulang yang retak, patah, rapuh, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

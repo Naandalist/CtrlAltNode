@@ -1,0 +1,35 @@
+{
+  "istilah": "kopok",
+  "entri": "ko.pok1 bentuk tidak baku: kopak1",
+  "bentukTidakBaku": "kopak1",
+  "kataTurunan": [
+    "kopokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.pok1 bentuk tidak baku: kopak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bunyi-bunyian seperti rebana kecil dibuat dari kayu atau logam"
+        }
+      ]
+    },
+    {
+      "lema": "ko.pok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "nanah yang keluar dari lubang telinga"
+        }
+      ]
+    }
+  ]
+}

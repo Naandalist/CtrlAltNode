@@ -1,0 +1,30 @@
+{
+  "istilah": "kalender",
+  "entri": "ka.len.der /kalendêr/bentuk tidak baku: kalendar",
+  "bentukTidakBaku": "kalendar",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kalender hijriah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.len.der /kalendêr/bentuk tidak baku: kalendar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daftar hari dan bulan dalam setahun; penanggalan; almanak; takwim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jadwal kegiatan di suatu perguruan atau lembaga: -- akademi"
+        }
+      ]
+    }
+  ]
+}

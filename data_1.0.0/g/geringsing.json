@@ -1,0 +1,33 @@
+{
+  "istilah": "geringsing",
+  "entri": "ge.ring.sing1 /gêringsing/bentuk tidak baku: keringsing",
+  "bentukTidakBaku": "keringsing",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tipe tekstil yang khas",
+    "kataAsal": "griṅsiṅ"
+  },
+  "data": [
+    {
+      "lema": "ge.ring.sing1 /gêringsing/bentuk tidak baku: keringsing",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "corak kain batik atau kain tenun, berupa bulatan-bulatan kecil berwarna dasar cokelat muda atau cokelat tua"
+        }
+      ]
+    },
+    {
+      "lema": "ge.ring.sing2 /gêringsing/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ gerising"
+        }
+      ]
+    }
+  ]
+}

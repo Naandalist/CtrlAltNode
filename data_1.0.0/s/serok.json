@@ -1,0 +1,65 @@
+{
+  "istilah": "serok",
+  "entri": "se.rok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "serokan",
+    "menyerok"
+  ],
+  "gabunganKata": [
+    "serok belakang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sendok kayu besar (untuk menuangkan mentega cair ke dalam api kurban)",
+    "kataAsal": "sruk"
+  },
+  "data": [
+    {
+      "lema": "se.rok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teluk kecil (di sungai atau di pantai laut); serokan"
+        }
+      ]
+    },
+    {
+      "lema": "se.rok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menyauk atau meraup benda-benda yang di dalam air dan sebagainya; pencedok"
+        }
+      ]
+    },
+    {
+      "lema": "se.rok1 /sêrok/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sero1"
+        }
+      ]
+    },
+    {
+      "lema": "se.rok2 /sêrok/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ seruk"
+        }
+      ]
+    },
+    {
+      "lema": "se.rok3 /sêrok/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ach[Aceh: -]",
+          "deskripsi": "menenun berselang-seling dengan benang perak atau benang emas"
+        }
+      ]
+    }
+  ]
+}

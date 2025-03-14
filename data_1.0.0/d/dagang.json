@@ -1,0 +1,64 @@
+{
+  "istilah": "dagang",
+  "entri": "da.gang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdagang",
+    "dagangan",
+    "memperdagangkan",
+    "mendagangkan",
+    "pedagang",
+    "perdagangan",
+    "berdagang",
+    "dagangan",
+    "mendagang",
+    "pendagang"
+  ],
+  "gabunganKata": [
+    "dagang sapi",
+    "dagang melarat",
+    "dagang piatu",
+    "dagang santri"
+  ],
+  "peribahasa": [
+    "adat dagang tahan tawar; laki pulang kelaparan, dagang lalu ditanakkan; laki pulang kelaparan, dagang lalu ditanakkan; perahu bertambatan, dagang bertepatan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.gang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekerjaan yang berhubungan dengan menjual dan membeli barang untuk memperoleh keuntungan; jual-beli; niaga"
+        }
+      ]
+    },
+    {
+      "lema": "da.gang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "dari negeri asing; asing: anak --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "orang dari negeri asing; pengembara: aku ini seorang --"
+        }
+      ]
+    },
+    {
+      "lema": "da.gang3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "pikul"
+        }
+      ]
+    }
+  ]
+}

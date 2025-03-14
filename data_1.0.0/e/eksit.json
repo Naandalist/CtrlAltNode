@@ -1,0 +1,32 @@
+{
+  "istilah": "eksit",
+  "entri": "ek.sit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ek.sit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "keluar: tol itu memiliki jalur -- di Brebes Timur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhenti dari pekerjaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pintu keluar: mobil tersebut meluncur ke -- hotel dengan terburu-buru"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "rinding",
+  "entri": "rin.ding1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merinding",
+    "merindingkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rin.ding1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gerinding"
+        }
+      ]
+    },
+    {
+      "lema": "rin.ding2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "merinding; merindingkan"
+        }
+      ]
+    }
+  ]
+}

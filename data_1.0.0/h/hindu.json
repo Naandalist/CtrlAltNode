@@ -1,0 +1,41 @@
+{
+  "istilah": "hindu",
+  "entri": "hin.du1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhindu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "dekat mencari suku, jauh mencari hindu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hin.du1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nenek moyang (di Minangkabau): para tetua desa itu sedang memperbincangkan suku dan mencari --"
+        }
+      ]
+    },
+    {
+      "lema": "Hin.du2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "agama yang berpedoman pada kitab suci Weda dan diturunkan ke dunia melalui saptaresi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebutan untuk penduduk asli India pada zaman dahulu"
+        }
+      ]
+    }
+  ]
+}

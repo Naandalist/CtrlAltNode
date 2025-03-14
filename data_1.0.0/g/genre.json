@@ -1,0 +1,38 @@
+{
+  "istilah": "genre",
+  "entri": "gen.re1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergenre"
+  ],
+  "gabunganKata": [
+    "genre prosa",
+    "genre puisi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gen.re1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "jenis, tipe, atau kelompok sastra atas dasar bentuknya; ragam sastra: -- prosa; -- puisi"
+        }
+      ]
+    },
+    {
+      "lema": "gen.re2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "generasi berencana"
+        }
+      ]
+    }
+  ]
+}

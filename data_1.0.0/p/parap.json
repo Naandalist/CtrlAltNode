@@ -1,0 +1,37 @@
+{
+  "istilah": "parap",
+  "entri": "pa.rap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berparap",
+    "memarap",
+    "pemarap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.rap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pukulan yang dilontarkan hanya ke bagian depan, gunanya sebagai pembuka serangan, pengganggu, atau sebagai pengukur jarak pukul dengan lawan dalam olahraga tinju"
+        }
+      ]
+    },
+    {
+      "lema": "pa.rap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ paraf"
+        }
+      ]
+    }
+  ]
+}

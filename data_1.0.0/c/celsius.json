@@ -1,0 +1,24 @@
+{
+  "istilah": "celsius",
+  "entri": "cel.si.us",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cel.si.us",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan suhu yang berasal dari nama penemu Anders Celsius, digunakan untuk suhu termometer yang memperlihatkan air membeku pada 0° dan mendidih pada 100° dalam keadaan normal"
+        }
+      ]
+    }
+  ]
+}

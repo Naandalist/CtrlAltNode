@@ -1,0 +1,34 @@
+{
+  "istilah": "laminasi",
+  "entri": "la.mi.na.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melaminasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.mi.na.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pang[Ilmu Pangan: istilah bidang ini mulai banyak dipakai sehingga perlu label baru]",
+          "deskripsi": "ikatan bersama dari dua atau lebih film kemasan, kertas, atau makanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelapisan bahan tipis dengan lempeng pada kedua sisinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan pelapis bahan tipis pada kedua sisinya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "rombok",
+  "entri": "rom.bok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rom.bok1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "rimbun; rampak"
+        }
+      ]
+    },
+    {
+      "lema": "rom.bok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama semacam perhiasan dari emas atau perak"
+        }
+      ]
+    }
+  ]
+}

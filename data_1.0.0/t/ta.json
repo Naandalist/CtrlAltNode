@@ -1,0 +1,33 @@
+{
+  "istilah": "ta",
+  "entri": "ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama huruf ke-3 abjad Arab",
+    "kataAsal": "tā’"
+  },
+  "data": [
+    {
+      "lema": "ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-3 abjad Arab"
+        }
+      ]
+    },
+    {
+      "lema": "TA",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "tugas akhir"
+        }
+      ]
+    }
+  ]
+}

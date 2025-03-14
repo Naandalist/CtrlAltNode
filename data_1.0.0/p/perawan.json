@@ -1,0 +1,39 @@
+{
+  "istilah": "perawan",
+  "entri": "pe.ra.wan /pêrawan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keperawanan",
+    "memerawani"
+  ],
+  "gabunganKata": [
+    "perawan kencur",
+    "perawan sunti",
+    "perawan tua"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ra.wan /pêrawan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak perempuan yang sudah patut kawin; anak dara; gadis"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "belum pernah bersetubuh dengan laki-laki; masih murni (tentang anak perempuan): meskipun umurnya 30 tahun, ia masih --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "belum digarap (diusik-usik, dijamah tentang hutan, daerah, dan sebagainya): sebagian besar hutan di pulau itu masih --"
+        }
+      ]
+    }
+  ]
+}

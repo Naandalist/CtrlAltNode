@@ -1,0 +1,85 @@
+{
+  "istilah": "silang",
+  "entri": "si.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersilang",
+    "bersilangan",
+    "mempersilangkan",
+    "menyilang",
+    "menyilangkan",
+    "persilangan",
+    "silang-menyilang",
+    "silangan",
+    "tersilang",
+    "menyilangkan",
+    "penyilang",
+    "penyilangan",
+    "persilangan",
+    "bersilang",
+    "menyilangi"
+  ],
+  "gabunganKata": [
+    "silang empat",
+    "silang pendapat",
+    "silang selimpat",
+    "silang selisih",
+    "silang sengkarut",
+    "silang sengketa",
+    "silang siur",
+    "silang balik",
+    "silang dalam",
+    "silang dua sifat",
+    "silang ganda",
+    "silang garis",
+    "silang lengkap",
+    "silang sanak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ganti, giliran, selingan; saling, satu sama lain",
+    "kataAsal": "sělaṅ"
+  },
+  "data": [
+    {
+      "lema": "si.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda yang berupa satu garis dipotong garis yang lain, seperti X, +"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu palang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "salib"
+        }
+      ]
+    },
+    {
+      "lema": "si.lang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kawin campur (bukan sesuku, segolongan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membibitkan dengan mencampur (tentang tumbuh-tumbuhan)"
+        }
+      ]
+    },
+    {
+      "lema": "si.lang3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "selang"
+        }
+      ]
+    }
+  ]
+}

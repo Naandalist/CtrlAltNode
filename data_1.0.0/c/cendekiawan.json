@@ -1,0 +1,30 @@
+{
+  "istilah": "cendekiawan",
+  "entri": "cen.de.ki.a.wan /cêndêkiawan/bentuk tidak baku: cendikiawan",
+  "bentukTidakBaku": "cendikiawan",
+  "kataTurunan": [
+    "kecendekiawanan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cen.de.ki.a.wan /cêndêkiawan/bentuk tidak baku: cendikiawan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang cerdik pandai; orang intelek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sos[Sosiologi: -]",
+          "deskripsi": "orang yang memiliki sikap hidup yang terus-menerus meningkatkan kemampuan berpikirnya untuk dapat mengetahui atau memahami sesuatu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "memalis",
+  "entri": "palis1 » me.ma.lis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "palis1 » me.ma.lis",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memandang arah lain (kiri, kanan, dan sebagainya) karena malu, berkecil hati, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "palis2 » me.ma.lis",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggosok licin-licin: ia telah selesai ~ ubin rumahnya"
+        }
+      ]
+    },
+    {
+      "lema": "palis3 » me.ma.lis",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyapukan (cat, cat bibir, dan sebagainya) pada"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencolek (dengan ujung jari)"
+        }
+      ]
+    }
+  ]
+}

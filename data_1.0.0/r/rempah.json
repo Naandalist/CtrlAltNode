@@ -1,0 +1,44 @@
+{
+  "istilah": "rempah",
+  "entri": "rem.pah1 /rêmpah/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merempah",
+    "berempah",
+    "merempah",
+    "merempah-rempah",
+    "merempah-rempahi",
+    "merempahi",
+    "rempah-rempah"
+  ],
+  "gabunganKata": [
+    "rempah aromatik",
+    "rempah ratus"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jenis masakan; masakan dari daging atau ikan dicincang dan dibumbui, dikukus dalam daun, ditaruh daam bola-bola kecil pada tusuk daging dari bambu dan dipanggang",
+    "kataAsal": "rěmpah"
+  },
+  "data": [
+    {
+      "lema": "rem.pah1 /rêmpah/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merempah"
+        }
+      ]
+    },
+    {
+      "lema": "rem.pah2 /rêmpah/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berbagai jenis hasil tanaman yang beraroma, seperti pala, cengkih, lada untuk memberikan bau dan rasa khusus pada makanan"
+        }
+      ]
+    }
+  ]
+}

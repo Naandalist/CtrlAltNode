@@ -1,0 +1,34 @@
+{
+  "istilah": "waswas",
+  "entri": "was.was bentuk tidak baku: was",
+  "bentukTidakBaku": "was",
+  "kataTurunan": [
+    "berwaswas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bisikan setan",
+    "kataAsal": "waswās"
+  },
+  "data": [
+    {
+      "lema": "was.was bentuk tidak baku: was",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ragu-ragu; kurang yakin"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "khawatir: dengan agak -- dia melangkah di jalan yang sepi itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "curiga"
+        }
+      ]
+    }
+  ]
+}

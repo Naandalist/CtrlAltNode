@@ -1,0 +1,28 @@
+{
+  "istilah": "falak",
+  "entri": "fa.lak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "peredaran bintang",
+    "kataAsal": "falak"
+  },
+  "data": [
+    {
+      "lema": "fa.lak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lengkung langit; lingkaran langit; cakrawala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan mengenai keadaan (peredaran, perhitungan, dan sebagainya) bintang-bintang; ilmu perbintangan; astronomi"
+        }
+      ]
+    }
+  ]
+}

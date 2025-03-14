@@ -1,0 +1,35 @@
+{
+  "istilah": "skor",
+  "entri": "skor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menskor",
+    "penskoran"
+  ],
+  "gabunganKata": [
+    "skor afrika",
+    "skor kacamata",
+    "skor kimia"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "skor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah angka kemenangan; kedudukan atau hasil pertandingan: -- menunjukkan kedudukan 7:3 untuk pemain kita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dik[Pendidikan: -]",
+          "deskripsi": "angka perolehan dalam tes (ujian, ulangan); biji: dari seratus soal, jawaban yang benar 80, --nya juga 80"
+        }
+      ]
+    }
+  ]
+}

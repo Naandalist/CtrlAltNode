@@ -1,0 +1,41 @@
+{
+  "istilah": "sekala",
+  "entri": "se.ka.la1 /sêkala/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.ka.la1 /sêkala/",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "selalu"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sewaktu-waktu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sediakala"
+        }
+      ]
+    },
+    {
+      "lema": "se.ka.la2 /sêkala/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ skala"
+        }
+      ]
+    }
+  ]
+}

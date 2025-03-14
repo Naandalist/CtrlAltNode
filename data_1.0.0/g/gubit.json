@@ -1,0 +1,35 @@
+{
+  "istilah": "gubit",
+  "entri": "gu.bit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggubit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.bit1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lambai"
+        }
+      ]
+    },
+    {
+      "lema": "gu.bit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "penganan, dibuat dari parutan singkong yang dikukus dan ditaburi parutan kelapa"
+        }
+      ]
+    }
+  ]
+}

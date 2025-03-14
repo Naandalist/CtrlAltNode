@@ -1,0 +1,40 @@
+{
+  "istilah": "minum",
+  "entri": "mi.num",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meminum",
+    "meminumi",
+    "meminumkan",
+    "minuman",
+    "peminum",
+    "terminum"
+  ],
+  "gabunganKata": [
+    "minum alkohol lewah",
+    "minum ruah"
+  ],
+  "peribahasa": [
+    "minum darah orang; minum serasa duri, makan serasa lilin, tidur tak lena, mandi tak basah; sambil menyelam minum air; sambil menyelam minum air"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mi.num",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasukkan air (atau benda cair) ke dalam mulut dan meneguknya: hampir setiap pagi ayahku -- susu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengisap: dilarang -- rokok di tempat penjualan bensin; -- madat"
+        }
+      ]
+    }
+  ]
+}

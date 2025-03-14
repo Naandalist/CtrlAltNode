@@ -1,0 +1,33 @@
+{
+  "istilah": "kintal",
+  "entri": "kin.tal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kin.tal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "katak yang dapat menggembungkan perutnya"
+        }
+      ]
+    },
+    {
+      "lema": "kin.tal2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kuintal"
+        }
+      ]
+    }
+  ]
+}

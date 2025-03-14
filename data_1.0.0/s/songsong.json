@@ -1,0 +1,39 @@
+{
+  "istilah": "songsong",
+  "entri": "song.song1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersongsong",
+    "menyongsong",
+    "penyongsong"
+  ],
+  "gabunganKata": [
+    "songsong arus"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "song.song1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlawanan arah"
+        }
+      ]
+    },
+    {
+      "lema": "song.song2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "payung kebesaran: Sri Sultan berjalan menuju tempat upacara dipayungi -- yang berwarna kuning keemasan"
+        }
+      ]
+    }
+  ]
+}

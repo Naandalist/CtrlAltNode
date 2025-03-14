@@ -1,0 +1,33 @@
+{
+  "istilah": "pis",
+  "entri": "pis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(se)gulungan: hartawan itu menyerahkan sumbangan lima puluh -- kain seprei"
+        }
+      ]
+    },
+    {
+      "lema": "pis2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kp[kependekan]",
+          "deskripsi": "pipis2"
+        }
+      ]
+    }
+  ]
+}

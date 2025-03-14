@@ -1,0 +1,43 @@
+{
+  "istilah": "rampok",
+  "entri": "ram.pok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merampok",
+    "perampok",
+    "perampokan",
+    "rampokan",
+    "terampok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menyerang dalam jumlah besar",
+    "kataAsal": "rampog"
+  },
+  "data": [
+    {
+      "lema": "ram.pok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengambil dengan paksa dan kekerasan barang milik orang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "merampok"
+        }
+      ]
+    },
+    {
+      "lema": "ram.pok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancing yang memakai 4–5 mata kail yang dijadikan satu: selain memancing dengan cara biasa, ada juga yang menggunakan --"
+        }
+      ]
+    }
+  ]
+}

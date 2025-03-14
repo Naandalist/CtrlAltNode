@@ -1,0 +1,24 @@
+{
+  "istilah": "medan kunci",
+  "entri": "medan1 » medan kunci",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "medan1 » medan kunci",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "medan dalam suatu rekaman yang menyimpan data unik yang mengidentifikasi rekaman tersebut dari rekaman-rekaman lainnya di dalam berkas atau pangkalan data; medan tombol"
+        }
+      ]
+    }
+  ]
+}

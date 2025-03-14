@@ -1,0 +1,41 @@
+{
+  "istilah": "zarah",
+  "entri": "za.rah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menzarah",
+    "sezarah"
+  ],
+  "gabunganKata": [
+    "zarah awan",
+    "zarah bebas",
+    "zarah identik",
+    "zarah ribosom",
+    "zarah teras"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "atom; semut kecil",
+    "kataAsal": "żarrah"
+  },
+  "data": [
+    {
+      "lema": "za.rah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butir (materi) yang halus sekali; partikel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bagian benda yang sangat kecil atau sel (seperti butir darah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bagian benda yang sangat kecil, misalnya molekul, atom, atau elektron"
+        }
+      ]
+    }
+  ]
+}

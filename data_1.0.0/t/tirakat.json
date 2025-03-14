@@ -1,0 +1,31 @@
+{
+  "istilah": "tirakat",
+  "entri": "ti.ra.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertirakat",
+    "tirakatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "keadaan; kebiasaan",
+    "kataAsal": "ṭarīqah"
+  },
+  "data": [
+    {
+      "lema": "ti.ra.kat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menahan hawa nafsu (seperti berpuasa, berpantang)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengasingkan diri ke tempat yang sunyi (di gunung dan sebagainya): ia mempunyai kegemaran -- dan bergaul dengan masyarakat kecil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "hierarki",
+  "entri": "hi.e.rar.ki bentuk tidak baku: hirarki",
+  "bentukTidakBaku": "hirarki",
+  "kataTurunan": [
+    "berhierarki",
+    "menghierarkikan"
+  ],
+  "gabunganKata": [
+    "hierarki fonologis",
+    "hierarki gramatikal",
+    "hierarki taksonomi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.e.rar.ki bentuk tidak baku: hirarki",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "urutan tingkatan atau jenjang jabatan (pangkat kedudukan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "organisasi dengan tingkat wewenang dari yang paling bawah sampai yang paling atas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "deretan tataran biologis, seperti famili, genus, spesies"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "kumpulan pemimpin gereja yang terdiri atas uskup, imam, dan diakon"
+        }
+      ]
+    }
+  ]
+}

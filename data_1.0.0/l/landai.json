@@ -1,0 +1,40 @@
+{
+  "istilah": "landai",
+  "entri": "lan.dai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "landaian",
+    "melandai",
+    "melandaikan"
+  ],
+  "gabunganKata": [
+    "landai barometrik",
+    "landai tekanan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.dai1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menurun sedikit demi sedikit; agak miring; tidak curam (tentang tanah, tepi sungai, pintu, dan sebagainya): pantai utara Pulau Jawa --"
+        }
+      ]
+    },
+    {
+      "lema": "lan.dai2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lendaian"
+        }
+      ]
+    }
+  ]
+}

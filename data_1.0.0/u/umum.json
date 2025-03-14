@@ -1,0 +1,52 @@
+{
+  "istilah": "umum",
+  "entri": "u.mum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memperumum",
+    "mengumumkan",
+    "pengumuman",
+    "perumuman",
+    "seumumnya",
+    "umumnya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang banyak; keseluruhan",
+    "kataAsal": "‘umūm"
+  },
+  "data": [
+    {
+      "lema": "u.mum1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengenai seluruhnya atau semuanya; secara menyeluruh, tidak menyangkut yang khusus (tertentu) saja: DPR mengadakan pemandangan -- tentang rencana undang-undang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "untuk orang banyak; (untuk orang) siapa saja: setiap pagi bus -- penuh dengan penumpang; kepentingan --; kamar mandi --; rapat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang banyak; khalayak ramai: pada jam-jam tertentu perpustakaan itu dibuka untuk --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tersiar (rata) ke mana-mana; (sudah) diketahui orang banyak: peristiwa itu sudah --"
+        }
+      ]
+    },
+    {
+      "lema": "u.mum2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ umun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "testing",
+  "entri": "tes.ting",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tes.ting",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengujian (percobaan) untuk mengetahui tingkat kemampuan (pengetahuan, keterampilan seseorang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "percobaan (pengujian) sesuatu untuk mengetahui mutunya (nilainya, kekuatannya, susunannya, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

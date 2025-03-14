@@ -1,0 +1,29 @@
+{
+  "istilah": "khitan",
+  "entri": "khi.tan bentuk tidak baku: katan1, khatan",
+  "bentukTidakBaku": "katan1, khatan",
+  "kataTurunan": [
+    "berkhitan",
+    "khitanan",
+    "mengkhitan",
+    "mengkhitankan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sunat",
+    "kataAsal": "khitān"
+  },
+  "data": [
+    {
+      "lema": "khi.tan bentuk tidak baku: katan1, khatan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sunat"
+        }
+      ]
+    }
+  ]
+}

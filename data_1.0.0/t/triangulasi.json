@@ -1,0 +1,24 @@
+{
+  "istilah": "triangulasi",
+  "entri": "tri.a.ngu.la.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tri.a.ngu.la.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "teknik navigasi yang menggunakan sifat-sifat segitiga trigonometri"
+        }
+      ]
+    }
+  ]
+}

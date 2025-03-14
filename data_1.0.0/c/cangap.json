@@ -1,0 +1,39 @@
+{
+  "istilah": "cangap",
+  "entri": "ca.ngap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercangap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.ngap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "takuk pada permukaan ujung atau pangkal galah (tiang dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang bentuknya seperti canggah"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ngap2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "rakus: anak yang --"
+        }
+      ]
+    }
+  ]
+}

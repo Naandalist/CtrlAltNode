@@ -1,0 +1,57 @@
+{
+  "istilah": "buta",
+  "entri": "bu.ta1",
+  "bentukTidakBaku": "bota",
+  "kataTurunan": [
+    "kebutaan",
+    "membuta",
+    "membutakan"
+  ],
+  "gabunganKata": [
+    "buta aksara",
+    "buta ayam",
+    "buta bahasa",
+    "buta gender",
+    "buta hati",
+    "buta hukum",
+    "buta huruf",
+    "buta kayu",
+    "buta malam",
+    "buta politik",
+    "buta siang",
+    "buta wajah",
+    "buta warna"
+  ],
+  "peribahasa": [
+    "bungkuk baru betul, (buta baru celik); buta baru celik (melihat); buta kehilangan; ikut hati mati, ikut mata buta; karena mata buta, karena hati mati; tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "hantu, setan, iblis, anak laki-laki, ruh, jiwa, elemen",
+    "kataAsal": "bhūta"
+  },
+  "data": [
+    {
+      "lema": "bu.ta1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat melihat karena rusak matanya; tunanetra; ablepsia: Braille telah berhasil menciptakan huruf untuk anak-anak --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak tahu (mengerti) sedikit pun tentang sesuatu: ia -- akan keadaan negeri itu"
+        }
+      ]
+    },
+    {
+      "lema": "bu.ta2 bentuk tidak baku: bota",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "raksasa"
+        }
+      ]
+    }
+  ]
+}

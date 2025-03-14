@@ -1,0 +1,42 @@
+{
+  "istilah": "indah kabar dr rupa",
+  "entri": "indah1 » indah kabar dari rupa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "indah1 » indah kabar dari rupa",
+      "arti": [
+        {
+          "kelas_kata": "ki[kiasan]",
+          "deskripsi": "berita yang tersebar biasanya lebih hebat daripada kenyataan yang sebenarnya"
+        }
+      ]
+    },
+    {
+      "lema": "kabar » indah kabar dari rupa",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berita yang tersebar biasanya lebih hebat daripada kenyataan yang sebenarnya"
+        }
+      ]
+    },
+    {
+      "lema": "rupa » indah kabar dari rupa",
+      "arti": [
+        {
+          "kelas_kata": "ki[kiasan]",
+          "deskripsi": "berita yang tersebar biasanya lebih hebat daripada kenyataan yang sebenarnya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "in dubio pro reo",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "jika terdapat keragu-raguan terhadap kesalahan terdakwa, hakim memberi putusan bebas"
+        }
+      ]
+    },
+    {
+      "lema": "in dubio pro reo",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "jika terdapat keragu-raguan terhadap kesalahan terdakwa, hakim memberi putusan bebas"
+        }
+      ]
+    }
+  ]
+}

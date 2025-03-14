@@ -1,0 +1,38 @@
+{
+  "istilah": "pumpun",
+  "entri": "pum.pun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpumpun",
+    "memumpun",
+    "pumpunan",
+    "terpumpun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pum.pun1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "himpun"
+        }
+      ]
+    },
+    {
+      "lema": "pum.pun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cacing nipah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "karbon",
+  "entri": "kar.bon bentuk tidak baku: karbonium",
+  "bentukTidakBaku": "karbonium",
+  "kataTurunan": [
+    "berkarbon"
+  ],
+  "gabunganKata": [
+    "karbon aktif",
+    "karbon biru",
+    "karbon cokelat",
+    "karbon dioksida",
+    "karbon hijau",
+    "karbon hitam",
+    "karbon monoksida",
+    "karbon tetraklorida"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kar.bon bentuk tidak baku: karbonium",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "unsur bukan logam, dalam alam terdapat sebagai intan, grafit, dan arang; zat arang; unsur dengan nomor atom 6, berlambang C, bobot atom 12,0111"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kertas tipis berlumas zat hitam untuk membuat tembusan ketikan atau tulisan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "batang arang yang dipakai pada lampu busur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "elektrode positif pada baterai kering; zat arang"
+        }
+      ]
+    }
+  ]
+}

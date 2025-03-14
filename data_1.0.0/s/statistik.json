@@ -1,0 +1,28 @@
+{
+  "istilah": "statistik",
+  "entri": "sta.tis.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sta.tis.tik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "catatan angka-angka (bilangan); perangkaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "data yang berupa angka yang dikumpulkan, ditabulasi, digolong-golongkan sehingga dapat memberi informasi yang berarti mengenai suatu masalah atau gejala"
+        }
+      ]
+    }
+  ]
+}

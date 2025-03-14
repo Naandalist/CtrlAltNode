@@ -1,0 +1,55 @@
+{
+  "istilah": "leler",
+  "entri": "le.ler1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berleleran",
+    "meleler",
+    "keleleran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "leler"
+  },
+  "data": [
+    {
+      "lema": "le.ler1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "leleh"
+        }
+      ]
+    },
+    {
+      "lema": "le.ler2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "nakal; kurang ajar"
+        }
+      ]
+    },
+    {
+      "lema": "le.ler3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "keleleran"
+        }
+      ]
+    },
+    {
+      "lema": "le.ler /lêlêr/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mulai berhenti atau berkurang (nafsu, angin ribut); reda"
+        }
+      ]
+    }
+  ]
+}

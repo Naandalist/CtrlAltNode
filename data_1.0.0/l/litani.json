@@ -1,0 +1,32 @@
+{
+  "istilah": "litani",
+  "entri": "li.ta.ni",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.ta.ni",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "doa atau permohonan yang dinyanyikan secara bersahutan dalam misa khusus untuk menggantikan doa umat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "puisi atau prosa berirama yang berisi doa, permohonan, mantra, bentuk yang sama dapat pula dituangkan dalam suatu komposisi musik, misalnya litani ciptaan Mozart"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembawaan puisi secara bersama dan bersahut-sahutan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "telanjur",
+  "entri": "te.lan.jur /têlanjur/bentuk tidak baku: terlanjur",
+  "bentukTidakBaku": "terlanjur",
+  "kataTurunan": [
+    "ketelanjuran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "mulut telanjur (terdorong), emas tantangannya (padahannya)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.lan.jur /têlanjur/bentuk tidak baku: terlanjur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terlewat dari batas atau tujuan yang ditentukan; teranjur: sedianya ia hendak turun di Stasiun Gambir, tetapi -- sampai ke Sawah Besar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terdorong (tentang perkataan); sudah terkatakan: ia -- mengatakan rahasianya; menebus kata yang --; mulut -- perkataan yang terdorong"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah terdahulu mengerjakannya (melakukannya): ia sudah -- membeli karcis untuk berangkat besok"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah berlebih-lebihan atau terlampau (banyak, sangat, dan sebagainya): rupanya semangat rakyat sudah -- berkobar-kobar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah terlambat (hingga sukar atau tidak dapat ditarik kembali, diulang, dan sebagainya): kalau sudah --, mau apa lagi"
+        }
+      ]
+    }
+  ]
+}

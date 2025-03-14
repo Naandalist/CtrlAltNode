@@ -1,0 +1,48 @@
+{
+  "istilah": "tembang",
+  "entri": "tem.bang1 /têmbang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menembang",
+    "menembangkan",
+    "penembang"
+  ],
+  "gabunganKata": [
+    "tembang cilik",
+    "tembang gede",
+    "tembang kawi",
+    "tembang macapat",
+    "tembang mistik",
+    "tembang tengahan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem.bang1 /têmbang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "syair yang diberi lagu (untuk dinyanyikan); nyanyian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "puisi"
+        }
+      ]
+    },
+    {
+      "lema": "tem.bang2 /têmbang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang hidup di air laut atau payau, ukurannya mencapai panjang 45 cm, berat 1,05 kg, umur 22 tahun, badan bulat agak panjang, hidup berkelompok di Lautan Atlantik dan sekitarnya dengan kedalaman 0–364 m; ikan tamban〔Clupea harengus harengus〕"
+        }
+      ]
+    }
+  ]
+}

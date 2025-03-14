@@ -1,0 +1,28 @@
+{
+  "istilah": "makruf",
+  "entri": "mak.ruf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tradisi baik",
+    "kataAsal": "ma‘rūf"
+  },
+  "data": [
+    {
+      "lema": "mak.ruf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perbuatan baik; jasa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "terkenal; masyhur"
+        }
+      ]
+    }
+  ]
+}

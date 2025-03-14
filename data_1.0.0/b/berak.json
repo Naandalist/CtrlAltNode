@@ -1,0 +1,44 @@
+{
+  "istilah": "berak",
+  "entri": "be.rak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memberaki",
+    "terberak-berak",
+    "terberak"
+  ],
+  "gabunganKata": [
+    "berak air",
+    "berak darah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.rak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "buang kotoran; buang air besar: anak kecil mempunyai kebiasaan -- di celana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotoran manusia atau binatang; tahi"
+        }
+      ]
+    },
+    {
+      "lema": "be.rak /bêrak/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terberak"
+        }
+      ]
+    }
+  ]
+}

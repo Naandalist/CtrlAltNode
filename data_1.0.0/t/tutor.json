@@ -1,0 +1,28 @@
+{
+  "istilah": "tutor",
+  "entri": "tu.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memberi pelajaran (membimbing) kepada seseorang atau sejumlah kecil siswa (di rumah, bukan di sekolah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dosen yang membimbing sejumlah mahasiswa dalam pelajarannya"
+        }
+      ]
+    }
+  ]
+}

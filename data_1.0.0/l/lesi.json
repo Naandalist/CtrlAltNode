@@ -1,0 +1,41 @@
+{
+  "istilah": "lesi",
+  "entri": "le.si1 /lêsi/bentuk tidak baku: lesih",
+  "bentukTidakBaku": "lesih",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.si1 /lêsi/bentuk tidak baku: lesih",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "putih benar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pucat"
+        }
+      ]
+    },
+    {
+      "lema": "le.si2 /lêsi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "luka, khususnya pada kulit yang pecah atau terkena infeksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "perubahan fisik pada bagian tubuh karena suatu penyakit atau luka"
+        }
+      ]
+    }
+  ]
+}

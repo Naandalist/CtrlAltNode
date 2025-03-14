@@ -1,0 +1,33 @@
+{
+  "istilah": "koyok",
+  "entri": "ko.yok1",
+  "bentukTidakBaku": "koyo",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "plester yang mengandung obat",
+    "kataAsal": "ko io̍h"
+  },
+  "data": [
+    {
+      "lema": "ko.yok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anjing yang tidak dipiara orang; anjing liar〔Canis sp.〕"
+        }
+      ]
+    },
+    {
+      "lema": "ko.yok2 bentuk tidak baku: koyo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat tempel (seperti plester) yang berkhasiat menyembuhkan reumatik, keseleo, dan masuk angin"
+        }
+      ]
+    }
+  ]
+}

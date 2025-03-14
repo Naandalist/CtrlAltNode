@@ -1,0 +1,46 @@
+{
+  "istilah": "mengacar",
+  "entri": "kacar1 » me.nga.car",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kacar1 » me.nga.car",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memancing cumi-cumi dan sebagainya dengan kacar"
+        }
+      ]
+    },
+    {
+      "lema": "kacar2 » me.nga.car",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "meraba (mencari ikan di sela-sela batu dan sebagainya): ~ ikan di sungai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menggeledah: penjaga pintu ~ semua orang yang keluar dari pabrik"
+        }
+      ]
+    },
+    {
+      "lema": "acar » meng.a.car",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengawetkan bahan makanan dengan cara dibuat acar; membuat acar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "reviu",
+  "entri": "re.vi.u",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.vi.u",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ing[Inggris: -]",
+          "deskripsi": "tinjau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ing[Inggris: -]",
+          "deskripsi": "tinjauan"
+        }
+      ]
+    }
+  ]
+}

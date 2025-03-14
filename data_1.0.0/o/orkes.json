@@ -1,0 +1,48 @@
+{
+  "istilah": "orkes",
+  "entri": "or.kes1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "orkes dangdut",
+    "orkes gambus",
+    "orkes gesek",
+    "orkes melayu",
+    "orkes simfoni",
+    "orkes tiup"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "or.kes1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok pemain musik yang bermain bersama pada seperangkat alat musik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "musik yang dimainkan secara bersama"
+        }
+      ]
+    },
+    {
+      "lema": "or.kes2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "olahraga dan kesehatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "olahraga dan kesenian"
+        }
+      ]
+    }
+  ]
+}

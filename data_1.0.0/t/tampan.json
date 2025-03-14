@@ -1,0 +1,52 @@
+{
+  "istilah": "tampan",
+  "entri": "tam.pan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertampan",
+    "ketampanan",
+    "mempertampan",
+    "menampan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "angkuh terbawa, tampan tinggal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tam.pan1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "elok (rupanya, sikapnya, bentuknya, letaknya); gagah: ia tampak -- kalau memakai jas dan dasi; potongan badannya cukup --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cocok; patut: cakap dan -- menjadi penerbang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "roman muka; air muka: -- mukanya mirip kakaknya; -- keduanya setara benar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wajah; sikap (badan); perawakan: usianya sudah lanjut, tetapi masih muda --nya"
+        }
+      ]
+    },
+    {
+      "lema": "tam.pan2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ talam"
+        }
+      ]
+    }
+  ]
+}

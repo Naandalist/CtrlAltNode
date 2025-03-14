@@ -1,0 +1,32 @@
+{
+  "istilah": "mnemonik",
+  "entri": "mne.mo.nik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mne.mo.nik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "sandi untuk mempermudah ingatan menyusun tata olah komputer dalam bahasa rakitan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "rumus atau ungkapan untuk membantu mengingat-ingat sesuatu; jembatan keledai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "kata, syair, atau bantuan memori lain yang digunakan untuk mengaitkan sekelompok informasi yang kompleks atau panjang dengan sesuatu yang sederhana dan mudah diingat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "istilah": "usul",
+  "entri": "u.sul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengusulkan",
+    "pengusul",
+    "pengusulan",
+    "usulan",
+    "mengusul",
+    "mengusuli",
+    "pengusulan"
+  ],
+  "gabunganKata": [
+    "usul bangsawan",
+    "usul budiman",
+    "usul pikiran",
+    "usul balasan",
+    "usul periksa"
+  ],
+  "peribahasa": [
+    "usul menunjukkan asal; usul menunjukkan asal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "dasar sesuatu",
+    "kataAsal": "uṣūl"
+  },
+  "data": [
+    {
+      "lema": "u.sul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asal; asal mula; dasar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang asli; yang sejati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sifat asal; kelakuan; tabiat: asal --, (-- asal) [1] silsilah [2] urutan keturunan [3] asal mula; bangsawan -- bangsawan karena asal keturunan"
+        }
+      ]
+    },
+    {
+      "lema": "u.sul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anjuran (pendapat dan sebagainya) yang dikemukakan untuk dipertimbangkan atau untuk diterima: seorang peserta mengajukan -- agar sidang diskors selama sepuluh menit"
+        }
+      ]
+    },
+    {
+      "lema": "u.sul3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "selidik"
+        }
+      ]
+    }
+  ]
+}

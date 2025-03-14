@@ -1,0 +1,28 @@
+{
+  "istilah": "hunkue",
+  "entri": "hun.ku.e bentuk tidak baku: hunkwe",
+  "bentukTidakBaku": "hunkwe",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Zhangzhou",
+    "arti": "tepung kacang hijau, sejenis kue",
+    "kataAsal": "hún kóe"
+  },
+  "data": [
+    {
+      "lema": "hun.ku.e bentuk tidak baku: hunkwe",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepung kacang hijau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang dibuat dari tepung kacang hijau"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "riadat",
+  "entri": "ri.a.dat bentuk tidak baku: riadah, rialat",
+  "bentukTidakBaku": "riadah, rialat",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penjinakan; pengekangan hawa nafsu agar jiwa tetap bersih dan berprasangka baik",
+    "kataAsal": "riyāḍah"
+  },
+  "data": [
+    {
+      "lema": "ri.a.dat bentuk tidak baku: riadah, rialat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perihal bertapa dengan mengekang hawa nafsu (memantang berbagai makanan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "latihan"
+        }
+      ]
+    }
+  ]
+}

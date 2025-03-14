@@ -1,0 +1,33 @@
+{
+  "istilah": "ronggeng",
+  "entri": "rong.geng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keronggengan",
+    "meronggeng"
+  ],
+  "gabunganKata": [
+    "ronggeng gunung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "penari perempuan",
+    "kataAsal": "roṅgeṅ"
+  },
+  "data": [
+    {
+      "lema": "rong.geng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "tari tradisional dengan penari utama wanita, dilengkapi dengan selendang yang dikalungkan di leher sebagai kelengkapan menari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "penari ronggeng; tandak"
+        }
+      ]
+    }
+  ]
+}

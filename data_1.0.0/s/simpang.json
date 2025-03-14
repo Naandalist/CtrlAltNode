@@ -1,0 +1,41 @@
+{
+  "istilah": "simpang",
+  "entri": "sim.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersimpang",
+    "bersimpangan",
+    "menyimpang",
+    "menyimpangkan",
+    "penyimpangan",
+    "persimpangan",
+    "simpangan"
+  ],
+  "gabunganKata": [
+    "simpang belahan",
+    "simpang sungai",
+    "simpang susun",
+    "simpang tiga (empat dan sebagainya)"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sim.pang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang memisah (membelok, bercabang, melencong, dan sebagainya) dari yang lurus (induknya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat berbelok atau bercabang dari yang lurus (tentang jalan): -- jalan; -- tiga (empat dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

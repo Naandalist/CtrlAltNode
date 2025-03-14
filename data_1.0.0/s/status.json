@@ -1,0 +1,31 @@
+{
+  "istilah": "status",
+  "entri": "sta.tus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berstatus"
+  ],
+  "gabunganKata": [
+    "status diploid",
+    "status gizi",
+    "status limnologis",
+    "status sosial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sta.tus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan atau kedudukan (orang, badan, dan sebagainya) dalam hubungan dengan masyarakat di sekelilingnya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "boa",
+  "entri": "boa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "boa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "syal atau selendang panjang yang terbuat dari benang halus, bulu binatang, atau kain lembut"
+        }
+      ]
+    },
+    {
+      "lema": "boa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ular besar (ular piton dan sebagainya) yang membunuh mangsanya dengan mendesak atau mengimpitnya"
+        }
+      ]
+    }
+  ]
+}

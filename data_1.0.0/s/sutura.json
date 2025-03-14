@@ -1,0 +1,36 @@
+{
+  "istilah": "sutura",
+  "entri": "su.tu.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.tu.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sendi senyawa antara tulang yang hubungannya terjadi karena adanya gerigi yang berpautan satu sama lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pertautan dua tulang yang tidak dapat bergerak lagi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pertemuan (jahitan) antara dua bagian bekas luka atau yang terpisah sehingga menjadi satu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "celah di antara tulang-tulang yang belum bersambung pada susunan tulang kepala bayi, tersusun dari beberapa lempeng tulang, yaitu 1 buah tulang di bagian belakang (tulang oksipital), 2 buah tulang di kanan dan kiri (tulang parietal), dan 2 buah tulang di depan (tulang frontal)"
+        }
+      ]
+    }
+  ]
+}

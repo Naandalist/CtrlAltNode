@@ -1,0 +1,35 @@
+{
+  "istilah": "taksa",
+  "entri": "tak.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketaksaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tak.sa1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mempunyai makna lebih dari satu; kabur atau meragukan (tentang makna); ambigu"
+        }
+      ]
+    },
+    {
+      "lema": "tak.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "takson-takson"
+        }
+      ]
+    }
+  ]
+}

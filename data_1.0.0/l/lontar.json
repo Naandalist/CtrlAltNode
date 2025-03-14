@@ -1,0 +1,59 @@
+{
+  "istilah": "lontar",
+  "entri": "lon.tar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlontaran",
+    "lontaran",
+    "melontar",
+    "melontari",
+    "melontarkan",
+    "pelontar",
+    "pelontaran",
+    "sepelontar",
+    "terlontar",
+    "melontar"
+  ],
+  "gabunganKata": [
+    "lontar martil",
+    "lontar hutan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pohon palem",
+    "kataAsal": "tāla"
+  },
+  "data": [
+    {
+      "lema": "lon.tar1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melontar"
+        }
+      ]
+    },
+    {
+      "lema": "lon.tar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon palem yang tumbuh tunggal, batangnya lurus, tinggi mencapai 30 m, daunnya berbentuk kipas yang bundar, tepinya berlekuk-lekuk dan lancip, buahnya besar dan bulat, dari dalamnya berserabut, berair, dan berbiji tiga, perbungaannya disadap menghasilkan nira; pohon siwalan〔Borassus flabellifer〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun pohon lontar yang digunakan orang untuk menulis cerita dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "naskah kuno yang tertulis pada daun lontar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "daun siwalan"
+        }
+      ]
+    }
+  ]
+}

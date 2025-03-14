@@ -1,0 +1,37 @@
+{
+  "istilah": "opang",
+  "entri": "o.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.pang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "bilah pengukur lebar mata jala, jaring, pukat (tidak standar tergantung kehendak pemesan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tangga dari bambu yang dilubangi sisi-sisinya untuk injakan kaki"
+        }
+      ]
+    },
+    {
+      "lema": "o.pang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] akr[akronim]",
+          "deskripsi": "ojek pangkalan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "istilah": "mara",
+  "entri": "ma.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermara",
+    "kemaraan",
+    "memarakan"
+  ],
+  "gabunganKata": [
+    "mara bahaya"
+  ],
+  "peribahasa": [
+    "mara hinggap mara terbang, enggang lalu ranting patah; mara jangan dipukat, rezeki jangan ditolak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "datang, mendatangi, mendekati, menghampiri",
+    "kataAsal": "(u)mara"
+  },
+  "data": [
+    {
+      "lema": "ma.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bencana; bahaya: sesungguhnya banyak -- di jalan, tetapi beratus-ratus orang Malaka datang juga ke selat"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ra2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tampil ke hadapan; maju: ia -- tiga langkah ke depan; pasukan itu -- ke arah pertahanan musuh"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "datang (ke suatu tempat)"
+        }
+      ]
+    },
+    {
+      "lema": "ma.ra3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotamara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sangga mara"
+        }
+      ]
+    }
+  ]
+}

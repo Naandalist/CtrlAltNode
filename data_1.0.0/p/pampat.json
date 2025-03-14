@@ -1,0 +1,37 @@
+{
+  "istilah": "pampat",
+  "entri": "pam.pat bentuk tidak baku: mampat, mampet",
+  "bentukTidakBaku": "mampat, mampet",
+  "kataTurunan": [
+    "kepampatan",
+    "ketermampatan",
+    "keterpampatan",
+    "memampat",
+    "memampatkan",
+    "pemampat",
+    "pemampatan",
+    "terpampat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pam.pat bentuk tidak baku: mampat, mampet",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "padat; tumpat; pejal (tidak berongga-rongga)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terhenti (tidak mengalir tentang air selokan)"
+        }
+      ]
+    }
+  ]
+}

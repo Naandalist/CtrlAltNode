@@ -1,0 +1,33 @@
+{
+  "istilah": "dorang",
+  "entri": "do.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sebangsa ikan pipih",
+    "kataAsal": "ḍoraṅ"
+  },
+  "data": [
+    {
+      "lema": "do.rang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bawal laut"
+        }
+      ]
+    },
+    {
+      "lema": "do.rang2",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "mereka (dipakai di daerah Indonesia bagian timur), dari dia orang"
+        }
+      ]
+    }
+  ]
+}

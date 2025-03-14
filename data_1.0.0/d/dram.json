@@ -1,0 +1,42 @@
+{
+  "istilah": "dram",
+  "entri": "dram1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dram1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "genderang"
+        }
+      ]
+    },
+    {
+      "lema": "dram2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan mata uang Armenia"
+        }
+      ]
+    },
+    {
+      "lema": "dram2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang Armenia"
+        }
+      ]
+    }
+  ]
+}

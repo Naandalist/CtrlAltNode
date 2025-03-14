@@ -1,0 +1,51 @@
+{
+  "istilah": "kadang",
+  "entri": "ka.dang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kadang-kadang",
+    "terkadang",
+    "terkadang-kadang",
+    "dikadang",
+    "mengadang"
+  ],
+  "gabunganKata": [
+    "kadang kala",
+    "kadang kedayan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sanak, saudara, keluarga",
+    "kataAsal": "kadaṅ"
+  },
+  "data": [
+    {
+      "lema": "ka.dang1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kadang-kadang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.dang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "dikadang; mengadang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.dang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "keluarga; sanak saudara (ada pertalian darah): lakon ini dimulai dari kekalahan pasukan Astinapura dalam perang besar -- Bharata"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "buku harian",
+  "entri": "buku1 » buku harian",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "buku1 » buku harian",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "buku tulis yang berisi catatan tentang kegiatan yang harus dilakukan dan kejadian yang dialami setiap hari"
+        },
+        {
+          "kelas_kata": "Dag[Perdagangan: -]",
+          "deskripsi": "buku untuk mencatat perincian transaksi usaha berdasarkan urutan waktu"
+        }
+      ]
+    }
+  ]
+}

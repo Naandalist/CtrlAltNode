@@ -1,0 +1,41 @@
+{
+  "istilah": "fleksi",
+  "entri": "flek.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "flek.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "perubahan bentuk kata sesuai dengan perbedaan waktu, jenis kelamin, jumlah, dan sebagainya, misalnya terdapat pada bahasa Inggris dan Jerman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "proses atau hasil penambahan afiks pada dasar atau pada akar untuk membatasi makna gramatikalnya"
+        }
+      ]
+    },
+    {
+      "lema": "flek.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "gerakan lentur pada persendian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan bersama yang menyebabkan sudut antara dua anggota badan menurun dengan posisi batang leher membungkuk ke depan"
+        }
+      ]
+    }
+  ]
+}

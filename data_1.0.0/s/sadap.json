@@ -1,0 +1,32 @@
+{
+  "istilah": "sadap",
+  "entri": "sa.dap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyadap",
+    "penyadap",
+    "penyadapan",
+    "sadapan",
+    "tersadap"
+  ],
+  "gabunganKata": [
+    "sadap data"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.dap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyadap"
+        }
+      ]
+    }
+  ]
+}

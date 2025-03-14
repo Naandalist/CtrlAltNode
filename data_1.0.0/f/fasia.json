@@ -1,0 +1,32 @@
+{
+  "istilah": "fasia",
+  "entri": "fa.si.a",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fa.si.a",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cacat wicara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gagap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "selaput jaringan ikat tipis yang membungkus otot dan memisahkan kelompok satu dengan yang lain serta meliputi atau menutupi struktur yang lain"
+        }
+      ]
+    }
+  ]
+}

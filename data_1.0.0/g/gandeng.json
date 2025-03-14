@@ -1,0 +1,42 @@
+{
+  "istilah": "gandeng",
+  "entri": "gan.deng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergandeng",
+    "bergandeng-gandeng",
+    "bergandengan",
+    "gandengan",
+    "mempergandengkan",
+    "menggandeng",
+    "menggandengkan",
+    "penggandeng",
+    "penggandengan",
+    "pergandengan",
+    "segandeng"
+  ],
+  "gabunganKata": [
+    "gandeng renteng"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gan.deng",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersambung; berhubungan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbimbing (tangan)"
+        }
+      ]
+    }
+  ]
+}

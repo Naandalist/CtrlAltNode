@@ -1,0 +1,36 @@
+{
+  "istilah": "dongeng",
+  "entri": "do.ngeng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dongengan",
+    "mendongeng",
+    "mendongengi",
+    "mendongengkan",
+    "pendongeng"
+  ],
+  "gabunganKata": [
+    "dongeng sasakala"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "do.ngeng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerita yang tidak benar-benar terjadi (terutama tentang kejadian zaman dulu yang aneh-aneh): anak-anak gemar mendengarkan -- Seribu Satu Malam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "perkataan (berita dan sebagainya) yang bukan-bukan atau tidak benar: uraian yang panjang itu dianggapnya hanya -- belaka"
+        }
+      ]
+    }
+  ]
+}

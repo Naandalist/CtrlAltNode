@@ -1,0 +1,42 @@
+{
+  "istilah": "mamak",
+  "entri": "ma.mak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermamak"
+  ],
+  "gabunganKata": [
+    "mamak kepala",
+    "mamak ninik",
+    "mamak rumah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kata panggilan untuk paman, teman dekat",
+    "kataAsal": "māma"
+  },
+  "data": [
+    {
+      "lema": "ma.mak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "saudara ibu yang laki-laki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Mk[Minangkabau: -]",
+          "deskripsi": "mak kecil atau mak tua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Mk[Minangkabau: -]",
+          "deskripsi": "kata sapaan yang digunakan oleh raja kepada pegawai kerajaan yang tua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "ibu"
+        }
+      ]
+    }
+  ]
+}

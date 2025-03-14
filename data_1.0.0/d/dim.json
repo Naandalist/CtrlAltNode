@@ -1,0 +1,33 @@
+{
+  "istilah": "dim",
+  "entri": "dim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dim1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran panjang 1/12 kaki; 2,54 ml; inci"
+        }
+      ]
+    },
+    {
+      "lema": "dim2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lampu besar di bagian depan mobil yang dapat dimatikan atau dihidupkan untuk memberi isyarat kepada kendaraan lain"
+        }
+      ]
+    }
+  ]
+}

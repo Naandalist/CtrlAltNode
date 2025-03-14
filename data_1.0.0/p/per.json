@@ -1,0 +1,94 @@
+{
+  "istilah": "per",
+  "entri": "per1 bentuk tidak baku: pir2",
+  "bentukTidakBaku": "pir2pir2",
+  "kataTurunan": [
+    "berper",
+    "mengeper",
+    "mengeper"
+  ],
+  "gabunganKata": [
+    "per keong",
+    "per kapita"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per1 bentuk tidak baku: pir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pegas: -- arloji"
+        }
+      ]
+    },
+    {
+      "lema": "per2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bola lampu listrik; bohlam"
+        }
+      ]
+    },
+    {
+      "lema": "per3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengeper"
+        }
+      ]
+    },
+    {
+      "lema": "per1 /pêr/bentuk tidak baku: pir2",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "tiap-tiap: mobil ini dapat mencapai seratus lima puluh kilometer -- jam"
+        }
+      ]
+    },
+    {
+      "lema": "per2 /pêr/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "demi (satu-satu): satu -- satu mereka masuk ke kelas"
+        }
+      ]
+    },
+    {
+      "lema": "per3 /pêr/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "mulai; sejak: peraturan itu berlaku -- 1 April tahun ini"
+        }
+      ]
+    },
+    {
+      "lema": "per4 /pêr/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "bagi (dalam angka pecahan): dua --lima; tiga --empat"
+        }
+      ]
+    },
+    {
+      "lema": "per5 /pêr/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "dengan (memakai, menggunakan, dan sebagainya): dia menghubungi saudaranya -- telepon; Anda dapat mengirim uang -- wesel pos"
+        }
+      ]
+    }
+  ]
+}

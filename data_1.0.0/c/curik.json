@@ -1,0 +1,33 @@
+{
+  "istilah": "curik",
+  "entri": "cu.rik1 bentuk tidak baku: corek2",
+  "bentukTidakBaku": "corek2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "keris, pisau belati",
+    "kataAsal": "curik"
+  },
+  "data": [
+    {
+      "lema": "cu.rik1 bentuk tidak baku: corek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golok pendek"
+        }
+      ]
+    },
+    {
+      "lema": "cu.rik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalak berwarna putih dengan kulit sekitar mata biru, tersebar di Bali〔Leucopsar rothschildi〕"
+        }
+      ]
+    }
+  ]
+}

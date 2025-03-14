@@ -1,0 +1,30 @@
+{
+  "istilah": "ijmal",
+  "entri": "ij.mal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengijmalkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "secara umum; perhitungan",
+    "kataAsal": "ijmāl"
+  },
+  "data": [
+    {
+      "lema": "ij.mal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ringkasan; ikhtisar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(secara) umum, tidak terinci: inilah makna ayat 101 Surah Albaqarah secara --"
+        }
+      ]
+    }
+  ]
+}

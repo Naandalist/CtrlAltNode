@@ -1,0 +1,33 @@
+{
+  "istilah": "male",
+  "entri": "ma.le",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.le",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] BgM[Bugis-Makassar: -]",
+          "deskripsi": "kertas berwarna-warni yang biasa digantung bersama telur berwarna-warni, biasa digunakan pada acara Maulid Nabi Muhammad saw."
+        }
+      ]
+    },
+    {
+      "lema": "ma.le /malê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "kata sapaan kepada perempuan yang mandul"
+        }
+      ]
+    }
+  ]
+}

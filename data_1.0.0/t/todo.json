@@ -1,0 +1,37 @@
+{
+  "istilah": "todo",
+  "entri": "to.do1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.do1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sbw[Sumbawa: diubah singkatan label karena ada bahasa ]",
+          "deskripsi": "tempat menyimpan air yang terbuat dari bambu"
+        }
+      ]
+    },
+    {
+      "lema": "to.do2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kal[Kaili: -]",
+          "deskripsi": "penanggalan kuno yang dibuat dari tanduk kerbau yang diukir, dilubangi, dan dipasang benang di dalamnya untukmenandai waktu, dahulu dipakai menghitung hari baik untuk menyelenggarakan hari pesta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kal[Kaili: -]",
+          "deskripsi": "pedoman untuk melihat waktu terbaik dalam satu hari yang dipercaya dapat  membawa rezeki"
+        }
+      ]
+    }
+  ]
+}

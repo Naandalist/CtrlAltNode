@@ -1,0 +1,42 @@
+{
+  "istilah": "igau",
+  "entri": "i.gau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "igau-igauan",
+    "igauan",
+    "mengigau",
+    "mengigaukan",
+    "pengigau",
+    "terigau-igau",
+    "igau-igauan",
+    "terigau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.gau1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "racau; berkata-kata (dalam tidur) tanpa sadar"
+        }
+      ]
+    },
+    {
+      "lema": "i.gau2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hura-hura; gempar"
+        }
+      ]
+    }
+  ]
+}

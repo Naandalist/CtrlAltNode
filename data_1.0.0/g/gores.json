@@ -1,0 +1,35 @@
+{
+  "istilah": "gores",
+  "entri": "go.res bentuk tidak baku: kores",
+  "bentukTidakBaku": "kores",
+  "kataTurunan": [
+    "bergores",
+    "bergores-gores",
+    "goresan",
+    "menggores",
+    "menggoreskan",
+    "penggores",
+    "penggoresan",
+    "tergores"
+  ],
+  "gabunganKata": [
+    "gores api"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "gesekan",
+    "kataAsal": "ghṛṣ"
+  },
+  "data": [
+    {
+      "lema": "go.res bentuk tidak baku: kores",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis; garit; corek; parut"
+        }
+      ]
+    }
+  ]
+}

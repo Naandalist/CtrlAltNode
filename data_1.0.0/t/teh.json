@@ -1,0 +1,57 @@
+{
+  "istilah": "teh",
+  "entri": "teh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengeteh",
+    "teh-tehan"
+  ],
+  "gabunganKata": [
+    "teh botol",
+    "teh celup",
+    "teh herbal",
+    "teh hijau",
+    "teh hitam",
+    "teh hutan",
+    "teh jahe merah",
+    "teh kampung",
+    "teh kotak",
+    "teh kulit manggis",
+    "teh kuning",
+    "teh makau",
+    "teh merah",
+    "teh obeng",
+    "teh oolong",
+    "teh pahit",
+    "teh paraguai",
+    "teh pelangsing",
+    "teh poci",
+    "teh putih",
+    "teh ragi",
+    "teh susu",
+    "teh talua",
+    "teh tarik",
+    "teh tubruk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "teh",
+    "kataAsal": "tê"
+  },
+  "data": [
+    {
+      "lema": "teh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon kecil, tumbuh di alam bebas, daunnya berbentuk jorong atau bulat telur, pucuknya dilayukan dan dikeringkan untuk dibuat minuman (di pabrik dan sebagainya)〔Camellia sinensis〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman yang dibuat dengan merendam daun teh dalam air panas, memiliki rasa yang agak pahit dan aromatik, kadang ditambahi gula, susu, dan lain-lain, dan dapat disajikan dingin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "legum doctor",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "doktor ilmu hukum; disingkat LLD"
+        }
+      ]
+    },
+    {
+      "lema": "legum doctor",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "doktor ilmu hukum; disingkat LLD"
+        }
+      ]
+    }
+  ]
+}

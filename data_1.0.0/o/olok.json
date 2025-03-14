@@ -1,0 +1,42 @@
+{
+  "istilah": "olok",
+  "entri": "o.lok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berolok-olok",
+    "memperolok-olok",
+    "memperolok-olokkan",
+    "mengolok-olok",
+    "olok-olok",
+    "olok-olokan",
+    "pengolok-olok",
+    "olok-olok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.lok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "olok-olok"
+        }
+      ]
+    },
+    {
+      "lema": "o.lok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "olok-olok"
+        }
+      ]
+    }
+  ]
+}

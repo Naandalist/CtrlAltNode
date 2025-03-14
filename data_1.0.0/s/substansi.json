@@ -1,0 +1,38 @@
+{
+  "istilah": "substansi",
+  "entri": "sub.stan.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "substansi cahaya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sub.stan.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "watak yang sebenarnya dari sesuatu; isi; pokok; inti: dalam konferensi akan dihimpun -- masalah yang akan kita bicarakan dalam pertemuan tingkat tinggi mendatang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "unsur; zat: pembakaran terjadi sebagai hasil persenyawaan sebuah -- dengan oksigen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekayaan; harta: pikiran merupakan -- yang tidak kelihatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "medium yang dipakai untuk mengungkapkan bahasa"
+        }
+      ]
+    }
+  ]
+}

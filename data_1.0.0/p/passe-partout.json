@@ -1,0 +1,49 @@
+{
+  "istilah": "passe-partout",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Pr[Prancis: -]",
+          "deskripsi": "kartu yang berlaku untuk segala macam pertunjukan dan peristiwa"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Pr[Prancis: -]",
+          "deskripsi": "anak kunci untuk membuka segala macam kunci"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Pr[Prancis: -]",
+          "deskripsi": "bingkai gambar"
+        }
+      ]
+    },
+    {
+      "lema": "passe-partout",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Prancis: -]",
+          "deskripsi": "kartu yang berlaku untuk segala macam pertunjukan dan peristiwa"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Prancis: -]",
+          "deskripsi": "anak kunci untuk membuka segala macam kunci"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Prancis: -]",
+          "deskripsi": "bingkai gambar"
+        }
+      ]
+    }
+  ]
+}

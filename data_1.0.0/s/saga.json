@@ -1,0 +1,43 @@
+{
+  "istilah": "saga",
+  "entri": "sa.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "saga betina",
+    "saga biji",
+    "saga gajah",
+    "saga kayu",
+    "saga kenderi",
+    "saga pohon",
+    "saga rambat"
+  ],
+  "peribahasa": [
+    "seperti biji saga rambat di atas talam; yang merah saga, yang kurik kundi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perdu merambat, termasuk suku Leguminosae, berdaun majemuk menyirip ganjil, bunganya berwarna merah, polongnya berbentuk lonjong, berisi 3—6 biji, berwarna merah mengilap dengan bercak hitam; saga biji; saga rambat〔Abrus precatorius〕"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "cerita rakyat (berdasarkan peristiwa sejarah yang telah bercampur fantasi rakyat); prosa kisahan lama yang bersifat legendaris tentang kepahlawanan keluarga yang terkenal atau pertualangan yang mengagumkan"
+        }
+      ]
+    }
+  ]
+}

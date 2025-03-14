@@ -1,0 +1,45 @@
+{
+  "istilah": "paruh",
+  "entri": "pa.ruh1",
+  "bentukTidakBaku": "paro",
+  "kataTurunan": [
+    "berparuh",
+    "memaruh",
+    "memaruh",
+    "paruhan",
+    "pemaruh",
+    "separuh"
+  ],
+  "gabunganKata": [
+    "paruh baya",
+    "paruh waktu"
+  ],
+  "peribahasa": [
+    "patah sayap bertongkat paruh; patah tongkat berjeremang (patah sayap bertongkat paruh; patah tongkat bertelekan)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.ruh1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "moncong atau mulut (burung, ayam, itik); cotok"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ruh2 bentuk tidak baku: paro",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "perdua"
+        }
+      ]
+    }
+  ]
+}

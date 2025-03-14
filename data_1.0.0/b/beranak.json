@@ -1,0 +1,42 @@
+{
+  "istilah": "beranak",
+  "entri": "anak » ber.a.nak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "beranak berbiak",
+    "beranak bercucu",
+    "beranak pinak"
+  ],
+  "peribahasa": [
+    "bagai anjing beranak enam; belum beranak sudah ditimang, belum duduk sudah berlunjur; belum beranak, sudah ditimang; beranak tiada berbidan; sepesan anak, anaknya beranak (menggigit) pula; seperti beranak besar hidung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "anak » ber.a.nak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai anak: ia sudah ~ dua orang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melahirkan anak: istrinya baru ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dengan anaknya: saudagar tiga ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "bercabang: soal matematika biasanya sedikit, tetapi ~"
+        }
+      ]
+    }
+  ]
+}

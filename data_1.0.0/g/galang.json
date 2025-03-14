@@ -1,0 +1,60 @@
+{
+  "istilah": "galang",
+  "entri": "ga.lang1",
+  "bentukTidakBaku": "galeng",
+  "kataTurunan": [
+    "bergalang",
+    "galang-gulung",
+    "galangan",
+    "menggalang",
+    "menggalangkan",
+    "penggalang",
+    "penggalangan",
+    "tergalang",
+    "menggalang",
+    "menggalangi",
+    "tergalang",
+    "galangan"
+  ],
+  "gabunganKata": [
+    "galang kepala",
+    "galang perahu"
+  ],
+  "peribahasa": [
+    "lain biduk, lain di galang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "galěṅ"
+  },
+  "data": [
+    {
+      "lema": "ga.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang dipasang melintang (seperti bantal, penyangga, ganjal, landasan dari kayu, balok); kayu dan sebagainya penunjang atau penopang supaya tinggi atau supaya tidak rebah; kalang"
+        }
+      ]
+    },
+    {
+      "lema": "ga.lang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "rintang; halang"
+        }
+      ]
+    },
+    {
+      "lema": "ga.lang3 bentuk tidak baku: galeng",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "galangan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "neon",
+  "entri": "ne.on",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "peneonan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ne.on",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "gas yang ditemukan dalam udara, tidak bergerak dan tidak berwarna, dapat memberikan panas dan sinar pada tabung vakum; unsur dengan nomor atom 10, berlambang Ne"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lampu listrik berbentuk tabung yang berisi gas neon"
+        }
+      ]
+    }
+  ]
+}

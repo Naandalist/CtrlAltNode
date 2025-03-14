@@ -1,0 +1,32 @@
+{
+  "istilah": "bordes",
+  "entri": "bor.des",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bor.des",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangga untuk naik ke pintu (kereta api dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "platform yang cukup luas di antara anak-anak tangga, berfungsi sebagai area jeda pada tangga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sambungan atau penghubung antargerbong kereta api, biasanya terdapat toilet dan pintu keluar masuk kereta api"
+        }
+      ]
+    }
+  ]
+}

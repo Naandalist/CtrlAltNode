@@ -1,0 +1,35 @@
+{
+  "istilah": "pasok",
+  "entri": "pa.sok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memasok",
+    "memasokkan",
+    "pasokan",
+    "pemasok",
+    "pemasokan",
+    "terpasok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.sok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembayaran, misalnya pajak kepada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengadaan persediaan; perbekalan; suplai"
+        }
+      ]
+    }
+  ]
+}

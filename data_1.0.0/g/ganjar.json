@@ -1,0 +1,29 @@
+{
+  "istilah": "ganjar",
+  "entri": "gan.jar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ganjaran",
+    "mengganjar",
+    "mengganjari",
+    "mengganjarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "hadiah",
+    "kataAsal": "gañjar"
+  },
+  "data": [
+    {
+      "lema": "gan.jar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beri hadiah; imbal"
+        }
+      ]
+    }
+  ]
+}

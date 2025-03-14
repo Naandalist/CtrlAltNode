@@ -1,0 +1,44 @@
+{
+  "istilah": "tapai",
+  "entri": "ta.pai1 bentuk tidak baku: tape",
+  "bentukTidakBaku": "tape",
+  "kataTurunan": [
+    "menapai",
+    "penapai",
+    "penapaian",
+    "tapaian"
+  ],
+  "gabunganKata": [
+    "tapai ketan",
+    "tapai singkong",
+    "tapai uli"
+  ],
+  "peribahasa": [
+    "macam tapai mengairi dirinya; rusak tapai karena ragi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.pai1 bentuk tidak baku: tape",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang dibuat dari beras ketan (ubi kayu dan sebagainya) yang direbus dan setelah dingin diberi ragi, kemudian dibiarkan semalam atau lebih hingga manis"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tapaian"
+        }
+      ]
+    }
+  ]
+}

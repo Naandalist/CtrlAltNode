@@ -1,0 +1,38 @@
+{
+  "istilah": "pirik",
+  "entri": "pi.rik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memirik",
+    "memirik"
+  ],
+  "gabunganKata": [
+    "pirik ikan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.rik1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memirik"
+        }
+      ]
+    },
+    {
+      "lema": "pi.rik2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "cubit; jepit"
+        }
+      ]
+    }
+  ]
+}

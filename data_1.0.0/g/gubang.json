@@ -1,0 +1,44 @@
+{
+  "istilah": "gubang",
+  "entri": "gu.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergubang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.bang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu layar (pada suku Orang Laut di Riau)"
+        }
+      ]
+    },
+    {
+      "lema": "gu.bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "takik-takik pada pohon untuk tumpuan memanjat"
+        }
+      ]
+    },
+    {
+      "lema": "gu.bang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ gobang1"
+        }
+      ]
+    }
+  ]
+}

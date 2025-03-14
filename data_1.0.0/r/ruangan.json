@@ -1,0 +1,40 @@
+{
+  "istilah": "ruangan",
+  "entri": "ruang » ru.ang.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "ruangan gema",
+    "ruangan pendapat",
+    "ruangan wanita"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ruang » ru.ang.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang lega; kamar (besar); bilik (dalam rumah); kelas (tempat belajar); tempat dalam kapal (perahu); tempat muatan; palka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lajur; kolom surat kabar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapangan; lingkungan; kalangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rubrik dalam koran (majalah)"
+        }
+      ]
+    }
+  ]
+}

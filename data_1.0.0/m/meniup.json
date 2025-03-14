@@ -1,0 +1,36 @@
+{
+  "istilah": "meniup",
+  "entri": "tiup » me.ni.up",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tiup » me.ni.up",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengembus"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membunyikan dengan mengembus (suling, peluit, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menyemburi; memantrai; menjampi: dukun itu diminta ~ anak yang kerasukan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "mengobarkan (perselisihan, semangat bertanding, dan sebagainya): jika tidak ada yang ~, perselisihan itu sudah dapat diselesaikan"
+        }
+      ]
+    }
+  ]
+}

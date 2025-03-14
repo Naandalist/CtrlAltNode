@@ -1,0 +1,55 @@
+{
+  "istilah": "malang",
+  "entri": "ma.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemalangan",
+    "memalangi",
+    "termalang"
+  ],
+  "gabunganKata": [
+    "malang kerik",
+    "malang melintang",
+    "malang mujur"
+  ],
+  "peribahasa": [
+    "hulu malang, pangkal celaka; malang celaka Raja Genggang, anak terbeli tunjang hilang; malang tak berbau; malang tak boleh ditolak, mujur tak boleh diraih; mujur sepanjang hari, malang sekejap mata; mujur tidak boleh diraih, malang tidak boleh ditolak; tak putus dirundung malang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.lang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terletak melintang: sehabis badai itu batang dan dahan kayu -- melintang di jalan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bernasib buruk; celaka; sial: ia menerima nasibnya yang -- itu dengan penuh kesabaran"
+        }
+      ]
+    },
+    {
+      "lema": "Ma.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota di Provinsi Jawa Timur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Provinsi Kalimantan Barat bagian tengah; Dayak Dusun Malang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Jawa Timur"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "tilik-menilik",
+  "entri": "tilik1 » ti.lik-me.ni.lik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tilik1 » ti.lik-me.ni.lik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "saling menilik"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "perihal menilik"
+        }
+      ]
+    },
+    {
+      "lema": "tilik2 » ti.lik-me.ni.lik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "saling menilik (menenung)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "perihal menilik (menenung)"
+        }
+      ]
+    }
+  ]
+}

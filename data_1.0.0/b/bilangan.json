@@ -1,0 +1,82 @@
+{
+  "istilah": "bilangan",
+  "entri": "bilang1 » bi.lang.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bilangan asli",
+    "bilangan bulat",
+    "bilangan cacah",
+    "bilangan campuran",
+    "bilangan catu",
+    "bilangan desimal",
+    "bilangan ganjil",
+    "bilangan gasal",
+    "bilangan gelombang",
+    "bilangan genap",
+    "bilangan imajiner",
+    "bilangan irasional",
+    "bilangan kardinal",
+    "bilangan kendali",
+    "bilangan khayal",
+    "bilangan kompleks",
+    "bilangan kuadrat",
+    "bilangan kuantum",
+    "bilangan mach",
+    "bilangan oksidasi",
+    "bilangan ordinal",
+    "bilangan pecahan",
+    "bilangan penuh",
+    "bilangan pokok",
+    "bilangan prima",
+    "bilangan rasional",
+    "bilangan riil",
+    "bilangan tingkat",
+    "bilangan utuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bilang1 » bi.lang.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "banyaknya benda dan sebagainya; jumlah: tidak diketahui benar ~nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan jumlah: satu dan tiga adalah ~ ganjil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "satuan dalam sistem matematis yang abstrak dan dapat diunitkan, ditambah, atau dikalikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan (lingkungan): ia masuk ~ orang berada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lingkungan daerah: rumahnya di ~ Kebayoran Baru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ramalan untung malang, baik buruk, dan sebagainya: menurut ~ hari itu kurang baik untuk berziarah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "nasib dan sebagainya yang telah tertentu; takdir: sudah sampai ~nya akan meninggal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ide yang bersifat abstrak yang bukan simbol atau lambang, yang memberikan keterangan mengenai banyaknya anggota himpunan"
+        }
+      ]
+    }
+  ]
+}

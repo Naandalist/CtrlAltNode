@@ -1,0 +1,35 @@
+{
+  "istilah": "cecap",
+  "entri": "ce.cap1 /cêcap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencecap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menghisap; mencium (dengan bibir)",
+    "kataAsal": "cěcěp"
+  },
+  "data": [
+    {
+      "lema": "ce.cap1 /cêcap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cicip"
+        }
+      ]
+    },
+    {
+      "lema": "ce.cap2 /cêcap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung kecil yang biasa mengisap sari bunga〔Lichmera indistincta〕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "kail",
+  "entri": "ka.il1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkail",
+    "mengail",
+    "pengail",
+    "terkail",
+    "kail-kail"
+  ],
+  "gabunganKata": [
+    "kail tunda"
+  ],
+  "peribahasa": [
+    "bungkuk kail hendak mengena; kail sebentuk, umpan seekor, sekali putus, sehari berhanyut; umpan seumpan, kail sebentuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.il1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekerat kawat yang ujungnya berkait dan tajam, digunakan untuk menangkap ikan; pancing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "alat penangkap kepiting hutan bakau, terbuat dari kayu dengan panjang 2 m yang dilengkapi pengait di ujungnya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.il2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kail-kail"
+        }
+      ]
+    }
+  ]
+}

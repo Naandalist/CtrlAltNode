@@ -1,0 +1,54 @@
+{
+  "istilah": "kandang",
+  "entri": "kan.dang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkandang",
+    "mengandangkan",
+    "perkandangan",
+    "sekandang"
+  ],
+  "gabunganKata": [
+    "kandang baterai",
+    "kandang buaya",
+    "kandang bulan",
+    "kandang harimau",
+    "kandang jepit",
+    "kandang kawin",
+    "kandang mobil",
+    "kandang monyet",
+    "kandang singa",
+    "kandang tandang"
+  ],
+  "peribahasa": [
+    "masuk kandang kambing mengembik, masuk kandang kerbau menguak; memperlapang kandang musang, mempersempit kandang ayam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kan.dang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan tempat tinggal binatang; ruang berpagar tempat memelihara binatang: kucing tidak pernah dipelihara dalam --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang yang diberi pagar atau batas dan sebagainya; garis dan sebagainya pada tepi halaman buku; kalangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "garasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "tempat tinggal; kampung; negeri: dia menang bertanding di -- sendiri"
+        }
+      ]
+    }
+  ]
+}

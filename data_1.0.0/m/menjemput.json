@@ -1,0 +1,53 @@
+{
+  "istilah": "menjemput",
+  "entri": "jemput1 » men.jem.put",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "menjemput bola"
+  ],
+  "peribahasa": [
+    "bersuluh menjemput api"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jemput1 » men.jem.put",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pergi mendapatkan orang yang akan diajak pergi (berjalan bersama): sebelum pergi ia harus ~ adiknya di rumah nenek"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyambut; menyongsong (kedatangan orang): ketua panitia ~ tamunya di pintu gerbang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menjadikan seorang laki-laki sebagai menantu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendatangi dan mengantarkan ke suatu tempat"
+        }
+      ]
+    },
+    {
+      "lema": "jemput2 » men.jem.put",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memungut dengan ujung jari; menjumput: ~ garam"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mengutip; memetik: ~ pepatah itu dari naskah lama"
+        }
+      ]
+    }
+  ]
+}

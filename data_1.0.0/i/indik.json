@@ -1,0 +1,35 @@
+{
+  "istilah": "indik",
+  "entri": "in.dik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengindik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.dik1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dekati dengan merangkak"
+        }
+      ]
+    },
+    {
+      "lema": "in.dik2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "mengguncang pohon dengan kaki agar buahnya jatuh"
+        }
+      ]
+    }
+  ]
+}

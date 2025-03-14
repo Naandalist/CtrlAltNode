@@ -1,0 +1,33 @@
+{
+  "istilah": "pita lebar",
+  "entri": "pita1 » pita lebar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pita1 » pita lebar",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "metode komunikasi analog yang menggunakan lebar pita tinggi"
+        }
+      ]
+    },
+    {
+      "lema": "pita2 » pita lebar",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "sistem komunikasi yang membawa beberapa pesan sekaligus melalui modem"
+        }
+      ]
+    }
+  ]
+}

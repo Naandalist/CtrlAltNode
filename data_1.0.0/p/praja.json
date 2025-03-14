@@ -1,0 +1,33 @@
+{
+  "istilah": "praja",
+  "entri": "pra.ja1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kerajaan, generasi, era, keluarga, rakyat",
+    "kataAsal": "prajā"
+  },
+  "data": [
+    {
+      "lema": "pra.ja1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota; negeri"
+        }
+      ]
+    },
+    {
+      "lema": "pra.ja2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebutan untuk siswa ikatan dinas di bawah Departemen Dalam Negeri"
+        }
+      ]
+    }
+  ]
+}

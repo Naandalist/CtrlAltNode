@@ -1,0 +1,40 @@
+{
+  "istilah": "upa",
+  "entri": "u.pa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengupa",
+    "mengupa-upa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.pa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hadiah"
+        }
+      ]
+    },
+    {
+      "lema": "u.pa3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ach[Aceh: -]",
+          "deskripsi": "menggosok dengan tangan (misalnya badan atau kepala ketika mandi)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ach[Aceh: -]",
+          "deskripsi": "menggosok di antara kedua tangan (misalnya daun-daun obat)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "istilah": "tahun",
+  "entri": "ta.hun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertahun-tahun",
+    "bertahunan",
+    "menahun",
+    "setahun",
+    "tahunan",
+    "bertahun",
+    "pertahunan"
+  ],
+  "gabunganKata": [
+    "tahun ajaran",
+    "tahun akademi",
+    "tahun anggaran",
+    "tahun baru",
+    "tahun baruan",
+    "tahun basah",
+    "tahun berjalan",
+    "tahun bulan",
+    "tahun cahaya",
+    "tahun dasar",
+    "tahun fiskal",
+    "tahun Geofisika Internasional",
+    "tahun hidrologi",
+    "tahun Hijriah",
+    "tahun iklim",
+    "tahun jagung",
+    "tahun kabisat",
+    "tahun Kamariah",
+    "tahun kering",
+    "tahun kutub",
+    "tahun lazim",
+    "tahun Masehi",
+    "tahun matahari",
+    "tahun panjang",
+    "tahun Saka",
+    "tahun Syamsiah",
+    "tahun takwim",
+    "tahun wada"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "tahun"
+  },
+  "data": [
+    {
+      "lema": "ta.hun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masa yang lamanya dua belas bulan: ia pernah bekerja di luar negeri selama dua --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilangan yang menyatakan tarikh: ia dilahirkan -- 1940"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masa dua belas bulan yang ke ...: majalah Tempo -- II Nomor 6"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masa dua belas bulan untuk ..."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "musim (dalam arti masa selama tanaman atau tumbuh-tumbuhan hidup)"
+        }
+      ]
+    },
+    {
+      "lema": "ta.hun2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bertahun; pertahunan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "istilah": "pos",
+  "entri": "pos1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengepos",
+    "mengeposkan",
+    "pengepos",
+    "pengeposan",
+    "mengepos"
+  ],
+  "gabunganKata": [
+    "pos ekspres",
+    "pos elektronik",
+    "pos kilat",
+    "pos kilat khusus",
+    "pos laut",
+    "pos paket",
+    "pos suara",
+    "pos terbuka",
+    "pos udara",
+    "pos wesel",
+    "pos lintas batas negara",
+    "pos ronda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pos1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jawatan yang menyelenggarakan kirim-mengirim barang, surat, uang, dan sebagainya: pegawai --; dikirim melalui --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kantor tempat kirim-mengirim surat, uang, dan sebagainya; kantor pos: ia pergi ke kantor -- untuk membeli prangko"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat-surat dan sebagainya yang dikirim dengan perantaraan pos: kartu (surat, warkat) --; tukang (pengantar) -- pegawai pos yang mengantarkan surat-surat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kereta (kuda) pengangkut surat dan sebagainya (pada zaman dahulu); kereta pos; kuda pos: kami menumpang kereta -- dari Semarang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tempat perhentian kereta pos (pada zaman dahulu): tiba di --, kusir kereta pos mengganti kudanya dengan yang masih segar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "perhentian (kereta api, trem dan sebagainya): rumah mereka di belakang -- lama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tulisan atau unggahan yang disebarkan melalui media sosial"
+        }
+      ]
+    },
+    {
+      "lema": "pos2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat penjagaan (tentara, polisi, pengamat gunung berapi, dan sebagainya): dua regu ditempatkan di -- terdepan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat kedudukan (orang yang melakukan tugas dan sebagainya): dokter-dokter harus selalu siap di -- masing-masing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat berkumpul; tempat anggota sekelompok"
+        }
+      ]
+    },
+    {
+      "lema": "pos3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah uang yang disediakan untuk suatu keperluan (jawatan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari mata anggaran belanja"
+        }
+      ]
+    },
+    {
+      "lema": "POS",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "prosedur operasional standar"
+        }
+      ]
+    }
+  ]
+}

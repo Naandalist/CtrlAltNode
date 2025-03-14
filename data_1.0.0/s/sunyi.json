@@ -1,0 +1,43 @@
+{
+  "istilah": "sunyi",
+  "entri": "su.nyi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersunyi",
+    "bersunyi-sunyi",
+    "kesunyian",
+    "menyunyi"
+  ],
+  "gabunganKata": [
+    "sunyi senyap"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kosong, sepi",
+    "kataAsal": "śūnya"
+  },
+  "data": [
+    {
+      "lema": "su.nyi",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada bunyi atau suara apa pun; hening; senyap: malam yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kosong (tentang rumah dan sebagainya); tidak ada orang; lengang; sepi: baru pukul 22.00 jalanan sudah --; rumah itu -- sekali"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak banyak transaksi (persetujuan jual beli); tidak banyak pembeli (dalam perdagangan): pasar uang mulai --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bebas (lepas, lekang, terhindar): tiada manusia yang -- dari kesalahan; tiada --(-sunyi)nya [1] tiada putus-putusnya [2] selalu"
+        }
+      ]
+    }
+  ]
+}

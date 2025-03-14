@@ -1,0 +1,24 @@
+{
+  "istilah": "pemkab",
+  "entri": "pem.kab /pêmkab/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pem.kab /pêmkab/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "pemerintah kabupaten"
+        }
+      ]
+    }
+  ]
+}

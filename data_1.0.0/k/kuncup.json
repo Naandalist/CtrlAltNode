@@ -1,0 +1,56 @@
+{
+  "istilah": "kuncup",
+  "entri": "kun.cup1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menguncup",
+    "menguncupkan",
+    "penguncupan"
+  ],
+  "gabunganKata": [
+    "kuncup eram",
+    "kuncup hati",
+    "kuncup liar",
+    "kuncup pancur",
+    "kuncup tambahan",
+    "kuncup bawah tangkai",
+    "kuncup bunga",
+    "kuncup campuran",
+    "kuncup daun",
+    "kuncup ketiak",
+    "kuncup pelengkap",
+    "kuncup telanjang",
+    "kuncup terlindung",
+    "kuncup ujung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tertutup (tentang kuncup); dipadamkan (tentang lampu)",
+    "kataAsal": "kuñcup"
+  },
+  "data": [
+    {
+      "lema": "kun.cup1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tertutup (tidak kembang, tidak mekar tentang bunga, payung, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuntum (tentang bunga yang masih kuncup, tetapi hampir mekar): anak masih --, mau melawan orang tua"
+        }
+      ]
+    },
+    {
+      "lema": "kun.cup2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "pucuk vegetatif atau generatif yang belum dewasa, berupa meristem rembang yang kadang-kadang ditutupi sisik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "selisir",
+  "entri": "se.li.sir1 /sêlisir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyelisir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "salisir"
+  },
+  "data": [
+    {
+      "lema": "se.li.sir1 /sêlisir/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menyelisir"
+        }
+      ]
+    },
+    {
+      "lema": "se.li.sir2 /sêlisir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "komposisi tembang yang sering dipakai untuk cakapan atau teks tembang, gending, tiap bait terdiri atas 4 baris yang masing-masing berisi 8 suku kata"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "ulit",
+  "entri": "u.lit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berulit",
+    "mengulit",
+    "mengulit-ulit",
+    "mengulitkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.lit1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengulit"
+        }
+      ]
+    },
+    {
+      "lema": "u.lit2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "tidak mudah atau tidak mau (membayar utang): kalau kita -- dengan utang, kepercayaan orang akan hilang"
+        }
+      ]
+    }
+  ]
+}

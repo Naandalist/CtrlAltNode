@@ -1,0 +1,41 @@
+{
+  "istilah": "kerabat",
+  "entri": "ke.ra.bat /kêrabat/bentuk tidak baku: kirabat",
+  "bentukTidakBaku": "kirabat",
+  "kataTurunan": [
+    "berkerabat",
+    "kekerabatan"
+  ],
+  "gabunganKata": [
+    "kerabat angkat",
+    "kerabat kawin",
+    "kerabat kerja",
+    "kerabat sebagian",
+    "kerabat sedarah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kefamilian",
+    "kataAsal": "qarābah"
+  },
+  "data": [
+    {
+      "lema": "ke.ra.bat /kêrabat/bentuk tidak baku: kirabat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dekat (pertalian keluarga); sedarah sedaging: masih -- dengan engkau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keluarga; anak saudara: kaum --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keturunan dari induk yang sama yang dihasilkan dari gamet yang berbeda"
+        }
+      ]
+    }
+  ]
+}

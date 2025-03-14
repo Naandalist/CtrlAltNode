@@ -1,0 +1,54 @@
+{
+  "istilah": "layap",
+  "entri": "la.yap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelayapan",
+    "melayap",
+    "berlayap-layapan",
+    "berlayapan",
+    "melayap",
+    "melayap-layapkan",
+    "melayapi",
+    "melayapkan",
+    "melayap",
+    "melayap-layap",
+    "terlayap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.yap1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kelayapan; melayap"
+        }
+      ]
+    },
+    {
+      "lema": "la.yap2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rendah dekat tanah atau air (tentang burung terbang, perahu, rumah, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "la.yap3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melayap; melayap-layap; terlayap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "lading",
+  "entri": "la.ding1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "lading tajam sebelah; memakuk dengan punggung lading; mencencangkan lading patah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.ding1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "parang yang pendek dan agak lebar di tengah-tengah, matanya yang tajam melengkung ke luar"
+        }
+      ]
+    },
+    {
+      "lema": "la.ding2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bld[Belanda: -]",
+          "deskripsi": "muatan kapal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perahu panjang, biasanya dibuat dari sebatang pohon yang utuh"
+        }
+      ]
+    },
+    {
+      "lema": "la.ding3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "ladu2"
+        }
+      ]
+    }
+  ]
+}

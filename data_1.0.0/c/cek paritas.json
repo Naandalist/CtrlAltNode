@@ -1,0 +1,24 @@
+{
+  "istilah": "cek paritas",
+  "entri": "cek2 » cek paritas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cek2 » cek paritas",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "penggunaan paritas untuk memeriksa keakuratan data yang dikirimkan; tilikan paritas"
+        }
+      ]
+    }
+  ]
+}

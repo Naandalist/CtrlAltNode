@@ -1,0 +1,63 @@
+{
+  "istilah": "tepas",
+  "entri": "te.pas1 /têpas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertepas",
+    "menepas",
+    "menepasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bangunan kecil yang menggabung dengan yang lebih besar: beranda, serambi, balai",
+    "kataAsal": "těpas"
+  },
+  "data": [
+    {
+      "lema": "te.pas1 /têpas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anyaman bambu (gedek atau bilik) untuk dinding, tutupan, sekat, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapisan kulit luar pohon (misalnya kelapa)"
+        }
+      ]
+    },
+    {
+      "lema": "te.pas2 /têpas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serambi depan; beranda depan: di bagian lain dari -- itu terbentuklah kelompok-kelompok yang sedang asyik mengobrol"
+        }
+      ]
+    },
+    {
+      "lema": "te.pas3 /têpas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arah (penjuru, batas): empat -- dunia"
+        }
+      ]
+    },
+    {
+      "lema": "te.pas4 /têpas/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh sekali (tentang isi peti, koper, dan sebagainya): penuh --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sarat (tentang muatan): sarat --"
+        }
+      ]
+    }
+  ]
+}

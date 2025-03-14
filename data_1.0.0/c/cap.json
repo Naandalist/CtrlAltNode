@@ -1,0 +1,79 @@
+{
+  "istilah": "cap",
+  "entri": "cap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercap",
+    "mengecap",
+    "mengecapkan",
+    "pengecapan"
+  ],
+  "gabunganKata": [
+    "cap dagang",
+    "cap jari",
+    "cap jempol",
+    "cap kempa",
+    "cap kualitas utama",
+    "cap mohor",
+    "cap pos"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk membuat rekaman tanda (gambar, tanda tangan) dengan menekankannya pada kertas (surat dan sebagainya); stempel; tera: surat itu sudah ditandatangani, tetapi belum diberi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rekaman (tanda gambar, tanda tangan yang dibuat dengan cap): surat keterangan yang tidak mempunyai -- dari kelurahan tidak berlaku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cetak; cetakan (pada buku, kain, dan sebagainya); bukan tulisan tangan: huruf --; kain --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "merek: teh -- Teko"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda atau gambar pengenal: semua kendaraan milik PMI memakai -- palang merah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sifat (keadaan dan sebagainya) yang khusus; ciri: dengan demikian kelihatan --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sebutan (karena sifat yang menjadi ciri pengenalnya): ia sudah mendapat -- si Lamban"
+        }
+      ]
+    },
+    {
+      "lema": "cap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "ukuran sebesar tangan memegang (ujung jari bertemu dengan ibu jari): tujuh hasta bidang dadanya, tujuh -- pokok lengannya"
+        }
+      ]
+    },
+    {
+      "lema": "cap3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kecap (sewaktu orang makan atau mengecap makanan)"
+        }
+      ]
+    }
+  ]
+}

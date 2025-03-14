@@ -1,0 +1,30 @@
+{
+  "istilah": "uniform",
+  "entri": "u.ni.form",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beruniform"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.ni.form",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "seragam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pakaian tertentu yang dipakai khas oleh suatu golongan; pakaian seragam: kapten itu sekarang tidak mengenakan -- lagi"
+        }
+      ]
+    }
+  ]
+}

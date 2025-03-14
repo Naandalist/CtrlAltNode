@@ -1,0 +1,47 @@
+{
+  "istilah": "jahit",
+  "entri": "ja.hit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjahit",
+    "jahitan",
+    "menjahit",
+    "penjahit",
+    "penjahitan",
+    "terjahit",
+    "terjahit"
+  ],
+  "gabunganKata": [
+    "jahit balik",
+    "jahit jelujur",
+    "jahit kunci",
+    "jahit lilit",
+    "jahit lilit ubi",
+    "jahit lipit",
+    "jahit mati",
+    "jahit mesin",
+    "jahit muka",
+    "jahit pelana",
+    "jahit tangan",
+    "jahit tindas"
+  ],
+  "peribahasa": [
+    "jahit sudah, kelindan putus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.hit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sambung (tentang kain, kulit) dengan jarum dan benang"
+        }
+      ]
+    }
+  ]
+}

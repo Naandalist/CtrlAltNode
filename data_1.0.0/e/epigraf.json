@@ -1,0 +1,28 @@
+{
+  "istilah": "epigraf",
+  "entri": "e.pi.graf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.pi.graf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "prasasti"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "kalimat atau bagian kalimat pada bagian awal karya sastra yang menggambarkan tema"
+        }
+      ]
+    }
+  ]
+}

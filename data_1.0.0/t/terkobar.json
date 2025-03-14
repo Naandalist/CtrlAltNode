@@ -1,0 +1,32 @@
+{
+  "istilah": "terkobar",
+  "entri": "kobar » ter.ko.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kobar » ter.ko.bar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyala besar tanpa disengaja: api yang ~ itu menjilat atap rumah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "berkecamuk (tentang perang, pemberontakan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tidak sengaja berkobar (tentang perasaan): ~ semangat ketika dia mendengar lagu perjuangan itu"
+        }
+      ]
+    }
+  ]
+}

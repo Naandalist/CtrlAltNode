@@ -1,0 +1,44 @@
+{
+  "istilah": "campang",
+  "entri": "cam.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencampang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cam.pang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kayuh; dayung"
+        }
+      ]
+    },
+    {
+      "lema": "cam.pang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat camping"
+        }
+      ]
+    },
+    {
+      "lema": "cam.pang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "wadah kecil terbuat dari daun pandan kering untuk menyimpan rempah-rempah, gunting kecil, atau jimat yang diletakkan di ujung gendongan bayi, digunakan untuk melindungi bayi dari gangguan makhluk halus: -- itu selalu menemani anaknya tidur"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "kisa",
+  "entri": "ki.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengisa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sejenis keranjang",
+    "kataAsal": "kisa"
+  },
+  "data": [
+    {
+      "lema": "ki.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jala kecil yang ditarik oleh 4 atau 5 orang, biasanya dapat ditarik dari pinggir pantai"
+        }
+      ]
+    },
+    {
+      "lema": "ki.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pundi-pundi (kantong uang) yang kecil"
+        }
+      ]
+    },
+    {
+      "lema": "ki.sa3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "keranjang terbuat dari anyaman daun kelapa, biasanya untuk membawa ayam jago yang akan diadu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kantong anyaman daun kelapa yang digunakan untuk membungkus buah nangka, ayam, dan sebagainya: nangka yang baru dipetik masih terbungkus dalam --"
+        }
+      ]
+    }
+  ]
+}

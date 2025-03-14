@@ -1,0 +1,37 @@
+{
+  "istilah": "bengok",
+  "entri": "be.ngok1 /bêngok/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ngok1 /bêngok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "beguk; gondok"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Gy[Gayo: -]",
+          "deskripsi": "bengkak dan merah (tentang mata)"
+        }
+      ]
+    },
+    {
+      "lema": "be.ngok2 /bêngok/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "murung; benguk"
+        }
+      ]
+    }
+  ]
+}

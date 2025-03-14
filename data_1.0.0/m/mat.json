@@ -1,0 +1,44 @@
+{
+  "istilah": "mat",
+  "entri": "mat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mat-matan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mat1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ emat2"
+        }
+      ]
+    },
+    {
+      "lema": "mat2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "enak sekali; nikmat"
+        }
+      ]
+    },
+    {
+      "lema": "mat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "irama"
+        }
+      ]
+    }
+  ]
+}

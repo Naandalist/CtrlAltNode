@@ -1,0 +1,35 @@
+{
+  "istilah": "geluk",
+  "entri": "ge.luk1 /gêluk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagai geluk tinggal di air"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.luk1 /gêluk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempurung (untuk tempat air); timba; sibur dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ge.luk2 /gêluk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "buah kering tak merekah yang memiliki satu biji dengan dinding buah yang keras, biasanya berasal dari bakal buah berongga satu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "masoi",
+  "entri": "ma.soi1",
+  "bentukTidakBaku": "masoyi, mesui",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.soi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mesiu"
+        }
+      ]
+    },
+    {
+      "lema": "ma.soi2 bentuk tidak baku: masoyi, mesui",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, kulitnya untuk obat bermacam-macam penyakit, misalnya keputihan〔Massoia aromatica〕"
+        }
+      ]
+    }
+  ]
+}

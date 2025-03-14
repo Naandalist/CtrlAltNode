@@ -1,0 +1,38 @@
+{
+  "istilah": "mepet",
+  "entri": "me.pet",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memepet"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.pet",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berdekatan satu dengan yang lain; dekat sekali sampai menempel; rapat: bangunan rumah penduduk banyak yang -- ke garis pantai"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "mendesak; sempit (tentang waktu)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "kecil"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sangat sedikit labanya (dalam perdagangan)"
+        }
+      ]
+    }
+  ]
+}

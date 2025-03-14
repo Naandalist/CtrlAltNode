@@ -1,0 +1,33 @@
+{
+  "istilah": "kal",
+  "entri": "kal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "ukuran isi (untuk beras dan sebagainya) yang banyaknya setengah cupak: ia membeli beras empat -- untuk bekal selama dua hari"
+        }
+      ]
+    },
+    {
+      "lema": "KAL",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kapal angkatan laut"
+        }
+      ]
+    }
+  ]
+}

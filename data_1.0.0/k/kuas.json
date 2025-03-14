@@ -1,0 +1,56 @@
+{
+  "istilah": "kuas",
+  "entri": "ku.as1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kuas-kais"
+  ],
+  "gabunganKata": [
+    "kuas alis",
+    "kuas bedak",
+    "kuas bibir",
+    "kuas datar",
+    "kuas kipas",
+    "kuas maskara",
+    "kuas mata",
+    "kuas pipi",
+    "kuas semprot",
+    "kuas spons",
+    "kuas sumi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.as1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk melukis atau mengecat yang dibuat dari bulu hewan (babi, kuda, dan sebagainya) yang ditata dan diikat (dijepit) dan diberi tangkai"
+        }
+      ]
+    },
+    {
+      "lema": "ku.as2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman dari sari buah sitrun, air, dan gula"
+        }
+      ]
+    },
+    {
+      "lema": "ku.as3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kuas-kais"
+        }
+      ]
+    }
+  ]
+}

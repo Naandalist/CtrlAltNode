@@ -1,0 +1,28 @@
+{
+  "istilah": "endogen",
+  "entri": "en.do.gen",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.do.gen",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "berasal dari dalam; bersumber dari kekuatan di dalam bumi, seperti pembentukan gunung api"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "berasal atau terbentuk di dalam organisme atau salah satu bagiannya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "divisi",
+  "entri": "di.vi.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdivisi",
+    "sedivisi"
+  ],
+  "gabunganKata": [
+    "divisi kamar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.vi.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan militer yang besar (jumlahnya sampai puluhan ribu) yang biasanya lengkap dengan peralatannya, dipimpin oleh perwira tinggi (biasanya mayor jenderal): satu -- didatangkan untuk memperkuat penjagaan keamanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok dalam suatu organisasi (sepak bola dan sebagainya): kesebelasan itu menjadi juara dalam kompetisi -- II"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari suatu perusahaan besar: pegawai Pertamina -- Perkapalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "satuan taksonomi dalam klasifikasi tumbuhan, berada di antara kelas dan dunia, namanya berakhiran -phyta, seperti Bryophyta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "pemisahan sinyal dan sebagainya menjadi beberapa bagian atau kelompok: multipleks -- frekuensi"
+        }
+      ]
+    }
+  ]
+}

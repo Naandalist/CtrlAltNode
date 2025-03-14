@@ -1,0 +1,33 @@
+{
+  "istilah": "ppk",
+  "entri": "PPK1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "PPK1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "program pengembangan kecamatan"
+        }
+      ]
+    },
+    {
+      "lema": "PPK2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pejabat pembuat komitmen"
+        }
+      ]
+    }
+  ]
+}

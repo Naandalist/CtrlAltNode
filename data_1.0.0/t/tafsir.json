@@ -1,0 +1,37 @@
+{
+  "istilah": "tafsir",
+  "entri": "taf.sir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menafsir",
+    "menafsirkan",
+    "penafsir",
+    "penafsiran",
+    "tafsiran"
+  ],
+  "gabunganKata": [
+    "tafsir harfiah",
+    "tafsir mimpi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penjelasan; penjelasan tentang ayat-ayat Alquran agar maksudnya lebih mudah dipahami",
+    "kataAsal": "tafsīr"
+  },
+  "data": [
+    {
+      "lema": "taf.sir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan atau penjelasan tentang ayat-ayat Al-Qur'an agar maksudnya lebih mudah dipahami"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan; penjelasan"
+        }
+      ]
+    }
+  ]
+}

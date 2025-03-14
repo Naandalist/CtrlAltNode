@@ -1,0 +1,31 @@
+{
+  "istilah": "cukong",
+  "entri": "cu.kong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencukongi",
+    "percukongan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "pemodal",
+    "kataAsal": "tsú kong"
+  },
+  "data": [
+    {
+      "lema": "cu.kong",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mempunyai uang banyak yang menyediakan dana atau modal yang diperlukan untuk suatu usaha atau kegiatan orang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemilik modal"
+        }
+      ]
+    }
+  ]
+}

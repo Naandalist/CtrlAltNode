@@ -1,0 +1,37 @@
+{
+  "istilah": "mudarat",
+  "entri": "mu.da.rat bentuk tidak baku: madarat",
+  "bentukTidakBaku": "madarat",
+  "kataTurunan": [
+    "bermudarat",
+    "kemudaratan"
+  ],
+  "gabunganKata": [
+    "mudarat dan manfaatnya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bahaya",
+    "kataAsal": "maḍarrah"
+  },
+  "data": [
+    {
+      "lema": "mu.da.rat bentuk tidak baku: madarat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang tidak menguntungkan; rugi; kerugian: memberi --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berhasil; gagal"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merugikan; tidak berguna: pekerjaan yang -- itu sebaiknya kautinggalkan saja"
+        }
+      ]
+    }
+  ]
+}

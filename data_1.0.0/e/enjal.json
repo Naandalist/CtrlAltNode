@@ -1,0 +1,36 @@
+{
+  "istilah": "enjal",
+  "entri": "en.jal1 /ênjal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengenjal",
+    "mengenjal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.jal1 /ênjal/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengenjal"
+        }
+      ]
+    },
+    {
+      "lema": "en.jal2 /ênjal/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jejal mulut (dengan makanan)"
+        }
+      ]
+    }
+  ]
+}

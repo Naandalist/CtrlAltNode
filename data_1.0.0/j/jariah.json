@@ -1,0 +1,33 @@
+{
+  "istilah": "jariah",
+  "entri": "ja.ri.ah1 bentuk tidak baku: jariat",
+  "bentukTidakBaku": "jariat",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemudi",
+    "kataAsal": "jāriyah"
+  },
+  "data": [
+    {
+      "lema": "ja.ri.ah1 bentuk tidak baku: jariat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "hamba perempuan"
+        }
+      ]
+    },
+    {
+      "lema": "ja.ri.ah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ amal jariah"
+        }
+      ]
+    }
+  ]
+}

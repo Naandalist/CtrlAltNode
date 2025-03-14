@@ -1,0 +1,35 @@
+{
+  "istilah": "kili",
+  "entri": "ki.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengili"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "wiku perempuan, biarawati, pertapa perempuan",
+    "kataAsal": "kili"
+  },
+  "data": [
+    {
+      "lema": "ki.li1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pertapa perempuan"
+        }
+      ]
+    },
+    {
+      "lema": "ki.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kelim (jahitan)"
+        }
+      ]
+    }
+  ]
+}

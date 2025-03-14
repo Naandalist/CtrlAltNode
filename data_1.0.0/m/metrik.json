@@ -1,0 +1,34 @@
+{
+  "istilah": "metrik",
+  "entri": "met.rik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "metrik perangkat lunak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "met.rik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang irama (ritme) dalam puisi: penyelidikan -- pada baris-baris sanjak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang berhubungan dengan ukuran; yang mengenai sistem desimal yang menggunakan meter sebagai ukuran panjang dan gram sebagai ukuran berat: produksi timah Indonesia 25.000 -- ton"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "abstraksi tentang jarak"
+        }
+      ]
+    }
+  ]
+}

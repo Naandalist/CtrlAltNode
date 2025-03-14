@@ -1,0 +1,34 @@
+{
+  "istilah": "makbul",
+  "entri": "mak.bul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memakbulkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hal yang diterima; diluluskan",
+    "kataAsal": "maqbūl"
+  },
+  "data": [
+    {
+      "lema": "mak.bul",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "diluluskan (tentang permintaan, doa); terkabul: mudah-mudahan doa Ananda --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "berhasil; tercapai (tentang maksud): selama cita-citanya belum --, ia tidak akan pulang ke kampung"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "manjur (tentang obat, guna-guna, dan sebagainya): semoga obatnya --"
+        }
+      ]
+    }
+  ]
+}

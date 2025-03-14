@@ -1,0 +1,41 @@
+{
+  "istilah": "lara",
+  "entri": "la.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terlara-lara"
+  ],
+  "gabunganKata": [
+    "lara wirang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "perasaan sakit (rohani atau jasmani); penderitaan; kesusahan, kemalangan sakit, dukacita, kepiluan, kesedihan",
+    "kataAsal": "lara"
+  },
+  "data": [
+    {
+      "lema": "la.ra1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sedih; susah hati: hatinya -- mendengar berita duka tersebut"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sakit"
+        }
+      ]
+    },
+    {
+      "lema": "La.ra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah di sebelah timur Gunung Pendering, Kalimantan, dan Sarawak, Malaysia; Luru; Dayak Lara'; Dayak Luru'"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "kata pengantar",
+  "entri": "kata1 » kata pengantar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kata1 » kata pengantar",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kata pendahuluan"
+        },
+        {
+          "kelas_kata": "Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "kata-kata dari orang terkenal yang dimuat di halaman depan sebagai tanda terbitnya suatu buku"
+        }
+      ]
+    }
+  ]
+}

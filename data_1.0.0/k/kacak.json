@@ -1,0 +1,51 @@
+{
+  "istilah": "kacak",
+  "entri": "ka.cak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kekacakan",
+    "pengacak",
+    "berkacak",
+    "mengacak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.cak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tampak gagah; cegak"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "angkuh; pongah"
+        }
+      ]
+    },
+    {
+      "lema": "ka.cak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berkacak; mengacak"
+        }
+      ]
+    },
+    {
+      "lema": "ka.cak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "(satuan) ukuran besar selingkung ujung ibu jari yang dipertemukan dengan ujung jari yang lain: sayuran se--"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "nadi",
+  "entri": "na.di",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "nadi arteri",
+    "nadi silvi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "arteri, urat syaraf, urat darah halus, sesuatu yang berlubang atau bercelah; sungai",
+    "kataAsal": "nāḍī"
+  },
+  "data": [
+    {
+      "lema": "na.di",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuluh darah di pergelangan tangan (terasa berdenyut kalau ditekan); urat nadi: dokter memegang -- si sakit untuk mengetahui apakah masih berdenyut atau tidak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuluh darah besar; aorta; batang nadi"
+        }
+      ]
+    }
+  ]
+}

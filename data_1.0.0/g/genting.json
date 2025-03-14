@@ -1,0 +1,55 @@
+{
+  "istilah": "genting",
+  "entri": "gen.ting1 /gênting/",
+  "bentukTidakBaku": "genteng",
+  "kataTurunan": [
+    "kegentingan",
+    "menggenting",
+    "menggentingkan",
+    "penggentingan"
+  ],
+  "gabunganKata": [
+    "genting beton",
+    "genting kaca",
+    "genting keramik",
+    "genting kodok",
+    "genting plentong",
+    "genting tanah liat"
+  ],
+  "peribahasa": [
+    "genting menanti putus, biang menanti tembuk; genting putus, biang menanti tembuk; jangan diperlebar timba ke perigi, kalau tak putus, genting; jangan diperlelarkan timba perigi, kalau tak putus genting; menahan jerat di tempat genting"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "genting",
+    "kataAsal": "gěṇṭeṅ"
+  },
+  "data": [
+    {
+      "lema": "gen.ting1 /gênting/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kecil (tipis, sempit) pada bagian tengah: pinggangnya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hampir putus (tentang tali dan sebagainya): tali ini --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tegang; berbahaya (tentang keadaan yang mungkin segera menimbulkan bencana perang dan sebagainya): setelah perundingan menemui jalan buntu, keadaan bertambah --"
+        }
+      ]
+    },
+    {
+      "lema": "gen.ting2 /gênting/bentuk tidak baku: genteng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "tutup atap rumah yang terbuat dari tanah liat yang dicetak dan dibakar, bermacam-macam bentuknya"
+        }
+      ]
+    }
+  ]
+}

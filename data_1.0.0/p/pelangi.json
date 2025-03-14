@@ -1,0 +1,53 @@
+{
+  "istilah": "pelangi",
+  "entri": "pe.la.ngi1 /pêlangi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpelangi",
+    "pemelangian"
+  ],
+  "gabunganKata": [
+    "pelangi bulan",
+    "pelangi kabut",
+    "pelangi kecil",
+    "pelangi utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.la.ngi1 /pêlangi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lengkung spektrum warna di langit, tampak karena pembiasan sinar matahari oleh titik-titik hujan atau embun; bianglala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "warna yang beraneka macam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kain atau selendang yang bermacam-macam warnanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "ikan hias yang bermacam-macam warna sisiknya"
+        }
+      ]
+    },
+    {
+      "lema": "pe.la.ngi2 /pêlangi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ular mengiang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "beragama",
+  "entri": "agama » ber.a.ga.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "agama » ber.a.ga.ma",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menganut (memeluk) agama: saya ~ Islam dan dia ~ Kristen"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beribadat; taat kepada agama; baik hidupnya (menurut agama): ia datang dari keluarga yang ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sangat memuja-muja; gemar sekali pada; mementingkan: mereka ~ pada harta benda"
+        }
+      ]
+    }
+  ]
+}

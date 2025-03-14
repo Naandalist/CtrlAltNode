@@ -1,0 +1,53 @@
+{
+  "istilah": "meruap",
+  "entri": "ruap » me.ru.ap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ruap » me.ru.ap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbuih; membuih: semua orang menyukai yang ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendidih dan melimpah; meluap: air soda yang dituang ke dalam gelas itu ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menguap (menjadi uap): tutuplah kaleng bensin itu supaya tidak ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "membual; menyombong; bercakap besar: janganlah kamu sering ~ begitu, kurang baik"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "merebak (bau): dari luar ~ bau sate ayam yang sedang dibakar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mendidih: darahnya ~ marah sekali"
+        }
+      ]
+    },
+    {
+      "lema": "me.ru.ap /mêruap/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat ruap"
+        }
+      ]
+    }
+  ]
+}

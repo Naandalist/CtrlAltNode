@@ -1,0 +1,38 @@
+{
+  "istilah": "gaung",
+  "entri": "ga.ung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergaung",
+    "gemaung",
+    "segaung",
+    "menggaung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.ung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gema; kumandang; sipongang"
+        }
+      ]
+    },
+    {
+      "lema": "ga.ung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "ceruk (lubang) di tebing; gua"
+        }
+      ]
+    }
+  ]
+}

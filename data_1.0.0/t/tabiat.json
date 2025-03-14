@@ -1,0 +1,32 @@
+{
+  "istilah": "tabiat",
+  "entri": "ta.bi.at",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertabiat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "rupa boleh diubah, tabiat dibawa mati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perangai",
+    "kataAsal": "ṭabī‘ah"
+  },
+  "data": [
+    {
+      "lema": "ta.bi.at",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangai; watak; budi pekerti"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan yang selalu dilakukan; kelakuan; tingkah laku"
+        }
+      ]
+    }
+  ]
+}

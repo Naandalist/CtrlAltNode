@@ -1,0 +1,60 @@
+{
+  "istilah": "lembang",
+  "entri": "lem.bang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melembang",
+    "melembang"
+  ],
+  "gabunganKata": [
+    "lembang orografi",
+    "lembang pusat",
+    "lembang tersangkar",
+    "lembang tropik",
+    "lembang tropis",
+    "lembang utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lem.bang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat musik tiup sejenis seruling panjang dari Toraja"
+        }
+      ]
+    },
+    {
+      "lema": "lem.bang1 /lêmbang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lekuk (tentang tanah, dahi, dan sebagainya): tanah ini -- karena tertimpa durian jatuh"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menjadi rendah dan dalam (seperti tanah tempat air lalu)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tanah rendah; lembah"
+        }
+      ]
+    },
+    {
+      "lema": "lem.bang2 /lêmbang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melembang"
+        }
+      ]
+    }
+  ]
+}

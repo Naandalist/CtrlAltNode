@@ -1,0 +1,36 @@
+{
+  "istilah": "soyak",
+  "entri": "so.yak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyoyak",
+    "menyoyak-nyoyak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.yak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "koyak; sobek"
+        }
+      ]
+    },
+    {
+      "lema": "so.yak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "torehan pada pepagan yang dibuat untuk mengungkapkan ciri-cirinya guna mendeterminasi jenis pohon di lapangan"
+        }
+      ]
+    }
+  ]
+}

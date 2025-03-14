@@ -1,0 +1,28 @@
+{
+  "istilah": "endomorf",
+  "entri": "en.do.morf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.do.morf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "mineral yang terselubung oleh mineral lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "bentuk tubuh, seperti buah pir, yang membantu atlet unggul pada cabang olahraga angkat berat, judo, dan gulat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "koral",
+  "entri": "ko.ral1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengoral",
+    "pengoralan"
+  ],
+  "gabunganKata": [
+    "koral keras",
+    "koral lunak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.ral1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan (bunga) karang yang dibangun di dasar laut oleh binatang karang yang berupa jasad renik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah bekas koloni binatang laut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "batu kerakal"
+        }
+      ]
+    },
+    {
+      "lema": "ko.ral2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang kandang atau lapangan terkurung pagar untuk mengandangkan atau menangkap ternak"
+        }
+      ]
+    }
+  ]
+}

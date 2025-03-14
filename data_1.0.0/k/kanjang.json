@@ -1,0 +1,35 @@
+{
+  "istilah": "kanjang",
+  "entri": "kan.jang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkanjang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kan.jang1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berkanjang"
+        }
+      ]
+    },
+    {
+      "lema": "kan.jang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hidm[Hidrometeorologi: -]",
+          "deskripsi": "nisbah besaran vektor angin rata-rata terhadap laju angin rata-rata tanpa memperhatikan arah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "jinjing",
+  "entri": "jin.jing1 bentuk tidak baku: jenjeng",
+  "bentukTidakBaku": "jenjeng",
+  "kataTurunan": [
+    "jinjingan",
+    "menjinjing",
+    "menjinjingkan",
+    "penjinjing",
+    "terjinjing"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jin.jing1 bentuk tidak baku: jenjeng",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bawa"
+        }
+      ]
+    },
+    {
+      "lema": "jin.jing2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang kayunya keras dapat dibuat papan dan sebagainya, tingginya mencapai 20 meter〔Albizzia moluccana〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu jinjing"
+        }
+      ]
+    }
+  ]
+}

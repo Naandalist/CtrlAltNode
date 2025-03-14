@@ -1,0 +1,52 @@
+{
+  "istilah": "condong",
+  "entri": "con.dong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkecondongan",
+    "condong-mondong",
+    "kecondongan",
+    "mencondongkan",
+    "tercondong"
+  ],
+  "gabunganKata": [
+    "condong hati",
+    "condong ingatan"
+  ],
+  "peribahasa": [
+    "condong ditumpil, lemah diaduk; condong yang akan menimpa; condong yang akan menongkat, rebah yang akan menegakkan; jangan ditentang matahari condong, takut terturut jalan tak berintis; ke mana condong, ke mana rebah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "miring, bersandar pada satu sisi",
+    "kataAsal": "coṇḍoṅ"
+  },
+  "data": [
+    {
+      "lema": "con.dong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "miring (tentang barang yang tegak): tiang itu -- sedikit"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bergeser dari titik kulminasi (tentang matahari): matahari sudah -- ke barat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cenderung (kepada); memihak (kepada); suka atau tertarik hatinya (kepada): hatinya -- kepada gadis itu"
+        }
+      ]
+    },
+    {
+      "lema": "con.dong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "parang tanpa gagang"
+        }
+      ]
+    }
+  ]
+}

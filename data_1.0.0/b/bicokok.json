@@ -1,0 +1,32 @@
+{
+  "istilah": "bicokok",
+  "entri": "bi.co.kok bentuk tidak baku: becolok",
+  "bentukTidakBaku": "becolok",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.co.kok bentuk tidak baku: becolok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "buaya kecil; buaya katak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kaki tangan atau pengikut penjahat; penipu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Jk[Melayu Jakarta: -] ki[kiasan]",
+          "deskripsi": "orang yang tamak"
+        }
+      ]
+    }
+  ]
+}

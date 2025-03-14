@@ -1,0 +1,32 @@
+{
+  "istilah": "laknat",
+  "entri": "lak.nat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melaknat",
+    "melaknati",
+    "melaknatkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Persia",
+    "arti": "umpatan; siksaan",
+    "kataAsal": "la‘nat"
+  },
+  "data": [
+    {
+      "lema": "lak.nat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kutuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang terkutuk"
+        }
+      ]
+    }
+  ]
+}

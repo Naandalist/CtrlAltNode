@@ -1,0 +1,52 @@
+{
+  "istilah": "sabun",
+  "entri": "sa.bun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersabun",
+    "menyabun",
+    "menyabuni",
+    "menyabunkan",
+    "penyabunan"
+  ],
+  "gabunganKata": [
+    "sabun aromaterapi",
+    "sabun batangan",
+    "sabun bubuk",
+    "sabun cair",
+    "sabun colek",
+    "sabun cuci",
+    "sabun cukur",
+    "sabun harum",
+    "sabun karbol",
+    "sabun keras",
+    "sabun mandi",
+    "sabun wangi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sabun mandi",
+    "kataAsal": "sabāo"
+  },
+  "data": [
+    {
+      "lema": "sa.bun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan yang dapat berbuih, digunakan untuk mandi, mencuci pakaian, piring, dan sebagainya, biasanya berupa campuran alkali, garam, dan natrium"
+        }
+      ]
+    },
+    {
+      "lema": "sa.bun2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "putih atau putih kekuningan"
+        }
+      ]
+    }
+  ]
+}

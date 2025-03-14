@@ -1,0 +1,24 @@
+{
+  "istilah": "haj",
+  "entri": "haj",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tujuan",
+    "kataAsal": "ḥajj"
+  },
+  "data": [
+    {
+      "lema": "haj",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "beribadah dan berziarah ke Tanah Suci (Makkah); naik haji"
+        }
+      ]
+    }
+  ]
+}

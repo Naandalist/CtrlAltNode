@@ -1,0 +1,35 @@
+{
+  "istilah": "cilap",
+  "entri": "ci.lap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tercilap-cilap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ci.lap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kelip; kedip"
+        }
+      ]
+    },
+    {
+      "lema": "ci.lap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ cilok1"
+        }
+      ]
+    }
+  ]
+}

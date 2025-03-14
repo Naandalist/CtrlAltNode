@@ -1,0 +1,33 @@
+{
+  "istilah": "dimer",
+  "entri": "di.mer1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.mer1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "senyawa yang terjadi dari gabungan dua molekul yang sama"
+        }
+      ]
+    },
+    {
+      "lema": "di.mer2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "alat untuk menata lampu dan suara di area pertunjukan"
+        }
+      ]
+    }
+  ]
+}

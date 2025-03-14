@@ -1,0 +1,46 @@
+{
+  "istilah": "kecepatan",
+  "entri": "cepat » ke.ce.pat.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kecepatan denyut",
+    "kecepatan garis",
+    "kecepatan gesek",
+    "kecepatan olak",
+    "kecepatan pemroresan komputer",
+    "kecepatan prosesor",
+    "kecepatan saluran",
+    "kecepatan tinggi",
+    "kecepatan vektor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cepat » ke.ce.pat.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu yang digunakan untuk menempuh jarak tertentu: bus itu lari dalam ~ tinggi; pesawat itu terbang dengan ~ 700 mil per jam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "terlampau cepat: arlojiku ~ lima menit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "tingkat intensitas gerakan di panggung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "waktu yang dibutuhkan untuk perpindahan dibagi dengan jarak yang ditempuh"
+        }
+      ]
+    }
+  ]
+}

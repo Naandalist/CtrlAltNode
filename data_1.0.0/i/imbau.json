@@ -1,0 +1,33 @@
+{
+  "istilah": "imbau",
+  "entri": "im.bau bentuk tidak baku: himbau",
+  "bentukTidakBaku": "himbau",
+  "kataTurunan": [
+    "imbauan",
+    "mengimbau",
+    "pengimbauan",
+    "terimbau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "im.bau bentuk tidak baku: himbau",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "panggil; sebut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "pintakan; serukan"
+        }
+      ]
+    }
+  ]
+}

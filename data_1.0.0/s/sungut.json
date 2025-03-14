@@ -1,0 +1,43 @@
+{
+  "istilah": "sungut",
+  "entri": "su.ngut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sungut-sungut",
+    "bersungut",
+    "bersungut-sungut"
+  ],
+  "gabunganKata": [
+    "sungut leter"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "antena, peraba, tanduk perasa (serangga, udang), sulur",
+    "kataAsal": "suṅut"
+  },
+  "data": [
+    {
+      "lema": "su.ngut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rambut panjang yang berfungsi sebagai indra atau perasa (di kepala atau hidung beberapa binatang, seperti jangkrik, ikan lele): -- jangkrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "misai; kumis: -- kucing"
+        }
+      ]
+    },
+    {
+      "lema": "su.ngut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "comel; gerutu: ia menangis dengan tidak ketinggalan pula -- leternya"
+        }
+      ]
+    }
+  ]
+}

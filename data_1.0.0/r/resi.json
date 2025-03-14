@@ -1,0 +1,49 @@
+{
+  "istilah": "resi",
+  "entri": "re.si1 /rêsi/",
+  "bentukTidakBaku": "resu",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "resi bagasi",
+    "resi mualim"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "guru, orang bijaksana, pendeta, ahli ramal, pertapa, rembulan",
+    "kataAsal": "ṛṣi"
+  },
+  "data": [
+    {
+      "lema": "re.si1 /rêsi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "petapa; orang suci"
+        }
+      ]
+    },
+    {
+      "lema": "re.si2 /rêsi/bentuk tidak baku: resu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda terima secara tertulis (tentang surat, paket, uang kiriman); resu"
+        }
+      ]
+    },
+    {
+      "lema": "re.si3 /rêsi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bau-bauan yang harum"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "harum; wangi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "tawasul",
+  "entri": "ta.wa.sul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertawasul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "permohonan pada Tuhan dengan perantaraan amal saleh atau nama seseorang yang dianggap suci dan dekat kepada Tuhan",
+    "kataAsal": "tawassul"
+  },
+  "data": [
+    {
+      "lema": "ta.wa.sul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mengerjakan suatu amal yang dapat mendekatkan diri kepada Allah Swt."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "memohon atau berdoa kepada Allah Swt. dengan perantaraan nama seseorang yang dianggap suci dan dekat kepada Tuhan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "jasa",
+  "entri": "ja.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjasa"
+  ],
+  "gabunganKata": [
+    "jasa baik",
+    "jasa bibliografi",
+    "jasa caraka",
+    "jasa guntingan",
+    "jasa informasi",
+    "jasa infrastruktur",
+    "jasa kustodi",
+    "jasa perpustakaan",
+    "jasa pornografi",
+    "jasa prasarana",
+    "jasa rujukan",
+    "jasa titip"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan yang baik atau berguna dan bernilai bagi orang lain, negara, instansi, dan sebagainya: pemimpin itu banyak --nya bagi negara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "perbuatan yang memberikan segala sesuatu yang diperlukan orang lain; layanan; servis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "aktivitas, kemudahan, manfaat, dan sebagainya yang dapat dijual kepada orang lain (konsumen) yang menggunakan atau menikmatinya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "nafkah",
+  "entri": "naf.kah bentuk tidak baku: pekah",
+  "bentukTidakBaku": "pekah",
+  "kataTurunan": [
+    "menafkahi",
+    "menafkahkan",
+    "penafkah",
+    "penafkahan"
+  ],
+  "gabunganKata": [
+    "nafkah batin",
+    "nafkah cerai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "biaya hidup untuk diri sendiri atau keluarga",
+    "kataAsal": "nafaqah"
+  },
+  "data": [
+    {
+      "lema": "naf.kah bentuk tidak baku: pekah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belanja untuk hidup; (uang) pendapatan: suami wajib memberi -- kepada istrinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekal hidup sehari-hari; rezeki: terasa sulit mencari -- di negeri yang tandus itu; mencari -- di rantau"
+        }
+      ]
+    }
+  ]
+}

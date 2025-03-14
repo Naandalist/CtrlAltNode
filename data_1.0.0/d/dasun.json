@@ -1,0 +1,34 @@
+{
+  "istilah": "dasun",
+  "entri": "da.sun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendasun"
+  ],
+  "gabunganKata": [
+    "dasun tunggal"
+  ],
+  "peribahasa": [
+    "hidung seperti dasun tunggal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bawang putih",
+    "kataAsal": "laśuna"
+  },
+  "data": [
+    {
+      "lema": "da.sun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bawang putih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang menyerupai bentuk bawang putih"
+        }
+      ]
+    }
+  ]
+}

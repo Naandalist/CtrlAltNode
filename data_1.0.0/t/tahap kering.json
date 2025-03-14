@@ -1,0 +1,28 @@
+{
+  "istilah": "tahap kering",
+  "entri": "tahap » tahap kering",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tahap » tahap kering",
+      "arti": [
+        {
+          "kelas_kata": "Met[Meteorologi: -]",
+          "deskripsi": "tahap setelah tidak adanya kondensasi uap air dari udara lengas yang mengalami proses pengembangan adiabat"
+        },
+        {
+          "kelas_kata": "Hidm[Hidrometeorologi: -]",
+          "deskripsi": "tingkat dalam proses pengembangan adiabat udara lengas tanpa pengembunan"
+        }
+      ]
+    }
+  ]
+}

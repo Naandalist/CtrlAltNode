@@ -1,0 +1,33 @@
+{
+  "istilah": "jurnalistik",
+  "entri": "jur.na.lis.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jurnalistik elektronik",
+    "jurnalistik foya-foya",
+    "jurnalistik got",
+    "jurnalistik jazz"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jur.na.lis.tik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "yang menyangkut kewartawanan dan persuratkabaran: hal itu melanggar kode etik --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "seni kejuruan yang bersangkutan dengan pemberitaan dan persuratkabaran"
+        }
+      ]
+    }
+  ]
+}

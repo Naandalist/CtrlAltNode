@@ -1,0 +1,34 @@
+{
+  "istilah": "tadi",
+  "entri": "ta.di bentuk tidak baku: tahadi",
+  "bentukTidakBaku": "tahadi",
+  "kataTurunan": [
+    "tadinya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.di bentuk tidak baku: tahadi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu yang belum lama berlalu; baru saja: -- ia duduk di sini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saat yang baru saja lalu: sejak -- ia sudah kuperingatkan; dari -- ia belum duduk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang baru lalu: malam --; pagi --; siang --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "lonjak",
+  "entri": "lon.jak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lonjakan",
+    "melonjak",
+    "melonjak-lonjak",
+    "pelonjakan",
+    "terlonjak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "lonjak bagai labu dibenam; seperti lonjak alu penumbuk padi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bergerak maju (melampaui batas), bergerak dengan kekuatan dan kecepatan yang besar",
+    "kataAsal": "loñjok"
+  },
+  "data": [
+    {
+      "lema": "lon.jak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan meloncat ke atas dengan kedua belah kaki bersama-sama (seperti orang hendak mencapai buah di pohon dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

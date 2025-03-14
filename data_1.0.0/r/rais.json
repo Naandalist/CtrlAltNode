@@ -1,0 +1,42 @@
+{
+  "istilah": "rais",
+  "entri": "ra.is1 bentuk tidak baku: rois",
+  "bentukTidakBaku": "rois",
+  "kataTurunan": [
+    "merais"
+  ],
+  "gabunganKata": [
+    "rais am",
+    "rais awal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "cari:",
+    "kataAsal": "ra‘īs"
+  },
+  "data": [
+    {
+      "lema": "ra.is1 bentuk tidak baku: rois",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketua; pemimpin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "presiden"
+        }
+      ]
+    },
+    {
+      "lema": "ra.is2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "merais"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "postugram",
+  "entri": "pos.tu.gram",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pos.tu.gram",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "sistem evaluasi postur dengan menempatkan posisi dan sudut masing-masing sendi sehubungan dengan tingkat referensi dan independensi posisi sendi lainnya"
+        }
+      ]
+    }
+  ]
+}

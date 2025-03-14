@@ -1,0 +1,45 @@
+{
+  "istilah": "merencah",
+  "entri": "rencah1 » me.ren.cah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rencah1 » me.ren.cah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berjalan melalui lumpur (bencah dan sebagainya); menginjak-injak: ia tidak mau ~ lumpur jalan itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggemburkan tanah di sawah (dengan membiarkan kerbau menginjak-injak tanah itu hingga seperti dibajak); melunyah sawah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menempuh (bahaya dan sebagainya): ~ bahaya"
+        }
+      ]
+    },
+    {
+      "lema": "rencah2 » me.ren.cah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak tetap pendirian (pekerjaan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melakukan berbagai pekerjaan bersama-sama (tetapi tidak ada yang selesai)"
+        }
+      ]
+    }
+  ]
+}

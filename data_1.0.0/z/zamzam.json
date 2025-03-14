@@ -1,0 +1,30 @@
+{
+  "istilah": "zamzam",
+  "entri": "zam.zam bentuk tidak baku: zam-zam",
+  "bentukTidakBaku": "zam-zam",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "zamzam durja"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "mata air di Makkah",
+    "kataAsal": "zamzam"
+  },
+  "data": [
+    {
+      "lema": "zam.zam bentuk tidak baku: zam-zam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata air di Makkah di Masjidilharam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air dari mata air zamzam"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "generik",
+  "entri": "ge.ne.rik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.ne.rik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "umum; lazim"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan kekhasan sifat yang dimiliki oleh suatu kelompok: tidak semua nama biasa menjadi nama -- untuk suatu produk"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Komp[Komputer: -]",
+          "deskripsi": "kompatibel dengan seluruh keluarga perangkat keras atau perangkat lunak dari satu perusahaan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "istilah": "umbi",
+  "entri": "um.bi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berumbi",
+    "umbi-umbian"
+  ],
+  "gabunganKata": [
+    "umbi akar",
+    "umbi batang",
+    "umbi lapis",
+    "umbi semu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "um.bi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akar yang menjadi besar dan berisi (wortel, ketela, dan sebagainya): wortel adalah sayuran yang termasuk kelompok --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkal batang yang menjadi besar dan berisi yang dapat dimakan (seperti talas, keladi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkal batang pohon berdaun tunggal (seperti pada kelapa dan pisang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pokok akar (dari batang) yang lurus menghunjam ke dalam tanah; akar umbi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian pasak (pancang, tiang, dan sebagainya) yang tertanam di tanah"
+        }
+      ]
+    },
+    {
+      "lema": "um.bi2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ umbuk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "istilah": "film",
+  "entri": "film bentuk tidak baku: filem",
+  "bentukTidakBaku": "filem",
+  "kataTurunan": [
+    "memfilmkan",
+    "perfilman"
+  ],
+  "gabunganKata": [
+    "film adaptasi",
+    "film aksi hidup",
+    "film alternatif",
+    "film arus utama",
+    "film autobiografi",
+    "film B",
+    "film biografi",
+    "film biru",
+    "film bisu",
+    "film dialog",
+    "film dokumenter",
+    "film eksploitasi",
+    "film fiksi mini",
+    "film formulaik",
+    "film horor",
+    "film independen",
+    "film indi",
+    "film kartun",
+    "film kelas B",
+    "film keluarga",
+    "film komedi",
+    "film kultus",
+    "film laga",
+    "film laris",
+    "film lepasan",
+    "film mini",
+    "film monster",
+    "film murahan",
+    "film omnibus",
+    "film panas",
+    "film pendek",
+    "film porno",
+    "film seni",
+    "film seri",
+    "film serial",
+    "film silat",
+    "film tambahan",
+    "film teatrikal",
+    "film warna",
+    "film warna inframerah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "film bentuk tidak baku: filem",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selaput tipis yang dibuat dari seluloid untuk tempat gambar negatif (yang akan dibuat potret) atau untuk tempat gambar positif (yang akan dimainkan dalam bioskop): gulungan -- yang disita itu berisi cerita sadisme"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lakon (cerita) gambar hidup: malam itu ia hendak menonton sebuah -- komedi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "lembaran plastik yang digunakan sebagai media transfer teks atau gambar pada saat pembuatan pelat cetak"
+        }
+      ]
+    }
+  ]
+}

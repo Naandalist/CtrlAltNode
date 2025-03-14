@@ -1,0 +1,45 @@
+{
+  "istilah": "minor",
+  "entri": "mi.nor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mi.nor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "kecil (digunakan untuk selang, tangga nada, dan akor): selang nada sekon --, tangga nada A --, dan akor C --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kecil; kurang penting: ia membawakan peran -- dalam drama itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "belum dewasa (tentang orang)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tambahan (tentang mata pelajaran, mata kuliah)"
+        }
+      ]
+    },
+    {
+      "lema": "mi.nor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "kelas ukuran daun yang menunjukkan ukuran lebih kecil"
+        }
+      ]
+    }
+  ]
+}

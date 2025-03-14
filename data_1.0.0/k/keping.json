@@ -1,0 +1,47 @@
+{
+  "istilah": "keping",
+  "entri": "ke.ping /kêping/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkeping",
+    "berkeping-keping",
+    "kepingan",
+    "mengeping",
+    "pengepingan",
+    "sekeping"
+  ],
+  "gabunganKata": [
+    "keping biru",
+    "keping podikal",
+    "keping tembaga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ping /kêping/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang berbentuk pipih tipis (tentang papan, uang, dan sebagainya): -- papan; uang --; getah --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong bilangan (untuk barang yang pipih seperti papan atau uang logam): belikan papan barang dua tiga --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pecahan; sobekan; tembereng; bagian kecil-kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "bagian kecil dari kristal tunggal semikonduktor, biasanya silikon, yang membentuk substrat tempat sirkuit terpadu dibuat; sirkuit terpadu; cip"
+        }
+      ]
+    }
+  ]
+}

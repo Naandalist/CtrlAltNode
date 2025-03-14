@@ -1,0 +1,33 @@
+{
+  "istilah": "flagrante delicto",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "tertangkap tangan sedang melakukan kejahatan"
+        }
+      ]
+    },
+    {
+      "lema": "flagrante delicto",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "tertangkap tangan sedang melakukan kejahatan"
+        }
+      ]
+    }
+  ]
+}

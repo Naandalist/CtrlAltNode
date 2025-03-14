@@ -1,0 +1,42 @@
+{
+  "istilah": "logat",
+  "entri": "lo.gat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlogat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bahasa",
+    "kataAsal": "lugah"
+  },
+  "data": [
+    {
+      "lema": "lo.gat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata (dalam arti yang sebenarnya): terjemahan menurut -- (kata demi kata)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dialek: -- Jakarta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara mengucapkan kata (aksen) atau lekuk lidah yang khas: menilik --nya, dapat dipastikan bahwa ia berasal dari Medan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbendaharaan kata: kata ini tidak terdapat dalam -- Melayu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kamus: kitab -- Melayu"
+        }
+      ]
+    }
+  ]
+}

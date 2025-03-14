@@ -1,0 +1,56 @@
+{
+  "istilah": "bulus",
+  "entri": "bu.lus1",
+  "bentukTidakBaku": "bolos1",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "tak ada pendekar yang tak bulus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bulus, labi-labi",
+    "kataAsal": "bulus"
+  },
+  "data": [
+    {
+      "lema": "bu.lus1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berdaun, tidak berbulu, tidak beranting (tentang pohon)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat mempunyai anak karena mandul"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak memiliki apa-apa lagi; miskin; papa"
+        }
+      ]
+    },
+    {
+      "lema": "bu.lus2 bentuk tidak baku: bolos1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dapat masuk (lulus)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kena pukul (dalam permainan pencak dan sebagainya); tembus"
+        }
+      ]
+    },
+    {
+      "lema": "bu.lus3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "labi-labi"
+        }
+      ]
+    }
+  ]
+}

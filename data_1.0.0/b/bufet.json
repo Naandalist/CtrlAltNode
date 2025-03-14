@@ -1,0 +1,32 @@
+{
+  "istilah": "bufet",
+  "entri": "bu.fet bentuk tidak baku: bupet",
+  "bentukTidakBaku": "bupet",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.fet bentuk tidak baku: bupet",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lemari tempat menyimpan makanan atau barang-barang pajangan (hiasan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat berjual minuman, makanan, dan sebagainya di stasiun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbg[Tata Boga: -]",
+          "deskripsi": "hidangan makanan yang disajikan di atas meja dan dipilih sendiri oleh para tamu"
+        }
+      ]
+    }
+  ]
+}

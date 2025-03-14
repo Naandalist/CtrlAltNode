@@ -1,0 +1,46 @@
+{
+  "istilah": "berangga",
+  "entri": "angga » ber.ang.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "angga » ber.ang.ga",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertanduk (rusa)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bercabang-cabang (tentang tanduk rusa)"
+        }
+      ]
+    },
+    {
+      "lema": "rangga1 » be.rang.ga",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai rangga: rusa ~"
+        }
+      ]
+    },
+    {
+      "lema": "be.rang.ga /bêrangga/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat rangga1"
+        }
+      ]
+    }
+  ]
+}

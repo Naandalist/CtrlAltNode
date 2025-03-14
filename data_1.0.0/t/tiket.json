@@ -1,0 +1,32 @@
+{
+  "istilah": "tiket",
+  "entri": "ti.ket",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pertiketan"
+  ],
+  "gabunganKata": [
+    "tiket bolak balik",
+    "tiket kosong",
+    "tiket lolos",
+    "tiket sejalan",
+    "tiket terusan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ti.ket",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karcis kapal, pesawat terbang, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

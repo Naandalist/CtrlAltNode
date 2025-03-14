@@ -1,0 +1,44 @@
+{
+  "istilah": "sedih",
+  "entri": "se.dih1 /sêdih/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tersedih-sedih",
+    "bersedih",
+    "kesedihan",
+    "menyedihkan",
+    "penyedih",
+    "tersedih"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sedih, berdukacita",
+    "kataAsal": "sěḍih"
+  },
+  "data": [
+    {
+      "lema": "se.dih1 /sêdih/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sedu; sedan; isak: tangis dan --"
+        }
+      ]
+    },
+    {
+      "lema": "se.dih2 /sêdih/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merasa sangat pilu dalam hati; susah hati: sejak kematian kedua orang tuanya ia selalu tampak --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menimbulkan rasa susah (pilu dan sebagainya) dalam hati; duka: peristiwa -- terjadi minggu lalu; kabar --; cerita --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "bule",
+  "entri": "bu.le",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bule, putih kulitnya",
+    "kataAsal": "bule"
+  },
+  "data": [
+    {
+      "lema": "bu.le",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bulai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang (binatang dan sebagainya) berkulit putih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang kulit putih (terutama orang Eropa dan Amerika); orang Barat"
+        }
+      ]
+    }
+  ]
+}

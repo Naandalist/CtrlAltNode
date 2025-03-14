@@ -1,0 +1,31 @@
+{
+  "istilah": "hablun",
+  "entri": "hab.lun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hablun minallah",
+    "hablun minannas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tali; tali kekang",
+    "kataAsal": "ḥabl"
+  },
+  "data": [
+    {
+      "lema": "hab.lun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "tali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "hubungan"
+        }
+      ]
+    }
+  ]
+}

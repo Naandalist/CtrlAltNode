@@ -1,0 +1,33 @@
+{
+  "istilah": "traktat",
+  "entri": "trak.tat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trak.tat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bercak putih pada kulit yang tidak merata akibat sengatan sinar matahari"
+        }
+      ]
+    },
+    {
+      "lema": "trak.tat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perjanjian antarbangsa (seperti perjanjian persahabatan, perjanjian perdamaian)"
+        }
+      ]
+    }
+  ]
+}

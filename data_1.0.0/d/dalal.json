@@ -1,0 +1,40 @@
+{
+  "istilah": "dalal",
+  "entri": "da.lal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pialang",
+    "kataAsal": "dallāl"
+  },
+  "data": [
+    {
+      "lema": "da.lal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perantara jual beli; makelar; pialang: jangan dibiasakan membeli barang (tanah, rumah, dan sebagainya) melalui seorang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "wakil penjual; agen: ia adalah -- sepeda dan mesin jahit di kota itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "potongan keuntungan untuk agen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perantara dalam penyelesaian pertikaian: kedua belah pihak ingin berdamai dengan perantaraan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penunjuk jalan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "terban",
+  "entri": "ter.ban /têrban/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menerbankan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "terban bumi tempat berpijak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ter.ban /têrban/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "runtuh (tentang atap, loteng, tanah, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "rusak binasa; hilang lenyap"
+        }
+      ]
+    }
+  ]
+}

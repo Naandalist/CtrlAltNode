@@ -1,0 +1,28 @@
+{
+  "istilah": "positron",
+  "entri": "po.sit.ron",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.sit.ron",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "elektron dengan muatan positif"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "partikel elementer dengan massa sebesar elektron dan muatan elektrik positif sebesar muatan elektrik elektron"
+        }
+      ]
+    }
+  ]
+}

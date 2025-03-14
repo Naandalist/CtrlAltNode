@@ -1,0 +1,28 @@
+{
+  "istilah": "monoklinik",
+  "entri": "mo.no.kli.nik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.no.kli.nik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Fis[Fisika: -]",
+          "deskripsi": "memiliki tiga sumbu yang tidak sama (tentang kristal)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "struktur sel satuan hablur yang paling sederhana, tidak memiliki sumbu simetri dan panjang rusuk sel satuannya semuanya berbeda satu sama lain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "luput",
+  "entri": "lu.put",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meluputkan",
+    "terluput"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.put",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hilang; lepas (dari): -- di mata (dari mata) tidak kelihatan lagi; -- (di hati) dari hati tidak teringat lagi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak terjangkau dan sebagainya; lepas dari: kelakuannya -- dari pengamatanku; hal itu -- dari perhatiannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terhindar (dari); terlepas (dari): -- dari sergapan musuh; -- dari tuduhan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak kena; meleset; salah: tembakannya --"
+        }
+      ]
+    }
+  ]
+}

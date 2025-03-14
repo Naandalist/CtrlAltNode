@@ -1,0 +1,42 @@
+{
+  "istilah": "padung",
+  "entri": "pa.dung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.dung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "kayu atau bambu penutup liang lahat"
+        }
+      ]
+    },
+    {
+      "lema": "pa.dung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "tanduk burung enggang"
+        }
+      ]
+    },
+    {
+      "lema": "pa.dung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "tempat tidur untuk orang tua pada keluarga suku Dayak, ditempatkan di sudut belakang sebuah ruangan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "totum pro parte",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "penyebutan sesuatu berdasarkan keseluruhannya, misalnya sekolah kami melakukan darmawisata untuk maksud ‘hanya guru dan murid sekolah itu’"
+        }
+      ]
+    },
+    {
+      "lema": "totum pro parte",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "penyebutan sesuatu berdasarkan keseluruhannya, misalnya sekolah kami melakukan darmawisata untuk maksud ‘hanya guru dan murid sekolah itu’"
+        }
+      ]
+    }
+  ]
+}

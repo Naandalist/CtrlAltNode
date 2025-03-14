@@ -1,0 +1,33 @@
+{
+  "istilah": "pendapa",
+  "entri": "pen.da.pa1 /pêndapa/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "paviliun, pondok, punjung atau tempat teduh di antara pohon, tenda, bangsal",
+    "kataAsal": "maṇḍapa"
+  },
+  "data": [
+    {
+      "lema": "pen.da.pa1 /pêndapa/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pedapa"
+        }
+      ]
+    },
+    {
+      "lema": "pen.da.pa2 /pêndapa/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendopo"
+        }
+      ]
+    }
+  ]
+}

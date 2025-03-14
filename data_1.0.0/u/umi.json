@@ -1,0 +1,33 @@
+{
+  "istilah": "umi",
+  "entri": "u.mi1",
+  "bentukTidakBaku": "ami2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "buta aksara",
+    "kataAsal": "ummī"
+  },
+  "data": [
+    {
+      "lema": "u.mi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ibu"
+        }
+      ]
+    },
+    {
+      "lema": "u.mi2 bentuk tidak baku: ami2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "tidak bisa baca tulis; buta aksara"
+        }
+      ]
+    }
+  ]
+}

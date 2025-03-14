@@ -1,0 +1,44 @@
+{
+  "istilah": "uzur",
+  "entri": "u.zur bentuk tidak baku: udur",
+  "bentukTidakBaku": "udur",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "halangan; alasan",
+    "kataAsal": "‘użr"
+  },
+  "data": [
+    {
+      "lema": "u.zur bentuk tidak baku: udur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "halangan (yang menyebabkan orang tidak dapat pergi, bekerja, dan sebagainya): kalau tidak ada --, saya akan datang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhalangan: kalau beliau sedang -- dan tidak dapat mengimami salat, anaknya yang tertualah yang menggantikannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lemah badan (karena tua); sakit-sakitan; berpenyakitan: orang -- itu masih terus dipuja-puja oleh masyarakat karena kesaktiannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(sudah) sangat tua; rusak sekali: asrama itu sudah sangat --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengandung (hamil)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "haid"
+        }
+      ]
+    }
+  ]
+}

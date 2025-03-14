@@ -1,0 +1,35 @@
+{
+  "istilah": "laga",
+  "entri": "la.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlaga",
+    "melaga",
+    "melagakan",
+    "memperlagakan",
+    "pelaga",
+    "perlagaan"
+  ],
+  "gabunganKata": [
+    "laga kambing"
+  ],
+  "peribahasa": [
+    "ayam laga sekandang; biar lambat laga, asal menang; tinggi gelepur, rendah laga"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "(pe)lawan; perkelahian, peperangan; sumbangan yang diberikan kepada “pengawas” pada waktu persabungan ayam",
+    "kataAsal": "laga"
+  },
+  "data": [
+    {
+      "lema": "la.ga",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkelahian (tentang binatang)"
+        }
+      ]
+    }
+  ]
+}

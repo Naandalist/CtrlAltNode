@@ -1,0 +1,30 @@
+{
+  "istilah": "kafilah",
+  "entri": "ka.fi.lah bentuk tidak baku: kapilah",
+  "bentukTidakBaku": "kapilah",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "anjing menggonggong, kafilah berlalu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "rombongan yang kembali dari bepergian",
+    "kataAsal": "qāfilah"
+  },
+  "data": [
+    {
+      "lema": "ka.fi.lah bentuk tidak baku: kapilah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rombongan berkendaraan (unta) di padang pasir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kontingen: -- Lampung yang berangkat ke MTQ XIV di Pontianak diasuransikan melalui salah satu perusahaan asuransi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "sagu",
+  "entri": "sa.gu bentuk tidak baku: sago",
+  "bentukTidakBaku": "sago",
+  "kataTurunan": [
+    "menyagu"
+  ],
+  "gabunganKata": [
+    "sagu belanda",
+    "sagu betawi",
+    "sagu hati",
+    "sagu hitam",
+    "sagu mutiara",
+    "sagu pisang",
+    "sagu rendang",
+    "sagu tampin",
+    "sagu tumang"
+  ],
+  "peribahasa": [
+    "jika tidak pecah ruyung, di mana boleh mendapat sagu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.gu bentuk tidak baku: sago",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang hati batangnya dapat dibuat tepung (kebanyakan jenis Metroxylon)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hati batang pohon palem (seperti enau, rumbia)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepung (dari pati hati batang enau, rumbia, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "sotto voce",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -] Mus[Musik: -]",
+          "deskripsi": "berbisik (aba-aba dalam musik)"
+        }
+      ]
+    },
+    {
+      "lema": "sotto voce",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -] [Musik: -]",
+          "deskripsi": "berbisik (aba-aba dalam musik)"
+        }
+      ]
+    }
+  ]
+}

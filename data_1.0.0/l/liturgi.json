@@ -1,0 +1,38 @@
+{
+  "istilah": "liturgi",
+  "entri": "li.tur.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berliturgi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.tur.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "peribadatan kepada Allah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "urutan tata cara kebaktian dari awal sampai selesai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "perayaan bersama imam dan umat untuk memuliakan Allah dan menguduskan manusia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keagamaan"
+        }
+      ]
+    }
+  ]
+}

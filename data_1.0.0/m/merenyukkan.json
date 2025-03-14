@@ -1,0 +1,41 @@
+{
+  "istilah": "merenyukkan",
+  "entri": "renyuk1 » me.re.nyuk.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "renyuk1 » me.re.nyuk.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merenyuk"
+        }
+      ]
+    },
+    {
+      "lema": "renyuk3 » me.re.nyuk.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyentak (merenggut, merengkuh) kuat-kuat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberikan dengan marah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merenyuk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "mosaik",
+  "entri": "mo.sa.ik1 bentuk tidak baku: mozaik",
+  "bentukTidakBaku": "mozaik",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.sa.ik1 bentuk tidak baku: mozaik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seni dekorasi bidang dengan kepingan bahan keras berwarna yang disusun dan ditempelkan dengan perekat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susunan foto udara yang telah disambung satu dengan lainnya sedemikian rupa sehingga membentuk gambaran yang mencakup suatu daerah tertentu"
+        }
+      ]
+    },
+    {
+      "lema": "mo.sa.ik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit virus pada tumbuhan yang dijangkitkan oleh serangga dan menyebabkan bercak kekuning-kuningan pada daun"
+        }
+      ]
+    }
+  ]
+}

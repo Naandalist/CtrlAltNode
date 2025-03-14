@@ -1,0 +1,33 @@
+{
+  "istilah": "landur",
+  "entri": "lan.dur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.dur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terjurai panjang (tentang lengan baju, tali, dan sebagainya); landung"
+        }
+      ]
+    },
+    {
+      "lema": "lan.dur2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa lemah pada lutut (karena terlalu lama berdiri dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

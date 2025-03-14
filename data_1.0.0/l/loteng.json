@@ -1,0 +1,28 @@
+{
+  "istilah": "loteng",
+  "entri": "lo.teng bentuk tidak baku: laoteng",
+  "bentukTidakBaku": "laoteng",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "rumah bertingkat bagian atas",
+    "kataAsal": "lâu téng"
+  },
+  "data": [
+    {
+      "lema": "lo.teng bentuk tidak baku: laoteng",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian rumah bertingkat yang sebelah atas; tingkat rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "langit-langit rumah (dari papan)"
+        }
+      ]
+    }
+  ]
+}

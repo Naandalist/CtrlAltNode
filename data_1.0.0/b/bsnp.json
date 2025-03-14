@@ -1,0 +1,33 @@
+{
+  "istilah": "bsnp",
+  "entri": "BSNP",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "BSNP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "lembaga nonkementerian yang bertugas mengembangkan, mengawasi, dan mengevaluasi pelaksanaan standar nasional pendidikan; dari Badan Standar Nasional Pendidikan"
+        }
+      ]
+    },
+    {
+      "lema": "BSNP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Badan Standar Nasional Pendidikan (lembaga pemerintah nonkementerian yang bertugas mengembangkan, memantau pelaksanaan, dan mengevaluasi standar nasional pendidikan)"
+        }
+      ]
+    }
+  ]
+}

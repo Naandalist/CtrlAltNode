@@ -1,0 +1,82 @@
+{
+  "istilah": "biang",
+  "entri": "bi.ang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "biang-biang",
+    "biang-biang"
+  ],
+  "gabunganKata": [
+    "biang es",
+    "biang gosip",
+    "biang gula",
+    "biang jari",
+    "biang keladi",
+    "biang keringat",
+    "biang kerok",
+    "biang roti",
+    "biang tangan"
+  ],
+  "peribahasa": [
+    "biang menanti tembuk; genting menanti putus, biang menanti tembuk; genting putus, biang menanti tembuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.ang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "induk (tentang binatang, tumbuhan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala; pimpinan: -- penjahat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sari atau pati (yang dapat dijadikan banyak dengan menambahkan air dan sebagainya kepadanya): -- cuka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis yang tulen; jenis belum bercampur dengan jenis yang lain; ras: -- ayam; -- sapi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pokok pangkal; asal mula: kemalasan merupakan -- kemelaratan"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hampir tembuk (tembus)"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang-lubang kecil (pada sela-sela dinding atau atap yang sudah bocor): dari -- atap rumbia yang sudah tua dan lapuk itu masuk cahaya bulan"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "galeberan"
+        }
+      ]
+    }
+  ]
+}

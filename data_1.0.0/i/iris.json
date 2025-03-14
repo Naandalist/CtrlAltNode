@@ -1,0 +1,48 @@
+{
+  "istilah": "iris",
+  "entri": "i.ris1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beriris-iris",
+    "iris-irisan",
+    "irisan",
+    "mengiris",
+    "mengiris-iris",
+    "mengiriskan",
+    "pengiris",
+    "pengirisan",
+    "teriris",
+    "teriris-iris"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mengiris, memotong",
+    "kataAsal": "iris"
+  },
+  "data": [
+    {
+      "lema": "i.ris1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "selaput bola mata yang ada di belakang kornea mata, membentuk batas pupil yang memberikan warna khusus; selaput pelangi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "diafragma dalam lensa kamera"
+        }
+      ]
+    },
+    {
+      "lema": "i.ris2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggal kecil; kerat; potong: ia sarapan roti dua --"
+        }
+      ]
+    }
+  ]
+}

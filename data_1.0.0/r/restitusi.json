@@ -1,0 +1,36 @@
+{
+  "istilah": "restitusi",
+  "entri": "res.ti.tu.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "res.ti.tu.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ganti kerugian; pembayaran kembali: pegawai berhak memperoleh -- pengobatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyerahan bagian pembayaran yang masih bersisa: -- kenaikan gaji bulan Maret akan dibayar bersama-sama dengan gaji bulan April"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "penyesuaian spontan kepala bayi dengan badannya sesudah kepala keluar dari rahim ibu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "pemulihan kondisi korban atau penggantian kerugian yang dialami korban baik secara fisik maupun mental"
+        }
+      ]
+    }
+  ]
+}

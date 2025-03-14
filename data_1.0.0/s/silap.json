@@ -1,0 +1,47 @@
+{
+  "istilah": "silap",
+  "entri": "si.lap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersilap",
+    "menyilap",
+    "penyilap",
+    "tersilap"
+  ],
+  "gabunganKata": [
+    "silap hati",
+    "silap mata"
+  ],
+  "peribahasa": [
+    "silap mata, pecah kepala; silap mata, pecah kepala"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tidak memperhatikan, ketidakwaspadaan",
+    "kataAsal": "silib"
+  },
+  "data": [
+    {
+      "lema": "si.lap1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "salah penglihatan (penglihatan atau perasaannya berlainan dengan keadaan sebenarnya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "silap mata; sulap"
+        }
+      ]
+    },
+    {
+      "lema": "silap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ khilaf"
+        }
+      ]
+    }
+  ]
+}

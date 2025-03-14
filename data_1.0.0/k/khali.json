@@ -1,0 +1,37 @@
+{
+  "istilah": "khali",
+  "entri": "kha.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sepi; kosong",
+    "kataAsal": "khālī"
+  },
+  "data": [
+    {
+      "lema": "kha.li1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "bebas (lepas, terhindar) dari: sebagai manusia, kita tidak -- dari kesalahan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "lalai: tiada -- ia berbuat kebajikan"
+        }
+      ]
+    },
+    {
+      "lema": "kha.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "saudara laki-laki ibu; paman atau uak laki-laki dari pihak ibu"
+        }
+      ]
+    }
+  ]
+}

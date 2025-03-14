@@ -1,0 +1,35 @@
+{
+  "istilah": "moncong",
+  "entri": "mon.cong bentuk tidak baku: muncung",
+  "bentukTidakBaku": "muncung",
+  "kataTurunan": [
+    "bermoncong",
+    "memoncongkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mon.cong bentuk tidak baku: muncung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mulut yang panjang atau memanjang (seperti mulut anjing atau babi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian benda yang mempunyai fungsi dan bentuk seperti mulut yang panjang; cerat: -- meriam"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "panjang lancip (tentang mulut): mulutnya --"
+        }
+      ]
+    }
+  ]
+}

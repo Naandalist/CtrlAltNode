@@ -1,0 +1,46 @@
+{
+  "istilah": "sudi",
+  "entri": "su.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersudikan",
+    "kesudian",
+    "mempersudikan",
+    "menyudikan",
+    "menyudi"
+  ],
+  "gabunganKata": [
+    "sudi tak sudi",
+    "sudi siasat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pembersihan, perbaikan, pemurnian, penyucian, pembenaran",
+    "kataAsal": "śuddhi"
+  },
+  "data": [
+    {
+      "lema": "su.di1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersedia (akan): kabarnya pihak direksi -- juga berunding dengan wakil buruh"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berkenan (akan); tidak enggan; mau; suka: siapa gerangan yang -- akan daku ini"
+        }
+      ]
+    },
+    {
+      "lema": "su.di2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "siasat; periksa"
+        }
+      ]
+    }
+  ]
+}

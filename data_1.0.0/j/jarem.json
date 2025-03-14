@@ -1,0 +1,33 @@
+{
+  "istilah": "jarem",
+  "entri": "ja.rem1 /jarêm/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.rem1 /jarêm/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "masih terasa agak nyeri (bekas dipijat, dipukul, bekas luka, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ja.rem2 /jarêm/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat rumput"
+        }
+      ]
+    }
+  ]
+}

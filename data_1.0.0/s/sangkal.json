@@ -1,0 +1,41 @@
+{
+  "istilah": "sangkal",
+  "entri": "sang.kal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersangkal",
+    "menyangkal",
+    "penyangkal",
+    "penyangkalan",
+    "sangkalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bersua beliung dengan sangkal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sang.kal1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bantah; tidak membenarkan: ia -- semua tuduhan itu"
+        }
+      ]
+    },
+    {
+      "lema": "sang.kal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangkai beliung (patil dan sebagainya): -- itu terbuat dari kayu nangka"
+        }
+      ]
+    }
+  ]
+}

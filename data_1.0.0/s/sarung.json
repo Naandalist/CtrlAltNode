@@ -1,0 +1,70 @@
+{
+  "istilah": "sarung",
+  "entri": "sa.rung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersarung",
+    "menyarung",
+    "menyarungkan",
+    "tersarung",
+    "menyarung"
+  ],
+  "gabunganKata": [
+    "sarung angin",
+    "sarung bantal",
+    "sarung bugis",
+    "sarung jari",
+    "sarung kaki",
+    "sarung keris",
+    "sarung kursi",
+    "sarung pedang",
+    "sarung pistol",
+    "sarung sofa",
+    "sarung tangan",
+    "sarung tangan gaya",
+    "sarung tangan jari terbuka",
+    "sarung tangan lateks",
+    "sarung tangan malam",
+    "sarung tangan pendek",
+    "sarung tangan penjaga gawang",
+    "sarung tangan sepergelangan",
+    "sarung tangan sofbol",
+    "sarung tinju"
+  ],
+  "peribahasa": [
+    "menghasta kain sarung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.rung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selongsong yang dibuat dari kayu, kulit, atau logam tempat memasukkan keris (pedang dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampul; salut; pembungkus: -- bantal; -- tangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain sarung"
+        }
+      ]
+    },
+    {
+      "lema": "sa.rung2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyarung"
+        }
+      ]
+    }
+  ]
+}

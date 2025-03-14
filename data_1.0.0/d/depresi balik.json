@@ -1,0 +1,32 @@
+{
+  "istilah": "depresi balik",
+  "entri": "depresi » depresi balik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "depresi » depresi balik",
+      "arti": [
+        {
+          "kelas_kata": "Met[Meteorologi: -]",
+          "deskripsi": "pusat tekanan rendah di daerah bertekanan tinggi"
+        },
+        {
+          "kelas_kata": "Met[Meteorologi: -]",
+          "deskripsi": "terjadinya tekanan rendah pada saat musim dingin"
+        },
+        {
+          "kelas_kata": "Met[Meteorologi: -]",
+          "deskripsi": "pembalikan arah gerak daerah depresi yang berlawanan dengan gerak dasarnya"
+        }
+      ]
+    }
+  ]
+}

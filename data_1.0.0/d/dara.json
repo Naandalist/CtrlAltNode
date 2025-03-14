@@ -1,0 +1,53 @@
+{
+  "istilah": "dara",
+  "entri": "da.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "perdaraan"
+  ],
+  "gabunganKata": [
+    "dara laut",
+    "dara laut jambul"
+  ],
+  "peribahasa": [
+    "bagai anak dara mabuk andam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "burung dara",
+    "kataAsal": "dara"
+  },
+  "data": [
+    {
+      "lema": "da.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak perempuan yang belum kawin; gadis; perawan: ia akan menikah dengan seorang -- dari Kalimantan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keperawanan: sudah hilang --nya, akibat pergaulan yang terlalu intim"
+        }
+      ]
+    },
+    {
+      "lema": "da.ra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "ternak betina yang berumur lebih dari satu tahun dan belum pernah beranak meskipun telah bunting"
+        }
+      ]
+    },
+    {
+      "lema": "da.ra3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "merpati〔Columba domestica〕"
+        }
+      ]
+    }
+  ]
+}

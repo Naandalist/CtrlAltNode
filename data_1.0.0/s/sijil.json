@@ -1,0 +1,32 @@
+{
+  "istilah": "sijil",
+  "entri": "si.jil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "dokumen",
+    "kataAsal": "sijill"
+  },
+  "data": [
+    {
+      "lema": "si.jil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat gulungan; daftar; register"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat tanda lulus pemeriksaan, surat tanda tamat belajar, dan sebagainya; sertifikat; ijazah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "daftar nama orang yang bertugas sebagai awak kapal, yang disahkan oleh syahbandar"
+        }
+      ]
+    }
+  ]
+}

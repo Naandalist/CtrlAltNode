@@ -1,0 +1,36 @@
+{
+  "istilah": "penyimpanan",
+  "entri": "simpan1 » pe.nyim.pan.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "penyimpanan eksternal",
+    "penyimpanan malam",
+    "penyimpanan virtual"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "simpan1 » pe.nyim.pan.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menyimpan (mengumpulkan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, cara, perbuatan menyimpan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "kegiatan pemasaran yang bersangkutan dengan menahan dan menyimpan produk sejak dihasilkan sampai waktu dijual"
+        }
+      ]
+    }
+  ]
+}

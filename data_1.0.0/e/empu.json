@@ -1,0 +1,43 @@
+{
+  "istilah": "empu",
+  "entri": "em.pu1 /êmpu/bentuk tidak baku: ampu2",
+  "bentukTidakBaku": "ampu2",
+  "kataTurunan": [
+    "mengempu"
+  ],
+  "gabunganKata": [
+    "empu jari",
+    "empu kaki",
+    "empu tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.pu1 /êmpu/bentuk tidak baku: ampu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "gelar kehormatan yang berarti ‘tuan’"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "orang yang sangat ahli (terutama ahli membuat keris)"
+        }
+      ]
+    },
+    {
+      "lema": "em.pu2 /êmpu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hulu; kepala"
+        }
+      ]
+    }
+  ]
+}

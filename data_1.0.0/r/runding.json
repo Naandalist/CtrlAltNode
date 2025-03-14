@@ -1,0 +1,36 @@
+{
+  "istilah": "runding",
+  "entri": "run.ding",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berunding",
+    "memperundingkan",
+    "merunding",
+    "merundingkan",
+    "perunding",
+    "perundingan",
+    "rundingan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "run.ding",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perhitungan; perkiraan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembicaraan yang sungguh-sungguh lagi mendalam (tentang suatu hal): berbanyak -- banyak bicara; merentang -- memanjang-manjangkan percakapan"
+        }
+      ]
+    }
+  ]
+}

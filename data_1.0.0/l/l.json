@@ -1,0 +1,41 @@
+{
+  "istilah": "l",
+  "entri": "l2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "l2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "liter"
+        }
+      ]
+    },
+    {
+      "lema": "L1 varian: l",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf ke-12 abjad Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lambang bilangan (ditulis dengan huruf kapital) 50 angka Romawi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lambang bilangan (ditulis dengan huruf kapital bergaris atas) 50.000 angka Romawi"
+        }
+      ]
+    }
+  ]
+}

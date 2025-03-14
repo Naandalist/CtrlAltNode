@@ -1,0 +1,28 @@
+{
+  "istilah": "yahudiah",
+  "entri": "Ya.hu.di.ah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "agama Yahudi",
+    "kataAsal": "yahūdiyyah"
+  },
+  "data": [
+    {
+      "lema": "Ya.hu.di.ah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang-orang Yahudi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ajaran agama Yahudi"
+        }
+      ]
+    }
+  ]
+}

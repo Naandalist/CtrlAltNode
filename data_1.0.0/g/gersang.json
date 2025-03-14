@@ -1,0 +1,34 @@
+{
+  "istilah": "gersang",
+  "entri": "ger.sang /gêrsang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kegersangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ger.sang /gêrsang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kering dan tidak subur (tentang tanah, rambut)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "pahit; penuh derita"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak ada gairah dan semarak (tentang suasana kehidupan)"
+        }
+      ]
+    }
+  ]
+}

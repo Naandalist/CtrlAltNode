@@ -1,0 +1,74 @@
+{
+  "istilah": "sendi",
+  "entri": "sen.di1 /sêndi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersendi",
+    "bersendi-sendi",
+    "menyendi",
+    "menyendi-nyendi",
+    "persendian",
+    "bersendi",
+    "bersendikan",
+    "mempersendikan",
+    "menyendi",
+    "menyendikan",
+    "persendian"
+  ],
+  "gabunganKata": [
+    "sendi buka",
+    "sendi ganda",
+    "sendi glenohumeral",
+    "sendi kaca mata",
+    "sendi kaku",
+    "sendi karpometakarpal",
+    "sendi lutut",
+    "sendi mati",
+    "sendi naik",
+    "sendi target",
+    "sendi turun",
+    "sendi tutup"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bantalan, tempat duduk, tandu, kayu penyangga tiang",
+    "kataAsal": "sěṇḍi"
+  },
+  "data": [
+    {
+      "lema": "sen.di1 /sêndi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hubungan yang terbentuk antara tulang; sendi tulang; tulang sendi: ia berasa ngilu pada tulang --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat bersambungnya dua bagian barang; sekeri (pintu, peti, dan sebagainya): tukang sedang memasang -- pintu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "simpai (bingkai) sebagai penyalut: tongkat itu diberi -- emas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "peralihan bermakna dari satu segmen fonologis ke segmen fonologis yang lain atau segmen fonologis ke kesenyapan, baik yang terbuka maupun yang tertutup"
+        }
+      ]
+    },
+    {
+      "lema": "sen.di2 /sêndi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu pengalas atau pengganjal tiang rumah dan sebagainya: memasang batu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "alas; dasar; asas; fundamen: Pancasila menjadi -- kehidupan bangsa kita"
+        }
+      ]
+    }
+  ]
+}

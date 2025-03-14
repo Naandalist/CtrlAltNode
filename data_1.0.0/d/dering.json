@@ -1,0 +1,38 @@
+{
+  "istilah": "dering",
+  "entri": "de.ring1 /dêring/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdering",
+    "berdering-dering",
+    "deringan",
+    "mendering"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.ring1 /dêring/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi giring-giring"
+        }
+      ]
+    },
+    {
+      "lema": "de.ring2 /dêring/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "medang buaya"
+        }
+      ]
+    }
+  ]
+}

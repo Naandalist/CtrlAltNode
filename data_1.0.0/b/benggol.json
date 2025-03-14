@@ -1,0 +1,45 @@
+{
+  "istilah": "benggol",
+  "entri": "beng.gol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "benggolan",
+    "benggolan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "beng.gol1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "benjol"
+        }
+      ]
+    },
+    {
+      "lema": "beng.gol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang tembaga bernilai 2,5 sen (dipakai pada zaman penjajahan Belanda); gobang"
+        }
+      ]
+    },
+    {
+      "lema": "beng.gol3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "benggolan"
+        }
+      ]
+    }
+  ]
+}

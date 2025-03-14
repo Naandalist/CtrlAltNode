@@ -1,0 +1,28 @@
+{
+  "istilah": "kastel",
+  "entri": "kas.tel bentuk tidak baku: kastil",
+  "bentukTidakBaku": "kastil",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kas.tel bentuk tidak baku: kastil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah (benteng) yang dikelilingi parit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "istana yang sekaligus dijadikan benteng"
+        }
+      ]
+    }
+  ]
+}

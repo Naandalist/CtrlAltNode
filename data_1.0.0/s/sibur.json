@@ -1,0 +1,36 @@
+{
+  "istilah": "sibur",
+  "entri": "si.bur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyibur",
+    "sibur-sibur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.bur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pencedok air dibuat dari tempurung kelapa dan sebagainya yang diberi tangkai"
+        }
+      ]
+    },
+    {
+      "lema": "si.bur2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "sibur-sibur"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "spesies",
+  "entri": "spe.si.es",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "spesies fokus",
+    "spesies invasif",
+    "spesies kunci",
+    "spesies nitrogen reaktif",
+    "spesies oksigen reaktif",
+    "spesies payung",
+    "spesies reaktif oksigen"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "spe.si.es",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "satuan dasar klasifikasi biologi; jenis"
+        }
+      ]
+    }
+  ]
+}

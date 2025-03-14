@@ -1,0 +1,39 @@
+{
+  "istilah": "genggang",
+  "entri": "geng.gang bentuk tidak baku: ginggang",
+  "bentukTidakBaku": "ginggangginggang",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "malang celaka Raja Genggang, anak terbeli tunjang hilang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "geng.gang bentuk tidak baku: ginggang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "corak bergaris-garis (tentang kain, cita, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "geng.gang /gênggang/bentuk tidak baku: ginggang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "renggang"
+        }
+      ]
+    }
+  ]
+}

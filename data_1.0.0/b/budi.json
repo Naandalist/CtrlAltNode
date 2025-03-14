@@ -1,0 +1,50 @@
+{
+  "istilah": "budi",
+  "entri": "bu.di",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbudi",
+    "memperbudikan",
+    "sebudi"
+  ],
+  "gabunganKata": [
+    "budi bahasa",
+    "budi bicara",
+    "budi pekerti"
+  ],
+  "peribahasa": [
+    "ada ubi ada talas, ada budi ada balas; besi baik tiada berkarat (budi baik tak dilupakan); hancur badan dikandung tanah, budi baik terkenang jua; hilang bini boleh dicari, hilang budi badan celaka; laut budi tepian akal; lubuk akal lautan (= tepian) ilmu (= budi); mati ikan karena umpan, mati sahaya karena budi; nasi habis, budi bersua; sendok berdengar-dengar, nasi habis budi dapat; seorang budi-budian, seorang tabung seruas; utang emas boleh dibayar, utang budi dibawa mati; utang emas dapat dibayar, utang budi dibawa mati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pikiran, intuisi, persepsi, talenta",
+    "kataAsal": "buddhi"
+  },
+  "data": [
+    {
+      "lema": "bu.di",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat batin yang merupakan paduan akal dan perasaan untuk menimbang baik dan buruk: pendidikan untuk memperkembangkan badan dan -- manusia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tabiat; akhlak; watak: orang yang baik --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan baik; kebaikan: ada ubi ada talas, ada -- ada balas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daya upaya; ikhtiar: mencari -- untuk mengalahkan lawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akal (dalam arti kecerdikan menipu atau tipu daya): bermain --"
+        }
+      ]
+    }
+  ]
+}

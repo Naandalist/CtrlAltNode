@@ -1,0 +1,24 @@
+{
+  "istilah": "naqal",
+  "entri": "na.qal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengutipan; penyalinan; dalil yang dikutip kepada Alquran dan Hadis",
+    "kataAsal": "naql"
+  },
+  "data": [
+    {
+      "lema": "na.qal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "kutipan berdasarkan Al-Qur'an dan hadis"
+        }
+      ]
+    }
+  ]
+}

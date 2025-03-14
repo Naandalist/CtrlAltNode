@@ -1,0 +1,37 @@
+{
+  "istilah": "jerat",
+  "entri": "je.rat /jêrat/bentuk tidak baku: jirat2",
+  "bentukTidakBaku": "jirat2",
+  "kataTurunan": [
+    "jeratan",
+    "menjerat",
+    "sejerat",
+    "terjerat"
+  ],
+  "gabunganKata": [
+    "jerat semata"
+  ],
+  "peribahasa": [
+    "harapan tak putus sampai jerat tersentak rantus; jerat halus kelindan sutra; jerat semata bunda kandung; menahan jerat di tempat genting; pelanduk melupakan jerat, tetapi jerat tak melupakan pelanduk; pelanduk melupakan jerat, tetapi jerat tidak melupakan pelanduk; tahan jerat, sorong kepala; terpasang jerat halus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.rat /jêrat/bentuk tidak baku: jirat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali yang ujungnya disimpulkan membentuk lubang yang dapat disempitkan atau dilonggarkan (untuk menangkap burung, kijang, dan sebagainya); kala4: pelanduk itu terkena -- yang dipasang petani"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tipu muslihat untuk menyusahkan atau mencelakakan orang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "papa",
+  "entri": "pa.pa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepapaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "buruk, rendah",
+    "kataAsal": "pāpa"
+  },
+  "data": [
+    {
+      "lema": "pa.pa1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "miskin; sengsara"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Hin[Agama Hindu: -]",
+          "deskripsi": "terbelenggu oleh indra, lalai, dan lupa akan hakikatnya sebagai manusia; berdosa: orang -- adalah manusia yang terbelenggu oleh indranya dan tidak lagi ingat pada hakikatnya"
+        }
+      ]
+    },
+    {
+      "lema": "pa.pa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ayah; bapak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sapaan (panggilan) kepada orang tua laki-laki"
+        }
+      ]
+    }
+  ]
+}

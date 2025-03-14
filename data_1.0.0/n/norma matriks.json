@@ -1,0 +1,24 @@
+{
+  "istilah": "norma matriks",
+  "entri": "norma » norma matriks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "norma » norma matriks",
+      "arti": [
+        {
+          "kelas_kata": "Mat[Matematika: -]",
+          "deskripsi": "akar dari jumlah kuadrat semua nilai mutlak dari entri-entri matriks tersebut"
+        }
+      ]
+    }
+  ]
+}

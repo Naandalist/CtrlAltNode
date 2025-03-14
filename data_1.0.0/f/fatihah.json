@@ -1,0 +1,28 @@
+{
+  "istilah": "fatihah",
+  "entri": "fa.ti.hah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembuka; nama surah pembuka dalam Alquran",
+    "kataAsal": "fātiḥah"
+  },
+  "data": [
+    {
+      "lema": "fa.ti.hah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembukaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surah Fatihah (ditulis dengan huruf awal kapital dan didahului dengan penanda makrifah al-)"
+        }
+      ]
+    }
+  ]
+}

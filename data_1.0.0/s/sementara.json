@@ -1,0 +1,38 @@
+{
+  "istilah": "sementara",
+  "entri": "se.men.ta.ra /sêmêntara/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesementaraan"
+  ],
+  "gabunganKata": [
+    "sementara itu"
+  ],
+  "peribahasa": [
+    "baik berjagung-jagung, sementara padi belum masak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "segera setelah, segera sesudah, lalu",
+    "kataAsal": "samantara"
+  },
+  "data": [
+    {
+      "lema": "se.men.ta.ra /sêmêntara/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "selama; selagi: -- menunggu kedatangan Ayah, Ibu merenda taplak meja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "beberapa lamanya; tidak selamanya; tidak untuk selama-lamanya: kami tinggal di rumah ini hanya untuk -- saja; untuk -- (waktu) ia diharuskan istirahat oleh dokter"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "beberapa (di antaranya): -- pedagang besar terlibat dalam perkara penyelundupan barang terlarang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "tarling",
+  "entri": "tar.ling",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tar.ling",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seni musik rakyat Cirebon (dengan peralatan utama gitar dan suling)"
+        }
+      ]
+    },
+    {
+      "lema": "tar.ling2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "tarawih keliling"
+        }
+      ]
+    }
+  ]
+}

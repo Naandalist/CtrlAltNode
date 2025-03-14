@@ -1,0 +1,56 @@
+{
+  "istilah": "sidik",
+  "entri": "si.dik1 bentuk tidak baku: midik",
+  "bentukTidakBaku": "midik",
+  "kataTurunan": [
+    "menyelidik",
+    "menyelidiki",
+    "menyidik",
+    "penyelidik",
+    "penyelidikan",
+    "penyidik",
+    "penyidikan",
+    "selidik",
+    "terselidiki"
+  ],
+  "gabunganKata": [
+    "sidik jari",
+    "sidik selidik",
+    "sidik-midik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang sangat percaya",
+    "kataAsal": "ṣiddīq"
+  },
+  "data": [
+    {
+      "lema": "si.dik1 bentuk tidak baku: midik",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "selidik (tentang jari); periksa"
+        }
+      ]
+    },
+    {
+      "lema": "si.dik2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "benar; jujur"
+        }
+      ]
+    },
+    {
+      "lema": "si.dik3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat fajar"
+        }
+      ]
+    }
+  ]
+}

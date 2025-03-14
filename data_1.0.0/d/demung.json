@@ -1,0 +1,37 @@
+{
+  "istilah": "demung",
+  "entri": "de.mung1 /dêmung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "nama pejabat di istana",
+    "kataAsal": "děmuṅ"
+  },
+  "data": [
+    {
+      "lema": "de.mung1 /dêmung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "gambang kecil dengan 6–7 lempeng logam berjejer di atas kerangka kayu, beroktaf lebih rendah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "alat musik gamelan (semacam gambang dari logam)"
+        }
+      ]
+    },
+    {
+      "lema": "de.mung2 /dêmung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kepala distrik (lokal)"
+        }
+      ]
+    }
+  ]
+}

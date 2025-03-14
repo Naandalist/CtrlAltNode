@@ -1,0 +1,30 @@
+{
+  "istilah": "rama",
+  "entri": "ra.ma bentuk tidak baku: romo",
+  "bentukTidakBaku": "romo",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagaikan rama-rama masuk api"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ayah, juga dipakai untuk paman, guru, dan lain-lain; tertua, senir (dalam komunitas religi, desa, tentera)",
+    "kataAsal": "rāma"
+  },
+  "data": [
+    {
+      "lema": "ra.ma bentuk tidak baku: romo",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ayah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "padri; pastor"
+        }
+      ]
+    }
+  ]
+}

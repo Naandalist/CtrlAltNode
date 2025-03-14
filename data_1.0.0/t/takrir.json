@@ -1,0 +1,33 @@
+{
+  "istilah": "takrir",
+  "entri": "tak.rir1 bentuk tidak baku: takarir2",
+  "bentukTidakBaku": "takarir2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengulangan",
+    "kataAsal": "takrīr"
+  },
+  "data": [
+    {
+      "lema": "tak.rir1 bentuk tidak baku: takarir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peneguhan kebenaran dengan alasan: guru itu --nya banyak lagi dalam"
+        }
+      ]
+    },
+    {
+      "lema": "tak.rir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengulangan hafalan atau pelajaran"
+        }
+      ]
+    }
+  ]
+}

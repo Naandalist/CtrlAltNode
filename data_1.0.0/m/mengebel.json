@@ -1,0 +1,28 @@
+{
+  "istilah": "mengebel",
+  "entri": "bel1 » me.nge.bel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bel1 » me.nge.bel",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memanggil dengan membunyikan lonceng"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memanggil melalui pesawat telepon; menelepon"
+        }
+      ]
+    }
+  ]
+}

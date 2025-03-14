@@ -1,0 +1,53 @@
+{
+  "istilah": "saraf",
+  "entri": "sa.raf1",
+  "bentukTidakBaku": "sarap5, syaraf",
+  "kataTurunan": [
+    "persarafan"
+  ],
+  "gabunganKata": [
+    "saraf abdusen",
+    "saraf aferen",
+    "saraf aksesoris",
+    "saraf akustik",
+    "saraf gerak",
+    "saraf kranial",
+    "saraf median",
+    "saraf motoris",
+    "saraf optik",
+    "saraf otonom",
+    "saraf otonomik",
+    "saraf pemancar",
+    "saraf sensoris",
+    "saraf somatik",
+    "saraf tepi",
+    "saraf tulang punggung",
+    "saraf vagus"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengalihan; ilmu bentuk kata; morfologi",
+    "kataAsal": "ṣarf"
+  },
+  "data": [
+    {
+      "lema": "sa.raf1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perubahan kata-kata: ilmu --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.raf2 bentuk tidak baku: sarap5, syaraf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "jaringan yang mengatur kerja sama, menyalurkan rangsangan dari dan ke alat-alat tubuh"
+        }
+      ]
+    }
+  ]
+}

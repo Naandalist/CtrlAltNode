@@ -1,0 +1,37 @@
+{
+  "istilah": "tungkul",
+  "entri": "tung.kul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menungkul",
+    "penungkul",
+    "temungkul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "tuṅkul"
+  },
+  "data": [
+    {
+      "lema": "tung.kul1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menungkul; penungkul; temungkul"
+        }
+      ]
+    },
+    {
+      "lema": "tung.kul2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tongkol1"
+        }
+      ]
+    }
+  ]
+}

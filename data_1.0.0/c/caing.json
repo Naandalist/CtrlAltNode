@@ -1,0 +1,36 @@
+{
+  "istilah": "caing",
+  "entri": "ca.ing1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "caing-caing",
+    "mencaing-caing"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.ing1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cabik; koyak"
+        }
+      ]
+    },
+    {
+      "lema": "ca.ing2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "satuan ukuran yang jumlahnya sama dengan 200 ikat (tentang padi)"
+        }
+      ]
+    }
+  ]
+}

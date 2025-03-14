@@ -1,0 +1,37 @@
+{
+  "istilah": "sakai",
+  "entri": "sa.kai2 bentuk tidak baku: sagai2",
+  "bentukTidakBaku": "sagai2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pertemanan, aliansi; orang yang hubungan intim dengan",
+    "kataAsal": "sakhya"
+  },
+  "data": [
+    {
+      "lema": "sa.kai2 bentuk tidak baku: sagai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "orang bawahan (hamba, pengiring, rakyat, dan sebagainya): hulubalang itu pun berangkat dengan membawa sejumlah --nya"
+        }
+      ]
+    },
+    {
+      "lema": "Sa.kai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa di Indonesia yang tinggal di Kepulauan Riau dan di Tanah Melayu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh masyarakat Sakai"
+        }
+      ]
+    }
+  ]
+}

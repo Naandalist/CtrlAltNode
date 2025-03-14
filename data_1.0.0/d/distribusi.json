@@ -1,0 +1,51 @@
+{
+  "istilah": "distribusi",
+  "entri": "dis.tri.bu.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendistribusi",
+    "mendistribusikan",
+    "pendistribusi",
+    "pendistribusian",
+    "terdistribusi"
+  ],
+  "gabunganKata": [
+    "distribusi bimodal",
+    "distribusi komplementer",
+    "distribusi paritas",
+    "distribusi udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dis.tri.bu.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyaluran (pembagian, pengiriman) kepada beberapa orang atau ke beberapa tempat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembagian barang keperluan sehari-hari (terutama dalam masa darurat) oleh pemerintah kepada pegawai negeri, penduduk, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "semua posisi yang ditempati oleh unsur bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Ling[Linguistik: -]",
+          "deskripsi": "persebaran benda dalam suatu wilayah geografi tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "pembagian atau persebaran pencahayaan dalam wilayah artistik pertunjukan"
+        }
+      ]
+    }
+  ]
+}

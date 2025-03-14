@@ -1,0 +1,37 @@
+{
+  "istilah": "enap",
+  "entri": "e.nap1 /ênap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengenap",
+    "mengenap",
+    "mengenap-enapkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.nap1 /ênap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kumpul pada dasar air; endap"
+        }
+      ]
+    },
+    {
+      "lema": "e.nap2 /ênap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "diam (tidak bergerak dan tidak berkata-kata)"
+        }
+      ]
+    }
+  ]
+}

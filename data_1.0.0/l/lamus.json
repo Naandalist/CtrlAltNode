@@ -1,0 +1,37 @@
+{
+  "istilah": "lamus",
+  "entri": "la.mus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.mus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "alat tiup untuk membarakan arang, terbuat dari kulit kambing"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "meniup tanpa tersendat dengan cara menyimpan persediaan udara dalam rongga mulut"
+        }
+      ]
+    },
+    {
+      "lema": "la.mus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "santet yang berakibat korban mengalami pembengkakan  perut"
+        }
+      ]
+    }
+  ]
+}

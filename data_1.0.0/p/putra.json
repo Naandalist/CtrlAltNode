@@ -1,0 +1,43 @@
+{
+  "istilah": "putra",
+  "entri": "put.ra bentuk tidak baku: putera1",
+  "bentukTidakBaku": "putera1",
+  "kataTurunan": [
+    "berputra",
+    "berputrakan",
+    "keputraan",
+    "memutrakan"
+  ],
+  "gabunganKata": [
+    "putra mahkota"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "anak laki-laki",
+    "kataAsal": "putra"
+  },
+  "data": [
+    {
+      "lema": "put.ra bentuk tidak baku: putera1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak laki-laki raja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak kandung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak laki-laki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "khusus (untuk) laki-laki: ia menjadi juara untuk lomba lari 100 m --"
+        }
+      ]
+    }
+  ]
+}

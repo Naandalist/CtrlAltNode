@@ -1,0 +1,51 @@
+{
+  "istilah": "tempur",
+  "entri": "tem.pur1 /têmpur/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertempur",
+    "mempertempurkan",
+    "menempur",
+    "penempur",
+    "pertempuran",
+    "petempur (1)",
+    "tempuran",
+    "menempur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "saling bertubrukan, bertempur dan menjadikan satu tumpukan atau timbunan",
+    "kataAsal": "těmpur"
+  },
+  "data": [
+    {
+      "lema": "tem.pur1 /têmpur/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menempur"
+        }
+      ]
+    },
+    {
+      "lema": "tem.pur2 /têmpur/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempuran"
+        }
+      ]
+    },
+    {
+      "lema": "tem.pur3 /têmpur/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menempur"
+        }
+      ]
+    }
+  ]
+}

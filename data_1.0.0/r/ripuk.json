@@ -1,0 +1,33 @@
+{
+  "istilah": "ripuk",
+  "entri": "ri.puk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ri.puk1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rusak; pecah-pecah (remuk)"
+        }
+      ]
+    },
+    {
+      "lema": "ri.puk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keuntungan yang diperoleh akibat kesalahan orang lain"
+        }
+      ]
+    }
+  ]
+}

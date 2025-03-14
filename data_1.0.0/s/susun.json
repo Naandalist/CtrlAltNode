@@ -1,0 +1,40 @@
+{
+  "istilah": "susun",
+  "entri": "su.sun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersusun",
+    "menyusun",
+    "menyusunkan",
+    "penyusun",
+    "penyusunan",
+    "susunan",
+    "tersusun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.sun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok atau kumpulan yang tidak berapa banyak; tumpuk: dia mengikat dua -- pakaian bekas untuk fakir miskin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seperangkat barang yang (diatur) bertingkat-tingkat: ia membeli beberapa -- piring"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rangkap (yang tindih-menindih): mawar bermahkota -- bukan-lah mawar jenis baru"
+        }
+      ]
+    }
+  ]
+}

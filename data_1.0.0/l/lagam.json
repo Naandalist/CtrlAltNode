@@ -1,0 +1,33 @@
+{
+  "istilah": "lagam",
+  "entri": "la.gam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "warna, nada, harmoni, lagu, corak, melodi; nafsu, gairah; badan",
+    "kataAsal": "rāga"
+  },
+  "data": [
+    {
+      "lema": "la.gam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kekang kuda"
+        }
+      ]
+    },
+    {
+      "lema": "la.gam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lagu; cara; langgam"
+        }
+      ]
+    }
+  ]
+}

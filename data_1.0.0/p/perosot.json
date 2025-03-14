@@ -1,0 +1,35 @@
+{
+  "istilah": "perosot",
+  "entri": "pe.ro.sot /pêrosot/bentuk tidak baku: rosot",
+  "bentukTidakBaku": "rosot",
+  "kataTurunan": [
+    "kemerosotan",
+    "memerosot",
+    "memerosotkan",
+    "merosot",
+    "merosotkan",
+    "perosotan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ro.sot /pêrosot/bentuk tidak baku: rosot",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal turun"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meluncur ke bawah"
+        }
+      ]
+    }
+  ]
+}

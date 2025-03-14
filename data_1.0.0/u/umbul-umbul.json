@@ -1,0 +1,33 @@
+{
+  "istilah": "umbul-umbul",
+  "entri": "umbul1 » um.bul-um.bul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "umbul1 » um.bul-um.bul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bendera beraneka warna yang dipasang memanjang ke atas dan meruncing pada ujungnya, dipasang untuk memeriahkan suasana serta menarik perhatian"
+        }
+      ]
+    },
+    {
+      "lema": "um.bul-um.bul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang-orangan di sawah"
+        }
+      ]
+    }
+  ]
+}

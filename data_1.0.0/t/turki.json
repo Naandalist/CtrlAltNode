@@ -1,0 +1,28 @@
+{
+  "istilah": "turki",
+  "entri": "Tur.ki",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Bangsa Mongol",
+    "kataAsal": "turkī"
+  },
+  "data": [
+    {
+      "lema": "Tur.ki",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "negara di kawasan Eurasia, terbentang dari Semenanjung Anatolia di barat daya Asia sampai ke wilayah Balkan di Eropa bagian tenggara, beribu kota Ankara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan di Turki"
+        }
+      ]
+    }
+  ]
+}

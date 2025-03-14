@@ -1,0 +1,28 @@
+{
+  "istilah": "dinar",
+  "entri": "di.nar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "koin emas",
+    "kataAsal": "dīnār"
+  },
+  "data": [
+    {
+      "lema": "di.nar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "mata uang emas lama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang di beberapa negara, seperti Aljazair, Bahrain, dan Irak"
+        }
+      ]
+    }
+  ]
+}

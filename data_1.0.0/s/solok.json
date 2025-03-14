@@ -1,0 +1,49 @@
+{
+  "istilah": "solok",
+  "entri": "so.lok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "penyolok",
+    "pesolok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.lok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumbangan"
+        }
+      ]
+    },
+    {
+      "lema": "so.lok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "lembah yang terletak di antara dua buah gunung"
+        }
+      ]
+    },
+    {
+      "lema": "So.lok3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota di Provinsi Sumatra Barat, tempat penghasil beras di Sumatra Barat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Sumatra Barat, beribu kota Arosuka"
+        }
+      ]
+    }
+  ]
+}

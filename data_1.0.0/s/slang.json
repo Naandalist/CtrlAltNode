@@ -1,0 +1,37 @@
+{
+  "istilah": "slang",
+  "entri": "slang1",
+  "bentukTidakBaku": "selang4",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "slang makan",
+    "slang pemadam kebakaran",
+    "slang pembuangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "slang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "ragam bahasa tidak resmi dan tidak baku yang sifatnya musiman, dipakai oleh kaum remaja atau kelompok sosial tertentu untuk komunikasi intern dengan maksud agar yang bukan anggota kelompok tidak mengerti"
+        }
+      ]
+    },
+    {
+      "lema": "slang2 bentuk tidak baku: selang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuluh karet (pada pompa dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

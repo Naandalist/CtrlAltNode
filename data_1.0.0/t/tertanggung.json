@@ -1,0 +1,36 @@
+{
+  "istilah": "tertanggung",
+  "entri": "tanggung1 » ter.tang.gung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tanggung1 » ter.tang.gung",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terpikul: beban berat itu tidak ~ olehnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terderita: rasa nyeri lukanya tidak ~"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang ditanggung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "orang yang mengalihkan risiko kepada pihak lain berdasarkan polis dengan membayar premi"
+        }
+      ]
+    }
+  ]
+}

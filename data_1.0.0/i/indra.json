@@ -1,0 +1,50 @@
+{
+  "istilah": "indra",
+  "entri": "in.dra1 bentuk tidak baku: deria, dria, indera, indria",
+  "bentukTidakBaku": "deria, dria, indera, indria",
+  "kataTurunan": [
+    "mengindra",
+    "pengindra",
+    "pengindraan",
+    "keindraan"
+  ],
+  "gabunganKata": [
+    "indra keenam",
+    "indra pencium",
+    "indra pendengar",
+    "indra penglihat",
+    "indra peraba",
+    "indra perasa",
+    "indra warta"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.dra1 bentuk tidak baku: deria, dria, indera, indria",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk merasa, mencium bau, mendengar, melihat, meraba, dan merasakan sesuatu secara naluri (intuitif)"
+        }
+      ]
+    },
+    {
+      "lema": "in.dra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "raja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hin[Agama Hindu: -]",
+          "deskripsi": "(ditulis dengan huruf kapital) nama seorang dewa yang menguasai angkasa"
+        }
+      ]
+    }
+  ]
+}

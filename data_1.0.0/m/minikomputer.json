@@ -1,0 +1,28 @@
+{
+  "istilah": "minikomputer",
+  "entri": "mi.ni.kom.pu.ter /minikomputêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mi.ni.kom.pu.ter /minikomputêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "komputer yang ukurannya lebih kecil daripada komputer meja, tetapi lebih besar daripada mikrokomputer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "komputer tingkat menengah yang dibangun untuk melakukan penghitungan yang kompleks untuk menangani secara efisien semua masukan dan keluaran tingkat tinggi dari pengguna yang terhubung melalui terminal"
+        }
+      ]
+    }
+  ]
+}

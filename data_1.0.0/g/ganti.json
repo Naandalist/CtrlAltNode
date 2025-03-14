@@ -1,0 +1,51 @@
+{
+  "istilah": "ganti",
+  "entri": "gan.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berganti",
+    "berganti-ganti",
+    "bergantian",
+    "mengganti",
+    "mengganti-ganti",
+    "menggantikan",
+    "pengganti",
+    "penggantian",
+    "pergantian",
+    "terganti",
+    "tergantikan"
+  ],
+  "gabunganKata": [
+    "ganti lapik",
+    "ganti rugi",
+    "ganti semangat",
+    "ganti tikar"
+  ],
+  "peribahasa": [
+    "calak ganti asah (menanti tukang belum datang); ganti (menggantikan) tikar (lepas bantal berganti tikar); kain sehelai berganti-ganti"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gan.ti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang menjadi penukar yang tidak ada atau hilang, seperti sulih, pampas: santan ini dapat dipakai akan -- susu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menggantikan pekerjaan, jabatan, dan sebagainya; wakil; pengganti: lurah yang meninggal itu belum ada --nya; akulah -- ayahmu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berganti; bertukar; berpindah: -- kereta (api)"
+        }
+      ]
+    }
+  ]
+}

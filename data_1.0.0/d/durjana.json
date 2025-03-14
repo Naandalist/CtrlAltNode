@@ -1,0 +1,34 @@
+{
+  "istilah": "durjana",
+  "entri": "dur.ja.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kedurjanaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kejahatan; orang jahat",
+    "kataAsal": "durjana"
+  },
+  "data": [
+    {
+      "lema": "dur.ja.na",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "jahat: perbuatan -- perbuatan jahat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kejahatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "penjahat"
+        }
+      ]
+    }
+  ]
+}

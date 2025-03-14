@@ -1,0 +1,44 @@
+{
+  "istilah": "tampar",
+  "entri": "tam.par1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertampar",
+    "menampar",
+    "menampari",
+    "menamparkan",
+    "penampar",
+    "penamparan",
+    "tamparan",
+    "tertampar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kalau kena tampar, biar dengan tangan yang pakai cincin, kalau kena tendang, biar dengan kaki yang pakai kasut"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pukul",
+    "kataAsal": "tampěr"
+  },
+  "data": [
+    {
+      "lema": "tam.par1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pukul (dengan telapak tangan); tepuk: anak yang nakal itu kena --"
+        }
+      ]
+    },
+    {
+      "lema": "tam.par2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali"
+        }
+      ]
+    }
+  ]
+}

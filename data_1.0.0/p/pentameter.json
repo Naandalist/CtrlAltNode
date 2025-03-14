@@ -1,0 +1,33 @@
+{
+  "istilah": "pentameter",
+  "entri": "pen.ta.me.ter1 /pentametêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pen.ta.me.ter1 /pentametêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "baris sajak yang terdiri atas lima matra"
+        }
+      ]
+    },
+    {
+      "lema": "pen.ta.me.ter2 /pentametêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran lima kaki"
+        }
+      ]
+    }
+  ]
+}

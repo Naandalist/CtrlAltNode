@@ -1,0 +1,42 @@
+{
+  "istilah": "klip",
+  "entri": "klip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "klip1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menjepit lembaran kertas menjadi satu, dibuat dari kawat atau plastik"
+        }
+      ]
+    },
+    {
+      "lema": "klip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "hasil pencukuran wol domba per tahun"
+        }
+      ]
+    },
+    {
+      "lema": "klip3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potongan film, video, dan rekaman"
+        }
+      ]
+    }
+  ]
+}

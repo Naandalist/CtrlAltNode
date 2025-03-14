@@ -1,0 +1,34 @@
+{
+  "istilah": "modulus",
+  "entri": "mo.du.lus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermodulus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.du.lus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bilangan yang membagi dua bilangan lain sehingga memperoleh sisa yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "nilai mutlak dari bilangan kompleks"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "tetapan yang membuat kesebandingan menjadi kesamaan (menyangkut pengukuran gaya atau massa dan sifat-sifat yang bersangkutan dengan gaya dan massa)"
+        }
+      ]
+    }
+  ]
+}

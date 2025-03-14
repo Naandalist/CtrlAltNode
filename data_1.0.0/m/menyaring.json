@@ -1,0 +1,32 @@
+{
+  "istilah": "menyaring",
+  "entri": "saring1 » me.nya.ring",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "saring1 » me.nya.ring",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membersihkan barang cair dengan memakai alat yang berlubang halus-halus (seperti kain); menapis: ~ air sungai berkali-kali hingga bersih benar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membersihkan (minyak tanah dari pengeboran) hingga dapat dipakai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "memilih (untuk mencari mana yang baik, yang berkemampuan, dan sebagainya); menyeleksi"
+        }
+      ]
+    }
+  ]
+}

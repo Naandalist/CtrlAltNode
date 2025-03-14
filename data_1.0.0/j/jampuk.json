@@ -1,0 +1,37 @@
+{
+  "istilah": "jampuk",
+  "entri": "jam.puk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjampuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagai jampuk kesiangan hari"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jam.puk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celepuk〔Bubo orientalis〕"
+        }
+      ]
+    },
+    {
+      "lema": "jam.puk2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sela"
+        }
+      ]
+    }
+  ]
+}

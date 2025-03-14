@@ -1,0 +1,35 @@
+{
+  "istilah": "pemandu",
+  "entri": "pandu1 » pe.man.du",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pemandu acara",
+    "pemandu jahit",
+    "pemandu museum",
+    "pemandu pandang",
+    "pemandu pesawat terbang",
+    "pemandu wisata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pandu1 » pe.man.du",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penunjuk jalan (di hutan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memandu sesuatu (dalam diskusi dan sebagainya); moderator"
+        }
+      ]
+    }
+  ]
+}

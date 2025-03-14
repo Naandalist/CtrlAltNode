@@ -1,0 +1,28 @@
+{
+  "istilah": "inisialisasi",
+  "entri": "i.ni.sia.li.sa.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.ni.sia.li.sa.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses mengeset nilai awal suatu variabel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses penyiapkan komputer, pencetak, dan sebagainya untuk digunakan, biasanya dengan mengeset ulang lokasi memori ke nilai awal"
+        }
+      ]
+    }
+  ]
+}

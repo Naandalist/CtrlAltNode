@@ -1,0 +1,49 @@
+{
+  "istilah": "sir",
+  "entri": "sir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengesir",
+    "sir-siran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "rahasia",
+    "kataAsal": "sirr"
+  },
+  "data": [
+    {
+      "lema": "sir1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gaib; rahasia; tersembunyi (dalam ilmu tasawuf): ia mendengar suara -- dari Allah Swt."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nafsu (akan); keinginan hati: -- berahi"
+        }
+      ]
+    },
+    {
+      "lema": "sir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nafsu (akan); keinginan hati: -- berahi"
+        }
+      ]
+    },
+    {
+      "lema": "sir3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi desir"
+        }
+      ]
+    }
+  ]
+}

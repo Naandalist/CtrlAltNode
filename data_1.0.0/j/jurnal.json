@@ -1,0 +1,47 @@
+{
+  "istilah": "jurnal",
+  "entri": "jur.nal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jurnal kas",
+    "jurnal olahraga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jur.nal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(buku) catatan harian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat kabar harian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dag[Perdagangan: -]",
+          "deskripsi": "buku yang dipakai sebagai buku perantara antara buku harian dan buku besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dag[Perdagangan: -]",
+          "deskripsi": "buku yang dipakai untuk mencatat transaksi berdasarkan urutan waktu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "majalah yang khusus memuat artikel dalam bidang ilmu tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "log atau catatan transaksi berbasis komputer yang terjadi di komputer atau di dalam jaringan"
+        }
+      ]
+    }
+  ]
+}

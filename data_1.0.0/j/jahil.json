@@ -1,0 +1,33 @@
+{
+  "istilah": "jahil",
+  "entri": "ja.hil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kejahilan",
+    "menjahili"
+  ],
+  "gabunganKata": [
+    "jahil murakab"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang bodoh",
+    "kataAsal": "jāhil"
+  },
+  "data": [
+    {
+      "lema": "ja.hil",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bodoh; tidak tahu (terutama tentang ajaran agama): para ulama berkewajiban menuntun golongan -- dan bebal"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jail"
+        }
+      ]
+    }
+  ]
+}

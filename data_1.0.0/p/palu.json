@@ -1,0 +1,53 @@
+{
+  "istilah": "palu",
+  "entri": "pa.lu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpalu-palu",
+    "berpalu-paluan",
+    "memalu",
+    "palu-memalu",
+    "paluan",
+    "terpalu"
+  ],
+  "gabunganKata": [
+    "palu arit",
+    "palu cakar",
+    "palu punca bulat",
+    "palu punggung",
+    "palu sabit",
+    "palu tukang kayu"
+  ],
+  "peribahasa": [
+    "adat dunia balas-membalas, syariat palu-memalu; adat hidup tolong-menolong, syariat palu-memalu; manusia tahan kias, binatang tahan palu; seperti ular kena bedal (palu, pukul); syariat palu-memalu, hakikat balas-membalas; syariat palu-memalu, pada hakikatnya adalah balas-membalas"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.lu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk memukul paku; godam; martil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat dari kayu untuk menandai dibuka atau ditutupnya secara resmi suatu pertemuan (misalnya sidang di pengadilan)"
+        }
+      ]
+    },
+    {
+      "lema": "Pa.lu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu kota Provinsi Sulawesi Tengah, terkenal dengan sebutan Kota Kaledo"
+        }
+      ]
+    }
+  ]
+}

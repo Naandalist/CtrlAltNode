@@ -1,0 +1,43 @@
+{
+  "istilah": "paus",
+  "entri": "pa.us1 bentuk tidak baku: ikan paus",
+  "bentukTidakBaku": "ikan paus",
+  "kataTurunan": [
+    "kepausan"
+  ],
+  "gabunganKata": [
+    "paus balin",
+    "paus biru",
+    "paus bungkuk",
+    "paus kepala busur",
+    "paus minke",
+    "paus pembunuh",
+    "paus sperma"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.us1 bentuk tidak baku: ikan paus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mamalia laut besar, bernapas dengan paru-paru, berekor datar, siripnya berada di punggung, lubang hidungnya ada di atas kepala, makanannya plankton, dan hidup di laut dingin〔Balaenoptera〕"
+        }
+      ]
+    },
+    {
+      "lema": "pa.us2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin tertinggi agama Katolik (berkedudukan di Vatikan)"
+        }
+      ]
+    }
+  ]
+}

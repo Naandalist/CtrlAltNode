@@ -1,0 +1,28 @@
+{
+  "istilah": "mendap",
+  "entri": "men.dap /mêndap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "men.dap /mêndap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengendap"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "berhenti bergerak; menjadi tenang: semangat revolusi yang selalu bergerak serba cepat pada suatu saat tentu akan --"
+        }
+      ]
+    }
+  ]
+}

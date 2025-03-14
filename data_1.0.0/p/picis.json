@@ -1,0 +1,37 @@
+{
+  "istilah": "picis",
+  "entri": "pi.cis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "picisan",
+    "sepicis",
+    "picisan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "cari:",
+    "kataAsal": "pòe-chí"
+  },
+  "data": [
+    {
+      "lema": "pi.cis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "uang yang bernilai sepuluh sen; ketip"
+        }
+      ]
+    },
+    {
+      "lema": "pi.cis2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "picisan"
+        }
+      ]
+    }
+  ]
+}

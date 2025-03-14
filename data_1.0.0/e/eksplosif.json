@@ -1,0 +1,32 @@
+{
+  "istilah": "eksplosif",
+  "entri": "eks.plo.sif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.plo.sif",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah meledak (tentang sendawa, karbit, fosfor, gas, bensin, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "dapat (mudah) meletus (tentang perang dan sebagainya): kalau tidak dapat dicapai kompromi dalam waktu singkat, situasi menjadi gawat dan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "cepat marah (tentang orang): kita perlu berhati-hati jika berbicara dengan orang yang --"
+        }
+      ]
+    }
+  ]
+}

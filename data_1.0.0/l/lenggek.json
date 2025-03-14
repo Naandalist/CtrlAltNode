@@ -1,0 +1,38 @@
+{
+  "istilah": "lenggek",
+  "entri": "leng.gek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlenggek",
+    "berlenggek-lenggek",
+    "memperlenggekkan",
+    "berlenggek-lenggek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "leng.gek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkat; susun: rumah itu dua --"
+        }
+      ]
+    },
+    {
+      "lema": "leng.gek2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berlenggek-lenggek"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "istilah": "takhsis",
+  "entri": "takh.sis bentuk tidak baku: taksis1",
+  "bentukTidakBaku": "taksis1",
+  "kataTurunan": [
+    "menakhsiskan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengkhususan",
+    "kataAsal": "takhṣīṣ"
+  },
+  "data": [
+    {
+      "lema": "takh.sis bentuk tidak baku: taksis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "pembatasan; pengkhususan"
+        }
+      ]
+    }
+  ]
+}

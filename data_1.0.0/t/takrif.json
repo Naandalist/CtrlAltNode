@@ -1,0 +1,40 @@
+{
+  "istilah": "takrif",
+  "entri": "tak.rif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertakrif",
+    "ketakrifan",
+    "menakrifkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengumuman",
+    "kataAsal": "ta‘rīf"
+  },
+  "data": [
+    {
+      "lema": "tak.rif",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberitahuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penentuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "definisi; batasan"
+        }
+      ]
+    }
+  ]
+}

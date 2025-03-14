@@ -1,0 +1,42 @@
+{
+  "istilah": "legenda",
+  "entri": "le.gen.da1 /lêgenda/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melegenda"
+  ],
+  "gabunganKata": [
+    "legenda hidup",
+    "legenda urban"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.gen.da1 /lêgenda/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerita rakyat pada zaman dahulu yang ada hubungannya dengan peristiwa sejarah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tokoh terkenal"
+        }
+      ]
+    },
+    {
+      "lema": "le.gen.da2 /lêgenda/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan atau penjelasan pada gambar atau peta"
+        }
+      ]
+    }
+  ]
+}

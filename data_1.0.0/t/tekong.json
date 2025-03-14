@@ -1,0 +1,51 @@
+{
+  "istilah": "tekong",
+  "entri": "te.kong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "nakhoda",
+    "kataAsal": "tāi kong"
+  },
+  "data": [
+    {
+      "lema": "te.kong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "nakhoda (pada jung); juragan"
+        }
+      ]
+    },
+    {
+      "lema": "te.kong2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tikung"
+        }
+      ]
+    },
+    {
+      "lema": "te.kong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pemain sepak raga yang melakukan sepak permulaan"
+        }
+      ]
+    },
+    {
+      "lema": "te.kong /têkong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "calo pengiriman tenaga kerja Indonesia ke luar negeri: seorang -- yang membawa para TKI itu berhasil ditangkap polisi"
+        }
+      ]
+    }
+  ]
+}

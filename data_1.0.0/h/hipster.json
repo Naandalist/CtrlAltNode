@@ -1,0 +1,37 @@
+{
+  "istilah": "hipster",
+  "entri": "hip.ster1 /hipstêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hip.ster1 /hipstêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengikuti tren atau mode yang tidak umum atau berbeda dari arus utama: sejumlah -- kerap datang ke tempat ini untuk berkumpul"
+        }
+      ]
+    },
+    {
+      "lema": "hip.ster2 /hipstêr/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pas dan ketat di pinggul daripada di pinggang: tahun 90-an celana model -- menjadi tren"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celana yang pas dan ketat di pinggul"
+        }
+      ]
+    }
+  ]
+}

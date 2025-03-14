@@ -1,0 +1,50 @@
+{
+  "istilah": "urap",
+  "entri": "u.rap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berurap",
+    "mengurap",
+    "mengurapi",
+    "mengurap",
+    "diurapi",
+    "mengurapi",
+    "urapan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.rap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bedak cair; boreh (bau-bauan untuk melumasi badan supaya harum)"
+        }
+      ]
+    },
+    {
+      "lema": "u.rap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelapa parut yang dibumbui untuk campuran sayur-mayur rebus, ubi, ketan, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "u.rap3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "kudus"
+        }
+      ]
+    }
+  ]
+}

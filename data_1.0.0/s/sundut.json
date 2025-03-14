@@ -1,0 +1,50 @@
+{
+  "istilah": "sundut",
+  "entri": "sun.dut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersundut",
+    "sundut-bersundut",
+    "tersundut",
+    "menyundut",
+    "menyundut",
+    "penyundut",
+    "tersundut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sun.dut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "keturunan; angkatan"
+        }
+      ]
+    },
+    {
+      "lema": "sun.dut2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "bawa"
+        }
+      ]
+    },
+    {
+      "lema": "sun.dut3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "sulut: meriam (senapan) -- meriam (senapan) yang disulut (zaman dahulu)"
+        }
+      ]
+    }
+  ]
+}

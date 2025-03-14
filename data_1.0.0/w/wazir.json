@@ -1,0 +1,33 @@
+{
+  "istilah": "wazir",
+  "entri": "wa.zir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "menteri",
+    "kataAsal": "wazīr"
+  },
+  "data": [
+    {
+      "lema": "wa.zir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perdana menteri"
+        }
+      ]
+    },
+    {
+      "lema": "wa.zir2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ bawasir"
+        }
+      ]
+    }
+  ]
+}

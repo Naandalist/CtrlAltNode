@@ -1,0 +1,37 @@
+{
+  "istilah": "usai",
+  "entri": "u.sai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengusai",
+    "mengusaikan",
+    "seusai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.sai1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bubar; berakhir; selesai; habis; sudah lampau: karena kedua pihak sudah letih, perkelahian -- dengan sendirinya; sebelum pertunjukan --, dia sudah keluar"
+        }
+      ]
+    },
+    {
+      "lema": "u.sai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Aln[Alune: bahasa di Maluku, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "kulit buah pala"
+        }
+      ]
+    }
+  ]
+}

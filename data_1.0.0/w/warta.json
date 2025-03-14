@@ -1,0 +1,32 @@
+{
+  "istilah": "warta",
+  "entri": "war.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mewartakan",
+    "pewarta",
+    "pewartaan"
+  ],
+  "gabunganKata": [
+    "warta berita",
+    "warta harian",
+    "warta sepekan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "peristiwa, laporan, urusan",
+    "kataAsal": "vṛtta"
+  },
+  "data": [
+    {
+      "lema": "war.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berita; kabar: aku mendapat -- dari abang bahwa ia akan pulang hari ini"
+        }
+      ]
+    }
+  ]
+}

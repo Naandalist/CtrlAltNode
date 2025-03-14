@@ -1,0 +1,24 @@
+{
+  "istilah": "mta",
+  "entri": "MTA",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "MTA",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "mode transfer asinkron (teknologi jaringan berdasarkan transfer data dalam bentuk sel atau paket berukuran tetap)"
+        }
+      ]
+    }
+  ]
+}

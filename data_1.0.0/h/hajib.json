@@ -1,0 +1,28 @@
+{
+  "istilah": "hajib",
+  "entri": "ha.jib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penghalang; penjaga pintu; alis",
+    "kataAsal": "ḥājib"
+  },
+  "data": [
+    {
+      "lema": "ha.jib",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penjaga pintu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "keluarga orang mati yang menghalangi (mendinding) keluarga lain yang sekerabat sehingga warisan keluarga orang yang mati itu tidak terbagikan ke luar"
+        }
+      ]
+    }
+  ]
+}

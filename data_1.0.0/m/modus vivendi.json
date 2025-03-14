@@ -1,0 +1,41 @@
+{
+  "istilah": "modus vivendi",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "kesepakatan sementara sambil menunggu penyelesaian akhir"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "kompromi"
+        }
+      ]
+    },
+    {
+      "lema": "modus vivendi",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "kesepakatan sementara sambil menunggu penyelesaian akhir"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "kompromi"
+        }
+      ]
+    }
+  ]
+}

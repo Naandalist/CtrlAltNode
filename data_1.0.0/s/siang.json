@@ -1,0 +1,66 @@
+{
+  "istilah": "siang",
+  "entri": "si.ang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesiangan",
+    "sesiangan",
+    "siang-siang",
+    "bersiang",
+    "mempersiang",
+    "mempersiangi",
+    "menyiang",
+    "menyiangi",
+    "penyiangan"
+  ],
+  "gabunganKata": [
+    "siang bolong",
+    "siang hari",
+    "siang malam"
+  ],
+  "peribahasa": [
+    "(seperti) petir di siang bolong; ayam putih terbang siang; berkata siang melihat-lihat, berkata malam mendengar-dengar; malam berselimut embun, siang bertudung awan; masak malam, mentah pagi (siang); siang bagai hari, terang bagai bulan; siang bernapas, malam berembun (malam berselimut embun, siang bertudung awan); seperti siang dengan malam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.ang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian hari yang terang (yaitu dari matahari terbit sampai terbenam): -- kita bekerja, malam kita tidur; buta -- penglihatan yang kurang awas pada siang hari atau apabila terlampau terang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu antara pagi dengan petang (kira-kira pukul 11.00–14.00): ia berangkat pukul 11.00, pulang lebih kurang pukul 13.00 --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sudah lepas pagi atau hampir tengah hari; sudah lepas tengah hari atau hampir petang: ia datang -- ketika kantor hampir ditutup; lekas berangkat ke sekolah, hari sudah --"
+        }
+      ]
+    },
+    {
+      "lema": "si.ang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terang (dalam arti bersih, tidak ada rumputnya dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "Si.ang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat Dayak Siang"
+        }
+      ]
+    }
+  ]
+}

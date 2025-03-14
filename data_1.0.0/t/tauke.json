@@ -1,0 +1,28 @@
+{
+  "istilah": "tauke",
+  "entri": "tau.ke bentuk tidak baku: taoke, toke",
+  "bentukTidakBaku": "taoke, toke",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "bos; majikan",
+    "kataAsal": "thâu ke"
+  },
+  "data": [
+    {
+      "lema": "tau.ke bentuk tidak baku: taoke, toke",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "majikan (yang mempunyai perusahaan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bos (kepala pekerja dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

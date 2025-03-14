@@ -1,0 +1,91 @@
+{
+  "istilah": "tajuk",
+  "entri": "ta.juk1 bentuk tidak baku: taju1",
+  "bentukTidakBaku": "taju1",
+  "kataTurunan": [
+    "bertajuk",
+    "menajuk",
+    "bertajuk-tajuk"
+  ],
+  "gabunganKata": [
+    "tajuk berita",
+    "tajuk hutan",
+    "tajuk mahkota",
+    "tajuk rawal",
+    "tajuk rencana",
+    "tajuk surat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Persia",
+    "arti": "mahkota kecil; lambang",
+    "kataAsal": "tājak"
+  },
+  "data": [
+    {
+      "lema": "ta.juk1 bentuk tidak baku: taju1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mahkota; petam; jamang (perhiasan kepala)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhiasan kepala, seperti jumbai dari bunga buatan yang dicocokkan di rambut (kundai, tudung kepala) hingga tampak menganjur ke atas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabang dan dedaunan sebuah pohon; bagian pohon di batang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "kili-kili (sepotong kayu) yang dipasang mencuar atau menganjur di tepi perahu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "judul, kepala surat (makalah, surat kabar, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "seluruh sistem dedaunan pada pohon, kecuali batang"
+        }
+      ]
+    },
+    {
+      "lema": "ta.juk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tingkat; jenjang"
+        }
+      ]
+    },
+    {
+      "lema": "ta.juk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "surau; langgar"
+        }
+      ]
+    },
+    {
+      "lema": "ta.juk4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "tempat mengikat kemudi perahu pada waktu berlayar"
+        }
+      ]
+    },
+    {
+      "lema": "ta.juk5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "rusuk pada sampan"
+        }
+      ]
+    }
+  ]
+}

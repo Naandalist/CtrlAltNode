@@ -1,0 +1,24 @@
+{
+  "istilah": "multiprosesor",
+  "entri": "mul.ti.pro.se.sor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mul.ti.pro.se.sor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "sistem pengolah data yang pada saat yang sama dapat mengolah lebih dari satu operasi"
+        }
+      ]
+    }
+  ]
+}

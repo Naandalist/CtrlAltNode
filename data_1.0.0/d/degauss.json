@@ -1,0 +1,33 @@
+{
+  "istilah": "degauss",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "mengenyahkan kemagnetan suatu benda magnetik"
+        }
+      ]
+    },
+    {
+      "lema": "degauss",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "mengenyahkan kemagnetan suatu benda magnetik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "istilah": "juak",
+  "entri": "ju.ak1 bentuk tidak baku: joak",
+  "bentukTidakBaku": "joak",
+  "kataTurunan": [
+    "juak-juak",
+    "berjuak",
+    "menjuak",
+    "penjuak",
+    "menjuak",
+    "menjuakkan",
+    "berjuak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ju.ak1 bentuk tidak baku: joak",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "juak-juak"
+        }
+      ]
+    },
+    {
+      "lema": "ju.ak2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berjuak; menjuak; penjuak"
+        }
+      ]
+    },
+    {
+      "lema": "ju.ak3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menjuak; menjuakkan"
+        }
+      ]
+    },
+    {
+      "lema": "ju.ak4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berjuak"
+        }
+      ]
+    }
+  ]
+}

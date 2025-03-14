@@ -1,0 +1,38 @@
+{
+  "istilah": "salib",
+  "entri": "sa.lib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyalib",
+    "menyalibkan",
+    "penyalib",
+    "penyaliban",
+    "tersalib"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "dua batang kayu yang bersilang",
+    "kataAsal": "ṣalīb"
+  },
+  "data": [
+    {
+      "lema": "sa.lib",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dua batang kayu yang bersilang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "kayu bersilang tempat Yesus dihukum orang Yahudi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "simbol kasih Allah Yang Besar melalui anak-Nya, Yesus Kristus, yang rela mati menanggung hukuman atas dosa manusia"
+        }
+      ]
+    }
+  ]
+}

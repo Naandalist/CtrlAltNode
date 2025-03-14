@@ -1,0 +1,38 @@
+{
+  "istilah": "tonase",
+  "entri": "to.na.se /tonasê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertonase"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.na.se /tonasê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "kapasitas ruang muat dalam kapal, diukur dalam ton (1 ton = 1m³)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daya angkut muatan kapal dinyatakan dalam ton (1 ton = 1.000 kg): -- kapal Kuala Deli 325 ton"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran besarnya kapal dinyatakan dalam ton (1 ton = 2,83 m³): kapal tanker itu berukuran 200 ribu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bobot air laut dalam ukuran ton (35 kaki kubik) yang dipindahkan oleh bagian kapal yang berada di dalam air"
+        }
+      ]
+    }
+  ]
+}

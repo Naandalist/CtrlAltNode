@@ -1,0 +1,38 @@
+{
+  "istilah": "lejang",
+  "entri": "le.jang /lêjang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melejang",
+    "melejang-lejangkan",
+    "melejangkan",
+    "pelejang",
+    "selejang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.jang /lêjang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepak; terjang; rejang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan (loncat, lari) yang cepat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan yang laju (tentang peluru, anak panah)"
+        }
+      ]
+    }
+  ]
+}

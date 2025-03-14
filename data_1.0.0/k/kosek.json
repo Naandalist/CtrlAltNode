@@ -1,0 +1,35 @@
+{
+  "istilah": "kosek",
+  "entri": "ko.sek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengosek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.sek1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "asah; sikat"
+        }
+      ]
+    },
+    {
+      "lema": "ko.sek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "komando sektor"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "daur",
+  "entri": "da.ur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdaur"
+  ],
+  "gabunganKata": [
+    "daur besar",
+    "daur hidrologi",
+    "daur hidup",
+    "daur hidup pengembangan sistem",
+    "daur hidup sistem",
+    "daur iklim",
+    "daur karbon",
+    "daur kecil",
+    "daur niaga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perputaran",
+    "kataAsal": "daur"
+  },
+  "data": [
+    {
+      "lema": "da.ur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peredaran masa atau tahun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "sistem keadaan (fase) yang keadaannya sekarang dapat berulang pada suatu saat di masa mendatang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "sistem fase yang dilalui zat kerja di dalam mesin pemampat (kompresor), pompa, turbin, atau sistem penyejuk"
+        }
+      ]
+    }
+  ]
+}

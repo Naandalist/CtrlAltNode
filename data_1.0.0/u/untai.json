@@ -1,0 +1,52 @@
+{
+  "istilah": "untai",
+  "entri": "un.tai1",
+  "bentukTidakBaku": "sirkuit2",
+  "kataTurunan": [
+    "beruntai",
+    "beruntai-untai",
+    "beruntaian",
+    "menguntai",
+    "teruntai",
+    "untaian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "un.tai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benang (tali) yang dipakai untuk mencocok merjan, mutiara, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong bagi barang yang dicocok (seperti kalung merjan, petasan); rentengan: se-- kalung mutiara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan sajak (syair), serangkai sajak; satu kuplet (sajak, nyanyian): tiap-tiap bait atau -- berisi beberapa baris; baris-baris dalam -- itu kita sebut larik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "perbungaan berupa bulir, berkelamin tunggal, umumnya menggantung dan tanggal sebagai satu satuan sesudah pembuahan"
+        }
+      ]
+    },
+    {
+      "lema": "un.tai2 bentuk tidak baku: sirkuit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "sejumlah penghantar listrik dan unsur-unsurnya, seperti penghambat, induktor, dan kapasitor, yang dihubungkan bersama untuk membentuk lintasan yang menghantar; sirkuit"
+        }
+      ]
+    }
+  ]
+}

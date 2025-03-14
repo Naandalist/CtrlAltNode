@@ -1,0 +1,32 @@
+{
+  "istilah": "taurat",
+  "entri": "Tau.rat bentuk tidak baku: Tauret, Taurit",
+  "bentukTidakBaku": "Tauret, Taurit",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kitab suci yang diturunkan Allah Swt. kepada Nabi Musa a.s.",
+    "kataAsal": "taurāh"
+  },
+  "data": [
+    {
+      "lema": "Tau.rat bentuk tidak baku: Tauret, Taurit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kitab suci yang diturunkan Allah Swt. kepada Nabi Musa a.s."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hukum Nabi Musa a.s. yang dianut oleh orang Yahudi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "lima kitab Musa, yaitu Kejadian, Keluaran, Imamat, Bilangan, dan Ulangan"
+        }
+      ]
+    }
+  ]
+}

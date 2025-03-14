@@ -1,0 +1,58 @@
+{
+  "istilah": "naga",
+  "entri": "na.ga1 bentuk tidak baku: sekuik",
+  "bentukTidakBaku": "sekuik",
+  "kataTurunan": [
+    "naga-naga"
+  ],
+  "gabunganKata": [
+    "naga animatronik",
+    "naga bura",
+    "naga gentala",
+    "naga hari",
+    "naga kecil",
+    "naga sekuik",
+    "naga tahun"
+  ],
+  "peribahasa": [
+    "cacing hendak menjadi naga; cacing menjadi ular naga"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "ular besar",
+    "kataAsal": "nāga"
+  },
+  "data": [
+    {
+      "lema": "na.ga1 bentuk tidak baku: sekuik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ular yang besar (dalam cerita dan dalam beberapa kata majemuk), seperti -- berapi, -- bura, -- gentala, -- umbang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "ular besar (menurut kepercayaan) penunggu mata angin (ada yang berpindah tiap hari, ada yang tiap tahun, seperti -- hari dan -- tahun)"
+        }
+      ]
+    },
+    {
+      "lema": "na.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekas hitam pada bagian tubuh sejak lahir dan mempunyai pengaruh bagi jalan hidup seseorang"
+        }
+      ]
+    },
+    {
+      "lema": "na.ga3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "perhitungan banyaknya usuk yang baik untuk pintu"
+        }
+      ]
+    }
+  ]
+}

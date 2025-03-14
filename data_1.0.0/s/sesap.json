@@ -1,0 +1,40 @@
+{
+  "istilah": "sesap",
+  "entri": "se.sap1 /sêsap/bentuk tidak baku: sasap2",
+  "bentukTidakBaku": "sasap2",
+  "kataTurunan": [
+    "menyesap",
+    "penyesapan",
+    "sesapan",
+    "tersesap",
+    "bersesapan",
+    "sesapan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.sap1 /sêsap/bentuk tidak baku: sasap2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "isap"
+        }
+      ]
+    },
+    {
+      "lema": "se.sap2 /sêsap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ladang (huma) yang ditinggalkan; bekas ladang (huma)"
+        }
+      ]
+    }
+  ]
+}

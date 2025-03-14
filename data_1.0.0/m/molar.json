@@ -1,0 +1,48 @@
+{
+  "istilah": "molar",
+  "entri": "mo.lar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemolaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.lar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "gigi geraham"
+        }
+      ]
+    },
+    {
+      "lema": "mo.lar2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersangkutan dengan massa suatu benda untuk membedakannya dari sifat atau gerak molekul atau atom"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengandung suatu gram molekul zat terlarut dalam satu liter larutan"
+        }
+      ]
+    },
+    {
+      "lema": "mo.lar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "penghubung suatu gerakan menjadi satu kesatuan, misalnya perilaku berenang; lawannya molekuler"
+        }
+      ]
+    }
+  ]
+}

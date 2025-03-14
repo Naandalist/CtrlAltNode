@@ -1,0 +1,93 @@
+{
+  "istilah": "tambang",
+  "entri": "tam.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menambang",
+    "penambang",
+    "penambangan",
+    "pertambangan",
+    "menambang",
+    "menambangkan",
+    "penambang",
+    "tambangan",
+    "menambang",
+    "menambangkan",
+    "penambang",
+    "penambangan",
+    "bertambangan"
+  ],
+  "gabunganKata": [
+    "tambang basah",
+    "tambang batu bara",
+    "tambang bawah tanah",
+    "tambang emas",
+    "tambang mentah",
+    "tambang timah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "tambaṅ"
+  },
+  "data": [
+    {
+      "lema": "tam.bang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lombong (cebakan, parit, lubang di dalam tanah) tempat menggali (mengambil) hasil dari dalam bumi berupa bijih logam batu bara, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "tam.bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampan (perahu dan sebagainya) untuk menyeberangkan orang; tambangan: banyak orang menantikan sampan (perahu dan sebagainya) -- di tepi sungai itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menumpang atau barang muatan (opelet, mobil, dan sebagainya); tambangan: di tengah jalan ia beroleh -- pula"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ongkos menumpang bendi (perahu dan sebagainya) sewaan; tambangan: di sini --nya Rp500,00"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kendaraan yang disewakan (bemo, taksi, dan sebagainya): naik mobil --"
+        }
+      ]
+    },
+    {
+      "lema": "tam.bang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali yang besar"
+        }
+      ]
+    },
+    {
+      "lema": "tam.bang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancang (tambatan binatang): -- kuda; -- lembu"
+        }
+      ]
+    },
+    {
+      "lema": "tam.bang5",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bertambangan"
+        }
+      ]
+    }
+  ]
+}

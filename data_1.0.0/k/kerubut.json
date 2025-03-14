@@ -1,0 +1,37 @@
+{
+  "istilah": "kerubut",
+  "entri": "ke.ru.but1 /kêrubut/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerubutan",
+    "mengerubuti",
+    "pengerubutan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ru.but1 /kêrubut/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengerubut"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ru.but2 /kêrubut/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ambai-ambai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "rembah",
+  "entri": "rem.bah1 /rêmbah/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merembah",
+    "rembah-rembih",
+    "rembah-rembah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rem.bah1 /rêmbah/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merembah"
+        }
+      ]
+    },
+    {
+      "lema": "rem.bah2 /rêmbah/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak teratur rapi, miring tentang ujung kain sarung yang dipakai"
+        }
+      ]
+    }
+  ]
+}

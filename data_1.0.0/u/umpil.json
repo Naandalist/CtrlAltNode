@@ -1,0 +1,32 @@
+{
+  "istilah": "umpil",
+  "entri": "um.pil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengumpil",
+    "pengumpil",
+    "pengumpilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "um.pil",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "angkat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mendayung dari dalam ke luar agar sampan berbelok: nelayan mengumpil agar sampan berbelok"
+        }
+      ]
+    }
+  ]
+}

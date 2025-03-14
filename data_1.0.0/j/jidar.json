@@ -1,0 +1,30 @@
+{
+  "istilah": "jidar",
+  "entri": "ji.dar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjidari"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tembok",
+    "kataAsal": "jidār"
+  },
+  "data": [
+    {
+      "lema": "ji.dar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis (sekeliling surat atau halaman buku)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggaris"
+        }
+      ]
+    }
+  ]
+}

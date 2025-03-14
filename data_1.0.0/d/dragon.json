@@ -1,0 +1,33 @@
+{
+  "istilah": "dragon",
+  "entri": "dra.gon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dra.gon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "jenis nomor dalam pertandingan mendayung: hanya nomor -- yang diperlombakan"
+        }
+      ]
+    },
+    {
+      "lema": "dra.gon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "naga"
+        }
+      ]
+    }
+  ]
+}

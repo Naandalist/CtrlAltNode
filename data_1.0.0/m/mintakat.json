@@ -1,0 +1,34 @@
+{
+  "istilah": "mintakat",
+  "entri": "min.ta.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pemintakatan"
+  ],
+  "gabunganKata": [
+    "mintakat Boreal",
+    "mintakat iklim",
+    "mintakat kering",
+    "mintakat lembap",
+    "mintakat nyaman",
+    "mintakat percampuran",
+    "mintakat suhu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "zona; lingkungan",
+    "kataAsal": "minṭaqah"
+  },
+  "data": [
+    {
+      "lema": "min.ta.kat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah lingkungan; zona"
+        }
+      ]
+    }
+  ]
+}

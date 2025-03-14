@@ -1,0 +1,110 @@
+{
+  "istilah": "tulang",
+  "entri": "tu.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertulang",
+    "ketulangan",
+    "menulang",
+    "menulangi",
+    "penulangan",
+    "pertulangan",
+    "tertulang",
+    "tulang-tulangan"
+  ],
+  "gabunganKata": [
+    "tulang aksial",
+    "tulang alveolar",
+    "tulang atlas",
+    "tulang belakang",
+    "tulang belikat",
+    "tulang belulang",
+    "tulang bercagak",
+    "tulang cenak",
+    "tulang daun",
+    "tulang dayung",
+    "tulang ekor",
+    "tulang gigi",
+    "tulang halus",
+    "tulang hamatum",
+    "tulang hasta",
+    "tulang hitam",
+    "tulang karang",
+    "tulang kelangkang",
+    "tulang kemudi",
+    "tulang kepala",
+    "tulang kering",
+    "tulang ketul",
+    "tulang kuboid",
+    "tulang L",
+    "tulang lamelar",
+    "tulang landasan",
+    "tulang layang-layang",
+    "tulang lengan atas",
+    "tulang lunas",
+    "tulang muda",
+    "tulang padat",
+    "tulang panjang",
+    "tulang pinggang",
+    "tulang pipi",
+    "tulang pisiformis",
+    "tulang punggung",
+    "tulang rangu",
+    "tulang rawan",
+    "tulang rawan elastis",
+    "tulang rawan hialin",
+    "tulang rusuk",
+    "tulang sanggurdi",
+    "tulang selangka",
+    "tulang sendi",
+    "tulang sesamoid",
+    "tulang sulbi",
+    "tulang tapis",
+    "tulang tempurung",
+    "tulang tengah",
+    "tulang teras tentara",
+    "tulang tongkeng",
+    "tulang tumit",
+    "tulang tunjang"
+  ],
+  "peribahasa": [
+    "(seperti) anjing menggonggong tulang; bagai anjing menggonggong tulang; biar berputih tulang, jangan berputih mata (lebih baik berputih tulang daripada berputih mata); biar putih tulang, jangan putih mata; gajah mati, tulang setimbun; isi lemak dapat ke orang, tulang bulu pulang ke kita; membungkus tulang dengan daun talas; minta tulang kepada lintah; mulut manis mematahkan tulang; ringan tulang, berat perut; sebusuk-busuk daging dikincah dimakan juga, seharum-harum tulang dibuang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rangka atau bagian rangka tubuh manusia atau binatang: ada yang patah -- rusuknya; dalam gua itu terdapat -- manusia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "duri ikan: -- ikan bandeng; ikan sepat banyak --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "barang yang menyerupai tulang atau rangka: -- daun; -- layang-layang; tinggal -- dan kulit (terbalut kulit)"
+        }
+      ]
+    },
+    {
+      "lema": "tu.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "saudara laki-laki dari ibu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "mertua laki-laki suami"
+        }
+      ]
+    }
+  ]
+}

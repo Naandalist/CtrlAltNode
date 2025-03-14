@@ -1,0 +1,65 @@
+{
+  "istilah": "pangkat",
+  "entri": "pang.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpangkat-pangkat",
+    "berpangkat",
+    "kepangkatan",
+    "pemangkatan",
+    "sepangkat",
+    "memangkatkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pang.kat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tingkat (pada tangga atau sesuatu yang bersusun seperti mahkota)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "lantai yang ketinggiannya bertingkat-tingkat (pada pancapersada)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "lenggek (rumah dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "pang.kat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkatan dalam jabatan kepegawaian (ketentaraan dan sebagainya): ia sudah naik -- dari kapten menjadi mayor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedudukan atau derajat kebangsawanan dalam masyarakat; martabat: masih ada kaum ningrat yang mempertahankan --nya seperti pada masa lampau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelas (di sekolah, gedung pertunjukan, dan sebagainya): buku berhitung untuk murid -- tiga; -- dua sudah penuh"
+        }
+      ]
+    },
+    {
+      "lema": "pang.kat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "eksponen"
+        }
+      ]
+    }
+  ]
+}

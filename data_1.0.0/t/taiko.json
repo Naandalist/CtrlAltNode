@@ -1,0 +1,33 @@
+{
+  "istilah": "taiko",
+  "entri": "tai.ko1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "penyakit kusta",
+    "kataAsal": "thái ko"
+  },
+  "data": [
+    {
+      "lema": "tai.ko1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "orang (pengusaha) yang memiliki banyak uang; pengusaha kaya raya; tauke"
+        }
+      ]
+    },
+    {
+      "lema": "tai.ko2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kusta; lepra"
+        }
+      ]
+    }
+  ]
+}

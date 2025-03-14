@@ -1,0 +1,49 @@
+{
+  "istilah": "unjuk",
+  "entri": "un.juk1 bentuk tidak baku: hunjuk",
+  "bentukTidakBaku": "hunjuk",
+  "kataTurunan": [
+    "mengunjuk",
+    "mengunjukkan",
+    "pengunjukan",
+    "sepengunjuk"
+  ],
+  "gabunganKata": [
+    "unjuk beri tahu",
+    "unjuk eksistensi",
+    "unjuk gaya",
+    "unjuk gigi",
+    "unjuk jasa",
+    "unjuk kerja",
+    "unjuk muka",
+    "unjuk periksa"
+  ],
+  "peribahasa": [
+    "unjuk yang tidak diberikan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "un.juk1 bentuk tidak baku: hunjuk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengunjuk"
+        }
+      ]
+    },
+    {
+      "lema": "un.juk2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beri tahu"
+        }
+      ]
+    }
+  ]
+}

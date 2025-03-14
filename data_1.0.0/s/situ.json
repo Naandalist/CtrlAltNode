@@ -1,0 +1,39 @@
+{
+  "istilah": "situ",
+  "entri": "si.tu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "di mana bumi dipijak, di situ langit dijunjung; di mana ranting dipatah, di situ air disauk; di mana tanah dipijak, di situ langit dijunjung; ke mana angin yang deras, ke situ condongnya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.tu1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "(petunjuk) tempat yang tidak jauh dari pembicara: ke --; dari --"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "engkau; kamu (dalam situasi akrab dan tidak resmi)"
+        }
+      ]
+    },
+    {
+      "lema": "si.tu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "danau; telaga"
+        }
+      ]
+    }
+  ]
+}

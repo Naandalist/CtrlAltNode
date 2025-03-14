@@ -1,0 +1,32 @@
+{
+  "istilah": "katun",
+  "entri": "ka.tun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "katun bangkok",
+    "katun rayon",
+    "katun sutra"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "buah kepada kultivar kapas yang dijadikan benang untuk memintal kain",
+    "kataAsal": "quṭn"
+  },
+  "data": [
+    {
+      "lema": "ka.tun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cita atau bahan pakaian yang dibuat dari benang kapas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benang yang dipintal (terbuat) dari kapas"
+        }
+      ]
+    }
+  ]
+}

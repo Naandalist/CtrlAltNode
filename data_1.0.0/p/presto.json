@@ -1,0 +1,33 @@
+{
+  "istilah": "presto",
+  "entri": "pres.to1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pres.to1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mus[Musik: -]",
+          "deskripsi": "dalam tempo yang cepat"
+        }
+      ]
+    },
+    {
+      "lema": "pres.to2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "panci tekan"
+        }
+      ]
+    }
+  ]
+}

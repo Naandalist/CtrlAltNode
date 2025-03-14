@@ -1,0 +1,62 @@
+{
+  "istilah": "kirai",
+  "entri": "ki.rai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkirai",
+    "mengirai",
+    "mengiraikan",
+    "terkirai-kirai",
+    "mengirai",
+    "mengiraikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.rai1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kibas-kibas supaya bersih"
+        }
+      ]
+    },
+    {
+      "lema": "ki.rai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalur; carik (yang paling panjang)"
+        }
+      ]
+    },
+    {
+      "lema": "ki.rai3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon nipah, daunnya dapat dibuat atap〔Metroxylon rumphii〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun kirai"
+        }
+      ]
+    },
+    {
+      "lema": "ki.rai4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cerai"
+        }
+      ]
+    }
+  ]
+}

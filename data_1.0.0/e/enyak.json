@@ -1,0 +1,41 @@
+{
+  "istilah": "enyak",
+  "entri": "e.nyak1 /ênyak/bentuk tidak baku: anyak",
+  "bentukTidakBaku": "anyak",
+  "kataTurunan": [
+    "mengenyak",
+    "mengenyakkan",
+    "terperenyak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "melangkah, menginjak",
+    "kataAsal": "ěñjak"
+  },
+  "data": [
+    {
+      "lema": "e.nyak1 /ênyak/bentuk tidak baku: anyak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "injak kuat-kuat"
+        }
+      ]
+    },
+    {
+      "lema": "e.nyak2 /ênyak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "ibu; mama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "panggilan akrab terhadap orang yang dituakan (pemuka, pemimpin)"
+        }
+      ]
+    }
+  ]
+}

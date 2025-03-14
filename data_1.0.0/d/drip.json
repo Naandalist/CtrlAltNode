@@ -1,0 +1,33 @@
+{
+  "istilah": "drip",
+  "entri": "drip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "drip1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat berupa sebatang besi baja yang berujung runcing dipakai untuk membenamkan paku supaya berada di bawah permukaan atau untuk menandai ukuran atau tempat menggarap pekerjaan pada lembar pelat besi (baja)"
+        }
+      ]
+    },
+    {
+      "lema": "drip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Jk[Melayu Jakarta: -]",
+          "deskripsi": "babak (dalam sandiwara rakyat)"
+        }
+      ]
+    }
+  ]
+}

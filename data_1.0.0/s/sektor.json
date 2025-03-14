@@ -1,0 +1,40 @@
+{
+  "istilah": "sektor",
+  "entri": "sek.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sektor awan",
+    "sektor formal",
+    "sektor informal",
+    "sektor jasa",
+    "sektor panas",
+    "sektor riil",
+    "sektor tersier"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sek.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkungan suatu usaha: -- pertanian; -- perindustrian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian daerah pertempuran (penjagaan atau pertahanan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "tembereng tajam (bagian bulatan yang berbatas dua garis lurus yang ditarik dari keliling ke titik pusat bulatan)"
+        }
+      ]
+    }
+  ]
+}

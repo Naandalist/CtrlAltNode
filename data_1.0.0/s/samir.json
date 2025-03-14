@@ -1,0 +1,39 @@
+{
+  "istilah": "samir",
+  "entri": "sa.mir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyamir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.mir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun pisang yang digunting berbentuk bulat dengan aneka ukuran, biasa digunakan sebagai alas nasi untuk selamatan"
+        }
+      ]
+    },
+    {
+      "lema": "sa.mir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "selampai sutra kuning (dipakai untuk menutup barang-barang yang akan dipersembahkan kepada raja atau sultan): persembahan itu ditutup dengan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selempang2: para peserta Duta Bahasa menggunakan -- yang bertuliskan asal provinsi"
+        }
+      ]
+    }
+  ]
+}

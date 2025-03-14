@@ -1,0 +1,37 @@
+{
+  "istilah": "mengoja",
+  "entri": "oja1 » meng.o.ja",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "oja1 » meng.o.ja",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggalakkan (ayam dan sebagainya) supaya menyerang lawannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "memberanikan; menghasut"
+        }
+      ]
+    },
+    {
+      "lema": "oja2 » meng.o.ja",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengambil ancang-ancang: ia ~ dulu sebelum melompati parit yang lebar itu"
+        }
+      ]
+    }
+  ]
+}

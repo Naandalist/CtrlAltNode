@@ -1,0 +1,31 @@
+{
+  "istilah": "folklor",
+  "entri": "folk.lor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "folklor lisan",
+    "folklor nonlisan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "folk.lor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adat istiadat tradisional dan cerita rakyat yang diwariskan secara turun-temurun, tetapi tidak dibukukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu adat istiadat tradisional dan cerita rakyat yang tidak dibukukan"
+        }
+      ]
+    }
+  ]
+}

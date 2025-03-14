@@ -1,0 +1,65 @@
+{
+  "istilah": "nomor",
+  "entri": "no.mor bentuk tidak baku: nomer",
+  "bentukTidakBaku": "nomer",
+  "kataTurunan": [
+    "bernomor",
+    "menomori",
+    "penomoran"
+  ],
+  "gabunganKata": [
+    "nomor atom",
+    "nomor baris",
+    "nomor buntut",
+    "nomor cantik",
+    "nomor dada",
+    "nomor identitas bank",
+    "nomor iklan",
+    "nomor indeks internasional",
+    "nomor induk",
+    "nomor kode",
+    "nomor lambung",
+    "nomor lepas",
+    "nomor massa atom",
+    "nomor penerbangan",
+    "nomor perdana",
+    "nomor perkenalan",
+    "nomor pokok",
+    "nomor pokok wajib pajak",
+    "nomor polisi",
+    "nomor punggung",
+    "nomor rekening",
+    "nomor seri",
+    "nomor sial",
+    "nomor surat",
+    "nomor tukar",
+    "nomor undi",
+    "nomor wahid",
+    "nomor wisata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "no.mor bentuk tidak baku: nomer",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "angka sebagai tanda atau lambang bilangan: benda yang jumlahnya lima ditulis dengan -- 5"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "angka yang menunjukkan kedudukan dalam urutan, kumpulan, dan sebagainya: setiap majalah diberi -- urut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis lomba: untuk -- lari 100 m putra, Indonesia mempunyai harapan menang"
+        }
+      ]
+    }
+  ]
+}

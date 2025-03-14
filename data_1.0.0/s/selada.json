@@ -1,0 +1,33 @@
+{
+  "istilah": "selada",
+  "entri": "se.la.da /sêlada/bentuk tidak baku: salada",
+  "bentukTidakBaku": "salada",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "selada air",
+    "selada bokor",
+    "selada keriting",
+    "selada merah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.la.da /sêlada/bentuk tidak baku: salada",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sayuran berwarna hijau yang biasa dimakan sebagai lalap atau digunakan dalam hidangan selada〔Lactuca sativa〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hidangan yang dibuat dari daun selada dengan mentimun, tomat, dan sebagainya, disiram dengan mayones dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

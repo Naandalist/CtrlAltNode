@@ -1,0 +1,48 @@
+{
+  "istilah": "ulek",
+  "entri": "u.lek1 /ulêk/bentuk tidak baku: ulak3",
+  "bentukTidakBaku": "ulak3",
+  "kataTurunan": [
+    "mengulek",
+    "pengulek",
+    "pengulekan",
+    "ulekan",
+    "ulekan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "ulěk"
+  },
+  "data": [
+    {
+      "lema": "u.lek1 /ulêk/bentuk tidak baku: ulak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat dari kayu atau batu untuk melumatkan cabai, rempah-rempah, dan sebagainya pada cobek"
+        }
+      ]
+    },
+    {
+      "lema": "u.lek2 /ulêk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "giling"
+        }
+      ]
+    },
+    {
+      "lema": "u.ek3 /ulêk/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ulekan"
+        }
+      ]
+    }
+  ]
+}

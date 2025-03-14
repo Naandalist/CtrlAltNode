@@ -1,0 +1,57 @@
+{
+  "istilah": "lantai",
+  "entri": "lan.tai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlantai",
+    "melantai",
+    "melantaikan"
+  ],
+  "gabunganKata": [
+    "lantai bawah",
+    "lantai bursa",
+    "lantai dasar",
+    "lantai eksekutif",
+    "lantai hutan",
+    "lantai jemur",
+    "lantai parket",
+    "lantai parkir",
+    "lantai pesisir"
+  ],
+  "peribahasa": [
+    "mencari lantai terjungkat; menengadah membilang layar, menangkup membilang lantai; musang terjun, lantai terjungkat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.tai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian bawah (alas, dasar) suatu ruangan atau bangunan (terbuat dari papan, semen, ubin, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkatan pada gedung bertingkat: kantornya terletak di -- dua gedung itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "geladak perahu"
+        }
+      ]
+    },
+    {
+      "lema": "lan.tai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "tikar dari potongan panjang rotan utuh yang dijajar rapat-rapat dan dijalin dengan ditusuki benang"
+        }
+      ]
+    }
+  ]
+}

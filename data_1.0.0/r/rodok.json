@@ -1,0 +1,37 @@
+{
+  "istilah": "rodok",
+  "entri": "ro.dok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merodok",
+    "terodok",
+    "merodok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.dok1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merodok"
+        }
+      ]
+    },
+    {
+      "lema": "ro.dok2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merodok"
+        }
+      ]
+    }
+  ]
+}

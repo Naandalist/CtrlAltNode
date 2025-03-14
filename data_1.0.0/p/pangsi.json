@@ -1,0 +1,44 @@
+{
+  "istilah": "pangsi",
+  "entri": "pang.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpangsi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "sutra hitam Cina",
+    "kataAsal": "pháng si"
+  },
+  "data": [
+    {
+      "lema": "pang.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "paku pada ujung gasing; paksi"
+        }
+      ]
+    },
+    {
+      "lema": "pang.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "kain sutra hitam"
+        }
+      ]
+    },
+    {
+      "lema": "pang.si3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kap[Perkapalan: -]",
+          "deskripsi": "gelondong yang digunakan untuk menggulung tali"
+        }
+      ]
+    }
+  ]
+}

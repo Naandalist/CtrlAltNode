@@ -1,0 +1,33 @@
+{
+  "istilah": "cahi",
+  "entri": "ca.hi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.hi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adik laki-laki"
+        }
+      ]
+    },
+    {
+      "lema": "ca.hi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "tambahan uraian dalam didong yang bertujuan untuk lebih menghibur dan memperindah cerita"
+        }
+      ]
+    }
+  ]
+}

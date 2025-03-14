@@ -1,0 +1,41 @@
+{
+  "istilah": "tuna",
+  "entri": "tu.na1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketunaan"
+  ],
+  "gabunganKata": [
+    "tuna albakora",
+    "tuna ekor panjang",
+    "tuna sirip biru",
+    "tuna sirip kuning",
+    "tuna kejenuhan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.na1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang hidup di laut, ukurannya mencapai panjang 140 cm, berat 60,3 kg, umur 9 tahun, hidup di perairan tropis〔Thunnus alalunga〕"
+        }
+      ]
+    },
+    {
+      "lema": "tu.na3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rusak; cacat"
+        }
+      ]
+    }
+  ]
+}

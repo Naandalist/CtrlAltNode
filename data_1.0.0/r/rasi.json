@@ -1,0 +1,42 @@
+{
+  "istilah": "rasi",
+  "entri": "ra.si bentuk tidak baku: raksi2",
+  "bentukTidakBaku": "raksi2",
+  "kataTurunan": [
+    "merasi",
+    "merasikan"
+  ],
+  "gabunganKata": [
+    "rasi bintang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tanda atau simbol zodiak, kumpulan",
+    "kataAsal": "rāśi"
+  },
+  "data": [
+    {
+      "lema": "ra.si bentuk tidak baku: raksi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan bintang dalam zodiak (mintakulburuj), terbagi lagi atas dua belas kumpulan dan masing-masing diberi nama (Aries, Taurus, Gemini, Kanser, Leo, Virgo, Libra, Skorpio, Sagitarius, Kaprikornus, Akuarius, Pises)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu perbintangan (ilmu nujum) yang menganggap bahwa nasib manusia erat hubungannya dengan letak zodiaknya pada waktu ia lahir"
+        }
+      ]
+    },
+    {
+      "lema": "ra.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "beras dari singkong"
+        }
+      ]
+    }
+  ]
+}

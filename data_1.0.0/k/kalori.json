@@ -1,0 +1,38 @@
+{
+  "istilah": "kalori",
+  "entri": "ka.lo.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkalori"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.lo.ri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "satuan panas yang menyatakan jumlah panas yang diperlukan untuk menaikkan suhu 1 g air setinggi satu derajat Celcius (1°C)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "satuan tenaga panas sebesar 4,1868 joule, disingkat kal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "ukuran panas untuk menunjukkan nilai energi potensial yang ada di dalam makanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "energi yang didapat dari makanan atau minuman: diet rendah --"
+        }
+      ]
+    }
+  ]
+}

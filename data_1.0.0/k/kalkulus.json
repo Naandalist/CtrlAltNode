@@ -1,0 +1,40 @@
+{
+  "istilah": "kalkulus",
+  "entri": "kal.ku.lus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kalkulus diferensial",
+    "kalkulus integral"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kal.ku.lus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "proses pengerasan yang tidak normal pada tubuh, misalnya adanya batu pada ginjal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "endapan tidak normal garam-garam mineral di dalam organ tubuh"
+        }
+      ]
+    },
+    {
+      "lema": "kal.ku.lus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bagian matematika yang terutama melibatkan pengertian dan penggunaan diferensial dan integral serta fungsi konsep yang berkaitan: -- diferensial; -- integral"
+        }
+      ]
+    }
+  ]
+}

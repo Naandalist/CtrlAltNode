@@ -1,0 +1,32 @@
+{
+  "istilah": "khmer",
+  "entri": "Khmer /Khmer/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Khmer /Khmer/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerajaan kuno di Asia Tenggara yang mencapai puncak kekuasaannya pada abad ke-11"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penduduk kerajaan Khmer kuno; penduduk asli Kamboja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa milik keluarga Mon-Khmer yang menjadi bahasa resmi Kamboja"
+        }
+      ]
+    }
+  ]
+}

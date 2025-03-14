@@ -1,0 +1,51 @@
+{
+  "istilah": "tepok",
+  "entri": "te.pok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.pok1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lumpuh (tentang tangan, kaki) karena suatu penyakit: kakinya -- karena terserang polio"
+        }
+      ]
+    },
+    {
+      "lema": "te.pok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "berbagai-bagai tipu muslihat"
+        }
+      ]
+    },
+    {
+      "lema": "te.pok1 /têpok/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "lapuk (tentang kayu, dinding, dan sebagainya): rumah itu sebagian kayunya sudah --"
+        }
+      ]
+    },
+    {
+      "lema": "te.pok2 /têpok/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tepuk"
+        }
+      ]
+    }
+  ]
+}

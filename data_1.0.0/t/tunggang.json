@@ -1,0 +1,63 @@
+{
+  "istilah": "tunggang",
+  "entri": "tung.gang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersetunggang",
+    "bertunggang",
+    "mempertunggangkan",
+    "menunggangkan",
+    "tertunggang",
+    "tunggang-tungging",
+    "menunggang",
+    "menunggangi",
+    "penunggang",
+    "penunggangan",
+    "tunggang-tunggik",
+    "tunggang-tunggit",
+    "tunggangan"
+  ],
+  "gabunganKata": [
+    "tunggang serasi",
+    "tunggang gunung",
+    "tunggang harawan",
+    "tunggang hati"
+  ],
+  "peribahasa": [
+    "tohok tunggang ke buruh (ke bawah); tunggang hilang berani mati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tung.gang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terjungkir; terbalik (kepala ke bawah, kaki ke atas); tertungging; tertunggit (seperti botol mulutnya ke bawah, dasarnya ke atas)"
+        }
+      ]
+    },
+    {
+      "lema": "tung.gang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lurus ke bawah; curam: lereng pegunungan Bukit Barisan banyak yang --"
+        }
+      ]
+    },
+    {
+      "lema": "tung.gang3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "naik"
+        }
+      ]
+    }
+  ]
+}

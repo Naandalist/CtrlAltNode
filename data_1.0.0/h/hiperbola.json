@@ -1,0 +1,32 @@
+{
+  "istilah": "hiperbola",
+  "entri": "hi.per.bo.la /hipêrbola/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "hiperbola daun dua",
+    "hiperbola daun satu",
+    "hiperbola persegi panjang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "hi.per.bo.la /hipêrbola/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "dua lengkungan terpisah yang merupakan perpotongan permukaan kerucut lingkar dengan bidang datar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "himpunan titik-titik yang selisih jaraknya terhadap dua titik tetap adalah konstan"
+        }
+      ]
+    }
+  ]
+}

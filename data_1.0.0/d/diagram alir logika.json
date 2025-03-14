@@ -1,0 +1,24 @@
+{
+  "istilah": "diagram alir logika",
+  "entri": "diagram » diagram alir logika",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "diagram » diagram alir logika",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "diagram yang memperlihatkan keputusan logika terjadi dalam suatu struktur dan efek-efeknya terhadap eksekusi program"
+        }
+      ]
+    }
+  ]
+}

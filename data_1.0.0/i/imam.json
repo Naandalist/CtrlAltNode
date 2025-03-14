@@ -1,0 +1,51 @@
+{
+  "istilah": "imam",
+  "entri": "i.mam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keimaman",
+    "mengimami"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemimpin",
+    "kataAsal": "imām"
+  },
+  "data": [
+    {
+      "lema": "i.mam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin salat (pada salat jemaah seperti pada salat Jumat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin; kepala (negeri dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(dipakai juga sebagai gelar) pemimpin; penghulu: -- Bonjol; -- Mahdi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pemimpin mazhab: -- Syafei; -- Hambali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pemimpin umat/jemaah: -- Khomaini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "rohaniwan yang sudah mendapatkan sakramen tahbisan kedua, satu tingkat di bawah uskup, memiliki hak untuk memberikan semua sakramen kecuali penahbisan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "padri"
+        }
+      ]
+    }
+  ]
+}

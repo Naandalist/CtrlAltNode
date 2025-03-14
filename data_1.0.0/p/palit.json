@@ -1,0 +1,42 @@
+{
+  "istilah": "palit",
+  "entri": "pa.lit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpalit",
+    "memalit",
+    "terpalit",
+    "terpalit-palit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.lit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang dipakai untuk menyapukan celak mata, cat alis, cat bibir, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cairan atau bubuk yang biasa ditempelkan untuk rias muka, seperti celak mata, cat alis, dan cat bibir"
+        }
+      ]
+    },
+    {
+      "lema": "pa.lit2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pailit"
+        }
+      ]
+    }
+  ]
+}

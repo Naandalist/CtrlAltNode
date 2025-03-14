@@ -1,0 +1,46 @@
+{
+  "istilah": "garit",
+  "entri": "ga.rit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "garitan",
+    "menggarit",
+    "menggarit",
+    "menggaritkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menggurat, menyerempet",
+    "kataAsal": "garit"
+  },
+  "data": [
+    {
+      "lema": "ga.rit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gores"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis memanjang hasil torehan benda tajam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gundukan tanah yang memanjang menyerupai pematang yang akan ditanami: benih kacang panjang itu harus ditanam di atas --"
+        }
+      ]
+    },
+    {
+      "lema": "ga.rit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "gerak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "pojok",
+  "entri": "po.jok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keterpojokan",
+    "memojok",
+    "memojokkan",
+    "pemojokan",
+    "terpojok",
+    "terpojokkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.jok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat bertemunya dua garis atau dua sisi (ujung, permukaan, dan sebagainya); sudut; penjuru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang jauh atau yang tidak mudah kelihatan (didatangi, dihubungi, dan sebagainya): penduduk dari -- kota berdatangan untuk ikut menyambut dan mengelu-elukannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lajur di sudut surat kabar tempat karangan pendek, berisikan hal-hal yang humoris, tetapi mengandung kritik atau sindiran"
+        }
+      ]
+    }
+  ]
+}

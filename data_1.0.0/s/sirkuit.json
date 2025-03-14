@@ -1,0 +1,52 @@
+{
+  "istilah": "sirkuit",
+  "entri": "sir.ku.it1 bentuk tidak baku: sirkit",
+  "bentukTidakBaku": "sirkit",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sirkuit terpadu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sir.ku.it1 bentuk tidak baku: sirkit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan yang melingkar atau berbentuk lingkaran, dipakai untuk berbagai perlombaan: kita belum memiliki -- khusus untuk mobil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rangkaian arus listrik"
+        }
+      ]
+    },
+    {
+      "lema": "sir.ku.it2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ untai2"
+        }
+      ]
+    },
+    {
+      "lema": "sir.ku.it3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "kelompok teater di wilayah geografis yang sama"
+        }
+      ]
+    }
+  ]
+}

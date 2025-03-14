@@ -1,0 +1,48 @@
+{
+  "istilah": "saring",
+  "entri": "sa.ring1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyaring",
+    "penyaring",
+    "penyaringan",
+    "saringan",
+    "tersaring"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menyaring, menapis, menyuling, memilih",
+    "kataAsal": "sariṅ"
+  },
+  "data": [
+    {
+      "lema": "sa.ring1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyaring"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ring2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "ramping; langsing"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ring3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sering1"
+        }
+      ]
+    }
+  ]
+}

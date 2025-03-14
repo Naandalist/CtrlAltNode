@@ -1,0 +1,51 @@
+{
+  "istilah": "silih",
+  "entri": "si.lih",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersilih",
+    "menyilih",
+    "penyilihan",
+    "persilihan",
+    "silihan"
+  ],
+  "gabunganKata": [
+    "silih asah",
+    "silih asih",
+    "silih asuh",
+    "silih berganti",
+    "silih ganti",
+    "silih mata",
+    "silih sambut",
+    "silih semilih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.lih",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "saling"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ganti; tukar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "konstituen yang tidak ditentukan atau tidak terdapat dalam struktur dasar, diperlukan untuk menjelaskan suatu derivasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "unsur tidak bermakna yang mempunyai fungsi sintaksis, tetapi tidak mempunyai fungsi semantis"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "menyilangkan",
+  "entri": "silang1 » me.nyi.lang.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "silang1 » me.nyi.lang.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menaruh (mengikat dan sebagainya) menyilang (memotong garis lain dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "silang2 » me.nyi.lang.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengadakan kawin campur (tentang hewan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membibitkan tumbuhan secara silang"
+        }
+      ]
+    }
+  ]
+}

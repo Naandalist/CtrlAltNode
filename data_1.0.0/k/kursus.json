@@ -1,0 +1,36 @@
+{
+  "istilah": "kursus",
+  "entri": "kur.sus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengursus",
+    "mengursuskan"
+  ],
+  "gabunganKata": [
+    "kursus daring",
+    "kursus kilat",
+    "kursus penyegaran",
+    "kursus tani"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kur.sus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelajaran tentang suatu pengetahuan atau keterampilan yang diberikan dalam waktu singkat: -- bahasa Inggris; -- mengetik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembaga di luar sekolah yang memberikan pelajaran serta pengetahuan atau keterampilan dalam waktu singkat: ia -- bahasa Inggris di lembaga terkenal"
+        }
+      ]
+    }
+  ]
+}

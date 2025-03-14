@@ -1,0 +1,33 @@
+{
+  "istilah": "gangsar",
+  "entri": "gang.sar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cepat",
+    "kataAsal": "gaṅsar"
+  },
+  "data": [
+    {
+      "lema": "gang.sar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lancar; tidak ada halangan: mudah-mudahan dia -- dalam menuntut ilmu"
+        }
+      ]
+    },
+    {
+      "lema": "gang.sar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "prosa"
+        }
+      ]
+    }
+  ]
+}

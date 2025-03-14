@@ -1,0 +1,70 @@
+{
+  "istilah": "corong",
+  "entri": "co.rong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencorong",
+    "mencorongkan",
+    "secorong"
+  ],
+  "gabunganKata": [
+    "corong awan",
+    "corong dengar",
+    "corong lipat",
+    "corong penetasan",
+    "corong radio",
+    "corong suara",
+    "corong telepon"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.rong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pipa pembuang asap; cerobong; semprong"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teropong; keker"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menuang barang cair ke botol dan sebagainya (bentuknya seperti kerucut)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuluh kaca penutup nyala lampu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hidm[Hidrometeorologi: -]",
+          "deskripsi": "kolom atau kerucut awan di dasar awan kumulonimbus yang berbelalai air"
+        }
+      ]
+    },
+    {
+      "lema": "co.rong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelita; suluh: lampu --"
+        }
+      ]
+    },
+    {
+      "lema": "co.rong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "juru bicara: ia menjadi -- pemerintah"
+        }
+      ]
+    }
+  ]
+}

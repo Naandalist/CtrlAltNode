@@ -1,0 +1,59 @@
+{
+  "istilah": "salam",
+  "entri": "sa.lam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersalam",
+    "bersalam-salaman",
+    "bersalaman",
+    "menyalam",
+    "menyalami",
+    "persalaman"
+  ],
+  "gabunganKata": [
+    "salam hormat",
+    "salam kepal tangan",
+    "salam siku",
+    "salam takzim",
+    "salam tempel",
+    "salam koja"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kesehatan; perdamaian; penghormatan",
+    "kataAsal": "salām"
+  },
+  "data": [
+    {
+      "lema": "sa.lam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "damai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan hormat; tabik: sampaikan -- saya kepadanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ucapan as-salāmu ’alaikum wa raḥmatullāhi wa barakātuh"
+        }
+      ]
+    },
+    {
+      "lema": "sa.lam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanaman termasuk suku Myrtaceae, pohonnya bertajuk lebat, tingginya mencapai 25 m, daunnya berbentuk bulat telur atau lonjong, berbau harum, biasanya digunakan sebagai bumbu masak〔Eugenia polyantha〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun salam"
+        }
+      ]
+    }
+  ]
+}

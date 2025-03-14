@@ -1,0 +1,51 @@
+{
+  "istilah": "naskah",
+  "entri": "nas.kah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "penaskahan",
+    "pernaskahan"
+  ],
+  "gabunganKata": [
+    "naskah akademik",
+    "naskah berita",
+    "naskah dinas",
+    "naskah jadi",
+    "naskah kotor",
+    "naskah lakon",
+    "naskah siap cetak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "salinan",
+    "kataAsal": "nuskhah"
+  },
+  "data": [
+    {
+      "lema": "nas.kah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karangan yang masih ditulis dengan tangan: mahasiswa tingkat akhir mengumpulkan -- sastra lama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karangan seseorang yang belum diterbitkan: berbagai penerbit berkeberatan menerbitkan -- cerita ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan-bahan berita yang siap untuk diset"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rancangan: -- Perjanjian Linggarjati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "karya cipta seseorang yang dianggap sebagai karya asli"
+        }
+      ]
+    }
+  ]
+}

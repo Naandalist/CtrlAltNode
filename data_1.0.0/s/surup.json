@@ -1,0 +1,44 @@
+{
+  "istilah": "surup",
+  "entri": "su.rup1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesurupan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "surup"
+  },
+  "data": [
+    {
+      "lema": "su.rup1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "patut; pantas; layak; sepadan: warna baju dan kerudung gadis itu -- benar"
+        }
+      ]
+    },
+    {
+      "lema": "su.rup2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kesurupan"
+        }
+      ]
+    },
+    {
+      "lema": "su.rup3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "memasukkan benang ke lubang jarum"
+        }
+      ]
+    }
+  ]
+}

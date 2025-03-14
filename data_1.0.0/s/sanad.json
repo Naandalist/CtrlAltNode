@@ -1,0 +1,30 @@
+{
+  "istilah": "sanad",
+  "entri": "sa.nad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersanad"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "mercu gunung; sandaran; rentetan rawi hadis sampai kepada Nabi Muhammad saw.",
+    "kataAsal": "sanad"
+  },
+  "data": [
+    {
+      "lema": "sa.nad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "sandaran, hubungan, atau rangkaian perkara yang dapat dipercayai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "rentetan rawi hadis sampai kepada Nabi Muhammad saw.: hadis itu telah diriwayatkan oleh Imam Bukhari dengan -- yang baik"
+        }
+      ]
+    }
+  ]
+}

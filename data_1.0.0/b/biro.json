@@ -1,0 +1,42 @@
+{
+  "istilah": "biro",
+  "entri": "bi.ro",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "biro hukum",
+    "biro iklan",
+    "biro jodoh",
+    "biro kepegawaian",
+    "biro keuangan",
+    "biro klasifikasi",
+    "biro perencanaan",
+    "biro perjalanan",
+    "biro perlengkapan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.ro",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kantor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari instansi yang mengurusi suatu urusan: -- kepegawaian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perusahaan jasa: -- jasa"
+        }
+      ]
+    }
+  ]
+}

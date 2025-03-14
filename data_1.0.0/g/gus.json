@@ -1,0 +1,32 @@
+{
+  "istilah": "gus",
+  "entri": "gus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama julukan atau nama panggilan untuk anak laki-laki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama panggilan untuk (putra) ulama, kiai, atau orang yang dihormati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panggilan untuk anak lelaki putra kiai atau pemilik pesantren"
+        }
+      ]
+    }
+  ]
+}

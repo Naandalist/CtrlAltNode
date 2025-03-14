@@ -1,0 +1,33 @@
+{
+  "istilah": "saki",
+  "entri": "sa.ki1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyuguh minuman",
+    "kataAsal": "sāqī"
+  },
+  "data": [
+    {
+      "lema": "sa.ki1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "teman; kawan"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ki2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sake"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "istilah": "luntur",
+  "entri": "lun.tur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelunturan",
+    "meluntur",
+    "melunturi",
+    "melunturkan",
+    "peluntur",
+    "pelunturan",
+    "meluntur",
+    "peluntur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lun.tur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berubah atau hilang warna (tentang cat, pakaian, emas sepuhan, dan sebagainya): kain cita ini tidak --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "berubah (tentang pendirian, keyakinan, dan sebagainya): akibat tekanan fisik dan tekanan mental dari penjajah, tidak sedikit pemimpin yang -- pendiriannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "menjadi kurang atau hilang (tentang kepercayaan, cinta kasih, dan sebagainya): cinta kasih tunangannya mulai --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "turun (tentang kemegahan, nama baik, dan sebagainya): pamornya di kampus itu sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak manjur lagi (tentang mantra, kesaktian, dan sebagainya): jangankan jampi-jampi, mantra sakti pun dapat --"
+        }
+      ]
+    },
+    {
+      "lema": "lun.tur2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah keluar, lancar keluar (tentang buang air)"
+        }
+      ]
+    }
+  ]
+}

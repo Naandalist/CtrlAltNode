@@ -1,0 +1,33 @@
+{
+  "istilah": "natar",
+  "entri": "na.tar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dasar permukaan sepotong kain yang dilukisi pola",
+    "kataAsal": "natar"
+  },
+  "data": [
+    {
+      "lema": "na.tar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dasar warna (pada kain batik dan sebagainya); latar"
+        }
+      ]
+    },
+    {
+      "lema": "na.tar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "halaman; pekarangan"
+        }
+      ]
+    }
+  ]
+}

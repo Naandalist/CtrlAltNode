@@ -1,0 +1,35 @@
+{
+  "istilah": "medali",
+  "entri": "me.da.li1 /mêdali/bentuk tidak baku: medeli, mendali",
+  "bentukTidakBaku": "medeli, mendali",
+  "kataTurunan": [
+    "bermedali"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.da.li1 /mêdali/bentuk tidak baku: medeli, mendali",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda jasa (tanda penghargaan, tanda peringatan) dibuat dari logam (emas, perak, perunggu), berbentuk bundar, lonjong, dan sebagainya, kadang-kadang diberi tali, seperti kalung: ia berhasil meraih -- emas dalam pekan olahraga itu"
+        }
+      ]
+    },
+    {
+      "lema": "me.da.li2 /mêdali/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "nama bunyi-bunyian seperti seruling"
+        }
+      ]
+    }
+  ]
+}

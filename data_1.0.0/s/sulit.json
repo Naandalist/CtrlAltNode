@@ -1,0 +1,47 @@
+{
+  "istilah": "sulit",
+  "entri": "su.lit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesulitan",
+    "mempersulit",
+    "menyulitkan",
+    "penyulit",
+    "sesulit",
+    "tersulit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.lit",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sukar sekali; susah (diselesaikan, dikerjakan, dan sebagainya): pekerjaan yang -- diselesaikan; rasanya -- baginya untuk memberitahukan hal itu kepadamu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "susah dicari; jarang terdapat: obat semacam itu --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dirahasiakan (sukar diketahui dan sebagainya); tersembunyi: tempat yang -- pun ia tahu; ia dapat mengetahui hal yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gelap (rahasia, tidak terang-terangan): apa yang mereka lakukan itu merupakan perbuatan yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam keadaan yang sukar (genting, gawat, dan sebagainya): penghidupan yang -- itu kita hadapi dengan sabar dan tawakal; keadaan ekonomi yang makin --"
+        }
+      ]
+    }
+  ]
+}

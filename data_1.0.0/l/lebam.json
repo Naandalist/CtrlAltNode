@@ -1,0 +1,42 @@
+{
+  "istilah": "lebam",
+  "entri": "le.bam",
+  "bentukTidakBaku": "lembam2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.bam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang hidup di laut atau payau, panjang mencapai 53 cm, hidup di terumbu karang perairan tropis, tersebar di perairan Teluk Persia, Teluk Oman, Pakistan, India, Srilangka, Myanmar, Kepulauan Andaman, Thailand, Vietnam, Cina Selatan, Malaysia, Indonesia, Filipina, Australia, Papua Nugini, Vanuatu, dan Kaledonia Baru〔Siganus javus〕"
+        }
+      ]
+    },
+    {
+      "lema": "le.bam1 /lêbam/bentuk tidak baku: lembam2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "biru kehitam-hitaman (seperti warna bekas kena pukul)"
+        }
+      ]
+    },
+    {
+      "lema": "le.bam2 /lêbam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi barang keras dan besar jatuh"
+        }
+      ]
+    }
+  ]
+}

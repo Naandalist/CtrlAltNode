@@ -1,0 +1,39 @@
+{
+  "istilah": "pd",
+  "entri": "pd",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ayam itik raja pada tempatnya; bergantung pada rambut sehelai; bergantung pada tali rapuh; malu tercoreng pada kening; minta pucuk pada alu (menghendaki pucuk alu); minta sisik pada limbat; mudah juga pada yang ada, sukar jua pada yang tidak; orang terpegang pada hulunya, awak terpegang pada matanya; pilih-pilih ruas, terpilih pada buku; pilih-pilih ruas, terpilih pada buku (terkena buku buluh); sukar kaji pada orang alim, sukar uang pada orang kaya; syariat palu-memalu, pada hakikatnya adalah balas-membalas; tegak pada yang datang; terajar pada banting pincang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pd",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pada"
+        }
+      ]
+    },
+    {
+      "lema": "PD",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Perang Dunia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Pembantu Dekan"
+        }
+      ]
+    }
+  ]
+}

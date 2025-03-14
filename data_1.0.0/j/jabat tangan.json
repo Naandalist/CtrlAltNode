@@ -1,0 +1,35 @@
+{
+  "istilah": "jabat tangan",
+  "entri": "ja.bat ta.ngan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjabat tangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.bat ta.ngan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pegang tangan (dalam bersalaman)"
+        }
+      ]
+    },
+    {
+      "lema": "jabat » jabat tangan",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "sekumpulan sinyal yang telah dibakukan antara dua perangkat untuk memastikan bahwa sistem bekerja dengan benar, peralatannya kompatibel dan transfer data sudah benar"
+        }
+      ]
+    }
+  ]
+}

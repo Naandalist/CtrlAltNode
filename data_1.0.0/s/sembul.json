@@ -1,0 +1,41 @@
+{
+  "istilah": "sembul",
+  "entri": "sem.bul1 /sêmbul/",
+  "bentukTidakBaku": "sembur2",
+  "kataTurunan": [
+    "bersembulan",
+    "menyembul",
+    "menyembulkan",
+    "tersembul",
+    "penyembulan"
+  ],
+  "gabunganKata": [
+    "sembul ibun"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sem.bul1 /sêmbul/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyembul"
+        }
+      ]
+    },
+    {
+      "lema": "sem.bul2 /sêmbul/bentuk tidak baku: sembur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "bongkaran kerak bumi yang terangkat (bentuknya memanjang yang pada sisinya dibatasi sesaran)"
+        }
+      ]
+    }
+  ]
+}

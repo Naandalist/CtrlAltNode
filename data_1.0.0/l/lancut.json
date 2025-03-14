@@ -1,0 +1,35 @@
+{
+  "istilah": "lancut",
+  "entri": "lan.cut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melancut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.cut1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melancut"
+        }
+      ]
+    },
+    {
+      "lema": "lan.cut2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mendatangkan faedah; sia-sia"
+        }
+      ]
+    }
+  ]
+}

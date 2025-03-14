@@ -1,0 +1,33 @@
+{
+  "istilah": "pedologi",
+  "entri": "pe.do.lo.gi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.do.lo.gi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang tingkah laku dan perkembangan anak"
+        }
+      ]
+    },
+    {
+      "lema": "pe.do.lo.gi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang tanah"
+        }
+      ]
+    }
+  ]
+}

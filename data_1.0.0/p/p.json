@@ -1,0 +1,33 @@
+{
+  "istilah": "p",
+  "entri": "p2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "p2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lt[Latin: -] sing[singkatan]",
+          "deskripsi": "pagina"
+        }
+      ]
+    },
+    {
+      "lema": "P1 varian: p",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf ke-16 abjad Indonesia"
+        }
+      ]
+    }
+  ]
+}

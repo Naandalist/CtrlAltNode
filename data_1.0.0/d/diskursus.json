@@ -1,0 +1,36 @@
+{
+  "istilah": "diskursus",
+  "entri": "dis.kur.sus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dis.kur.sus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rasionalitas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertukaran ide; gagasan secara verbal; bahasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengungkapan pemikiran secara formal dan teratur; wacana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara mengorganisasi pengetahuan, pemikiran, atau pengalaman yang berakar dari bahasa dan konteksnya yang nyata"
+        }
+      ]
+    }
+  ]
+}

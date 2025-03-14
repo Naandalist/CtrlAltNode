@@ -1,0 +1,33 @@
+{
+  "istilah": "taslim",
+  "entri": "tas.lim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyerahan",
+    "kataAsal": "taslīm"
+  },
+  "data": [
+    {
+      "lema": "tas.lim1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penyerahan diri dan kepatuhan kepada perintah Allah"
+        }
+      ]
+    },
+    {
+      "lema": "tas.lim2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberian hormat; pemberian salam"
+        }
+      ]
+    }
+  ]
+}

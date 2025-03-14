@@ -1,0 +1,28 @@
+{
+  "istilah": "namping",
+  "entri": "nam.ping",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nam.ping",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "membersihkan rerumputan yang berada di tepian pematang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "memapas pematang lama yang akan diperbaiki"
+        }
+      ]
+    }
+  ]
+}

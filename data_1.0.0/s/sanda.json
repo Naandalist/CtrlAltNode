@@ -1,0 +1,42 @@
+{
+  "istilah": "sanda",
+  "entri": "san.da1 bentuk tidak baku: senda1, sinda",
+  "bentukTidakBaku": "senda1, sinda",
+  "kataTurunan": [
+    "menyandakan"
+  ],
+  "gabunganKata": [
+    "sanda agung",
+    "sanda kudo"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "san.da1 bentuk tidak baku: senda1, sinda",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "aku (biasa dipakai oleh pengarang lama); yang diperhamba; sahayanda"
+        }
+      ]
+    },
+    {
+      "lema": "san.da2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "harta yang dijadikan jaminan dalam pegang gadai, yang sewaktu-waktu akan ditebus kembali"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "gadai"
+        }
+      ]
+    }
+  ]
+}

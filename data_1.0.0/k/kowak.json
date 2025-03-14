@@ -1,0 +1,33 @@
+{
+  "istilah": "kowak",
+  "entri": "ko.wak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.wak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kuak2"
+        }
+      ]
+    },
+    {
+      "lema": "ko.wak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "sarung kujang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "kb",
+  "entri": "Kb3",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Kb3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -] sing[singkatan]",
+          "deskripsi": "kilobit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -] sing[singkatan]",
+          "deskripsi": "(ditulis dengan huruf kapital) kilobita"
+        }
+      ]
+    },
+    {
+      "lema": "KB",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "keluarga berencana"
+        }
+      ]
+    },
+    {
+      "lema": "KB2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kelompok bermain"
+        }
+      ]
+    }
+  ]
+}

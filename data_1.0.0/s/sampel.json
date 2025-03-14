@@ -1,0 +1,30 @@
+{
+  "istilah": "sampel",
+  "entri": "sam.pel /sampêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "penyampelan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sam.pel /sampêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "sesuatu yang digunakan untuk menunjukkan sifat suatu kelompok yang lebih besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "bagian kecil yang mewakili kelompok atau keseluruhan yang lebih besar; percontoh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "takhta",
+  "entri": "takh.ta bentuk tidak baku: tahta",
+  "bentukTidakBaku": "tahta",
+  "kataTurunan": [
+    "bertakhta",
+    "menakhtakan"
+  ],
+  "gabunganKata": [
+    "takhta kerajaan",
+    "takhta suci Vatikan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "takh.ta bentuk tidak baku: tahta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat duduk raja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kedudukan"
+        }
+      ]
+    }
+  ]
+}

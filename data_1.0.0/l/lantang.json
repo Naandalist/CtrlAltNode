@@ -1,0 +1,42 @@
+{
+  "istilah": "lantang",
+  "entri": "lan.tang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelantangan",
+    "melantang",
+    "melantangkan",
+    "pelantang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.tang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jelas dan nyaring kedengaran: komandan memberi aba-aba dengan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jelas dan bebas kelihatan (tidak ada yang menghalangi): taman itu membuat pemandangan yang -- ke laut"
+        }
+      ]
+    },
+    {
+      "lema": "lan.tang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah panggung bambu yang dibangun khusus untuk menerima tamu atau tempat tinggal kerabat dalam upacara adat kematian di Toraja"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "istilah": "satir",
+  "entri": "sa.tir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.tir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(dalam cerita Yunani dan Romawi Purba) makhluk berwujud setengah manusia setengah binatang, yang konon suka minum anggur dan suka wanita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lelaki yang tidak dapat mengendalikan nafsu berahinya"
+        }
+      ]
+    },
+    {
+      "lema": "sa.tir2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ satire"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "bentuk komedi kebijaksanaan dan kebodohan yang ditampilkan sebagai kelucuan"
+        }
+      ]
+    },
+    {
+      "lema": "sa.tir3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat sumpah1"
+        }
+      ]
+    }
+  ]
+}

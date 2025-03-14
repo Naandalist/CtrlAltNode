@@ -1,0 +1,37 @@
+{
+  "istilah": "tersundut",
+  "entri": "sundut1 » ter.sun.dut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sundut1 » ter.sun.dut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terkena sundutan"
+        }
+      ]
+    },
+    {
+      "lema": "sundut3 » ter.sun.dut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah disundut: celananya bolong karena ~ rokok"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tersulut: pemerintah mengimbau masyarakat agar tidak ~ emosinya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "qiraah",
+  "entri": "qi.ra.ah bentuk tidak baku: kiraah, kiraat",
+  "bentukTidakBaku": "kiraah, kiraat",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bacaan",
+    "kataAsal": "qirā’ah"
+  },
+  "data": [
+    {
+      "lema": "qi.ra.ah bentuk tidak baku: kiraah, kiraat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "hal-hal yang berhubungan dengan cara pembacaan Alquran; pembacaan ayat-ayat Alquran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -] Isl[Agama Islam: -]",
+          "deskripsi": "bacaan"
+        }
+      ]
+    }
+  ]
+}

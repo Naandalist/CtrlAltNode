@@ -1,0 +1,49 @@
+{
+  "istilah": "suar",
+  "entri": "su.ar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersuar",
+    "menyuar",
+    "menyuarkan",
+    "tersuar"
+  ],
+  "gabunganKata": [
+    "suar bakar",
+    "suar laut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.ar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nyala api (suluh, pelita) untuk tanda (isyarat): memberi -- memberi tanda isyarat dengan suar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obor atau suluh untuk memikat ikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "mercusuar"
+        }
+      ]
+    },
+    {
+      "lema": "su.ar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bn[Benuaq: -]",
+          "deskripsi": "kayu pendorong perahu di hulu sungai yang dangkal dan deras airnya"
+        }
+      ]
+    }
+  ]
+}

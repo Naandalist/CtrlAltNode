@@ -1,0 +1,33 @@
+{
+  "istilah": "dewangga",
+  "entri": "de.wang.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sejenis kain (merah)",
+    "kataAsal": "dewāṅga"
+  },
+  "data": [
+    {
+      "lema": "de.wang.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain yang bergambar-gambar indah, bercorak biru atau kuning pada dasar merah"
+        }
+      ]
+    },
+    {
+      "lema": "de.wang.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna merah kekuning-kuningan"
+        }
+      ]
+    }
+  ]
+}

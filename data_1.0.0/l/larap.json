@@ -1,0 +1,46 @@
+{
+  "istilah": "larap",
+  "entri": "la.rap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pelarap",
+    "melarapkan",
+    "selarap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "larap"
+  },
+  "data": [
+    {
+      "lema": "la.rap1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "laku; laris"
+        }
+      ]
+    },
+    {
+      "lema": "la.rap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melarapkan"
+        }
+      ]
+    },
+    {
+      "lema": "la.rap3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jodoh"
+        }
+      ]
+    }
+  ]
+}

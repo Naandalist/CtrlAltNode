@@ -1,0 +1,48 @@
+{
+  "istilah": "mujur",
+  "entri": "mu.jur1",
+  "bentukTidakBaku": "bujur2",
+  "kataTurunan": [
+    "kemujuran",
+    "pemujur",
+    "semujur",
+    "semujur-mujurnya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "hulu mujur pandai bertenggang (bertengkar), hulu baik pandai memakai; malang tak boleh ditolak, mujur tak boleh diraih; mujur Pak Belang; mujur sepanjang hari, malang sekejap mata; mujur tidak boleh diraih, malang tidak boleh ditolak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memanjang, menurut panjangnya",
+    "kataAsal": "mujur"
+  },
+  "data": [
+    {
+      "lema": "mu.jur1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "beruntung"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bernasib baik; berbahagia"
+        }
+      ]
+    },
+    {
+      "lema": "mu.jur2 bentuk tidak baku: bujur2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terus pada satu arah, tidak ada yang melintang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terletak menurut panjangnya"
+        }
+      ]
+    }
+  ]
+}

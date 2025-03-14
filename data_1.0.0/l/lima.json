@@ -1,0 +1,35 @@
+{
+  "istilah": "lima",
+  "entri": "li.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlima",
+    "seperlima"
+  ],
+  "gabunganKata": [
+    "lima waktu"
+  ],
+  "peribahasa": [
+    "masuk lima, keluar sepuluh; mengadu buku jari (mengadu buku lima)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.ma",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "bilangan yang dilambangkan dengan angka 5 (Arab) atau V (Romawi)"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "urutan ke-5 sesudah ke-4 dan sebelum ke-6"
+        }
+      ]
+    }
+  ]
+}

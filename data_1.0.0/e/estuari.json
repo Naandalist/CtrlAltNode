@@ -1,0 +1,38 @@
+{
+  "istilah": "estuari",
+  "entri": "es.tu.a.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "estuari baji garam",
+    "estuari dataran pesisir",
+    "estuari negatif",
+    "estuari positif",
+    "estuari tektonik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "es.tu.a.ri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "perairan pantai setengah tertutup tempat air laut bertemu dengan air tawar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "muara sungai berbentuk corong yang melebar ke arah laut karena pengaruh pasang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "perairan terlindung yang kemasinannya berbeda dengan jelas apabila dibandingkan dengan kemasinan air laut, beberapa di antaranya mempunyai kemasinan tinggi (estuari negatif), yang ditandai dengan fluktuasi kemasinan dibandingkan dengan air payau atau danau asin yang mempunyai kadar garam tetap"
+        }
+      ]
+    }
+  ]
+}

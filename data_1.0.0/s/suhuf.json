@@ -1,0 +1,32 @@
+{
+  "istilah": "suhuf",
+  "entri": "su.huf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tulisan",
+    "kataAsal": "ṣuḥuf"
+  },
+  "data": [
+    {
+      "lema": "su.huf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kitab Allah Swt. yang diturunkan kepada para nabi dan rasul-Nya, merupakan dasar atau nasihat secara umum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "lembaran yang bertulis; halaman buku; surat; dokumen; sahifah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kertas (bahan) hasil daur ulang"
+        }
+      ]
+    }
+  ]
+}

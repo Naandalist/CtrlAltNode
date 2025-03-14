@@ -1,0 +1,42 @@
+{
+  "istilah": "tau",
+  "entri": "tau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tau1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tahu"
+        }
+      ]
+    },
+    {
+      "lema": "tau2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat daun"
+        }
+      ]
+    },
+    {
+      "lema": "tau3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-19 abjad Yunani"
+        }
+      ]
+    }
+  ]
+}

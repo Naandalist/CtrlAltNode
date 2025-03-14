@@ -1,0 +1,35 @@
+{
+  "istilah": "nada",
+  "entri": "na.da",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bernada",
+    "nada-nadanya",
+    "senada"
+  ],
+  "gabunganKata": [
+    "nada dasar",
+    "nada minor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "suara, bunyi dering, raungan",
+    "kataAsal": "nāda"
+  },
+  "data": [
+    {
+      "lema": "na.da",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tinggi rendahnya bunyi (dalam lagu, musik, dan sebagainya): peserta bernomor undian dua akan menyanyikan lagu wajib dengan -- dasar A"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "ungkapan keadaan jiwa atau suasana hati; makna yang tersembunyi dalam ucapan dan sebagainya; sikap: ia berkata dengan -- mengejek; pernyataan yang --nya keras"
+        }
+      ]
+    }
+  ]
+}

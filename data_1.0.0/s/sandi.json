@@ -1,0 +1,48 @@
+{
+  "istilah": "sandi",
+  "entri": "san.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersandi",
+    "menyandikan",
+    "penyandian"
+  ],
+  "gabunganKata": [
+    "sandi asma",
+    "sandi biner",
+    "sandi boneka",
+    "sandi kata",
+    "sandi meteorologi",
+    "sandi sastra",
+    "sandi suara",
+    "sandi  rasa",
+    "sandi sora",
+    "sandi ton"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "san.di1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rahasia; kode: berita itu dikirimkan dengan bahasa --"
+        }
+      ]
+    },
+    {
+      "lema": "san.di2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "perubahan fonologis yang terjadi pada sebuah kata karena pengaruh afiksasi atau karena pengaruh fonem yang ada di dekatnya"
+        }
+      ]
+    }
+  ]
+}

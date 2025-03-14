@@ -1,0 +1,46 @@
+{
+  "istilah": "langkup",
+  "entri": "lang.kup1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terlangkup",
+    "langkupan",
+    "melangkup"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lang.kup1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terlangkup"
+        }
+      ]
+    },
+    {
+      "lema": "lang.kup2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "langkupan"
+        }
+      ]
+    },
+    {
+      "lema": "lang.kup3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melangkup"
+        }
+      ]
+    }
+  ]
+}

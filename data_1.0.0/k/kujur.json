@@ -1,0 +1,46 @@
+{
+  "istilah": "kujur",
+  "entri": "ku.jur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sekujur"
+  ],
+  "gabunganKata": [
+    "kujur bercemara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.jur1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "sekujur"
+        }
+      ]
+    },
+    {
+      "lema": "ku.jur2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kejang; kaku"
+        }
+      ]
+    },
+    {
+      "lema": "ku.jur3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembing (pendek) untuk menangkap ikan dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

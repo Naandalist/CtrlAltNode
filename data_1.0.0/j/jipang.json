@@ -1,0 +1,60 @@
+{
+  "istilah": "jipang",
+  "entri": "ji.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "penganan dari beras ketan dan gula",
+    "kataAsal": "jī phang"
+  },
+  "data": [
+    {
+      "lema": "ji.pang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "perisai panjang yang dibuat dari kayu berlapis kulit hewan (misalnya kulit kerbau); jebang"
+        }
+      ]
+    },
+    {
+      "lema": "ji.pang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "cabang (pohon); dahan"
+        }
+      ]
+    },
+    {
+      "lema": "ji.pang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "labu siam〔Sechium edule〕"
+        }
+      ]
+    },
+    {
+      "lema": "ji.pang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapak (untuk berperang)"
+        }
+      ]
+    },
+    {
+      "lema": "ji.pang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang dibuat dari ketan dan gula"
+        }
+      ]
+    }
+  ]
+}

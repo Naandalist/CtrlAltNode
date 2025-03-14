@@ -1,0 +1,35 @@
+{
+  "istilah": "gosong",
+  "entri": "go.song1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergosong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "go.song1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "timbunan pasir di muara sungai atau tepi laut; beting: banyak kapal di -- itu"
+        }
+      ]
+    },
+    {
+      "lema": "go.song2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hangus"
+        }
+      ]
+    }
+  ]
+}

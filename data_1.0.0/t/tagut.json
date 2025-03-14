@@ -1,0 +1,32 @@
+{
+  "istilah": "tagut",
+  "entri": "ta.gut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesembahan selain Allah; setan; dukun; berhala; penyihir",
+    "kataAsal": "ṭāgūt"
+  },
+  "data": [
+    {
+      "lema": "ta.gut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang menyuruh orang berbuat jahat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang disembah orang, tetapi bukan Tuhan; berhala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "apa saja yang disembah selain Allah Swt."
+        }
+      ]
+    }
+  ]
+}

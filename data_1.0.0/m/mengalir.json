@@ -1,0 +1,41 @@
+{
+  "istilah": "mengalir",
+  "entri": "alir1 » meng.a.lir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "alir1 » meng.a.lir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bergerak maju (tentang air, barang cair, udara, dan sebagainya): air sungai ~ ke laut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meleleh (tentang air mata, peluh, dan sebagainya): air matanya ~ membasahi pipinya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "berpindah tempat secara beramai-ramai: penduduk dari daerah yang tidak aman banyak ~ ke kota besar"
+        }
+      ]
+    },
+    {
+      "lema": "alir2 » meng.a.lir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menangkap buaya dengan tali alir"
+        }
+      ]
+    }
+  ]
+}

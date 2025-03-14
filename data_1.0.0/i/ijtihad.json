@@ -1,0 +1,30 @@
+{
+  "istilah": "ijtihad",
+  "entri": "ij.ti.had",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berijtihad"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "usaha sungguh-sungguh yang dilakukan para ahli agama untuk mencapai suatu putusan (simpulan) hukum syarak mengenai kasus yang penyelesaiannya belum tertera dalam Alquran dan Sunah",
+    "kataAsal": "ijtihād"
+  },
+  "data": [
+    {
+      "lema": "ij.ti.had",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "usaha sungguh-sungguh yang dilakukan para ahli agama untuk mencapai suatu putusan (simpulan) hukum syarak mengenai kasus yang penyelesaiannya belum tertera dalam Al-Qur'an dan Sunah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendapat; tafsiran: pada --nya [1] pada pendapatnya [2] pada hematnya"
+        }
+      ]
+    }
+  ]
+}

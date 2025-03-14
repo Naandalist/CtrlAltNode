@@ -1,0 +1,43 @@
+{
+  "istilah": "cirit",
+  "entri": "ci.rit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cirit-birit",
+    "mencirit",
+    "menciritkan",
+    "tercirit"
+  ],
+  "gabunganKata": [
+    "cirit bintang",
+    "cirit pedet",
+    "cirit putih"
+  ],
+  "peribahasa": [
+    "termakan (di) cirit berendang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ci.rit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotoran manusia (binatang); tahi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "endap-endap; ampas: -- kopi; -- madat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit berak-berak (buang-buang air)"
+        }
+      ]
+    }
+  ]
+}

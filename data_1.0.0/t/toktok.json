@@ -1,0 +1,33 @@
+{
+  "istilah": "toktok",
+  "entri": "tok.tok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tok.tok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batang kayu yang berongga (terdapat di surau dan sebagainya) yang dipukul untuk memanggil orang agar salat, berkumpul, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "tok.tok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "aduan sapi atau kambing jantan dengan saling menandukkan kepalanya"
+        }
+      ]
+    }
+  ]
+}

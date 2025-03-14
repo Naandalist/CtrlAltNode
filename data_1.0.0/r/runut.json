@@ -1,0 +1,34 @@
+{
+  "istilah": "runut",
+  "entri": "ru.nut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merunut",
+    "merunuti",
+    "perunut",
+    "runutan",
+    "terunut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.nut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jejak (bekas tapak kaki dan sebagainya): -- orang yang masuk ke halaman rumah masih jelas kelihatan; putus -- kehilangan jejak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alur di tanah (bekas roda pedati dan sebagainya): -- roda pedati dan sapi membekas di sepanjang jalan desa; mendapat -- mendapat keterangan tentang suatu perkara yang sedang diusut"
+        }
+      ]
+    }
+  ]
+}

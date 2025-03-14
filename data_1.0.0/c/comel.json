@@ -1,0 +1,44 @@
+{
+  "istilah": "comel",
+  "entri": "co.mel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "comelan",
+    "mencomel",
+    "mencomeli",
+    "pencomel",
+    "pencomelan",
+    "secomel"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.mel1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kecil manis (cantik); mungil; bagus: anak kecil yang --; -- betul kucing itu"
+        }
+      ]
+    },
+    {
+      "lema": "co.mel2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkataan yang dikeluarkan terus-menerus yang tidak jelas maksudnya (karena rasa marah, dongkol, tidak suka, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat suka mengomel (menggerutu)"
+        }
+      ]
+    }
+  ]
+}

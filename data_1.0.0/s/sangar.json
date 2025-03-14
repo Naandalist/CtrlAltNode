@@ -1,0 +1,45 @@
+{
+  "istilah": "sangar",
+  "entri": "sa.ngar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesangaran",
+    "tersangar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.ngar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "akan (dapat) mendatangkan bala atau bencana (tentang rumah, tanah, dan sebagainya); angker: tempat itu terkenal -- sehingga orang-orang tidak berani melewatinya"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ngar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "bau yang merangsang, seperti bau bawang"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ngar3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak subur (tentang tanah): sawahku --, harus diberi pupuk supaya subur"
+        }
+      ]
+    }
+  ]
+}

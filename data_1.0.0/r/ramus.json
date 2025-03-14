@@ -1,0 +1,36 @@
+{
+  "istilah": "ramus",
+  "entri": "ra.mus1 bentuk tidak baku: ramulus",
+  "bentukTidakBaku": "ramulus",
+  "kataTurunan": [
+    "beramus",
+    "meramus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.mus1 bentuk tidak baku: ramulus",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "beramus; meramus"
+        }
+      ]
+    },
+    {
+      "lema": "ra.mus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "struktur yang lebih kecil daripada sesuatu yang lebih besar atau cabang kecil dari pembuluh darah atau saraf"
+        }
+      ]
+    }
+  ]
+}

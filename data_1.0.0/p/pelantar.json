@@ -1,0 +1,50 @@
+{
+  "istilah": "pelantar",
+  "entri": "lantar1 » pe.lan.tar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lantar1 » pe.lan.tar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang melantarkan (menyampaikan dan sebagainya); perantara"
+        }
+      ]
+    },
+    {
+      "lema": "lantar2 » pe.lan.tar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangku atau balai-balai panjang tempat duduk-duduk (di pekarangan, lepau, dan sebagainya) dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lantai atau bagian rumah yang dibangun agak tinggi dan tidak diberi atap untuk tempat menjemur pakaian dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangga berpara-para untuk mengerjakan atau mengecat bangunan yang tinggi; aram-aram"
+        }
+      ]
+    },
+    {
+      "lema": "pe.lan.tar /pêlantar/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat lantar2"
+        }
+      ]
+    }
+  ]
+}

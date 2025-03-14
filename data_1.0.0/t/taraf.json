@@ -1,0 +1,42 @@
+{
+  "istilah": "taraf",
+  "entri": "ta.raf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertaraf",
+    "menarafkan",
+    "menyetarafkan",
+    "penarafan",
+    "setaraf"
+  ],
+  "gabunganKata": [
+    "taraf hidup",
+    "taraf kematangan",
+    "taraf prestasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sisi; ujung",
+    "kataAsal": "ṭaraf"
+  },
+  "data": [
+    {
+      "lema": "ta.raf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkat(an); derajat; mutu (dalam arti tinggi rendahnya, baik buruknya, dan sebagainya): bangsa yang telah tinggi -- peradabannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedudukan; martabat: negeri itu telah diberi -- berpemerintahan sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkatan masa; batas (sempadan) waktu; stadium: rencana kerja sama kedua negara itu masih dalam -- penjajakan"
+        }
+      ]
+    }
+  ]
+}

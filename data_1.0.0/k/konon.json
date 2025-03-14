@@ -1,0 +1,46 @@
+{
+  "istilah": "konon",
+  "entri": "ko.non",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memperkonon",
+    "mengononkan"
+  ],
+  "gabunganKata": [
+    "konon lagi",
+    "konon pula"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.non",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "agaknya (biasanya di belakang kata tanya); gerangan: apa -- yang tersimpan di hatinya"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kata orang; kabarnya; katanya: begitulah -- nasib orang yang tamak itu"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "barangkali; mungkin: -- ia sudah menjadi kaya"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Sas[Sastra: -]",
+          "deskripsi": "kabar: sekarang Patik dengar kabar yang sah, bukan -- dikarang"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Mk[Minangkabau: -] Sas[Sastra: -]",
+          "deskripsi": "istimewa pula; apalagi; jangan lagi: melihat darah saja ia pingsan, -- disuruh membunuh orang"
+        }
+      ]
+    }
+  ]
+}

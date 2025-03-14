@@ -1,0 +1,32 @@
+{
+  "istilah": "nukleolus",
+  "entri": "nuk.le.o.lus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nuk.le.o.lus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak inti"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "struktur biologi yang padat dan berbenang di dalam inti sel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "anak inti bintik tidak berwarna di dalam inti sel; anak inti"
+        }
+      ]
+    }
+  ]
+}

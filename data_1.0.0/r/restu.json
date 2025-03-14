@@ -1,0 +1,30 @@
+{
+  "istilah": "restu",
+  "entri": "res.tu /rêstu/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merestui"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "baiklah!, biarlah!, baik!",
+    "kataAsal": "astu"
+  },
+  "data": [
+    {
+      "lema": "res.tu /rêstu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berkat; doa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengaruh baik atau buruk; pesona"
+        }
+      ]
+    }
+  ]
+}

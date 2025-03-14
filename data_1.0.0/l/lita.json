@@ -1,0 +1,33 @@
+{
+  "istilah": "lita",
+  "entri": "li.ta1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.ta1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "ikat kepala terbuat dari kain merah berbentuk runcing, pada bagian depan dan pada bagian belakangnya terdapat kuncir"
+        }
+      ]
+    },
+    {
+      "lema": "li.ta2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sd[Sunda: -]",
+          "deskripsi": "bersambungnya kembali kulit yang terluka pertanda kesembuhan"
+        }
+      ]
+    }
+  ]
+}

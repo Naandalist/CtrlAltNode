@@ -1,0 +1,32 @@
+{
+  "istilah": "menyisipkan",
+  "entri": "sisip1 » me.nyi.sip.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sisip1 » me.nyi.sip.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasukkan ke sela; menyelipkan: ~ seorang anak dalam barisan; ~ keris di pinggang; adik ~ pensil dalam bukunya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memakai sesuatu untuk menyisip: bapak ~ genting di atap; tukang itu ~ ubin di lantai; ~ papan di dinding"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ling[Linguistik: -]",
+          "deskripsi": "membubuhkan sisipan pada suatu kata"
+        }
+      ]
+    }
+  ]
+}

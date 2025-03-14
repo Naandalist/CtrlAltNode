@@ -1,0 +1,53 @@
+{
+  "istilah": "pindah",
+  "entri": "pin.dah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpindah",
+    "berpindah-pindah",
+    "kepindahan",
+    "memindah",
+    "memindahi",
+    "memindahkan",
+    "pemindah",
+    "pemindahan",
+    "perpindahan",
+    "pindahan"
+  ],
+  "gabunganKata": [
+    "pindah babak",
+    "pindah bola",
+    "pindah darah",
+    "pindah langsung",
+    "pindah lapangan",
+    "pindah randah",
+    "pindah servis",
+    "pindah tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berubah, bertukar, berganti, beralih, berpindah, berubah menjadi sebaliknya",
+    "kataAsal": "piṇḍah"
+  },
+  "data": [
+    {
+      "lema": "pin.dah1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beralih atau bertukar tempat"
+        }
+      ]
+    },
+    {
+      "lema": "Pin.dah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Kabupaten Batanghari, Sarolangun, dan Merangin, Provinsi Jambi"
+        }
+      ]
+    }
+  ]
+}

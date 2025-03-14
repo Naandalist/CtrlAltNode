@@ -1,0 +1,42 @@
+{
+  "istilah": "kempis",
+  "entri": "kem.pis1 /kêmpis/bentuk tidak baku: kempas2, kempes",
+  "bentukTidakBaku": "kempas2, kempes",
+  "kataTurunan": [
+    "mengempis",
+    "mengempiskan",
+    "pengempis",
+    "pengempisan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kem.pis1 /kêmpis/bentuk tidak baku: kempas2, kempes",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi pipih (kendur dan sebagainya) karena hilang atau kurang isinya (tidak gembung lagi): pipinya sudah --, tidak bengkak lagi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi keluar atau habis anginnya (tentang ban): ban mobilnya -- karena tertusuk paku"
+        }
+      ]
+    },
+    {
+      "lema": "kem.pis2 /kêmpis/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "botol yang dibebat dengan anyaman rotan (untuk tempat air minum dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

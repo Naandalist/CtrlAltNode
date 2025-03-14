@@ -1,0 +1,28 @@
+{
+  "istilah": "peroksidase",
+  "entri": "pe.rok.si.da.se /peroksidasê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.rok.si.da.se /peroksidasê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "enzim yang mengatalisasi suatu oksidasi substrat dengan hidrogen peroksida sebagai akseptor elektron"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "enzim yang memacu reaksi oksidasi dalam tubuh makhluk hidup dengan jalan memindahkan atom hidrogen dari senyawa yang dioksidasi ke peroksida"
+        }
+      ]
+    }
+  ]
+}

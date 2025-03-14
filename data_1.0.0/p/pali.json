@@ -1,0 +1,42 @@
+{
+  "istilah": "pali",
+  "entri": "pa.li",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.li",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pemali"
+        }
+      ]
+    },
+    {
+      "lema": "pa.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekuatan yang dipercayai oleh suku Banggai, berasal dari roh plasenta atau ari-ari saudara atau anak mereka"
+        }
+      ]
+    },
+    {
+      "lema": "Pa.li",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa kuno yang merupakan salah satu bahasa liturgis agama Buddha"
+        }
+      ]
+    }
+  ]
+}

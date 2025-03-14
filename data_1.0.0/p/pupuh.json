@@ -1,0 +1,37 @@
+{
+  "istilah": "pupuh",
+  "entri": "pu.puh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpupuh",
+    "memperpupuhkan",
+    "memupuh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pukulan, tamparan; perkelahian pada umumnya, peperangan, pertempuran",
+    "kataAsal": "pupuh"
+  },
+  "data": [
+    {
+      "lema": "pu.puh1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memupuh"
+        }
+      ]
+    },
+    {
+      "lema": "pu.puh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lagu yang terikat oleh banyaknya suku kata dalam satu bait, jumlah larik, dan permainan lagu (bentuk lagu tradisional Sunda)"
+        }
+      ]
+    }
+  ]
+}

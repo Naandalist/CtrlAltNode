@@ -1,0 +1,45 @@
+{
+  "istilah": "kosen",
+  "entri": "ko.sen1",
+  "bentukTidakBaku": "kusen",
+  "kataTurunan": [
+    "kekosenan"
+  ],
+  "gabunganKata": [
+    "kosen gendong"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "luhur; tampan",
+    "kataAsal": "ko siōng"
+  },
+  "data": [
+    {
+      "lema": "ko.sen1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "gagah; berani"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kebal (terhadap senjata tajam dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "ampuh (tentang ilmu silat dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ko.sen2 bentuk tidak baku: kusen",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerangka jendela, pintu, dan sebagainya yang ditanamkan ke dinding tempat daun jendela atau pintu mengatup atau bergantung"
+        }
+      ]
+    }
+  ]
+}

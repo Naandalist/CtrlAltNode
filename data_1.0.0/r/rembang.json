@@ -1,0 +1,56 @@
+{
+  "istilah": "rembang",
+  "entri": "Rem.bang",
+  "bentukTidakBaku": "rambang3",
+  "kataTurunan": [
+    "berembang"
+  ],
+  "gabunganKata": [
+    "rembang mata",
+    "rembang petang",
+    "rembang tengah hari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Rem.bang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Jawa Tengah tempat Kartini dimakamkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu kota Kabupaten Rembang, Provinsi Jawa Tengah"
+        }
+      ]
+    },
+    {
+      "lema": "rem.bang1 /rêmbang/bentuk tidak baku: rambang3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "setinggi-tingginya (tentang matahari, bulan); titik di langit"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tepat benar (waktunya): segala takwin kitab dibuka, --lah saat dengan ketika"
+        }
+      ]
+    },
+    {
+      "lema": "rem.bang2 /rêmbang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "posisi atau tapak yang berada pada atau dekat daerah titik akhir atau puncak benda"
+        }
+      ]
+    }
+  ]
+}

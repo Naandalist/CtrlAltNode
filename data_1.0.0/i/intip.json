@@ -1,0 +1,37 @@
+{
+  "istilah": "intip",
+  "entri": "in.tip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "intipan",
+    "mengintip",
+    "pengintip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.tip1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lihat dengan cara sembunyi-sembunyi"
+        }
+      ]
+    },
+    {
+      "lema": "in.tip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian (nasi tanak dan sebagainya) yang keras dan gosong yang melekat pada dasar periuk; kerak (nasi dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "taat",
+  "entri": "ta.at",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketaatan",
+    "menaati",
+    "mentaati",
+    "tertaati"
+  ],
+  "gabunganKata": [
+    "taat agama",
+    "taat asas",
+    "taat sumpah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kepatuhan",
+    "kataAsal": "ṭā‘ah"
+  },
+  "data": [
+    {
+      "lema": "ta.at",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "senantiasa tunduk (kepada Tuhan, pemerintah, dan sebagainya); patuh: Nabi Muhammad saw. menyeru manusia supaya mengenal Allah dan -- kepada-Nya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berlaku curang; setia: ia adalah seorang istri yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "saleh; kuat beribadah: jadilah Anda seorang muslim yang --"
+        }
+      ]
+    }
+  ]
+}

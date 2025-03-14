@@ -1,0 +1,34 @@
+{
+  "istilah": "menongkat",
+  "entri": "tongkat » me.nong.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "condong yang akan menongkat, rebah yang akan menegakkan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tongkat » me.nong.kat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menopang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menganjung-anjung; mengangkat-angkat; memuji-muji"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "bentuk menyerupai tongkat, yaitu panjang, raping, dan lurus"
+        }
+      ]
+    }
+  ]
+}

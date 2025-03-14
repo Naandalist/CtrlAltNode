@@ -1,0 +1,55 @@
+{
+  "istilah": "lancar",
+  "entri": "lan.car1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelancaran",
+    "lancaran",
+    "melancar",
+    "melancarkan",
+    "memperlancar",
+    "pelancar",
+    "pemelancar",
+    "pelancar"
+  ],
+  "gabunganKata": [
+    "lancar kaji",
+    "lancar mulut"
+  ],
+  "peribahasa": [
+    "lancar kaji karena diulang, pasar jalan karena diturut; pasar jalan karena diturut, lancar kaji karena diulang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.car1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tersangkut-sangkut; tidak terputus-putus: roda itu berputar dengan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tersendat-sendat; fasih: anak sekecil ini sudah dapat membaca dengan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tertunda-tunda; (berlangsung) dengan baik: pelaksanaan pembangunan berjalan dengan --"
+        }
+      ]
+    },
+    {
+      "lema": "lan.car2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pelancar"
+        }
+      ]
+    }
+  ]
+}

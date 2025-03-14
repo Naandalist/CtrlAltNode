@@ -1,0 +1,45 @@
+{
+  "istilah": "tampin",
+  "entri": "tam.pin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertampin",
+    "menampin"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tam.pin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anyaman dari daun nipah atau rumbia untuk wadah (sagu, belacan, dan sebagainya): sagu -- sagu mentah; sirih se-- sirih sekapur"
+        }
+      ]
+    },
+    {
+      "lema": "tam.pin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "taruhan untuk mengimbangi (melawan) taruhan yang lain; lawan; imbangan"
+        }
+      ]
+    },
+    {
+      "lema": "tam.pin3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "gulungan sirih yang berisi kapur, gambir, dan pinang"
+        }
+      ]
+    }
+  ]
+}

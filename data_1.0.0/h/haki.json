@@ -1,0 +1,33 @@
+{
+  "istilah": "haki",
+  "entri": "HAKI1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "HAKI1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Himpunan Ahli Konstruksi Indonesia"
+        }
+      ]
+    },
+    {
+      "lema": "HAKI2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "hak atas kekayaan intelektual"
+        }
+      ]
+    }
+  ]
+}

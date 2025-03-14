@@ -1,0 +1,33 @@
+{
+  "istilah": "filo",
+  "entri": "fi.lo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fi.lo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "filodendron"
+        }
+      ]
+    },
+    {
+      "lema": "fi.lo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbg[Tata Boga: -]",
+          "deskripsi": "adonan yang sangat tipis, digunakan dalam lapisan untuk membuat kue manis atau gurih"
+        }
+      ]
+    }
+  ]
+}

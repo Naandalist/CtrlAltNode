@@ -1,0 +1,33 @@
+{
+  "istilah": "sereng",
+  "entri": "se.reng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.reng",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "berada tidak di tengah, tetapi di pinggir"
+        }
+      ]
+    },
+    {
+      "lema": "se.reng /sêreng/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "petasan yang dipasang pada ujung lidi panjang, ketika dinyalakan akan melesat ke atas seperti panah api"
+        }
+      ]
+    }
+  ]
+}

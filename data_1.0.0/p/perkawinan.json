@@ -1,0 +1,40 @@
+{
+  "istilah": "perkawinan",
+  "entri": "kawin1 » per.ka.win.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "perkawinan campuran",
+    "perkawinan jojor",
+    "perkawinan levirat",
+    "perkawinan sekerabat",
+    "perkawinan tungku"
+  ],
+  "peribahasa": [
+    "perkawinan tempat mati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kawin1 » per.ka.win.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal (urusan dan sebagainya) kawin; pernikahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertemuan hewan jantan dan betina secara seksual"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "sakramen perkawinan"
+        }
+      ]
+    }
+  ]
+}

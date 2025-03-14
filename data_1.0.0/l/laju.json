@@ -1,0 +1,77 @@
+{
+  "istilah": "laju",
+  "entri": "la.ju1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlaju-laju",
+    "bersilaju",
+    "kelajuan",
+    "melaju",
+    "melajukan",
+    "perlajuan",
+    "melaju",
+    "pelaju"
+  ],
+  "gabunganKata": [
+    "laju alir",
+    "laju angin",
+    "laju baud",
+    "laju bita",
+    "laju bocoran",
+    "laju disintegrasi",
+    "laju endapan",
+    "laju infiltrasi",
+    "laju inflasi",
+    "laju informasi",
+    "laju kematian spesifik",
+    "laju ketukan",
+    "laju metabolik",
+    "laju metabolik minimum",
+    "laju molekul",
+    "laju mula",
+    "laju pembakaran linier",
+    "laju penurunan adiabatik",
+    "laju penurunan adiabatik kering",
+    "laju penurunan suhu",
+    "laju penurunan suhu autokonvektif",
+    "laju penurunan super adiabatik",
+    "laju perkembangan",
+    "laju perkolasi",
+    "laju permeabilitas",
+    "laju pertambahan tenaga kerja",
+    "laju puncak langkisau",
+    "laju rambat",
+    "laju reaksi",
+    "laju transfer informasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.ju1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cepat (tentang gerak, lari, terbang, dan sebagainya): -- benar lari kuda pacuan itu; kapal udara lebih -- daripada kapal laut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecepatan (gerak): -- kendaraan itu 100 km/jam"
+        }
+      ]
+    },
+    {
+      "lema": "la.ju2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melaju; pelaju"
+        }
+      ]
+    }
+  ]
+}

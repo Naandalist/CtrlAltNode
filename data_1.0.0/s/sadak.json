@@ -1,0 +1,33 @@
+{
+  "istilah": "sadak",
+  "entri": "sa.dak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gulungan daun, gading",
+    "kataAsal": "sadak"
+  },
+  "data": [
+    {
+      "lema": "sa.dak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "miring; condong (tentang tiang dan sebagainya): pemancangan tiang listrik itu agak --"
+        }
+      ]
+    },
+    {
+      "lema": "sa.dak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "segulung sirih (yang akan dikunyah)"
+        }
+      ]
+    }
+  ]
+}

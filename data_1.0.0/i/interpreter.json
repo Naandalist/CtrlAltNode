@@ -1,0 +1,32 @@
+{
+  "istilah": "interpreter",
+  "entri": "in.ter.pre.ter /intêrpretêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.ter.pre.ter /intêrpretêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menginterpretasikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "sumber daya lunak pada komputer yang bertugas menerjemahkan bahasa komputer ke dalam bahasa mesin agar dapat dikerjakan oleh komputer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "program yang mengambil setiap baris program sumber secara berurutan dan menerjemahkannya ke bentuk lain, yaitu kode mesin pada saat dijalankan"
+        }
+      ]
+    }
+  ]
+}

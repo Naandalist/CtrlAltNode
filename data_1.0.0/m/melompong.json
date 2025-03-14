@@ -1,0 +1,41 @@
+{
+  "istilah": "melompong",
+  "entri": "lompong1 » me.lom.pong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lompong1 » me.lom.pong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi kosong"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dalam keadaan kosong"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbuka (tentang pintu, mulut)"
+        }
+      ]
+    },
+    {
+      "lema": "me.lom.pong /mêlompong/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kosong"
+        }
+      ]
+    }
+  ]
+}

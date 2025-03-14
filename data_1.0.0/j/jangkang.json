@@ -1,0 +1,67 @@
+{
+  "istilah": "jangkang",
+  "entri": "jang.kang2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjangkang",
+    "terjangkang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jang.kang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lebar antara dua belah kaki"
+        }
+      ]
+    },
+    {
+      "lema": "jang.kang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepuh〔Sterculia foetida〕"
+        }
+      ]
+    },
+    {
+      "lema": "jang.kang4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan] Mk[Minangkabau: -]",
+          "deskripsi": "mati; meninggal"
+        }
+      ]
+    },
+    {
+      "lema": "jang.kang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "kepiting pantai, bertubuh kecil, berkulit lunak, sering dimasak sebagai lauk"
+        }
+      ]
+    },
+    {
+      "lema": "Jang.kang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku Dayak Jongkang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang ditutukan oleh suku Dayak Jongkang"
+        }
+      ]
+    }
+  ]
+}

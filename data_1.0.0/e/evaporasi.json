@@ -1,0 +1,28 @@
+{
+  "istilah": "evaporasi",
+  "entri": "e.va.po.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.va.po.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses yang terjadi apabila jumlah molekul yang keluar dari permukaan lebih besar daripada jumlah yang kembali ke permukaan air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "proses perubahan molekul zat cair menjadi gas atau uap air; penguapan"
+        }
+      ]
+    }
+  ]
+}

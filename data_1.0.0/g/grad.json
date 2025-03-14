@@ -1,0 +1,28 @@
+{
+  "istilah": "grad",
+  "entri": "grad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "grad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "derajat (tentang sudut, suhu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "martabat (kebangsaan dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

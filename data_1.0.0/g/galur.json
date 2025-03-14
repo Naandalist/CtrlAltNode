@@ -1,0 +1,44 @@
+{
+  "istilah": "galur",
+  "entri": "ga.lur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergalur-galur",
+    "menggalur-galur",
+    "menggalurkan"
+  ],
+  "gabunganKata": [
+    "galur betina",
+    "galur jantan",
+    "galur murni"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.lur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lekuk memanjang; alur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis keturunan; susur galur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "ciri khas yang terdapat pada sekelompok ternak dalam satu bangsa yang ada pada ternak lain dalam bangsa yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "saluran sempit dari kayu untuk meluncurkan dan mengeluarkan properti pertunjukan ke dan dari atas panggung"
+        }
+      ]
+    }
+  ]
+}

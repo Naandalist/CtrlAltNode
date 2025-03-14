@@ -1,0 +1,54 @@
+{
+  "istilah": "wujud",
+  "entri": "wu.jud1 bentuk tidak baku: ujud1",
+  "bentukTidakBaku": "ujud1",
+  "kataTurunan": [
+    "berwujud",
+    "kewujudan",
+    "memperwujudkan",
+    "mewujud",
+    "mewujudkan",
+    "perwujudan",
+    "pewujudan",
+    "terwujud"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ada",
+    "kataAsal": "wujūd"
+  },
+  "data": [
+    {
+      "lema": "wu.jud1 bentuk tidak baku: ujud1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rupa dan bentuk yang dapat diraba"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adanya sesuatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang nyata (bukan roh dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ada, sifat yang wajib bagi Allah"
+        }
+      ]
+    },
+    {
+      "lema": "wu.jud2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maksud; tujuan"
+        }
+      ]
+    }
+  ]
+}

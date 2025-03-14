@@ -1,0 +1,53 @@
+{
+  "istilah": "jamak",
+  "entri": "ja.mak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kejamakan",
+    "menjamakkan",
+    "sejamaknya",
+    "menjamakkan",
+    "penjamakan",
+    "menjamak"
+  ],
+  "gabunganKata": [
+    "jamak qasar",
+    "jamak takdim",
+    "jamak takhir"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.mak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lazim; tidak aneh; lumrah; wajar: sudah -- bahwa setiap perjuangan meminta pengorbanan"
+        }
+      ]
+    },
+    {
+      "lema": "ja.mak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bentuk kata yang menyatakan lebih dari satu atau banyak: siswa-siswa atau para siswa adalah bentuk -- dari kata siswa"
+        }
+      ]
+    },
+    {
+      "lema": "ja.mak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "penggabungan (tentang salat wajib); antara salat Zuhur dan salat Asar atau salat Magrib dan salat Isya"
+        }
+      ]
+    }
+  ]
+}

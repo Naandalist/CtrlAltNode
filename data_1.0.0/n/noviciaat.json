@@ -1,0 +1,33 @@
+{
+  "istilah": "noviciaat",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "masa percobaan dari calon biarawan"
+        }
+      ]
+    },
+    {
+      "lema": "noviciaat",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "masa percobaan dari calon biarawan"
+        }
+      ]
+    }
+  ]
+}

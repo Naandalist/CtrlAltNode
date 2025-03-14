@@ -1,0 +1,44 @@
+{
+  "istilah": "strata",
+  "entri": "stra.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berstrata",
+    "menstratakan",
+    "penstrataan"
+  ],
+  "gabunganKata": [
+    "strata dua",
+    "strata satu",
+    "strata tiga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "stra.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapisan; stratum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkat masyarakat dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkat pendidikan setingkat di atas sarjana muda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hut[Kehutanan: -]",
+          "deskripsi": "bagian populasi yang mempunyai karakteristik unit contoh yang sama"
+        }
+      ]
+    }
+  ]
+}

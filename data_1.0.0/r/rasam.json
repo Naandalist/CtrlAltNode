@@ -1,0 +1,28 @@
+{
+  "istilah": "rasam",
+  "entri": "ra.sam bentuk tidak baku: rasan1",
+  "bentukTidakBaku": "rasan1",
+  "kataTurunan": [
+    "serasam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "rasam minyak ke minyak, rasam air ke air"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bekas",
+    "kataAsal": "rasm"
+  },
+  "data": [
+    {
+      "lema": "ra.sam bentuk tidak baku: rasan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kebiasaan; aturan; adat; sifat"
+        }
+      ]
+    }
+  ]
+}

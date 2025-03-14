@@ -1,0 +1,53 @@
+{
+  "istilah": "luak",
+  "entri": "lu.ak1",
+  "bentukTidakBaku": "luhak",
+  "kataTurunan": [
+    "meluaki"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sebangsa musang (Paradoxurus)",
+    "kataAsal": "luwak"
+  },
+  "data": [
+    {
+      "lema": "lu.ak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkurang; susut: uang sakunya masih utuh, belum -- sedikit pun"
+        }
+      ]
+    },
+    {
+      "lema": "lu.ak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "musang〔Paradoxurus hermaphroditus〕"
+        }
+      ]
+    },
+    {
+      "lema": "lu.ak3 bentuk tidak baku: luhak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "daerah; distrik; luhak: -- Agam"
+        }
+      ]
+    },
+    {
+      "lema": "lu.ak4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sumur (yang digali)"
+        }
+      ]
+    }
+  ]
+}

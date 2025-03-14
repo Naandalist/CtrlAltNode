@@ -1,0 +1,39 @@
+{
+  "istilah": "gedor",
+  "entri": "ge.dor1 /gêdor/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gedoran",
+    "menggedor",
+    "penggedor",
+    "penggedoran",
+    "tergedor"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.dor1 /gêdor/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ketuk keras-keras"
+        }
+      ]
+    },
+    {
+      "lema": "ge.dor2 /gêdor/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "suara bernada rendah dan sumbang"
+        }
+      ]
+    }
+  ]
+}

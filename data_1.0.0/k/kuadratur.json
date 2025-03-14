@@ -1,0 +1,28 @@
+{
+  "istilah": "kuadratur",
+  "entri": "ku.ad.ra.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.ad.ra.tur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "konstruksi bujur sangkar yang luasnya sama dengan permukaan yang telah ditentukan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "posisi relatif dua benda langit yang tegak lurus satu sama lain"
+        }
+      ]
+    }
+  ]
+}

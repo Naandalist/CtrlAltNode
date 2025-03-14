@@ -1,0 +1,37 @@
+{
+  "istilah": "dungkul",
+  "entri": "dung.kul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dung.kul1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bertanduk melengkung ke bawah (tentang kerbau dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak bertanduk (tentang kerbau dan sebagainya); dongkol"
+        }
+      ]
+    },
+    {
+      "lema": "dung.kul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis hantu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "sele",
+  "entri": "se.le1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.le1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] MAb[Melayu Ambon: Bahasa di Maluku]",
+          "deskripsi": "membelah buah kelapa menjadi empat bagian: tolong -- kelapa itu supaya mudah dipisahkan dari batoknya"
+        }
+      ]
+    },
+    {
+      "lema": "se.le2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ri[Melayu Riau: -]",
+          "deskripsi": "belum pernah dibuat atau dilakukan orang sebelumnya; orisinal: karena --, banyak pengunjung mendatangi acara itu"
+        }
+      ]
+    },
+    {
+      "lema": "se.le /sêle/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ selai"
+        }
+      ]
+    }
+  ]
+}

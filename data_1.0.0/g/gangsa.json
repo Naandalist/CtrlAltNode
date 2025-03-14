@@ -1,0 +1,35 @@
+{
+  "istilah": "gangsa",
+  "entri": "gang.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pegangsaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "logam, kuningan, cangkir, mangkuk, piala",
+    "kataAsal": "kaṃsa"
+  },
+  "data": [
+    {
+      "lema": "gang.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "logam perunggu (untuk membuat gamelan, genta, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "gang.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "angsa batu"
+        }
+      ]
+    }
+  ]
+}

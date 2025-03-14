@@ -1,0 +1,38 @@
+{
+  "istilah": "nyali",
+  "entri": "nya.li",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bernyali"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nya.li",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "empedu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "perasaan: tidak punya -- orang yang memukuli anak kecil itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "keberanian: pecah --nya hilang keberaniannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -] ki[kiasan]",
+          "deskripsi": "proliferasi lokal jaringan tumbuhan yang menghasilkan pembengkakan dengan bentuk khas dan amat berbeda dengan organ normal lain, biasa terbentuk sebagai respons terhadap serangan patogen"
+        }
+      ]
+    }
+  ]
+}

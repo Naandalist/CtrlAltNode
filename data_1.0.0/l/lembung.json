@@ -1,0 +1,37 @@
+{
+  "istilah": "lembung",
+  "entri": "lem.bung1 /lêmbung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melembung",
+    "melembungkan",
+    "pelembungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lem.bung1 /lêmbung/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melembung"
+        }
+      ]
+    },
+    {
+      "lema": "lem.bung2 /lêmbung/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lambung1"
+        }
+      ]
+    }
+  ]
+}

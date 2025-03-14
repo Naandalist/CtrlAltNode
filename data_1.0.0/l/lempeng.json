@@ -1,0 +1,68 @@
+{
+  "istilah": "lempeng",
+  "entri": "lem.peng bentuk tidak baku: lempang1",
+  "bentukTidakBaku": "lempang1lempang1lempang1",
+  "kataTurunan": [
+    "berlempeng",
+    "lempengan",
+    "melempengkan",
+    "pelempengan",
+    "melempengkan"
+  ],
+  "gabunganKata": [
+    "lempeng invertebral",
+    "lempeng tektonik",
+    "lempeng hati"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lem.peng bentuk tidak baku: lempang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "pipih seperti bata tipis (tentang tembakau): tembakau --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "nama penganan (terbuat dari tepung beras, tipis dan pipih bentuknya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "keping (besi, kaca, dan sebagainya) yang tipis"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "bagian kulit bumi (dengan ketebalan antara 50 dan 250 km) yang hampir tegar, tetapi masih dapat bergerak"
+        }
+      ]
+    },
+    {
+      "lema": "lem.peng /lêmpèng/bentuk tidak baku: lempang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian badan sisi kiri dan kanan antara ketiak dan pinggul"
+        }
+      ]
+    },
+    {
+      "lema": "lem.peng /lêmpêng/bentuk tidak baku: lempang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lurus betul (tidak bengkok): jalan ini --, tidak berbelok-belok"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bulat (tentang jumlah uang)"
+        }
+      ]
+    }
+  ]
+}

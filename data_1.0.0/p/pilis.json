@@ -1,0 +1,52 @@
+{
+  "istilah": "pilis",
+  "entri": "pi.lis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpilis",
+    "memilis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.lis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat tradisional (berwarna agak hitam) yang dipaliskan atau dilekatkan di dahi dan di pelipis (untuk pereda sakit kepala, wanita yang baru melahirkan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis silang di dahi untuk menangkal penyakit (berdasarkan kepercayaan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ragam hias pada topeng Cirebon yang berupa sulur di sisi kanan dan kiri wajah hingga ke rahang"
+        }
+      ]
+    },
+    {
+      "lema": "pi.lis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "lis yang dipasang untuk menutup balok pada sekeliling atap rumah tradisional Banjar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "bagian berukir yang ada pada bumbungan atap rumah betang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "papan yang dipaku pada ujung kasau di bawah ujung atap"
+        }
+      ]
+    }
+  ]
+}

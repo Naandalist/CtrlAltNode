@@ -1,0 +1,45 @@
+{
+  "istilah": "titir",
+  "entri": "ti.tir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menitir",
+    "titiran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tanda bahaya dengan pukulan kentongan",
+    "kataAsal": "titir"
+  },
+  "data": [
+    {
+      "lema": "ti.tir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi lesung (beduk, canang, kentungan, dan sebagainya) yang dipukul dengan gencar sebagai tanda bahaya dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ti.tir2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "titiran"
+        }
+      ]
+    },
+    {
+      "lema": "ti.tir3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ ketitir"
+        }
+      ]
+    }
+  ]
+}

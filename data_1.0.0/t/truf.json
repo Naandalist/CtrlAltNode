@@ -1,0 +1,32 @@
+{
+  "istilah": "truf",
+  "entri": "truf bentuk tidak baku: terup1",
+  "bentukTidakBaku": "terup1",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "truf bentuk tidak baku: terup1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan kartu yang menggunakan kartu Eropa (bridge)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis kartu yang dimenangkan atas ketiga jenis kartu lainnya dalam permainan (bridge); kartu truf"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "bukti (alat dan sebagainya) yang andal yang pada saat terakhir akan mengalahkan lawan"
+        }
+      ]
+    }
+  ]
+}

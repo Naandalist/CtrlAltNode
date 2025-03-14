@@ -1,0 +1,36 @@
+{
+  "istilah": "pupu",
+  "entri": "pu.pu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersepupu",
+    "sepupu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.pu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nenek moyang"
+        }
+      ]
+    },
+    {
+      "lema": "pu.pu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Abr[Abrap: bahasa di provinsi Papua]",
+          "deskripsi": "peralihan dari alam tak sadar ke alam sadar"
+        }
+      ]
+    }
+  ]
+}

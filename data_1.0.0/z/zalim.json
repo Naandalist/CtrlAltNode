@@ -1,0 +1,33 @@
+{
+  "istilah": "zalim",
+  "entri": "za.lim bentuk tidak baku: dolim, lalim, dhalim, zolim, dzalim",
+  "bentukTidakBaku": "dolim, lalim, dhalim, zolim, dzalim",
+  "kataTurunan": [
+    "kezaliman",
+    "menzalimi",
+    "menzalimkan",
+    "terzalimi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang melakukan perbuatan aniaya terhadap orang lain atau dirinya sendiri",
+    "kataAsal": "ẓālim"
+  },
+  "data": [
+    {
+      "lema": "za.lim bentuk tidak baku: dolim, lalim, dhalim, zolim, dzalim",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bengis; tidak menaruh belas kasihan; tidak adil; kejam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "orang yang melakukan perbuatan aniaya yang merugikan dirinya sendiri dan/atau orang lain"
+        }
+      ]
+    }
+  ]
+}

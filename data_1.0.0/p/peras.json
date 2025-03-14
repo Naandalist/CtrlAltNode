@@ -1,0 +1,52 @@
+{
+  "istilah": "peras",
+  "entri": "pe.ras1 /pêras/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memeras",
+    "pemeras",
+    "pemerasan",
+    "perasan",
+    "terperas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ras1 /pêras/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memeras"
+        }
+      ]
+    },
+    {
+      "lema": "pe.ras2 /pêras/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "licin"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rata; paras"
+        }
+      ]
+    },
+    {
+      "lema": "pe.ras3 /pêras/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesajian dari pertunjukan tari seblang, berupa anyaman daun kelapa atau bambu, berisi kelapa yang dikupas sampai batoknya, dihiasi dengan benang lawe dan gula jawa"
+        }
+      ]
+    }
+  ]
+}

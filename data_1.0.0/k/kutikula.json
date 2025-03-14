@@ -1,0 +1,32 @@
+{
+  "istilah": "kutikula",
+  "entri": "ku.ti.ku.la",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.ti.ku.la",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "lapisan paling luar tubuh atau kulit permukaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "bagian tumbuhan yang merupakan lapisan yang jernih, sangat tipis, dan biasanya lapisan itu berupa lilin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "lapisan pada permukaan kulit yang terdiri atas bagian sel yang telah mati"
+        }
+      ]
+    }
+  ]
+}

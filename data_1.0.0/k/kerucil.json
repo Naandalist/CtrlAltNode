@@ -1,0 +1,33 @@
+{
+  "istilah": "kerucil",
+  "entri": "ke.ru.cil1 /kêrucil/bentuk tidak baku: krucil",
+  "bentukTidakBaku": "krucil",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ru.cil1 /kêrucil/bentuk tidak baku: krucil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "anak kecil"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ru.cil2 /kêrucil/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wayang yang dibuat dari kayu pipih, biasanya untuk melakonkan cerita Panji, terdapat di Jawa Timur; wayang kelitik"
+        }
+      ]
+    }
+  ]
+}

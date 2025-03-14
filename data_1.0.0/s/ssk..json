@@ -1,0 +1,28 @@
+{
+  "istilah": "ssk.",
+  "entri": "ssk.",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ssk.",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "satuan saham kolektif"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -] sing[singkatan]",
+          "deskripsi": "satuan setingkat kompi"
+        }
+      ]
+    }
+  ]
+}

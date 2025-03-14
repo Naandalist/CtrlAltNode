@@ -1,0 +1,41 @@
+{
+  "istilah": "terapan",
+  "entri": "terap2 » te.rap.an bentuk tidak baku: teterapan",
+  "bentukTidakBaku": "teterapanteterapan",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "terap2 » te.rap.an bentuk tidak baku: teterapan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keris yang bilahnya berlekuk panjang di tengahnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "salut pada sarung keris; penduk"
+        }
+      ]
+    },
+    {
+      "lema": "terap3 » te.rap.an bentuk tidak baku: teterapan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil menerapkan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan penerapan atau diwujudkan dalam praktik; aplikatif: ilmu ~"
+        }
+      ]
+    }
+  ]
+}

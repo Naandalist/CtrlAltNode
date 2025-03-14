@@ -1,0 +1,28 @@
+{
+  "istilah": "sistematika",
+  "entri": "sis.te.ma.ti.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sis.te.ma.ti.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan mengenai klasifikasi (penggolongan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "ilmu mengenai taksonomi tumbuhan atau hewan dengan memerhatikan kekerabatan dan evolusinya secara eksperimental"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "bilyet",
+  "entri": "bil.yet",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bil.yet",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kartu; karcis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kertas berharga seperti yang dikeluarkan oleh bank"
+        }
+      ]
+    }
+  ]
+}

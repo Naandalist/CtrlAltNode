@@ -1,0 +1,39 @@
+{
+  "istilah": "lampas",
+  "entri": "lam.pas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melampas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lam.pas1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "halus: -- suaranya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mudah tersinggung; lekas marah: orang itu terlalu --"
+        }
+      ]
+    },
+    {
+      "lema": "lam.pas2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suka mengatakan sesuatu tanpa berpikir panjang; lepas mulut: belum pernah selama ini aku berjumpa dengan perempuan begitu -- dan kasar"
+        }
+      ]
+    }
+  ]
+}

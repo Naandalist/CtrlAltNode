@@ -1,0 +1,24 @@
+{
+  "istilah": "instruksi mesin",
+  "entri": "instruksi » instruksi mesin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "instruksi » instruksi mesin",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "instruksi berupa pernyataan tindakan dalam kode mesin yang bisa langsung dieksekusi oleh prosesor atau mikroprosesor"
+        }
+      ]
+    }
+  ]
+}

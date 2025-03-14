@@ -1,0 +1,54 @@
+{
+  "istilah": "katak",
+  "entri": "ka.tak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkatak-katak"
+  ],
+  "gabunganKata": [
+    "katak betung",
+    "katak hijau",
+    "katak kembung",
+    "katak kuak",
+    "katak pohon",
+    "katak puru",
+    "katak terbang"
+  ],
+  "peribahasa": [
+    "katak hendak jadi lembu; mati dicatuk katak; mati dicatuk katak; seperti katak di bawah tempurung; seperti katak di bawah tempurung; seperti katak ditimpa kemarau"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "katak",
+    "kataAsal": "kaṭak"
+  },
+  "data": [
+    {
+      "lema": "ka.tak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang amfibi pemakan serangga yang hidup di air tawar atau di daratan, berkulit licin, berwarna hijau atau merah kecokelat-cokelatan, kaki belakang lebih panjang daripada kaki depan, pandai melompat dan berenang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.tak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lipit-lipit pada leher dan sebagainya; gelambir: ayam kalkun mempunyai keistimewaan, yaitu mempunyai -- pada lehernya"
+        }
+      ]
+    },
+    {
+      "lema": "ka.tak3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pendek: baju -- jas berlengan pendek"
+        }
+      ]
+    }
+  ]
+}

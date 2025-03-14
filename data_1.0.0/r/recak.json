@@ -1,0 +1,44 @@
+{
+  "istilah": "recak",
+  "entri": "re.cak1 /rêcak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merecak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.cak1 /rêcak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burik yang tidak dalam; bopeng; bercak"
+        }
+      ]
+    },
+    {
+      "lema": "re.cak2 /rêcak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "beras recak"
+        }
+      ]
+    },
+    {
+      "lema": "re.cak3 /rêcak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "naik, tunggang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "dambin",
+  "entri": "dam.bin bentuk tidak baku: dambun",
+  "bentukTidakBaku": "dambun",
+  "kataTurunan": [
+    "berdambin"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dam.bin bentuk tidak baku: dambun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tiruan bunyi benda berat jatuh; debuk; degum: malam tadi terdengar -- di sebelah rumah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "terlalu gemuk (besar) sehingga serba lamban: lakunya seperti seekor kerbau yang --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "kang",
+  "entri": "kang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Mandarin",
+    "arti": "tempat air besar (untuk mandi)",
+    "kataAsal": "gāng"
+  },
+  "data": [
+    {
+      "lema": "kang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "kakang; akang; kakak (laki-laki)"
+        }
+      ]
+    },
+    {
+      "lema": "kang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekang"
+        }
+      ]
+    },
+    {
+      "lema": "kang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat air yang besar (untuk mandi)"
+        }
+      ]
+    }
+  ]
+}

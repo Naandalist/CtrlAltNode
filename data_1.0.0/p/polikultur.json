@@ -1,0 +1,28 @@
+{
+  "istilah": "polikultur",
+  "entri": "po.li.kul.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.li.kul.tur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "sistem penanaman pada sebidang tanah dengan berbagai jenis tanaman (padi, palawija, tebu, dan sebagainya) berdasarkan pola urutan musim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ikn[Perikanan: -]",
+          "deskripsi": "pemeliharaan dua atau lebih spesies ikan yang tidak bersaing dalam satu wadah pemeliharaan"
+        }
+      ]
+    }
+  ]
+}

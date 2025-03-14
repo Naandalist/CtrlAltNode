@@ -1,0 +1,41 @@
+{
+  "istilah": "beton",
+  "entri": "be.ton1 /bêton/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membeton",
+    "pembetonan"
+  ],
+  "gabunganKata": [
+    "beton aspal",
+    "beton bertulang",
+    "beton busa",
+    "beton pratekan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ton1 /bêton/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "campuran semen, kerikil, dan pasir yang diaduk dengan air untuk tiang rumah, pilar, dinding, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "be.ton2 /bêton/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "biji buah nangka"
+        }
+      ]
+    }
+  ]
+}

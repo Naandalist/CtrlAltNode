@@ -1,0 +1,42 @@
+{
+  "istilah": "suasana",
+  "entri": "su.a.sa.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersuasana",
+    "bersuasana",
+    "menyuasanai"
+  ],
+  "gabunganKata": [
+    "suasana teror"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "napas, udara, angin, keluh",
+    "kataAsal": "śvasana"
+  },
+  "data": [
+    {
+      "lema": "su.a.sa.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hawa; udara: -- meliputi bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan sekitar sesuatu atau dalam lingkungan sesuatu: -- pedusunan berlainan dengan -- perkotaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan suatu peristiwa: politik luar negeri disesuaikan dengan -- internasional masa kini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "salah satu unsur tekstur pertunjukan teater yang berkaitan dengan penggabungan unsur spektakel, dialog, dan irama permainan"
+        }
+      ]
+    }
+  ]
+}

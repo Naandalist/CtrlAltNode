@@ -1,0 +1,41 @@
+{
+  "istilah": "pabbajja samanera",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan]",
+          "deskripsi": "satuan pendidikan keagamaan Buddha pada jalur pendidikan nonformal"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Bud[Agama Buddha: -]",
+          "deskripsi": "latihan mengendalikan diri agar menjadi bajik, bijak, tenang, dan sadar dengan melaksanakan dasasila"
+        }
+      ]
+    },
+    {
+      "lema": "pabbajja samanera",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan]",
+          "deskripsi": "satuan pendidikan keagamaan Buddha pada jalur pendidikan nonformal"
+        },
+        {
+          "kelas_kata": "[Ungkapan] [Agama Buddha: -]",
+          "deskripsi": "latihan mengendalikan diri agar menjadi bajik, bijak, tenang, dan sadar dengan melaksanakan dasasila"
+        }
+      ]
+    }
+  ]
+}

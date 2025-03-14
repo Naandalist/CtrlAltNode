@@ -1,0 +1,33 @@
+{
+  "istilah": "tugu",
+  "entri": "tu.gu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menugu (2)"
+  ],
+  "gabunganKata": [
+    "tugu pahlawan",
+    "tugu peringatan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tonggak, tiang, saka guru, tugu",
+    "kataAsal": "tugu"
+  },
+  "data": [
+    {
+      "lema": "tu.gu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiang besar dan tinggi yang dibuat dari batu, bata, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "bagian pada bunga anggrek-anggrekan suku Orchidaceae yang merupakan penyatuan benang sari, tangkai putik, dan kepala putik"
+        }
+      ]
+    }
+  ]
+}

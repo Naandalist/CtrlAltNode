@@ -1,0 +1,38 @@
+{
+  "istilah": "sebab",
+  "entri": "se.bab /sêbab/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersebab",
+    "menyebabkan",
+    "penyebab",
+    "penyebaban",
+    "tersebab"
+  ],
+  "gabunganKata": [
+    "sebab musabab"
+  ],
+  "peribahasa": [
+    "pecah menanti sebab, retak menanti belah; sebab buah dikenal pohonnya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perantara",
+    "kataAsal": "sabab"
+  },
+  "data": [
+    {
+      "lema": "se.bab /sêbab/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal yang menjadikan timbulnya sesuatu; lantaran; karena; (asal) mula: segala akibat ada --nya; apa -- (-- apa) [1] mengapa [2] apa lantarannya [3] apa mulanya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "oleh karena; terjadi karena; sebagai akibat: ia sakit perut -- makan gado-gado yang sangat pedas"
+        }
+      ]
+    }
+  ]
+}

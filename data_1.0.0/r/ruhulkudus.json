@@ -1,0 +1,28 @@
+{
+  "istilah": "ruhulkudus",
+  "entri": "Ru.hul.ku.dus bentuk tidak baku: Rohulkudus",
+  "bentukTidakBaku": "Rohulkudus",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Malaikat Jibril",
+    "kataAsal": "rūḥulquds"
+  },
+  "data": [
+    {
+      "lema": "Ru.hul.ku.dus bentuk tidak baku: Rohulkudus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "Jibril"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "Roh Kudus"
+        }
+      ]
+    }
+  ]
+}

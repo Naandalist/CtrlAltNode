@@ -1,0 +1,32 @@
+{
+  "istilah": "eksekutif",
+  "entri": "ek.se.ku.tif /eksêkutif/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ek.se.ku.tif /eksêkutif/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkenaan dengan pengurusan (pengelolaan, pemerintahan) atau penyelenggaraan sesuatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "kekuasaan menjalankan undang-undang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "pejabat tingkat tinggi yang bertanggung jawab kepada direktur utama atau pemimpin tertinggi dalam perusahaan atau organisasi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "umbu",
+  "entri": "um.bu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "um.bu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "leluhur; nenek moyang"
+        }
+      ]
+    },
+    {
+      "lema": "um.bu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar bangsawan Sumba"
+        }
+      ]
+    },
+    {
+      "lema": "um.bu3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permukiman sementara suku Abung, tersebar di sekitar ladang"
+        }
+      ]
+    }
+  ]
+}

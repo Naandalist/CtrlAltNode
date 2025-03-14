@@ -1,0 +1,33 @@
+{
+  "istilah": "jubah",
+  "entri": "ju.bah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjubah"
+  ],
+  "gabunganKata": [
+    "jubah lonceng",
+    "jubah mandi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "baju panjang lelaki, berlengan panjang, dipakai sebagai pakaian luar",
+    "kataAsal": "jubbah"
+  },
+  "data": [
+    {
+      "lema": "ju.bah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baju panjang (sampai di bawah lutut), berlengan panjang, seperti yang dipakai oleh orang Arab, padri, atau hakim: perutusan dari Saudi Arabia itu semuanya mengenakan -- putih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "baju panjang yang dikenakan sehari-hari oleh rohaniwan, terbuat dari linen atau katun, biasanya berwarna putih, hitam, atau cokelat, sebagai simbol kemurnian"
+        }
+      ]
+    }
+  ]
+}

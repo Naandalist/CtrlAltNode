@@ -1,0 +1,32 @@
+{
+  "istilah": "retikulum",
+  "entri": "re.ti.ku.lum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.ti.ku.lum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "jala halus pada protoplasma sel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "perut kedua pada binatang pemamah biak; perut jala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "garis atau jala halus yang terdapat pada alat optik (misalnya mikroskop, teleskop)"
+        }
+      ]
+    }
+  ]
+}

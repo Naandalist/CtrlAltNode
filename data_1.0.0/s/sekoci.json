@@ -1,0 +1,38 @@
+{
+  "istilah": "sekoci",
+  "entri": "se.ko.ci1 /sêkoci/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sekoci penolong",
+    "sekoci penolong dayung",
+    "sekoci penolong mekanis",
+    "sekoci penolong motor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.ko.ci1 /sêkoci/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu kecil atau kapal api kecil"
+        }
+      ]
+    },
+    {
+      "lema": "se.ko.ci2 /sêkoci/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat kecil pada mesin jahit berbentuk perahu tempat menaruh kumparan benang yang di bawah jarum"
+        }
+      ]
+    }
+  ]
+}

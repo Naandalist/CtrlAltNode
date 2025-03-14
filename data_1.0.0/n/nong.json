@@ -1,0 +1,28 @@
+{
+  "istilah": "nong",
+  "entri": "nong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nong",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] Jw[Jawa: -]",
+          "deskripsi": "panggilan sayang (orang tua kepada anak, suami kepada istri atau sebaliknya)"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] Klm[Melayu Kalimantan: -]",
+          "deskripsi": "panggilan untuk gadis kecil"
+        }
+      ]
+    }
+  ]
+}

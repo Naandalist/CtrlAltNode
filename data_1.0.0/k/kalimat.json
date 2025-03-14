@@ -1,0 +1,59 @@
+{
+  "istilah": "kalimat",
+  "entri": "ka.li.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengalimatkan",
+    "pengalimatan"
+  ],
+  "gabunganKata": [
+    "kalimat aktif",
+    "kalimat bebas",
+    "kalimat berita",
+    "kalimat bersusun",
+    "kalimat dasar",
+    "kalimat deklaratif",
+    "kalimat dwitransitif",
+    "kalimat eliptis",
+    "kalimat inversi",
+    "kalimat kompleks",
+    "kalimat kunci",
+    "kalimat lengkap",
+    "kalimat majemuk",
+    "kalimat majemuk bertingkat",
+    "kalimat majemuk setara",
+    "kalimat menyimpang",
+    "kalimat minor",
+    "kalimat pasif",
+    "kalimat perintah",
+    "kalimat simpleks",
+    "kalimat tanya",
+    "kalimat terbelah",
+    "kalimat tunggal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kata",
+    "kataAsal": "kalimāt"
+  },
+  "data": [
+    {
+      "lema": "ka.li.mat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesatuan ujar yang mengungkapkan suatu konsep pikiran dan perasaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkataan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan bahasa yang secara relatif berdiri sendiri, mempunyai pola intonasi final dan secara aktual ataupun potensial terdiri atas klausa"
+        }
+      ]
+    }
+  ]
+}

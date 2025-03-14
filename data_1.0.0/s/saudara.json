@@ -1,0 +1,69 @@
+{
+  "istilah": "saudara",
+  "entri": "sau.da.ra bentuk tidak baku: sudara",
+  "bentukTidakBaku": "sudara",
+  "kataTurunan": [
+    "bersaudara",
+    "mempersaudarakan",
+    "persaudaraan"
+  ],
+  "gabunganKata": [
+    "saudara anjing",
+    "saudara bau embacang",
+    "saudara belahan",
+    "saudara daging",
+    "saudara dekat",
+    "saudara dua sepupu",
+    "saudara jarang",
+    "saudara jauh",
+    "saudara kandung",
+    "saudara misan",
+    "saudara rapat",
+    "saudara renggang",
+    "saudara sejalan sejadi",
+    "saudara sekandung",
+    "saudara seperjuangan",
+    "saudara sepermainan",
+    "saudara sepupu",
+    "saudara susuan",
+    "saudara tiri",
+    "saudara tua"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "lahir dari rahim yang sama, mirip",
+    "kataAsal": "sahodara"
+  },
+  "data": [
+    {
+      "lema": "sau.da.ra bentuk tidak baku: sudara",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang seibu seayah (atau hanya seibu atau seayah saja); adik atau kakak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang bertalian keluarga; sanak: ia mempunyai banyak -- di sini, baik dari ibu maupun dari ayahnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang segolongan (sepaham, seagama, sederajat, dan sebagainya); kawan; teman: dalam mengerjakan tugas ini, kita akan dibantu oleh -- kita di kampung ini"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "sapaan kepada orang yang diajak berbicara (pengganti orang kedua): coba -- pikirkan masak-masak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "segala sesuatu yang hampir serupa (sejenis dan sebagainya): serigala merupakan -- anjing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tembuni: --nya baru keluar, padahal bayinya telah lama lahir"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "da",
+  "entri": "da1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kata sapaan adik kepada kakak laki-laki; abang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -] kp[kependekan]",
+          "deskripsi": "uda"
+        }
+      ]
+    },
+    {
+      "lema": "da3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "nada pertama pada urutan tangga nada pentatonik, dilambangkan dengan angka 1"
+        }
+      ]
+    },
+    {
+      "lema": "-da2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat -anda2"
+        }
+      ]
+    },
+    {
+      "lema": "-anda2 varian: -nda, -da",
+      "arti": [
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "menyatakan hormat atau kekeluargaan: ayahanda; ibunda; pamanda"
+        }
+      ]
+    }
+  ]
+}

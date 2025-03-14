@@ -1,0 +1,40 @@
+{
+  "istilah": "jantan",
+  "entri": "jan.tan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjantan",
+    "kejantanan",
+    "menjantani",
+    "pejantan",
+    "perjantanan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kerak nasi membusut jantan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jan.tan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang berjenis kelamin laki-laki (hanya untuk binatang dan tumbuh-tumbuhan seperti ayam --, sapi --, kuda --, bunga --, pepaya --; di beberapa daerah dipakai juga untuk manusia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "gagah dan berani: siapa yang -- turunlah!"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "(tentang benda) dianggap berjenis laki-laki (yaitu: besar, lancip, panjang, dan sebagainya): busut --, embun --, kasau --, paket --"
+        }
+      ]
+    }
+  ]
+}

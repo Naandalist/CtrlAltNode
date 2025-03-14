@@ -1,0 +1,24 @@
+{
+  "istilah": "kapasitas kanal",
+  "entri": "kapasitas » kapasitas kanal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kapasitas » kapasitas kanal",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "kecepatan saluran komunikasi dalam mentransfer informasi yang diukur dalam bit per detik (bps) atau baud"
+        }
+      ]
+    }
+  ]
+}

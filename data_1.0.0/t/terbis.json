@@ -1,0 +1,32 @@
+{
+  "istilah": "terbis",
+  "entri": "ter.bis /têrbis/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "padang berbatu dengan lubang-lubang dan celah-celah; sulit dilalui",
+    "kataAsal": "těrbis"
+  },
+  "data": [
+    {
+      "lema": "ter.bis /têrbis/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "longsor (tentang lereng gunung, tepi jurang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lereng"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tambak di lereng parit"
+        }
+      ]
+    }
+  ]
+}

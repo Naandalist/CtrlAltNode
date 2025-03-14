@@ -1,0 +1,43 @@
+{
+  "istilah": "praktik",
+  "entri": "prak.tik bentuk tidak baku: praktek",
+  "bentukTidakBaku": "praktek",
+  "kataTurunan": [
+    "berpraktik",
+    "mempraktikkan"
+  ],
+  "gabunganKata": [
+    "praktik baik",
+    "praktik kandang",
+    "praktik kerja lapangan",
+    "praktik mafia hukum",
+    "praktik mafia pajak",
+    "praktik monopoli",
+    "praktik sapi perah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "prak.tik bentuk tidak baku: praktek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelaksanaan secara nyata apa yang disebut dalam teori: teorinya mudah, tetapi --nya sukar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelaksanaan pekerjaan (tentang dokter, pengacara, dan sebagainya): -- dokter dibuka mulai pukul 15.00"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan menerapkan teori (keyakinan dan sebagainya); pelaksanaan: aturan itu menemui kesukaran dalam --nya"
+        }
+      ]
+    }
+  ]
+}

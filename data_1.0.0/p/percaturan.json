@@ -1,0 +1,37 @@
+{
+  "istilah": "percaturan",
+  "entri": "catur1 » per.ca.tur.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "catur1 » per.ca.tur.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal permainan catur"
+        }
+      ]
+    },
+    {
+      "lema": "catur2 » per.ca.tur.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbincangan; pembicaraan; perdebatan: ia berlagak bodoh atas semua ~ ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "siasat politik; perjuangan politik: ~ internasional; ~ uang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "istilah": "sangka",
+  "entri": "sang.ka1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersangka",
+    "mentersangkakan",
+    "menyangka",
+    "menyangka-nyangka",
+    "menyangkakan",
+    "penersangkaan",
+    "persangkaan",
+    "sangkaan",
+    "tersangka"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "perkiraan, anggapan, ketidakpastian, keraguan, perselisihan",
+    "kataAsal": "śaṅkā"
+  },
+  "data": [
+    {
+      "lema": "sang.ka1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "duga; kira: saya -- kamu tidak akan datang hari ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keraguan; kesangsian; syak: setelah melihat keadaan kehidupannya, timbul rasa --ku terhadapnya"
+        }
+      ]
+    },
+    {
+      "lema": "sang.ka2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit kerang besar (untuk trompet dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sangkakala"
+        }
+      ]
+    }
+  ]
+}

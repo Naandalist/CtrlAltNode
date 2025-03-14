@@ -1,0 +1,51 @@
+{
+  "istilah": "orde",
+  "entri": "or.de1 /ordê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "Orde Baru",
+    "orde Lama",
+    "orde matriks",
+    "orde Reformasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "or.de1 /ordê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bintang jasa; tanda penghargaan (karena berjasa dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "or.de2 /ordê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jemaat atau kumpulan orang yang sepaham; ordo"
+        }
+      ]
+    },
+    {
+      "lema": "or.de3 /ordê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem (pemerintahan dan sebagainya); peraturan (pemerintahan dan sebagainya); susunan; angkutan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "susunan dan urutan unsur-unsur matematika"
+        }
+      ]
+    }
+  ]
+}

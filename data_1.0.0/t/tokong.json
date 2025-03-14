@@ -1,0 +1,63 @@
+{
+  "istilah": "tokong",
+  "entri": "to.kong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menokong"
+  ],
+  "gabunganKata": [
+    "tokong pulau"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "nama dewa",
+    "kataAsal": "tōa peh kong"
+  },
+  "data": [
+    {
+      "lema": "to.kong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berekor (tentang ayam dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sas[Sastra: -]",
+          "deskripsi": "terpotong rambutnya (tentang perempuan sebagai hukuman)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Sas[Sastra: -]",
+          "deskripsi": "berambut pendek (tentang perempuan)"
+        }
+      ]
+    },
+    {
+      "lema": "to.kong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pulau kecil yang terjadi dari karang (tidak ada pohonnya)"
+        }
+      ]
+    },
+    {
+      "lema": "to.kong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelenteng; toapekong"
+        }
+      ]
+    },
+    {
+      "lema": "to.kong4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jendul; tonjol"
+        }
+      ]
+    }
+  ]
+}

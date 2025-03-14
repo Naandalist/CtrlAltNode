@@ -1,0 +1,28 @@
+{
+  "istilah": "genom",
+  "entri": "ge.nom",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.nom",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "satu gugus kromosom yang selaras dengan segugus sel dari suatu jenis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "perangkat kromosom yang terdapat dalam setiap inti sel satu jenis tumbuhan atau hewan tertentu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "kriptografi",
+  "entri": "krip.to.gra.fi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "krip.to.gra.fi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "penyelidikan tentang kode rahasia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teknik yang mengubah data menjadi berbeda dari aslinya dengan menggunakan algoritme matematika sehingga orang yang tidak mengetahui kuncinya tidak akan dapat membongkar data tersebut"
+        }
+      ]
+    }
+  ]
+}

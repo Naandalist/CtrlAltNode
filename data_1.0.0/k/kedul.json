@@ -1,0 +1,33 @@
+{
+  "istilah": "kedul",
+  "entri": "ke.dul1 /kêdul/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.dul1 /kêdul/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bola dari kayu (gading atau tanduk)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.dul2 /kêdul/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sd[Sunda: -]",
+          "deskripsi": "malas: semula saya menganggap memancing adalah untuk orang-orang --"
+        }
+      ]
+    }
+  ]
+}

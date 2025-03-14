@@ -1,0 +1,73 @@
+{
+  "istilah": "hasil",
+  "entri": "ha.sil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhasil",
+    "berpenghasilan",
+    "keberhasilan",
+    "menghasilkan",
+    "pemberhasil",
+    "penghasil",
+    "penghasilan"
+  ],
+  "gabunganKata": [
+    "hasil bagi",
+    "hasil bumi",
+    "hasil elusi",
+    "hasil hidrolisis",
+    "hasil hutan",
+    "hasil ikutan",
+    "hasil kali",
+    "hasil kepala padi",
+    "hasil keterlarutan",
+    "hasil lestari",
+    "hasil mahsul",
+    "hasil metabolisme",
+    "hasil pancung alas",
+    "hasil perkawinan",
+    "hasil reaksi",
+    "hasil rotan",
+    "hasil sampingan",
+    "hasil sepuluh satu",
+    "hasil tambang",
+    "hasil tanah",
+    "hasil tiga",
+    "hasil tindak pidana",
+    "hasil turut",
+    "hasil utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang diperoleh",
+    "kataAsal": "ḥāṣil"
+  },
+  "data": [
+    {
+      "lema": "ha.sil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang diadakan (dibuat, dijadikan, dan sebagainya) oleh usaha (tanam-tanaman, sawah, tanah, ladang, hutan, dan sebagainya): obat suntik ini -- penyelidikan yang dilakukan bertahun-tahun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendapatan; perolehan; buah: hingga kini, usaha kita belum tampak --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akibat; kesudahan (dari pertandingan, ujian, dan sebagainya): -- pertandingan itu ialah 2–0 untuk kemenangan kesebelasan kita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pajak; sewa tanah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berhasil; mendapat hasil; tidak gagal: berkat kekerasan hatinya -- juga maksudnya"
+        }
+      ]
+    }
+  ]
+}

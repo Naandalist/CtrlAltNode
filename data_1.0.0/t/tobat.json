@@ -1,0 +1,47 @@
+{
+  "istilah": "tobat",
+  "entri": "to.bat bentuk tidak baku: taubat",
+  "bentukTidakBaku": "taubat",
+  "kataTurunan": [
+    "bertobat",
+    "menobatkan",
+    "pertobatan"
+  ],
+  "gabunganKata": [
+    "tobat nasuhah",
+    "tobat sambal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyesalan atas dosa yang pernah dilakukan",
+    "kataAsal": "taubah"
+  },
+  "data": [
+    {
+      "lema": "to.bat bentuk tidak baku: taubat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sadar dan menyesal akan dosa (perbuatan yang salah atau jahat) dan berniat akan memperbaiki tingkah laku dan perbuatan: sekarang ia sudah -- dari kejahatan yang pernah dilakukan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kembali kepada agama (jalan, hal) yang benar: setelah mendengar khotbah itu banyak orang yang -- kembali ke jalan yang sesuai dengan ajaran Tuhan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merasa tidak sanggup lagi: -- aku mengajar anakmu"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "menyatakan rasa heran, kesal, atau sebal: --! --!, bengal betul anak itu!"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jera (tidak akan berbuat lagi): ia sudah -- tidak akan mengisap ganja lagi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "ledek",
+  "entri": "le.dek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meledek",
+    "meledeki"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.dek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penari dan penyanyi kesenian tradisional (keliling); ronggeng keliling"
+        }
+      ]
+    },
+    {
+      "lema": "le.dek2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ejek"
+        }
+      ]
+    }
+  ]
+}

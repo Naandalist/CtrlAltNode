@@ -1,0 +1,40 @@
+{
+  "istilah": "semir",
+  "entri": "se.mir /sêmir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersemir",
+    "menyemir",
+    "penyemiran"
+  ],
+  "gabunganKata": [
+    "semir rambut",
+    "semir sepatu",
+    "semir ubin"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.mir /sêmir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lemak berwarna untuk membuat kulit (sepatu dan sebagainya) menjadi gilap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minyak untuk melicinkan mesin dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "uang suap (sogokan)"
+        }
+      ]
+    }
+  ]
+}

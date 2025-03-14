@@ -1,0 +1,37 @@
+{
+  "istilah": "membarut",
+  "entri": "barut1 » mem.ba.rut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "barut1 » mem.ba.rut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membalut (luka dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membebat (bayi dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "barut2 » mem.ba.rut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membalur: tukang pijit ~ kaki orang yang terkilir itu dengan minyak"
+        }
+      ]
+    }
+  ]
+}

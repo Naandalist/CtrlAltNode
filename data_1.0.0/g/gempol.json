@@ -1,0 +1,37 @@
+{
+  "istilah": "gempol",
+  "entri": "gem.pol1 /gêmpol/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gem.pol1 /gêmpol/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang tingginya mencapai 35 m dengan diameter 0,5 m, kayunya terutama digunakan untuk membuat tangkai pisau dan sebagainya, jarang digunakan dalam pembuatan rumah dan mudah terkena rayap, buahnya dimakan setelah dimasak lebih dahulu, dalam keadaan mentah rasanya pahit〔Sarcocephalus cordatus〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah gempol"
+        }
+      ]
+    },
+    {
+      "lema": "gem.pol2 /gêmpol/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penganan berbahan utama tepung beras yang dibulatkan dan direbus serta disajikan dengan santan"
+        }
+      ]
+    }
+  ]
+}

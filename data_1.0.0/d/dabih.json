@@ -1,0 +1,27 @@
+{
+  "istilah": "dabih",
+  "entri": "da.bih",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendabih",
+    "pendabihan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyembelih",
+    "kataAsal": "żābiḥ"
+  },
+  "data": [
+    {
+      "lema": "da.bih",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "sembelih"
+        }
+      ]
+    }
+  ]
+}

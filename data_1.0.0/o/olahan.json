@@ -1,0 +1,37 @@
+{
+  "istilah": "olahan",
+  "entri": "olah1 » o.lah.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "olah1 » o.lah.an",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suka bertingkah"
+        }
+      ]
+    },
+    {
+      "lema": "olah2 » o.lah.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil mengolah: cerita pendek itu merupakan ~ dari cerita lama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tatanan mengolah siaran berita (radio dan televisi) setelah pengambilan peristiwa"
+        }
+      ]
+    }
+  ]
+}

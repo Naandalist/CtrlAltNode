@@ -1,0 +1,41 @@
+{
+  "istilah": "tumpas",
+  "entri": "tumpas1 bentuk tidak baku: tumpes",
+  "bentukTidakBaku": "tumpes",
+  "kataTurunan": [
+    "menumpas",
+    "menumpaskan",
+    "penumpas",
+    "penumpasan",
+    "tumpasan"
+  ],
+  "gabunganKata": [
+    "tumpas langis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tumpas1 bentuk tidak baku: tumpes",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "habis binasa (punah) sama sekali: tentara musuh sudah -- semua"
+        }
+      ]
+    },
+    {
+      "lema": "tum.pas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tumpasan"
+        }
+      ]
+    }
+  ]
+}

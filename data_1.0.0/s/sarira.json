@@ -1,0 +1,28 @@
+{
+  "istilah": "sarira",
+  "entri": "sa.ri.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "badan, tubuh, jasmaniah",
+    "kataAsal": "śarīra"
+  },
+  "data": [
+    {
+      "lema": "sa.ri.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "badan; tubuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bud[Agama Buddha: -]",
+          "deskripsi": "relik Buddha"
+        }
+      ]
+    }
+  ]
+}

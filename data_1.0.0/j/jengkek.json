@@ -1,0 +1,36 @@
+{
+  "istilah": "jengkek",
+  "entri": "jeng.kek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjengkek-jengkek",
+    "penjengkekan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jeng.kek1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lompat; jingkat"
+        }
+      ]
+    },
+    {
+      "lema": "jeng.kek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang digunakan untuk memisahkan mineral berat dari mineral ringan dengan prinsip penjengkekan"
+        }
+      ]
+    }
+  ]
+}

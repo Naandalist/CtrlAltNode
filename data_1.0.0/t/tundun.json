@@ -1,0 +1,41 @@
+{
+  "istilah": "tundun",
+  "entri": "tun.dun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tun.dun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tandan (tentang pisang, kelapa, dan sebagainya): mereka menyiapkan nasi bungkus, singkong goreng, dan pisang se--"
+        }
+      ]
+    },
+    {
+      "lema": "tun.dun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tengkuk (kuda dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian sebelah atas (dahi) kemaluan perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bibir kemaluan perempuan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "bibi",
+  "entri": "bi.bi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbibi"
+  ],
+  "gabunganKata": [
+    "bibi alang",
+    "bibi aling",
+    "bibi alung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.bi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adik (saudara muda) perempuan dari ayah atau ibu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panggilan kepada perempuan yang agak tua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sebutan untuk perempuan (setingkat dengan nyonya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "panggilan kepada perempuan pembantu rumah tangga"
+        }
+      ]
+    }
+  ]
+}

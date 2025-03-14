@@ -1,0 +1,37 @@
+{
+  "istilah": "soma",
+  "entri": "so.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "keseluruhan jasad terkecuali sel mani"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tubuh; badan; jasad hidup"
+        }
+      ]
+    },
+    {
+      "lema": "So.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "hari ke-2 dalam jangka waktu satu minggu; Senin"
+        }
+      ]
+    }
+  ]
+}

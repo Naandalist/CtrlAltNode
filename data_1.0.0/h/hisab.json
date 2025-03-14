@@ -1,0 +1,32 @@
+{
+  "istilah": "hisab",
+  "entri": "hi.sab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menghisab",
+    "menghisabkan",
+    "terhisab"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hitungan",
+    "kataAsal": "ḥisāb"
+  },
+  "data": [
+    {
+      "lema": "hi.sab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hitungan; perhitungan; perkiraan: ahli --; ilmu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peduli: apa --mu kepadanya?"
+        }
+      ]
+    }
+  ]
+}

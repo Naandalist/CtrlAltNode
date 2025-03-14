@@ -1,0 +1,42 @@
+{
+  "istilah": "genap",
+  "entri": "ge.nap /gênap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kegenapan",
+    "menggenapi",
+    "menggenapkan",
+    "penggenap",
+    "segenap"
+  ],
+  "gabunganKata": [
+    "genap bulan(nya)"
+  ],
+  "peribahasa": [
+    "dibilang genap, dipagar ganjil; keluar tak mengganjilkan, masuk tak menggenapkan (masuk tidak genap, keluar tidak ganjil); masuk tak genap, keluar tak ganjil; sudah genap bilangannya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.nap /gênap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh; utuh (tidak kurang); lengkap: perkawinan kita telah -- 32 tahun"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ganjil (tidak gasal) sehingga habis dibagi dua (tentang bilangan): enam itu bilangan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cocok; pantas: umurnya sudah -- benar untuk dikhitankan"
+        }
+      ]
+    }
+  ]
+}

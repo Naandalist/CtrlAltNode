@@ -1,0 +1,27 @@
+{
+  "istilah": "kasidah",
+  "entri": "ka.si.dah bentuk tidak baku: qasida, qasidah",
+  "bentukTidakBaku": "qasida, qasidah",
+  "kataTurunan": [
+    "berkasidah",
+    "mengasidahkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "puisi yang terdiri minimal atas tujuh bait",
+    "kataAsal": "qaṣīdah"
+  },
+  "data": [
+    {
+      "lema": "ka.si.dah bentuk tidak baku: qasida, qasidah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk puisi, berasal dari kesusastraan Arab, bersifat pujaan (satire, keagamaan), biasanya dinyanyikan (dilagukan)"
+        }
+      ]
+    }
+  ]
+}

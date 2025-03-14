@@ -1,0 +1,33 @@
+{
+  "istilah": "dichtung und wahrheit",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "dongeng dan kenyataan"
+        }
+      ]
+    },
+    {
+      "lema": "Dichtung und Wahrheit",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "dongeng dan kenyataan"
+        }
+      ]
+    }
+  ]
+}

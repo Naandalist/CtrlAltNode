@@ -1,0 +1,52 @@
+{
+  "istilah": "sunting",
+  "entri": "sun.ting1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersunting",
+    "bersuntingkan",
+    "mempersunting",
+    "menyuntingkan",
+    "penyuntingan",
+    "suntingan",
+    "menyunting",
+    "penyunting",
+    "penyuntingan",
+    "sunting-menyunting",
+    "suntingan",
+    "tersunting"
+  ],
+  "gabunganKata": [
+    "sunting hati",
+    "sunting malai",
+    "suntingan peran"
+  ],
+  "peribahasa": [
+    "coba-coba menanam mumbang, kalau tumbuh sunting negeri"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jenis bunga yang khas",
+    "kataAsal": "suntiṅ"
+  },
+  "data": [
+    {
+      "lema": "sun.ting1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hiasan (bunga dan sebagainya) yang dicocokkan di rambut atau di belakang telinga"
+        }
+      ]
+    },
+    {
+      "lema": "sun.ting2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyunting"
+        }
+      ]
+    }
+  ]
+}

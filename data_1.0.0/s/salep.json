@@ -1,0 +1,35 @@
+{
+  "istilah": "salep",
+  "entri": "sa.lep /salêp/bentuk tidak baku: salap",
+  "bentukTidakBaku": "salap",
+  "kataTurunan": [
+    "menyalep"
+  ],
+  "gabunganKata": [
+    "salep antibiotik",
+    "salep antijamur",
+    "salep antivirus",
+    "salep bibir"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.lep /salêp/bentuk tidak baku: salap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat luar yang terbuat dari campuran obat dengan zat yang berkonsistensi, seperti mentega, untuk dioleskan pada kulit (untuk kudis, luka, borok, dan sebagainya): untuk mengobati lukamu itu pakailah -- ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minyak kental atau vaselin untuk campuran bahan obat luar, pomade, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

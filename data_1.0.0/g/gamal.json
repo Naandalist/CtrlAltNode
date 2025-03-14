@@ -1,0 +1,33 @@
+{
+  "istilah": "gamal",
+  "entri": "ga.mal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "unta jantan",
+    "kataAsal": "jamal"
+  },
+  "data": [
+    {
+      "lema": "ga.mal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "unta"
+        }
+      ]
+    },
+    {
+      "lema": "ga.mal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang tingginya hingga 12 m, dianggap efektif sebagai pembasmi alang-alang〔Gliricidia sepium〕"
+        }
+      ]
+    }
+  ]
+}

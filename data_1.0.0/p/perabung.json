@@ -1,0 +1,42 @@
+{
+  "istilah": "perabung",
+  "entri": "rabung1 » pe.ra.bung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "perabung limas",
+    "perabung panjang"
+  ],
+  "peribahasa": [
+    "atap rumbia (ijuk) perabung upih"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rabung1 » pe.ra.bung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bubungan atap rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "makanan kecil selepas makan nasi; pencuci mulut"
+        }
+      ]
+    },
+    {
+      "lema": "pe.ra.bung /pêrabung/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat rabung"
+        }
+      ]
+    }
+  ]
+}

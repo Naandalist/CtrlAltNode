@@ -1,0 +1,31 @@
+{
+  "istilah": "petuah",
+  "entri": "pe.tu.ah /pêtuah/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpetuah",
+    "memetuahkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jawaban hukum",
+    "kataAsal": "fatwā"
+  },
+  "data": [
+    {
+      "lema": "pe.tu.ah /pêtuah/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keputusan atau pendapat mufti (tentang masalah agama Islam); fatwa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nasihat orang alim; pelajaran (nasihat) yang baik: dalam pertemuan itu diharapkan nasihat dan -- orang-orang tua"
+        }
+      ]
+    }
+  ]
+}

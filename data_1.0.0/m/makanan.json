@@ -1,0 +1,76 @@
+{
+  "istilah": "makanan",
+  "entri": "makan1 » ma.kan.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "makanan alami",
+    "makanan anak ayam",
+    "makanan asam",
+    "makanan babi",
+    "makanan basa",
+    "makanan beku",
+    "makanan berserat",
+    "makanan buatan",
+    "makanan cepat saji",
+    "makanan cepat siap",
+    "makanan dimurnikan sebagian",
+    "makanan empuk",
+    "makanan energi rendah",
+    "makanan energi tinggi",
+    "makanan fungsional",
+    "makanan higroskopik",
+    "makanan hijau",
+    "makanan kaleng",
+    "makanan kecil",
+    "makanan lambat saji",
+    "makanan laut",
+    "makanan lokal",
+    "makanan mengapung",
+    "makanan modern",
+    "makanan nonhigroskopik",
+    "makanan peluru",
+    "makanan pembuka",
+    "makanan pendamping ASI",
+    "makanan penutup",
+    "makanan pokok",
+    "makanan praktis",
+    "makanan ringan",
+    "makanan sampah",
+    "makanan sehat",
+    "makanan serbaguna",
+    "makanan siap saji",
+    "makanan sonde",
+    "makanan tambahan",
+    "makanan tenggelam",
+    "makanan tradisional",
+    "makanan tunagizi"
+  ],
+  "peribahasa": [
+    "makanan enggang akan dimakan pipit"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "makan1 » ma.kan.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segala sesuatu yang dapat dimakan (seperti penganan, lauk-pauk, kue)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "segala bahan yang kita makan atau masuk ke dalam tubuh yang membentuk atau mengganti jaringan tubuh, memberikan tenaga, atau mengatur semua proses dalam tubuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "rezeki"
+        }
+      ]
+    }
+  ]
+}

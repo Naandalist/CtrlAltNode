@@ -1,0 +1,40 @@
+{
+  "istilah": "puntung",
+  "entri": "pun.tung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memuntung",
+    "memuntungkan"
+  ],
+  "gabunganKata": [
+    "puntung berasap",
+    "puntung perun"
+  ],
+  "peribahasa": [
+    "api padam, puntung berasap; api padam, puntung hanyut; dikerkah dia menampar pipi, dibakar dia melilit puntung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pun.tung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisa rokok (kayu dan sebagainya) yang sudah terbakar sebagian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buntung; kudung: baju --; celana --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "merugi: dasar sial, sepuluh kali beruntung sebelas kali --"
+        }
+      ]
+    }
+  ]
+}

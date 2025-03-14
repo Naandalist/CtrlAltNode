@@ -1,0 +1,48 @@
+{
+  "istilah": "dedak",
+  "entri": "de.dak1 /dêdak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdedak",
+    "berdedak",
+    "berdedak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "api makan sekam (dedak); minta dedak kepada orang mengubik; tidak terindang dedak basah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.dak1 /dêdak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serbuk halus dari kulit padi (untuk makanan ayam, itik, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "de.dak2 /dêdak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sempit; sesak"
+        }
+      ]
+    },
+    {
+      "lema": "de.dak3 /dêdak/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berdedak"
+        }
+      ]
+    }
+  ]
+}

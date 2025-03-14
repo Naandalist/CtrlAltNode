@@ -1,0 +1,34 @@
+{
+  "istilah": "jalak",
+  "entri": "ja.lak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jalak jantan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berbagai jenis burung keluarga Pastor",
+    "kataAsal": "jalak"
+  },
+  "data": [
+    {
+      "lema": "ja.lak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung pekicau bersuara keras, bertubuh tegap, berparuh kuat, tajam, dan lurus, berkaki panjang, berwarna gelap, memiliki pial, jambul, dan ekor yang panjang, berhabitat di iklim sedang dan tropis, tersebar di hampir seluruh dunia〔Sturnidae〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pemberani; nama ayam sabungan (ayam jantan yang berbulu hitam kurik-kurik); ayam jalak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -] ki[kiasan]",
+          "deskripsi": "berkaki agak kekuning-kuningan (tentang ayam sabungan)"
+        }
+      ]
+    }
+  ]
+}

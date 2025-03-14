@@ -1,0 +1,42 @@
+{
+  "istilah": "riung",
+  "entri": "ri.ung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meriung",
+    "riungan"
+  ],
+  "gabunganKata": [
+    "riung keluarga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ri.ung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "meriung"
+        }
+      ]
+    },
+    {
+      "lema": "Ri.ung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami Pulau Flores bagian tengah, Provinsi Nusa Tenggara Timur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Riung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "eksodus",
+  "entri": "ek.so.dus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ek.so.dus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian kedua dari Alkitab"
+        }
+      ]
+    },
+    {
+      "lema": "ek.so.dus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan meninggalkan tempat asal (kampung halaman, kota, negeri) oleh penduduk secara besar-besaran"
+        }
+      ]
+    }
+  ]
+}

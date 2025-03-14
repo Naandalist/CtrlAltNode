@@ -1,0 +1,43 @@
+{
+  "istilah": "lembaran",
+  "entri": "lembar » lem.bar.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lembaran berita",
+    "lembaran berkala",
+    "lembaran buruh",
+    "lembaran hitam",
+    "lembaran kerja",
+    "lembaran mahasiswa",
+    "lembaran negara",
+    "lembaran pagi",
+    "lembaran sastra dan budaya",
+    "lembaran set"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lembar » lem.bar.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "helai (daun, kertas, dan sebagainya): dituliskan pada ~ kertas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "catatan: peristiwa itu patut dicatat dalam ~ sejarah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "terbitan (surat kabar, majalah, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

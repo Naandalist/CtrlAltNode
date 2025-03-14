@@ -1,0 +1,42 @@
+{
+  "istilah": "sema-sema",
+  "entri": "sema1 » se.ma-se.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sema1 » se.ma-se.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sema"
+        }
+      ]
+    },
+    {
+      "lema": "sema2 » se.ma-se.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sema"
+        }
+      ]
+    },
+    {
+      "lema": "se.ma-se.ma",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat sema2"
+        }
+      ]
+    }
+  ]
+}

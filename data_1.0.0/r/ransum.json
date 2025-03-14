@@ -1,0 +1,43 @@
+{
+  "istilah": "ransum",
+  "entri": "ran.sum bentuk tidak baku: rangsum",
+  "bentukTidakBaku": "rangsum",
+  "kataTurunan": [
+    "meransum",
+    "peransuman",
+    "ransuman"
+  ],
+  "gabunganKata": [
+    "ransum anak",
+    "ransum bakal",
+    "ransum lengkap",
+    "ransum pembibit",
+    "ransum pemula",
+    "ransum penggemuk",
+    "ransum penumbuh",
+    "ransum petelur",
+    "ransum seimbang",
+    "ransum termakan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ran.sum bentuk tidak baku: rangsum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian makanan yang sudah ditentukan ukurannya untuk setiap orang atau setiap ternak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian bahan makanan yang diberikan kepada penduduk atau ternak dengan ukuran yang sudah ditentukan; catu makanan"
+        }
+      ]
+    }
+  ]
+}

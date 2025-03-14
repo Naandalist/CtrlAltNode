@@ -1,0 +1,32 @@
+{
+  "istilah": "repetisi",
+  "entri": "re.pe.ti.si /repêtisi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.pe.ti.si /repêtisi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ulangan (pelajaran)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "latihan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "gaya bahasa yang menggunakan kata kunci yang terdapat di awal kalimat untuk mencapai efek tertentu dalam penyampaian makna ulangan (sandiwara dan sebagainya): -- perlu diadakan pada setiap menjelang pementasan"
+        }
+      ]
+    }
+  ]
+}

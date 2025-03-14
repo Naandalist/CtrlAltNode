@@ -1,0 +1,48 @@
+{
+  "istilah": "ramin",
+  "entri": "ra.min1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meraminkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.min1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang kayunya berwarna kuning ketika dibelah, sesudah itu berubah menjadi putih, tumbuh di daerah rawa-rawa〔Gonystylus bancanus〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu pohon ramin"
+        }
+      ]
+    },
+    {
+      "lema": "ra.min2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anyaman yang berbelit-belit"
+        }
+      ]
+    },
+    {
+      "lema": "ra.min3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ach[Aceh: -]",
+          "deskripsi": "menyembelih hewan dan sebagainya untuk dimakan bersama-sama di alam terbuka"
+        }
+      ]
+    }
+  ]
+}

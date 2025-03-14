@@ -1,0 +1,52 @@
+{
+  "istilah": "cecak",
+  "entri": "ce.cak1 /cêcak/bentuk tidak baku: cicak",
+  "bentukTidakBaku": "cicak",
+  "kataTurunan": [
+    "mencecak",
+    "pencecak"
+  ],
+  "gabunganKata": [
+    "cecak tanah",
+    "cecak terbang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "titik, bintik (sebagai hiasan wajah)",
+    "kataAsal": "cěcěk"
+  },
+  "data": [
+    {
+      "lema": "ce.cak1 /cêcak/bentuk tidak baku: cicak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang merayap, biasa hidup di rumah (pada langit-langit, di dekat lampu), makanannya binatang kecil (nyamuk dan sebagainya), sering berbunyi “cek, cek”; cicak〔Hemidactylus frenatus〕"
+        }
+      ]
+    },
+    {
+      "lema": "ce.cak2 /cêcak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "cubit"
+        }
+      ]
+    },
+    {
+      "lema": "ce.cak3 /cêcak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bintik-bintik atau belang-belang kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berbintik-bintik atau berbelang-belang kecil (tentang bulu kucing dan sebagainya): ayam --; kucing --"
+        }
+      ]
+    }
+  ]
+}

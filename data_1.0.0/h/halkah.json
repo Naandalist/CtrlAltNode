@@ -1,0 +1,41 @@
+{
+  "istilah": "halkah",
+  "entri": "hal.kah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "lingkar; sekumpulan orang yang melingkar",
+    "kataAsal": "ḥalqah"
+  },
+  "data": [
+    {
+      "lema": "hal.kah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "halakah"
+        }
+      ]
+    },
+    {
+      "lema": "hal.kah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelang (kaki)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelang-gelang pintu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelang-gelang untuk sasaran menombak dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

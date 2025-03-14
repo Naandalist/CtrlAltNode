@@ -1,0 +1,44 @@
+{
+  "istilah": "pondok",
+  "entri": "pon.dok bentuk tidak baku: mondok2",
+  "bentukTidakBaku": "mondok2",
+  "kataTurunan": [
+    "memondok",
+    "memondokkan",
+    "pemondokan",
+    "pondokan"
+  ],
+  "gabunganKata": [
+    "pondok wisata",
+    "pondok wisata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penginapan",
+    "kataAsal": "funduq"
+  },
+  "data": [
+    {
+      "lema": "pon.dok bentuk tidak baku: mondok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan untuk tempat sementara (seperti yang didirikan di ladang, di hutan, dan sebagainya); teratak: di tepi hutan yang hendak dibuka itu didirikan beberapa buah --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah (sebutan untuk merendahkan diri): jika Anda tidak berkeberatan, silakan singgah sebentar di -- saya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan tempat tinggal yang berpetak-petak yang berdinding bilik dan beratap rumbia (untuk tempat tinggal beberapa keluarga)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "madrasah dan asrama (tempat mengaji, belajar agama Islam): di daerah itu terdapat beberapa -- yang dikelola secara modern"
+        }
+      ]
+    }
+  ]
+}

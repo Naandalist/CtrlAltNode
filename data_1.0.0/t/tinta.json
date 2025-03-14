@@ -1,0 +1,39 @@
+{
+  "istilah": "tinta",
+  "entri": "tin.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menintai",
+    "peninta",
+    "penintaan"
+  ],
+  "gabunganKata": [
+    "tinta cetak",
+    "tinta cina",
+    "tinta emas",
+    "tinta koran",
+    "tinta litografi",
+    "tinta stensil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tin.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang cair yang berwarna (hitam, merah, dan sebagainya) untuk menulis; dawat; mangsi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan berwarna yang mengandung lemak yang dioleskan pada gambar cetak untuk mengalihkan gambar cetak itu pada kertas"
+        }
+      ]
+    }
+  ]
+}

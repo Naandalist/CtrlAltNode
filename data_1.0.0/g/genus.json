@@ -1,0 +1,38 @@
+{
+  "istilah": "genus",
+  "entri": "ge.nus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergenus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.nus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelas; golongan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keseluruhan ciri yang didukung oleh ciri-ciri anggota kelasnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "tataran dalam taksonomi yang ada di bawah keluarga dan di atas spesies; marga"
+        }
+      ]
+    }
+  ]
+}

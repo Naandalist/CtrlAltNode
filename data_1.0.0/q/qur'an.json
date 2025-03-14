@@ -1,0 +1,33 @@
+{
+  "istilah": "qur'an",
+  "entri": "Qur.'an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bacaan; kumpulan",
+    "kataAsal": "qur’ān"
+  },
+  "data": [
+    {
+      "lema": "Qur.'an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Al-Qur'an"
+        }
+      ]
+    },
+    {
+      "lema": "Qur.'an",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ Al-Qur'an"
+        }
+      ]
+    }
+  ]
+}

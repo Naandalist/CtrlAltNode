@@ -1,0 +1,39 @@
+{
+  "istilah": "tempik",
+  "entri": "tem.pik1 /têmpik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertempik",
+    "menempikkan",
+    "tempikan"
+  ],
+  "gabunganKata": [
+    "tempik sorak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem.pik1 /têmpik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekik keras"
+        }
+      ]
+    },
+    {
+      "lema": "tem.pik2 /têmpik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan] Jw[Jawa: -]",
+          "deskripsi": "alat kelamin perempuan"
+        }
+      ]
+    }
+  ]
+}

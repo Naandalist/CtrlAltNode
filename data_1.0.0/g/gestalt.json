@@ -1,0 +1,33 @@
+{
+  "istilah": "gestalt",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -] Psi[Psikologi: -]",
+          "deskripsi": "pola atau struktur yang utuh, yang keseluruhannya tidak dapat dianggap jumlah dari unsur-unsurnya dan yang unsur-unsurnya tidak dapat dianggap bagian dari keseluruhannya"
+        }
+      ]
+    },
+    {
+      "lema": "Gestalt",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -] [Psikologi: -]",
+          "deskripsi": "pola atau struktur yang utuh, yang keseluruhannya tidak dapat dianggap jumlah dari unsur-unsurnya dan yang unsur-unsurnya tidak dapat dianggap bagian dari keseluruhannya"
+        }
+      ]
+    }
+  ]
+}

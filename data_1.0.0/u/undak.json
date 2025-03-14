@@ -1,0 +1,51 @@
+{
+  "istilah": "undak",
+  "entri": "un.dak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengundak",
+    "berundak",
+    "berundak-undak",
+    "undak-undakan",
+    "undakan",
+    "undak-undakan"
+  ],
+  "gabunganKata": [
+    "undak usuk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "un.dak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengundak"
+        }
+      ]
+    },
+    {
+      "lema": "un.dak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkat"
+        }
+      ]
+    },
+    {
+      "lema": "un.dak3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "undak-undakan"
+        }
+      ]
+    }
+  ]
+}

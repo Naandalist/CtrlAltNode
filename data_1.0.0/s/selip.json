@@ -1,0 +1,54 @@
+{
+  "istilah": "selip",
+  "entri": "se.lip1 /sêlip/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyelip",
+    "menyelipi",
+    "menyelipkan",
+    "selipan",
+    "terselip",
+    "terselip",
+    "menyelip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.lip1 /sêlip/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "susup"
+        }
+      ]
+    },
+    {
+      "lema": "se.lip2 /sêlip/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tergelincir (tentang mobil dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berselisih jalan"
+        }
+      ]
+    },
+    {
+      "lema": "se.lip3 /sêlip/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menyelip"
+        }
+      ]
+    }
+  ]
+}

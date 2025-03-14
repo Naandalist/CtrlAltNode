@@ -1,0 +1,45 @@
+{
+  "istilah": "kusu",
+  "entri": "ku.su1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkusu-kusu",
+    "berkusu-kusu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.su1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "berkusu-kusu"
+        }
+      ]
+    },
+    {
+      "lema": "ku.su2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bisik"
+        }
+      ]
+    },
+    {
+      "lema": "ku.su3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Als[Alas: -]",
+          "deskripsi": "bapak dari nenek"
+        }
+      ]
+    }
+  ]
+}

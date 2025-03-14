@@ -1,0 +1,40 @@
+{
+  "istilah": "sentil",
+  "entri": "sen.til1 /sêntil/",
+  "bentukTidakBaku": "centil1",
+  "kataTurunan": [
+    "tersentil",
+    "menyentil",
+    "penyentil",
+    "penyentilan",
+    "sentilan",
+    "tersentil"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.til1 /sêntil/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "tersentil"
+        }
+      ]
+    },
+    {
+      "lema": "sen.til2 /sêntil/bentuk tidak baku: centil1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "singgung, sentuh"
+        }
+      ]
+    }
+  ]
+}

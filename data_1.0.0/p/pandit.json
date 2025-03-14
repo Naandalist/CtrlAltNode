@@ -1,0 +1,28 @@
+{
+  "istilah": "pandit",
+  "entri": "pan.dit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.dit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pandita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sarjana; orang yang berpengetahuan tinggi, luas, dan bijaksana; guru"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "saput",
+  "entri": "sa.put1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyaput",
+    "menyaputi",
+    "tersaput",
+    "bersaput"
+  ],
+  "gabunganKata": [
+    "saput kayu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tutup, penutup, sehelai kain untuk menutupi dada",
+    "kataAsal": "saput"
+  },
+  "data": [
+    {
+      "lema": "sa.put1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapisan atau pembalut tipis; selaput"
+        }
+      ]
+    },
+    {
+      "lema": "sa.put2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "kain persegi yang dikenakan setelah kain panjang, biasanya digunakan oleh laki-laki saat berpakaian adat Bali"
+        }
+      ]
+    }
+  ]
+}

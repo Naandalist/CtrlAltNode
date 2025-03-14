@@ -1,0 +1,30 @@
+{
+  "istilah": "rangkul",
+  "entri": "rang.kul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berangkulan",
+    "merangkul",
+    "perangkulan",
+    "rangkul-merangkul",
+    "rangkulan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memeluk, menangkap dengan lengan, menggenggam",
+    "kataAsal": "raṅkul"
+  },
+  "data": [
+    {
+      "lema": "rang.kul",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merangkul"
+        }
+      ]
+    }
+  ]
+}

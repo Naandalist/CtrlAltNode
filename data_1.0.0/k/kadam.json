@@ -1,0 +1,42 @@
+{
+  "istilah": "kadam",
+  "entri": "ka.dam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "telapak kaki",
+    "kataAsal": "qadam"
+  },
+  "data": [
+    {
+      "lema": "ka.dam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "telapak kaki; duli: ke bawah -- ke bawah duli; menghadap -- menjelang kepada"
+        }
+      ]
+    },
+    {
+      "lema": "ka.dam2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ khadam"
+        }
+      ]
+    },
+    {
+      "lema": "ka.dam3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cepu; tempat sirih"
+        }
+      ]
+    }
+  ]
+}

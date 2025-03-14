@@ -1,0 +1,37 @@
+{
+  "istilah": "sendat",
+  "entri": "sen.dat /sêndat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyendat",
+    "penyendatan",
+    "tersendat",
+    "tersendat-sendat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sen.dat /sêndat/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sempit (tentang cincin dan sebagainya); ketat; tidak longgar: cincin kawin itu -- di jari manisnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak lancar (tentang berlangsungnya sesuatu, misalnya lalu lintas dan upacara): lalu lintas di Jalan Sudirman tiap pagi selalu -- karena banyaknya kendaraan yang lalu di sana"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terhenti atau tertahan (di dalam liang, pipa, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

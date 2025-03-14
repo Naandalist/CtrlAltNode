@@ -1,0 +1,43 @@
+{
+  "istilah": "jemput",
+  "entri": "jem.put1 /jêmput/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjemput",
+    "jemputan",
+    "menjemput",
+    "penjemput",
+    "penjemputan",
+    "menjemput",
+    "sejemput"
+  ],
+  "gabunganKata": [
+    "jemput antar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jem.put1 /jêmput/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sambut, undang"
+        }
+      ]
+    },
+    {
+      "lema": "jem.put2 /jêmput/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pungut; kutip"
+        }
+      ]
+    }
+  ]
+}

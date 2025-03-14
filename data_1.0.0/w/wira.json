@@ -1,0 +1,30 @@
+{
+  "istilah": "wira",
+  "entri": "wi.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kewiraan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "heroik, berani, kuat, unggul",
+    "kataAsal": "vīra"
+  },
+  "data": [
+    {
+      "lema": "wi.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pahlawan; laki-laki"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat jantan (berani); perwira"
+        }
+      ]
+    }
+  ]
+}

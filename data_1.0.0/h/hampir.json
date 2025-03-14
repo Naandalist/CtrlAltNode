@@ -1,0 +1,43 @@
+{
+  "istilah": "hampir",
+  "entri": "ham.pir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhampiran",
+    "hampir-hampir",
+    "hampiran",
+    "hampirkan",
+    "menghampiri",
+    "menghampirkan"
+  ],
+  "gabunganKata": [
+    "hampir kepada"
+  ],
+  "peribahasa": [
+    "obat jauh, penyakit hampir; sebagai bisul hampir memecah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ham.pir",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kurang sedikit; nyaris: kapal itu -- tenggelam"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "tidak lama lagi: kereta api dari Surabaya -- tiba"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "dekat (pada, dengan); menjelang: -- senja dia datang"
+        }
+      ]
+    }
+  ]
+}

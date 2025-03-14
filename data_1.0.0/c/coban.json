@@ -1,0 +1,33 @@
+{
+  "istilah": "coban",
+  "entri": "co.ban1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.ban1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jarum yang besar dan kasar (dibuat dari bambu, tanduk, dan sebagainya) untuk menyirat jaring, jala, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "co.ban2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "tongkat dengan ujung terbelah yang digunakan menjepit bibit padi untuk ditanamkan dalam tanah"
+        }
+      ]
+    }
+  ]
+}

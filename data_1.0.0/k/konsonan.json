@@ -1,0 +1,35 @@
+{
+  "istilah": "konsonan",
+  "entri": "kon.so.nan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "konsonan ambisilabis",
+    "konsonan silabis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.so.nan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bunyi bahasa yang dihasilkan dengan menghambat aliran udara pada salah satu tempat di saluran suara di atas glotis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bunyi bahasa yang dapat berada pada tepi suku kata dan tidak sebagai inti suku kata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "fonem yang mewakili suatu bunyi kontoid"
+        }
+      ]
+    }
+  ]
+}

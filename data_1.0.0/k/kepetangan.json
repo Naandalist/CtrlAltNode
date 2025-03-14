@@ -1,0 +1,41 @@
+{
+  "istilah": "kepetangan",
+  "entri": "petang1 » ke.pe.tang.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "petang1 » ke.pe.tang.an",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kena petang: datanglah lebih awal jangan sampai ~"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlalu petang"
+        }
+      ]
+    },
+    {
+      "lema": "petang2 » ke.pe.tang.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata-mata; spion: beberapa orang ~ ditangkap musuh"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pandai mengenakan tipu muslihat; cerdik; licik: ada seorang prajurit terlalu amat ~ dan saktinya"
+        }
+      ]
+    }
+  ]
+}

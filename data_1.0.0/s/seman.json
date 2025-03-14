@@ -1,0 +1,38 @@
+{
+  "istilah": "seman",
+  "entri": "se.man",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesemanan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.man",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak jadi atau gagal (tentang adonan apam, tapai, nira yang dijadikan tuak, atau penyakit cacar)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hilang (tentang ingatan): orang mabuk itu ingatannya --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merugi; terbengkalai; pailit (tentang perusahaan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak sempurna (tentang janin dalam kandungan)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "lepak",
+  "entri": "le.pak1 /lêpak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melepak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.pak1 /lêpak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi barang jatuh ke tanah (seperti buku jatuh dari meja ke lantai)"
+        }
+      ]
+    },
+    {
+      "lema": "le.pak2 /lêpak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "melepak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "wushu",
+  "entri": "wu.shu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Mandarin",
+    "arti": "seni bela diri Cina",
+    "kataAsal": "wǔshù"
+  },
+  "data": [
+    {
+      "lema": "wu.shu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "seni bela diri"
+        }
+      ]
+    }
+  ]
+}

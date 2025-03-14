@@ -1,0 +1,37 @@
+{
+  "istilah": "terselip",
+  "entri": "selip1 » ter.se.lip",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "selip1 » ter.se.lip",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "termasuk di antara beberapa buah benda; tersisip: uang itu ~ dalam lipatan kain"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terkandung (tercantum; tersembunyi) di dalam: dalam keterangannya itu ~ maksud lain"
+        }
+      ]
+    },
+    {
+      "lema": "selip2 » ter.se.lip entri varian: terselip ke luar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melecit ke luar (dari lubang, mulut, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

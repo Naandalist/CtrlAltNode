@@ -1,0 +1,40 @@
+{
+  "istilah": "canang",
+  "entri": "ca.nang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencanangkan",
+    "pencanang",
+    "pencanangan",
+    "tercanang"
+  ],
+  "gabunganKata": [
+    "canang besar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.nang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "gong kecil (untuk memberi alamat, menguar-uarkan pengumuman, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ca.nang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "wadah sajen terbuat dari janur, berisi daun sirih, pinang, bunga, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

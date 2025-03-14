@@ -1,0 +1,33 @@
+{
+  "istilah": "dei gratia",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "berkat rahmat Tuhan"
+        }
+      ]
+    },
+    {
+      "lema": "Dei gratia",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "berkat rahmat Tuhan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "dwiguna",
+  "entri": "dwi.gu.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sehelai benang, tali, sumbu; karakter, kualitas, nilai",
+    "kataAsal": "guṇa"
+  },
+  "data": [
+    {
+      "lema": "dwi.gu.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "manfaat ganda"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dapat menghasilkan dua manfaat sekaligus (misalnya sapi menghasilkan susu dan daging)"
+        }
+      ]
+    }
+  ]
+}

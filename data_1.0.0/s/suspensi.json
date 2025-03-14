@@ -1,0 +1,39 @@
+{
+  "istilah": "suspensi",
+  "entri": "sus.pen.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersuspensi",
+    "tersuspensi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sus.pen.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelaksanaan penundaan atau penangguhan sesuatu untuk sementara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemecatan (dari jabatan, pekerjaan) untuk sementara waktu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "sistem koloid zat padat yang terserak dalam zat cair, partikelnya tidak mudah mengendap karena kecil ukurannya dan tidak mudah menggumpal karena sering menolak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "sistem penggantungan roda mobil"
+        }
+      ]
+    }
+  ]
+}

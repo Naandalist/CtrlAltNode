@@ -1,0 +1,57 @@
+{
+  "istilah": "tala",
+  "entri": "ta.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertala-tala",
+    "menala",
+    "menalakan",
+    "menyetalakan",
+    "penala",
+    "penalaan",
+    "setala",
+    "penala"
+  ],
+  "gabunganKata": [
+    "tala loka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "permukaan, dataran; bagian yang lebih rendah, alas, dasar",
+    "kataAsal": "tala"
+  },
+  "data": [
+    {
+      "lema": "ta.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "laras (kesesuaian nada)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat untuk melaraskan nada; garpu tala"
+        }
+      ]
+    },
+    {
+      "lema": "ta.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alas; dasar; lapis"
+        }
+      ]
+    },
+    {
+      "lema": "ta.la3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang Samoa"
+        }
+      ]
+    }
+  ]
+}

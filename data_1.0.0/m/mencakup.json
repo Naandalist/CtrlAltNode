@@ -1,0 +1,37 @@
+{
+  "istilah": "mencakup",
+  "entri": "cakup1 » men.ca.kup",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cakup1 » men.ca.kup",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menangkap dengan mulut (seperti buaya mengatupkan mulutnya apabila banyak lalat masuk ke mulutnya)"
+        }
+      ]
+    },
+    {
+      "lema": "cakup2 » men.ca.kup",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "menyauk; mencedok (dengan tangan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "mencangkum (merangkum) beberapa hal: aspek yang diselidikinya tidak ~ semua aktivitas manusia"
+        }
+      ]
+    }
+  ]
+}

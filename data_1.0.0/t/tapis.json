@@ -1,0 +1,50 @@
+{
+  "istilah": "tapis",
+  "entri": "ta.pis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menapis",
+    "penapis",
+    "penapisan",
+    "tapisan",
+    "tertapis"
+  ],
+  "gabunganKata": [
+    "tapis udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.pis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang dibuat dari kain dan sebagainya untuk memisahkan benda cair dari benda padat pencemar atau endapan untuk memisahkan benda padat yang berbeda ukurannya; penyaring"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pis2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gesit; tangkas (dalam bersilat dan sebagainya): ia tidak kalah -- dengan pamannya"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pis3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain tenunan bersulamkan benang emas untuk upacara adat di Lampung, biasanya dipakai oleh wanita"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "istilah": "potong",
+  "entri": "po.tong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpotong",
+    "berpotong-potong",
+    "berpotong-potongan",
+    "berpotongan",
+    "memotong",
+    "memotong-motong",
+    "memotongi",
+    "memotongkan",
+    "memperpotongkan",
+    "pemotong",
+    "pemotongan",
+    "potong-memotong",
+    "potongan",
+    "terpotong",
+    "terpotong-potong"
+  ],
+  "gabunganKata": [
+    "potong ayam",
+    "potong berponi",
+    "potong busur",
+    "potong kompas",
+    "potong kuku",
+    "potong kulup",
+    "potong leher",
+    "potong paruh",
+    "potong tahanan",
+    "potong tanduk",
+    "potong tempel"
+  ],
+  "peribahasa": [
+    "potong hidung, rusak muka; potong hidung, rusak muka"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.tong",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggal; kerat: bambu dua --; tiga -- daging"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kata penggolong bilangan bagi berbagai-bagai benda (seperti baju, kain, dan bungkusan): dua -- kain celana; kain baju satu --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memotong (mengerat, memenggal, menyembelih)"
+        }
+      ]
+    }
+  ]
+}

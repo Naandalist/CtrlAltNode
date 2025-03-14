@@ -1,0 +1,38 @@
+{
+  "istilah": "berasal",
+  "entri": "asal1 » ber.a.sal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ada angin, ada pohonnya (hujan berpohon, panas berasal); hujan berpohon, panas berasal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "asal1 » ber.a.sal",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bermula: peperangan itu ~ dari sengketa perbatasan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersumber: berita itu dapat dipercayai karena ~ dari pihak resmi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertempat asal (dibuat, dilahirkan, dan sebagainya): barang-barang yang ~ dari Jepang terdapat di mana-mana; dia ~ dari Jawa Timur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keturunan: dia ~ dari orang baik-baik"
+        }
+      ]
+    }
+  ]
+}

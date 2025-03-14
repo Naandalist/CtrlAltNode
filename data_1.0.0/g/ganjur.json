@@ -1,0 +1,39 @@
+{
+  "istilah": "ganjur",
+  "entri": "gan.jur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengganjur",
+    "mengganjuri",
+    "berganjur",
+    "berganjur-ganjur",
+    "mengganjur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tombak, lembing",
+    "kataAsal": "gañjur"
+  },
+  "data": [
+    {
+      "lema": "gan.jur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tombak"
+        }
+      ]
+    },
+    {
+      "lema": "gan.jur2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "tarik; hela; sentak"
+        }
+      ]
+    }
+  ]
+}

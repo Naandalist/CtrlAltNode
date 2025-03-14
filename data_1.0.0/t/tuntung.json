@@ -1,0 +1,74 @@
+{
+  "istilah": "tuntung",
+  "entri": "tun.tung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menuntung",
+    "setuntung",
+    "menuntungkan",
+    "tertuntung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tun.tung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujung (yang runcing): -- jarum; -- keris; -- lembing"
+        }
+      ]
+    },
+    {
+      "lema": "tun.tung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tabung kecil (untuk tempat garam dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "tun.tung3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlalu tinggi jika dibandingkan dengan besar tubuh atau batang; ramping; langsing (misalnya badan orang kurus, batang tebu yang tumbuh kerdil)"
+        }
+      ]
+    },
+    {
+      "lema": "tun.tung4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menuntung; setuntung"
+        }
+      ]
+    },
+    {
+      "lema": "tun.tung5",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menuntungkan"
+        }
+      ]
+    },
+    {
+      "lema": "tun.tung6",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kura-kura yang hidup di darat, bertelur pada waktu musim kemarau, telurnya lebih besar daripada telur itik"
+        }
+      ]
+    }
+  ]
+}

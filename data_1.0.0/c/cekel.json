@@ -1,0 +1,44 @@
+{
+  "istilah": "cekel",
+  "entri": "ce.kel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "cekel berhabis, lapuk berteduh"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.kel1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembing yang kecil"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kel2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kikir; bakhil; pelit"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kel3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "cantrik; murid pendeta"
+        }
+      ]
+    }
+  ]
+}

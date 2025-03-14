@@ -1,0 +1,37 @@
+{
+  "istilah": "mengekstrak",
+  "entri": "ekstrak1 » meng.eks.trak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ekstrak1 » meng.eks.trak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memperoleh; menghasilkan sesuatu melalui proses kimia: kita dapat ~ minyak asiri dengan penyulingan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyarikan"
+        }
+      ]
+    },
+    {
+      "lema": "ekstrak2 » meng.eks.trak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyalin; memetik"
+        }
+      ]
+    }
+  ]
+}

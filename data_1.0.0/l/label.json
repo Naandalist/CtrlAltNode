@@ -1,0 +1,56 @@
+{
+  "istilah": "label",
+  "entri": "la.bel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlabel",
+    "melabeli",
+    "melabelkan",
+    "pelabelan"
+  ],
+  "gabunganKata": [
+    "label bagasi",
+    "label eksternal",
+    "label gizi",
+    "label mutu",
+    "label rekaman",
+    "label tajuk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.bel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepotong kertas (kain, logam, kayu, dan sebagainya) yang ditempelkan pada barang dan menjelaskan tentang nama barang, nama pemilik, tujuan, alamat, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "etiket; merek dagang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "petunjuk singkat tentang zat yang terkandung dalam obat dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "petunjuk kelas kata, sumber kata, dan sebagainya dalam kamus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "catatan analisis pengujian mutu fisik, fisiologis, dan genetik dari benih dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "karakter atau himpunan karakter yang digunakan untuk mengidentifikasi suatu variabel atau bagian dari data atau berkas"
+        }
+      ]
+    }
+  ]
+}

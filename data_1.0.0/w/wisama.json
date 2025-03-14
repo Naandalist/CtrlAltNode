@@ -1,0 +1,33 @@
+{
+  "istilah": "wisama",
+  "entri": "wi.sa.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wi.sa.ma1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "gending yang memiliki dua kalimat pada tiap bait"
+        }
+      ]
+    },
+    {
+      "lema": "wi.sa.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "metrum Jawa Kuno yang terdiri atas tiga baris dengan jumlah suku kata setiap baris berbeda-beda"
+        }
+      ]
+    }
+  ]
+}

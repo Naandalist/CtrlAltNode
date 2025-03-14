@@ -1,0 +1,48 @@
+{
+  "istilah": "rawit",
+  "entri": "ra.wit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merawit",
+    "kerawitan",
+    "pengrawit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kecil-kecil cabai rawit; kecil-kecil cabai rawit"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "rawit"
+  },
+  "data": [
+    {
+      "lema": "ra.wit1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kecil: cabai -- cabai kecil (yang pedas)"
+        }
+      ]
+    },
+    {
+      "lema": "ra.wit2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "merawit"
+        }
+      ]
+    },
+    {
+      "lema": "ra.wit3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kerawitan; pengrawit"
+        }
+      ]
+    }
+  ]
+}

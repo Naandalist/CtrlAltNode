@@ -1,0 +1,33 @@
+{
+  "istilah": "sonder",
+  "entri": "son.der",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "son.der",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "selendang sutra pelengkap menari (biasanya untuk penutup bahu)"
+        }
+      ]
+    },
+    {
+      "lema": "son.der /sondêr/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tanpa; tidak dengan ...; tidak ber ...: penyakitnya dapat disembuhkan -- operasi; karena bingung dan panik, ia keluar dari kamar mandi -- pakaian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "peniti",
+  "entri": "pe.ni.ti1 /pêniti/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.ni.ti1 /pêniti/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jarum penyemat (pengelat)"
+        }
+      ]
+    },
+    {
+      "lema": "pe.ni.ti2 /pêniti/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "orang yang bertugas merawat perangkat gamelan"
+        }
+      ]
+    }
+  ]
+}

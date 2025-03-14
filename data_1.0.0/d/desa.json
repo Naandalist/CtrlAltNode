@@ -1,0 +1,66 @@
+{
+  "istilah": "desa",
+  "entri": "de.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kedesa-desaan",
+    "kedesaan",
+    "pedesaan",
+    "perdesaan",
+    "sedesa"
+  ],
+  "gabunganKata": [
+    "desa abdi",
+    "desa kaputihan",
+    "desa merah",
+    "desa mijen",
+    "desa pakuncen",
+    "desa perdikan",
+    "desa peristiwa",
+    "desa praja",
+    "desa siaga",
+    "desa swadaya",
+    "desa swakarya",
+    "desa swasembada",
+    "desa wisata",
+    "desa wisma"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "wilayah, area, porsi, negara, kerajaan",
+    "kataAsal": "deśa"
+  },
+  "data": [
+    {
+      "lema": "de.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesatuan wilayah yang dihuni oleh sejumlah keluarga yang mempunyai sistem pemerintahan sendiri (dikepalai oleh seorang kepala desa)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok rumah di luar kota yang merupakan kesatuan: di -- itu belum ada listrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "udik atau dusun (dalam arti daerah pedalaman sebagai lawan kota); hulu: ia hidup tenteram di -- terpencil di kaki gunung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tanah; tempat; daerah"
+        }
+      ]
+    },
+    {
+      "lema": "De.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa Dayak yang mendiami beberapa desa di wilayah Kabupaten Sanggau, Provinsi Kalimantan Barat"
+        }
+      ]
+    }
+  ]
+}

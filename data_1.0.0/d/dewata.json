@@ -1,0 +1,33 @@
+{
+  "istilah": "dewata",
+  "entri": "de.wa.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kedewataan",
+    "mendewatakan"
+  ],
+  "gabunganKata": [
+    "dewata Mulia Raya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "status kedewaan",
+    "kataAsal": "devata"
+  },
+  "data": [
+    {
+      "lema": "de.wa.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "dewa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sifat dewa; kedewaan"
+        }
+      ]
+    }
+  ]
+}

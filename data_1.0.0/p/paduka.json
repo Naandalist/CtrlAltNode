@@ -1,0 +1,36 @@
+{
+  "istilah": "paduka",
+  "entri": "pa.du.ka1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "paduka liku",
+    "paduka matur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kaki raja, gambaran kaki dari dewa, Tuhan, atau orang suci",
+    "kataAsal": "pādukā"
+  },
+  "data": [
+    {
+      "lema": "pa.du.ka1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan hormat terhadap orang-orang mulia (pembesar, bangsawan, raja)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.du.ka2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepatu; lapik kaki"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "harkat",
+  "entri": "har.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berharkat",
+    "pengharkatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "gerak; pergerakan; baris tanda bunyi a (fatah), i (kasrah), u (damah)",
+    "kataAsal": "ḥarakah"
+  },
+  "data": [
+    {
+      "lema": "har.kat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "derajat (kemuliaan dan sebagainya); taraf; mutu; nilai; harga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tenaga; kekuatan; gerak(an)"
+        }
+      ]
+    }
+  ]
+}

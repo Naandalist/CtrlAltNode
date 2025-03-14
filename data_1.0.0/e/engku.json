@@ -1,0 +1,41 @@
+{
+  "istilah": "engku",
+  "entri": "eng.ku1 /êngku/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eng.ku1 /êngku/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada keluarga raja; kata sapaan kepada orang yang patut dihormati (guru dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "eng.ku2 /êngku/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "paman; mamak (dari pihak ibu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kata sapaan kepada kakek (datuk)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "sebutan (kata sapaan) untuk laki-laki dewasa sebaya yang tidak dikenal; angku"
+        }
+      ]
+    }
+  ]
+}

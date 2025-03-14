@@ -1,0 +1,31 @@
+{
+  "istilah": "gencar",
+  "entri": "gen.car /gêncar/bentuk tidak baku: gencer",
+  "bentukTidakBaku": "gencer",
+  "kataTurunan": [
+    "menggencar",
+    "menggencarkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gen.car /gêncar/bentuk tidak baku: gencer",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terus-menerus tidak terputus-putus (tentang tembakan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cepat sekali: dengan -- ia memukuli lawannya"
+        }
+      ]
+    }
+  ]
+}

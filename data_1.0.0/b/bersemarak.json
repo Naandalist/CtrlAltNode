@@ -1,0 +1,32 @@
+{
+  "istilah": "bersemarak",
+  "entri": "marak1 » ber.se.ma.rak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "marak1 » ber.se.ma.rak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ada semaraknya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keadaan semarak"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berseri; gilang-gemilang; semarak: lampu neon ~ menerangi seluruh kota; kuning ~ cuaca alam"
+        }
+      ]
+    }
+  ]
+}

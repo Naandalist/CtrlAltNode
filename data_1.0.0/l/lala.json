@@ -1,0 +1,44 @@
+{
+  "istilah": "lala",
+  "entri": "la.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melala"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "siput"
+        }
+      ]
+    },
+    {
+      "lema": "la.la2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melala"
+        }
+      ]
+    },
+    {
+      "lema": "La.la3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bm[Bima: -]",
+          "deskripsi": "gelar untuk bangsawan perempuan suku Bima yang masih gadis"
+        }
+      ]
+    }
+  ]
+}

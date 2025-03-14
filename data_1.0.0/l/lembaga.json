@@ -1,0 +1,88 @@
+{
+  "istilah": "lembaga",
+  "entri": "lem.ba.ga1 /lêmbaga/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlembaga",
+    "kelembagaan",
+    "melembaga",
+    "melembagakan",
+    "pelembagaan",
+    "perlembagaan",
+    "terlembagakan"
+  ],
+  "gabunganKata": [
+    "Lembaga Administrasi Negara",
+    "lembaga daerah",
+    "lembaga daun",
+    "lembaga internasional",
+    "lembaga jasa",
+    "lembaga keagamaan",
+    "lembaga keuangan",
+    "lembaga keuangan bukan bank",
+    "lembaga kliring",
+    "lembaga konsumen",
+    "lembaga manusia",
+    "lembaga pemasyarakatan",
+    "lembaga Pembiayaan Pembangunan",
+    "lembaga pemerintah",
+    "lembaga pemikir",
+    "lembaga pemodal",
+    "lembaga penjamin simpanan",
+    "lembaga penyimpanan efek",
+    "lembaga perlindungan anak",
+    "lembaga perlindungan saksi dan korban",
+    "lembaga Pertahanan Nasional",
+    "lembaga swadaya masyarakat",
+    "lembaga Virologi",
+    "lembaga bisul"
+  ],
+  "peribahasa": [
+    "adat diisi, lembaga dituang; adat diisi, lembaga dituang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lem.ba.ga1 /lêmbaga/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asal mula (yang akan menjadi sesuatu); bakal (binatang, manusia, atau tumbuhan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk (rupa, wujud) yang asli"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "acuan, ikatan (tentang mata cincin dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "badan (organisasi) yang tujuannya melakukan suatu penyelidikan keilmuan atau melakukan suatu usaha"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kepala suku (di Negeri Sembilan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pola perilaku manusia yang mapan, terdiri atas interaksi sosial berstruktur dalam suatu kerangka nilai yang relevan"
+        }
+      ]
+    },
+    {
+      "lema": "lem.ba.ga2 /lêmbaga/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "sporofit muda calon tumbuhan baru yang terdapat dalam biji, terdiri atas radikula, hipokotil, epikotil, dan kotiledon"
+        }
+      ]
+    }
+  ]
+}

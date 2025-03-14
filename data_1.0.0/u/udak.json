@@ -1,0 +1,35 @@
+{
+  "istilah": "udak",
+  "entri": "u.dak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengudak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.dak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kejar"
+        }
+      ]
+    },
+    {
+      "lema": "u.dak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "mengudak-udak, mengaduk-aduk menjadi satu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "forum",
+  "entri": "fo.rum bentuk tidak baku: fora",
+  "bentukTidakBaku": "fora",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fo.rum bentuk tidak baku: fora",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembaga atau badan; wadah: kita perlu membentuk suatu -- tempat membicarakan kepentingan bersama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sidang: kedua perkara itu akan dibawa ke depan -- terbuka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat pertemuan untuk bertukar pikiran secara bebas: -- itu sering dimanfaatkan untuk diskusi ilmiah"
+        }
+      ]
+    }
+  ]
+}

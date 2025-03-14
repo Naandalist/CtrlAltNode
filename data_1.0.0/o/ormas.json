@@ -1,0 +1,30 @@
+{
+  "istilah": "ormas",
+  "entri": "or.mas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keormasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "or.mas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "organisasi massa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "organisasi masyarakat"
+        }
+      ]
+    }
+  ]
+}

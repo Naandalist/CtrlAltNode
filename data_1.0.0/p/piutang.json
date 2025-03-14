@@ -1,0 +1,36 @@
+{
+  "istilah": "piutang",
+  "entri": "pi.u.tang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpiutang",
+    "memiutangi",
+    "memiutangkan"
+  ],
+  "gabunganKata": [
+    "piutang dagang",
+    "piutang ragu",
+    "piutang tak tertagih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.u.tang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang yang dipinjamkan (yang dapat ditagih dari seseorang); utang piutang, uang yang dipinjam dari orang lain dan yang dipinjamkan kepada orang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tagihan uang perusahaan kepada para pelanggan yang diharapkan akan dilunasi dalam waktu paling lama satu tahun sejak tanggal keluarnya tagihan"
+        }
+      ]
+    }
+  ]
+}

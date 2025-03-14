@@ -1,0 +1,35 @@
+{
+  "istilah": "safar",
+  "entri": "sa.far2",
+  "bentukTidakBaku": "Sapar",
+  "kataTurunan": [
+    "bersafar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bulan ke-2 tahun Hijriah",
+    "kataAsal": "ṣafar"
+  },
+  "data": [
+    {
+      "lema": "sa.far2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perjalanan"
+        }
+      ]
+    },
+    {
+      "lema": "Sa.far1 bentuk tidak baku: Sapar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bulan ke-2 tahun Hijriah (29 hari)"
+        }
+      ]
+    }
+  ]
+}

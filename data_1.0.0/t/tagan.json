@@ -1,0 +1,49 @@
+{
+  "istilah": "tagan",
+  "entri": "ta.gan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menagan",
+    "bertagan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.gan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "taruhan (dalam perjudian)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang dan sebagainya yang dimasukkan untuk modal bersama atau untuk bersama-sama mengadakan suatu kegiatan usaha"
+        }
+      ]
+    },
+    {
+      "lema": "ta.gan2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menagan"
+        }
+      ]
+    },
+    {
+      "lema": "ta.gan3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cerai"
+        }
+      ]
+    }
+  ]
+}

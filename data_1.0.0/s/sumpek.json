@@ -1,0 +1,38 @@
+{
+  "istilah": "sumpek",
+  "entri": "sum.pek /sumpêk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesumpekan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "terbalik, terhalangi, dirintangi",
+    "kataAsal": "sumpěk"
+  },
+  "data": [
+    {
+      "lema": "sum.pek /sumpêk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sesak; sempit: kampung itu makin -- karena kebanyakan penduduk"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pengap: kamarnya kecil dan --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merasa tidak enak (melihat dan sebagainya) sesuatu: saya -- kalau melihat pakaian kotor bergelantungan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "risau (tentang hati dan sebagainya); resah: yang penting saya ingin bercerita supaya hati saya tidak --"
+        }
+      ]
+    }
+  ]
+}

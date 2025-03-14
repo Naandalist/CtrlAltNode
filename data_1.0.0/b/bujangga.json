@@ -1,0 +1,34 @@
+{
+  "istilah": "bujangga",
+  "entri": "bu.jang.ga bentuk tidak baku: bujanggi",
+  "bentukTidakBaku": "bujanggi",
+  "kataTurunan": [
+    "kebujanggaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.jang.ga bentuk tidak baku: bujanggi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendeta; petapa; orang cerdik pandai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengarang syair (sajak dan sebagainya); ahli sastra; pujangga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "pemuda pembawa perisai"
+        }
+      ]
+    }
+  ]
+}

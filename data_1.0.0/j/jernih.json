@@ -1,0 +1,39 @@
+{
+  "istilah": "jernih",
+  "entri": "jer.nih /jêrnih/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kejernihan",
+    "menjernihkan",
+    "penjernih",
+    "penjernihan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "air jernih, ikannya jinak; puyu di air jernih"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jernih, murni",
+    "kataAsal": "jarnih"
+  },
+  "data": [
+    {
+      "lema": "jer.nih /jêrnih/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlihat terang (tentang air); bening; bersih; tidak keruh: air itu --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "berseri (tentang muka); tidak muram: mukanya -- pertanda hatinya bersih"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak kacau; runtut (tentang jalan pikiran dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

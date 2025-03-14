@@ -1,0 +1,63 @@
+{
+  "istilah": "lancang",
+  "entri": "lan.cang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelancangan",
+    "berlancang",
+    "lancang-lancang"
+  ],
+  "gabunganKata": [
+    "lancang kaki",
+    "lancang mulut",
+    "lancang tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tipe jenis perahu (tanpa layar)",
+    "kataAsal": "lañcaṅ"
+  },
+  "data": [
+    {
+      "lema": "lan.cang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tahu adat; kurang sopan terhadap orang tua dan sebagainya: dengan --nya anak itu mengucapkan kata-kata kasar terhadap ibunya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlalu berani mengambil keputusan sendiri, di luar yang disepakati: dengan -- tanpa menyelidiki lebih dulu, ia telah menyampaikan berita yang belum pasti kebenarannya itu"
+        }
+      ]
+    },
+    {
+      "lema": "lan.cang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perahu layar yang sangat laju, dipakai sebagai kapal perang pada zaman dahulu"
+        }
+      ]
+    },
+    {
+      "lema": "lan.cang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat sirih"
+        }
+      ]
+    },
+    {
+      "lema": "lan.cang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun biji kacang"
+        }
+      ]
+    }
+  ]
+}

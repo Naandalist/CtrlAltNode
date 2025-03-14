@@ -1,0 +1,35 @@
+{
+  "istilah": "sigung",
+  "entri": "si.gung1",
+  "bentukTidakBaku": "singgung2",
+  "kataTurunan": [
+    "menyigung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.gung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyigung"
+        }
+      ]
+    },
+    {
+      "lema": "si.gung2 bentuk tidak baku: singgung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mamalia karnivor yang dapat mengeluarkan bau busuk jika terganggu, berambut panjang dan lebat, warnanya hitam atau cokelat tua dengan garis putih memanjang dari bagian tengah kepala hingga ekor〔Mydaus javanensis〕"
+        }
+      ]
+    }
+  ]
+}

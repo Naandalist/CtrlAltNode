@@ -1,0 +1,33 @@
+{
+  "istilah": "ras",
+  "entri": "ras1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ras1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi daun kering bergesekan"
+        }
+      ]
+    },
+    {
+      "lema": "ras2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan bangsa berdasarkan ciri-ciri fisik; rumpun bangsa: warga negara Amerika terdiri atas pelbagai --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "seragam",
+  "entri": "ragam1 » se.ra.gam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berseragam",
+    "keseragaman",
+    "menyeragamkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ragam1 » se.ra.gam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sama ragamnya; sejenis; sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(pakaian) yang sama potongan dan warnanya: baju ~"
+        }
+      ]
+    },
+    {
+      "lema": "se.ra.gam /sêragam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sama ragam (corak, bentuk, susunan): pakaian --"
+        }
+      ]
+    }
+  ]
+}

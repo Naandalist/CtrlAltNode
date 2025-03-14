@@ -1,0 +1,37 @@
+{
+  "istilah": "takbir",
+  "entri": "tak.bir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertakbir",
+    "takbiran",
+    "menakbirkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengungkapan; penafsiran (tentang mimpi)",
+    "kataAsal": "ta‘bīr"
+  },
+  "data": [
+    {
+      "lema": "tak.bir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "seruan atau ucapan Allahu Akbar ‘Allah Mahabesar’: menjelang Idulfitri dan Idhuladha orang mengumandangkan --"
+        }
+      ]
+    },
+    {
+      "lema": "tak.bir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "penyingkapan; takwil (biasanya tentang mimpi): ia mendapat petunjuk melalui -- mimpinya"
+        }
+      ]
+    }
+  ]
+}

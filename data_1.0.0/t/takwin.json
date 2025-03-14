@@ -1,0 +1,28 @@
+{
+  "istilah": "takwin",
+  "entri": "tak.win",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembentukan; pembuatan",
+    "kataAsal": "takwīn"
+  },
+  "data": [
+    {
+      "lema": "tak.win",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "menjadikan; membentuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "uraian untuk menerangkan; penjelasan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "efluen",
+  "entri": "ef.lu.en",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "efluen industri",
+    "efluen pertanian"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ef.lu.en",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampah padat, cair atau gas yang memasuki lingkungan sebagai suatu produk samping (tambahan) dari kegiatan manusia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengaliran atau pencurahan air tanah atau air di bawah permukaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "luahan dari pabrik pulp dan kertas yang cenderung mencemari lingkungan, terutama perairan, danau, dan bahan air yang lain"
+        }
+      ]
+    }
+  ]
+}

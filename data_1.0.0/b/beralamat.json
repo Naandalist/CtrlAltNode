@@ -1,0 +1,38 @@
+{
+  "istilah": "beralamat",
+  "entri": "alamat » ber.a.la.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "menembak beralamat, berkata bertujuan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "alamat » ber.a.la.mat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ada alamatnya (adresnya): surat-surat yang tidak ~ si pengirim sudah disisihkannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ditujukan (kepada): kritik itu ~ kepada panitia"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memberikan tanda (akan terjadi sesuatu): ~ kurang baik"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersasaran; bertujuan"
+        }
+      ]
+    }
+  ]
+}

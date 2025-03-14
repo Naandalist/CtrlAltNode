@@ -1,0 +1,28 @@
+{
+  "istilah": "korteks",
+  "entri": "kor.teks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "korteks adrenal",
+    "korteks serebral",
+    "korteks serebri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kor.teks",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian luar suatu alat organ"
+        }
+      ]
+    }
+  ]
+}

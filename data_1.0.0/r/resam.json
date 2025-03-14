@@ -1,0 +1,37 @@
+{
+  "istilah": "resam",
+  "entri": "re.sam1 /rêsam/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "seresam"
+  ],
+  "gabunganKata": [
+    "resam tubuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bekas",
+    "kataAsal": "rasm"
+  },
+  "data": [
+    {
+      "lema": "re.sam1 /rêsam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan jenis pakis, batangnya keras, dapat dibuat kalam; paku rotan〔Gleichenia linearis〕"
+        }
+      ]
+    },
+    {
+      "lema": "re.sam2 /rêsam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adat kebiasaan; aturan-aturan yang menjadi adat; pembawaan"
+        }
+      ]
+    }
+  ]
+}

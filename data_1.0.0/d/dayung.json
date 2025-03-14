@@ -1,0 +1,52 @@
+{
+  "istilah": "dayung",
+  "entri": "da.yung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdayung",
+    "dayung-mayung",
+    "mendayung",
+    "mendayungkan",
+    "pedayung",
+    "pendayung"
+  ],
+  "gabunganKata": [
+    "dayung batang",
+    "dayung gebeng",
+    "dayung kebas",
+    "dayung merpati sekawan",
+    "dayung peminggang",
+    "dayung tudung belanga"
+  ],
+  "peribahasa": [
+    "sekali merengkuh dayung, dua tiga pulau terlampaui"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dayung; sirip dada ikan",
+    "kataAsal": "ḍayuṅ"
+  },
+  "data": [
+    {
+      "lema": "da.yung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkat besar yang pipih dan lebar pada ujungnya untuk mengayuh (menjalankan, menggerakkan) perahu; pengayuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "injak-injak pada sepeda (untuk menjalankannya); pedal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sirip pada dada ikan sebagai alat untuk berenang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "olahraga air dengan menggunakan perahu"
+        }
+      ]
+    }
+  ]
+}

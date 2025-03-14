@@ -1,0 +1,32 @@
+{
+  "istilah": "sekstet",
+  "entri": "sek.stet",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sek.stet",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "gubahan lagu yang dinyanyikan oleh enam penyanyi atau dimainkan oleh enam orang pemain musik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "grup penyanyi atau orkes yang terdiri atas enam orang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "sajak enam seuntai"
+        }
+      ]
+    }
+  ]
+}

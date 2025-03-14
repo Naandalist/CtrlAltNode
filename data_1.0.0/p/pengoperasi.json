@@ -1,0 +1,28 @@
+{
+  "istilah": "pengoperasi",
+  "entri": "operasi » peng.o.pe.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "operasi » peng.o.pe.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang mengoperasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "besaran yang menjalankan operasi matematika"
+        }
+      ]
+    }
+  ]
+}

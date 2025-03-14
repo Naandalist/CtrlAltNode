@@ -1,0 +1,40 @@
+{
+  "istilah": "istilah",
+  "entri": "is.ti.lah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengistilahkan",
+    "pengistilahan",
+    "peristilahan"
+  ],
+  "gabunganKata": [
+    "istilah kekerabatan",
+    "istilah khusus",
+    "istilah umum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kesepakatan sekelompok orang atas hal tertentu",
+    "kataAsal": "iṣṭilāḥ"
+  },
+  "data": [
+    {
+      "lema": "is.ti.lah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata atau gabungan kata yang dengan cermat mengungkapkan makna konsep, proses, keadaan, atau sifat yang khas dalam bidang tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebutan; nama: janda muda disebut dengan -- “janda kembang”"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata atau ungkapan khusus"
+        }
+      ]
+    }
+  ]
+}

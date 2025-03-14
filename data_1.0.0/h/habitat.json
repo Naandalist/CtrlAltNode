@@ -1,0 +1,37 @@
+{
+  "istilah": "habitat",
+  "entri": "ha.bi.tat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhabitat"
+  ],
+  "gabunganKata": [
+    "habitat kering",
+    "habitat satwa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.bi.tat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat tinggal khas bagi seseorang atau kelompok masyarakat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "tempat hidup organisme tertentu; tempat hidup yang alami (bagi tumbuhan dan hewan); lingkungan kehidupan asli"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "tempat kediaman atau kehidupan tumbuhan, hewan, dan manusia dengan kondisi tertentu pada permukaan bumi"
+        }
+      ]
+    }
+  ]
+}

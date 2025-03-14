@@ -1,0 +1,37 @@
+{
+  "istilah": "busi",
+  "entri": "bu.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkal cahaya pada lampu listrik atau lampu gas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat pencetus api untuk meletupkan gas dalam motor"
+        }
+      ]
+    },
+    {
+      "lema": "bu.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pecahan beras yang halus; melukut; menir"
+        }
+      ]
+    }
+  ]
+}

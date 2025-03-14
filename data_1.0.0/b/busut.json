@@ -1,0 +1,35 @@
+{
+  "istilah": "busut",
+  "entri": "bu.sut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membusut"
+  ],
+  "gabunganKata": [
+    "busut betina",
+    "busut jantan"
+  ],
+  "peribahasa": [
+    "busut juga yang ditimbun anai-anai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.sut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "longgok tanah sarang anai-anai, semut, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bukit kecil"
+        }
+      ]
+    }
+  ]
+}

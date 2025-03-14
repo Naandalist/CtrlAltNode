@@ -1,0 +1,35 @@
+{
+  "istilah": "substrat",
+  "entri": "sub.strat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "substrat kromogen",
+    "substrat sintetis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sub.strat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "landasan; alas; dasar; dasar hidup jasad: tanah adalah -- tanam-tanaman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "senyawa yang mengalami perubahan oleh hasil kerja enzim; zat yang diubah oleh enzim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teknik hidroponik yang memberi air dan nutrisi dalam bentuk tetesan, tetesan diarahkan tepat pada daerah perakaran tanaman agar tanaman dapat langsung menyerap air dan nutrisi"
+        }
+      ]
+    }
+  ]
+}

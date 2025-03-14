@@ -1,0 +1,42 @@
+{
+  "istilah": "kunca",
+  "entri": "kun.ca1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kun.ca1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bakul (keranjang) kecil yang biasanya terbuat dari anyaman bambu"
+        }
+      ]
+    },
+    {
+      "lema": "kun.ca2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "ujung kain atau sudut kain; punca"
+        }
+      ]
+    },
+    {
+      "lema": "kun.ca3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "ukuran padi (sekitar 160 gantang)"
+        }
+      ]
+    }
+  ]
+}

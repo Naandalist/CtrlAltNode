@@ -1,0 +1,48 @@
+{
+  "istilah": "kerik",
+  "entri": "ke.rik1 /kêrik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengerik",
+    "kerikan",
+    "mengerik"
+  ],
+  "gabunganKata": [
+    "kerik api"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "kěrik"
+  },
+  "data": [
+    {
+      "lema": "ke.rik1 /kêrik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi “rik, rik” (tentang bunyi gesekan sayap jangkrik, barang yang dikerik, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.rik2 /kêrik/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kikis dengan benda tajam, gosok dengan uang logam"
+        }
+      ]
+    },
+    {
+      "lema": "ke.rik3 /kêrik/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kerik api"
+        }
+      ]
+    }
+  ]
+}

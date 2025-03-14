@@ -1,0 +1,37 @@
+{
+  "istilah": "katarak",
+  "entri": "ka.ta.rak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.ta.rak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pengaburan lensa mata dan membran transparan di sekitarnya yang menghalangi jalan masuknya cahaya; bular mata"
+        }
+      ]
+    },
+    {
+      "lema": "ka.ta.rak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rangkaian beberapa air terjun pada sebuah sungai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air terjun besar"
+        }
+      ]
+    }
+  ]
+}

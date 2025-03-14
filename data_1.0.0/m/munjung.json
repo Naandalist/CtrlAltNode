@@ -1,0 +1,35 @@
+{
+  "istilah": "munjung",
+  "entri": "mun.jung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memunjung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menonjol, menjulang",
+    "kataAsal": "muñjuṅ"
+  },
+  "data": [
+    {
+      "lema": "mun.jung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh (lebih tinggi daripada permukaan takaran); mumbung"
+        }
+      ]
+    },
+    {
+      "lema": "mun.jung2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "memuja makhluk halus tertentu untuk memperoleh kekayaan"
+        }
+      ]
+    }
+  ]
+}

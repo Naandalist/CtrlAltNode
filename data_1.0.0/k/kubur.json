@@ -1,0 +1,40 @@
+{
+  "istilah": "kubur",
+  "entri": "ku.bur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkubur",
+    "kuburan",
+    "mengubur",
+    "menguburkan",
+    "pekuburan",
+    "pengubur",
+    "penguburan",
+    "perkuburan",
+    "terkubur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kita semua mati, tetapi kubur masing-masing; membalik-balik mayat di kubur"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat meletakkan mayat",
+    "kataAsal": "qubūr"
+  },
+  "data": [
+    {
+      "lema": "ku.bur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang dalam tanah tempat menyimpan mayat; liang lahad"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat pemakaman jenazah; makam: ia berziarah ke -- ayahnya"
+        }
+      ]
+    }
+  ]
+}

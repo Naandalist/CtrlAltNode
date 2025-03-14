@@ -1,0 +1,42 @@
+{
+  "istilah": "telanjang",
+  "entri": "te.lan.jang /têlanjang/bentuk tidak baku: lanjang2",
+  "bentukTidakBaku": "lanjang2",
+  "kataTurunan": [
+    "bertelanjang",
+    "ketelanjangan",
+    "menelanjangi",
+    "menelanjangkan",
+    "penelanjangan"
+  ],
+  "gabunganKata": [
+    "telanjang bulat",
+    "telanjang dada",
+    "telanjang loncos"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.lan.jang /têlanjang/bentuk tidak baku: lanjang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak berpakaian: banyak anak kecil yang mandi -- di sungai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terhunus (tidak bersarung tentang keris, pedang): ia memakai pedang --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak mempunyai pakaian (perhiasan dan sebagainya): semuanya habis dalam perjudian hingga pulang --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "jorong",
+  "entri": "jo.rong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "jorong padi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jo.rong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bulat panjang: pinggan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat sirih yang bangunnya bulat panjang"
+        }
+      ]
+    },
+    {
+      "lema": "jo.rong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang menganjur atau menyembul (tentang tanah, buah, dan sebagainya): -- bukit-bukit itu tampak permai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian desa; dukuh; sudut; penjuru: ia menghilang di kelok --"
+        }
+      ]
+    }
+  ]
+}

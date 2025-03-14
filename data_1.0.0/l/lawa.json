@@ -1,0 +1,65 @@
+{
+  "istilah": "lawa",
+  "entri": "la.wa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melawa",
+    "pelawa",
+    "melawa"
+  ],
+  "gabunganKata": [
+    "lawa pisang batu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.wa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mks[Makassar: -]",
+          "deskripsi": "urap"
+        }
+      ]
+    },
+    {
+      "lema": "la.wa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "papan yang dipasang melintang sebagai galang (palang) pada perahu dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rintangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "palang jalan"
+        }
+      ]
+    },
+    {
+      "lema": "la.wa3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menarik hati, indah: bentuk mukanya lebih -- daripada kawannya"
+        }
+      ]
+    },
+    {
+      "lema": "la.wa4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bg[Bugis: -]",
+          "deskripsi": "masakan yang dibuat dari ikan mentah atau jantung pisang, dicampur dengan kelapa parut atau kelapa goreng, rempah-rempah, dan cuka"
+        }
+      ]
+    }
+  ]
+}

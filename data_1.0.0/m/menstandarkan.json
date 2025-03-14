@@ -1,0 +1,33 @@
+{
+  "istilah": "menstandarkan",
+  "entri": "standar1 » men.stan.dar.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "standar1 » men.stan.dar.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasang standar (alat penopang): ia ~ sepedanya di tepi jalan"
+        }
+      ]
+    },
+    {
+      "lema": "standar2 » men.stan.dar.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadikan standar; membakukan"
+        }
+      ]
+    }
+  ]
+}

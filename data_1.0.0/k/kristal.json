@@ -1,0 +1,45 @@
+{
+  "istilah": "kristal",
+  "entri": "kris.tal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkristal",
+    "mengkristal",
+    "mengkristalkan",
+    "pengkristalan",
+    "terkristal"
+  ],
+  "gabunganKata": [
+    "kristal ionik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kris.tal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hablur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "unsur pembentukan batuan yang atomnya tersusun dan terikat oleh kekuatan intermolekuler sehingga menjadi padat"
+        }
+      ]
+    },
+    {
+      "lema": "kris.tal2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat jelas dan jernih (tentang suara)"
+        }
+      ]
+    }
+  ]
+}

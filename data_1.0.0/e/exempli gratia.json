@@ -1,0 +1,33 @@
+{
+  "istilah": "exempli gratia",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "untuk contoh; disingkat e.g."
+        }
+      ]
+    },
+    {
+      "lema": "exempli gratia",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "untuk contoh; disingkat e.g."
+        }
+      ]
+    }
+  ]
+}

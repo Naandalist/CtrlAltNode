@@ -1,0 +1,37 @@
+{
+  "istilah": "direktori",
+  "entri": "di.rek.to.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "direktori dua tingkat",
+    "direktori level tunggal",
+    "direktori rumah",
+    "direktori saat ini"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.rek.to.ri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "katalog dokumen atau berkas yang berada dalam diska komputer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "cara pengorganisasian dan pengelompokan berkas sehingga pengguna tidak kewalahan oleh daftar panjang dari nama berkas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daftar nama atau alamat yang disusun secara alfabetis atau berdasarkan pengelompokan tertentu: -- putusan peradilan"
+        }
+      ]
+    }
+  ]
+}

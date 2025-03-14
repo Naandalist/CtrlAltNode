@@ -1,0 +1,54 @@
+{
+  "istilah": "lembur",
+  "entri": "lem.bur1 /lêmbur/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melembur",
+    "melemburkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bekerja sampai larut malam",
+    "kataAsal": "lěmbur"
+  },
+  "data": [
+    {
+      "lema": "lem.bur1 /lêmbur/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekerjaan dinas yang dikerjakan di luar jam (waktu) dinas: hari ini tidak ada --, semua karyawan boleh pulang seperti biasa"
+        }
+      ]
+    },
+    {
+      "lema": "lem.bur2 /lêmbur/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lambur"
+        }
+      ]
+    },
+    {
+      "lema": "lem.bur3 /lêmbur/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ limbur"
+        }
+      ]
+    },
+    {
+      "lema": "lem.bur4 /lêmbur/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "bagian kampung yang merupakan kesatuan"
+        }
+      ]
+    }
+  ]
+}

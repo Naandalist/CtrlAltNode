@@ -1,0 +1,32 @@
+{
+  "istilah": "brahmana",
+  "entri": "brah.ma.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "orang suci yang memiliki sifat ketuhanan",
+    "kataAsal": "brāhmaṇa"
+  },
+  "data": [
+    {
+      "lema": "brah.ma.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pandita agama Hindu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hin[Agama Hindu: -]",
+          "deskripsi": "satu dari empat golongan dalam caturwarna, yaitu golongan pandita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hin[Agama Hindu: -]",
+          "deskripsi": "pemimpin upacara agama Hindu"
+        }
+      ]
+    }
+  ]
+}

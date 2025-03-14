@@ -1,0 +1,36 @@
+{
+  "istilah": "ilah",
+  "entri": "i.lah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berilah",
+    "keilahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyakit; alasan",
+    "kataAsal": "‘illah"
+  },
+  "data": [
+    {
+      "lema": "i.lah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "sembahan; yang disembah"
+        }
+      ]
+    },
+    {
+      "lema": "i.lah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ilat"
+        }
+      ]
+    }
+  ]
+}

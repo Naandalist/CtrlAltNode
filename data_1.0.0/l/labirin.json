@@ -1,0 +1,35 @@
+{
+  "istilah": "labirin",
+  "entri": "la.bi.rin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "labirin akustik",
+    "labirin menyelaput"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.bi.rin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat yang penuh dengan jalan dan lorong yang berliku-liku dan simpang siur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susunan, aturan, dan sebagainya yang sangat rumit dan berbelit-belit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem rongga atau saluran yang berhubungan"
+        }
+      ]
+    }
+  ]
+}

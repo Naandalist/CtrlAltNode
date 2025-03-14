@@ -1,0 +1,40 @@
+{
+  "istilah": "disiplin",
+  "entri": "di.sip.lin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdisiplin",
+    "kedisiplinan",
+    "mendisiplinkan",
+    "sedisiplin"
+  ],
+  "gabunganKata": [
+    "disiplin ilmiah",
+    "disiplin nasional"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.sip.lin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tata tertib (di sekolah, kemiliteran, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketaatan (kepatuhan) kepada peraturan (tata tertib dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bidang studi yang memiliki objek, sistem, dan metode tertentu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "seruak",
+  "entri": "se.ru.ak1 /sêruak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyeruak",
+    "seruakan"
+  ],
+  "gabunganKata": [
+    "seruak badai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.ru.ak1 /sêruak/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyeruak"
+        }
+      ]
+    },
+    {
+      "lema": "se.ru.ak2 /sêruak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hidm[Hidrometeorologi: -]",
+          "deskripsi": "kenaikan tekanan atmosfer yang lebih tinggi dibandingkan dengan kenaikan akibat gerakan lembangan atau antisiklon di sekitarnya"
+        }
+      ]
+    }
+  ]
+}

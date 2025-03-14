@@ -1,0 +1,43 @@
+{
+  "istilah": "ruas",
+  "entri": "ru.as1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beruas-ruas",
+    "peruasan",
+    "seruas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "batang betung beruas-ruas; bertemu ruas dengan buku; bertemu ruas dengan buku; pilih-pilih ruas, terpilih pada buku; pilih-pilih ruas, terpilih pada buku (terkena buku buluh); terentak ruas ke buku"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.as1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian antara buku dan buku atau antara sendi dan sendi (pada jari, bambu, tebu, dan sebagainya): -- tebu itu panjang-panjang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian antara satu tempat (kota) dan tempat (kota) yang lain (tentang jalan)"
+        }
+      ]
+    },
+    {
+      "lema": "ru.as2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lai"
+        }
+      ]
+    }
+  ]
+}

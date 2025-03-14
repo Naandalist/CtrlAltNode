@@ -1,0 +1,45 @@
+{
+  "istilah": "melucutkan",
+  "entri": "lucut1 » me.lu.cut.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lucut1 » me.lu.cut.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menanggalkan (pakaian, perhiasan, dan sebagainya); melepaskan (tali, ikatan, dan sebagainya); meluluskan (cincin, gelang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] El[Elektronika: -]",
+          "deskripsi": "memberi (lawan dari memuat): aki ~ arus listrik ke lampu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] El[Elektronika: -]",
+          "deskripsi": "mengeluarkan: penghantar itu ~ muatan listrik ke tanah setelah menyentuh tanah"
+        }
+      ]
+    },
+    {
+      "lema": "lucut3 » me.lu.cut.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melenyapkan; menghilangkan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencelakakan"
+        }
+      ]
+    }
+  ]
+}

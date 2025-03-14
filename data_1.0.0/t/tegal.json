@@ -1,0 +1,61 @@
+{
+  "istilah": "tegal",
+  "entri": "te.gal1 /têgal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tegalan"
+  ],
+  "gabunganKata": [
+    "tegal itulah"
+  ],
+  "peribahasa": [
+    "alah bisa, tegal biasa"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "(khusus) ladang yang tidak diairi",
+    "kataAsal": "těgal"
+  },
+  "data": [
+    {
+      "lema": "te.gal1 /têgal/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "karena; sebab"
+        }
+      ]
+    },
+    {
+      "lema": "te.gal2 /têgal/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah yang luas serta rata (yang ditanami palawija dan sebagainya dengan tidak mempergunakan sistem irigasi dan bergantung pada hujan); ladang; huma"
+        }
+      ]
+    },
+    {
+      "lema": "te.gal3 /têgal/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang hidup di air payau atau laut, ukurannya mencapai 80 cm, dapat mencapai berat 4 kg, hidup di kolom perairan tropis dengan kedalaman 20–100 m, tersebar di perairan Indo-Pasifik (Afrika Timur hingga Jepang dan Australia)〔Megalaspis cordyla〕"
+        }
+      ]
+    },
+    {
+      "lema": "Te.gal4 /têgal/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota yang terletak di bagian utara Provinsi Jawa Tengah, terkenal dengan sebutan Kota Bahari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Jawa Tengah"
+        }
+      ]
+    }
+  ]
+}

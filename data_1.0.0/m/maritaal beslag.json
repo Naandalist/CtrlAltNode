@@ -1,0 +1,33 @@
+{
+  "istilah": "maritaal beslag",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "penyitaan yang dilakukan oleh istri atas harta suami selama perkara tuntutan pemisahan harta kekayaan belum dapat putusan dari pengadilan; sita marital"
+        }
+      ]
+    },
+    {
+      "lema": "maritaal beslag",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "penyitaan yang dilakukan oleh istri atas harta suami selama perkara tuntutan pemisahan harta kekayaan belum dapat putusan dari pengadilan; sita marital"
+        }
+      ]
+    }
+  ]
+}

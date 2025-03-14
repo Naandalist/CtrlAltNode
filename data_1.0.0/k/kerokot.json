@@ -1,0 +1,36 @@
+{
+  "istilah": "kerokot",
+  "entri": "ke.ro.kot1 /kêrokot/",
+  "bentukTidakBaku": "krokot",
+  "kataTurunan": [
+    "mengerokoti",
+    "pengerokotan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ro.kot1 /kêrokot/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelang1"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ro.kot2 /kêrokot/bentuk tidak baku: krokot",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "mengerokoti"
+        }
+      ]
+    }
+  ]
+}

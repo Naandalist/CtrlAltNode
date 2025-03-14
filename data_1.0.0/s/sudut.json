@@ -1,0 +1,60 @@
+{
+  "istilah": "sudut",
+  "entri": "su.dut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersudut",
+    "ditersudutkan",
+    "ketersudutan",
+    "menyudut",
+    "menyudutkan",
+    "tersudut",
+    "tersudutkan"
+  ],
+  "gabunganKata": [
+    "sudut alas",
+    "sudut datar",
+    "sudut lancip",
+    "sudut lurus",
+    "sudut mata",
+    "sudut nol",
+    "sudut pandang",
+    "sudut pembisik",
+    "sudut proyeksi",
+    "sudut puncak",
+    "sudut relatif",
+    "sudut siku-siku",
+    "sudut tumpul"
+  ],
+  "peribahasa": [
+    "merantau di sudut dapur, merantau ke ujung bendul"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.dut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjuru; pojok: -- bilik; -- mata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bangun yang dibuat oleh dua garis yang berpotongan di sekitar titik potongnya: -- tumpul; -- siku-siku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "tempat yang jauh-jauh dan tidak mudah dikunjungi; pelosok: bendera merah putih berkibar sampai ke -- kota"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "segi (arah pandangan, pokok, atau dasar pandangan yang tentu): ditinjau dari -- keamanan, daerah itu boleh dijadikan permukiman"
+        }
+      ]
+    }
+  ]
+}

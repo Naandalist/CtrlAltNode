@@ -1,0 +1,46 @@
+{
+  "istilah": "pir",
+  "entri": "pir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah di daerah subtropis, bentuknya seperti jambu monyet, rasanya manis, berair seperti jambu biji"
+        }
+      ]
+    },
+    {
+      "lema": "pir2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ per1"
+        }
+      ]
+    },
+    {
+      "lema": "PIR",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "perkebunan inti rakyat (pola pengembangan perkebunan rakyat di wilayah lahan bukaan baru dalam suatu sistem kerja sama yang saling menguntungkan, utuh, dan berkelanjutan antara perkebunan besar dan perkebunan rakyat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "proyek industri ringan"
+        }
+      ]
+    }
+  ]
+}

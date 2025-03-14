@@ -1,0 +1,34 @@
+{
+  "istilah": "kesiangan",
+  "entri": "siang1 » ke.si.ang.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagai bulan kesiangan; bagai jampuk kesiangan hari; seperti Belanda kesiangan; seperti bulan kesiangan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "siang1 » ke.si.ang.an",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dikenai siang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlalu siang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "terlambat: bangun ~"
+        }
+      ]
+    }
+  ]
+}

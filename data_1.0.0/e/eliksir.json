@@ -1,0 +1,32 @@
+{
+  "istilah": "eliksir",
+  "entri": "e.lik.sir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.lik.sir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat cair yang oleh para ahli zaman dahulu (Abad Pertengahan) diharapkan dapat mengubah logam menjadi emas dan dapat memperpanjang kehidupan tanpa batas (usia)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat yang serbaguna (untuk menyembuhkan segala penyakit)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Far[Farmasi dan Farmakologi: -]",
+          "deskripsi": "ramuan untuk menyiapkan obat secara farmasi (seperti larutan dengan gula, etanol, atau bahan lain)"
+        }
+      ]
+    }
+  ]
+}

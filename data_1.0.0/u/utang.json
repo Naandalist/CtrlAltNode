@@ -1,0 +1,56 @@
+{
+  "istilah": "utang",
+  "entri": "u.tang bentuk tidak baku: hutang",
+  "bentukTidakBaku": "hutang",
+  "kataTurunan": [
+    "berutang",
+    "keberutangan",
+    "memperutangi",
+    "memperutangkan",
+    "mengutangi",
+    "mengutangkan",
+    "pengutang",
+    "perutangan",
+    "utangan"
+  ],
+  "gabunganKata": [
+    "utang budi",
+    "utang dagang",
+    "utang dana",
+    "utang jangka panjang",
+    "utang jangka pendek",
+    "utang kayu ara",
+    "utang konsumtif",
+    "utang konversi",
+    "utang korporasi",
+    "utang luar negeri",
+    "utang nasional",
+    "utang nyawa",
+    "utang pemerintah",
+    "utang piutang",
+    "utang usaha"
+  ],
+  "peribahasa": [
+    "sia-sia utang tumbuh; utang (pinjam) kayu ara; utang emas boleh dibayar, utang budi dibawa mati; utang emas dapat dibayar, utang budi dibawa mati; utang selilit (sebelit) pinggang (utang tiap helai bulu)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.tang bentuk tidak baku: hutang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang yang dipinjam dari orang lain: membayar -- di bank"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kewajiban membayar kembali apa yang sudah diterima: -- budi dibawa mati"
+        }
+      ]
+    }
+  ]
+}

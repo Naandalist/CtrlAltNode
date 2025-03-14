@@ -1,0 +1,61 @@
+{
+  "istilah": "kop",
+  "entri": "kop1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkop",
+    "mengekop",
+    "mengekop"
+  ],
+  "gabunganKata": [
+    "kop surat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kop1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "judul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala gagang telepon"
+        }
+      ]
+    },
+    {
+      "lema": "kop2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala"
+        }
+      ]
+    },
+    {
+      "lema": "kop3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mangkuk"
+        }
+      ]
+    },
+    {
+      "lema": "KOP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "keputusan otorisasi panglima"
+        }
+      ]
+    }
+  ]
+}

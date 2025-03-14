@@ -1,0 +1,28 @@
+{
+  "istilah": "kalimatullah",
+  "entri": "ka.li.ma.tul.lah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Nabi Isa as.",
+    "kataAsal": "kalimatullāh"
+  },
+  "data": [
+    {
+      "lema": "ka.li.ma.tul.lah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "firman Allah Swt."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "ketetapan Allah Swt."
+        }
+      ]
+    }
+  ]
+}

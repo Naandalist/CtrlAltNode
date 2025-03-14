@@ -1,0 +1,28 @@
+{
+  "istilah": "pola kalimat",
+  "entri": "pola1 » pola kalimat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pola1 » pola kalimat",
+      "arti": [
+        {
+          "kelas_kata": "Ling[Linguistik: -]",
+          "deskripsi": "konsep sintaktis yang mencakupi konstruksi, seperti indikatif, interogatif, imperatif"
+        },
+        {
+          "kelas_kata": "Ling[Linguistik: -]",
+          "deskripsi": "pola seperti nomina + verba + nomina untuk menggambarkan kalimat misalnya “Adik membaca buku”"
+        }
+      ]
+    }
+  ]
+}

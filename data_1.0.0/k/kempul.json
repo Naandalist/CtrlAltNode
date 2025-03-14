@@ -1,0 +1,36 @@
+{
+  "istilah": "kempul",
+  "entri": "kem.pul1 /kêmpul/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkempul-kempul",
+    "terkempul-kempul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kem.pul1 /kêmpul/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian gamelan, rupanya seperti canang besar, biasa dibunyikan untuk peningkah bunyi"
+        }
+      ]
+    },
+    {
+      "lema": "kem.pul2 /kêmpul/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berkempul-kempul; terkempul-kempul"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "mujarad",
+  "entri": "mu.ja.rad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hal yang terlepas",
+    "kataAsal": "mujarrad"
+  },
+  "data": [
+    {
+      "lema": "mu.ja.rad",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "abstrak; tidak maujud (sesuatu yang dianggap sebagai benda yang ada, seperti keadilan ialah sesuatu yang mujarad)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "terlepas atau terhindar dari semua sifat, tidak berkaitan dengan sesuatu yang lain"
+        }
+      ]
+    }
+  ]
+}

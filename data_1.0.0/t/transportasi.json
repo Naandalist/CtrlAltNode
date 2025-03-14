@@ -1,0 +1,36 @@
+{
+  "istilah": "transportasi",
+  "entri": "trans.por.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "transportasi alternatif",
+    "transportasi gas",
+    "transportasi massal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trans.por.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengangkutan barang oleh berbagai jenis kendaraan sesuai dengan kemajuan teknologi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal (seluk-beluk) transpor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemindahan bahan lepas hasil pelapukan dan erosi oleh air, angin, dan es"
+        }
+      ]
+    }
+  ]
+}

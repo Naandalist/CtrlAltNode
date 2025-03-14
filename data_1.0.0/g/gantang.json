@@ -1,0 +1,40 @@
+{
+  "istilah": "gantang",
+  "entri": "gan.tang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggantang",
+    "segantang",
+    "gantangan",
+    "menggantang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "melukut di tepi gantang; mengisi gantang pesuk; seperti melukut di tepi gantang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "wadah (sebagai ukuran beras, juga sebagai wadah itu sendiri)",
+    "kataAsal": "gantaṅ"
+  },
+  "data": [
+    {
+      "lema": "gan.tang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran isi atau takaran, sama dengan 4,15 liter, biasanya untuk menakar atau menyukat beras, kacang-kacangan, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "gan.tang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tiang tempat sangkar burung digantung sampai pada ketinggian tertentu, fungsinya untuk melatih burung bernyanyi atau manggung; gantangan"
+        }
+      ]
+    }
+  ]
+}

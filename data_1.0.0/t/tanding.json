@@ -1,0 +1,50 @@
+{
+  "istilah": "tanding",
+  "entri": "tan.ding1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertanding",
+    "mempertandingkan",
+    "menanding",
+    "menandingi",
+    "pertandingan",
+    "setanding",
+    "tandingan",
+    "tertandingi",
+    "menanding",
+    "tandingan"
+  ],
+  "gabunganKata": [
+    "tanding ganda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tan.ding1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang seimbang; yang sebanding"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satu lawan satu: perang --"
+        }
+      ]
+    },
+    {
+      "lema": "tan.ding2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumpuk; timbun; longgok: dua -- buah duku harganya tiga ribu rupiah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "tangsi",
+  "entri": "tang.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "senar yang digunakan untuk memancing",
+    "kataAsal": "thâng si"
+  },
+  "data": [
+    {
+      "lema": "tang.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asrama (tentara, polisi); barak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "penjara"
+        }
+      ]
+    },
+    {
+      "lema": "tang.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "benang yang digunakan untuk memancing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "reksa",
+  "entri": "rek.sa /rêksa/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "reksa dana",
+    "reksa dana campuran",
+    "reksa dana pasar uang",
+    "reksa dana pendapatan tetap",
+    "reksa dana saham"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "penjagaan, perlindungan, pertahanan",
+    "kataAsal": "rakṣā"
+  },
+  "data": [
+    {
+      "lema": "rek.sa /rêksa/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "polisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "penjaga"
+        }
+      ]
+    }
+  ]
+}

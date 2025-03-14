@@ -1,0 +1,42 @@
+{
+  "istilah": "poso",
+  "entri": "po.so",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.so",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bagian perkakas tenun"
+        }
+      ]
+    },
+    {
+      "lema": "Po.so",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di bagian utara Provinsi Sulawesi Tengah yang berbatasan dengan Teluk Tomini"
+        }
+      ]
+    },
+    {
+      "lema": "Po.so2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Kabupaten Poso, Provinsi Sulawesi Tengah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "mangkuk",
+  "entri": "mang.kuk bentuk tidak baku: mangkok1",
+  "bentukTidakBaku": "mangkok1",
+  "kataTurunan": [
+    "memangkuk",
+    "semangkuk"
+  ],
+  "gabunganKata": [
+    "mangkuk cat",
+    "mangkuk sabun"
+  ],
+  "peribahasa": [
+    "seperti pinggan dengan mangkuk, salah sedikit, hendak berantuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mang.kuk bentuk tidak baku: mangkok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cangkir; cawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat untuk makanan berkuah, tidak bertelinga, cekung, bagian permukaannya lebih luas daripada bagian alasnya, terbuat dari porselen atau bahan lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "komponen alat gali muat untuk menggali atau wadah material hasil galian yang akan dipindahkan untuk dimuat pada alat angkut atau tempat lain"
+        }
+      ]
+    }
+  ]
+}

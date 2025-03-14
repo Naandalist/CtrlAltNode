@@ -1,0 +1,29 @@
+{
+  "istilah": "uskup",
+  "entri": "us.kup",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keuskupan"
+  ],
+  "gabunganKata": [
+    "uskup agung",
+    "uskup metropolitan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemuka agama Nasrani",
+    "kataAsal": "usquf"
+  },
+  "data": [
+    {
+      "lema": "us.kup",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "rohaniwan yang sudah mendapat sakramen tahbisan ketiga, satu tingkat di atas imam, memiliki hak untuk memberikan semua sakramen; biskop"
+        }
+      ]
+    }
+  ]
+}

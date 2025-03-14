@@ -1,0 +1,46 @@
+{
+  "istilah": "lamin",
+  "entri": "la.min1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melamin",
+    "pelamin",
+    "pelaminan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.min1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melamin; pelamin; pelaminan"
+        }
+      ]
+    },
+    {
+      "lema": "la.min2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "bangunan (rumah) kolektif pada suku Dayak Kenyah, bentuknya besar memanjang dan bertingkat, dihuni oleh banyak keluarga"
+        }
+      ]
+    },
+    {
+      "lema": "la.min3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "periode menyusui pada mamalia dan manusia"
+        }
+      ]
+    }
+  ]
+}

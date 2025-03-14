@@ -1,0 +1,49 @@
+{
+  "istilah": "profil",
+  "entri": "pro.fil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pemrofil",
+    "pemrofilan"
+  ],
+  "gabunganKata": [
+    "profil angin",
+    "profil biofisik",
+    "profil demografi",
+    "profil kecepatan logaritmik",
+    "profil lengas",
+    "profil lulusan",
+    "profil nasabah",
+    "profil suhu",
+    "profil zat gizi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.fil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pandangan dari samping (tentang wajah orang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lukisan (gambar) orang dari samping"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penampang (tanah, gunung, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "grafik atau ikhtisar yang memberikan fakta tentang hal-hal khusus; sketsa biografis"
+        }
+      ]
+    }
+  ]
+}

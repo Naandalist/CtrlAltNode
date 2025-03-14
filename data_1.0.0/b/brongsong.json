@@ -1,0 +1,33 @@
+{
+  "istilah": "brongsong",
+  "entri": "brong.song1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "brong.song1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pembungkus buah di pohon agar cepat masak, terbuat dari anyaman bilah bambu, plastik, dan lain-lain: plastik bekas dapat dimanfaatkan sebagai --"
+        }
+      ]
+    },
+    {
+      "lema": "brong.song2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penutup mulut kerbau atau sapi agar tidak memakan tanaman padi atau mudah dijagal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "makalah",
+  "entri": "ma.ka.lah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pemakalah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pendapat; perkataan",
+    "kataAsal": "maqālah"
+  },
+  "data": [
+    {
+      "lema": "ma.ka.lah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tulisan resmi tentang suatu pokok yang dimaksudkan untuk dibacakan di muka umum dalam suatu persidangan dan yang sering disusun untuk diterbitkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karya tulis pelajar atau mahasiswa sebagai laporan hasil pelaksanaan tugas sekolah atau perguruan tinggi"
+        }
+      ]
+    }
+  ]
+}

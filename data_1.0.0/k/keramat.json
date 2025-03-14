@@ -1,0 +1,31 @@
+{
+  "istilah": "keramat",
+  "entri": "ke.ra.mat /kêramat/bentuk tidak baku: kramat",
+  "bentukTidakBaku": "kramat",
+  "kataTurunan": [
+    "kekeramatan",
+    "mengeramatkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kemuliaan",
+    "kataAsal": "karāmah"
+  },
+  "data": [
+    {
+      "lema": "ke.ra.mat /kêramat/bentuk tidak baku: kramat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suci dan dapat mengadakan sesuatu di luar kemampuan manusia biasa karena ketakwaannya kepada Tuhan (tentang orang yang bertakwa)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suci dan bertuah yang dapat memberikan efek magis dan psikologis kepada pihak lain (tentang barang atau tempat suci)"
+        }
+      ]
+    }
+  ]
+}

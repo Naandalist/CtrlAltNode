@@ -1,0 +1,47 @@
+{
+  "istilah": "gugur",
+  "entri": "gu.gur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berguguran",
+    "guguran",
+    "keguguran",
+    "menggugurkan",
+    "pengguguran"
+  ],
+  "gabunganKata": [
+    "gugur gunung",
+    "gugur kandungan"
+  ],
+  "peribahasa": [
+    "gugur satu, tumbuh seribu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gu.gur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jatuh sebelum masak (tentang buah-buahan); lahir sebelum waktunya (tentang bayi); runtuh (tentang tanah)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "batal; tidak jadi; tidak berlaku lagi: calon yang tidak datang dinyatakan -- sebagai peserta"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mati dalam pertempuran: dua orang prajurit -- dalam pertempuran itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kalah; rontok: petinju harapan kita -- pada ronde kedua"
+        }
+      ]
+    }
+  ]
+}

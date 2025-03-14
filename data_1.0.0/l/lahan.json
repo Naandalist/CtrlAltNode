@@ -1,0 +1,49 @@
+{
+  "istilah": "lahan",
+  "entri": "la.han1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lahan basah",
+    "lahan batu",
+    "lahan gambut",
+    "lahan garapan",
+    "lahan gundul",
+    "lahan kering",
+    "lahan kritis",
+    "lahan marginal",
+    "lahan pandang",
+    "lahan parkir",
+    "lahan pertanian",
+    "lahan subur",
+    "lahan tanaman",
+    "lahan tidur",
+    "lahan yasan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "lagu",
+    "kataAsal": "laḥn"
+  },
+  "data": [
+    {
+      "lema": "la.han1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah terbuka; tanah garapan: -- itu disediakan untuk permukiman transmigran"
+        }
+      ]
+    },
+    {
+      "lema": "la.han2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lagu (yang baik)"
+        }
+      ]
+    }
+  ]
+}

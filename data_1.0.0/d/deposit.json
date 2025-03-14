@@ -1,0 +1,35 @@
+{
+  "istilah": "deposit",
+  "entri": "de.po.sit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pendepositan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.po.sit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "batu, tanah, atau bahan padat lain yang dibawa air sungai, air laut atau gletser dari satu tempat ke tempat lain"
+        }
+      ]
+    },
+    {
+      "lema": "de.po.sit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sejumlah uang yang disimpan dalam rekening tertentu untuk tujuan keamanan atau kemudahan transaksi; uang jaminan: hotel tersebut mengharuskan menaruh -- ketika lapor masuk"
+        }
+      ]
+    }
+  ]
+}

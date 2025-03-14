@@ -1,0 +1,29 @@
+{
+  "istilah": "sumpal",
+  "entri": "sum.pal bentuk tidak baku: sumpel",
+  "bentukTidakBaku": "sumpel",
+  "kataTurunan": [
+    "menyumpal",
+    "menyumpalkan",
+    "penyumpal",
+    "tersumpal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ditutup dengan sumpal",
+    "kataAsal": "sumpal"
+  },
+  "data": [
+    {
+      "lema": "sum.pal bentuk tidak baku: sumpel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumbat"
+        }
+      ]
+    }
+  ]
+}

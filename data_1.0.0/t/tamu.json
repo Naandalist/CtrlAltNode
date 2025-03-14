@@ -1,0 +1,38 @@
+{
+  "istilah": "tamu",
+  "entri": "ta.mu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertamu",
+    "ketamuan",
+    "menamu",
+    "menamui",
+    "tetamu"
+  ],
+  "gabunganKata": [
+    "tamu agung",
+    "tamu di negeri sendiri",
+    "tamu negara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.mu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang datang berkunjung (melawat dan sebagainya) ke tempat orang lain atau ke perjamuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang datang untuk menginap (di hotel), untuk membeli-beli (di toko); jamu"
+        }
+      ]
+    }
+  ]
+}

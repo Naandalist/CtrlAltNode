@@ -1,0 +1,33 @@
+{
+  "istilah": "koset",
+  "entri": "ko.set1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.set1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ keset"
+        }
+      ]
+    },
+    {
+      "lema": "ko.set2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "subhimpunan yang terdiri atas semua hasil kali yang diperoleh dengan mengalikan unsur tetap kelompok di bagian kanan dan kiri dengan setiap unsur subkelompok"
+        }
+      ]
+    }
+  ]
+}

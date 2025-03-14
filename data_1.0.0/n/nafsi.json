@@ -1,0 +1,42 @@
+{
+  "istilah": "nafsi",
+  "entri": "naf.si1 bentuk tidak baku: napsi",
+  "bentukTidakBaku": "napsi",
+  "kataTurunan": [
+    "bernafsi-nafsi",
+    "pernafsian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "nafsu nafsi, raja di mata, sultan di hati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "roh; jiwa; manusia; jasad; zat",
+    "kataAsal": "nafs"
+  },
+  "data": [
+    {
+      "lema": "naf.si1 bentuk tidak baku: napsi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "diri sendiri; orang seorang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat mementingkan diri sendiri"
+        }
+      ]
+    },
+    {
+      "lema": "naf.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kemarahan; panas hati; nafsu: sambil berkacak pinggang, mukanya merah penuh --"
+        }
+      ]
+    }
+  ]
+}

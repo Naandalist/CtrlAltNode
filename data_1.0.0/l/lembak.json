@@ -1,0 +1,35 @@
+{
+  "istilah": "lembak",
+  "entri": "lem.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melembak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lem.bak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "limpah"
+        }
+      ]
+    },
+    {
+      "lema": "Lem.bak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami beberapa daerah di Provinsi Bengkulu dan Provinsi Sumatera Selatan"
+        }
+      ]
+    }
+  ]
+}

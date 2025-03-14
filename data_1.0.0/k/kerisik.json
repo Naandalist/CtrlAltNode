@@ -1,0 +1,46 @@
+{
+  "istilah": "kerisik",
+  "entri": "ke.ri.sik1 /kêrisik/",
+  "bentukTidakBaku": "keresek2",
+  "kataTurunan": [
+    "mengerisik",
+    "berkerisik",
+    "kerisikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "desir, desau, gersik",
+    "kataAsal": "krisik"
+  },
+  "data": [
+    {
+      "lema": "ke.ri.sik1 /kêrisik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelaras"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ri.sik2 /kêrisik/bentuk tidak baku: keresek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi daun kering bergesekan"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ri.sik3 /kêrisik/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasir kasar; kersik"
+        }
+      ]
+    }
+  ]
+}

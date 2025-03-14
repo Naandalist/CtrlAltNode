@@ -1,0 +1,45 @@
+{
+  "istilah": "unsur",
+  "entri": "un.sur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berunsur",
+    "keunsuran"
+  ],
+  "gabunganKata": [
+    "unsur biogen",
+    "unsur gramatikal",
+    "unsur hayat",
+    "unsur iklim",
+    "unsur ikonis",
+    "unsur kebudayaan",
+    "unsur kelumit",
+    "unsur leksikal",
+    "unsur meteorologi",
+    "unsur peyoratif",
+    "unsur pinjaman",
+    "unsur transisi",
+    "unsur utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "asal-usul",
+    "kataAsal": "‘unṣur"
+  },
+  "data": [
+    {
+      "lema": "un.sur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian terkecil dari suatu benda; bagian benda yang tidak dapat dibagi-bagi lagi dengan proses kimia; bahan asal; zat asal; elemen: mengandung -- kimia tertentu; tekanan dapat kita anggap pula sebagai salah satu -- bahasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok kecil (dari kelompok yang lebih besar): membersihkan -- ekstrem kiri dalam pemerintahan"
+        }
+      ]
+    }
+  ]
+}

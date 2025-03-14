@@ -1,0 +1,33 @@
+{
+  "istilah": "pkl",
+  "entri": "PKL",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "PKL",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "praktik kerja lapangan"
+        }
+      ]
+    },
+    {
+      "lema": "PKL2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pedagang kaki lima"
+        }
+      ]
+    }
+  ]
+}

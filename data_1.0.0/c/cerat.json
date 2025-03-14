@@ -1,0 +1,32 @@
+{
+  "istilah": "cerat",
+  "entri": "ce.rat /cêrat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercerat",
+    "ceratan",
+    "mencerat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.rat /cêrat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian pada cerek (kendi, teko, karaf, dan sebagainya) yang berbentuk corong kecil untuk menuang air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "talang yang berbentuk sedemikian rupa sehingga meningkatkan kecepatan air yang melaluinya"
+        }
+      ]
+    }
+  ]
+}

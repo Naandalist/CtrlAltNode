@@ -1,0 +1,62 @@
+{
+  "istilah": "lewat",
+  "entri": "le.wat bentuk tidak baku: liwat1",
+  "bentukTidakBaku": "liwat1",
+  "kataTurunan": [
+    "berlewatan",
+    "kelewat",
+    "kelewatan",
+    "melewati",
+    "melewatkan",
+    "selewat",
+    "terlewat",
+    "terlewati"
+  ],
+  "gabunganKata": [
+    "lewat bawah jaring",
+    "lewat gerus",
+    "lewat jenuh",
+    "lewat lembayung",
+    "lewat posisi",
+    "lewat waktu"
+  ],
+  "peribahasa": [
+    "lewat dari manis, masam, lewat dari harum, busuk; masuk dari kuping kiri, keluar lewat kuping kanan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.wat bentuk tidak baku: liwat1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melalui; lalu di; menempuh: kereta api cepat Jakarta–Surabaya -- Semarang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lalu; lampau: waktu yang telah --"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "lebih: pukul sembilan -- sepuluh menit"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sesudah: -- tengah malam"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlampau; sangat; terlalu: -- jenuh"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "dengan perantaraan (memakai jasa, alat, dan sebagainya): barangnya dikirim -- pos"
+        }
+      ]
+    }
+  ]
+}

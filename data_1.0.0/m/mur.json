@@ -1,0 +1,33 @@
+{
+  "istilah": "mur",
+  "entri": "mur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "dupa",
+    "kataAsal": "murr"
+  },
+  "data": [
+    {
+      "lema": "mur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "damar yang harum baunya, dipakai untuk dupa dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "mur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelat logam dari bermacam bentuk, biasanya segi enam atau segi empat, mempunyai lubang berulir sekrup untuk menguatkan baut"
+        }
+      ]
+    }
+  ]
+}

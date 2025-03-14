@@ -1,0 +1,37 @@
+{
+  "istilah": "inggu",
+  "entri": "ing.gu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jenis tanaman [Ferula asa foetida]",
+    "kataAsal": "hiṅgu"
+  },
+  "data": [
+    {
+      "lema": "ing.gu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "terna tegak yang berdaun lebat, baunya keras, tinggi hingga 1,5 m, sering dibudidayakan karena berguna sebagai obat; aruda〔Ruta angustifolia〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "getah tumbuhan yang dikentalkan, baunya tidak sedap, biasa dibuat obat〔Asa foetida〕"
+        }
+      ]
+    },
+    {
+      "lema": "ing.gu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "poleng2〔Amphiphrion ocellaris〕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "endosmosis",
+  "entri": "en.dos.mo.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.dos.mo.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "peristiwa mengalirnya suatu cairan memasuki sistem (misalnya sel) berdasarkan osmosis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "difusi cairan melewati suatu selaput organik ke dalam sel"
+        }
+      ]
+    }
+  ]
+}

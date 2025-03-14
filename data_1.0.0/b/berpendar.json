@@ -1,0 +1,41 @@
+{
+  "istilah": "berpendar",
+  "entri": "pendar » ber.pen.dar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pendar » ber.pen.dar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bercahaya seperti lendir kelemayar"
+        }
+      ]
+    },
+    {
+      "lema": "pendar » ber.pen.dar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berputar; berpusing"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berguling-guling"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pusing"
+        }
+      ]
+    }
+  ]
+}

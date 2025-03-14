@@ -1,0 +1,24 @@
+{
+  "istilah": "icu",
+  "entri": "ICU",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ICU",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "unit layanan kesehatan untuk merawat dan memantau kondisi pasien secara intensif dan komprehensif karena pasien mengalami cedera dan trauma berat atau mengidap penyakit yang sangat serius; dari intensive care unit"
+        }
+      ]
+    }
+  ]
+}

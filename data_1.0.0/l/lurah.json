@@ -1,0 +1,48 @@
+{
+  "istilah": "lurah",
+  "entri": "lu.rah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelurahan",
+    "berlurah"
+  ],
+  "gabunganKata": [
+    "lurah hidung"
+  ],
+  "peribahasa": [
+    "cangkat sama didaki, lurah sama dituruni; ijuk tak bersagar, lurah tak berbatu; ke bukit sama mendaki, ke lurah sama menurun; sedatar saja lurah dengan bukit"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jurang, ngarai, lembah, kedalaman; lembah, dataran",
+    "kataAsal": "lurah"
+  },
+  "data": [
+    {
+      "lema": "lu.rah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala pemerintahan tingkat terendah; kepala desa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala atau pimpinan suatu bagian pekerjaan"
+        }
+      ]
+    },
+    {
+      "lema": "lu.rah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembah; jurang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alur (lekuk memanjang) di tepi papan: -- papan ini tidak dalam"
+        }
+      ]
+    }
+  ]
+}

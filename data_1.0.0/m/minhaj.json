@@ -1,0 +1,28 @@
+{
+  "istilah": "minhaj",
+  "entri": "min.haj",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "jalan",
+    "kataAsal": "minhāj"
+  },
+  "data": [
+    {
+      "lema": "min.haj",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "jalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "cara; metode"
+        }
+      ]
+    }
+  ]
+}

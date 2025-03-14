@@ -1,0 +1,43 @@
+{
+  "istilah": "tualang",
+  "entri": "tu.a.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertualang",
+    "bertualangan",
+    "pertualangan",
+    "petualang",
+    "petualangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.a.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat jelajah; arena"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertualang"
+        }
+      ]
+    },
+    {
+      "lema": "tu.a.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pokok sialang〔Koompassia parvifelia〕"
+        }
+      ]
+    }
+  ]
+}

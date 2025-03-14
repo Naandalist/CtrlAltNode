@@ -1,0 +1,34 @@
+{
+  "istilah": "eksepsi",
+  "entri": "ek.sep.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "eksepsi muatan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ek.sep.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengecualian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "tangkisan atau pembelaan yang tidak menyinggung isi surat tuduhan (gugatan), tetapi berisi permohonan agar pengadilan menolak perkara yang diajukan oleh penggugat karena tidak memenuhi persyaratan hukum: dalam perkara itu pembela mengajukan -- kepada jaksa karena terdakwa menderita penyakit jiwa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "masalah atau perubahan kondisi yang menyebabkan mikroprosesor untuk menghentikan apa yang dilakukannya dan menangani situasi dalam rutin yang terpisah (tentang pemrograman)"
+        }
+      ]
+    }
+  ]
+}

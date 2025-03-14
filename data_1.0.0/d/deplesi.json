@@ -1,0 +1,34 @@
+{
+  "istilah": "deplesi",
+  "entri": "dep.le.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "deplesi garam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dep.le.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "kerugian akibat hilangnya atau berkurangnya nilai barang modal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kehabisan, penipisan: -- sumber alam akan memaksa percepatan urbanisasi di negara ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Min[Mineralogi: -]",
+          "deskripsi": "keausan sumber alam, terutama tambang"
+        }
+      ]
+    }
+  ]
+}

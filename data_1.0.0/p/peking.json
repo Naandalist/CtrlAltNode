@@ -1,0 +1,44 @@
+{
+  "istilah": "peking",
+  "entri": "pe.king1 /pêking/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memeking"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "nama jenis burung, Tringilla punctularia (burung padi kecil)",
+    "kataAsal": "pěkiṅ"
+  },
+  "data": [
+    {
+      "lema": "pe.king1 /pêking/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memeking"
+        }
+      ]
+    },
+    {
+      "lema": "pe.king2 /pêking/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pipit"
+        }
+      ]
+    },
+    {
+      "lema": "pe.king3 /pêking/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "perangkat gamelan berupa bilah-bilah besi kecil bernada tinggi yang menjadi bagian dari perangkat gamelan"
+        }
+      ]
+    }
+  ]
+}

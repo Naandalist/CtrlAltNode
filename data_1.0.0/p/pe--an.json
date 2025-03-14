@@ -1,0 +1,75 @@
+{
+  "istilah": "pe--an",
+  "entri": "pe--an1 /pê--an/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe--an1 /pê--an/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat per--an"
+        }
+      ]
+    },
+    {
+      "lema": "pe--an2 /pê--an/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat peng--an"
+        }
+      ]
+    },
+    {
+      "lema": "peng--an /pêng--an/varian: pe--an, pem--an, pen--an, penge--an, peny--an",
+      "arti": [
+        {
+          "kelas_kata": "konfiks pembentuk nomina[- : -]",
+          "deskripsi": "proses, cara, perbuatan: perekaman; pembayaran; pengeboman; penyelarasan; penulisan"
+        },
+        {
+          "kelas_kata": "konfiks pembentuk nomina[- : -]",
+          "deskripsi": "hasil, perbuatan: pendapatan; penghasilan; pengakuan"
+        },
+        {
+          "kelas_kata": "konfiks pembentuk nomina[- : -]",
+          "deskripsi": "tempat: penyeberangan; pemondokan; penginapan"
+        }
+      ]
+    },
+    {
+      "lema": "per--an /pêr--an/varian: pe--an, pel--an",
+      "arti": [
+        {
+          "kelas_kata": "konfiks pembentuk nomina[- : -]",
+          "deskripsi": "hal atau keadaan: pergerakan; persetujuan; perdamaian"
+        },
+        {
+          "kelas_kata": "konfiks pembentuk nomina[- : -]",
+          "deskripsi": "hasil: pelajaran; perolehan"
+        },
+        {
+          "kelas_kata": "konfiks pembentuk nomina[- : -]",
+          "deskripsi": "perbuatan: percakapan; perkelahian; perseteruan"
+        },
+        {
+          "kelas_kata": "konfiks pembentuk nomina[- : -]",
+          "deskripsi": "hal yang berkaitan dengan: perkapalan; perburuhan; persuratkabaran"
+        },
+        {
+          "kelas_kata": "konfiks pembentuk nomina[- : -]",
+          "deskripsi": "tempat: perairan; peristirahatan"
+        }
+      ]
+    }
+  ]
+}

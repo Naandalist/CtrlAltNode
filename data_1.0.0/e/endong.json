@@ -1,0 +1,35 @@
+{
+  "istilah": "endong",
+  "entri": "en.dong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengendong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.dong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menginap"
+        }
+      ]
+    },
+    {
+      "lema": "en.dong",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "wadah anak panah"
+        }
+      ]
+    }
+  ]
+}

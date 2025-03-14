@@ -1,0 +1,33 @@
+{
+  "istilah": "cloze test",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "tes pemahaman dan tata bahasa dengan cara mengisi kata-kata yang tepat pada bagian-bagian yang secara sistematis telah dikosongkan dari sebuah teks"
+        }
+      ]
+    },
+    {
+      "lema": "cloze test",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "tes pemahaman dan tata bahasa dengan cara mengisi kata-kata yang tepat pada bagian-bagian yang secara sistematis telah dikosongkan dari sebuah teks"
+        }
+      ]
+    }
+  ]
+}

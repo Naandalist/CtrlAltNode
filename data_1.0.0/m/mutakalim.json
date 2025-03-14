@@ -1,0 +1,28 @@
+{
+  "istilah": "mutakalim",
+  "entri": "mu.ta.ka.lim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembicara; ahli teologi",
+    "kataAsal": "mutakallim"
+  },
+  "data": [
+    {
+      "lema": "mu.ta.ka.lim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pembicara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "ahli ilmu kalam (teologi)"
+        }
+      ]
+    }
+  ]
+}

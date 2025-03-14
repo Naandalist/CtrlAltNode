@@ -1,0 +1,61 @@
+{
+  "istilah": "kalam",
+  "entri": "ka.lam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kalam batu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembicaraan yang dipahami",
+    "kataAsal": "kalām"
+  },
+  "data": [
+    {
+      "lema": "ka.lam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkataan; kata (terutama bagi Allah Swt.): dalam hal ini kita tidak perlu berpanjang --, cukup membicarakan yang pokok-pokok saja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berkata, sifat yang wajib bagi Allah Swt."
+        }
+      ]
+    },
+    {
+      "lema": "ka.lam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menulis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat penunjuk (biasanya sejenis lidi) untuk membaca Al-Qur'an; duduh"
+        }
+      ]
+    },
+    {
+      "lema": "ka.lam3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kemaluan (laki-laki)"
+        }
+      ]
+    },
+    {
+      "lema": "ka.lam4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasir hitam yang bercampur emas yang dilimbang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "korsel",
+  "entri": "kor.sel bentuk tidak baku: karosel",
+  "bentukTidakBaku": "karosel",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kor.sel bentuk tidak baku: karosel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kuda-kudaan yang dapat bergerak mengikuti gerakan roda besar yang berputar pada sumbunya (komidi putar)"
+        }
+      ]
+    },
+    {
+      "lema": "Kor.sel /korsêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Korea Selatan"
+        }
+      ]
+    }
+  ]
+}

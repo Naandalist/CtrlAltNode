@@ -1,0 +1,34 @@
+{
+  "istilah": "tabir",
+  "entri": "ta.bir bentuk tidak baku: mabir",
+  "bentukTidakBaku": "mabir",
+  "kataTurunan": [
+    "bertabir",
+    "menabiri",
+    "tabir-mabir"
+  ],
+  "gabunganKata": [
+    "tabir asap",
+    "tabir besi",
+    "tabir gulung",
+    "tabir surya",
+    "tabir udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengungkapan; penafsiran (tentang mimpi)",
+    "kataAsal": "ta‘bīr"
+  },
+  "data": [
+    {
+      "lema": "ta.bir bentuk tidak baku: mabir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tirai penyekat (pendinding) atau penutup dinding: -- itu memisahkan ruang kaum wanita dengan ruang kaum pria"
+        }
+      ]
+    }
+  ]
+}

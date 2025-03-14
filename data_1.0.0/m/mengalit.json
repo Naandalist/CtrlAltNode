@@ -1,0 +1,45 @@
+{
+  "istilah": "mengalit",
+  "entri": "alit1 » meng.a.lit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mengalit bisul",
+    "mengalit gasing",
+    "mengalit perut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "alit1 » meng.a.lit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membubuhkan alis (pada mata); mencelak"
+        }
+      ]
+    },
+    {
+      "lema": "alit2 » meng.a.lit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengikat erat-erat: Bibi ~ perut dengan ikat pinggang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membelitkan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menekan"
+        }
+      ]
+    }
+  ]
+}

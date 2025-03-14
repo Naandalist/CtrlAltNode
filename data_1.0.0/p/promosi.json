@@ -1,0 +1,43 @@
+{
+  "istilah": "promosi",
+  "entri": "pro.mo.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpromosi",
+    "mempromosikan"
+  ],
+  "gabunganKata": [
+    "promosi dagang",
+    "promosi domestik",
+    "promosi jabatan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.mo.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kenaikan pangkat (tingkat); naik pangkat (tingkat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal memperoleh gelar doktor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberian gelar doktor yang dilakukan dengan upacara khusus: promovendus diuji lagi dalam upacara --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkenalan (dalam rangka memajukan usaha, dagang, dan sebagainya); reklame: -- pariwisata hendaknya dilakukan secara intensif dan terus-menerus"
+        }
+      ]
+    }
+  ]
+}

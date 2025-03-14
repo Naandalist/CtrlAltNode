@@ -1,0 +1,33 @@
+{
+  "istilah": "lumen",
+  "entri": "lu.men1 /lumên/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.men1 /lumên/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "rongga di dalam pembuluh"
+        }
+      ]
+    },
+    {
+      "lema": "lu.men2 /lumên/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "satuan ukuran kekuatan cahaya (lampu, lilin, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "sar",
+  "entri": "sar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi angin kencang dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "SAR2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pencarian dan penyelamatan (usaha pencarian dan penyelamatan atau pemberian bantuan kepada orang yang berada dalam bahaya); dari search and rescue"
+        }
+      ]
+    }
+  ]
+}

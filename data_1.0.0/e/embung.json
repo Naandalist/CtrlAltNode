@@ -1,0 +1,42 @@
+{
+  "istilah": "embung",
+  "entri": "em.bung1 /êmbung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.bung1 /êmbung/",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Sd[Sunda: -]",
+          "deskripsi": "tidak mau: kalau kau --, saya tidak memaksa"
+        }
+      ]
+    },
+    {
+      "lema": "em.bung2 /êmbung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "anak laki-laki yang sulung"
+        }
+      ]
+    },
+    {
+      "lema": "em.bung3 /êmbung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penampungan air hujan yang digunakan pada saat musim kemarau untuk tujuan irigasi dan air bersih"
+        }
+      ]
+    }
+  ]
+}

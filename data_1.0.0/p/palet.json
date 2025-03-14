@@ -1,0 +1,31 @@
+{
+  "istilah": "palet",
+  "entri": "pa.let",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "palet cekung banyak",
+    "palet cekung tunggal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.let",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang digunakan pelukis untuk tempat menaruh cat, berupa lempeng berbentuk perisai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "dua lapis bilah kayu yang tersusun searah yang disela balok melintang, digunakan untuk menumpuk muatan supaya dapat diangkat sekaligus"
+        }
+      ]
+    }
+  ]
+}

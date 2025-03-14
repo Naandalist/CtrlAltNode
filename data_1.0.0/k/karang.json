@@ -1,0 +1,82 @@
+{
+  "istilah": "karang",
+  "entri": "ka.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkarang",
+    "karang-karangan",
+    "karangan",
+    "mengarang",
+    "berkarang",
+    "karang-mengarang",
+    "karangan",
+    "kepengarangan",
+    "mengarang",
+    "mengarang-ngarang",
+    "pengarang",
+    "pekarangan"
+  ],
+  "gabunganKata": [
+    "karang otak",
+    "karang sedimenter",
+    "karang balita",
+    "karang gizi",
+    "karang keputraan",
+    "karang taruna",
+    "karang werda"
+  ],
+  "peribahasa": [
+    "belanak bermain di atas karang; tidak kekal bunga karang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "rangkai menjadi untaian (untaian bunga)",
+    "kataAsal": "karaṅ"
+  },
+  "data": [
+    {
+      "lema": "ka.rang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu kapur di laut yang terjadi dari zat yang dikeluarkan oleh binatang kecil jenis anthozoa (tidak bertulang punggung); batuan organik sebagai tempat tinggal binatang karang; koral"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pulau (gunung, batu) di laut yang terjadi dari tumpukan karang yang sudah membatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan laut yang menyerupai atau seperti karang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.rang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "susun; rangkai; jalin"
+        }
+      ]
+    },
+    {
+      "lema": "ka.rang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat kediaman; tempat berkumpul"
+        }
+      ]
+    },
+    {
+      "lema": "ka.rang4",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidak lama lagi; nanti: -- dia akan tahu akibatnya"
+        }
+      ]
+    }
+  ]
+}

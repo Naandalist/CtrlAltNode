@@ -1,0 +1,52 @@
+{
+  "istilah": "sok",
+  "entri": "sok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sok-sokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kaus kaki panjang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyambung pipa besi"
+        }
+      ]
+    },
+    {
+      "lema": "sok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ syok"
+        }
+      ]
+    },
+    {
+      "lema": "sok3",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Jk[Melayu Jakarta: -]",
+          "deskripsi": "berlagak (suka pamer dan sebagainya)"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Jk[Melayu Jakarta: -]",
+          "deskripsi": "merasa mampu dan sebagainya, tetapi sebenarnya tidak: -- tahu"
+        }
+      ]
+    }
+  ]
+}

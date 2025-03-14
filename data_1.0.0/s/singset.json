@@ -1,0 +1,32 @@
+{
+  "istilah": "singset",
+  "entri": "sing.set /singsêt/bentuk tidak baku: singsat2",
+  "bentukTidakBaku": "singsat2",
+  "kataTurunan": [
+    "menyingsetkan",
+    "penyingset",
+    "penyingsetan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "keketatan",
+    "kataAsal": "siṅsět"
+  },
+  "data": [
+    {
+      "lema": "sing.set /singsêt/bentuk tidak baku: singsat2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "erat: ikatannya sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "langsing (tentang badan): karena rajin berolahraga, badannya masih kelihatan -- walau umurnya sudah lanjut"
+        }
+      ]
+    }
+  ]
+}

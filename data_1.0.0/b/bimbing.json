@@ -1,0 +1,35 @@
+{
+  "istilah": "bimbing",
+  "entri": "bim.bing",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbimbing",
+    "berbimbingan",
+    "bimbingan",
+    "membimbing",
+    "pembimbing",
+    "pembimbingan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bim.bing",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pimpin; asuh"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tuntun"
+        }
+      ]
+    }
+  ]
+}

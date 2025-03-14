@@ -1,0 +1,41 @@
+{
+  "istilah": "interval",
+  "entri": "in.ter.val /intêrval/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "interval antarpercobaan",
+    "interval KR-tunda",
+    "interval umpan balik akhir",
+    "interval umpan balik tunda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.ter.val /intêrval/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masa antara dua kejadian yang bertalian (dalam drama, pertunjukan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "perbedaan ketinggian antara dua nada; jangka nada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "jarak yang terletak antara dua nilai yang diketahui"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "jangka waktu untuk istirahat antara dua latihan yang berkaitan"
+        }
+      ]
+    }
+  ]
+}

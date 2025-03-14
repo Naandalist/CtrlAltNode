@@ -1,0 +1,33 @@
+{
+  "istilah": "lu",
+  "entri": "lu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Tong'an",
+    "arti": "kamu",
+    "kataAsal": "lú"
+  },
+  "data": [
+    {
+      "lema": "lu",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kamu; lo"
+        }
+      ]
+    },
+    {
+      "lema": "LU",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "lintang utara"
+        }
+      ]
+    }
+  ]
+}

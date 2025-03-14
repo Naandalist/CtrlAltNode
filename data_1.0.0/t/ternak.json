@@ -1,0 +1,39 @@
+{
+  "istilah": "ternak",
+  "entri": "ter.nak /têrnak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beternak",
+    "menernakkan",
+    "penernak",
+    "penernakan",
+    "peternak",
+    "peternakan",
+    "ternakan"
+  ],
+  "gabunganKata": [
+    "ternak bibit",
+    "ternak komersial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ter.nak /têrnak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang yang dipiara (lembu, kuda, kambing, dan sebagainya) untuk dibiakkan dengan tujuan produksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "yang berasal dari; yang diperanakkan di"
+        }
+      ]
+    }
+  ]
+}

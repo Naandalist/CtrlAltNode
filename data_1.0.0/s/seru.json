@@ -1,0 +1,83 @@
+{
+  "istilah": "seru",
+  "entri": "se.ru1 /sêru/bentuk tidak baku: saru4",
+  "bentukTidakBaku": "saru4",
+  "kataTurunan": [
+    "berseru",
+    "berseru-seru",
+    "menyeru",
+    "menyeru-nyerukan",
+    "menyerukan",
+    "penyeru",
+    "penyeruan",
+    "seruan",
+    "keseruan",
+    "terseru"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berhubungan dengan kekerasan atau intensitas, dengan berat, untuk waktu yang lama",
+    "kataAsal": "sěru"
+  },
+  "data": [
+    {
+      "lema": "se.ru1 /sêru/bentuk tidak baku: saru4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panggilan (untuk memanggil, menarik perhatian, dan sebagainya); panggilan dengan suara nyaring: “Mat,” -- si Jamin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujaran yang biasa digunakan dengan penegasan atau intonasi tinggi seperti ketika marah"
+        }
+      ]
+    },
+    {
+      "lema": "se.ru2 /sêru/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bengis"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sengit; hebat: perkelahian yang --"
+        }
+      ]
+    },
+    {
+      "lema": "se.ru3 /sêru/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "serba: Tuhan -- sekalian alam"
+        }
+      ]
+    },
+    {
+      "lema": "se.ru4 /sêru/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang kayunya dapat dibuat papan dan sebagainya untuk bahan bangunan rumah dan sebagainya〔Schima bancana〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu seru"
+        }
+      ]
+    },
+    {
+      "lema": "Se.ru5 /sêru/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat Dayak Seru"
+        }
+      ]
+    }
+  ]
+}

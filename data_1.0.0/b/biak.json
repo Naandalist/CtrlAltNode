@@ -1,0 +1,69 @@
+{
+  "istilah": "biak",
+  "entri": "bi.ak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbiak",
+    "biakan",
+    "membiak",
+    "membiakkan",
+    "pembiak",
+    "pembiakan",
+    "membiaki"
+  ],
+  "gabunganKata": [
+    "biak dara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.ak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tumbuh, kembang"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "basah"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ak4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "panggilan kepada teman akrab yang sudah dianggap sebagai saudara"
+        }
+      ]
+    },
+    {
+      "lema": "Bi.ak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pulau di daerah Papua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Biak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Biak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "lintir",
+  "entri": "lin.tir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melintir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lin.tir1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melintir"
+        }
+      ]
+    },
+    {
+      "lema": "lin.tir2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat pelintir"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "jamsostek",
+  "entri": "jam.sos.tek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jam.sos.tek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jaminan sosial tenaga kerja"
+        }
+      ]
+    },
+    {
+      "lema": "Jam.sos.tek /jamsostêk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Jaminan Sosial Tenaga Kerja (BUMN yang bergerak di bidang jaminan sosial khusus bagi tenaga kerja formal, saat ini berganti nama menjadi BPJS Ketenagakerjaan)"
+        }
+      ]
+    }
+  ]
+}

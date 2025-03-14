@@ -1,0 +1,50 @@
+{
+  "istilah": "teleng",
+  "entri": "te.leng",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menelengkan",
+    "terteleng",
+    "terteleng-teleng"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pusat, titik terdalam, bagian yang paling dalam",
+    "kataAsal": "tělěṅ"
+  },
+  "data": [
+    {
+      "lema": "te.leng",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "miring ke sebelah (tentang kepala, topi, telinga); senget (tidak tegak lurus): memakai peci -- ke kanan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "juling: matanya --"
+        }
+      ]
+    },
+    {
+      "lema": "te.leng1 /têlêng/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat bunga1"
+        }
+      ]
+    },
+    {
+      "lema": "te.leng2 /têlêng/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "orang-orangan mata (bulatan hitam di mata)"
+        }
+      ]
+    }
+  ]
+}

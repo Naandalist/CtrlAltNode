@@ -1,0 +1,64 @@
+{
+  "istilah": "cik",
+  "entri": "cik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "paman; adik laki-laki ayah",
+    "kataAsal": "chek"
+  },
+  "data": [
+    {
+      "lema": "cik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "encik: -- Amat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecik (berarti kecil, muda): mak --; pak --"
+        }
+      ]
+    },
+    {
+      "lema": "cik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tahi; cirit"
+        }
+      ]
+    },
+    {
+      "lema": "cik3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rapi, bagus, dan menarik"
+        }
+      ]
+    },
+    {
+      "lema": "cik4",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "jumlah besar bubuk morfin sebanyak 300 cekak"
+        }
+      ]
+    },
+    {
+      "lema": "cik5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi untuk mengusir anjing"
+        }
+      ]
+    }
+  ]
+}

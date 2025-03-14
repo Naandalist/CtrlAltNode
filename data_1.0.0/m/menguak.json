@@ -1,0 +1,48 @@
+{
+  "istilah": "menguak",
+  "entri": "kuak1 » me.ngu.ak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "masuk kandang kambing mengembik, masuk kandang kerbau menguak; menguak-nguak bagai hidung gajah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kuak1 » me.ngu.ak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengeluarkan bunyi “kuak” (tentang kerbau, sapi, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "kuak3 » me.ngu.ak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi terbuka (tersibak, terungkap)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuka"
+        }
+      ]
+    },
+    {
+      "lema": "uak2 » meng.u.ak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengeluarkan bunyi uak: kerbaunya ~"
+        }
+      ]
+    }
+  ]
+}

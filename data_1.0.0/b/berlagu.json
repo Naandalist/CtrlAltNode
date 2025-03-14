@@ -1,0 +1,41 @@
+{
+  "istilah": "berlagu",
+  "entri": "lagu1 » ber.la.gu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lagu1 » ber.la.gu",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggunakan lagu; ada lagunya: tayangan foto tersebut ~ nuansa perdesaan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bernyanyi; menyanyi"
+        }
+      ]
+    },
+    {
+      "lema": "lagu2 » ber.la.gu",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertingkah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beraksi (misalnya dengan gaya bicara yang dibuat-buat)"
+        }
+      ]
+    }
+  ]
+}

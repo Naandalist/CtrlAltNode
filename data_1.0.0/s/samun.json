@@ -1,0 +1,45 @@
+{
+  "istilah": "samun",
+  "entri": "sa.mun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesamunan",
+    "menyamun",
+    "menyamuni",
+    "penyamun",
+    "penyamunan",
+    "samunan"
+  ],
+  "gabunganKata": [
+    "samun sakal",
+    "samun sakar"
+  ],
+  "peribahasa": [
+    "samun sakar berdarah tangan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.mun1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "rompak; rampok; rampas"
+        }
+      ]
+    },
+    {
+      "lema": "sa.mun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belukar: semak -- semak dan belukar"
+        }
+      ]
+    }
+  ]
+}

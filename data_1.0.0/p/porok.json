@@ -1,0 +1,33 @@
+{
+  "istilah": "porok",
+  "entri": "po.rok1",
+  "bentukTidakBaku": "temporok",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.rok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "separuh tempurung (untuk permainan): main -- bermain dengan porok (memutar tempurung dengan kaki diarahkan ke suatu lingkaran)"
+        }
+      ]
+    },
+    {
+      "lema": "po.rok2 bentuk tidak baku: temporok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garpu"
+        }
+      ]
+    }
+  ]
+}

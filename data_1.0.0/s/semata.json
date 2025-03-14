@@ -1,0 +1,47 @@
+{
+  "istilah": "semata",
+  "entri": "mata1 » se.ma.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "semata-mata"
+  ],
+  "gabunganKata": [
+    "semata wayang"
+  ],
+  "peribahasa": [
+    "jerat semata bunda kandung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mata1 » se.ma.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satu mata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "semata-mata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "satu-satunya"
+        }
+      ]
+    },
+    {
+      "lema": "se.ma.ta /sêmata/",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "semata-mata"
+        }
+      ]
+    }
+  ]
+}

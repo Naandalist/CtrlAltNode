@@ -1,0 +1,35 @@
+{
+  "istilah": "rangkak",
+  "entri": "rang.kak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merangkak",
+    "merangkak-rangkak",
+    "merangkaki",
+    "merangkakkan",
+    "perangkakan",
+    "rangkakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memanjat atau merangkak (ke atas)",
+    "kataAsal": "raṅkal"
+  },
+  "data": [
+    {
+      "lema": "rang.kak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merangkak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "deformasi material seiring waktu karena pembebanan"
+        }
+      ]
+    }
+  ]
+}

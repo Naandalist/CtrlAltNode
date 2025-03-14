@@ -1,0 +1,28 @@
+{
+  "istilah": "melangsir",
+  "entri": "langsir1 » me.lang.sir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "langsir1 » me.lang.sir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengatur sambil menggandeng-gandengkan gerbong kereta api"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berjalan mondar-mandir (bolak-balik)"
+        }
+      ]
+    }
+  ]
+}

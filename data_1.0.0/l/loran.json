@@ -1,0 +1,24 @@
+{
+  "istilah": "loran",
+  "entri": "lo.ran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.ran",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "sistem navigasi elektronik yang menghasilkan garis posisi hiperbola dengan mengukur selisih waktu penerimaan sinyal pulsa yang dibuat selaras"
+        }
+      ]
+    }
+  ]
+}

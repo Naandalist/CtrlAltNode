@@ -1,0 +1,24 @@
+{
+  "istilah": "model proses perangkat lunak",
+  "entri": "model1 » model proses perangkat lunak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "model1 » model proses perangkat lunak",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "representasi abstrak dari proses yang menyajikan deskripsi sebuah proses dari beberapa perspektif tertentu"
+        }
+      ]
+    }
+  ]
+}

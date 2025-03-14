@@ -1,0 +1,28 @@
+{
+  "istilah": "bistro",
+  "entri": "bis.tro",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bis.tro",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "restoran kecil atau sederhana bergaya Prancis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedai minuman atau bar kecil"
+        }
+      ]
+    }
+  ]
+}

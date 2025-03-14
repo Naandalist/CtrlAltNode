@@ -1,0 +1,37 @@
+{
+  "istilah": "nek",
+  "entri": "nek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "nenek"
+        }
+      ]
+    },
+    {
+      "lema": "nek /nêk/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa hendak muntah; mual"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "berasa jijik (melihat, mendengar, dan sebagainya); muak: melihat tindakannya saya --"
+        }
+      ]
+    }
+  ]
+}

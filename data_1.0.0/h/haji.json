@@ -1,0 +1,48 @@
+{
+  "istilah": "haji",
+  "entri": "ha.ji",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhaji",
+    "kehajian",
+    "menghajikan",
+    "perhajian"
+  ],
+  "gabunganKata": [
+    "haji akbar",
+    "haji badal",
+    "haji furada",
+    "haji ifrad",
+    "haji kecil",
+    "haji kiran",
+    "haji laut",
+    "haji mabrur",
+    "haji makbul",
+    "haji mardud",
+    "haji perpisahan",
+    "haji tamatuk",
+    "haji udara",
+    "haji wadak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Persia",
+    "arti": "orang yang pergi ke suatu tempat dan tidak kembali dalam waktu dekat",
+    "kataAsal": "ḥājī"
+  },
+  "data": [
+    {
+      "lema": "ha.ji",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rukun Islam kelima (kewajiban ibadah) yang harus dilakukan oleh orang Islam yang mampu dengan berziarah ke Ka'bah pada bulan Haji (Zulhijah) dan mengerjakan amalan haji, seperti ihram, tawaf, sai, dan wukuf di Padang Arafah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebutan untuk orang yang sudah melakukan ziarah ke Makkah untuk menunaikan rukun Islam yang kelima: sekembalinya dari Tanah Suci, ia menambahkan gelar -- di depan namanya"
+        }
+      ]
+    }
+  ]
+}

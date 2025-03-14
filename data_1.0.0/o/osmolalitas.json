@@ -1,0 +1,28 @@
+{
+  "istilah": "osmolalitas",
+  "entri": "os.mo.la.li.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "os.mo.la.li.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "konsentrasi osmotik partikel dalam larutan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gz[Ilmu Gizi: ]",
+          "deskripsi": "kadar partikel aktif secara osmotik per kg pelarut"
+        }
+      ]
+    }
+  ]
+}

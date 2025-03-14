@@ -1,0 +1,45 @@
+{
+  "istilah": "keti",
+  "entri": "ke.ti1 /kêti/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berketi-keti",
+    "mengeti"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cari:",
+    "kataAsal": "koṭi"
+  },
+  "data": [
+    {
+      "lema": "ke.ti1 /kêti/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "satuan bilangan seratus ribu; sepuluh laksa"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ti2 /kêti/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bola yang dibuat dari kayu"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ti3 /kêti/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengeti"
+        }
+      ]
+    }
+  ]
+}

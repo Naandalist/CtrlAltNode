@@ -1,0 +1,33 @@
+{
+  "istilah": "unp",
+  "entri": "UNP1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "UNP1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "ujian nasional perbaikan"
+        }
+      ]
+    },
+    {
+      "lema": "UNP2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Universitas Negeri Padang"
+        }
+      ]
+    }
+  ]
+}

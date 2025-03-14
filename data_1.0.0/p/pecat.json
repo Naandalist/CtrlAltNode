@@ -1,0 +1,29 @@
+{
+  "istilah": "pecat",
+  "entri": "pe.cat /pêcat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memecat",
+    "memecatkan",
+    "pemecatan",
+    "terpecat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lepas, bebas, dikeluarkan, terpisah",
+    "kataAsal": "pěcat"
+  },
+  "data": [
+    {
+      "lema": "pe.cat /pêcat/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memecat"
+        }
+      ]
+    }
+  ]
+}

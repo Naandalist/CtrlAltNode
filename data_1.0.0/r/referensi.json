@@ -1,0 +1,41 @@
+{
+  "istilah": "referensi",
+  "entri": "re.fe.ren.si /refêrensi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mereferensikan"
+  ],
+  "gabunganKata": [
+    "referensi absolut",
+    "referensi sel"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.fe.ren.si /refêrensi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumber acuan (rujukan, petunjuk): kamus dapat dipakai sebagai bahan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku-buku yang dianjurkan oleh dosen kepada mahasiswanya untuk dibaca: buku wajib dan buku -- tersedia lengkap di perpustakaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku perpustakaan yang tidak boleh dibawa ke luar, harus dibaca di tempat yang telah disediakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "hubungan antara referen dan lambang (bentuk bahasa) yang dipakai untuk mewakilinya"
+        }
+      ]
+    }
+  ]
+}

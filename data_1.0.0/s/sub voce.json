@@ -1,0 +1,33 @@
+{
+  "istilah": "sub voce",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "pada kata; disingkat s.v."
+        }
+      ]
+    },
+    {
+      "lema": "sub voce",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "pada kata; disingkat s.v."
+        }
+      ]
+    }
+  ]
+}

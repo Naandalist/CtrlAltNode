@@ -1,0 +1,33 @@
+{
+  "istilah": "pastur",
+  "entri": "pas.tur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pas.tur1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pasteur"
+        }
+      ]
+    },
+    {
+      "lema": "pas.tur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "pastor"
+        }
+      ]
+    }
+  ]
+}

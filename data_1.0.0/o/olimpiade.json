@@ -1,0 +1,36 @@
+{
+  "istilah": "olimpiade",
+  "entri": "O.lim.pi.a.de /olimpiadê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "Olimpiade musim dingin",
+    "Olimpiade musim panas",
+    "Olimpiade persemakmuran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "O.lim.pi.a.de /olimpiadê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "festival kuno bangsa Yunani yang diadakan empat tahun sekali untuk menghormati dewa Zeus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertandingan olahraga antarbangsa yang diadakan empat tahun sekali di negeri yang berlainan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "festival yang mempertandingkan sains, seni, matematika dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

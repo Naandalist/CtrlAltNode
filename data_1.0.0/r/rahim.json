@@ -1,0 +1,38 @@
+{
+  "istilah": "rahim",
+  "entri": "ra.him1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerahiman",
+    "merahimi"
+  ],
+  "gabunganKata": [
+    "rahim kering"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengasih; yang dikasihi",
+    "kataAsal": "raḥīm"
+  },
+  "data": [
+    {
+      "lema": "ra.him1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kantong selaput dalam perut, tempat janin (bayi); peranakan; kandungan: ayahnya meninggal dunia ketika ia masih dalam -- ibunya"
+        }
+      ]
+    },
+    {
+      "lema": "ra.him2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat belas kasihan; bersifat penyayang: Allah yang bersifat --"
+        }
+      ]
+    }
+  ]
+}

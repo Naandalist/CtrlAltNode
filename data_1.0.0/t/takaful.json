@@ -1,0 +1,28 @@
+{
+  "istilah": "takaful",
+  "entri": "ta.ka.ful",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ikatan saling menanggung risiko",
+    "kataAsal": "takāful"
+  },
+  "data": [
+    {
+      "lema": "ta.ka.ful",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjaminan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asuransi berdasarkan syariat Islam"
+        }
+      ]
+    }
+  ]
+}

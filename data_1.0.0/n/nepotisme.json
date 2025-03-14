@@ -1,0 +1,32 @@
+{
+  "istilah": "nepotisme",
+  "entri": "ne.po.tis.me /nepotismê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ne.po.tis.me /nepotismê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perilaku yang memperlihatkan kesukaan yang berlebihan kepada kerabat dekat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kecenderungan untuk mengutamakan (menguntungkan) sanak saudara sendiri, terutama dalam jabatan, pangkat di lingkungan pemerintah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tindakan memilih kerabat atau sanak saudara sendiri untuk memegang pemerintahan: perekrutan pegawai yang transparan dapat menghindari praktik -- di lingkungan pemerintahan pusat dan daerah"
+        }
+      ]
+    }
+  ]
+}

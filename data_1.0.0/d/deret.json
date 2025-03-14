@@ -1,0 +1,64 @@
+{
+  "istilah": "deret",
+  "entri": "de.ret1 bentuk tidak baku: teret",
+  "bentukTidakBaku": "teret",
+  "kataTurunan": [
+    "berderet",
+    "berderet-deret",
+    "deretan",
+    "menderetkan",
+    "penderetan",
+    "sederet"
+  ],
+  "gabunganKata": [
+    "deret acak",
+    "deret aritmetika",
+    "deret galvanik",
+    "deret geometri",
+    "deret harmonik",
+    "deret hitung",
+    "deret konsonan",
+    "deret selang-seling",
+    "deret ukur",
+    "deret vokal",
+    "deret waktu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.ret1 bentuk tidak baku: teret",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susunan (dalam bentuk garis lurus) teratur yang sama arah, jarak, tinggi, dan tingkatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "kumpulan zat, bilangan, atau kuantitas lain pada kumpulan yang sama, disusun secara beraturan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "hubungan antara unsur bahasa secara linear, misalnya deret fonem dalam kata; realisasi dari urutan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "barisan bilangan yang mempunyai perbedaan antarsuku yang sama"
+        }
+      ]
+    },
+    {
+      "lema": "de.ret2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ dandang2"
+        }
+      ]
+    }
+  ]
+}

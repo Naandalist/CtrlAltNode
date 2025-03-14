@@ -1,0 +1,64 @@
+{
+  "istilah": "demam",
+  "entri": "de.mam1 /dêmam/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "demam berdarah",
+    "demam berganti hari",
+    "demam berselang",
+    "demam cupak",
+    "demam dingin",
+    "demam esek",
+    "demam gigil",
+    "demam kamera",
+    "demam keong",
+    "demam kepialu",
+    "demam ketulangan",
+    "demam kuning",
+    "demam kura",
+    "demam kura-kura",
+    "demam lapangan",
+    "demam malaria",
+    "demam mengambuh",
+    "demam panas",
+    "demam panggung",
+    "demam parit",
+    "demam puyuh",
+    "demam sejuk",
+    "demam selesma",
+    "demam skarlatina",
+    "demam susu",
+    "demam texas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.mam1 /dêmam/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "panas badannya (suhu badan lebih tinggi daripada biasanya, umumnya karena sakit)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sakit yang menyebabkan suhu badan menjadi lebih tinggi daripada biasanya: seharian itu ia berbaring saja karena --"
+        }
+      ]
+    },
+    {
+      "lema": "de.mam2 /dêmam/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tergila-gila: mereka -- lagu-lagu dangdut"
+        }
+      ]
+    }
+  ]
+}

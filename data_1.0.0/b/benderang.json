@@ -1,0 +1,35 @@
+{
+  "istilah": "benderang",
+  "entri": "ben.de.rang1 /bêndêrang/",
+  "bentukTidakBaku": "menderang",
+  "kataTurunan": [
+    "kebenderangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.de.rang1 /bêndêrang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tombak yang tangkainya dihiasi dengan bulu kambing (sebagai tanda kebesaran); tombak benderang"
+        }
+      ]
+    },
+    {
+      "lema": "ben.de.rang2 /bêndêrang/bentuk tidak baku: menderang",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terang benar (tentang cahaya, warna): tunggulnya merah amat --; bulan --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "sertu",
+  "entri": "ser.tu2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyertu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ser.tu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "sersan satu"
+        }
+      ]
+    },
+    {
+      "lema": "ser.tu1 /sêrtu/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyertu"
+        }
+      ]
+    }
+  ]
+}

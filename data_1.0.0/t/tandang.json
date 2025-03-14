@@ -1,0 +1,37 @@
+{
+  "istilah": "tandang",
+  "entri": "tan.dang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertandang",
+    "menandangi",
+    "petandang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berkunjung",
+    "kataAsal": "tandaṅ"
+  },
+  "data": [
+    {
+      "lema": "tan.dang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertandang"
+        }
+      ]
+    },
+    {
+      "lema": "tan.dang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Lp[Lampung: -]",
+          "deskripsi": "mengambil sayur-sayuran atau lalap-lalapan di kebun untuk memenuhi kebutuhan pangan sehari-hari dan bukan untuk diperdagangkan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "istilah": "kiai",
+  "entri": "ki.ai1 bentuk tidak baku: kyai",
+  "bentukTidakBaku": "kyai",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kiai ageng",
+    "kiai sepuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.ai1 bentuk tidak baku: kyai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada alim ulama (cerdik pandai dalam agama Islam): -- Haji Wahid Hasyim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alim ulama: para -- ikut terjun ke kancah peperangan sewaktu melawan penjajah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada guru ilmu gaib (dukun dan sebagainya): Kabarnya, Pak -- bisa menghubungkan orang dengan roh nenek moyangnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala distrik (di Kalimantan Selatan): ia menjadi seorang -- di distrik itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan yang mengawali nama benda yang dianggap bertuah (senjata, gamelan, dan sebagainya): tombak -- Plered dari Keraton Surakarta, gamelan -- Sekati dari Solo"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata samaran untuk harimau (jika orang melewati hutan)"
+        }
+      ]
+    },
+    {
+      "lema": "ki.ai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "teriakan yang dikeluarkan melalui kerongkongan (dalam olahraga karate)"
+        }
+      ]
+    }
+  ]
+}

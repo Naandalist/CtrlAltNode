@@ -1,0 +1,28 @@
+{
+  "istilah": "protokol komunikasi",
+  "entri": "protokol » protokol komunikasi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "protokol » protokol komunikasi",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "protokol yang mengatur pemindahan informasi atau pertukaran data antarkomputer melalui jejaring telepon"
+        },
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "metode standar komunikasi antarkomputer atau antara komputer dan terminal"
+        }
+      ]
+    }
+  ]
+}

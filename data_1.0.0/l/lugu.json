@@ -1,0 +1,35 @@
+{
+  "istilah": "lugu",
+  "entri": "lu.gu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keluguan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.gu1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tidak banyak tingkah; bersahaja; sewajarnya; apa adanya: orang desa pada umumnya masih banyak yang --, sopan, dan hormat kepada orang lain"
+        }
+      ]
+    },
+    {
+      "lema": "lu.gu2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "puas; kenyang"
+        }
+      ]
+    }
+  ]
+}

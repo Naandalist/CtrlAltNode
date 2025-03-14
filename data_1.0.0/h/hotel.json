@@ -1,0 +1,61 @@
+{
+  "istilah": "hotel",
+  "entri": "ho.tel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "perhotelan"
+  ],
+  "gabunganKata": [
+    "hotel apartemen",
+    "hotel apung",
+    "hotel bandar",
+    "hotel bandara",
+    "hotel berbintang",
+    "hotel bisnis",
+    "hotel bujet",
+    "hotel butik",
+    "hotel cabang",
+    "hotel independen",
+    "hotel internasional",
+    "hotel jaringan",
+    "hotel kapsul",
+    "hotel kasino",
+    "hotel keluarga",
+    "hotel kota",
+    "hotel layanan terbatas",
+    "hotel mandiri",
+    "hotel melati",
+    "hotel mewah",
+    "hotel musiman",
+    "hotel pantai",
+    "hotel perdesaan",
+    "hotel perkotaan",
+    "hotel pilgrim",
+    "hotel pribadi",
+    "hotel prodeo",
+    "hotel residensial",
+    "hotel resor",
+    "hotel semiresidensial",
+    "hotel suit",
+    "hotel tira",
+    "hotel transien",
+    "hotel transit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ho.tel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan berkamar banyak yang disewakan sebagai tempat untuk menginap dan tempat makan orang yang sedang dalam perjalanan; bentuk akomodasi yang dikelola secara komersial, disediakan bagi setiap orang untuk memperoleh pelayanan, penginapan, makan dan minum"
+        }
+      ]
+    }
+  ]
+}

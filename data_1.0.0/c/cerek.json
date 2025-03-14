@@ -1,0 +1,41 @@
+{
+  "istilah": "cerek",
+  "entri": "ce.rek1 bentuk tidak baku: ceret",
+  "bentukTidakBaku": "ceret",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.rek1 bentuk tidak baku: ceret",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat air minum yang bercerat, dibuat dari loyang dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat bercerat untuk menjerang air, dibuat dari tembaga, kaleng, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat bercerat, berukuran besar, digunakan untuk menyiram bunga; embrat; gembor"
+        }
+      ]
+    },
+    {
+      "lema": "ce.rek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sicerek〔Clausena excavata〕"
+        }
+      ]
+    }
+  ]
+}

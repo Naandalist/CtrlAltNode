@@ -1,0 +1,57 @@
+{
+  "istilah": "calung",
+  "entri": "ca.lung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "calung lengger",
+    "calung renteng"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "buluh bambu untuk membawa air",
+    "kataAsal": "caluṅ"
+  },
+  "data": [
+    {
+      "lema": "ca.lung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tabung bambu untuk mengambil air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "timba kecil dari bambu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "mangkuk dari timah untuk menampung getah karet"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "cangkir besar yang terbuat dari aluminium"
+        }
+      ]
+    },
+    {
+      "lema": "ca.lung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "alat musik pukul dari bambu bulat, ada yang menyerupai gambang, ada yang tersusun melintang dari atas ke bawah"
+        }
+      ]
+    },
+    {
+      "lema": "ca.lung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Ri[Melayu Riau: -]",
+          "deskripsi": "takaran beras dari kaleng susu: dulu masyarakat menakar beras dengan --"
+        }
+      ]
+    }
+  ]
+}

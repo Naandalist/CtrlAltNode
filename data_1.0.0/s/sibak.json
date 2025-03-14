@@ -1,0 +1,38 @@
+{
+  "istilah": "sibak",
+  "entri": "si.bak bentuk tidak baku: sebak",
+  "bentukTidakBaku": "sebak",
+  "kataTurunan": [
+    "bersibak",
+    "menyibak",
+    "menyibak-nyibak",
+    "menyibakkan",
+    "tersibak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pada satu sisi, sebelah, separuh",
+    "kataAsal": "sibak"
+  },
+  "data": [
+    {
+      "lema": "si.bak bentuk tidak baku: sebak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cerai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pisah (ke kanan dan ke kiri)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "belah (tentang sisiran rambut dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

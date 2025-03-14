@@ -1,0 +1,36 @@
+{
+  "istilah": "sempadan",
+  "entri": "sem.pa.dan /sêmpadan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersempadan",
+    "menyempadani",
+    "penyempadanan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sem.pa.dan /sêmpadan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batas (negeri, daerah, sawah, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda batas (seperti pancang, garis)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "unsur grafemis, fonologis, atau gramatikal yang menandai batas antara satuan bahasa (seperti kata, frasa), berupa sendi atau tekanan"
+        }
+      ]
+    }
+  ]
+}

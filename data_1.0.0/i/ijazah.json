@@ -1,0 +1,32 @@
+{
+  "istilah": "ijazah",
+  "entri": "i.ja.zah bentuk tidak baku: ijasah",
+  "bentukTidakBaku": "ijasah",
+  "kataTurunan": [
+    "berijazah"
+  ],
+  "gabunganKata": [
+    "ijazah bodong"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "rukhsah; izin memberikan kewenangan meriwayatkan hadis; surat tanda tamat belajar",
+    "kataAsal": "ijāzah"
+  },
+  "data": [
+    {
+      "lema": "i.ja.zah bentuk tidak baku: ijasah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat tanda tamat belajar; sijil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "izin yang diberikan oleh guru kepada muridnya untuk mengajarkan ilmu yang diperoleh si murid dari gurunya"
+        }
+      ]
+    }
+  ]
+}

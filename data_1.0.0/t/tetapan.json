@@ -1,0 +1,39 @@
+{
+  "istilah": "tetapan",
+  "entri": "tetap1 » te.tap.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tetapan Karman"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tetap1 » te.tap.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil menetapkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "sesuatu yang tidak dapat diubah, permanen, tidak dapat divariasikan; konstanta"
+        }
+      ]
+    },
+    {
+      "lema": "te.ta.pan /têtapan/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tetampan1"
+        }
+      ]
+    }
+  ]
+}

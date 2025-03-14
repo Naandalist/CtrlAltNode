@@ -1,0 +1,43 @@
+{
+  "istilah": "serap",
+  "entri": "se.rap bentuk tidak baku: serep1",
+  "bentukTidakBaku": "serep1serep1",
+  "kataTurunan": [
+    "diserap",
+    "keterserapan",
+    "menyerap",
+    "penyerap",
+    "penyerapan",
+    "serapan",
+    "terserap"
+  ],
+  "gabunganKata": [
+    "serap mesra"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.rap bentuk tidak baku: serep1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cadangan; serep"
+        }
+      ]
+    },
+    {
+      "lema": "se.rap /sêrap/bentuk tidak baku: serep1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerap"
+        }
+      ]
+    }
+  ]
+}

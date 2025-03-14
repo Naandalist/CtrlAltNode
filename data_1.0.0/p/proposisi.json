@@ -1,0 +1,30 @@
+{
+  "istilah": "proposisi",
+  "entri": "pro.po.si.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "proposisi eksklusif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.po.si.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rancangan usulan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "ungkapan yang dapat dipercaya, disangsikan, disangkal, atau dibuktikan benar tidaknya"
+        }
+      ]
+    }
+  ]
+}

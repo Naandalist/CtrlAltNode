@@ -1,0 +1,33 @@
+{
+  "istilah": "maksi",
+  "entri": "mak.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mak.si1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berukuran sampai menutupi mata kaki (tentang gaun): ia lebih suka memakai baju -- daripada baju mini"
+        }
+      ]
+    },
+    {
+      "lema": "mak.si2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] akr[akronim]",
+          "deskripsi": "makan siang: -- bareng sama teman"
+        }
+      ]
+    }
+  ]
+}

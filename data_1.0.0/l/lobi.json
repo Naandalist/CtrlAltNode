@@ -1,0 +1,38 @@
+{
+  "istilah": "lobi",
+  "entri": "lo.bi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melobi",
+    "pelobi",
+    "pelobian"
+  ],
+  "gabunganKata": [
+    "lobi utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.bi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang teras di dekat pintu masuk hotel (bioskop dan sebagainya), dilengkapi dengan perangkat meja kursi, berfungsi sebagai ruang duduk atau ruang tunggu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kegiatan yang dilakukan seseorang untuk memengaruhi orang lain dalam kaitannya dengan pemungutan suara menjelang pemilihan ketua suatu organisasi, seperti parlemen dan partai politik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "area di gedung teater di antara auditorium dan pintu masuk"
+        }
+      ]
+    }
+  ]
+}

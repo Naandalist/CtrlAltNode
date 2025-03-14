@@ -1,0 +1,33 @@
+{
+  "istilah": "kelengkeng",
+  "entri": "ke.leng.keng1 /kêlengkeng/",
+  "bentukTidakBaku": "kelengking",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Zhangzhou",
+    "arti": "buah longan",
+    "kataAsal": "lêng kéng"
+  },
+  "data": [
+    {
+      "lema": "ke.leng.keng1 /kêlengkeng/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lengkeng〔Euphoria longana〕"
+        }
+      ]
+    },
+    {
+      "lema": "ke.leng.keng2 /kêlengkeng/bentuk tidak baku: kelengking",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "enggang kecil〔Anthracoceros conveseus〕"
+        }
+      ]
+    }
+  ]
+}

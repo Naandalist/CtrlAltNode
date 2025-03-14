@@ -1,0 +1,48 @@
+{
+  "istilah": "rancah",
+  "entri": "ran.cah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "perancah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ran.cah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah berpaya-paya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berpaya-paya"
+        }
+      ]
+    },
+    {
+      "lema": "ran.cah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ rencah3"
+        }
+      ]
+    },
+    {
+      "lema": "ran.cah3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "perancah"
+        }
+      ]
+    }
+  ]
+}

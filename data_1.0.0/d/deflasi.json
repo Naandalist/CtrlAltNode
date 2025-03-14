@@ -1,0 +1,28 @@
+{
+  "istilah": "deflasi",
+  "entri": "de.fla.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.fla.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "penambahan nilai mata uang, antara lain, dengan pengurangan jumlah uang kertas yang beredar dengan tujuan mengembalikan daya beli uang yang nilainya menurun; gejala perekonomian yang merupakan akibat keadaan tersebut, seperti penurunan produksi, langkanya lapangan kerja, rendahnya daya beli masyarakat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "pemindahan atau pengangkutan bahan (pasir, abu) oleh angin"
+        }
+      ]
+    }
+  ]
+}

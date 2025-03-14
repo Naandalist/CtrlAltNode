@@ -1,0 +1,36 @@
+{
+  "istilah": "sibir",
+  "entri": "si.bir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sesibir",
+    "sibiran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.bir1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "kerat; cabik; potong"
+        }
+      ]
+    },
+    {
+      "lema": "si.bir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "fragmen"
+        }
+      ]
+    }
+  ]
+}

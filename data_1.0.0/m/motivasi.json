@@ -1,0 +1,40 @@
+{
+  "istilah": "motivasi",
+  "entri": "mo.ti.va.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memotivasi",
+    "pemotivasi",
+    "termotivasi"
+  ],
+  "gabunganKata": [
+    "motivasi bawah sadar",
+    "motivasi ekstrinsik",
+    "motivasi intrinsik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.ti.va.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dorongan yang timbul pada diri seseorang secara sadar atau tidak sadar untuk melakukan suatu tindakan dengan tujuan tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "usaha yang dapat menyebabkan seseorang atau kelompok orang tertentu tergerak melakukan sesuatu karena ingin mencapai tujuan yang dikehendakinya atau mendapat kepuasan dengan perbuatannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "hal yang biasa digunakan dalam pelatihan aktor yang menggunakan prinsip-prinsip keaktoran gaya Stanislavsky"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "matra",
+  "entri": "mat.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kematraan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mat.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran tinggi, panjang, atau lebar; dimensi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran banyaknya tekanan irama (dalam musik)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "bagan yang dipakai dalam penyusunan baris sajak yang berhubungan dengan jumlah, panjang, atau tekanan suku kata"
+        }
+      ]
+    }
+  ]
+}

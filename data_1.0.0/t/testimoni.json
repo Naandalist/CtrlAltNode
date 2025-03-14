@@ -1,0 +1,36 @@
+{
+  "istilah": "testimoni",
+  "entri": "tes.ti.mo.ni",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tes.ti.mo.ni",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lembaran hukum Musa yang berisi sepuluh Perintah Tuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "bukti yang diberikan saksi di pengadilan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "pengakuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan kepuasan atau ketakpuasan konsumen tentang pengalaman bertransaksi, termasuk pelayanan dan kualitas produk atau jasa yang dibeli"
+        }
+      ]
+    }
+  ]
+}

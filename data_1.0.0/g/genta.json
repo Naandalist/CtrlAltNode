@@ -1,0 +1,38 @@
+{
+  "istilah": "genta",
+  "entri": "gen.ta /gênta/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggenta"
+  ],
+  "gabunganKata": [
+    "genta eret",
+    "genta kabut",
+    "genta pipa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "lonceng, bel; jam",
+    "kataAsal": "ghaṇṭā"
+  },
+  "data": [
+    {
+      "lema": "gen.ta /gênta/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat bunyi-bunyian yang terbuat dari logam berbentuk cangkir terbalik dengan sebuah pemukul yang tergantung tepat di poros dalamnya, apabila pemukul itu mengenai dinding cangkir, cangkir tersebut akan menghasilkan bunyi-bunyian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lonceng besar (dipasang di menara gereja dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "giring-giring (dipasang pada leher lembu dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

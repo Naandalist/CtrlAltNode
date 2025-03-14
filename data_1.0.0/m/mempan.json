@@ -1,0 +1,32 @@
+{
+  "istilah": "mempan",
+  "entri": "mem.pan /mêmpan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mem.pan /mêmpan/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat dikenai (oleh senjata dan sebagainya); dapat terbakar (oleh api): berkali-kali ia ditembak, tetapi tidak pernah --; coba bakar, -- atau tidak"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat menyembuhkan penyakit (tentang obat): segala macam obat sudah diminumnya, tetapi tidak -- juga"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "dapat menerima nasihat (kritik dan sebagainya): seseorang yang keras kepala yang tidak -- kritik dan teguran"
+        }
+      ]
+    }
+  ]
+}

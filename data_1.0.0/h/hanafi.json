@@ -1,0 +1,24 @@
+{
+  "istilah": "hanafi",
+  "entri": "Ha.na.fi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengikut mazhab fikih Imam Abu Hanifah",
+    "kataAsal": "ḥanafī"
+  },
+  "data": [
+    {
+      "lema": "Ha.na.fi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mazhab ilmu fikih yang dipelopori oleh Imam Abu Hanifah dengan sumber hukum Al-Qur'an, sunah Nabi, fatwa sahabat Nabi, istihsan, dan adat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "istilah": "cupu",
+  "entri": "cu.pu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cupu-cupu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cu.pu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cepu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang pada lesung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang tempat memasang tiang"
+        }
+      ]
+    },
+    {
+      "lema": "cu.pu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "guci kecil dari keramik"
+        }
+      ]
+    },
+    {
+      "lema": "cu.pu3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "culun2"
+        }
+      ]
+    }
+  ]
+}

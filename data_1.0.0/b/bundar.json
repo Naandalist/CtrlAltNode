@@ -1,0 +1,38 @@
+{
+  "istilah": "bundar",
+  "entri": "bun.dar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bundaran",
+    "membundar",
+    "membundarkan",
+    "pembundaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bundar, bulat",
+    "kataAsal": "bunděr"
+  },
+  "data": [
+    {
+      "lema": "bun.dar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbentuk lingkaran (melengkung) dengan jari-jari yang sama: meja --"
+        }
+      ]
+    },
+    {
+      "lema": "bun.dar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sikat untuk membersihkan pakaian dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

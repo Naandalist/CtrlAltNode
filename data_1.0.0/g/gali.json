@@ -1,0 +1,56 @@
+{
+  "istilah": "gali",
+  "entri": "ga.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gali-galian",
+    "galian",
+    "menggali",
+    "menggali-gali",
+    "penggali",
+    "penggalian",
+    "tergali"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "gali lubang tutup lubang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.li1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keduk; keruk"
+        }
+      ]
+    },
+    {
+      "lema": "ga.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapal perang berukuran panjang, bermesin, terbuat dari besi, berlayar, bertiang dua atau lebih, bertutup, dan bersenjata"
+        }
+      ]
+    },
+    {
+      "lema": "ga.li3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "gabungan anak liar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "pencoleng; penodong; perampok"
+        }
+      ]
+    }
+  ]
+}

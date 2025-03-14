@@ -1,0 +1,28 @@
+{
+  "istilah": "poligraf",
+  "entri": "po.li.graf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.li.graf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur bentuk reaksi yang bersamaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mencatat perubahan tekanan darah, kekuatan denyut nadi atau gerakan pernapasan, atau peningkatan keringat sebagai indikasi kondisi emosional yang diasumsikan menyertai kebohongan saat diinterogasi; detektor kebohongan"
+        }
+      ]
+    }
+  ]
+}

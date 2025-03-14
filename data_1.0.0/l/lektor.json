@@ -1,0 +1,37 @@
+{
+  "istilah": "lektor",
+  "entri": "lek.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lektor kepala",
+    "lektor kepala madya",
+    "lektor madya",
+    "lektor muda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lek.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengajar di perguruan tinggi, berpangkat pembina atau golongan IV/a"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "asisten profesor; pangkat sebelum atau di bawah profesor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "pria yang bertugas membaca Alkitab pada saat misa"
+        }
+      ]
+    }
+  ]
+}

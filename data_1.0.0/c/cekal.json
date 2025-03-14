@@ -1,0 +1,53 @@
+{
+  "istilah": "cekal",
+  "entri": "ce.kal1 /cêkal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencekalkan",
+    "cekalan",
+    "mencekal",
+    "pencekalan",
+    "mencekal",
+    "pencekalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.kal1 /cêkal/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tahan menderita; (tetap) kuat; tabah: ia tetap -- dalam menghadapi kesukaran ini dan tidak putus asa dalam berusaha"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kal2 /cêkal/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pegang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tangkap"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kal3 /cêkal/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] akr[akronim]",
+          "deskripsi": "cegah dan tangkal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "istilah": "khotbah",
+  "entri": "khot.bah bentuk tidak baku: kotbah, kutbah, khutbah",
+  "bentukTidakBaku": "kotbah, kutbah, khutbah",
+  "kataTurunan": [
+    "berkhotbah",
+    "mengkhotbahkan",
+    "pengkhotbah",
+    "pengkhotbahan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pidato",
+    "kataAsal": "khuṭbah"
+  },
+  "data": [
+    {
+      "lema": "khot.bah bentuk tidak baku: kotbah, kutbah, khutbah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pidato (terutama yang menguraikan ajaran agama): -- Jumat"
+        }
+      ]
+    }
+  ]
+}

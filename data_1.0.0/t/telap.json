@@ -1,0 +1,44 @@
+{
+  "istilah": "telap",
+  "entri": "te.lap1 /têlap/",
+  "bentukTidakBaku": "telapa, telepa",
+  "kataTurunan": [
+    "ketelapan",
+    "menelap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.lap1 /têlap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "makan (mempan tentang senjata tajam): keris itu tiada -- pada tubuhnya; orang Aceh dikatakan tidak -- oleh senjata"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(dapat) kena luka; (dapat) dilukai: tiada -- [1] tidak dapat luka (oleh senjata) [2] kebal; ia tidak -- ditembak tidak dapat kena luka oleh tembakan; kulitnya tiada cacat, tiada -- kena peluru"
+        }
+      ]
+    },
+    {
+      "lema": "te.lap2 /têlap/bentuk tidak baku: telapa, telepa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bekas (tempat sesuatu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bekas dari tembikar, kaca, dan sebagainya (tempat bau-bauan, gambir, tembakau, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

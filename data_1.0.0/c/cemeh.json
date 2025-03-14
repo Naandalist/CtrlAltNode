@@ -1,0 +1,46 @@
+{
+  "istilah": "cemeh",
+  "entri": "ce.meh1 bentuk tidak baku: cemek1",
+  "bentukTidakBaku": "cemek1cemek2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Zhangzhou",
+    "arti": "buta",
+    "kataAsal": "chheⁿ mêⁿ"
+  },
+  "data": [
+    {
+      "lema": "ce.meh1 bentuk tidak baku: cemek1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "buta mata sebelah; celek"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "buta dengan mata melek seperti orang normal (tidak pejam matanya); cemer"
+        }
+      ]
+    },
+    {
+      "lema": "ce.meh2 bentuk tidak baku: cemek2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak penting; tidak berharga; remeh"
+        }
+      ]
+    },
+    {
+      "lema": "ce.meh3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "permainan judi dengan kartu kecil"
+        }
+      ]
+    }
+  ]
+}

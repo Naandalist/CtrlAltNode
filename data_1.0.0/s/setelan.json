@@ -1,0 +1,47 @@
+{
+  "istilah": "setelan",
+  "entri": "setel1 » se.tel.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "setelan jam pasir"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "setel1 » se.tel.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selengkap pakaian (celana dan baju)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seperangkat (cangkir, kain, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pasangan; jodoh; bagian sesuatu (perkakas)"
+        }
+      ]
+    },
+    {
+      "lema": "setel2 » se.tel.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "putaran (arloji dan sebagainya); tombol (radio dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil menyetel; cara menyetel"
+        }
+      ]
+    }
+  ]
+}

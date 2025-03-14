@@ -1,0 +1,42 @@
+{
+  "istilah": "rek",
+  "entri": "rek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi pisau digoreskan pada papan"
+        }
+      ]
+    },
+    {
+      "lema": "rek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "para-para; rak"
+        }
+      ]
+    },
+    {
+      "lema": "rek3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "arek"
+        }
+      ]
+    }
+  ]
+}

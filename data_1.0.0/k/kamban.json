@@ -1,0 +1,36 @@
+{
+  "istilah": "kamban",
+  "entri": "kam.ban1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengamban",
+    "mengamban"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kam.ban1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ikat"
+        }
+      ]
+    },
+    {
+      "lema": "kam.ban2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "peluk dari belakang"
+        }
+      ]
+    }
+  ]
+}

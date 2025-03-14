@@ -1,0 +1,28 @@
+{
+  "istilah": "muhadat",
+  "entri": "mu.ha.dat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang dibatasi",
+    "kataAsal": "muḥaddad"
+  },
+  "data": [
+    {
+      "lema": "mu.ha.dat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "terbatas, tidak luas"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "menguraikan dengan jelas"
+        }
+      ]
+    }
+  ]
+}

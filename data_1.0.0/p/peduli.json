@@ -1,0 +1,30 @@
+{
+  "istilah": "peduli",
+  "entri": "pe.du.li /pêduli/bentuk tidak baku: perduli",
+  "bentukTidakBaku": "perduli",
+  "kataTurunan": [
+    "kepedulian",
+    "memedulikan",
+    "mempedulikan"
+  ],
+  "gabunganKata": [
+    "peduli pelanggan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang selalu penasaran terhadap urusan orang lain",
+    "kataAsal": "fuḍūlī"
+  },
+  "data": [
+    {
+      "lema": "pe.du.li /pêduli/bentuk tidak baku: perduli",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengindahkan; memperhatikan; menghiraukan: mereka asyik memperkaya diri, mereka tidak -- orang lain yang menderita"
+        }
+      ]
+    }
+  ]
+}

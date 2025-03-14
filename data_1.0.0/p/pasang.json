@@ -1,0 +1,115 @@
+{
+  "istilah": "pasang",
+  "entri": "pa.sang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpasang",
+    "berpasang-pasang",
+    "berpasang-pasangan",
+    "berpasangan",
+    "memasangkan",
+    "pasangan",
+    "perpasangan",
+    "sepasang",
+    "berpasang-pasangan",
+    "memasang",
+    "pasang-memasang",
+    "memasang",
+    "memasangkan",
+    "pasangan",
+    "pemasang",
+    "pemasangan",
+    "terpasang"
+  ],
+  "gabunganKata": [
+    "pasang besar",
+    "pasang bulan",
+    "pasang gundah",
+    "pasang harian ganda",
+    "pasang harian tunggal",
+    "pasang merabung",
+    "pasang merah",
+    "pasang naik",
+    "pasang perbani",
+    "pasang purnama",
+    "pasang rabung",
+    "pasang surut",
+    "pasang surut atmosfer",
+    "pasang surut campuran",
+    "pasang surut diurnal",
+    "pasang surut ionosfer",
+    "pasang surut semidiurnal",
+    "pasang surut termal",
+    "pasang ulang"
+  ],
+  "peribahasa": [
+    "adat pasang berturun naik; jika takut dilimbur pasang, jangan berumah di tepi pantai; kalau takut dilimbur pasang, jangan berumah di tepi pantai; ke hulu menongkah surut, ke hilir menongkah pasang; ke hulu menongkah surut, ke hilir menongkah pasang; mudik menyongsong arus, hilir menyongsong pasang; pasang masuk muara"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.sang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dua orang, laki-laki perempuan atau dua binatang, jantan betina: paman membeli dua -- burung dara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dua benda yang kembar atau yang saling melengkapi: Adik mendapat kiriman tiga -- sepatu dari Bibi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dua organ tubuh yang adanya (munculnya) bersama-sama, seperti paru-paru, mata, dan telinga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "set; perangkat: Ibu membeli dua -- meja kursi sekaligus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dua orang (pemain dan sebagainya) yang merupakan satu satuan: ada tiga -- pemain ganda yang disiapkan untuk Piala Thomas"
+        }
+      ]
+    },
+    {
+      "lema": "pa.sang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "naik (tentang air laut atau sungai)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "sedang baik (tentang peruntungan); untung: nasib pedagang ada -- surutnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "sedang bangkit (menyerang) (tentang penyakit): penyakit --"
+        }
+      ]
+    },
+    {
+      "lema": "pa.sang3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tembak"
+        }
+      ]
+    },
+    {
+      "lema": "pa.sang4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pakai"
+        }
+      ]
+    }
+  ]
+}

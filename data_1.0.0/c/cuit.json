@@ -1,0 +1,37 @@
+{
+  "istilah": "cuit",
+  "entri": "cu.it1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercuit-cuit",
+    "mencuit",
+    "cuitan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cu.it1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gamit"
+        }
+      ]
+    },
+    {
+      "lema": "cu.it2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kicau burung"
+        }
+      ]
+    }
+  ]
+}

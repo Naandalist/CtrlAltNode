@@ -1,0 +1,30 @@
+{
+  "istilah": "neurosis",
+  "entri": "ne.u.ro.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "neurosis obsesif-kompulsif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ne.u.ro.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "penyakit saraf yang berhubungan dengan fungsinya tanpa ada kerusakan organik pada bagian susunan saraf (seperti histeria, depresi, dan fobia); psikoneurosis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "gangguan psikologis fungsional tanpa disertai gejala akibat dari konflik emosional, seperti rasa cemas, histeria, gangguan obsesif kompulsif, atau fobia"
+        }
+      ]
+    }
+  ]
+}

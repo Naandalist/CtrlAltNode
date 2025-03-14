@@ -1,0 +1,37 @@
+{
+  "istilah": "kor",
+  "entri": "kor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "paduan suara; nyanyian bersama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "sekelompok aktor pendukung pemeran utama dalam sebuah produksi"
+        }
+      ]
+    },
+    {
+      "lema": "kor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran isi untuk barang cair sebesar 10 bat"
+        }
+      ]
+    }
+  ]
+}

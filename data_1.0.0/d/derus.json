@@ -1,0 +1,35 @@
+{
+  "istilah": "derus",
+  "entri": "de.rus1 /dêrus/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berderus-derus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.rus1 /dêrus/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi barang bergeser dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "de.rus2 /dêrus/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "masakan yang belum masak"
+        }
+      ]
+    }
+  ]
+}

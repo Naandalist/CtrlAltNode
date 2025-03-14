@@ -1,0 +1,36 @@
+{
+  "istilah": "ketar",
+  "entri": "ke.tar1 /kêtar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berketar-ketar",
+    "ketar-ketir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.tar1 /kêtar/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gentar; sangat takut"
+        }
+      ]
+    },
+    {
+      "lema": "ke.tar2 /kêtar/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa hampir seperti getir (pahit, agak pedas)"
+        }
+      ]
+    }
+  ]
+}

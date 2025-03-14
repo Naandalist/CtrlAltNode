@@ -1,0 +1,41 @@
+{
+  "istilah": "kacapuri",
+  "entri": "ka.ca.pu.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bagian bangunan; dinding atau pagar yang melingkupi (dari bambu atau batu, dibentuk dengan cara yang khas)",
+    "kataAsal": "kacapuri"
+  },
+  "data": [
+    {
+      "lema": "ka.ca.pu.ri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian rumah yang berada di tengah-tengah; induk rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pusat istana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Jw[Jawa: -]",
+          "deskripsi": "pagar rumah berupa tumpukan batu bata; pagar bumi"
+        }
+      ]
+    },
+    {
+      "lema": "ka.ca.pu.ri2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "pangkal kuku yang berwarna merah muda"
+        }
+      ]
+    }
+  ]
+}

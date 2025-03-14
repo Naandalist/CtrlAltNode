@@ -1,0 +1,41 @@
+{
+  "istilah": "ulur",
+  "entri": "u.lur1 bentuk tidak baku: hulur",
+  "bentukTidakBaku": "hulur",
+  "kataTurunan": [
+    "mengulur",
+    "mengulur-ulur",
+    "mengulurkan",
+    "penguluran",
+    "terulur",
+    "uluran",
+    "memperulur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.lur1 bentuk tidak baku: hulur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mulur, julur"
+        }
+      ]
+    },
+    {
+      "lema": "u.lur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "orang yang dalam keadaan setengah bebas, atau dalam kedudukan antara orang bebas dan budak (karena melakukan kejahatan, seperti membunuh, mencuri, dan tidak memberi ganti rugi, lalu menyerahkan dirinya): yang mencuri itu masuk -- kepada yang empunya harta"
+        }
+      ]
+    }
+  ]
+}

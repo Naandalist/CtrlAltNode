@@ -1,0 +1,87 @@
+{
+  "istilah": "pe-",
+  "entri": "pe-2 /pê-/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe-2 /pê-/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat per-7"
+        }
+      ]
+    },
+    {
+      "lema": "pe-3 /pê-/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat peng-"
+        }
+      ]
+    },
+    {
+      "lema": "peng- /pêng-/varian: pe-, pem-, pen-, penge-, peny-",
+      "arti": [
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "orang yang melakukan perbuatan: pembeli; pengirim"
+        },
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "orang yang berprofesi sebagai: pengarang; penyiar; penulis"
+        },
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "orang yang memiliki sifat: pemarah; pemalas; penakut"
+        },
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "alat yang dipakai untuk: penggali; pengetes; penopang"
+        }
+      ]
+    },
+    {
+      "lema": "per-7 /pêr-/varian: pe-, pel-",
+      "arti": [
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "yang memiliki: persegi; pemalu"
+        },
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "yang menghasilkan: pedaging; petelur"
+        },
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "yang biasa melakukan (sebagai profesi, kegemaran, kebiasaan): pertapa; petinju; pelajar"
+        },
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "yang melakukan pekerjaan mengenai diri: peubah"
+        },
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "yang dikenai tindakan: pesuruh; petatar"
+        },
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "orang yang biasa bekerja di: pelaut; peladang"
+        },
+        {
+          "kelas_kata": "prefiks pembentuk nomina[- : -]",
+          "deskripsi": "orang yang gemar: perokok; pendaki gunung"
+        }
+      ]
+    }
+  ]
+}

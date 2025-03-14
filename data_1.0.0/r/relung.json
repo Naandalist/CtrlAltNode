@@ -1,0 +1,44 @@
+{
+  "istilah": "relung",
+  "entri": "re.lung1 /rêlung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merelung"
+  ],
+  "gabunganKata": [
+    "relung ekologi",
+    "relung fundamental",
+    "relung hati",
+    "relung langit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.lung1 /rêlung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lekuk atau jeluk (di tanah, di lereng gunung)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "lekuk atau ceruk pada candi atau bangunan untuk menempatkan arca"
+        }
+      ]
+    },
+    {
+      "lema": "re.lung2 /rêlung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "ukuran luas tanah (ada yang kira-kira 5.300 m³, dan ada yang kira-kira 2.800 m³)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "caveat lector",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "pembaca hendaklah berhati-hati"
+        }
+      ]
+    },
+    {
+      "lema": "caveat lector",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "pembaca hendaklah berhati-hati"
+        }
+      ]
+    }
+  ]
+}

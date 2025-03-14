@@ -1,0 +1,33 @@
+{
+  "istilah": "cah",
+  "entri": "cah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "tumis",
+    "kataAsal": "chhá"
+  },
+  "data": [
+    {
+      "lema": "cah1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk menyatakan perasaan tidak suka, menghina, terkejut, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "cah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "masakan dibuat dari campuran sayur (sawi, jamur, udang, hati ayam) yang berkuah sedikit"
+        }
+      ]
+    }
+  ]
+}

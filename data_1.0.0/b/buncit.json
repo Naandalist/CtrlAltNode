@@ -1,0 +1,41 @@
+{
+  "istilah": "buncit",
+  "entri": "bun.cit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membuncit",
+    "membuncitkan",
+    "buncitan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bun.cit1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "besar perut; gendut"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "bunting"
+        }
+      ]
+    },
+    {
+      "lema": "bun.cit2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "paling belakang; terakhir; bungsu"
+        }
+      ]
+    }
+  ]
+}

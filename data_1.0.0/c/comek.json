@@ -1,0 +1,33 @@
+{
+  "istilah": "comek",
+  "entri": "co.mek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.mek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bulu yang tumbuh di bawah bibir bawah (di atas dagu)"
+        }
+      ]
+    },
+    {
+      "lema": "co.mek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cumi-cumi"
+        }
+      ]
+    }
+  ]
+}

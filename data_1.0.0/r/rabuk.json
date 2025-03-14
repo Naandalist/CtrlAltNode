@@ -1,0 +1,56 @@
+{
+  "istilah": "rabuk",
+  "entri": "ra.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merabuk",
+    "merabuki",
+    "perabukan"
+  ],
+  "gabunganKata": [
+    "rabuk buatan",
+    "rabuk garam",
+    "rabuk hijau"
+  ],
+  "peribahasa": [
+    "seperti rabuk dengan api"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.buk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jamur"
+        }
+      ]
+    },
+    {
+      "lema": "ra.buk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bulu atau miang halus yang terdapat pada pelepah pohon enau (biasanya dapat dipakai untuk menghidupkan api dari pemantik); ka(w)ul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang mudah menyebabkan perselisihan"
+        }
+      ]
+    },
+    {
+      "lema": "ra.buk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pupuk; baja"
+        }
+      ]
+    }
+  ]
+}

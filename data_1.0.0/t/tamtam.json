@@ -1,0 +1,33 @@
+{
+  "istilah": "tamtam",
+  "entri": "tam.tam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tam.tam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "liana yang batangnya bergetah putih, daunnya menjantung, buahnya berbentuk kapsul dengan biji berbulu, tumbuh di bioma tropis basah, tersebar dari Darjiling hingga Semenanjung Malaysia〔Marsdenia thyrsiflora〕"
+        }
+      ]
+    },
+    {
+      "lema": "tam.tam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gendang (bunyi-bunyian India)"
+        }
+      ]
+    }
+  ]
+}

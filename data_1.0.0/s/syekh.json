@@ -1,0 +1,34 @@
+{
+  "istilah": "syekh",
+  "entri": "syekh bentuk tidak baku: seh, sekh, syaikh",
+  "bentukTidakBaku": "seh, sekh, syaikh",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "syekh jemaah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang tua berusia lima puluh tahun atau lebih; ulama besar",
+    "kataAsal": "syaikh"
+  },
+  "data": [
+    {
+      "lema": "syekh bentuk tidak baku: seh, sekh, syaikh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada orang Arab (terutama orang Arab keturunan sahabat Nabi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada orang Arab yang berasal dari Hadramaut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ulama besar: -- Ibrahim Musa Parabek"
+        }
+      ]
+    }
+  ]
+}

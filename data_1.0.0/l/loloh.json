@@ -1,0 +1,36 @@
+{
+  "istilah": "loloh",
+  "entri": "lo.loh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lolohan",
+    "meloloh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "makanan atau minuman bagi anak-kana atau orang sakit, jamu, obat; memberikan makanan atau jamu",
+    "kataAsal": "loloh"
+  },
+  "data": [
+    {
+      "lema": "lo.loh1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "suap"
+        }
+      ]
+    },
+    {
+      "lema": "lo.loh2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "longgar (tentang baju, cincin, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

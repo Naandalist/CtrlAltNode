@@ -1,0 +1,42 @@
+{
+  "istilah": "perestroika",
+  "entri": "pe.res.tro.i.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.res.tro.i.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembaruan dalam berbagai bidang politik, ekonomi, sosial"
+        }
+      ]
+    },
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Rs[Rusia: -]",
+          "deskripsi": "restrukturisasi politik dan ekonomi di Rusia sejak tahun 1986"
+        }
+      ]
+    },
+    {
+      "lema": "perestroika",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Rusia: -]",
+          "deskripsi": "restrukturisasi politik dan ekonomi di Rusia sejak tahun 1986"
+        }
+      ]
+    }
+  ]
+}

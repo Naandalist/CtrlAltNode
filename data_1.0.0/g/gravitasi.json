@@ -1,0 +1,34 @@
+{
+  "istilah": "gravitasi",
+  "entri": "gra.vi.ta.si bentuk tidak baku: grafitasi",
+  "bentukTidakBaku": "grafitasi",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gravitasi semesta"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gra.vi.ta.si bentuk tidak baku: grafitasi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "kekuatan (gaya) tarik bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "proses gaya tarik bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "gaya berat suatu benda"
+        }
+      ]
+    }
+  ]
+}

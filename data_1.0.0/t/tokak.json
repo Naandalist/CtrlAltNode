@@ -1,0 +1,46 @@
+{
+  "istilah": "tokak",
+  "entri": "to.kak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menokak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "kudis menjadi tokak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.kak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tukak"
+        }
+      ]
+    },
+    {
+      "lema": "to.kak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menokak"
+        }
+      ]
+    },
+    {
+      "lema": "to.kak3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ toka"
+        }
+      ]
+    }
+  ]
+}

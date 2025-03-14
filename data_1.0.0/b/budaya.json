@@ -1,0 +1,52 @@
+{
+  "istilah": "budaya",
+  "entri": "bu.da.ya",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbudaya",
+    "kebudayaan",
+    "membudaya",
+    "membudayakan",
+    "pembudayaan"
+  ],
+  "gabunganKata": [
+    "budaya global",
+    "budaya malu",
+    "budaya massa",
+    "budaya parsel",
+    "budaya pemilikan",
+    "budaya politik",
+    "budaya pop",
+    "budaya visual",
+    "budaya wilayah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.da.ya",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pikiran; akal budi: hasil --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adat istiadat: menyelidiki bahasa dan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu mengenai kebudayaan yang sudah berkembang (beradab, maju)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sesuatu yang sudah menjadi kebiasaan dan sukar diubah"
+        }
+      ]
+    }
+  ]
+}

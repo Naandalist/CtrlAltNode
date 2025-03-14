@@ -1,0 +1,33 @@
+{
+  "istilah": "celomes",
+  "entri": "ce.lo.mes1 /cêlomes/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.lo.mes1 /cêlomes/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lemah; berpenyakitan; merana"
+        }
+      ]
+    },
+    {
+      "lema": "ce.lo.mes2 /cêlomes/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cerewet; banyak omong"
+        }
+      ]
+    }
+  ]
+}

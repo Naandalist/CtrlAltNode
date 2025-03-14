@@ -1,0 +1,59 @@
+{
+  "istilah": "jaring",
+  "entri": "ja.ring",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjaring",
+    "berjaring-jaring",
+    "jaring-jaring",
+    "jaringan",
+    "jemaring",
+    "menjaring",
+    "menjaringkan",
+    "penjaring",
+    "penjaringan",
+    "terjaring"
+  ],
+  "gabunganKata": [
+    "jaring angkat",
+    "jaring angkat tetap",
+    "jaring dorong",
+    "jaring gawang",
+    "jaring gol",
+    "jaring halau",
+    "jaring hanyut",
+    "jaring insang",
+    "jaring kantong",
+    "jaring kantong kapal",
+    "jaring penaung",
+    "jaring penerbangan tetap",
+    "Jaring Pengaman Sosial",
+    "jaring peta",
+    "jaring plankton"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.ring",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat penangkap ikan, burung, dan sebagainya yang berupa siratan (rajutan) tali (benang) yang membentuk mata jala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "net (dalam tenis, bulu tangkis, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -] ki[kiasan]",
+          "deskripsi": "jebakan; perangkap: saya akan memasang -- untuk menangkap burung itu"
+        }
+      ]
+    }
+  ]
+}

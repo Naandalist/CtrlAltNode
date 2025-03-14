@@ -1,0 +1,35 @@
+{
+  "istilah": "sono",
+  "entri": "so.no1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sono budoyo"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tempat, kediaman",
+    "kataAsal": "sana"
+  },
+  "data": [
+    {
+      "lema": "so.no1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] Jk[Melayu Jakarta: -]",
+          "deskripsi": "sana"
+        }
+      ]
+    },
+    {
+      "lema": "so.no2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tempat (dalam kata majemuk): seni -- tempat kesenian"
+        }
+      ]
+    }
+  ]
+}

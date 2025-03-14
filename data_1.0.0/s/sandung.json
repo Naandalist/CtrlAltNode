@@ -1,0 +1,54 @@
+{
+  "istilah": "sandung",
+  "entri": "san.dung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sandungan",
+    "kesandung",
+    "menyandung",
+    "sandungan",
+    "tersandung",
+    "tersandung-sandung",
+    "sandungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "saṇḍuṅ"
+  },
+  "data": [
+    {
+      "lema": "san.dung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "injak-injak pada perkakas tenun: sementara ini Ibu tidak bertenun karena --nya patah"
+        }
+      ]
+    },
+    {
+      "lema": "san.dung2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sentuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "menyandung bola selama belum turun di atas rumput (dalam pertandingan hoki); jegal"
+        }
+      ]
+    },
+    {
+      "lema": "san.dung3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "sandungan"
+        }
+      ]
+    }
+  ]
+}

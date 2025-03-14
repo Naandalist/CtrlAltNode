@@ -1,0 +1,51 @@
+{
+  "istilah": "mandai",
+  "entri": "man.dai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.dai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama pohon"
+        }
+      ]
+    },
+    {
+      "lema": "man.dai2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melamar gadis yang dilakukan sendiri oleh pemuda (di Kalimantan)"
+        }
+      ]
+    },
+    {
+      "lema": "man.dai3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "makanan yang terbuat dari jerami cempedak yang diasinkan"
+        }
+      ]
+    },
+    {
+      "lema": "man.dai4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tbg[Tata Boga: -]",
+          "deskripsi": "makanan khas Kalimantan Selatan, terbuat dari kulit nangka, cempedak, dan tarap yang ditaburi garam"
+        }
+      ]
+    }
+  ]
+}

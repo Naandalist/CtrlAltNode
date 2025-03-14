@@ -1,0 +1,36 @@
+{
+  "istilah": "rapor",
+  "entri": "ra.por1",
+  "bentukTidakBaku": "rapot",
+  "kataTurunan": [
+    "meraporkan",
+    "raporan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.por1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laporan resmi (kepada yang wajib menerimanya); lapor"
+        }
+      ]
+    },
+    {
+      "lema": "ra.por2 bentuk tidak baku: rapot",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku yang berisi nilai kepandaian dan prestasi belajar murid di sekolah, berfungsi sebagai laporan guru kepada orang tua atau wali murid"
+        }
+      ]
+    }
+  ]
+}

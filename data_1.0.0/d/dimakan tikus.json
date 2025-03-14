@@ -1,0 +1,33 @@
+{
+  "istilah": "dimakan tikus",
+  "entri": "makan1 » dimakan » dimakan tikus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "makan1 » dimakan » dimakan tikus",
+      "arti": [
+        {
+          "kelas_kata": "ki[kiasan]",
+          "deskripsi": "dicuri sedikit demi sedikit"
+        }
+      ]
+    },
+    {
+      "lema": "tikus » dimakan tikus",
+      "arti": [
+        {
+          "kelas_kata": "ki[kiasan]",
+          "deskripsi": "dicuri sedikit demi sedikit"
+        }
+      ]
+    }
+  ]
+}

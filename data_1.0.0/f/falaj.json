@@ -1,0 +1,28 @@
+{
+  "istilah": "falaj",
+  "entri": "fa.laj",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "air mengalir; sungai kecil",
+    "kataAsal": "falj"
+  },
+  "data": [
+    {
+      "lema": "fa.laj",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "saluran air dari waduk di daerah pegunungan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "sumber air di bawah tanah untuk pertanian"
+        }
+      ]
+    }
+  ]
+}

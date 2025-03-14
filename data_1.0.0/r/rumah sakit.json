@@ -1,0 +1,40 @@
+{
+  "istilah": "rumah sakit",
+  "entri": "ru.mah sa.kit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merumahsakitkan"
+  ],
+  "gabunganKata": [
+    "rumah sakit bersalin",
+    "rumah sakit jiwa",
+    "rumah sakit kanker",
+    "rumah sakit ketergantungan obat",
+    "rumah sakit khusus",
+    "rumah sakit mata",
+    "rumah sakit rujukan",
+    "rumah sakit terbang",
+    "rumah sakit umum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.mah sa.kit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gedung tempat merawat orang sakit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gedung tempat menyediakan dan memberikan pelayanan kesehatan yang meliputi berbagai masalah kesehatan"
+        }
+      ]
+    }
+  ]
+}

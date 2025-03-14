@@ -1,0 +1,68 @@
+{
+  "istilah": "sepak",
+  "entri": "se.pak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersepak-sepakan",
+    "menyepak",
+    "menyepak-nyepakkan",
+    "menyepakkan",
+    "penyepak",
+    "penyepakan",
+    "pesepak",
+    "sepakan",
+    "tersepak",
+    "menyepak"
+  ],
+  "gabunganKata": [
+    "sepak pojok",
+    "sepak raga",
+    "sepak sila",
+    "sepak singkur",
+    "sepak takraw",
+    "sepak terjang",
+    "sepak badek",
+    "sepak cungkil",
+    "sepak kura",
+    "sepak mula",
+    "sepak simpuh",
+    "sepak kuda"
+  ],
+  "peribahasa": [
+    "kena sepak belakang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menyepak (dengan kaki belakang, tentang kuda); sengit, galak",
+    "kataAsal": "sepak"
+  },
+  "data": [
+    {
+      "lema": "se.pak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan memukul sesuatu dengan kaki, dengan cara mengayunkan kaki (ke muka atau ke sisi); tendang; depak"
+        }
+      ]
+    },
+    {
+      "lema": "se.pak1 /sêpak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi orang memukul sesuatu dengan benda pipih, misalnya dengan telapak tangan (tamparan, tempelengan)"
+        }
+      ]
+    },
+    {
+      "lema": "se.pak2 /sêpak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jari-jari pada roda (sepeda dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

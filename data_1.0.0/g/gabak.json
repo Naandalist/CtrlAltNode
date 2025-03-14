@@ -1,0 +1,50 @@
+{
+  "istilah": "gabak",
+  "entri": "ga.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggabak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "tampak gabak di hulu (gabak di hulu tanda akan hujan)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.bak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "redup"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "mendung (awan mengandung hujan)"
+        }
+      ]
+    },
+    {
+      "lema": "ga.bak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit panas dan menular yang menimbulkan bintik-bintik merah pada kulit; campak; tampek"
+        }
+      ]
+    },
+    {
+      "lema": "ga.bak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garu (penggaruk) besar, dipakai di sawah yang ditarik oleh sapi atau kerbau"
+        }
+      ]
+    }
+  ]
+}

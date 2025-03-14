@@ -1,0 +1,38 @@
+{
+  "istilah": "eksplorasi",
+  "entri": "eks.plo.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengeksplorasi"
+  ],
+  "gabunganKata": [
+    "eksplorasi akhir",
+    "eksplorasi radioaktif",
+    "eksplorasi seismik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.plo.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjelajahan lapangan dengan tujuan memperoleh pengetahuan lebih banyak (tentang keadaan), terutama sumber-sumber alam yang terdapat di tempat itu; penyelidikan; penjajakan: -- sumber minyak di daerah lepas pantai sedang giat dilakukan"
+        },
+        {
+          "kelas_kata": "Dik[Pendidikan: -]",
+          "deskripsi": "kegiatan untuk memperoleh pengalaman baru dari situasi yang baru"
+        },
+        {
+          "kelas_kata": "Pet[Petrologi dan Migas: -]",
+          "deskripsi": "penyelidikan dan penjajakan daerah yang diperkirakan mengandung mineral berharga dengan jalan survei geologi, survei geofisika, atau pengeboran untuk menemukan deposit dan mengetahui luas wilayahnya"
+        }
+      ]
+    }
+  ]
+}

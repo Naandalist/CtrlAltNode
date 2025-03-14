@@ -1,0 +1,33 @@
+{
+  "istilah": "motu proprio",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "atas prakarsa sendiri"
+        }
+      ]
+    },
+    {
+      "lema": "motu proprio",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "atas prakarsa sendiri"
+        }
+      ]
+    }
+  ]
+}

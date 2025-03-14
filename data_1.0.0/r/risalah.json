@@ -1,0 +1,40 @@
+{
+  "istilah": "risalah",
+  "entri": "ri.sa.lah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "perisalah"
+  ],
+  "gabunganKata": [
+    "risalah rapat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ajaran yang disampaikan oleh utusan Tuhan; buku ringkasan",
+    "kataAsal": "risālah"
+  },
+  "data": [
+    {
+      "lema": "ri.sa.lah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "yang dikirimkan (surat dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "surat edaran (selebaran)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "karangan ringkas mengenai suatu masalah dalam ilmu pengetahuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "laporan rapat; notula"
+        }
+      ]
+    }
+  ]
+}

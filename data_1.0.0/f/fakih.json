@@ -1,0 +1,24 @@
+{
+  "istilah": "fakih",
+  "entri": "fa.kih bentuk tidak baku: faqih",
+  "bentukTidakBaku": "faqih",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang mengetahui; orang yang memahami",
+    "kataAsal": "faqīh"
+  },
+  "data": [
+    {
+      "lema": "fa.kih bentuk tidak baku: faqih",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ahli hukum Islam; ahli fikih"
+        }
+      ]
+    }
+  ]
+}

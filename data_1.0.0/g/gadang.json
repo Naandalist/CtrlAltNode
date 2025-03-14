@@ -1,0 +1,47 @@
+{
+  "istilah": "gadang",
+  "entri": "ga.dang1 bentuk tidak baku: gedang",
+  "bentukTidakBaku": "gedang",
+  "kataTurunan": [
+    "digadang-gadang",
+    "menggadang",
+    "menggadang-gadang",
+    "bergadang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.dang1 bentuk tidak baku: gedang",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "besar"
+        }
+      ]
+    },
+    {
+      "lema": "ga.dang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bergadang"
+        }
+      ]
+    },
+    {
+      "lema": "ga.dang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ayakan (beras dan sebagainya) yang besar; badang"
+        }
+      ]
+    }
+  ]
+}

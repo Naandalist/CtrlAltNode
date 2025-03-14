@@ -1,0 +1,37 @@
+{
+  "istilah": "melamin",
+  "entri": "lamin1 » me.la.min",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lamin1 » me.la.min",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menghiasi tempat tidur pengantin"
+        }
+      ]
+    },
+    {
+      "lema": "me.la.min",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "bahan kristal tanpa warna, dapat larut dalam air, digunakan sebagai bahan pelapis dan plastik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang dibuat dari bahan melamin"
+        }
+      ]
+    }
+  ]
+}

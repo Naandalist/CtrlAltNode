@@ -1,0 +1,34 @@
+{
+  "istilah": "video",
+  "entri": "vi.de.o bentuk tidak baku: vidio",
+  "bentukTidakBaku": "vidio",
+  "kataTurunan": [
+    "bervideo",
+    "memvideokan"
+  ],
+  "gabunganKata": [
+    "video esek-esek",
+    "video musik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vi.de.o bentuk tidak baku: vidio",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang memancarkan gambar pada pesawat televisi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rekaman gambar hidup untuk ditayangkan"
+        }
+      ]
+    }
+  ]
+}

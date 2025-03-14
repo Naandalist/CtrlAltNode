@@ -1,0 +1,45 @@
+{
+  "istilah": "siklon",
+  "entri": "sik.lon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "siklon fohn",
+    "siklon gelombang",
+    "siklon kona",
+    "siklon luar-tropik",
+    "siklon paras atas",
+    "siklon tersangkar",
+    "siklon tropis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sik.lon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "angin ribut yang berpusar dan bergerak dengan cepat mengelilingi suatu pusat; angin puting beliung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian atmosfer yang tekanannya relatif rendah jika dibandingkan dengan tekanan di sekitarnya pada permukaan yang sama; pusat tekanan rendah"
+        }
+      ]
+    },
+    {
+      "lema": "sik.lon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "bejana reaksi statik yang di dalamnya cairan bertekanan membentuk pusaran"
+        }
+      ]
+    }
+  ]
+}

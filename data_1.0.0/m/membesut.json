@@ -1,0 +1,41 @@
+{
+  "istilah": "membesut",
+  "entri": "besut1 » mem.be.sut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "besut1 » mem.be.sut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggosok logam untuk menghilangkan karat (kotoran)nya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "memperhalus supaya bertambah baik; memperbaiki"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "melatih; mengasuh"
+        }
+      ]
+    },
+    {
+      "lema": "besut2 » mem.be.sut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyembur (tentang darah, air, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

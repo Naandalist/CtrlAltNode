@@ -1,0 +1,32 @@
+{
+  "istilah": "tersurat",
+  "entri": "surat1 » ter.su.rat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "surat1 » ter.su.rat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "telah ditulis; tertulis: ia maklum apa yang ~ dan yang tersirat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "telah ditakdirkan: sudah ~ rupanya, engkau berjodoh dengannya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "eksplisit"
+        }
+      ]
+    }
+  ]
+}

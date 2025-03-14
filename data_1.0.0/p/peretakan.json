@@ -1,0 +1,32 @@
+{
+  "istilah": "peretakan",
+  "entri": "retak » pe.re.tak.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "retak » pe.re.tak.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, perbuatan meretakkan atau membuat retakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pet[Petrologi dan Migas: -]",
+          "deskripsi": "penerapan tekanan hidraulis pada formasi untuk menciptakan retakan-retakan sehingga minyak dan gas dapat mengalir ke dalam sumur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "pemecahan cangkang telur sebelum menetas"
+        }
+      ]
+    }
+  ]
+}

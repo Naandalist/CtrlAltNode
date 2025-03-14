@@ -1,0 +1,63 @@
+{
+  "istilah": "operasi",
+  "entri": "o.pe.ra.si /opêrasi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beroperasi",
+    "mengoperasi",
+    "mengoperasikan",
+    "pengoperasi",
+    "pengoperasian"
+  ],
+  "gabunganKata": [
+    "operasi aljabar",
+    "operasi bakti",
+    "operasi baris elementer",
+    "operasi besar",
+    "operasi biner",
+    "operasi caesar",
+    "operasi dasar",
+    "operasi dasar aritmetika",
+    "operasi Dwikora",
+    "operasi ilegal",
+    "operasi kecil",
+    "operasi kolom",
+    "operasi lasik",
+    "operasi mayor",
+    "operasi militer",
+    "operasi minor",
+    "operasi pasar",
+    "operasi pasar terbuka",
+    "operasi plastik",
+    "operasi riset",
+    "operasi septoplasti",
+    "operasi tangkap tangan",
+    "operasi Trikora",
+    "operasi yustisi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.pe.ra.si /opêrasi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "bedah; bedel (untuk mengobati penyakit): penyakit ginjal yang belum parah dapat disembuhkan tanpa --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -]",
+          "deskripsi": "pekerjaan, gerakan, tindakan, atau aksi yang dilakukan secara fisik dan terpimpin dengan waktu yang singkat, berfokus pada satu tujuan tertentu untuk memperoleh efek penghancuran, pelumpuhan, pencegahan, pembinasaan, atau peniadaan: perwira muda itulah yang memimpin -- penumpasan pemberontakan itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelaksanaan rencana yang telah dikembangkan"
+        }
+      ]
+    }
+  ]
+}

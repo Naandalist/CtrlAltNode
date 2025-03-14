@@ -1,0 +1,52 @@
+{
+  "istilah": "lingkungan",
+  "entri": "lingkung » ling.kung.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lingkungan alam",
+    "lingkungan hidup",
+    "lingkungan kebudayaan",
+    "lingkungan makro",
+    "lingkungan mati",
+    "lingkungan mikro bisnis",
+    "lingkungan pemrograman",
+    "lingkungan peradilan",
+    "lingkungan sistem",
+    "lingkungan sosial",
+    "lingkungan waktu eksekusi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lingkung » ling.kung.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah (kawasan dan sebagainya) yang termasuk di dalamnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian wilayah dalam kelurahan yang merupakan lingkungan kerja pelaksanaan pemerintahan desa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan; kalangan: ia berasal dari ~ bangsawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "semua yang memengaruhi pertumbuhan manusia atau hewan: kita harus mencegah pencemaran ~"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "konfigurasi sumber daya yang tersedia bagi pengguna"
+        }
+      ]
+    }
+  ]
+}

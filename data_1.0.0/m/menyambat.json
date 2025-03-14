@@ -1,0 +1,37 @@
+{
+  "istilah": "menyambat",
+  "entri": "sambat1 » me.nyam.bat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sambat1 » me.nyam.bat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyambung; mengikat: ia ~ dua batang bambu sehingga menjadi galah yang panjang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memukul dengan tali (cambuk, rotan, dan sebagainya): karena gemasnya, ia ~ anak yang nakal itu"
+        }
+      ]
+    },
+    {
+      "lema": "sambat2 » me.nyam.bat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersambat"
+        }
+      ]
+    }
+  ]
+}

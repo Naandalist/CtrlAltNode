@@ -1,0 +1,45 @@
+{
+  "istilah": "telut",
+  "entri": "te.lut1 /têlut/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertelut",
+    "menelut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.lut1 /têlut/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertelut"
+        }
+      ]
+    },
+    {
+      "lema": "te.lut2 /têlut/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mempan (tentang senjata); terlut; telap: tidak --"
+        }
+      ]
+    },
+    {
+      "lema": "te.lut3 /têlut/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menelut"
+        }
+      ]
+    }
+  ]
+}

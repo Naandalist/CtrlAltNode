@@ -1,0 +1,55 @@
+{
+  "istilah": "kepuk",
+  "entri": "ke.puk1 /kêpuk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkepuk",
+    "mengepukkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "berkelahi dalam kepuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.puk1 /kêpuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bakul tempat nasi (beras dan sebagainya dari kulit kayu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "lumbung padi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kepis (bakul ikan)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.puk2 /kêpuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lekuk"
+        }
+      ]
+    },
+    {
+      "lema": "ke.puk3 /kêpuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baju jaket berleher tinggi di belakang, tetapi terbuka pada bagian depan"
+        }
+      ]
+    }
+  ]
+}

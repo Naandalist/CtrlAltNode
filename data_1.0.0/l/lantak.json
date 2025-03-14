@@ -1,0 +1,44 @@
+{
+  "istilah": "lantak",
+  "entri": "lan.tak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lantakan",
+    "melantak",
+    "melantakkan",
+    "pelantak"
+  ],
+  "gabunganKata": [
+    "lantak nagari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.tak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melantak"
+        }
+      ]
+    },
+    {
+      "lema": "lan.tak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu yang digunakan untuk menahan tanah longsor: pasanglah -- pada tebing itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu pijakan untuk memanjat pohon"
+        }
+      ]
+    }
+  ]
+}

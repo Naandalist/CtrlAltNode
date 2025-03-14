@@ -1,0 +1,44 @@
+{
+  "istilah": "lampang",
+  "entri": "lam.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlampang",
+    "berlampang-lampang",
+    "melampang"
+  ],
+  "gabunganKata": [
+    "lampang daun",
+    "lampang penumpu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lam.pang1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berlampang; berlampang-lampang; melampang"
+        }
+      ]
+    },
+    {
+      "lema": "lam.pang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda yang terdapat pada bagian tubuh atau organ yang diakibatkan oleh luka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekas melekatnya suatu bagian tumbuhan (daun) atau otot, dapat berupa tanda alami atau buatan"
+        }
+      ]
+    }
+  ]
+}

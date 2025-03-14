@@ -1,0 +1,35 @@
+{
+  "istilah": "gung",
+  "entri": "gung bentuk tidak baku: agung2",
+  "bentukTidakBaku": "agung2",
+  "kataTurunan": [
+    "mengegungkan"
+  ],
+  "gabunganKata": [
+    "gung peluang",
+    "gung pengerah"
+  ],
+  "peribahasa": [
+    "mengegungkan gung pesuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gong",
+    "kataAsal": "goṅ"
+  },
+  "data": [
+    {
+      "lema": "gung bentuk tidak baku: agung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "canang besar; gong"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi canang besar dipukul"
+        }
+      ]
+    }
+  ]
+}

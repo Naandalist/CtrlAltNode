@@ -1,0 +1,49 @@
+{
+  "istilah": "bubul",
+  "entri": "bu.bul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membubul",
+    "membubul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.bul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bisul pada tumit orang atau pada kuku kuda (ada beberapa jenis seperti -- bubu, -- gantang, -- galai)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "bisul di telapak kaki"
+        }
+      ]
+    },
+    {
+      "lema": "bu.bul2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tambal (jala, jaring, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "bu.bul3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membubul"
+        }
+      ]
+    }
+  ]
+}

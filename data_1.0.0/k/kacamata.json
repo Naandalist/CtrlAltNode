@@ -1,0 +1,42 @@
+{
+  "istilah": "kacamata",
+  "entri": "ka.ca.ma.ta bentuk tidak baku: kaca mata",
+  "bentukTidakBaku": "kaca mata",
+  "kataTurunan": [
+    "berkacamata"
+  ],
+  "gabunganKata": [
+    "kacamata baca",
+    "kacamata kuda",
+    "kacamata minus",
+    "kacamata pintar",
+    "kacamata plus",
+    "kacamata riben",
+    "kacamata surya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.ca.ma.ta bentuk tidak baku: kaca mata",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lensa tipis untuk mata guna menormalkan dan mempertajam penglihatan (ada yang berangka dan ada yang tidak)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepasang kaca yang berangka, berfungsi sebagai pelindung lensa mata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pandangan seseorang terhadap suatu hal yang ditinjau dari sudut (segi) tertentu; sudut pandang: tindakan itu salah jika dilihat dari -- agama"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "sql",
+  "entri": "SQL",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "SQL",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "bahasa yang dirancang hanya untuk digunakan pada aplikasi pangkalan data; dari Structured Query Language"
+        }
+      ]
+    }
+  ]
+}

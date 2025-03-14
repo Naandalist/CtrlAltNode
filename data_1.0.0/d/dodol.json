@@ -1,0 +1,35 @@
+{
+  "istilah": "dodol",
+  "entri": "do.dol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mendodol"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dodol, nama penganan dibuat dari tepung ketan dan gula",
+    "kataAsal": "dodol"
+  },
+  "data": [
+    {
+      "lema": "do.dol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan, dibuat dari tepung ketan, santan kelapa, dan gula merah, kadang-kadang dicampur dengan buah-buahan, seperti durian, sirsak dibungkus daun (jagung), atau kertas"
+        }
+      ]
+    },
+    {
+      "lema": "do.dol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan peledak berbentuk tabung dodol yang digunakan pada pekerjaan peledakan di tambang"
+        }
+      ]
+    }
+  ]
+}

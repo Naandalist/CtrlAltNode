@@ -1,0 +1,33 @@
+{
+  "istilah": "stembusakkoord",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Bld[Belanda: -]",
+          "deskripsi": "kesepakatan antarpartai politik sebelum pemilu"
+        }
+      ]
+    },
+    {
+      "lema": "stembusakkoord",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Belanda: -]",
+          "deskripsi": "kesepakatan antarpartai politik sebelum pemilu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "pipet",
+  "entri": "pi.pet",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpipet"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pi.pet",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pipa kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembuluh kaca yang ujungnya kecil (untuk mengisap dan memindahkan benda cair)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "alat untuk mengisap minuman dari botol dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

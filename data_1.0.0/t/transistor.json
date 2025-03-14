@@ -1,0 +1,28 @@
+{
+  "istilah": "transistor",
+  "entri": "tran.sis.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tran.sis.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "alat elektronik yang terbuat dari semikonduktor untuk dihubungkan dengan komponen atau alat lain, dapat digunakan sebagai penguat detektor, sakelar sinyal, isyarat listrik, atau elektromagnetik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "pesawat radio yang menggunakan transistor"
+        }
+      ]
+    }
+  ]
+}

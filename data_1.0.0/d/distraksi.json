@@ -1,0 +1,32 @@
+{
+  "istilah": "distraksi",
+  "entri": "dis.trak.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dis.trak.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal yang mengalihkan perhatian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tindakan untuk mengalihkan perhatian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "metode untuk mengalihkan perhatian pasien pada hal lain sehingga pasien melupakan nyeri yang dirasakan"
+        }
+      ]
+    }
+  ]
+}

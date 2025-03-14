@@ -1,0 +1,33 @@
+{
+  "istilah": "simpangan",
+  "entri": "simpang1 » sim.pang.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "simpangan baku",
+    "simpangan mutlak",
+    "simpangan radial",
+    "simpangan rata-rata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "simpang1 » sim.pang.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jalan yang menyimpang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "sudut antara sinar yang masuk ke dalam sebuah benda atau sebuah sistem optika dan sinar yang keluar dari benda atau sistem optika tersebut yang telah mengalami pemantulan, pembiasan, atau pelenturan"
+        }
+      ]
+    }
+  ]
+}

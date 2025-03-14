@@ -1,0 +1,32 @@
+{
+  "istilah": "morfologi",
+  "entri": "mor.fo.lo.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mor.fo.lo.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "cabang linguistik tentang morfem dan kombinasinya; ilmu bentuk kata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "ilmu pengetahuan tentang bentuk luar dan susunan makhluk hidup"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "struktur luar dari batu-batuan dalam hubungan dengan perkembangan ciri topografis"
+        }
+      ]
+    }
+  ]
+}

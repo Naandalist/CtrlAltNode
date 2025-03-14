@@ -1,0 +1,57 @@
+{
+  "istilah": "terap",
+  "entri": "te.rap1 /têrap/",
+  "bentukTidakBaku": "trap2",
+  "kataTurunan": [
+    "menerap",
+    "berterap",
+    "menerap",
+    "penerap",
+    "terapan",
+    "keterterapan",
+    "menerapkan",
+    "penerapan",
+    "terapan",
+    "terterapkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.rap1 /têrap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon sukun hutan, daunnya lebar-lebar, kayunya sangat cocok untuk bahan rumah karena tahan rayap〔Artocarpus blumei〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu terap"
+        }
+      ]
+    },
+    {
+      "lema": "te.rap2 /têrap/bentuk tidak baku: trap2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berterap"
+        }
+      ]
+    },
+    {
+      "lema": "te.rap3 /têrap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menerapkan"
+        }
+      ]
+    }
+  ]
+}

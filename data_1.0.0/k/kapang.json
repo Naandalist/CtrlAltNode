@@ -1,0 +1,45 @@
+{
+  "istilah": "kapang",
+  "entri": "ka.pang1 bentuk tidak baku: kampang",
+  "bentukTidakBaku": "kampang",
+  "kataTurunan": [
+    "berkapang",
+    "kapangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.pang1 bentuk tidak baku: kampang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis kerang laut yang melubangi kayu atau papan yang terbenam di dalam air sehingga dapat merusak kulit kapal kayu atau perahu〔Toredo navalis〕"
+        }
+      ]
+    },
+    {
+      "lema": "ka.pang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berkapang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.pang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kapangan"
+        }
+      ]
+    }
+  ]
+}

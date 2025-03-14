@@ -1,0 +1,55 @@
+{
+  "istilah": "organ",
+  "entri": "or.gan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "organ bicara",
+    "organ intim",
+    "organ pelvis",
+    "organ pencernaan aksesoris",
+    "organ reproduksi",
+    "organ tendon golgi",
+    "organ pipa",
+    "organ tunggal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "or.gan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "alat yang mempunyai tugas tertentu di dalam tubuh manusia (binatang dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "or.gan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "majalah atau surat kabar milik perkumpulan (partai dan sebagainya) sebagai sarana untuk mengemukakan pendapatnya (suara perkumpulannya)"
+        }
+      ]
+    },
+    {
+      "lema": "or.gan3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat musik besar seperti piano yang menghasilkan nada dari udara yang diembuskan ke dalam pipa yang berbeda bentuk dan ukuran; orgel; harmonium"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat musik yang nadanya dihasilkan melalui dawai elektronik"
+        }
+      ]
+    }
+  ]
+}

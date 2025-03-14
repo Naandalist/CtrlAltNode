@@ -1,0 +1,32 @@
+{
+  "istilah": "salah pukul",
+  "entri": "salah » salah pukul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "salah » salah pukul",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "salah memukul (mengetuk)"
+        },
+        {
+          "kelas_kata": "ki[kiasan]",
+          "deskripsi": "salah terima"
+        },
+        {
+          "kelas_kata": "ki[kiasan]",
+          "deskripsi": "salah menuduh dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

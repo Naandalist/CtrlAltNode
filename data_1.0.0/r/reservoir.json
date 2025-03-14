@@ -1,0 +1,36 @@
+{
+  "istilah": "reservoir",
+  "entri": "re.ser.vo.ir /rêservoir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.ser.vo.ir /rêservoir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menyimpan barang-barang cadangan (seperti air dan bahan bakar gas)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "danau atau waduk yang digunakan untuk menyimpan air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "organisme yang menjadi tempat hidup dan berkembang biak bagi parasit yang patogenik terhadap spesies lain, biasanya tanpa merusak inangnya"
+        },
+        {
+          "kelas_kata": "Pet[Petrologi dan Migas: -]",
+          "deskripsi": "zona tempat kandungan minyak dan gas terperangkap"
+        }
+      ]
+    }
+  ]
+}

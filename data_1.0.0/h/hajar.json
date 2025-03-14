@@ -1,0 +1,38 @@
+{
+  "istilah": "hajar",
+  "entri": "ha.jar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "hajaran",
+    "menghajar"
+  ],
+  "gabunganKata": [
+    "hajar Aswad"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "batu",
+    "kataAsal": "ḥajar"
+  },
+  "data": [
+    {
+      "lema": "ha.jar1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hantam"
+        }
+      ]
+    },
+    {
+      "lema": "ha.jar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "batu"
+        }
+      ]
+    }
+  ]
+}

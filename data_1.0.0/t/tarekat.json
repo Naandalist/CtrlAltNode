@@ -1,0 +1,36 @@
+{
+  "istilah": "tarekat",
+  "entri": "ta.re.kat bentuk tidak baku: tarikat, thoriqot, thariqat, tariqat",
+  "bentukTidakBaku": "tarikat, thoriqot, thariqat, tariqat",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "keadaan; kebiasaan",
+    "kataAsal": "ṭarīqah"
+  },
+  "data": [
+    {
+      "lema": "ta.re.kat bentuk tidak baku: tarikat, thoriqot, thariqat, tariqat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "jalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "jalan menuju kebenaran (dalam tasawuf): ilmu -- ilmu tasawuf"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "cara atau aturan hidup (dalam keagamaan atau ilmu kebatinan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "persekutuan para penuntut ilmu tasawuf"
+        }
+      ]
+    }
+  ]
+}

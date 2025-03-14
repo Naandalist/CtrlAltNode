@@ -1,0 +1,35 @@
+{
+  "istilah": "tengteng",
+  "entri": "teng.teng1 bentuk tidak baku: tenteng2",
+  "bentukTidakBaku": "tenteng2",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tengteng jahe"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "gula",
+    "kataAsal": "thn̂g"
+  },
+  "data": [
+    {
+      "lema": "teng.teng1 bentuk tidak baku: tenteng2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan dari kacang tanah, wijen, dan sebagainya yang diaduk dan dimasak dengan gula, dikeringkan, kemudian dipotong-potong; ting-ting"
+        }
+      ]
+    },
+    {
+      "lema": "teng.teng2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tenteng1"
+        }
+      ]
+    }
+  ]
+}

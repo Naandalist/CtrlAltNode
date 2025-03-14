@@ -1,0 +1,37 @@
+{
+  "istilah": "rompak",
+  "entri": "rom.pak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merompak",
+    "perompak",
+    "merompak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rom.pak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merompak"
+        }
+      ]
+    },
+    {
+      "lema": "rom.pak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merompak"
+        }
+      ]
+    }
+  ]
+}

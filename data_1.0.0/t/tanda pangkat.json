@@ -1,0 +1,28 @@
+{
+  "istilah": "tanda pangkat",
+  "entri": "tanda » tanda pangkat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tanda » tanda pangkat",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "tanda yang menyatakan pangkat dalam kemiliteran dan sebagainya"
+        },
+        {
+          "kelas_kata": "Mat[Matematika: -]",
+          "deskripsi": "tanda yang menyatakan perpangkatan (pergandaan) suatu bilangan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "sms",
+  "entri": "SMS",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "SMS",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "layanan pesan singkat; short message service"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -] sing[singkatan]",
+          "deskripsi": "senapan mesin sedang"
+        }
+      ]
+    }
+  ]
+}

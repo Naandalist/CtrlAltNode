@@ -1,0 +1,37 @@
+{
+  "istilah": "gorek",
+  "entri": "go.rek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggorek-gorek"
+  ],
+  "gabunganKata": [
+    "gorek api"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "go.rek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "korek"
+        }
+      ]
+    },
+    {
+      "lema": "gorek2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menggorek-gorek"
+        }
+      ]
+    }
+  ]
+}

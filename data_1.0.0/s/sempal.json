@@ -1,0 +1,41 @@
+{
+  "istilah": "sempal",
+  "entri": "sem.pal1 /sêmpal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyempal",
+    "menyempali",
+    "tersempal",
+    "menyempal",
+    "penyempal",
+    "penyempalan",
+    "sempalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "putus, patah, sobek",
+    "kataAsal": "sěmpal"
+  },
+  "data": [
+    {
+      "lema": "sem.pal1 /sêmpal/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menyempal; menyempali; tersempal"
+        }
+      ]
+    },
+    {
+      "lema": "sem.pal2 /sêmpal/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "patah (tentang cabang kayu, ranting, tangkai, atau bagian tubuh seperti lengan); serkah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "cerap",
+  "entri": "ce.rap1 /cêrap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cerapan",
+    "mencerap",
+    "pencerapan",
+    "tercerap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.rap1 /cêrap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "acuh; memperhatikan: kurang --; tidak --"
+        }
+      ]
+    },
+    {
+      "lema": "ce.rap2 /cêrap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Gy[Gayo: -]",
+          "deskripsi": "mencangkul bersama dengan posisi berderet ke samping"
+        }
+      ]
+    }
+  ]
+}

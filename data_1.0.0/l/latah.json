@@ -1,0 +1,47 @@
+{
+  "istilah": "latah",
+  "entri": "la.tah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelatahan",
+    "melatahkan",
+    "pelatah"
+  ],
+  "gabunganKata": [
+    "latah mulut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "repetisi kata dengan kesan yang sama tetapi dengan penggunaan yang berbeda, bahasa yang kekanak-kanakan",
+    "kataAsal": "lāṭa"
+  },
+  "data": [
+    {
+      "lema": "la.tah1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menderita sakit saraf dengan suka meniru-niru perbuatan atau ucapan orang lain"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berlaku seperti orang gila (misalnya karena kematian orang yang dikasihi)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "meniru-niru sikap, perbuatan, atau kebiasaan orang atau bangsa lain: kita jangan -- terhadap kebudayaan asing"
+        }
+      ]
+    },
+    {
+      "lema": "la.tah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sampah (daun-daun dan sebagainya yang telah membusuk) di bawah pohon-pohonan (di hutan dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

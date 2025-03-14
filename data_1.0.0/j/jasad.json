@@ -1,0 +1,37 @@
+{
+  "istilah": "jasad",
+  "entri": "ja.sad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjasad"
+  ],
+  "gabunganKata": [
+    "jasad penempel",
+    "jasad renik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tubuh; badan",
+    "kataAsal": "jasad"
+  },
+  "data": [
+    {
+      "lema": "ja.sad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tubuh; badan (manusia, hewan, tumbuhan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang berwujud (dapat diraba, dilihat, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "bagian terbatas dari zat"
+        }
+      ]
+    }
+  ]
+}

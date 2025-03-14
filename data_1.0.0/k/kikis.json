@@ -1,0 +1,41 @@
+{
+  "istilah": "kikis",
+  "entri": "ki.kis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kikisan",
+    "mengikis",
+    "mengikiskan",
+    "pengikis",
+    "pengikisan",
+    "terkikis",
+    "mengikis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.kis1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kerik (hilangkan, hapuskan, dan sebagainya) dengan benda tajam"
+        }
+      ]
+    },
+    {
+      "lema": "ki.kis2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "hilang; habis (harta benda)"
+        }
+      ]
+    }
+  ]
+}

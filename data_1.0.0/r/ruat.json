@@ -1,0 +1,28 @@
+{
+  "istilah": "ruat",
+  "entri": "ru.at",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.at",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "goyah (tentang gigi): gigi yang sudah -- pada anak-anak harus segera dicabut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tidak tetap (tentang hati, pendirian): kurang senang berkawan dengan dia karena pendiriannya --"
+        }
+      ]
+    }
+  ]
+}

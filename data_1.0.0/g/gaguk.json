@@ -1,0 +1,35 @@
+{
+  "istilah": "gaguk",
+  "entri": "ga.guk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tergaguk-gaguk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.guk1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gagu"
+        }
+      ]
+    },
+    {
+      "lema": "ga.guk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "manyung"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "laktasi",
+  "entri": "lak.ta.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lak.ta.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengeluaran susu dari kelenjar susu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tern[Peternakan: -]",
+          "deskripsi": "masa ternak (sapi, kerbau, kambing) sedang berproduksi susu"
+        }
+      ]
+    }
+  ]
+}

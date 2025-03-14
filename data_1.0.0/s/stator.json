@@ -1,0 +1,32 @@
+{
+  "istilah": "stator",
+  "entri": "sta.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sta.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "rakitan bilah yang tidak bergerak dalam turbin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang tidak bergerak dalam motor listrik atau generator"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bagian mesin elektrik, lazimnya mesin elektrik arus rangga, meliputi komponen magnet termasuk lilitannya"
+        }
+      ]
+    }
+  ]
+}

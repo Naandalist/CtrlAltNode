@@ -1,0 +1,39 @@
+{
+  "istilah": "konsumsi",
+  "entri": "kon.sum.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengkonsumsi",
+    "mengonsumsi",
+    "pengonsumsi",
+    "pengonsumsian"
+  ],
+  "gabunganKata": [
+    "konsumsi domestik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.sum.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemakaian barang hasil produksi (bahan pakaian, makanan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang-barang yang langsung memenuhi keperluan hidup kita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "makanan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "sasap",
+  "entri": "sa.sap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyasap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "meratakan dengan tanah",
+    "kataAsal": "sasap"
+  },
+  "data": [
+    {
+      "lema": "sa.sap1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cabut; siang"
+        }
+      ]
+    },
+    {
+      "lema": "sa.sap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sesap1"
+        }
+      ]
+    },
+    {
+      "lema": "sa.sap3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat susup"
+        }
+      ]
+    }
+  ]
+}

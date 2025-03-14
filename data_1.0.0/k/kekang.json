@@ -1,0 +1,41 @@
+{
+  "istilah": "kekang",
+  "entri": "ke.kang /kêkang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkekang",
+    "kekangan",
+    "mengekang",
+    "pengekang",
+    "pengekangan",
+    "terkekang"
+  ],
+  "gabunganKata": [
+    "kekang jalan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.kang /kêkang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "besi bergerigi yang dipasang pada mulut kuda; kendali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali (kulit dan sebagainya) untuk mengendalikan kuda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "segala sesuatu yang dipakai untuk mencegah perbuatan yang dianggap kurang baik; larangan"
+        }
+      ]
+    }
+  ]
+}

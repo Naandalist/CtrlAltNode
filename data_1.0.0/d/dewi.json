@@ -1,0 +1,39 @@
+{
+  "istilah": "dewi",
+  "entri": "de.wi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "dewi fortuna",
+    "dewi langit",
+    "dewi malam",
+    "Dewi Padi",
+    "dewi pertiwi",
+    "Dewi Sri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "ratu, dewa wanita, putri, yang mulia",
+    "kataAsal": "devī"
+  },
+  "data": [
+    {
+      "lema": "de.wi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "dewa perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] ki[kiasan]",
+          "deskripsi": "perempuan yang cantik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] ki[kiasan]",
+          "deskripsi": "jantung hati"
+        }
+      ]
+    }
+  ]
+}

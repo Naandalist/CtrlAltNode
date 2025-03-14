@@ -1,0 +1,38 @@
+{
+  "istilah": "hormat",
+  "entri": "hor.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhormat",
+    "berhormat-hormat",
+    "hormat-menghormati",
+    "kehormatan",
+    "menghormat",
+    "menghormati",
+    "penghormat",
+    "penghormatan",
+    "terhormat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "harga diri; tanggungan; hak",
+    "kataAsal": "ḥurmah"
+  },
+  "data": [
+    {
+      "lema": "hor.mat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menghargai (takzim, khidmat, sopan): sepatutnyalah kita -- kepada orang tua kita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan yang menandakan rasa khidmat atau takzim (seperti menyembah, menunduk): hadirin serentak berdiri memberi -- kepada tamu yang datang"
+        }
+      ]
+    }
+  ]
+}

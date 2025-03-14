@@ -1,0 +1,38 @@
+{
+  "istilah": "milik",
+  "entri": "mi.lik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemilikan",
+    "kepemilikan",
+    "memiliki",
+    "pemilik",
+    "pemilikan",
+    "termilik"
+  ],
+  "gabunganKata": [
+    "milik bersama",
+    "milik pribadi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kepunyaan",
+    "kataAsal": "milk"
+  },
+  "data": [
+    {
+      "lema": "mi.lik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepunyaan; hak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peruntungan; nasib baik: dasar --, barangnya yang hilang akhirnya ditemukan lagi"
+        }
+      ]
+    }
+  ]
+}

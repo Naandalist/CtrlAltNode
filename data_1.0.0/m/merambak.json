@@ -1,0 +1,41 @@
+{
+  "istilah": "merambak",
+  "entri": "rambak1 » me.ram.bak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rambak1 » me.ram.bak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjalar ke segala penjuru (tumbuh-tumbuhan yang menjalar)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertambah banyak; bertambah luas"
+        }
+      ]
+    },
+    {
+      "lema": "rambak2 » me.ram.bak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi seperti rambak"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bio[Biologi: -]",
+          "deskripsi": "menyerupai lembaran yang kering dan melisut"
+        }
+      ]
+    }
+  ]
+}

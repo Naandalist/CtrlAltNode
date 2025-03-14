@@ -1,0 +1,24 @@
+{
+  "istilah": "model abc",
+  "entri": "model1 » model ABC",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "model1 » model ABC",
+      "arti": [
+        {
+          "kelas_kata": "Psi[Psikologi: -]",
+          "deskripsi": "model yang digunakan untuk menganalisis masalah secara emosional"
+        }
+      ]
+    }
+  ]
+}

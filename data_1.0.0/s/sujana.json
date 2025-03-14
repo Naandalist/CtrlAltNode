@@ -1,0 +1,33 @@
+{
+  "istilah": "sujana",
+  "entri": "su.ja.na1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "baik, luhur (tentang perilaku)",
+    "kataAsal": "sujana"
+  },
+  "data": [
+    {
+      "lema": "su.ja.na1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "orang berbudi (bijaksana, pandai)"
+        }
+      ]
+    },
+    {
+      "lema": "su.ja.na2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tempat (daerah) yang jauh: -- magrib"
+        }
+      ]
+    }
+  ]
+}

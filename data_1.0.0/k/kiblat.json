@@ -1,0 +1,32 @@
+{
+  "istilah": "kiblat",
+  "entri": "kib.lat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkiblat",
+    "berkiblatkan",
+    "mengiblatkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "arah; arah salat",
+    "kataAsal": "qiblah"
+  },
+  "data": [
+    {
+      "lema": "kib.lat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arah ke Ka'bah di Makkah (pada waktu salat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arah; jurusan; mata angin"
+        }
+      ]
+    }
+  ]
+}

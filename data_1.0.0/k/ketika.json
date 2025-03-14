@@ -1,0 +1,36 @@
+{
+  "istilah": "ketika",
+  "entri": "ke.ti.ka /kêtika/bentuk tidak baku: kutika1",
+  "bentukTidakBaku": "kutika1",
+  "kataTurunan": [
+    "seketika"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ketika gagak putih, bangau hitam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jalan, gerakan, kondisi, keadaan",
+    "kataAsal": "gatika"
+  },
+  "data": [
+    {
+      "lema": "ke.ti.ka /kêtika/bentuk tidak baku: kutika1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu yang sangat singkat atau yang tertentu; saat: menantikan -- yang baik; rumah yang terbakar itu habis -- itu juga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu atau saat yang bertalian dengan nasib dan sebagainya (dalam perhitungan, primbon, atau tenung)"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata penghubung untuk menandai waktu yang bersamaan; tatkala; pada waktu (yang bersamaan): -- Kakak dilahirkan, Ayah sedang bertugas di kota"
+        }
+      ]
+    }
+  ]
+}

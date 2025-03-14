@@ -1,0 +1,49 @@
+{
+  "istilah": "layak",
+  "entri": "la.yak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelayakan",
+    "layaknya",
+    "melayakkan",
+    "selayaknya",
+    "terlayak",
+    "melayak"
+  ],
+  "gabunganKata": [
+    "layak huni",
+    "layak kredit",
+    "layak kutip",
+    "layak saji"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kepantasan; keterikatan; kecocokan",
+    "kataAsal": "layāq"
+  },
+  "data": [
+    {
+      "lema": "la.yak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "wajar; pantas; patut: berikanlah mereka kehidupan yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mulia; terhormat: karena jasanya, dia mendapat kedudukan yang --"
+        }
+      ]
+    },
+    {
+      "lema": "la.yak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang dibelah memanjang dari ekor ke kepala, lalu dikeringkan tanpa diberi garam"
+        }
+      ]
+    }
+  ]
+}

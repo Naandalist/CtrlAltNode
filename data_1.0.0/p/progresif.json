@@ -1,0 +1,32 @@
+{
+  "istilah": "progresif",
+  "entri": "prog.re.sif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "prog.re.sif",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ke arah kemajuan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhaluan ke arah perbaikan keadaan sekarang (tentang politik)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bertingkat-tingkat naik (tentang aturan pemungutan pajak dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

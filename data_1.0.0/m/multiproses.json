@@ -1,0 +1,24 @@
+{
+  "istilah": "multiproses",
+  "entri": "mul.ti.pro.ses",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mul.ti.pro.ses",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "kemampuan sistem operasi untuk menggunakan lebih dari satu prosesor dalam satu komputer"
+        }
+      ]
+    }
+  ]
+}

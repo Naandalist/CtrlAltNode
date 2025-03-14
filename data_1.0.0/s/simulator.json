@@ -1,0 +1,28 @@
+{
+  "istilah": "simulator",
+  "entri": "si.mu.la.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.mu.la.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "program yang berfungsi untuk menyimulasikan suatu peralatan, tetapi kerjanya agak lambat daripada keadaan yang sebenarnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk melakukan simulasi; alat yang dapat menyimulasikan"
+        }
+      ]
+    }
+  ]
+}

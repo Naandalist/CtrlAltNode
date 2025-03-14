@@ -1,0 +1,36 @@
+{
+  "istilah": "total",
+  "entri": "to.tal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menotal"
+  ],
+  "gabunganKata": [
+    "total jenderal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.tal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jumlah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menyeluruh; sepenuh-penuhnya; semesta"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sama sekali: gerhana matahari -- diperkirakan akan terjadi pada tanggal 20 Juni; kota itu mengalami kerusakan -- selama Perang Dunia II; buta -- tidak dapat melihat sama sekali"
+        }
+      ]
+    }
+  ]
+}

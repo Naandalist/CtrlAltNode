@@ -1,0 +1,44 @@
+{
+  "istilah": "bodoh",
+  "entri": "bo.doh bentuk tidak baku: bodo",
+  "bentukTidakBaku": "bodo",
+  "kataTurunan": [
+    "kebodohan",
+    "membodohi",
+    "membodohkan",
+    "memperbodoh",
+    "pembodohan",
+    "sebodoh",
+    "terbodoh"
+  ],
+  "gabunganKata": [
+    "bodoh amat"
+  ],
+  "peribahasa": [
+    "bodoh tak terajari, pintar tak terikuti; bodoh-bodoh sepat, tak makan pancing emas"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.doh bentuk tidak baku: bodo",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak lekas mengerti; tidak mudah tahu atau tidak dapat (mengerjakan dan sebagainya); bongak: anak ini -- benar, masak menghitung lima tambah lima saja tidak bisa?"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak memiliki pengetahuan (pendidikan, pengalaman): penjajah sengaja membiarkan rakyat -- agar mudah diperintah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "terserah (kepadamu): kalau tidak menurut nasihatku, --"
+        }
+      ]
+    }
+  ]
+}

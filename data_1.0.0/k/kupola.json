@@ -1,0 +1,33 @@
+{
+  "istilah": "kupola",
+  "entri": "ku.po.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.po.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tungku berbentuk silinder vertikal yang digunakan untuk meleburkan besi saat pengecoran"
+        }
+      ]
+    },
+    {
+      "lema": "ku.po.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "kubah kecil"
+        }
+      ]
+    }
+  ]
+}

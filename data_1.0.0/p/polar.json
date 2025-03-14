@@ -1,0 +1,40 @@
+{
+  "istilah": "polar",
+  "entri": "po.lar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepolaran",
+    "keterpolaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "po.lar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kutub"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkutub"
+        }
+      ]
+    },
+    {
+      "lema": "po.lar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dalam kulit gandum yang mengandung pati dan protein"
+        }
+      ]
+    }
+  ]
+}

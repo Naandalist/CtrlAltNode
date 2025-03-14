@@ -1,0 +1,52 @@
+{
+  "istilah": "campak",
+  "entri": "cam.pak1",
+  "bentukTidakBaku": "tampak2, tampek",
+  "kataTurunan": [
+    "celampak",
+    "mencampak",
+    "mencampakkan",
+    "pencampakan",
+    "tercampak"
+  ],
+  "gabunganKata": [
+    "campak jerman"
+  ],
+  "peribahasa": [
+    "campak bunga dibalas dengan campak tahi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cam.pak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lempar"
+        }
+      ]
+    },
+    {
+      "lema": "cam.pak2 bentuk tidak baku: tampak2, tampek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit menular yang disebabkan oleh virus, terjadi pada anak-anak yang mengakibatkan suhu badan naik dan menimbulkan bintik-bintik merah pada kulit; morbili"
+        }
+      ]
+    },
+    {
+      "lema": "cam.pak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "pertunjukan berbalas pantun yang dilakukan oleh biduan sambil menari di atas panggung dan menantang para penonton beradu pantun, diiringi instrumen tradisional gendang dan gong serta instrumen modern biola dan kibor yang menggantikan tamborin dan simbal"
+        }
+      ]
+    }
+  ]
+}

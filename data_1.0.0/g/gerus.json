@@ -1,0 +1,41 @@
+{
+  "istilah": "gerus",
+  "entri": "ge.rus1 /gêrus/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "gerusan",
+    "menggerus",
+    "gerusan",
+    "ketergerusan",
+    "menggerus",
+    "penggerusan",
+    "tergerus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.rus1 /gêrus/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis siput (karang), biasa digunakan untuk melicinkan kain; tengkuyung〔Crypraea tigris〕"
+        }
+      ]
+    },
+    {
+      "lema": "ge.rus2 /gêrus/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lumat; rusak"
+        }
+      ]
+    }
+  ]
+}

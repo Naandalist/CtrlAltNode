@@ -1,0 +1,37 @@
+{
+  "istilah": "sintuk",
+  "entri": "sin.tuk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersintuk",
+    "menyintuk",
+    "menyintukkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sin.tuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon Cinnamomum, kulitnya dipakai sebagai obat dan pencuci (pembersih) rambut"
+        }
+      ]
+    },
+    {
+      "lema": "sin.tuk2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyintuk"
+        }
+      ]
+    }
+  ]
+}

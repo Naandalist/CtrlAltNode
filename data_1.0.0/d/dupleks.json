@@ -1,0 +1,34 @@
+{
+  "istilah": "dupleks",
+  "entri": "du.pleks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "dupleks hibrid"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "du.pleks",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rangkap dua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "papan atau karton berlapis dua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hot[Perhotelan: ]",
+          "deskripsi": "hotel bertingkat dengan ruang tamu di bagian bawah dan ruang tidur di bagian atas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "senak",
+  "entri": "se.nak /sênak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesenak-senakan",
+    "kesenakan",
+    "menyenak",
+    "menyenak-nyenak",
+    "menyenakkan",
+    "tersenak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.nak /sênak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa sesak dalam perut atau dada (karena terlalu kenyang, masuk angin, dan sebagainya): -- rasa dadanya sesudah berlari kencang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "sedih; susah (tentang perasaan atau pikiran): -- rasa hatinya memikirkan anaknya itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tergenang dan menjadi penuh (air) karena tidak dapat mengalir: selokan yang -- airnya menyebabkan banyak nyamuk"
+        }
+      ]
+    }
+  ]
+}

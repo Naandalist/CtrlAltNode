@@ -1,0 +1,33 @@
+{
+  "istilah": "cad",
+  "entri": "Cad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Cad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "negara yang terletak di Afrika Tengah, beribu kota N'Djamena"
+        }
+      ]
+    },
+    {
+      "lema": "CAD",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -] sing[singkatan]",
+          "deskripsi": "desain berbantu komputer; computer-aided design"
+        }
+      ]
+    }
+  ]
+}

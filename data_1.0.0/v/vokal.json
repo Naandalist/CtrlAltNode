@@ -1,0 +1,59 @@
+{
+  "istilah": "vokal",
+  "entri": "vo.kal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kevokalan"
+  ],
+  "gabunganKata": [
+    "vokal bawah",
+    "vokal belakang",
+    "vokal buka",
+    "vokal bundar",
+    "vokal depan",
+    "vokal hambat",
+    "vokal hampar",
+    "vokal kardinal",
+    "vokal kendur",
+    "vokal pusat",
+    "vokal rendah",
+    "vokal sempit",
+    "vokal setengah terbuka",
+    "vokal setengah tertutup",
+    "vokal takbersuara",
+    "vokal takbundar",
+    "vokal tegang",
+    "vokal tengah",
+    "vokal ternasal",
+    "vokal tinggi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "vo.kal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengenai suara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bunyi bahasa yang dihasilkan oleh arus udara dari paru-paru melalui pita suara dan penyempitan pada saluran suara di atas glotis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "satuan fonologis yang diwujudkan dalam lafal tanpa pergeseran, seperti [a], [i], [u], [e], [o]"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "berani mengemukakan pendapat; berani bersuara (mengkritik dan sebagainya): dia adalah anggota DPR yang --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "puncak",
+  "entri": "pun.cak bentuk tidak baku: kemuncak",
+  "bentukTidakBaku": "kemuncak",
+  "kataTurunan": [
+    "memuncak",
+    "memuncaki",
+    "memuncakkan",
+    "pemuncak"
+  ],
+  "gabunganKata": [
+    "puncak acara",
+    "puncak awan",
+    "puncak gigi",
+    "puncak meso",
+    "puncak paru",
+    "puncak penyaringan",
+    "puncak siaga",
+    "puncak sudut"
+  ],
+  "peribahasa": [
+    "di muka (di puncak) hidung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pun.cak bentuk tidak baku: kemuncak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian yang paling atas (tentang gunung, menara, pohon, dan sebagainya): sampai ke -- gunung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "titik sudut segitiga yang berhadapan dengan garis dasar: menarik garis lurus dari -- ke garis dasar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "yang tertinggi; teratas; tingkatan (harta, keadaan, dan sebagainya) yang tertinggi atau tersangat: sudah mencapai -- jabatan"
+        }
+      ]
+    }
+  ]
+}

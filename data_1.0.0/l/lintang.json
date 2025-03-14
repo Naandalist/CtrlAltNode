@@ -1,0 +1,57 @@
+{
+  "istilah": "lintang",
+  "entri": "lin.tang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lintangan",
+    "melintang",
+    "melintangi",
+    "melintangkan",
+    "terlintang"
+  ],
+  "gabunganKata": [
+    "lintang bujur",
+    "lintang ekliptika",
+    "lintang galaktik",
+    "lintang kedak",
+    "lintang kemukus",
+    "lintang kuda",
+    "lintang pukang",
+    "lintang selatan",
+    "lintang utara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "melewati, melalui, mengabaikan, melampaui, melangkaui; sangat, amat, sekali",
+    "kataAsal": "lintaṅ"
+  },
+  "data": [
+    {
+      "lema": "lin.tang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lebar (suatu bidang): panjang lapangan itu 100 m, --nya 50 m"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "menurut lebar suatu bidang (ruangan, bumi, dan sebagainya); malang; melintang: garis -- utara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "garis atau lingkaran yang dibuat dari arah timur ke barat pada peta bumi dan globe sebagai salah satu ordinat untuk menentukan letak tempat pada permukaan bumi"
+        }
+      ]
+    },
+    {
+      "lema": "Lin.tang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Kabupaten Lahat, Sumatra Selatan"
+        }
+      ]
+    }
+  ]
+}

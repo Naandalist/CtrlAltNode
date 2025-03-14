@@ -1,0 +1,42 @@
+{
+  "istilah": "ia",
+  "entri": "i.a1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beria",
+    "mengiakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "barang siapa menggali lubang, ia akan terperosok ke dalamnya; dibujuk ia menangis, ditendang ia tertawa; monyet mendapat bunga, adakah ia tahu akan faedah bunga itu?"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.a1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "orang yang dibicarakan, tidak termasuk pembicara dan kawan bicara; dia"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "benda yang dibicarakan: buku adalah teman yang setia, -- tidak pernah mengkhianati pemiliknya"
+        }
+      ]
+    },
+    {
+      "lema": "i.a2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "ya"
+        }
+      ]
+    }
+  ]
+}

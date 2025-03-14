@@ -1,0 +1,42 @@
+{
+  "istilah": "leger",
+  "entri": "le.ger1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.ger1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balok penyangga lantai"
+        }
+      ]
+    },
+    {
+      "lema": "le.ger2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pipa air; tempat air; tong (anggur dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "le.ger /legêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dik[Pendidikan: -]",
+          "deskripsi": "(buku) daftar nilai asli siswa (sebelum dipindahkan ke dalam buku laporan pendidikan)"
+        }
+      ]
+    }
+  ]
+}

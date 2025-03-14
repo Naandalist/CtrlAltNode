@@ -1,0 +1,42 @@
+{
+  "istilah": "lemari",
+  "entri": "le.ma.ri /lêmari/bentuk tidak baku: almari",
+  "bentukTidakBaku": "almari",
+  "kataTurunan": [
+    "berlemari",
+    "berlemari-lemari"
+  ],
+  "gabunganKata": [
+    "lemari besi",
+    "lemari buku",
+    "lemari es",
+    "lemari ganti",
+    "lemari gantung",
+    "lemari kartu indeks",
+    "lemari kompak",
+    "lemari makan",
+    "lemari pakaian",
+    "lemari pendingin",
+    "lemari pendingin daging",
+    "lemari rias",
+    "lemari sudut",
+    "lemari tanam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.ma.ri /lêmari/bentuk tidak baku: almari",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peti besar tempat menyimpan sesuatu (seperti buku, pakaian)"
+        }
+      ]
+    }
+  ]
+}

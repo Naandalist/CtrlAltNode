@@ -1,0 +1,28 @@
+{
+  "istilah": "khayali",
+  "entri": "kha.ya.li",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "berkaitan dengan bayang-bayang",
+    "kataAsal": "khayālī"
+  },
+  "data": [
+    {
+      "lema": "kha.ya.li",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat khayalan (hanya ada dalam angan-angan): pengarang mencipta dunia -- dengan kekuatan imajinasinya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "berada dalam keadaan tidak sadar (terutama dalam tasawuf)"
+        }
+      ]
+    }
+  ]
+}

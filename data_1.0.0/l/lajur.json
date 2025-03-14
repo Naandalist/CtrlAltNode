@@ -1,0 +1,44 @@
+{
+  "istilah": "lajur",
+  "entri": "la.jur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlajur",
+    "berlajuran"
+  ],
+  "gabunganKata": [
+    "lajur bilga",
+    "lajur lunas",
+    "lajur pelat",
+    "lajur tanda arsip"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.jur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "deret beberapa benda (orang dan sebagainya) yang merupakan baris atau banjar: empat -- buku-buku baru yang disusun rapi di rak bukunya menambah semarak ruangan itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kolom (dalam surat kabar dan sebagainya): halaman surat kabar itu terbagi atas sembilan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baris tebal memanjang (pada kain dan sebagainya): kain putih dengan -- hijau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "baris; garis (pertahanan): -- pertahanan yang terdepan telah dihujani dengan tembakan artileri"
+        }
+      ]
+    }
+  ]
+}

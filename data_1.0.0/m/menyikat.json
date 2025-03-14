@@ -1,0 +1,40 @@
+{
+  "istilah": "menyikat",
+  "entri": "sikat1 » me.nyi.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sikat1 » me.nyi.kat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membersihkan dengan sikat: ~ baju; ~ gigi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyisir rambut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggemburkan tanah dengan sikat (garu): ~ sawah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "merampas atau menyerobot habis-habisan: penjahat itu telah ~ semua perhiasanku"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menghabiskan sama sekali: kucing ~ makanan yang ada di meja"
+        }
+      ]
+    }
+  ]
+}

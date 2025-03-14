@@ -1,0 +1,33 @@
+{
+  "istilah": "k.h.",
+  "entri": "K.H.1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "K.H.1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kiai haji"
+        }
+      ]
+    },
+    {
+      "lema": "K.H.2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kedokteran hewan"
+        }
+      ]
+    }
+  ]
+}

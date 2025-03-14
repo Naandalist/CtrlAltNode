@@ -1,0 +1,43 @@
+{
+  "istilah": "kebun",
+  "entri": "ke.bun /kêbun/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkebun",
+    "memperkebuni",
+    "memperkebunkan",
+    "mengebunkan",
+    "pekebun",
+    "perkebunan"
+  ],
+  "gabunganKata": [
+    "kebun akuarium",
+    "kebun binatang",
+    "kebun botani",
+    "kebun organik",
+    "kebun percobaan",
+    "kebun raya",
+    "kebun tunggal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "perkebunan, kebun-kebun",
+    "kataAsal": "kěbwan"
+  },
+  "data": [
+    {
+      "lema": "ke.bun /kêbun/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebidang tanah yang ditanami pohon musiman (buah-buahan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah luas yang ditanami kopi, karet, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

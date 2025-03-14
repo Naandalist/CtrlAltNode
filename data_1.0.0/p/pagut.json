@@ -1,0 +1,50 @@
+{
+  "istilah": "pagut",
+  "entri": "pa.gut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memagut",
+    "pagutan",
+    "berpagut",
+    "berpagutan",
+    "memagut",
+    "pagutan",
+    "sepemagutan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.gut1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memagut; pagutan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.gut2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berpagut; berpagutan; memagut; pagutan; sepemagutan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.gut3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "terbentur pada bagian atas tubuh"
+        }
+      ]
+    }
+  ]
+}

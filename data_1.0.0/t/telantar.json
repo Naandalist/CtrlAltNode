@@ -1,0 +1,39 @@
+{
+  "istilah": "telantar",
+  "entri": "te.lan.tar /têlantar/bentuk tidak baku: terlantar",
+  "bentukTidakBaku": "terlantar",
+  "kataTurunan": [
+    "menelantarkan",
+    "penelantaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.lan.tar /têlantar/bentuk tidak baku: terlantar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terhantar; tergeletak tidak terpelihara"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "serba tidak kecukupan (tentang kehidupan): sejak orang tuanya meninggal, hidupnya --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak terpelihara; tidak terawat; tidak terurus: tanaman ini dulu terawat baik, tetapi sekarang -- karena tidak ada yang mengurusnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbengkalai; tidak terselesaikan: ia sibuk mengajar di mana-mana sehingga penelitiannya --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "tumplak",
+  "entri": "tum.plak bentuk tidak baku: tumplek",
+  "bentukTidakBaku": "tumplek",
+  "kataTurunan": [
+    "menumplakkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tum.plak bentuk tidak baku: tumplek",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tertumpah semuanya; tercurah semuanya: nasi sebakul -- di meja"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "datang banyak-banyak; bergerombol (berkerumun) sampai melebihi daya tampung tempat yang tersedia: ribuan pelajar seluruh wilayah Jakarta Raya -- di Stadion Utama Senayan"
+        }
+      ]
+    }
+  ]
+}

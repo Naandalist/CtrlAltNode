@@ -1,0 +1,36 @@
+{
+  "istilah": "loyo",
+  "entri": "lo.yo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keloyoan",
+    "meloyo"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.yo1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penat sekali; lemah sekali; tidak berdaya"
+        }
+      ]
+    },
+    {
+      "lema": "lo.yo2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ loya"
+        }
+      ]
+    }
+  ]
+}

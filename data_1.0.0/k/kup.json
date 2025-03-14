@@ -1,0 +1,33 @@
+{
+  "istilah": "kup",
+  "entri": "kup1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kup1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat duduk di punggung gajah"
+        }
+      ]
+    },
+    {
+      "lema": "kup2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kudeta"
+        }
+      ]
+    }
+  ]
+}

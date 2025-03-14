@@ -1,0 +1,82 @@
+{
+  "istilah": "olak",
+  "entri": "o.lak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berolak",
+    "olakan",
+    "perolakan",
+    "berolak",
+    "mengolak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "o.lak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerak berputar (berpusing)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelendong kayu yang berputar (pada alat tenun)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ombak kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kembali; ulang: membayar -- membayar kembali"
+        }
+      ]
+    },
+    {
+      "lema": "o.lak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "hilir: sebelah -- sebelah hilir; ke -- ke hilir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kembali; ulang: membayar -- membayar kembali"
+        }
+      ]
+    },
+    {
+      "lema": "o.lak3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berolak"
+        }
+      ]
+    },
+    {
+      "lema": "o.lak4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengolak"
+        }
+      ]
+    },
+    {
+      "lema": "o.lak5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "unsur fluida dalam gerak golak-galik yang mempunyai identitas dan waktu hidup tersendiri"
+        }
+      ]
+    }
+  ]
+}

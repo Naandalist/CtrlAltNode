@@ -1,0 +1,35 @@
+{
+  "istilah": "sintung",
+  "entri": "sin.tung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyintung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sin.tung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menyintung"
+        }
+      ]
+    },
+    {
+      "lema": "sin.tung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "padi yang dapat dipanen empat bulan dari waktu penanaman"
+        }
+      ]
+    }
+  ]
+}

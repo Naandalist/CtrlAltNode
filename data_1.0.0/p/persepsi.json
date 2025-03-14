@@ -1,0 +1,36 @@
+{
+  "istilah": "persepsi",
+  "entri": "per.sep.si /pêrsepsi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memersepsikan"
+  ],
+  "gabunganKata": [
+    "persepsi aturan masa kanak",
+    "persepsi kedalaman",
+    "persepsi penilaian primer",
+    "persepsi penilaian sekunder",
+    "persepsi sensor"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "per.sep.si /pêrsepsi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanggapan (penerimaan) langsung dari sesuatu; serapan: perlu diteliti -- masyarakat terhadap alasan pemerintah menaikkan harga bahan bakar minyak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses seseorang mengetahui beberapa hal melalui pancaindranya"
+        }
+      ]
+    }
+  ]
+}

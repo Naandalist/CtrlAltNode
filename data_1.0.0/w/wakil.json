@@ -1,0 +1,49 @@
+{
+  "istilah": "wakil",
+  "entri": "wa.kil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berwakil",
+    "keterwakilan",
+    "mewakili",
+    "mewakilkan",
+    "perwakilan",
+    "pewakil",
+    "terwakili",
+    "terwakilkan"
+  ],
+  "gabunganKata": [
+    "wakil mahkota",
+    "wakil nikah",
+    "wakil rakyat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang dipasrahkan",
+    "kataAsal": "wakīl"
+  },
+  "data": [
+    {
+      "lema": "wa.kil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dikuasakan menggantikan orang lain: Paman bertindak sebagai -- Ayah dalam persidangan itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dipilih sebagai utusan negara; duta: dia merupakan salah seorang -- Indonesia dalam perebutan Piala Thomas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menguruskan perdagangan dan sebagainya untuk orang lain; agen: ia sebagai -- tunggal di kotanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jabatan yang kedua setelah yang tersebut di depannya: -- ketua"
+        }
+      ]
+    }
+  ]
+}

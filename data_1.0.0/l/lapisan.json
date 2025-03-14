@@ -1,0 +1,66 @@
+{
+  "istilah": "lapisan",
+  "entri": "lapis1 » la.pis.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lapisan absisi",
+    "lapisan akuifer",
+    "lapisan Apleton",
+    "lapisan aplikasi",
+    "lapisan atas",
+    "lapisan awan",
+    "lapisan bahang",
+    "lapisan batas",
+    "lapisan batas permukaan",
+    "lapisan bawah",
+    "lapisan dasar",
+    "lapisan epitaksi",
+    "lapisan fisik",
+    "lapisan gesek",
+    "lapisan Henle",
+    "lapisan Huxley",
+    "lapisan inversi",
+    "lapisan isoterm",
+    "lapisan kabur",
+    "lapisan nonstruktural",
+    "lapisan ozon",
+    "lapisan pembatas",
+    "lapisan prismatik",
+    "lapisan sesi",
+    "lapisan tipis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lapis1 » la.pis.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susunan; deretan; bagian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil melapis(i)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tingkatan; golongan: anggota dewan itu merupakan wakil dari seluruh ~ rakyat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "hal yang berkaitan dengan bet atau pemukul (tentang tenis meja)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tingkatan dalam program atau sistem yang memiliki fungsi tertentu dan antarmuka yang didefinisikan untuk menyampaikan hasil ke atau dari lapisan berikutnya"
+        }
+      ]
+    }
+  ]
+}

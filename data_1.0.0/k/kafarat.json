@@ -1,0 +1,37 @@
+{
+  "istilah": "kafarat",
+  "entri": "ka.fa.rat1 bentuk tidak baku: kaparat, kifarat, kiparat",
+  "bentukTidakBaku": "kaparat, kifarat, kiparatkeparat2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang tidak pandai bersyukur",
+    "kataAsal": "kafarah"
+  },
+  "data": [
+    {
+      "lema": "ka.fa.rat1 bentuk tidak baku: kaparat, kifarat, kiparat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "denda yang harus ditunaikan/dilaksanakan karena melanggar larangan Allah Swt. atau janji"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "persembahan kepada Allah Swt. sebagai tanda mohon pengampunan (karena telah melanggar hukum-Nya)"
+        }
+      ]
+    },
+    {
+      "lema": "ka.fa.rat2 bentuk tidak baku: keparat2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Isl[Agama Islam: -]",
+          "deskripsi": "tidak percaya kepada Allah dan rasul-Nya; keparat; kafir"
+        }
+      ]
+    }
+  ]
+}

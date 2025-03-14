@@ -1,0 +1,51 @@
+{
+  "istilah": "lucut",
+  "entri": "lu.cut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lucutan",
+    "melucut",
+    "melucuti",
+    "melucutkan",
+    "pelucutan",
+    "terlucut",
+    "melucut",
+    "melucutkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.cut1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lucutan; melucut; melucuti; melucutkan; pelucutan; terlucut"
+        }
+      ]
+    },
+    {
+      "lema": "lu.cut2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terkelupas (tentang kulit dan sebagainya); lecet"
+        }
+      ]
+    },
+    {
+      "lema": "lu.cut3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "hilang; lenyap"
+        }
+      ]
+    }
+  ]
+}

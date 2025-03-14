@@ -1,0 +1,24 @@
+{
+  "istilah": "pengujian inkremental",
+  "entri": "uji1 » pengujian » pengujian inkremental",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "uji1 » pengujian » pengujian inkremental",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "pengujian secara parsial produk yang belum selesai untuk memberikan umpan balik seawal mungkin kepada pengembang perangkat lunak"
+        }
+      ]
+    }
+  ]
+}

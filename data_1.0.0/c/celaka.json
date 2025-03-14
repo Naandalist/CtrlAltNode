@@ -1,0 +1,39 @@
+{
+  "istilah": "celaka",
+  "entri": "ce.la.ka /cêlaka/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kecelakaan",
+    "mencelakai",
+    "mencelakakan",
+    "secelaka"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "hilang bini boleh dicari, hilang budi badan celaka; hulu malang, pangkal celaka; malang celaka Raja Genggang, anak terbeli tunjang hilang; sesal dahulu yang bertuah, sesal kemudian yang celaka; tuah anjing, celaka kuda; tuah melambung tinggi, celaka menimpa, celaka sebesar gunung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "delusif",
+    "kataAsal": "chalaka"
+  },
+  "data": [
+    {
+      "lema": "ce.la.ka /cêlaka/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(selalu) mendapat kesulitan, kemalangan, kesusahan, dan sebagainya; lacur; malang; sial; terkutuk"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "keparat, jahanam, bangsat: nih, upahmu gembel --"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru menyatakan perasaan tidak senang, kecewa dan sebagainya: ah --, kunci saya hilang; -- tiga belas (-- dua belas) celaka sekali"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "dajal",
+  "entri": "da.jal bentuk tidak baku: dajjal",
+  "bentukTidakBaku": "dajjal",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penipu",
+    "kataAsal": "dajjāl"
+  },
+  "data": [
+    {
+      "lema": "da.jal bentuk tidak baku: dajjal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "setan yang datang ke dunia apabila kiamat sudah dekat (berupa raksasa)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang buruk kelakuannya; penipu; pembohong"
+        }
+      ]
+    }
+  ]
+}

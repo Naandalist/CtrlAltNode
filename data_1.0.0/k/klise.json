@@ -1,0 +1,49 @@
+{
+  "istilah": "klise",
+  "entri": "kli.se1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keklisean",
+    "mengklise",
+    "pengklisean"
+  ],
+  "gabunganKata": [
+    "klise berbintik",
+    "klise foto",
+    "klise garis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kli.se1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar negatif pada film potret"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "keping atau pelat berisi gambar yang agak menonjol untuk dicetakkan dengan cetak tinggi: penyerahan barang cetakan bergambar itu disertai juga dengan --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tiruan; hasil meniru"
+        }
+      ]
+    },
+    {
+      "lema": "kli.se2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "gagasan (ungkapan) yang terlalu sering dipakai"
+        }
+      ]
+    }
+  ]
+}

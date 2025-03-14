@@ -1,0 +1,40 @@
+{
+  "istilah": "menyambar",
+  "entri": "sambar » me.nyam.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sambar » me.nyam.bar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menangkap dengan cepat sambil terbang (lari dan sebagainya): burung elang itu ~ anak ayam"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjilat dengan cepat (tentang api); membakar: kobaran api itu ~ rumah di sebelah rumahnya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengenai: jika tidak kuelakkan, hampir saja pisau itu ~ kepalaku"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merampas: pencopet itu ~ kalung yang sedang dipakai seorang ibu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "membawa lari; mencuri: pencuri itu ~ sepeda motor yang sedang diparkir di depan toko"
+        }
+      ]
+    }
+  ]
+}

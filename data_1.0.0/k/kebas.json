@@ -1,0 +1,41 @@
+{
+  "istilah": "kebas",
+  "entri": "ke.bas1 /kêbas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengebaskan",
+    "mengebas",
+    "mengebaskan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.bas1 /kêbas/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berasa kaku kakinya (karena lelah)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kesemutan (tentang kaki, tangan, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.bas2 /kêbas/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lambai"
+        }
+      ]
+    }
+  ]
+}

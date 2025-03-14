@@ -1,0 +1,44 @@
+{
+  "istilah": "tugal",
+  "entri": "tu.gal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menugal",
+    "menugalkan",
+    "penugal",
+    "tugalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ada tugal ada benih"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.gal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkat kayu dan sebagainya yang runcing untuk membuat lubang di tanah yang akan ditanami benih"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuat lubang benih di tanah dengan tongkat yang runcing: hutan kayu atau belukar ditebas, lalu dibakar menjelang masa -- di awal musim penghujan"
+        }
+      ]
+    },
+    {
+      "lema": "tu.gal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "paku sepatu sepak bola"
+        }
+      ]
+    }
+  ]
+}

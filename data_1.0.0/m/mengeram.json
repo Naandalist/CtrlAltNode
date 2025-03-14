@@ -1,0 +1,51 @@
+{
+  "istilah": "mengeram",
+  "entri": "eram » meng.e.ram",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "selama enggang mengeram"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eram » meng.e.ram",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "duduk mendekam untuk memanaskan telur agar menetas (tentang ayam, burung): beberapa ekor ayamnya sedang ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "duduk menderum; mendekam: harimau ~ hendak menerkam mangsanya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "turun; lengkung (tentang lantai, tanah, jalan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tinggal dalam rumah (tidak pernah pergi ke luar rumah); mengurung diri di rumah: mari kita berjalan-jalan, jangan ~ saja"
+        }
+      ]
+    },
+    {
+      "lema": "keram1 » me.nge.ram",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tinggal saja (di rumah), tidak pergi ke mana-mana: dari pagi dia ~ saja di rumah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tinggal terkurung (di penjara): selama dia ~ di penjara, istrinya membuka warung di depan rumahnya"
+        }
+      ]
+    }
+  ]
+}

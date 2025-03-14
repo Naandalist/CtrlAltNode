@@ -1,0 +1,32 @@
+{
+  "istilah": "inap",
+  "entri": "i.nap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menginap",
+    "menginapkan",
+    "penginap",
+    "penginapan"
+  ],
+  "gabunganKata": [
+    "inap lajak",
+    "inap sulih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menginap, bermalam",
+    "kataAsal": "iněp"
+  },
+  "data": [
+    {
+      "lema": "i.nap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidur bukan di rumah sendiri, biasanya malam hari"
+        }
+      ]
+    }
+  ]
+}

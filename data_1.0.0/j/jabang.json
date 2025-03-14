@@ -1,0 +1,33 @@
+{
+  "istilah": "jabang",
+  "entri": "ja.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.bang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "cambang"
+        }
+      ]
+    },
+    {
+      "lema": "ja.bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "penyimpan senjata khas Banjar"
+        }
+      ]
+    }
+  ]
+}

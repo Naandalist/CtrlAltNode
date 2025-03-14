@@ -1,0 +1,35 @@
+{
+  "istilah": "gelondong",
+  "entri": "ge.lon.dong1 /gêlondong/bentuk tidak baku: glondong",
+  "bentukTidakBaku": "glondong",
+  "kataTurunan": [
+    "gelondongan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.lon.dong1 /gêlondong/bentuk tidak baku: glondong",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu batangan bulat yang utuh"
+        }
+      ]
+    },
+    {
+      "lema": "ge.lon.dong2 /gêlondong/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ikn[Perikanan: -]",
+          "deskripsi": "benih bandeng berukuran sebesar jari tangan, berusia sekitar 1—2 bulan"
+        }
+      ]
+    }
+  ]
+}

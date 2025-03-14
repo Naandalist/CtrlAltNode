@@ -1,0 +1,35 @@
+{
+  "istilah": "menggotong",
+  "entri": "gotong1 » meng.go.tong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "menggotong singa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gotong1 » meng.go.tong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membawa (barang yang berat) bersama-sama oleh dua orang atau lebih: mereka pulang dengan ~ ikan yang besar"
+        }
+      ]
+    },
+    {
+      "lema": "gotong2 » meng.go.tong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membayar utang orang yang telah meninggal secara bergotong royong dilakukan oleh ahli warisnya"
+        }
+      ]
+    }
+  ]
+}

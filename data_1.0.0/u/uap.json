@@ -1,0 +1,46 @@
+{
+  "istilah": "uap",
+  "entri": "u.ap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keteruapan",
+    "menguap",
+    "menguapi",
+    "menguapkan",
+    "penguap",
+    "penguapan",
+    "teruapkan",
+    "uapan"
+  ],
+  "gabunganKata": [
+    "uap air",
+    "uap jenuh",
+    "uap takjenuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "u.ap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gas yang terjadi dari cairan (air dan sebagainya) apabila dipanaskan; bentuk gas suatu zat"
+        }
+      ]
+    },
+    {
+      "lema": "u.ap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kuap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "jalin",
+  "entri": "ja.lin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjalin",
+    "berjalin-jalin",
+    "berjalinan",
+    "jalin-berjalin",
+    "jalin-menjalin",
+    "jalinan",
+    "menjalin",
+    "menjalinkan",
+    "penjalin",
+    "penjalinan",
+    "terjalin"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.lin",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "susun; rangkai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "anyam"
+        }
+      ]
+    }
+  ]
+}

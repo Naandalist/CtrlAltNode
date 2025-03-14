@@ -1,0 +1,56 @@
+{
+  "istilah": "saur",
+  "entri": "sa.ur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersaur",
+    "menyaur",
+    "menyauri",
+    "tersaur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Taurus",
+    "kataAsal": "ṡaur"
+  },
+  "data": [
+    {
+      "lema": "sa.ur1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyaur"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ur2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ sahur"
+        }
+      ]
+    },
+    {
+      "lema": "sa.ur4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "nyanyian bersama dalam kesenian Saman"
+        }
+      ]
+    },
+    {
+      "lema": "Sa.ur3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "Taurus; Wrisaba"
+        }
+      ]
+    }
+  ]
+}

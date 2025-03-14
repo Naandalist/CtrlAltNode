@@ -1,0 +1,37 @@
+{
+  "istilah": "pengurut",
+  "entri": "urut1 » peng.u.rut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "urut1 » peng.u.rut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengurut"
+        }
+      ]
+    },
+    {
+      "lema": "urut2 » peng.u.rut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengurut: labnya diamankan dengan ~ gen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengurutkan: alat ini digunakan sebagai ~ data masukan"
+        }
+      ]
+    }
+  ]
+}

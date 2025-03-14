@@ -1,0 +1,36 @@
+{
+  "istilah": "memadamkan",
+  "entri": "padam1 » me.ma.dam.kan bentuk tidak baku: mempadamkan",
+  "bentukTidakBaku": "mempadamkan",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "padam1 » me.ma.dam.kan bentuk tidak baku: mempadamkan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mematikan (api, lampu, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meredakan (kemarahan); menenangkan (hawa nafsu, cinta berahi, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menumpas; membasmi (pemberontakan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghilangkan (haus)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "pop",
+  "entri": "pop1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pop1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kp[kependekan]",
+          "deskripsi": "populer: lagu-lagu --"
+        }
+      ]
+    },
+    {
+      "lema": "pop2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "boneka"
+        }
+      ]
+    }
+  ]
+}

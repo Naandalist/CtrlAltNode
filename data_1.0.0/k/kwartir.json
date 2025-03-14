@@ -1,0 +1,33 @@
+{
+  "istilah": "kwartir",
+  "entri": "kwar.tir bentuk tidak baku: kuartir",
+  "bentukTidakBaku": "kuartir",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kwartir cabang",
+    "kwartir daerah",
+    "kwartir nasional",
+    "kwartir ranting"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kwar.tir bentuk tidak baku: kuartir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "markas: -- Nasional Pramuka ada di Merdeka Timur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Prm[Pramuka: Usulan untuk penambahan bidang baru]",
+          "deskripsi": "organisasi pelaksana yang bertugas mengatur dan mengelola kegiatan kepramukaan yang  beranggotakan para andalan"
+        }
+      ]
+    }
+  ]
+}

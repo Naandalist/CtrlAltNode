@@ -1,0 +1,35 @@
+{
+  "istilah": "kacu",
+  "entri": "ka.cu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kacu pramuka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "catechu (Areca catechu), getahnya dimakan dengan sirih, seperti gambir (gambir hitam)",
+    "kataAsal": "kacu"
+  },
+  "data": [
+    {
+      "lema": "ka.cu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air pinang (gambir) yang dikentalkan (untuk menyamak kulit)"
+        }
+      ]
+    },
+    {
+      "lema": "ka.cu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saputangan"
+        }
+      ]
+    }
+  ]
+}

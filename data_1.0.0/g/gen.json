@@ -1,0 +1,33 @@
+{
+  "istilah": "gen",
+  "entri": "gen",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gen dominan",
+    "gen mutator",
+    "gen pul",
+    "gen regulator",
+    "gen resesif",
+    "gen struktural",
+    "gen supresor",
+    "gen terkait"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gen",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bagian kromosom yang menjadi lokasi sifat-sifat keturunan; faktor keturunan"
+        }
+      ]
+    }
+  ]
+}

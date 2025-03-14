@@ -1,0 +1,45 @@
+{
+  "istilah": "bukan",
+  "entri": "bu.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbukan",
+    "bukan-bukan",
+    "membukankan",
+    "sebukan"
+  ],
+  "gabunganKata": [
+    "bukan buatan",
+    "bukan kepalang",
+    "bukan main",
+    "bukan sedikit",
+    "bukan sembarang orang"
+  ],
+  "peribahasa": [
+    "angguk bukan, geleng iya; bibirnya bukan diretak panas; bukan budak makan pisang; bukan tanahnya menjadi padi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.kan",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "berlainan dengan sebenarnya; sebenarnya tidak (dipakai untuk menyangkal): engkau sudah dewasa, -- anak-anak lagi"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk mengukuhkan isi atau maksud suatu pernyataan yang digunakan sesudah pernyataan itu: engkau jadi pergi, --?"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lancung; gadungan: pemimpin --"
+        }
+      ]
+    }
+  ]
+}

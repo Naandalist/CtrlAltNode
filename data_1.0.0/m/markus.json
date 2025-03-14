@@ -1,0 +1,33 @@
+{
+  "istilah": "markus",
+  "entri": "mar.kus2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mar.kus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "makelar kasus"
+        }
+      ]
+    },
+    {
+      "lema": "Mar.kus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "nama kitab Injil kedua dalam Alkitab Perjanjian Baru"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "istilah": "ragam",
+  "entri": "ra.gam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beragam",
+    "beragam-ragam",
+    "berseragam",
+    "keberagaman",
+    "keragaman",
+    "keseragaman",
+    "menyeragamkan",
+    "meragam",
+    "meragamkan",
+    "penyeragaman",
+    "seragam",
+    "keragaman",
+    "meragamkan",
+    "seragam sebahu"
+  ],
+  "gabunganKata": [
+    "ragam akrab",
+    "ragam bahasa",
+    "ragam baku",
+    "ragam cakapan",
+    "ragam hormat",
+    "ragam kasar",
+    "ragam lisan",
+    "ragam resmi",
+    "ragam santai",
+    "ragam tulis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.gam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkah; laku; ulah: lain orang, lain ragamnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "macam; jenis: di toko itu banyak -- permainan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lagu langgam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna; corak; ragi: kain yang bagus --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "laras (tentang bahasa)"
+        }
+      ]
+    },
+    {
+      "lema": "ra.gam2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersatu hati; rukun: penduduk kampung itu kurang -- rupanya"
+        }
+      ]
+    }
+  ]
+}

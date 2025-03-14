@@ -1,0 +1,48 @@
+{
+  "istilah": "pelonco",
+  "entri": "pe.lon.co1 /pêlonco/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memelonco",
+    "perpeloncoan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.lon.co1 /pêlonco/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pengenalan dan penghayatan situasi lingkungan baru dengan mengendapkan (mengikis) tata pikiran yang dimiliki sebelumnya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "gundul tidak berambut (tentang kepala)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dipelonco"
+        }
+      ]
+    },
+    {
+      "lema": "pe.lon.co2 /pêlonco/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "semangka muda"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "masih terlalu muda (bodoh, kurang pengalaman, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

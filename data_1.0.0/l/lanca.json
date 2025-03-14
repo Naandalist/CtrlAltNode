@@ -1,0 +1,33 @@
+{
+  "istilah": "lanca",
+  "entri": "lan.ca1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.ca1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perahu besar yang bertiang tiga"
+        }
+      ]
+    },
+    {
+      "lema": "lan.ca2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lancia"
+        }
+      ]
+    }
+  ]
+}

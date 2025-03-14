@@ -1,0 +1,42 @@
+{
+  "istilah": "lin",
+  "entri": "lin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis"
+        }
+      ]
+    },
+    {
+      "lema": "lin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pita"
+        }
+      ]
+    },
+    {
+      "lema": "lin3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalur lalu lintas: dengan dibukanya -- kapal Belawan ke Singapura, para turis asing makin banyak datang ke Sumatra Utara"
+        }
+      ]
+    }
+  ]
+}

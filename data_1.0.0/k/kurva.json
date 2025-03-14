@@ -1,0 +1,60 @@
+{
+  "istilah": "kurva",
+  "entri": "kur.va",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kurva adiabatik-semu",
+    "kurva aljabar",
+    "kurva beban-deformasi",
+    "kurva belajar",
+    "kurva bola",
+    "kurva bonjean",
+    "kurva epidemi",
+    "kurva indiferen",
+    "kurva kenyamanan",
+    "kurva laktasi",
+    "kurva lurus",
+    "kurva normal",
+    "kurva pembelajaran",
+    "kurva penawaran",
+    "kurva penawaran agregat",
+    "kurva pendinginan",
+    "kurva permintaan",
+    "kurva permintaan agregat",
+    "kurva pertumbuhan",
+    "kurva sekat",
+    "kurva signoid",
+    "kurva tahanan",
+    "kurva taksederhana",
+    "kurva taktertutup",
+    "kurva tekan-tarik",
+    "kurva tertutup",
+    "kurva toleransi gula"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kur.va",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis lengkung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "grafik yang menggambarkan variabel (misalnya yang memperlihatkan perkembangan) yang dipengaruhi oleh keadaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis yang terdiri atas persambungan titik-titik"
+        }
+      ]
+    }
+  ]
+}

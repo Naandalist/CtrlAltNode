@@ -1,0 +1,44 @@
+{
+  "istilah": "lap",
+  "entri": "lap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengelap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggosok (biasanya dari kain); penyeka; penghapus"
+        }
+      ]
+    },
+    {
+      "lema": "lap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "putaran (dalam balap mobil atau motor): pada beberapa -- pertama ia memimpin di posisi terdepan"
+        }
+      ]
+    },
+    {
+      "lema": "lap3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jarak sepanjang kolam renang"
+        }
+      ]
+    }
+  ]
+}

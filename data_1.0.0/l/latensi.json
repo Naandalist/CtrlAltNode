@@ -1,0 +1,36 @@
+{
+  "istilah": "latensi",
+  "entri": "la.ten.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "latensi awal",
+    "latensi puncak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.ten.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat sukar mengubah kebiasaan; sifat laten"
+        }
+      ]
+    },
+    {
+      "lema": "la.ten.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "periode waktu yang dibutuhkan oleh salah satu komponen dalam sistem untuk menunggu komponen lain"
+        }
+      ]
+    }
+  ]
+}

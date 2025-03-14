@@ -1,0 +1,44 @@
+{
+  "istilah": "hijab",
+  "entri": "hi.jab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhijab",
+    "menghijab",
+    "pehijab"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penutup; puncak gunung; dinding yang membatasi hati manusia dan Allah Swt.; dinding yang menghalangi seseorang dari mendapat harta waris",
+    "kataAsal": "ḥijāb"
+  },
+  "data": [
+    {
+      "lema": "hi.jab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dinding yang membatasi sesuatu dengan yang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "dinding yang membatasi hati manusia dan Allah Swt."
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "dinding yang menghalangi seseorang dari mendapat harta waris: anak laki-laki adalah -- dari saudara sebapak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain yang digunakan untuk menutupi muka dan tubuh wanita muslim sehingga bagian tubuhnya tidak terlihat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "jilbab"
+        }
+      ]
+    }
+  ]
+}

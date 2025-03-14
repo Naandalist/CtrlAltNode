@@ -1,0 +1,45 @@
+{
+  "istilah": "informasi",
+  "entri": "in.for.ma.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menginformasikan",
+    "penginformasi",
+    "terinformasikan"
+  ],
+  "gabunganKata": [
+    "informasi elektronik",
+    "informasi gizi",
+    "informasi jabatan",
+    "informasi karier",
+    "informasi meteorologi",
+    "informasi pekerjaan",
+    "informasi pendidikan",
+    "informasi pornografi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.for.ma.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penerangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberitahuan; kabar atau berita tentang sesuatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "keseluruhan makna yang menunjang amanat yang terlihat dalam bagian-bagian amanat itu"
+        }
+      ]
+    }
+  ]
+}

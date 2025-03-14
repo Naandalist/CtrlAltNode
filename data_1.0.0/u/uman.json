@@ -1,0 +1,27 @@
+{
+  "istilah": "uman",
+  "entri": "u.man",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menguman",
+    "menguman-uman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "memperlakukan dengan kasar, memaki-maki, mencerca",
+    "kataAsal": "uman"
+  },
+  "data": [
+    {
+      "lema": "u.man",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "umpat, cerca"
+        }
+      ]
+    }
+  ]
+}

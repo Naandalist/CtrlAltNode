@@ -1,0 +1,35 @@
+{
+  "istilah": "bon",
+  "entri": "bon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengebon"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat kecil berisi keterangan pengambilan barang, peminjaman uang, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "bon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gabungan perkumpulan olahraga; perserikatan"
+        }
+      ]
+    }
+  ]
+}

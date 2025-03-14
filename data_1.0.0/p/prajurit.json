@@ -1,0 +1,34 @@
+{
+  "istilah": "prajurit",
+  "entri": "pra.ju.rit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keprajuritan"
+  ],
+  "gabunganKata": [
+    "prajurit dua",
+    "prajurit kepala",
+    "prajurit satu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "prajurit, serdadu, pejuang, tentara, kesatria; gagah berani dalam peperangan",
+    "kataAsal": "prajurit"
+  },
+  "data": [
+    {
+      "lema": "pra.ju.rit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anggota angkatan darat, udara, laut serta anggota kepolisian (tidak memandang pangkat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan pangkat paling rendah dalam angkatan darat dan udara, mencakupi prajurit kepala, prajurit satu, dan prajurit dua"
+        }
+      ]
+    }
+  ]
+}

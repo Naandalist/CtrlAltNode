@@ -1,0 +1,40 @@
+{
+  "istilah": "lerak",
+  "entri": "le.rak1 /lêrak/bentuk tidak baku: larak2",
+  "bentukTidakBaku": "larak2",
+  "kataTurunan": [
+    "melerak",
+    "melerakkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.rak1 /lêrak/bentuk tidak baku: larak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rusak tercerai-cerai (tentang rumah, perahu, dan sebagainya); sudah lepas (dari ikatan): perahu itu --; tulang-tulang orang yang mati itu kini sudah --"
+        }
+      ]
+    },
+    {
+      "lema": "le.rak2 /lêrak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, tinggi mencapai 4 m, kayunya tidak keras sehingga tidak digunakan untuk bahan bangunan, buahnya berbusa, dapat digunakan sebagai sabun; lemuran〔Sapindus rarak〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah lerak"
+        }
+      ]
+    }
+  ]
+}

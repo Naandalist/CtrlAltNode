@@ -1,0 +1,28 @@
+{
+  "istilah": "motel",
+  "entri": "mo.tel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.tel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mobil hotel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "penginapan yang ditujukan terutama untuk pelancong bermobil, kamar-kamarnya mudah dicapai dari tempat parkir yang tersedia"
+        }
+      ]
+    }
+  ]
+}

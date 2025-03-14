@@ -1,0 +1,67 @@
+{
+  "istilah": "bunyi",
+  "entri": "bu.nyi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bebunyian",
+    "berbunyi",
+    "bunyi-bunyian",
+    "membunyikan",
+    "pembunyian",
+    "sebunyi",
+    "berbunyi",
+    "membunyikan"
+  ],
+  "gabunganKata": [
+    "bunyi geletar",
+    "bunyi geser",
+    "bunyi hambat",
+    "bunyi hamzah",
+    "bunyi letupan",
+    "bunyi letus",
+    "bunyi pepet",
+    "bunyi sengau",
+    "bunyi sumbang",
+    "bunyi surat"
+  ],
+  "peribahasa": [
+    "bagai bunyi cempedak jatuh; bagai bunyi siamang kenyang; bagaimana bunyi gendang, begitulah tarinya; baik rupa sepemandangan, baik bunyi sependengaran; bunyi perempuan di air; mati kuang karena bunyi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.nyi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang terdengar (didengar) atau ditangkap oleh telinga: -- meriam; -- burung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nada; laras (pada alat musik atau nyanyian dan sebagainya): -- piano; -- gamelan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kesan pada pusat saraf sebagai akibat getaran gendang telinga yang bereaksi karena perubahan-perubahan dalam tekanan udara: dalam bahasa Jepang -- “n” dan “ng” pada akhir kata hampir tidak berbeda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "ucapan apa yang tertulis (surat, huruf, dan sebagainya): bagaimana -- surat itu"
+        }
+      ]
+    },
+    {
+      "lema": "bu.nyi2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sembunyi"
+        }
+      ]
+    }
+  ]
+}

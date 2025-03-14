@@ -1,0 +1,48 @@
+{
+  "istilah": "capai",
+  "entri": "ca.pai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpencapaian",
+    "capaian",
+    "ketercapaian",
+    "mencapai",
+    "pencapai",
+    "pencapaian",
+    "secapai",
+    "sepencapai",
+    "tercapai",
+    "kecapaian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.pai1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "raih"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sampai"
+        }
+      ]
+    },
+    {
+      "lema": "ca.pai2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "letih"
+        }
+      ]
+    }
+  ]
+}

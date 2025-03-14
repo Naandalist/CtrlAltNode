@@ -1,0 +1,24 @@
+{
+  "istilah": "label tajuk",
+  "entri": "label » label tajuk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "label » label tajuk",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "struktur awal yang menggambarkan panjang, jenis, dan struktur dari data yang mengikutinya, seperti catatan pembuka dalam organisasi linear suatu berkas atau komunikasi"
+        }
+      ]
+    }
+  ]
+}

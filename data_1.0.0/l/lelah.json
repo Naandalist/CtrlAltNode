@@ -1,0 +1,49 @@
+{
+  "istilah": "lelah",
+  "entri": "le.lah1 /lêlah/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlelah",
+    "berlelah-lelah",
+    "kelelahan",
+    "melelahkan",
+    "memperlelah",
+    "terlelah",
+    "melelah"
+  ],
+  "gabunganKata": [
+    "lelah jerih",
+    "lelah payah",
+    "lelah tempur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.lah1 /lêlah/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak bertenaga; penat; letih; payah: setelah sembuh dari sakit itu, ia masih sering berasa --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Fis[Fisika: -]",
+          "deskripsi": "kecenderungan retak atau patah pada logam apabila mengalami tegangan berulang kali"
+        }
+      ]
+    },
+    {
+      "lema": "le.lah2 /lêlah/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melelah"
+        }
+      ]
+    }
+  ]
+}

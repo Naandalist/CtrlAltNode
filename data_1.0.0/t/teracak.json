@@ -1,0 +1,41 @@
+{
+  "istilah": "teracak",
+  "entri": "acak1 » ter.a.cak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "acak1 » ter.a.cak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah diacak"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "dapat diacak"
+        }
+      ]
+    },
+    {
+      "lema": "te.ra.cak /têracak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuku kuda (lembu dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekas telapak kaki"
+        }
+      ]
+    }
+  ]
+}

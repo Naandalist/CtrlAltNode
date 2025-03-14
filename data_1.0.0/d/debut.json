@@ -1,0 +1,36 @@
+{
+  "istilah": "debut",
+  "entri": "de.but",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "debutan",
+    "berdebut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.but",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penampilan untuk pertama kali di depan umum (tentang penyanyi, artis, dan sebagainya): dia memulai --nya pada tahun 50-an"
+        }
+      ]
+    },
+    {
+      "lema": "de.but /dêbut/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kentut"
+        }
+      ]
+    }
+  ]
+}

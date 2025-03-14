@@ -1,0 +1,30 @@
+{
+  "istilah": "garap",
+  "entri": "ga.rap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "garapan",
+    "menggarap",
+    "penggarap",
+    "penggarapan",
+    "tergarap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menggarap, mengerjakan",
+    "kataAsal": "garap"
+  },
+  "data": [
+    {
+      "lema": "ga.rap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerja"
+        }
+      ]
+    }
+  ]
+}

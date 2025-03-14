@@ -1,0 +1,45 @@
+{
+  "istilah": "mengatur",
+  "entri": "atur1 » meng.a.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "atur1 » meng.a.tur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuat (menyusun) sesuatu menjadi teratur (rapi); menata: dialah yang ~ ruangan ini"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengurus: siapa yang ~ rumah tanggamu?"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyusun (tentang bunga); merangkai: ia ahli dalam hal ~ bunga"
+        }
+      ]
+    },
+    {
+      "lema": "atur3 » meng.a.tur",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencocok: ~ merjan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengeluani; mencocok: ~ hidung kerbau"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "ramping",
+  "entri": "ram.ping1 bentuk tidak baku: rampis",
+  "bentukTidakBaku": "rampis",
+  "kataTurunan": [
+    "meramping",
+    "merampingkan",
+    "seramping",
+    "teramping",
+    "meramping"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dengan mudah (tanpa kesukaran), cakap, tangkas, trampil, cekatan, mahir, benar, tepat, menyesuaikan diri dengan semua keadaan",
+    "kataAsal": "rampiṅ"
+  },
+  "data": [
+    {
+      "lema": "ram.ping1 bentuk tidak baku: rampis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kecil panjang (lurus); langsing; lampai: ping-gangnya --"
+        }
+      ]
+    },
+    {
+      "lema": "ram.ping2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "compeng"
+        }
+      ]
+    }
+  ]
+}

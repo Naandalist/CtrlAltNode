@@ -1,0 +1,56 @@
+{
+  "istilah": "lesit",
+  "entri": "le.sit1 /lêsit/",
+  "bentukTidakBaku": "lasit",
+  "kataTurunan": [
+    "melesit",
+    "melesit",
+    "melesit",
+    "pelesit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.sit1 /lêsit/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melesit"
+        }
+      ]
+    },
+    {
+      "lema": "le.sit2 /lêsit/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melesit"
+        }
+      ]
+    },
+    {
+      "lema": "le.sit3 /lêsit/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melesit"
+        }
+      ]
+    },
+    {
+      "lema": "le.sit4 /lêsit/bentuk tidak baku: lasit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mengisap (darah)"
+        }
+      ]
+    }
+  ]
+}

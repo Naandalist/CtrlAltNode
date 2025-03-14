@@ -1,0 +1,51 @@
+{
+  "istilah": "umbut",
+  "entri": "um.but1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengumbut",
+    "mengumbut",
+    "umbut-umbut"
+  ],
+  "gabunganKata": [
+    "umbut kelapa",
+    "umbut sawit"
+  ],
+  "peribahasa": [
+    "cari umbut kena buku; mencari umbut dalam batu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "um.but1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ujung batang (kelapa, enau, dan sebagainya) yang masih muda dan lunak, dapat dimakan: alangkah nikmatnya apabila makan dengan sayur -- kelapa pada tengah hari"
+        }
+      ]
+    },
+    {
+      "lema": "um.but2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cabut, tarik"
+        }
+      ]
+    },
+    {
+      "lema": "um.but3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan air tawar yang ukurannya dapat mencapai 40 cm, tubuhnya pipih memanjang, bersisik, banyak terdapat pori-pori pada kepala, jari-jari terakhir pada sirip punggung mengeras dan bergerigi halus, warnanya keperakan, tersebar di Asia Tenggara〔Neobarynotus microlepis〕"
+        }
+      ]
+    }
+  ]
+}

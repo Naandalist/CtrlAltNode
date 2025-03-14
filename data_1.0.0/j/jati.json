@@ -1,0 +1,53 @@
+{
+  "istilah": "jati",
+  "entri": "ja.ti1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesejatian",
+    "sejati",
+    "sejatinya"
+  ],
+  "gabunganKata": [
+    "jati diri",
+    "jati bong",
+    "jati kapur",
+    "jati kembang",
+    "jati pasir",
+    "jati putih",
+    "jati sungu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ja.ti1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "murni; asli"
+        }
+      ]
+    },
+    {
+      "lema": "ja.ti2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, tinggi mencapai 20 m, kayunya keras dan ulet, baik untuk bangunan rumah dan sebagainya, daunnya kasap, daun yang muda digunakan untuk mewarnai barang anyaman〔Tectona grandis〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu jati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun jati"
+        }
+      ]
+    }
+  ]
+}

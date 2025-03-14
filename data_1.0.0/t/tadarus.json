@@ -1,0 +1,27 @@
+{
+  "istilah": "tadarus",
+  "entri": "ta.da.rus bentuk tidak baku: tedarus",
+  "bentukTidakBaku": "tedarus",
+  "kataTurunan": [
+    "bertadarus",
+    "tadarusan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembacaan berulang-ulang dengan hati-hati",
+    "kataAsal": "tadārus"
+  },
+  "data": [
+    {
+      "lema": "ta.da.rus bentuk tidak baku: tedarus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pembacaan Alquran secara bersama-sama (dalam bulan puasa)"
+        }
+      ]
+    }
+  ]
+}

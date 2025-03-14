@@ -1,0 +1,35 @@
+{
+  "istilah": "zakat",
+  "entri": "za.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berzakat"
+  ],
+  "gabunganKata": [
+    "zakat fitrah",
+    "zakat mal",
+    "zakat penghasilan",
+    "zakat profesi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kebaikan; salah satu rukun Islam yang mengatur harta yang wajib dikeluarkan kepada orang yang berhak menerimanya",
+    "kataAsal": "zakāh"
+  },
+  "data": [
+    {
+      "lema": "za.kat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jumlah harta tertentu yang wajib dikeluarkan oleh orang yang beragama Islam dan diberikan kepada golongan yang berhak menerimanya (fakir miskin dan sebagainya) menurut ketentuan yang telah ditetapkan oleh syarak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "salah satu rukun Islam yang mengatur harta yang wajib dikeluarkan kepada mustahik"
+        }
+      ]
+    }
+  ]
+}

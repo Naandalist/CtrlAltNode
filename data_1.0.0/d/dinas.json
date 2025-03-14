@@ -1,0 +1,47 @@
+{
+  "istilah": "dinas",
+  "entri": "di.nas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdinas",
+    "kedinasan",
+    "mendinaskan"
+  ],
+  "gabunganKata": [
+    "dinas (stasiun) meteorologi utama (kelas I)",
+    "dinas daerah",
+    "dinas intelijen",
+    "dinas jaga meteorologi",
+    "dinas meteorologi",
+    "dinas meteorologi penerbangan",
+    "dinas meteorologi wilayah",
+    "dinas pabean",
+    "dinas peternakan daerah",
+    "dinas rahasia"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.nas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian kantor pemerintah yang mengurus pekerjaan tertentu; jawatan: -- Lalu Lintas dan Angkutan Jalan Raya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segala sesuatu yang bersangkutan dengan jawatan (pemerintah), bukan swasta: surat --; pekerjaan --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bertugas, bekerja (dalam jawatan pemerintah): di mana kau -- sekarang?"
+        }
+      ]
+    }
+  ]
+}

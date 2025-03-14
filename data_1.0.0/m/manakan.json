@@ -1,0 +1,33 @@
+{
+  "istilah": "manakan",
+  "entri": "ma.na.kan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.na.kan1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "bagaimana akan boleh (dapat); bagaimana"
+        }
+      ]
+    },
+    {
+      "lema": "ma.na.kan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kemenakan"
+        }
+      ]
+    }
+  ]
+}

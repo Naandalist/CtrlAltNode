@@ -1,0 +1,33 @@
+{
+  "istilah": "peresau",
+  "entri": "pe.re.sau",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.re.sau",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "telur buaya"
+        }
+      ]
+    },
+    {
+      "lema": "pe.re.sau /pêrêsau/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Md[Melayu Medan: -]",
+          "deskripsi": "memungkiri apa yang telah dikatakannya sendiri"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "istilah": "kait",
+  "entri": "ka.it",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkait",
+    "berkait-kaitan",
+    "berkaitan",
+    "berpengait",
+    "kaitan",
+    "keterkaitan",
+    "mengait",
+    "mengaitkan",
+    "pengait",
+    "sekait",
+    "terkait"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.it",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "besi (kawat dan sebagainya) yang ujungnya melentuk (seperti gancu, seruit, sangga mara)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran jarak baris pada ketikan; penunjuk ukuran jarak baris pada ketikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang menyusahkan dan mengandung tipu muslihat: pikirkan dulu baik-baik, mungkin perkataannya ada --nya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "tarik dengan: -- buah itu pagi ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "ekor kecil pada kaki atau kepala huruf di beberapa gambar huruf"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "titik dalam sebuah program, tempat pemrogram menyisipkan kode uji atau kode waktu"
+        }
+      ]
+    }
+  ]
+}

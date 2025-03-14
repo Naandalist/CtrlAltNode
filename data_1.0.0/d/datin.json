@@ -1,0 +1,37 @@
+{
+  "istilah": "datin",
+  "entri": "da.tin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.tin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wanita yang dituakan atau bermartabat tinggi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(huruf pertama kapital) gelar kehormatan bagi istri datuk"
+        }
+      ]
+    },
+    {
+      "lema": "da.tin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "data dan informasi"
+        }
+      ]
+    }
+  ]
+}

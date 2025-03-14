@@ -1,0 +1,52 @@
+{
+  "istilah": "satai",
+  "entri": "sa.tai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyatai",
+    "mempersatai",
+    "menyatai",
+    "persataian"
+  ],
+  "gabunganKata": [
+    "satai balibul",
+    "satai batibul",
+    "satai belayak",
+    "satai blengong",
+    "satai daging kelapa",
+    "satai klatak",
+    "satai lilit",
+    "satai maranggi",
+    "satai Padang",
+    "satai susu",
+    "satai taican",
+    "satai tanjung",
+    "satai torpedo"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.tai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "irisan daging kecil-kecil yang ditusuk dan dipanggang, diberi bumbu kacang atau kecap: -- ayam; -- kambing"
+        }
+      ]
+    },
+    {
+      "lema": "sa.tai2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyatai"
+        }
+      ]
+    }
+  ]
+}

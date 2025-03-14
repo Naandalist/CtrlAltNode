@@ -1,0 +1,54 @@
+{
+  "istilah": "rontok",
+  "entri": "ron.tok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerontokan",
+    "merontokkan",
+    "perontok",
+    "perontokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berguguran daun-daunnya (pohon)",
+    "kataAsal": "rontog"
+  },
+  "data": [
+    {
+      "lema": "ron.tok1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jatuh atau gugur dalam jumlah yang banyak (tentang buah-buahan, daun-daunan): angin kencang dan kemarau panjang telah membuat daun pepohonan --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "luruh (tentang bulu, rambut, dan sebagainya): rambutnya jadi -- setelah ia melahirkan anaknya yang kelima"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lepas; mengelupas (tentang cat, bedak): cat tembok itu sudah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "banyak tanggal (tentang gigi): giginya -- akibat kecelakaan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "kalah: para pemain kita -- di semifinal"
+        }
+      ]
+    },
+    {
+      "lema": "ron.tok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] BgM[Bugis-Makassar: -]",
+          "deskripsi": "lauk yang terbuat dari udang kecil yang masih mentah diberi bumbu dapur, kemudian disimpan dalam waktu tertentu sebelum dimakan atau ditumis"
+        }
+      ]
+    }
+  ]
+}

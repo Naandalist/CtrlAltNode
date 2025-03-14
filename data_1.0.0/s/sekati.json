@@ -1,0 +1,33 @@
+{
+  "istilah": "sekati",
+  "entri": "kati1 » se.ka.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kati1 » se.ka.ti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satu kati"
+        }
+      ]
+    },
+    {
+      "lema": "se.ka.ti /sêkati/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gamelan sekaten"
+        }
+      ]
+    }
+  ]
+}

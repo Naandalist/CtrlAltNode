@@ -1,0 +1,37 @@
+{
+  "istilah": "lesir",
+  "entri": "le.sir1 /lêsir/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "belesir",
+    "berlesir",
+    "berlesir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.sir1 /lêsir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tari pedang"
+        }
+      ]
+    },
+    {
+      "lema": "le.sir2 /lêsir/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "desir"
+        }
+      ]
+    }
+  ]
+}

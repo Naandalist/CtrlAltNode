@@ -1,0 +1,35 @@
+{
+  "istilah": "mancung",
+  "entri": "man.cung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "hidung tak mancung, pipi tersorong-sorong"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pelapah bunga kelapa",
+    "kataAsal": "mañcuṅ"
+  },
+  "data": [
+    {
+      "lema": "man.cung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "makin ke ujung makin kecil; runcing; lancip: hidungnya --"
+        }
+      ]
+    },
+    {
+      "lema": "man.cung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "seludang kelapa yang telah kering: membakar upet yang dibuat dari --"
+        }
+      ]
+    }
+  ]
+}

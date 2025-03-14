@@ -1,0 +1,33 @@
+{
+  "istilah": "mandir",
+  "entri": "man.dir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.dir1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat mondar-mandir"
+        }
+      ]
+    },
+    {
+      "lema": "man.dir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada hakim (di Kalimantan)"
+        }
+      ]
+    }
+  ]
+}

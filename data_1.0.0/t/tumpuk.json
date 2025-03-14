@@ -1,0 +1,45 @@
+{
+  "istilah": "tumpuk",
+  "entri": "tum.puk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertumpuk-tumpuk",
+    "menumpuk",
+    "menumpukkan",
+    "penumpukan",
+    "setumpuk",
+    "tertumpuk",
+    "tumpukan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tum.puk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "longgok (timbunan sesuatu) yang tidak berapa banyak; susunan barang yang bertumpang-tindih: lima -- uang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menumpuk"
+        }
+      ]
+    },
+    {
+      "lema": "tum.puk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Als[Alas: -]",
+          "deskripsi": "sebutan untuk klan dalam masyarakat suku Alas"
+        }
+      ]
+    }
+  ]
+}

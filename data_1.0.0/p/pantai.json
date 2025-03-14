@@ -1,0 +1,49 @@
+{
+  "istilah": "pantai",
+  "entri": "pan.tai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpantai",
+    "berpantaikan",
+    "memantai"
+  ],
+  "gabunganKata": [
+    "pantai bakau",
+    "pantai berbatu",
+    "pantai berkarang",
+    "pantai berlumpur",
+    "pantai berpasir",
+    "pantai laut"
+  ],
+  "peribahasa": [
+    "jika takut dilimbur pasang, jangan berumah di tepi pantai; kalau takut dilimbur pasang, jangan berumah di tepi pantai; lubuk menjadi pantai, pantai menjadi lubuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.tai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepi laut; pesisir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbatasan daratan dengan laut atau massa air yang lain dan bagian yang dapat pengaruh dari air tersebut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah pasang surut di pantai antara pasang tertinggi dan surut terendah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "landai"
+        }
+      ]
+    }
+  ]
+}

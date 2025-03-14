@@ -1,0 +1,32 @@
+{
+  "istilah": "enkripsi",
+  "entri": "en.krip.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengenkripsi"
+  ],
+  "gabunganKata": [
+    "enkripsi data"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.krip.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tulisan dalam kode; sandi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "metode pengodean data agar komputer tidak dapat membaca atau menggunakan data"
+        }
+      ]
+    }
+  ]
+}

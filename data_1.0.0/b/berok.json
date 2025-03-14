@@ -1,0 +1,44 @@
+{
+  "istilah": "berok",
+  "entri": "be.rok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pemberokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.rok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampan kecil, terbuat dari kayu, tidak bertutup, digunakan untuk mengangkut orang: mereka semua naik -- menuju pulau itu"
+        }
+      ]
+    },
+    {
+      "lema": "be.rok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pemberokan"
+        }
+      ]
+    },
+    {
+      "lema": "be.rok /bêrok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "perut bagian bawah: turun -- burut"
+        }
+      ]
+    }
+  ]
+}

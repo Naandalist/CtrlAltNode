@@ -1,0 +1,35 @@
+{
+  "istilah": "klinik",
+  "entri": "kli.nik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "klinik kecantikan",
+    "klinik nyeri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kli.nik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(bagian) rumah sakit atau lembaga kesehatan tempat orang berobat dan memperoleh nasihat medis serta tempat mahasiswa kedokteran melakukan pengamatan terhadap kasus penyakit yang diderita para pasien"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balai pengobatan khusus: -- keluarga berencana; -- penyakit paru-paru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "organisasi kesehatan yang bergerak dalam penyediaan pelayanan kesehatan kuratif (diagnosis dan pengobatan), biasanya terhadap satu macam gangguan kesehatan"
+        }
+      ]
+    }
+  ]
+}

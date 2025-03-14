@@ -1,0 +1,40 @@
+{
+  "istilah": "raksi",
+  "entri": "rak.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meraksi",
+    "peraksi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rak.si1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "wangi; harum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bau-bauan yang harum; wangi-wangian"
+        }
+      ]
+    },
+    {
+      "lema": "raksi2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ rasi"
+        }
+      ]
+    }
+  ]
+}

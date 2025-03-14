@@ -1,0 +1,33 @@
+{
+  "istilah": "samudra",
+  "entri": "sa.mud.ra bentuk tidak baku: samudera, semedera, semudera",
+  "bentukTidakBaku": "samudera, semedera, semudera",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "Samudra Antarktika",
+    "Samudra Atlantik",
+    "Samudra Pasifik",
+    "Samudra Selatan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "laut, lautan",
+    "kataAsal": "samudra"
+  },
+  "data": [
+    {
+      "lema": "sa.mud.ra bentuk tidak baku: samudera, semedera, semudera",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lautan: Kepulauan Indonesia diapit oleh -- Pasifik dan -- Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "besar; raksasa: rapat -- sering diselenggarakan di stadion utama"
+        }
+      ]
+    }
+  ]
+}

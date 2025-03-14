@@ -1,0 +1,33 @@
+{
+  "istilah": "defisit",
+  "entri": "de.fi.sit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "defisit anggaran",
+    "defisit atensi",
+    "defisit kalori",
+    "defisit wisatawan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.fi.sit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekurangan (dalam anggaran belanja)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "defisiensi atau gangguan pada fungsi mental atau fisik"
+        }
+      ]
+    }
+  ]
+}

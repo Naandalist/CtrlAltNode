@@ -1,0 +1,57 @@
+{
+  "istilah": "mengaku",
+  "entri": "aku1 » meng.a.ku",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "aku1 » meng.a.ku",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyatakan (menganggap) dirinya (pandai, kaya, dan sebagainya): pemuda itu ~ (dirinya) bodoh"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membenarkan (tuduhan dan sebagainya terhadap dirinya): pencuri itu sudah ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menerima dan menyatakan (bahwa dirinya salah, keliru, dan sebagainya): ia ~ salah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menanggung (akan): siapa yang ~ biayanya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyanggupi: ia pun ~ bunyi perjanjian itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menganggap (sebagai): ~ anak; ~ bapak"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "selalu menceritakan diri sendiri; memegahkan diri; membanggakan diri: di mana-mana ia selalu ~ saja"
+        }
+      ]
+    },
+    {
+      "lema": "kaku » meng.aku2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi kaku: mayat itu ditemukan dalam keadaan mata terbuka, tubuh ~, dan mulut terkatup"
+        }
+      ]
+    }
+  ]
+}

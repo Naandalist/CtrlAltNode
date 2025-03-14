@@ -1,0 +1,42 @@
+{
+  "istilah": "deklinasi",
+  "entri": "dek.li.na.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "deklinasi kompas",
+    "deklinasi kuat",
+    "deklinasi lemah",
+    "deklinasi negatif",
+    "deklinasi positif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dek.li.na.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perubahan ke arah yang lebih kecil, lemah, atau rendah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "sudut yang dibentuk oleh jarum magnet (pada kompas) dengan arah utara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "sistem fleksi mengenai bentuk (nomina, adjektiva, pronomina, dan sebagainya) untuk menyatakan perbedaan kategori (genus atau kasus)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "jarak sudut pada bola langit antara benda langit dan ekuator langit, diukur pada meridian yang melalui benda langit itu"
+        }
+      ]
+    }
+  ]
+}

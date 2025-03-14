@@ -1,0 +1,33 @@
+{
+  "istilah": "gender",
+  "entri": "gen.der /gendêr/bentuk tidak baku: jender",
+  "bentukTidakBaku": "jenderjender",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gen.der /gendêr/bentuk tidak baku: jender",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis kelamin"
+        }
+      ]
+    },
+    {
+      "lema": "gen.der /gênder/bentuk tidak baku: jender",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "gamelan Jawa yang dibuat dari bilah-bilah logam berjumlah empat belas buah dengan penggema dari bambu"
+        }
+      ]
+    }
+  ]
+}

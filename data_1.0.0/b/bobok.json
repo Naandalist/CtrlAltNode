@@ -1,0 +1,56 @@
+{
+  "istilah": "bobok",
+  "entri": "bo.bok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bobokan",
+    "membobok",
+    "pembobok",
+    "pembobokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.bok1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidur (untuk anak-anak): --lah anakku, hari sudah larut malam"
+        }
+      ]
+    },
+    {
+      "lema": "bo.bok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bobokan; membobok; pembobok; pembobokan"
+        }
+      ]
+    },
+    {
+      "lema": "bo.bok3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "daun, umbi-umbian, dan sebagainya yang dilumatkan (dengan batu penggiling dan sebagainya) dipakai sebagai obat luar dengan cara menempelkannya pada bagian yang sakit"
+        }
+      ]
+    },
+    {
+      "lema": "bo.bok4",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bt[Batak: -]",
+          "deskripsi": "melengkung ke bawah (tentang tanduk): kerbau bertanduk -- itu lepas dari kandang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "istilah": "tang",
+  "entri": "tang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tang cucut",
+    "tang kombinasi",
+    "tang pengupas kabel"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menjepit (mencabut, memotong) paku dan sebagainya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjepit (mencabut, memotong) paku dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "tang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kaleng dipukul"
+        }
+      ]
+    },
+    {
+      "lema": "tang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tank"
+        }
+      ]
+    },
+    {
+      "lema": "tang4",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tentang"
+        }
+      ]
+    }
+  ]
+}

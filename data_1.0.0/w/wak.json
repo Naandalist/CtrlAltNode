@@ -1,0 +1,33 @@
+{
+  "istilah": "wak",
+  "entri": "wak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "wak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "uwak; uak"
+        }
+      ]
+    },
+    {
+      "lema": "wak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suara itik, katak, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

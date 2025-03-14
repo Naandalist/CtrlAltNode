@@ -1,0 +1,40 @@
+{
+  "istilah": "tulah",
+  "entri": "tu.lah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketulahan",
+    "menulahi"
+  ],
+  "gabunganKata": [
+    "tulah papa",
+    "tulah anak",
+    "tulah istri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bencana; pelet; sihir",
+    "kataAsal": "tuwalah"
+  },
+  "data": [
+    {
+      "lema": "tu.lah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemalangan yang disebabkan oleh kutuk, karena perbuatan yang kurang baik terhadap orang tua (orang suci dan sebagainya), atau karena perbuatan melanggar larangan; kualat: ia menerima -- karena perbuatannya yang tidak baik kepada orang tuanya"
+        }
+      ]
+    },
+    {
+      "lema": "tu.lah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tambahan (gaji dan sebagainya): gaji lima ratus ribu dan --nya lima ribu rupiah"
+        }
+      ]
+    }
+  ]
+}

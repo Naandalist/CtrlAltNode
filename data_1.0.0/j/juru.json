@@ -1,0 +1,124 @@
+{
+  "istilah": "juru",
+  "entri": "ju.ru1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kejuruan",
+    "menjuru",
+    "penjuru"
+  ],
+  "gabunganKata": [
+    "juru api",
+    "juru atak",
+    "juru bahasa isyarat",
+    "juru batu",
+    "juru bayar",
+    "juru berita",
+    "juru buku",
+    "juru cakap",
+    "juru dakwah",
+    "juru damai",
+    "juru gambar",
+    "juru kaki",
+    "juru kamera",
+    "juru kelat",
+    "juru kemasan",
+    "juru kerah",
+    "juru kira",
+    "juru kunci",
+    "juru langsir",
+    "juru las",
+    "juru lelang",
+    "juru lukis",
+    "juru masak",
+    "juru mesin",
+    "juru mesin pesawat",
+    "juru minyak",
+    "juru muat",
+    "juru mudi",
+    "juru padahi",
+    "juru pangalasan",
+    "juru panggil",
+    "juru parkir",
+    "juru pisah",
+    "juru pompa",
+    "juru pusaka",
+    "juru ramal",
+    "juru rawat",
+    "juru resep",
+    "juru rias",
+    "juru rumpakan",
+    "juru runding",
+    "juru sekar",
+    "juru selam",
+    "juru selamat",
+    "juru senjata",
+    "juru sita",
+    "juru suara",
+    "juru sungging",
+    "juru surat",
+    "juru tafsir",
+    "juru taksir",
+    "juru tala",
+    "juru tanak",
+    "juru tenung",
+    "juru terap",
+    "juru terbang",
+    "juru teriak",
+    "juru tik",
+    "juru tinggi",
+    "juru tulis",
+    "juru tulis desa",
+    "juru uang",
+    "juru ukir",
+    "juru ulas",
+    "juru warta",
+    "juru muda",
+    "juru muda tingkat satu",
+    "juru tingkat satu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "juru"
+  },
+  "data": [
+    {
+      "lema": "ju.ru1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang pandai dalam suatu pekerjaan yang memerlukan latihan, kecakapan dan kecermatan (keterampilan)"
+        }
+      ]
+    },
+    {
+      "lema": "ju.ru2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menjuru"
+        }
+      ]
+    },
+    {
+      "lema": "ju.ru3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "penjuru"
+        }
+      ]
+    },
+    {
+      "lema": "ju.ru4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkat struktural pegawai negeri sipil golongan I/c, satu tingkat di bawah juru tingkat satu, satu tingkat di atas juru muda tingkat satu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "istilah": "lamun",
+  "entri": "la.mun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "lamunan",
+    "melamun",
+    "melamunkan",
+    "pelamun",
+    "dilamun",
+    "melamun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "pucuk diremas dengan santan, urat direndam dengan tengguli, lamun peria pahit juga"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.mun1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lamunan; melamun; melamunkan; pelamun"
+        }
+      ]
+    },
+    {
+      "lema": "la.mun2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tetapi; namun: biarpun sukar, -- tugas itu harus diselesaikan juga"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "biarpun; meskipun: angin ribut melanda perahu kami, -- demikian kami masih dapat selamat"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "asal(kan); jikalau: ia hendak datang menghadap, -- Tuanku panggil akan dia"
+        }
+      ]
+    },
+    {
+      "lema": "la.mun3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "dilamun; melamun"
+        }
+      ]
+    },
+    {
+      "lema": "la.mun4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "tumbuhan yang hidup di laut dangkal, berbiji tunggal, terdiri atas rimpang, daun, dan akar, serta berbunga, berbuah dan menghasilkan biji"
+        }
+      ]
+    }
+  ]
+}

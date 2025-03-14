@@ -1,0 +1,41 @@
+{
+  "istilah": "lajak",
+  "entri": "la.jak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "lajak benang",
+    "lajak sutra",
+    "lajak aktif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.jak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain yang ditenun dari benang atau sutra"
+        }
+      ]
+    },
+    {
+      "lema": "la.jak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lekas; cepat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berlebihan (tentang tingkah laku)"
+        }
+      ]
+    }
+  ]
+}

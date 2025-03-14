@@ -1,0 +1,33 @@
+{
+  "istilah": "rap",
+  "entri": "rap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "partikel deskriptif (tentang gerakan cepat)",
+    "kataAsal": "rap"
+  },
+  "data": [
+    {
+      "lema": "rap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi kayu bergesek dengan kayu dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "rap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "percakapan tunggal atau monolog yang dilakukan secara berirama dengan diiringi musik: dia dikenal sebagai penyanyi --"
+        }
+      ]
+    }
+  ]
+}

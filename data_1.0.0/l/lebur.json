@@ -1,0 +1,59 @@
+{
+  "istilah": "lebur",
+  "entri": "le.bur1 /lêbur/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "leburan",
+    "melebur",
+    "meleburkan",
+    "pelebur",
+    "peleburan",
+    "terlebur",
+    "keleburan"
+  ],
+  "gabunganKata": [
+    "lebur sel",
+    "lebur tunggal"
+  ],
+  "peribahasa": [
+    "sama lebur, sama binasa"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.bur1 /lêbur/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "luluh atau hancur mencair (tentang logam yang dipanaskan): baik besi maupun baja -- apabila dipanaskan dalam suhu yang tinggi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "rusak binasa; punah sama sekali: seluruh kampung -- oleh gempa yang dahsyat itu"
+        }
+      ]
+    },
+    {
+      "lema": "le.bur2 /lêbur/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "keleburan"
+        }
+      ]
+    },
+    {
+      "lema": "le.bur3 /lêbur/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ debur"
+        }
+      ]
+    }
+  ]
+}

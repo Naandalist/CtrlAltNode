@@ -1,0 +1,41 @@
+{
+  "istilah": "pakem",
+  "entri": "pa.kem1 /pakêm/bentuk tidak baku: pekam",
+  "bentukTidakBaku": "pekam",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.kem1 /pakêm/bentuk tidak baku: pekam",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kuat mencekam (tentang rem): rem sepeda motor itu sangat --"
+        }
+      ]
+    },
+    {
+      "lema": "pa.kem2 /pakêm/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "cerita asli (tentang wayang dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pedoman pokok (tentang aturan, tata cara, dan sebagainya): pemangkasan dilakukan di luar -- yang telah ditetapkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keaslian; kemurnian"
+        }
+      ]
+    }
+  ]
+}

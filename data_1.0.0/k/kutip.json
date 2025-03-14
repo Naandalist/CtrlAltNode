@@ -1,0 +1,34 @@
+{
+  "istilah": "kutip",
+  "entri": "ku.tip",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kutipan",
+    "mengutip",
+    "pengutip",
+    "pengutipan",
+    "sekutip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.tip",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ambil sedikit"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pungut"
+        }
+      ]
+    }
+  ]
+}

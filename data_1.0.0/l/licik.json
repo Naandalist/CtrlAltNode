@@ -1,0 +1,44 @@
+{
+  "istilah": "licik",
+  "entri": "li.cik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kelicikan",
+    "terlicik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.cik1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "banyak akal yang buruk; pandai menipu; culas; curang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "licin"
+        }
+      ]
+    },
+    {
+      "lema": "li.cik2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah menyerah; gampang kalah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penakut"
+        }
+      ]
+    }
+  ]
+}

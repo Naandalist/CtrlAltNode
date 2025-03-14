@@ -1,0 +1,38 @@
+{
+  "istilah": "butuh",
+  "entri": "bu.tuh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkebutuhan",
+    "kebutuhan",
+    "membutuhi",
+    "membutuhkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dalam kesukaran, dalam kesulitan, dalam kebingungan",
+    "kataAsal": "butuh"
+  },
+  "data": [
+    {
+      "lema": "bu.tuh1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "perlu"
+        }
+      ]
+    },
+    {
+      "lema": "bu.tuh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "kemaluan laki-laki; zakar"
+        }
+      ]
+    }
+  ]
+}

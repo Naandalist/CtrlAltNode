@@ -1,0 +1,58 @@
+{
+  "istilah": "mi",
+  "entri": "mi1 bentuk tidak baku: mie",
+  "bentukTidakBaku": "mie",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mi Aceh",
+    "mi ayam",
+    "mi bakso",
+    "mi celor",
+    "mi dadak",
+    "mi gelosor",
+    "mi goreng",
+    "mi instan",
+    "mi juhi",
+    "mi kocok",
+    "mi lidi",
+    "mi pangsit",
+    "mi panjang umur",
+    "mi tek-tek",
+    "mi telur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "mi",
+    "kataAsal": "mīⁿ"
+  },
+  "data": [
+    {
+      "lema": "mi1 bentuk tidak baku: mie",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan makanan dari tepung terigu, bentuknya seperti tali, biasanya dimasak dengan cara digoreng atau direbus, diberi daging, udang, sayuran, bumbu, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "mi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nada yang ketiga pada urutan tangga nada musik"
+        }
+      ]
+    },
+    {
+      "lema": "MI",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "madrasah ibtidaiah"
+        }
+      ]
+    }
+  ]
+}

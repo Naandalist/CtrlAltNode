@@ -1,0 +1,28 @@
+{
+  "istilah": "emporium",
+  "entri": "em.po.ri.um",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.po.ri.um",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pusat perdagangan; pusat perbelanjaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gudang besar yang berisi berbagai barang dagangan"
+        }
+      ]
+    }
+  ]
+}

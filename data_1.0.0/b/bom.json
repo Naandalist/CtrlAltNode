@@ -1,0 +1,78 @@
+{
+  "istilah": "bom",
+  "entri": "bom1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengebom",
+    "pengebom",
+    "pengeboman"
+  ],
+  "gabunganKata": [
+    "bom atom",
+    "bom brisan",
+    "bom bunuh diri",
+    "bom cahaya",
+    "bom curah",
+    "bom gunung api",
+    "bom hidrogen",
+    "bom klaster",
+    "bom kumbang",
+    "bom laut",
+    "bom molotov",
+    "bom napalm",
+    "bom nuklir",
+    "bom pembakar",
+    "bom pintar",
+    "bom tandan",
+    "bom tarik",
+    "bom waktu",
+    "bom zat cair"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bom1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "senjata yang bentuknya seperti peluru besar yang berisi bahan peledak untuk menimbulkan kerusakan besar"
+        }
+      ]
+    },
+    {
+      "lema": "bom2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu penarik pedati (dokar dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu palang (perintang pelabuhan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelabuhan; pabean"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu ringan atau bambu pada bagian bawah layar kapal"
+        }
+      ]
+    },
+    {
+      "lema": "bom3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bk[Biak: -]",
+          "deskripsi": "tombak yang dipakai untuk maskawin"
+        }
+      ]
+    }
+  ]
+}

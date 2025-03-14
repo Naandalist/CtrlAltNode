@@ -1,0 +1,32 @@
+{
+  "istilah": "bifokal",
+  "entri": "bi.fo.kal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.fo.kal",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai dua fokus"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan bagian kacamata yang terdiri atas lensa kecil untuk melihat dekat dan lensa utama untuk melihat jauh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kacamata bifokal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "istilah": "pasak",
+  "entri": "pa.sak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpasak",
+    "memasak",
+    "memasakkan",
+    "terpasak"
+  ],
+  "gabunganKata": [
+    "pasak bumi",
+    "pasak kampung",
+    "pasak kuku",
+    "pasak kunci",
+    "pasak negeri",
+    "pasak seribu"
+  ],
+  "peribahasa": [
+    "besar pasak daripada tiang; besar senggulung daripada beban, besar pasak daripada tiang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.sak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "paku yang dibuat dari kayu, bambu, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "poros kecil pada roda arloji dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "potongan kecil logam yang disisipkan pada alur yang terlipat di antara roda dengan sumbunya agar roda tersebut tidak berputar terhadap sumbu tersebut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "sepotong besi atau kayu tidak berkepala untuk menyatukan dua bagian besi, kayu, atau bagian mesin (roda)"
+        }
+      ]
+    }
+  ]
+}

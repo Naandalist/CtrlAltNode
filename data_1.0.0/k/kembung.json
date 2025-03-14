@@ -1,0 +1,56 @@
+{
+  "istilah": "kembung",
+  "entri": "kem.bung1 /kêmbung/",
+  "bentukTidakBaku": "gembung2",
+  "kataTurunan": [
+    "mengembungkan"
+  ],
+  "gabunganKata": [
+    "kembung kempis",
+    "kembung betina",
+    "kembung jantan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jenis ikan yang khas",
+    "kataAsal": "kěmbuṅ"
+  },
+  "data": [
+    {
+      "lema": "kem.bung1 /kêmbung/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menjadi gembung; melembung (karena kemasukan angin)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "senak dan terasa seperti berisi angin (tentang perut)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "membesar (tentang perut) karena berisi gas hasil fermentasi yang tidak dapat dikeluarkan melalui mulut"
+        }
+      ]
+    },
+    {
+      "lema": "kem.bung2 /kêmbung/bentuk tidak baku: gembung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut, panjang mencapai 35 cm, umur mencapai 4 tahun, hidup di perairan tropis dengan kedalaman 20–90 m, tersebar di perairan Indo-Pasifik Barat (Laut Merah dan Afrika Timur sampai Indonesia, utara sampai Kepulauan Ryukyu dan Cina, Australia Selatan, Melanesia dan Samoa)"
+        }
+      ]
+    },
+    {
+      "lema": "kem.bung3 /kêmbung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lumbung: -- padi"
+        }
+      ]
+    }
+  ]
+}

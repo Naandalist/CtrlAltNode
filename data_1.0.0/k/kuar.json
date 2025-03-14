@@ -1,0 +1,57 @@
+{
+  "istilah": "kuar",
+  "entri": "ku.ar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menguar-nguarkan",
+    "menguarkan",
+    "kuaran"
+  ],
+  "gabunganKata": [
+    "kuar antarplanet"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.ar1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ulur; uar"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung kowak"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ar3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "diperoleh dari hubungan yang tidak sah (tentang anak); haram jadah: anak --"
+        }
+      ]
+    },
+    {
+      "lema": "ku.ar4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingsa yang baru menetas"
+        }
+      ]
+    }
+  ]
+}

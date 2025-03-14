@@ -1,0 +1,46 @@
+{
+  "istilah": "syarat",
+  "entri": "sya.rat bentuk tidak baku: sarat3",
+  "bentukTidakBaku": "sarat3",
+  "kataTurunan": [
+    "bersyarat",
+    "mensyaratkan",
+    "persyaratan"
+  ],
+  "gabunganKata": [
+    "syarat kecakapan khusus"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang harus dipenuhi",
+    "kataAsal": "syarṭ"
+  },
+  "data": [
+    {
+      "lema": "sya.rat bentuk tidak baku: sarat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "janji (sebagai tuntutan atau permintaan yang harus dipenuhi): saya mau hadir dalam rapat itu, dengan -- saya tidak mau dipilih jadi pengurus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segala sesuatu yang perlu atau harus ada (sedia, dimiliki, dan sebagainya): keamanan dalam negeri adalah -- mutlak bagi pembangunan negara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "segala sesuatu yang perlu untuk menyampaikan suatu maksud: niat untuk belajar sangat besar, tetapi --nya tidak mencukupi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketentuan (peraturan, petunjuk) yang harus diindahkan dan dilakukan: sebagai umat Islam kita harus selalu patuh pada -- dan hukum Islam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "biaya (barang-barang dan sebagainya) yang harus diberikan kepada guru silat, dukun, dan sebagainya: -- apa saja yang harus dipenuhi jika berdukun kepadanya"
+        }
+      ]
+    }
+  ]
+}

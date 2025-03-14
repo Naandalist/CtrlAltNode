@@ -1,0 +1,35 @@
+{
+  "istilah": "engkah",
+  "entri": "eng.kah1 /êngkah/bentuk tidak baku: kah1",
+  "bentukTidakBaku": "kah1",
+  "kataTurunan": [
+    "engkah-engkah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "cari:",
+    "kataAsal": "n̂g ka"
+  },
+  "data": [
+    {
+      "lema": "eng.kah1 /êngkah/bentuk tidak baku: kah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "getah (untuk melekatkan kayu); perekat; lem"
+        }
+      ]
+    },
+    {
+      "lema": "eng.kah2 /êngkah/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "engkah-engkah"
+        }
+      ]
+    }
+  ]
+}

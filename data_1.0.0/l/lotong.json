@@ -1,0 +1,46 @@
+{
+  "istilah": "lotong",
+  "entri": "lo.tong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lo.tong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lutung"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hitam: hitam --"
+        }
+      ]
+    },
+    {
+      "lema": "lo.tong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon berbatang lurus, tinggi hingga 20 m, kayunya keras dan awet, digunakan untuk kosen, tiang rumah, dan sebagainya, buahnya seperti buah rambutan tetapi lebih besar, berwarna merah dan masam〔Nephelium eriopetalum〕"
+        }
+      ]
+    },
+    {
+      "lema": "lo.tong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "loki"
+        }
+      ]
+    }
+  ]
+}

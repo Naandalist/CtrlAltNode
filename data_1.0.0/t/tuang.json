@@ -1,0 +1,43 @@
+{
+  "istilah": "tuang",
+  "entri": "tu.ang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertuang",
+    "ketuangan",
+    "menuang",
+    "menuangi",
+    "menuangkan",
+    "penuang",
+    "penuangan",
+    "tertuang",
+    "tuangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.ang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "curah; tumpah (tentang benda cair)"
+        }
+      ]
+    },
+    {
+      "lema": "tu.ang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidak datang belajar (tanpa seizin guru); bolos: hari ini hanya beberapa murid yang ikut kursus, yang lainnya --"
+        }
+      ]
+    }
+  ]
+}

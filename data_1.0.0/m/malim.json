@@ -1,0 +1,35 @@
+{
+  "istilah": "malim",
+  "entri": "ma.lim bentuk tidak baku: malin",
+  "bentukTidakBaku": "malin",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "malim angin",
+    "malim kapal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengajar",
+    "kataAsal": "mu‘allim"
+  },
+  "data": [
+    {
+      "lema": "ma.lim bentuk tidak baku: malin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang alim; ulama; guru agama Islam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin; penunjuk jalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pawang"
+        }
+      ]
+    }
+  ]
+}

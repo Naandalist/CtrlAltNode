@@ -1,0 +1,57 @@
+{
+  "istilah": "lapis",
+  "entri": "la.pis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlapis",
+    "berlapis-lapis",
+    "lapisan",
+    "melapis",
+    "melapisi",
+    "melapiskan",
+    "pelapis",
+    "pelapisan"
+  ],
+  "gabunganKata": [
+    "lapis antara",
+    "lapis difusi",
+    "lapis monomolekul",
+    "lapis mutiara",
+    "lapis penutup",
+    "lapis legit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.pis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "susun; bagian: -- tanah yang di bawah terdiri atas pasir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saf; deretan; banjar: untuk pertahanan, pasukan terdiri atas lima --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda tipis yang digunakan untuk menyadur atau menyalut benda lain: -- hulu pisau (cincin, gelang, dan sebagainya) itu dibuat dari emas"
+        }
+      ]
+    },
+    {
+      "lema": "la.pis2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersayat (tentang daging dan sebagainya); beriris-iris"
+        }
+      ]
+    }
+  ]
+}

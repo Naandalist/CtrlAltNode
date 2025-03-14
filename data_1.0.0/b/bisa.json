@@ -1,0 +1,57 @@
+{
+  "istilah": "bisa",
+  "entri": "bi.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebisaan",
+    "sebisanya",
+    "berbisa",
+    "kebisaan"
+  ],
+  "gabunganKata": [
+    "bisa jadi",
+    "bisa kawi",
+    "bisa patamiana"
+  ],
+  "peribahasa": [
+    "alah bisa karena (oleh) biasa; alah bisa karena biasa; alah bisa oleh (karena) biasa; alah bisa, tegal biasa; habis geli oleh gelitik, (habis bisa oleh biasa); karena mulut, bisa binasa; yang tajam tumpul, yang bisa tawar"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "racun",
+    "kataAsal": "viṣa"
+  },
+  "data": [
+    {
+      "lema": "bi.sa1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mampu (kuasa melakukan sesuatu); dapat: ia -- membaca, tetapi tidak -- menulis"
+        }
+      ]
+    },
+    {
+      "lema": "bi.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat racun yang dapat menyebabkan luka, busuk, atau mati bagi sesuatu yang hidup (biasanya terdapat pada binatang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang buruk, yang dapat merusakkan akhlak manusia atau masyarakat: ajaranmu itu akan menjadi -- bagi kami"
+        }
+      ]
+    },
+    {
+      "lema": "bi.sa3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Wl[Wolio: -]",
+          "deskripsi": "sapaan kepada dukun yang berasal dari golongan bangsawan dan walaka yang biasa melakukan upacara adat pingitan"
+        }
+      ]
+    }
+  ]
+}

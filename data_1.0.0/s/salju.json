@@ -1,0 +1,35 @@
+{
+  "istilah": "salju",
+  "entri": "sal.ju",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersalju",
+    "menyalju"
+  ],
+  "gabunganKata": [
+    "salju baru",
+    "salju embus",
+    "salju lama",
+    "salju layang",
+    "salju melalang",
+    "salju tiupan",
+    "salju tua"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "butiran uap air berwarna putih yang membeku",
+    "kataAsal": "ṡalj"
+  },
+  "data": [
+    {
+      "lema": "sal.ju",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butiran uap air berwarna putih bagaikan kapas yang membeku di udara dan jatuh ke bumi akibat temperatur udara di daerah itu berada di bawah titik beku"
+        }
+      ]
+    }
+  ]
+}

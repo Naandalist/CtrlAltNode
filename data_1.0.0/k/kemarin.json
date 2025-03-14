@@ -1,0 +1,32 @@
+{
+  "istilah": "kemarin",
+  "entri": "ke.ma.rin /kêmarin/bentuk tidak baku: kelamarin, kelemarin, kemaren",
+  "bentukTidakBaku": "kelamarin, kelemarin, kemaren",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kemarin dulu",
+    "kemarin lusa",
+    "kemarin sore"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ma.rin /kêmarin/bentuk tidak baku: kelamarin, kelemarin, kemaren",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari sebelum hari ini: sekarang hari Jumat, -- hari Kamis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(beberapa) waktu yang lalu: dalam rapat -- kami sudah membahas hal ini; pada hari Jumat -- aku tidak bisa hadir, tetapi Jumat ini aku akan hadir"
+        }
+      ]
+    }
+  ]
+}

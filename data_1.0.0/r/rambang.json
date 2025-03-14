@@ -1,0 +1,66 @@
+{
+  "istilah": "rambang",
+  "entri": "ram.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merambang",
+    "merambang-rambang",
+    "merambang"
+  ],
+  "gabunganKata": [
+    "rambang mata",
+    "Rambang Senuling"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ram.bang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tetap hati (tujuan); ragu-ragu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "seadanya saja; acak; umum: contoh-contoh itu diambil secara --"
+        }
+      ]
+    },
+    {
+      "lema": "ram.bang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "merambang"
+        }
+      ]
+    },
+    {
+      "lema": "ram.bang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ rembang1"
+        }
+      ]
+    },
+    {
+      "lema": "Ram.bang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa Muslim yang mendiami Kecamatan Pedamaran dan Kecamatan Mesuji, Kabupaten Ogan Komering Ilir, Provinsi Sumatra Selatan, bermata pencaharian sebagai petani di sawah dan di ladang; Rambang Senuling"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Rambang"
+        }
+      ]
+    }
+  ]
+}

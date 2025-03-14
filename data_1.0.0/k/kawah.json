@@ -1,0 +1,41 @@
+{
+  "istilah": "kawah",
+  "entri": "ka.wah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkawah"
+  ],
+  "gabunganKata": [
+    "kawah candradimuka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "air ketuban",
+    "kataAsal": "kawah-kawah"
+  },
+  "data": [
+    {
+      "lema": "ka.wah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuali besar; kancah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "bagian puncak gunung berapi berbentuk lekukan besar yang dilewati bahan letusan"
+        }
+      ]
+    },
+    {
+      "lema": "ka.wah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "ketuban"
+        }
+      ]
+    }
+  ]
+}

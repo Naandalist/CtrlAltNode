@@ -1,0 +1,37 @@
+{
+  "istilah": "menyigi",
+  "entri": "sigi1 » me.nyi.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sigi1 » me.nyi.gi",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyuluh dengan sigi; menerangi: ia sedang ~ ikan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menyelidiki dengan teliti: ~ perkara"
+        }
+      ]
+    },
+    {
+      "lema": "sigi2 » me.nyi.gi",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjolok (mencungkil, mengorek) lubang atau liang"
+        }
+      ]
+    }
+  ]
+}

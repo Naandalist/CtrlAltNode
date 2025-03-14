@@ -1,0 +1,36 @@
+{
+  "istilah": "siksa",
+  "entri": "sik.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ketersiksaan",
+    "menyiksa",
+    "menyiksai",
+    "penyiksa",
+    "penyiksaan",
+    "siksaan",
+    "tersiksa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "instruksi, pembelajaran, hukuman, nasihat, latihan, nasihat",
+    "kataAsal": "śikṣā"
+  },
+  "data": [
+    {
+      "lema": "sik.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penderitaan (kesengsaraan dan sebagainya) sebagai hukuman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hukuman dengan cara disengsarakan (disakiti): hukuman --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "som",
+  "entri": "som1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengesom"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "ginseng",
+    "kataAsal": "som"
+  },
+  "data": [
+    {
+      "lema": "som1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lipatan pada tepi kain dan sebagainya; kelim"
+        }
+      ]
+    },
+    {
+      "lema": "som2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan mata uang Kirgizstan"
+        }
+      ]
+    }
+  ]
+}

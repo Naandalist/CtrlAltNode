@@ -1,0 +1,58 @@
+{
+  "istilah": "senjata",
+  "entri": "sen.ja.ta /sênjata/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersenjata",
+    "bersenjatakan",
+    "kesenjataan",
+    "mempersenjatai",
+    "persenjataan"
+  ],
+  "gabunganKata": [
+    "senjata api",
+    "senjata api kecil",
+    "senjata berat",
+    "senjata biner",
+    "senjata biologi",
+    "senjata gelap",
+    "senjata inkonvensional",
+    "senjata kimia",
+    "senjata konvensional",
+    "senjata mematikan",
+    "senjata nuklir",
+    "senjata otomatis",
+    "senjata pemungkas",
+    "senjata pemusnah massal",
+    "senjata ringan",
+    "senjata roket",
+    "senjata tajam"
+  ],
+  "peribahasa": [
+    "senjata makan tuan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "siap, berjaga-jaga",
+    "kataAsal": "saṃyatta"
+  },
+  "data": [
+    {
+      "lema": "sen.ja.ta /sênjata/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang dipakai untuk berkelahi atau berperang (tentang keris, tombak, dan senapan): -- api; gudang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu (surat, kop surat, cap, memo, dan sebagainya) yang dipakai untuk memperoleh suatu maksud: ijazah palsu itu dijadikan -- untuk mencari rezeki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tanda bunyi pada tulisan Arab (seperti fatah, kasrah, damah, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

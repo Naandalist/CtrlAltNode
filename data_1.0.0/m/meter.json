@@ -1,0 +1,56 @@
+{
+  "istilah": "meter",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermeter-meter",
+    "meteran"
+  ],
+  "gabunganKata": [
+    "meter arus",
+    "meter dinamik",
+    "meter geopotensial",
+    "meter kecepatan",
+    "meter konduktivitas",
+    "meter kuadrat",
+    "meter kubik",
+    "meter lintasan",
+    "meter persegi",
+    "meter salinitas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "ibu pembaptis"
+        }
+      ]
+    },
+    {
+      "lema": "meter",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "ibu pembaptis"
+        }
+      ]
+    },
+    {
+      "lema": "me.ter /metêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan dasar ukuran panjang sama dengan 39,37 inci"
+        }
+      ]
+    }
+  ]
+}

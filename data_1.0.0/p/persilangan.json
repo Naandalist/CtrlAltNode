@@ -1,0 +1,37 @@
+{
+  "istilah": "persilangan",
+  "entri": "silang1 » per.si.lang.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "silang1 » per.si.lang.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal bersilang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertemuan atau persimpangan jalan dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "silang2 » per.si.lang.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "usaha yang menyebabkan terjadinya perkawinan dua individu yang berbeda galur, ras, atau jenisnya"
+        }
+      ]
+    }
+  ]
+}

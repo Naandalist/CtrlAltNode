@@ -1,0 +1,44 @@
+{
+  "istilah": "sedap",
+  "entri": "se.dap /sêdap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kesedapan",
+    "menyedapkan",
+    "penyedap",
+    "sedap-sedapan",
+    "sedapan",
+    "tersedap"
+  ],
+  "gabunganKata": [
+    "sedap hati",
+    "sedap malam"
+  ],
+  "peribahasa": [
+    "sedap dahulu, pahit kemudian"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kenikmatan, sedap (tentang bau atau rasa; tentang penampilan dan tatakrama)",
+    "kataAsal": "sěḍěp"
+  },
+  "data": [
+    {
+      "lema": "se.dap /sêdap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "enak (nyaman, senang) tentang perasaan pada umumnya: bersih,rapi, dan -- dipandang mata; lagunya tidak -- didengar; tidak -- hatinya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "harum: -- baunya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lezat: masakan yang dihidangkan -- sekali"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "kubah",
+  "entri": "ku.bah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkubah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bangunan melengkung yang berbentuk setengah bulatan",
+    "kataAsal": "qubbah"
+  },
+  "data": [
+    {
+      "lema": "ku.bah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lengkung (atap)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "atap yang melengkung merupakan setengah bulatan (kupel): -- masjid"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian sebelah atas pesawat terbang, truk atau tank, yang meninggi dan berbentuk setengah bulatan (tempat senapan mesin dan sebagainya): -- senapan mesin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "empok",
+  "entri": "em.pok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "empok-empok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "em.pok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "atap atau bangunan yang menempel pada pagar"
+        }
+      ]
+    },
+    {
+      "lema": "em.pok /êmpok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kakak perempuan: --nya yang baru menikah akan mengikuti suaminya ke Mekah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kata sapaan untuk orang perempuan yang lebih tua: --, bolehkah saya bertanya?"
+        }
+      ]
+    }
+  ]
+}

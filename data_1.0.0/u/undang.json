@@ -1,0 +1,55 @@
+{
+  "istilah": "undang",
+  "entri": "un.dang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengundang",
+    "pengundang",
+    "undangan",
+    "berundang",
+    "diundangkan",
+    "mengundangkan",
+    "pengundang-undang",
+    "perundang-undangan",
+    "undang-undang",
+    "undangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ada adat dan lembaganya, ada undang dan laksananya; tersesak undang kepada yang runcing, tiada dapat bertenggang lagi; undang-undang berbatu hitam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "un.dang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "panggil"
+        }
+      ]
+    },
+    {
+      "lema": "un.dang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berundang; diundangkan; mengundangkan; pengundang-undang; perundang-undangan; undang-undang; undangan"
+        }
+      ]
+    },
+    {
+      "lema": "un.dang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "penghulu (kepala suatu daerah di Negeri Sembilan)"
+        }
+      ]
+    }
+  ]
+}

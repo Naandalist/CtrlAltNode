@@ -1,0 +1,40 @@
+{
+  "istilah": "pelatuk",
+  "entri": "pe.la.tuk1 /pêlatuk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpelatuk",
+    "berpelatuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.la.tuk1 /pêlatuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "burung arboreal, berparuh panjang dan kuat untuk melubangi kayu, kaki dan bulu ekor yang kaku berfungsi untuk menopang ketika membuat lubang kayu, berhabitat di hutan, pemakan serangga; belatuk〔Picus spp.〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "bagian ujung kulit kacang tanah dan sebagainya yang berbentuk seperti paruh burung"
+        }
+      ]
+    },
+    {
+      "lema": "pe.la.tuk2 /pêlatuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian bedil yang digunakan untuk menggerakkan picu (dapat dijangkau dan digerakkan oleh jari telunjuk)"
+        }
+      ]
+    }
+  ]
+}

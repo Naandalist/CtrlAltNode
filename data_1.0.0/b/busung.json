@@ -1,0 +1,54 @@
+{
+  "istilah": "busung",
+  "entri": "bu.sung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membusung",
+    "membusungkan",
+    "terbusung"
+  ],
+  "gabunganKata": [
+    "busung air",
+    "busung darah",
+    "busung kencing",
+    "busung kulit",
+    "busung lapar",
+    "busung muka",
+    "busung pasir",
+    "busung perut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.sung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gembung atau menjadi besar berisi cairan (tentang perut)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gembung karena penuh berisi (tentang susu, dada, saku, dan sebagainya): ibu yang baru melahirkan itu buah dadanya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tanah yang membukit; timbunan pasir di muara dan sebagainya; gosong: di muara itu banyak -- pasir"
+        }
+      ]
+    },
+    {
+      "lema": "bu.sung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "janur"
+        }
+      ]
+    }
+  ]
+}

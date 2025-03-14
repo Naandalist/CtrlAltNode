@@ -1,0 +1,33 @@
+{
+  "istilah": "bonjor",
+  "entri": "bon.jor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bon.jor1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kubu"
+        }
+      ]
+    },
+    {
+      "lema": "bon.jor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "tabung bambu untuk tempat air"
+        }
+      ]
+    }
+  ]
+}

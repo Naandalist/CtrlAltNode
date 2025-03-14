@@ -1,0 +1,36 @@
+{
+  "istilah": "cekah",
+  "entri": "ce.kah1 /cêkah/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercekah",
+    "mencekah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "terpotong-potong dalam potongan-potongan kecil",
+    "kataAsal": "cěkah"
+  },
+  "data": [
+    {
+      "lema": "ce.kah1 /cêkah/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terbuka (terbelah) sedikit; rekah"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kah2 /cêkah/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bl[Bali: -]",
+          "deskripsi": "potong tebal-tebal"
+        }
+      ]
+    }
+  ]
+}

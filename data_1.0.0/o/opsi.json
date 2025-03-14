@@ -1,0 +1,36 @@
+{
+  "istilah": "opsi",
+  "entri": "op.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "op.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tindakan memilih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekuasaan atau hak memilih; kebebasan memilih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pilihan dari sejumlah alternatif"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "hak dalam dunia pasar modal yang didasarkan pada perjanjian untuk membeli atau menjual suatu komoditas, surat berharga keuangan, atau mata uang asing pada suatu tingkat harga yang telah disetujui di muka pada setiap waktu dalam masa tiga bulan kontrak"
+        }
+      ]
+    }
+  ]
+}

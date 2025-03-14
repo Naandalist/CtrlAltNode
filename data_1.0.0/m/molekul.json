@@ -1,0 +1,32 @@
+{
+  "istilah": "molekul",
+  "entri": "mo.le.kul /molêkul/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "molekul asimetris",
+    "molekul fag",
+    "molekul organik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.le.kul /molêkul/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bagian terkecil senyawa yang terbentuk dari kumpulan atom yang terikat secara kimia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bagian terkecil senyawa yang masih sanggup memperlihatkan sifat-sifat dari senyawa itu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "congkong",
+  "entri": "cong.kong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencongkong"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cong.kong1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencongkong"
+        }
+      ]
+    },
+    {
+      "lema": "cong.kong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "rumah jaga; gardu"
+        }
+      ]
+    },
+    {
+      "lema": "cong.kong3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tarahan kayu; tatal"
+        }
+      ]
+    }
+  ]
+}

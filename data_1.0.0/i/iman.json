@@ -1,0 +1,37 @@
+{
+  "istilah": "iman",
+  "entri": "i.man",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beriman",
+    "berimankan",
+    "keimanan",
+    "mengimani"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kepercayaan; keyakinan; kejujuran",
+    "kataAsal": "īmān"
+  },
+  "data": [
+    {
+      "lema": "i.man",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepercayaan (yang berkenaan dengan agama)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keyakinan dan kepercayaan kepada Allah, nabi, kitab, dan sebagainya: -- tidak akan bertentangan dengan ilmu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketetapan hati; keteguhan batin; keseimbangan batin"
+        }
+      ]
+    }
+  ]
+}

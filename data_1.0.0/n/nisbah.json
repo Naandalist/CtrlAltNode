@@ -1,0 +1,50 @@
+{
+  "istilah": "nisbah",
+  "entri": "nis.bah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menisbahkan"
+  ],
+  "gabunganKata": [
+    "nisbah aspek",
+    "nisbah campur",
+    "nisbah campur kelembapan",
+    "nisbah kegiatan",
+    "nisbah likuiditas",
+    "nisbah neraca",
+    "nisbah pajak",
+    "nisbah pengisian",
+    "nisbah pengupasan",
+    "nisbah rongga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pertalian; ukuran; perbandingan",
+    "kataAsal": "nisbah"
+  },
+  "data": [
+    {
+      "lema": "nis.bah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perhubungan keluarga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama yang menyatakan seketurunan"
+        }
+      ]
+    },
+    {
+      "lema": "nis.bah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbandingan antara aspek kegiatan yang dapat dinyatakan dengan angka, misalnya perbandingan antara laba dan penjualan; rasio"
+        }
+      ]
+    }
+  ]
+}

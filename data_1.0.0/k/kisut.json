@@ -1,0 +1,40 @@
+{
+  "istilah": "kisut",
+  "entri": "ki.sut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kerisut",
+    "mengisut",
+    "mengisutkan",
+    "terkisut",
+    "mengisut",
+    "pengisut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kisut, berkerenyut, berkeriput",
+    "kataAsal": "kisut"
+  },
+  "data": [
+    {
+      "lema": "ki.sut1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "(ber)kedut karena kering, tua dan sebagainya; lisut; keriput: rambutnya sudah memutih dan kulitnya telah --"
+        }
+      ]
+    },
+    {
+      "lema": "ki.sut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ayak"
+        }
+      ]
+    }
+  ]
+}

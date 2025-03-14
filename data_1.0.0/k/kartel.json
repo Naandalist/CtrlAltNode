@@ -1,0 +1,32 @@
+{
+  "istilah": "kartel",
+  "entri": "kar.tel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kar.tel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gabungan perusahaan sejenis yang bertujuan mengendalikan produksi, persaingan, dan harga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pol[Politik dan Pemerintahan: -]",
+          "deskripsi": "gabungan partai politik yang memiliki tujuan yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "persekutuan antara dua pihak atau lebih"
+        }
+      ]
+    }
+  ]
+}

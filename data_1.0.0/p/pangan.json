@@ -1,0 +1,52 @@
+{
+  "istilah": "pangan",
+  "entri": "pa.ngan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pangan alami",
+    "pangan asam",
+    "pangan awetan",
+    "pangan baru",
+    "pangan basa",
+    "pangan diabetik",
+    "pangan dietetik",
+    "pangan fungsional",
+    "pangan hidup",
+    "pangan impor",
+    "pangan layak",
+    "pangan lokal",
+    "pangan medis",
+    "pangan olahan",
+    "pangan tanpa gizi",
+    "pangan terancang",
+    "pangan tinggi gizi",
+    "pangan utuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "makanan",
+    "kataAsal": "paṅan"
+  },
+  "data": [
+    {
+      "lema": "pa.ngan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "hutan: orang --"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ngan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan: cukup sandang, --, dan papan merupakan harapan setiap orang"
+        }
+      ]
+    }
+  ]
+}

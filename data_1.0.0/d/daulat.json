@@ -1,0 +1,48 @@
+{
+  "istilah": "daulat",
+  "entri": "dau.lat1 bentuk tidak baku: dolat",
+  "bentukTidakBaku": "dolatdaulah",
+  "kataTurunan": [
+    "berdaulat",
+    "berdaulat",
+    "berkedaulatan",
+    "kedaulatan",
+    "mendaulat",
+    "pendaulat",
+    "pendaulatan"
+  ],
+  "gabunganKata": [
+    "daulat tuanku",
+    "kedaulatan digital"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penguasaan; perubahan dari kondisi payah ke jembar",
+    "kataAsal": "daulah"
+  },
+  "data": [
+    {
+      "lema": "dau.lat1 bentuk tidak baku: dolat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "berkat kebahagiaan (yang ada pada raja); bahagia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tulah: mati ditimpa -- segala raja-raja yang ada"
+        }
+      ]
+    },
+    {
+      "lema": "dau.lat2 bentuk tidak baku: daulah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekuasaan; pemerintahan: -- Islam zaman itu berhasil menggenggam kunci lalu lintas laut di timur dan barat"
+        }
+      ]
+    }
+  ]
+}

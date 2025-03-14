@@ -1,0 +1,31 @@
+{
+  "istilah": "koboi",
+  "entri": "ko.boi bentuk tidak baku: koboy",
+  "bentukTidakBaku": "koboy",
+  "kataTurunan": [
+    "kekoboi-koboian",
+    "koboi-koboian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.boi bentuk tidak baku: koboy",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggembala sapi yang menaiki kuda (di Amerika)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang yang bertindak seenaknya sendiri (melanggar aturan, menghakimi sendiri, suka berkelahi, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

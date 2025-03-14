@@ -1,0 +1,36 @@
+{
+  "istilah": "menaksir",
+  "entri": "taksir1 » me.nak.sir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "taksir1 » me.nak.sir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menentukan sesuatu (harga, banyaknya, jumlah, dan sebagainya) dengan kira-kira: ia ~ harga sepeda motor ini Rp4.000.000,00"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengira; menyangka dengan menilik keadaan: banyak orang ~ petinju kita ini dapat mengalahkan petinju Rusia"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ada keinginan hendak (perasaan tertarik hati): menilik gerak-geriknya ia ~ gadis itu juga"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ingin memiliki (membeli dan sebagainya); menghendaki: sebetulnya saya ~ sepeda itu"
+        }
+      ]
+    }
+  ]
+}

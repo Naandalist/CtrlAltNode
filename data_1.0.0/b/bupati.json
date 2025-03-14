@@ -1,0 +1,28 @@
+{
+  "istilah": "bupati",
+  "entri": "bu.pa.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "raja, pangeran",
+    "kataAsal": "bhūpati"
+  },
+  "data": [
+    {
+      "lema": "bu.pa.ti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(jabatan, sebutan) kepala daerah kabupaten (daerah tingkat II)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(jabatan, sebutan) pegawai istana yang tertinggi (di Yogyakarta dan Surakarta)"
+        }
+      ]
+    }
+  ]
+}

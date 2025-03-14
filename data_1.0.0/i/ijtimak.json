@@ -1,0 +1,32 @@
+{
+  "istilah": "ijtimak",
+  "entri": "ij.ti.mak bentuk tidak baku: ijtima",
+  "bentukTidakBaku": "ijtima",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perkumpulan",
+    "kataAsal": "ijtimā‘"
+  },
+  "data": [
+    {
+      "lema": "ij.ti.mak bentuk tidak baku: ijtima",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saat berakhirnya bulan lalu dan munculnya bulan baru dalam penanggalan Hijriah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal bertemunya posisi bulan dan matahari dalam satu garis edar: -- akhir Ramadan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rapat atau pertemuan: hasil -- ulama"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "istilah": "dal",
+  "entri": "dal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "huruf ke-8 abjad Arab",
+    "kataAsal": "dāl"
+  },
+  "data": [
+    {
+      "lema": "dal1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kacang1"
+        }
+      ]
+    },
+    {
+      "lema": "dal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-8 sistem hijaiah"
+        }
+      ]
+    },
+    {
+      "lema": "dal4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "dekaliter"
+        }
+      ]
+    },
+    {
+      "lema": "Dal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama tahun ke-5 dalam satu windu berdasarkan perhitungan Jawa"
+        }
+      ]
+    }
+  ]
+}

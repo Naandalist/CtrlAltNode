@@ -1,0 +1,28 @@
+{
+  "istilah": "mullah",
+  "entri": "mul.lah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mul.lah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Par[Parsi: -]",
+          "deskripsi": "tokoh agama; ulama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Par[Parsi: -]",
+          "deskripsi": "sarjana; cendekiawan"
+        }
+      ]
+    }
+  ]
+}

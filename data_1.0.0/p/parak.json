@@ -1,0 +1,71 @@
+{
+  "istilah": "parak",
+  "entri": "pa.rak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berparak",
+    "memarakkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "dekatnya, kedekatan; menjelang mendekat, hampir, menghadap",
+    "kataAsal": "parěk"
+  },
+  "data": [
+    {
+      "lema": "pa.rak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perpisahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "beda: kelakuanmu tidak berapa --nya dengan kelakuan ayahmu"
+        }
+      ]
+    },
+    {
+      "lema": "pa.rak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "kebun; ladang"
+        }
+      ]
+    },
+    {
+      "lema": "pa.rak3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hampir; dekat: -- siang pagi hampir terang"
+        }
+      ]
+    },
+    {
+      "lema": "pa.rak4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "antara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sela-sela antara tempat duduk perempuan dan laki-laki"
+        }
+      ]
+    },
+    {
+      "lema": "pa.rak5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "hukuman adat berupa pengasingan diri"
+        }
+      ]
+    }
+  ]
+}

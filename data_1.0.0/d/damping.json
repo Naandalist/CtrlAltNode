@@ -1,0 +1,52 @@
+{
+  "istilah": "damping",
+  "entri": "dam.ping1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdamping",
+    "berdampingan",
+    "berpendamping",
+    "dampingan",
+    "kedampingan",
+    "mendampingi",
+    "mendampingkan",
+    "pendamping",
+    "pendampingan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dam.ping1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dekat; karib; rapat (tentang persaudaraan dan sebagainya): jauh di mata -- di hati"
+        }
+      ]
+    },
+    {
+      "lema": "dam.ping2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ dampeng"
+        }
+      ]
+    },
+    {
+      "lema": "dam.ping3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ dumping"
+        }
+      ]
+    }
+  ]
+}

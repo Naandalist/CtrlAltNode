@@ -1,0 +1,31 @@
+{
+  "istilah": "spermatosit",
+  "entri": "sper.ma.to.sit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "spermatosit primer",
+    "spermatosit sekunder"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sper.ma.to.sit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "sel yang berubah menjadi spermatozoid tanpa mengalami pembelahan sel lebih dahulu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "sel yang mengalami meiosis kemudian membentuk sel sperma"
+        }
+      ]
+    }
+  ]
+}

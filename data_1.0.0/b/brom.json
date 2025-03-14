@@ -1,0 +1,33 @@
+{
+  "istilah": "brom",
+  "entri": "brom1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "brom1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "bromin"
+        }
+      ]
+    },
+    {
+      "lema": "brom2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Us[Using: -]",
+          "deskripsi": "bagian alat lampu minyak tanah yang dibuat dari logam dan diletakkan di tengah lingkaran sumbu"
+        }
+      ]
+    }
+  ]
+}

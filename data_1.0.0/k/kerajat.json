@@ -1,0 +1,33 @@
+{
+  "istilah": "kerajat",
+  "entri": "ke.ra.jat1 /kêrajat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pajak; upeti",
+    "kataAsal": "kharāj"
+  },
+  "data": [
+    {
+      "lema": "ke.ra.jat1 /kêrajat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "anak rambut yang tumbuh di dahi"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ra.jat2 /kêrajat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pajak; bea: hamba ini dititahkan oleh raja mengambil cukai -- di tengah laut ini"
+        }
+      ]
+    }
+  ]
+}

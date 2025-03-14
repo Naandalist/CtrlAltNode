@@ -1,0 +1,45 @@
+{
+  "istilah": "totok",
+  "entri": "to.tok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menotok"
+  ],
+  "gabunganKata": [
+    "totok wajah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.tok1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "asli; sejati (bukan peranakan): Belanda --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "masih baru (belum berpengalaman): dalam hal ini aku sangat --, belum pernah sekali juga berlayar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kaku (belum biasa, belum lancar): dia dapat juga berbahasa Jawa, hanya -- sekali"
+        }
+      ]
+    },
+    {
+      "lema": "to.tok2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menotok"
+        }
+      ]
+    }
+  ]
+}

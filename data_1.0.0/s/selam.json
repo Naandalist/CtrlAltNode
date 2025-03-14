@@ -1,0 +1,52 @@
+{
+  "istilah": "selam",
+  "entri": "se.lam1 /sêlam/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berselam",
+    "menyelam",
+    "menyelami",
+    "menyelamkan",
+    "penyelam",
+    "penyelaman",
+    "peselam",
+    "terselam",
+    "terselami",
+    "menyelamkan"
+  ],
+  "gabunganKata": [
+    "selam dangkal",
+    "selam permukaan",
+    "selam skuba"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ketundukan; kepatuhan",
+    "kataAsal": "islām"
+  },
+  "data": [
+    {
+      "lema": "se.lam1 /sêlam/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(perihal) masuk ke dalam air: juru --; kapal --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "cabang olahraga renang yang masuk ke dalam air sampai ke kedalaman yang jauh dari permukaan air"
+        }
+      ]
+    },
+    {
+      "lema": "Se.lam2 /sêlam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "Islam: orang --"
+        }
+      ]
+    }
+  ]
+}

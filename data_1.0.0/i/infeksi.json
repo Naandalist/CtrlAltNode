@@ -1,0 +1,48 @@
+{
+  "istilah": "infeksi",
+  "entri": "in.fek.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menginfeksi",
+    "penginfeksi",
+    "terinfeksi"
+  ],
+  "gabunganKata": [
+    "infeksi eksogen",
+    "infeksi endogen",
+    "infeksi nasokomial",
+    "infeksi nifas",
+    "infeksi nosokomial",
+    "infeksi oportunistik",
+    "infeksi pusar",
+    "infeksi saluran kemih",
+    "infeksi sosokomial",
+    "infeksi telinga bagian tengah",
+    "infeksi utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.fek.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "terkena hama; kemasukan bibit penyakit; ketularan penyakit; peradangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pengembangan penyakit (parasit) dalam tumbuhan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "keadaan terkena hama atau bakteri ke dalam tubuh"
+        }
+      ]
+    }
+  ]
+}

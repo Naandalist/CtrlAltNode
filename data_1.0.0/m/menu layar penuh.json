@@ -1,0 +1,24 @@
+{
+  "istilah": "menu layar penuh",
+  "entri": "menu » menu layar penuh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "menu » menu layar penuh",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "kemampuan pemrograman yang memungkinkan menu ditampilkan dalam setiap baris, kolom, atau piksel lokasi pada layar secara penuh"
+        }
+      ]
+    }
+  ]
+}

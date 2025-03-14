@@ -1,0 +1,37 @@
+{
+  "istilah": "kepet",
+  "entri": "ke.pet1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.pet1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisa tahi yang menempel pada anus"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "belum (tidak) cebok setelah buang air besar"
+        }
+      ]
+    },
+    {
+      "lema": "ke.pet2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "sirip"
+        }
+      ]
+    }
+  ]
+}

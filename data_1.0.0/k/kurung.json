@@ -1,0 +1,45 @@
+{
+  "istilah": "kurung",
+  "entri": "ku.rung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkurung",
+    "keterkurungan",
+    "kurungan",
+    "mengurung",
+    "pengurungan",
+    "terkurung"
+  ],
+  "gabunganKata": [
+    "kurung batang",
+    "kurung besar",
+    "kurung kurawal",
+    "kurung seluruh",
+    "kurung siku"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kurungan",
+    "kataAsal": "kuruṅ"
+  },
+  "data": [
+    {
+      "lema": "ku.rung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda baca (...) yang mengapit tambahan keterangan atau penjelasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda untuk mengumpulkan beberapa unsur menjadi satu kelompok"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkung; lingkar"
+        }
+      ]
+    }
+  ]
+}

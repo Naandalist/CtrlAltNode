@@ -1,0 +1,76 @@
+{
+  "istilah": "padan",
+  "entri": "pa.dan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpadanan",
+    "bersepadan",
+    "kesepadanan",
+    "memadan",
+    "memadan-madan",
+    "memadankan",
+    "mempadankan",
+    "menyepadan",
+    "menyepadankan",
+    "padanan",
+    "pemadan",
+    "pemadanan",
+    "sepadan",
+    "berpadan"
+  ],
+  "gabunganKata": [
+    "padan kata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menyamai, menandingi; menjadi sama seperti",
+    "kataAsal": "padan"
+  },
+  "data": [
+    {
+      "lema": "pa.dan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "banding; imbangan: ia menang dengan mudah atas lawan yang bukan --nya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cocok; sesuai; patut benar: ia bertubuh kekar dan atletis, --lah menjadi seorang petinju"
+        }
+      ]
+    },
+    {
+      "lema": "pa.dan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sempadan; batas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis (titik dan sebagainya) yang menjadi batas atau tempat melemparkan batu (kelereng dan sebagainya) pada permainan lempar-lemparan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.dan3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "janji: mengecoh -- tidak menepati janji"
+        }
+      ]
+    },
+    {
+      "lema": "pa.dan4",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "curang (terutama dalam permainan)"
+        }
+      ]
+    }
+  ]
+}

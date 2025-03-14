@@ -1,0 +1,47 @@
+{
+  "istilah": "dekap",
+  "entri": "de.kap1 /dêkap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdekap",
+    "berdekap-dekapan",
+    "berdekapan",
+    "dekapan",
+    "mendekap",
+    "mendekapkan",
+    "pendekap",
+    "pendekapan",
+    "sedekapan",
+    "sependekap",
+    "memperdekap",
+    "mendekap",
+    "mendekapkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.kap1 /dêkap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "peluk; lekap"
+        }
+      ]
+    },
+    {
+      "lema": "de.kap2 /dêkap/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "dekat"
+        }
+      ]
+    }
+  ]
+}

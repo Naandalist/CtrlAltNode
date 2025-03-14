@@ -1,0 +1,37 @@
+{
+  "istilah": "pasal",
+  "entri": "pa.sal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pasalnya"
+  ],
+  "gabunganKata": [
+    "pasal berlapis",
+    "pasal karet"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemisah antara dua hal",
+    "kataAsal": "faṣl"
+  },
+  "data": [
+    {
+      "lema": "pa.sal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari bab; artikel (dalam undang-undang): bahasa negara adalah bahasa Indonesia tercantum dalam salah satu -- UUD 1945"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal; perkara; pokok pembicaraan (perselisihan dan sebagainya): -- begitu saja kaumasukkan ke dalam hati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebab; lantaran: rupanya itulah --nya mengapa dia merajuk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "disel",
+  "entri": "sel2 » di.sel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sel2 » di.sel",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "dimasukkan (ditahan) dalam sel"
+        }
+      ]
+    },
+    {
+      "lema": "di.sel /disêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "diesel"
+        }
+      ]
+    }
+  ]
+}

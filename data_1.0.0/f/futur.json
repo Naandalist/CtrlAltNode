@@ -1,0 +1,42 @@
+{
+  "istilah": "futur",
+  "entri": "fu.tur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sarapan",
+    "kataAsal": "fuṭūr"
+  },
+  "data": [
+    {
+      "lema": "fu.tur1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ar[Arab: -]",
+          "deskripsi": "makan pagi"
+        }
+      ]
+    },
+    {
+      "lema": "fu.tur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kala nanti; masa depan"
+        }
+      ]
+    },
+    {
+      "lema": "fu.tur3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tas[Tasawuf: -]",
+          "deskripsi": "kondisi malas atau mengendurnya semangat untuk beribadah dan menjalankan ajaran agama: masa-masa -- perlu diwaspadai"
+        }
+      ]
+    }
+  ]
+}

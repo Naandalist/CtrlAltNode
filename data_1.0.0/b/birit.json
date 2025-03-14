@@ -1,0 +1,37 @@
+{
+  "istilah": "birit",
+  "entri": "bi.rit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terbirit",
+    "terbirit-birit",
+    "terbirit-birit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.rit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pantat"
+        }
+      ]
+    },
+    {
+      "lema": "bi.rit2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terbirit-birit"
+        }
+      ]
+    }
+  ]
+}

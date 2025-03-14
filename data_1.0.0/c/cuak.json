@@ -1,0 +1,42 @@
+{
+  "istilah": "cuak",
+  "entri": "cu.ak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "takut; gentar",
+    "kataAsal": "chhoah"
+  },
+  "data": [
+    {
+      "lema": "cu.ak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "binatang (seperti kerbau, gajah) yang digunakan untuk memikat"
+        }
+      ]
+    },
+    {
+      "lema": "cu.ak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "takut; gentar"
+        }
+      ]
+    },
+    {
+      "lema": "cu.ak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata-mata dalam perang"
+        }
+      ]
+    }
+  ]
+}

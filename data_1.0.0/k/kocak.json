@@ -1,0 +1,57 @@
+{
+  "istilah": "kocak",
+  "entri": "ko.cak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkocak",
+    "mengocak",
+    "mengocakkan",
+    "terkocak",
+    "berkocak-kocak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ko.cak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerak bolak-balik (kanan-kiri) yang cepat (tentang benda cair); guncang"
+        }
+      ]
+    },
+    {
+      "lema": "ko.cak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lucu; jenaka: dia sangat --"
+        }
+      ]
+    },
+    {
+      "lema": "ko.cak3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gagah; bagus sekali; serba baik: berjalan dengan --nya"
+        }
+      ]
+    },
+    {
+      "lema": "ko.cak4",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sombong; congkak: mentang-mentang kaya, makin menjadi-jadi --nya"
+        }
+      ]
+    }
+  ]
+}

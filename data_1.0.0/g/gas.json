@@ -1,0 +1,78 @@
+{
+  "istilah": "gas",
+  "entri": "gas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergas",
+    "mengegas"
+  ],
+  "gabunganKata": [
+    "gas air",
+    "gas air mata",
+    "gas alam",
+    "gas alam cair",
+    "gas alam sintetik",
+    "gas basah",
+    "gas batu bara",
+    "gas bersin",
+    "gas buang",
+    "gas bumi",
+    "gas gelap",
+    "gas ikutan",
+    "gas karbit",
+    "gas karbon",
+    "gas kecut",
+    "gas kilang",
+    "gas lamban",
+    "gas lembam",
+    "gas lembap",
+    "gas minyak cair",
+    "gas mulia",
+    "gas pemati lemas",
+    "gas pencerna",
+    "gas pencerna anaerob",
+    "gas penyesak napas",
+    "gas portabel",
+    "gas racun",
+    "gas rawa",
+    "gas rumah kaca",
+    "gas saraf",
+    "gas sintesis",
+    "gas tanur",
+    "gas toksik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat ringan yang sifatnya seperti udara (dalam suhu biasa tidak menjadi cair)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uap dari bensin (bensol dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "tingkat wujud zat yang molekul-molekulnya bergerak bebas sehingga seluruh massa cenderung mengembang dan menempati seluruh volume wadahnya"
+        }
+      ]
+    },
+    {
+      "lema": "GAS",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "reaksi jangka pendek dan panjang tubuh terhadap stres; general adaptation syndrome"
+        }
+      ]
+    }
+  ]
+}

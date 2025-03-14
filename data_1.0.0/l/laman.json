@@ -1,0 +1,24 @@
+{
+  "istilah": "laman",
+  "entri": "la.man",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.man",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "halaman utama dari suatu situs web yang diakses oleh pengguna pada awal masuk ke situs tersebut"
+        }
+      ]
+    }
+  ]
+}

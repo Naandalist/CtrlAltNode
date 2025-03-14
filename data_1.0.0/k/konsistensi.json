@@ -1,0 +1,44 @@
+{
+  "istilah": "konsistensi",
+  "entri": "kon.sis.ten.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengonsistensi"
+  ],
+  "gabunganKata": [
+    "konsistensi kontekstual"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kon.sis.ten.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketetapan dan kemantapan (dalam bertindak); ketaatasasan: kebijakan pemerintah mencerminkan suatu -- dalam menghadapi pembangunan yang sedang kita laksanakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekentalan: -- agar-agar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepadatan, kepejalan, atau ketetalan jaringan yang menyusun bagian tubuh buah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "ketahanan suatu material terhadap perubahan bentuk atau perpecahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "derajat kohesi atau adhesi massa tanah"
+        }
+      ]
+    }
+  ]
+}

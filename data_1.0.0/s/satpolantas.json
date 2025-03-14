@@ -1,0 +1,24 @@
+{
+  "istilah": "satpolantas",
+  "entri": "sat.po.lan.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sat.po.lan.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "kesatuan polisi lalu lintas"
+        }
+      ]
+    }
+  ]
+}

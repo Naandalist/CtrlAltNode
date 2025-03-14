@@ -1,0 +1,42 @@
+{
+  "istilah": "nik",
+  "entri": "nik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "nik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada gadis kecil"
+        }
+      ]
+    },
+    {
+      "lema": "NIK1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "nomor induk kependudukan: setiap peserta diwajibkan mencantumkan -- untuk menghindari adanya pemalsuan identitas"
+        }
+      ]
+    },
+    {
+      "lema": "NIK2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "nomor identitas kepabeanan: untuk mengakses atau berhubungan dengan sistem kepabeanan, perusahaan harus memiliki --"
+        }
+      ]
+    }
+  ]
+}

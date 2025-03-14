@@ -1,0 +1,38 @@
+{
+  "istilah": "narasi",
+  "entri": "na.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menarasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "na.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kisah; cerita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "cerita atau deskripsi suatu kejadian atau peristiwa; kisahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "tema suatu karya seni: -- menyajikan sebuah kejadian yang disusun berdasarkan urutan waktu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "teks yang menceritakan peristiwa atau kejadian secara detail dan kronologis, dapat berupa fiksi maupun nonfiksi, bertujuan untuk menghibur atau  memberikan wawasan kepada pembacanya, biasanya ditulis dalam bentuk novel, cerita pendek, biografi dan lain-lain"
+        }
+      ]
+    }
+  ]
+}

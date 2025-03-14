@@ -1,0 +1,37 @@
+{
+  "istilah": "corot",
+  "entri": "co.rot1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencorotkan"
+  ],
+  "gabunganKata": [
+    "corot pelita"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.rot1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerat (pada cerek dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "co.rot2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terakhir"
+        }
+      ]
+    }
+  ]
+}

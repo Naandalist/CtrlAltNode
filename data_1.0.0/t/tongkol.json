@@ -1,0 +1,47 @@
+{
+  "istilah": "tongkol",
+  "entri": "tong.kol1 bentuk tidak baku: tongkong, tungkul2",
+  "bentukTidakBaku": "tongkong, tungkul2",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tongkol jagung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tong.kol1 bentuk tidak baku: tongkong, tungkul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keratan (potongan) kayu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku (bonggol) pada kayu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkol jagung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "perhubungan memanjang tak terbatas dan tak bercabang dengan bunga-bunga melekat atau tertanam pada rakis yang mendaging"
+        }
+      ]
+    },
+    {
+      "lema": "tong.kol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut dan payau, jenis cakalang, ukurannya mencapai panjang 122 cm, berat 16,5 kg, umur 10 tahun, hidup di terumbu karang perairan tropis"
+        }
+      ]
+    }
+  ]
+}

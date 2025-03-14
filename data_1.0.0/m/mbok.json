@@ -1,0 +1,43 @@
+{
+  "istilah": "mbok",
+  "entri": "mbok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mbok ajeng"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mbok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kata sapaan (ragam kromo ngoko) untuk perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kata sapaan terhadap orang tua perempuan; ibu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kata sapaan terhadap wanita tua yang kedudukan sosialnya lebih rendah daripada yang menyebutnya"
+        }
+      ]
+    },
+    {
+      "lema": "mbok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "kata sapaan untuk perempuan yang lebih tua di Bali"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "sabut",
+  "entri": "sa.but1 bentuk tidak baku: sambuk1",
+  "bentukTidakBaku": "sambuk1",
+  "kataTurunan": [
+    "serabut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "untung sabut timbul, untung batu tenggelam; untung sabut timbul, untung batu tenggelam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.but1 bentuk tidak baku: sambuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit yang berserat pada buah kelapa, pinang, dan sebagainya: -- kelapa dapat dibuat tali atau keset"
+        }
+      ]
+    },
+    {
+      "lema": "sa.but2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon besar, tingginya mencapai 20 m, kayunya dapat digunakan untuk bahan bangunan〔Nauclea purpurascens〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu sabut"
+        }
+      ]
+    }
+  ]
+}

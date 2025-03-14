@@ -1,0 +1,34 @@
+{
+  "istilah": "hewan",
+  "entri": "he.wan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhewan",
+    "kehewanan",
+    "menghewankan",
+    "perhewanan"
+  ],
+  "gabunganKata": [
+    "hewan lumut",
+    "hewan mentari",
+    "hewan piaraan",
+    "hewan potong"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "makhluk hidup; kehidupan",
+    "kataAsal": "ḥayawān"
+  },
+  "data": [
+    {
+      "lema": "he.wan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang"
+        }
+      ]
+    }
+  ]
+}

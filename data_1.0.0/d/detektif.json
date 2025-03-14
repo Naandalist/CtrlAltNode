@@ -1,0 +1,28 @@
+{
+  "istilah": "detektif",
+  "entri": "de.tek.tif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.tek.tif",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat deteksi: kontrol -- sebaiknya dilakukan untuk menunjukkan masalah pada waktunya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "polisi rahasia; reserse"
+        }
+      ]
+    }
+  ]
+}

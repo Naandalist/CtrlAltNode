@@ -1,0 +1,44 @@
+{
+  "istilah": "sawo",
+  "entri": "sa.wo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sawo apel",
+    "sawo beludru",
+    "sawo duren",
+    "sawo kecik",
+    "sawo manila",
+    "sawo matang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sa.wo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon, tinggi mencapai 20 m, bercabang rendah, kayunya berat awet, teras kayunya berwarna merah kecokelat-cokelatan, sangat bagus dibuat perabot rumah yang bernilai tinggi, patung, dan tongkat, buahnya berwarna cokelat, berbentuk bulat telur, dan manis rasanya〔Manilkara kauki〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu sawo"
+        }
+      ]
+    },
+    {
+      "lema": "sa.wo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "ular sawa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "istilah": "kasa",
+  "entri": "ka.sa1 bentuk tidak baku: kasah1",
+  "bentukTidakBaku": "kasah1",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.sa1 bentuk tidak baku: kasah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain putih yang halus; kain putih yang tenunannya jarang: dipilihnya -- untuk tirai itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kawat halus yang dianyam (biasanya untuk penghalang nyamuk dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ka.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "loket tempat membayar dan menerima uang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotak atau peti mesin yang mencatat dan menerima uang"
+        }
+      ]
+    },
+    {
+      "lema": "ka.sa3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "angkasa"
+        }
+      ]
+    }
+  ]
+}

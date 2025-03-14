@@ -1,0 +1,41 @@
+{
+  "istilah": "memulung",
+  "entri": "pulung1 » me.mu.lung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pulung1 » me.mu.lung",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membuat menjadi berbutir-butir (bulat kecil); menggentel (obat dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melinting (rokok dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "pulung2 » me.mu.lung",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengumpulkan barang bekas (limbah) yang terbuang (sampah) untuk dimanfaatkan sebagai bahan produksi dan sebagainya"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memungut sesuatu yang berserakan"
+        }
+      ]
+    }
+  ]
+}

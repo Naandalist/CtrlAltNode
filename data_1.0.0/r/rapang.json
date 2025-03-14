@@ -1,0 +1,37 @@
+{
+  "istilah": "rapang",
+  "entri": "ra.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.pang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut〔Mugil bleekeri〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belanak"
+        }
+      ]
+    },
+    {
+      "lema": "ra.pang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mks[Makassar: -]",
+          "deskripsi": "pepatah"
+        }
+      ]
+    }
+  ]
+}

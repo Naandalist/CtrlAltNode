@@ -1,0 +1,35 @@
+{
+  "istilah": "gigis",
+  "entri": "gi.gis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggigis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gi.gis1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggigil"
+        }
+      ]
+    },
+    {
+      "lema": "gi.gis2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cuil-cuil pada pinggirnya (tentang gigi anak kecil yang kupak)"
+        }
+      ]
+    }
+  ]
+}

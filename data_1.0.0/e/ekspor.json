@@ -1,0 +1,34 @@
+{
+  "istilah": "ekspor",
+  "entri": "eks.por bentuk tidak baku: eksport, expor",
+  "bentukTidakBaku": "eksport, expor",
+  "kataTurunan": [
+    "mengekspor",
+    "pengekspor",
+    "pengeksporan"
+  ],
+  "gabunganKata": [
+    "ekspor gelap"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.por bentuk tidak baku: eksport, expor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengiriman barang dagangan ke luar negeri: barang-barang -- barang-barang yang dikirimkan ke luar negeri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tindakan memindahkan informasi dari satu sistem atau program ke dalam sistem atau program lainnya"
+        }
+      ]
+    }
+  ]
+}

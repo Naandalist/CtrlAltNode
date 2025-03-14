@@ -1,0 +1,33 @@
+{
+  "istilah": "duk",
+  "entri": "duk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "duk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain pembalut waktu haid"
+        }
+      ]
+    },
+    {
+      "lema": "DUK",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "daftar usulan kegiatan"
+        }
+      ]
+    }
+  ]
+}

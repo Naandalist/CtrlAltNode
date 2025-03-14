@@ -1,0 +1,30 @@
+{
+  "istilah": "cincau",
+  "entri": "cin.cau bentuk tidak baku: cingcau",
+  "bentukTidakBaku": "cingcau",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "cincau hitam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "minuman pendingin tubuh terbuat dari daun cincau",
+    "kataAsal": "chhin chháu"
+  },
+  "data": [
+    {
+      "lema": "cin.cau bentuk tidak baku: cingcau",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "liana yang batangnya kecil, daunnya menjantung, perbungaannya berbentuk tandan berwarna putih, perbuahannya bulat berwarna hijau, tumbuh di bioma tropis basah, tersebar dari Himalaya Timur sampai Cina dan Nusa Tenggara, daunnya dapat dimanfaatkan untuk jeli isi minuman dan pengobatan hipertensi; camcau〔Cyclea barbata〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman dingin yang di antara isinya ada semacam agar-agar dibuat dari daun cincau"
+        }
+      ]
+    }
+  ]
+}

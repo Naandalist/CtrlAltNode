@@ -1,0 +1,33 @@
+{
+  "istilah": "jambal",
+  "entri": "jam.bal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jam.bal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "patin jambal"
+        }
+      ]
+    },
+    {
+      "lema": "jam.bal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pohon yang biasa digunakan untuk pewarna alami sebagai bahan utama campuran warna soga〔Pelthoporum pterocarpum〕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "mengebut",
+  "entri": "kebut1 » me.nge.but",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kebut1 » me.nge.but",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menghilangkan debu (nyamuk dan sebagainya) dengan memakai bulu ayam, sapu, dan sebagainya: setiap pagi pembantu kami ~ kursi"
+        }
+      ]
+    },
+    {
+      "lema": "kebut2 » me.nge.but",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjalankan kendaraan dengan kecepatan tinggi: sebelum diadakan penertiban, banyak bus kota yang ~ di jalan dan saling menyusul"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengerjakan sesuatu dengan cepat"
+        }
+      ]
+    }
+  ]
+}

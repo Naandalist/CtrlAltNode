@@ -1,0 +1,33 @@
+{
+  "istilah": "dengkur",
+  "entri": "deng.kur /dêngkur/bentuk tidak baku: dengkut",
+  "bentukTidakBaku": "dengkut",
+  "kataTurunan": [
+    "berdengkur",
+    "dengkuran",
+    "mendengkur",
+    "pendengkur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "deng.kur /dêngkur/bentuk tidak baku: dengkut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi napas yang kuat dari orang tidur; keruh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "napas yang berbunyi keras pada waktu tidur atau pada waktu kesadaran menurun; keruh"
+        }
+      ]
+    }
+  ]
+}

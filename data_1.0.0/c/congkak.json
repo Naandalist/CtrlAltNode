@@ -1,0 +1,42 @@
+{
+  "istilah": "congkak",
+  "entri": "cong.kak1 bentuk tidak baku: bongkak",
+  "bentukTidakBaku": "bongkak",
+  "kataTurunan": [
+    "kecongkakan",
+    "secongkak"
+  ],
+  "gabunganKata": [
+    "congkak bongak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sombong, percaya pada diri sendiri",
+    "kataAsal": "caṅkak"
+  },
+  "data": [
+    {
+      "lema": "cong.kak1 bentuk tidak baku: bongkak",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "merasa dan bertindak dengan memperlihatkan diri sangat mulia (pandai, kaya, dan sebagainya); sombong: kelakuannya yang -- itu menjauhkan orang darinya"
+        }
+      ]
+    },
+    {
+      "lema": "cong.kak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit lokan yang dipakai dalam permainan, ada bermacam-macam seperti -- baiduri, -- putih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan dengan kulit lokan (biji-bijian dan sebagainya) dan kayu yang bentuknya seperti perahu yang berlubang-lubang (di Jawa disebut dakon): main --"
+        }
+      ]
+    }
+  ]
+}

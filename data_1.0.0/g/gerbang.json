@@ -1,0 +1,53 @@
+{
+  "istilah": "gerbang",
+  "entri": "ger.bang1 /gêrbang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggerbang",
+    "menggerbangkan",
+    "tegerbang-gerbang"
+  ],
+  "gabunganKata": [
+    "gerbang gersul",
+    "gerbang keluar",
+    "gerbang wisata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ger.bang1 /gêrbang/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menggerbang; menggerbangkan; tegerbang-gerbang"
+        }
+      ]
+    },
+    {
+      "lema": "ger.bang2 /gêrbang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pintu masuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "peranti yang menghubungkan jaringan-jaringan yang menggunakan protokol komunikasi yang berbeda sehingga informasi dapat disampaikan dari satu jaringan ke jaringan lainnya"
+        },
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "perute pada jaringan komputer yang memungkinkan terjadinya perpindahan data"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "rangkaian elektronis yang memiliki satu keluaran dan satu atau lebih masukan serta dirancang agar keluaran hanya bekerja ketika terdapat kombinasi pulsa tertentu pada masukan"
+        }
+      ]
+    }
+  ]
+}

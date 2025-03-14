@@ -1,0 +1,33 @@
+{
+  "istilah": "sandek",
+  "entri": "san.dek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "san.dek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mr[Mandar: -]",
+          "deskripsi": "perahu khas Mandar lambungnya agak ramping sehingga gerakannya cepat dan lincah, di bagian kanan dan kirinya terdapat cadik yang panjang hulu dan buritannya mencuat ke atas untuk mencari ikan"
+        }
+      ]
+    },
+    {
+      "lema": "san.dek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "pesan pendek"
+        }
+      ]
+    }
+  ]
+}

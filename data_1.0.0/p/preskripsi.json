@@ -1,0 +1,28 @@
+{
+  "istilah": "preskripsi",
+  "entri": "pres.krip.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pres.krip.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "apa yang diharuskan; ketentuan (petunjuk) peraturan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "petunjuk tentang penggunaan obat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "sinabar",
+  "entri": "si.na.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.na.bar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "mineral berwarna cokelat kemerahan yang terdiri atas sulfida merkuri yang digunakan sebagai sumber air raksa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "sulfida merkuri yang digunakan sebagai pigmen merah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "warna merah terang"
+        }
+      ]
+    }
+  ]
+}

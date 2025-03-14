@@ -1,0 +1,45 @@
+{
+  "istilah": "tele",
+  "entri": "te.le1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertele-tele",
+    "bertele-tele"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.le1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertele-tele"
+        }
+      ]
+    },
+    {
+      "lema": "te.le2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bertele-tele"
+        }
+      ]
+    },
+    {
+      "lema": "te.le3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain kelambu (tule)"
+        }
+      ]
+    }
+  ]
+}

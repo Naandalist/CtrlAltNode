@@ -1,0 +1,45 @@
+{
+  "istilah": "tembak",
+  "entri": "tem.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertembakan",
+    "menembak",
+    "menembaki",
+    "menembakkan",
+    "penembak",
+    "penembakan",
+    "petembak",
+    "tembak-menembak",
+    "tembakan",
+    "tertembak",
+    "menembak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tem.bak1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menembak"
+        }
+      ]
+    },
+    {
+      "lema": "tem.bak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tuju; arah; maksud: tidak berketentuan -- katanya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "dampak",
+  "entri": "dam.pak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdampak",
+    "mendampak"
+  ],
+  "gabunganKata": [
+    "dampak ekologis",
+    "dampak ekonomis",
+    "dampak lingkungan",
+    "dampak negatif",
+    "dampak perlokusi",
+    "dampak politik",
+    "dampak positif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dam.pak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benturan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengaruh kuat yang mendatangkan akibat (baik negatif maupun positif); impak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "benturan yang cukup hebat antara dua benda sehingga menyebabkan perubahan yang berarti dalam momentum (pusa) sistem yang mengalami benturan itu"
+        }
+      ]
+    }
+  ]
+}

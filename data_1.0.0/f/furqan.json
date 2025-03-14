@@ -1,0 +1,28 @@
+{
+  "istilah": "furqan",
+  "entri": "fur.qan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Alquran; pembeda antara hak dan batil",
+    "kataAsal": "furqān"
+  },
+  "data": [
+    {
+      "lema": "fur.qan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembeda antara yang hak dan yang batil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Al-Qur'an (ditulis dengan huruf awal kapital)"
+        }
+      ]
+    }
+  ]
+}

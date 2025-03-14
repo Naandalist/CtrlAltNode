@@ -1,0 +1,32 @@
+{
+  "istilah": "pampas",
+  "entri": "pam.pas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memampas",
+    "pampasan",
+    "pemampasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pam.pas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ganti rugi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "denda (karena melukai, merusak, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

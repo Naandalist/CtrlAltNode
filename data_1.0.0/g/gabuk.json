@@ -1,0 +1,37 @@
+{
+  "istilah": "gabuk",
+  "entri": "ga.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.buk1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hampa (tentang padi dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat beranak; mandul"
+        }
+      ]
+    },
+    {
+      "lema": "ga.buk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "penganan kukus dibuat dari ketan yang dicetak dan ditaburi parutan kelapa"
+        }
+      ]
+    }
+  ]
+}

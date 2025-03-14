@@ -1,0 +1,28 @@
+{
+  "istilah": "maktab",
+  "entri": "mak.tab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat belajar",
+    "kataAsal": "maktab"
+  },
+  "data": [
+    {
+      "lema": "mak.tab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "tempat belajar (menulis dan sebagainya); sekolah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "kantor; lembaga; biro"
+        }
+      ]
+    }
+  ]
+}

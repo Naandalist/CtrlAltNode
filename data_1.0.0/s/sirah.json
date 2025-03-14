@@ -1,0 +1,32 @@
+{
+  "istilah": "sirah",
+  "entri": "si.rah bentuk tidak baku: serah",
+  "bentukTidakBaku": "serah",
+  "kataTurunan": [
+    "tersirah"
+  ],
+  "gabunganKata": [
+    "sirah nabawiah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kebiasaan; jalan hidup",
+    "kataAsal": "sīrah"
+  },
+  "data": [
+    {
+      "lema": "si.rah bentuk tidak baku: serah",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "merah: tanah -- kubur yang baru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "biografi"
+        }
+      ]
+    }
+  ]
+}

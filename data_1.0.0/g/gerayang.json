@@ -1,0 +1,40 @@
+{
+  "istilah": "gerayang",
+  "entri": "ge.ra.yang1 /gêrayang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergerayangan",
+    "gerayangan",
+    "menggerayang",
+    "menggerayangi",
+    "penggerayangan",
+    "menggerayang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.ra.yang1 /gêrayang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "raba-raba"
+        }
+      ]
+    },
+    {
+      "lema": "ge.ra.yang2 /gêrayang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "garuk-garuk kepala"
+        }
+      ]
+    }
+  ]
+}

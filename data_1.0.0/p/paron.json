@@ -1,0 +1,33 @@
+{
+  "istilah": "paron",
+  "entri": "pa.ron1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "paruh, separuh, tengah, setengah",
+    "kataAsal": "parwa"
+  },
+  "data": [
+    {
+      "lema": "pa.ron1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "landasan tempat menempa besi, biasanya juga dibuat dari besi"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ron2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "separuh bagian"
+        }
+      ]
+    }
+  ]
+}

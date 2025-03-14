@@ -1,0 +1,36 @@
+{
+  "istilah": "dakwah",
+  "entri": "dak.wah bentuk tidak baku: da'wah",
+  "bentukTidakBaku": "da'wah",
+  "kataTurunan": [
+    "berdakwah",
+    "mendakwah",
+    "mendakwahi",
+    "pendakwah"
+  ],
+  "gabunganKata": [
+    "dakwah bilhal",
+    "dakwah bilmal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ajakan",
+    "kataAsal": "da‘wah"
+  },
+  "data": [
+    {
+      "lema": "dak.wah bentuk tidak baku: da'wah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "penyiaran; propaganda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "penyiaran agama dan pengembangannya di kalangan masyarakat; seruan untuk memeluk, mempelajari, dan mengamalkan ajaran agama"
+        }
+      ]
+    }
+  ]
+}

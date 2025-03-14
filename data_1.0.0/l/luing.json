@@ -1,0 +1,33 @@
+{
+  "istilah": "luing",
+  "entri": "lu.ing1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lu.ing1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "leluing1"
+        }
+      ]
+    },
+    {
+      "lema": "lu.ing2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang jenis lipan, merayap, berkaki banyak; lintibang"
+        }
+      ]
+    }
+  ]
+}

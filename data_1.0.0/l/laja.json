@@ -1,0 +1,37 @@
+{
+  "istilah": "laja",
+  "entri": "la.ja1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.ja1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "lengkuas"
+        }
+      ]
+    },
+    {
+      "lema": "la.ja2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan memanjat, bersifat parasit, biasanya tumbuh di daerah hutan tropis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah berwarna merah, bentuknya lonjong, berumpun seperti anggur, kulitnya tipis, bertekstur seperti kain beludru, isinya biji berlendir seperti markisa, rasanya agak masam"
+        }
+      ]
+    }
+  ]
+}

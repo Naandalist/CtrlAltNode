@@ -1,0 +1,43 @@
+{
+  "istilah": "transfer",
+  "entri": "trans.fer /transfêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menransfer",
+    "mentransfer",
+    "pentransfer",
+    "pentransferan",
+    "tertransfer",
+    "transferan"
+  ],
+  "gabunganKata": [
+    "transfer bilateral",
+    "transfer dana otomatis",
+    "transfer embrio",
+    "transfer kosong",
+    "transfer negatif",
+    "transfer nol",
+    "transfer pos"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trans.fer /transfêr/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pindah atau beralih tempat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pengalihan pemain ke perkumpulan lain dengan imbalan uang"
+        }
+      ]
+    }
+  ]
+}

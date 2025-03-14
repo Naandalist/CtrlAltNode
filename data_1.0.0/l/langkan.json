@@ -1,0 +1,33 @@
+{
+  "istilah": "langkan",
+  "entri": "lang.kan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "pagar berupa kisi-kisi di beranda rumah",
+    "kataAsal": "lân kan"
+  },
+  "data": [
+    {
+      "lema": "lang.kan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serambi atas tempat meninjau; anjung peranginan; balkon"
+        }
+      ]
+    },
+    {
+      "lema": "lang.kan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "pagar berupa kisi-kisi (pada jembatan dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

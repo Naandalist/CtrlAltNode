@@ -1,0 +1,37 @@
+{
+  "istilah": "cicip",
+  "entri": "ci.cip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencicip",
+    "mencicipi",
+    "mencicip"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ci.cip1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "coba untuk merasai; icip"
+        }
+      ]
+    },
+    {
+      "lema": "ci.cip2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencicip"
+        }
+      ]
+    }
+  ]
+}

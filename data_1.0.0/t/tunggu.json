@@ -1,0 +1,42 @@
+{
+  "istilah": "tunggu",
+  "entri": "tung.gu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertunggu",
+    "menunggu",
+    "menunggui",
+    "menunggukan",
+    "penunggu",
+    "menunggu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ikan gantung, kucing tunggu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tung.gu1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertunggu"
+        }
+      ]
+    },
+    {
+      "lema": "tung.gu2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "menunggu"
+        }
+      ]
+    }
+  ]
+}

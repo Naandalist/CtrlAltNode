@@ -1,0 +1,42 @@
+{
+  "istilah": "gabah",
+  "entri": "ga.bah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gabah",
+    "kataAsal": "gabah"
+  },
+  "data": [
+    {
+      "lema": "ga.bah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butir padi yang sudah lepas dari tangkainya dan masih berkulit; antah: merpati itu diberi pakan jagung dicampur --"
+        }
+      ]
+    },
+    {
+      "lema": "ga.bah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kubah"
+        }
+      ]
+    },
+    {
+      "lema": "ga.bah3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "gegabah"
+        }
+      ]
+    }
+  ]
+}

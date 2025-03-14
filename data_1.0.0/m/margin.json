@@ -1,0 +1,45 @@
+{
+  "istilah": "margin",
+  "entri": "mar.gin1 bentuk tidak baku: marjin",
+  "bentukTidakBaku": "marjin",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "margin kotor",
+    "margin penjualan",
+    "margin penyelamat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mar.gin1 bentuk tidak baku: marjin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepi; batas"
+        }
+      ]
+    },
+    {
+      "lema": "mar.gin2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laba bruto"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tingkat selisih antara biaya produksi dan harga jual di pasar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "deposit atau uang muka oleh investor dengan atau tanpa makelar yang merupakan pembayaran sebagian atau harga beli saham atau komoditas"
+        }
+      ]
+    }
+  ]
+}

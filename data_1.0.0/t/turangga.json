@@ -1,0 +1,33 @@
+{
+  "istilah": "turangga",
+  "entri": "tu.rang.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "“yang berjalan dengan cepat”, kuda",
+    "kataAsal": "turaṅga"
+  },
+  "data": [
+    {
+      "lema": "tu.rang.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kuda"
+        }
+      ]
+    },
+    {
+      "lema": "tu.rang.ga2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pucat kekuning-kuningan; kelabu"
+        }
+      ]
+    }
+  ]
+}

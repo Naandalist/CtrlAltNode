@@ -1,0 +1,24 @@
+{
+  "istilah": "tajwid",
+  "entri": "taj.wid",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hal memperindah; pembacaan Alquran sesuai makhraj dan sifat huruf",
+    "kataAsal": "tajwīd"
+  },
+  "data": [
+    {
+      "lema": "taj.wid",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara membaca Alquran dengan lafal atau ucapan yang benar"
+        }
+      ]
+    }
+  ]
+}

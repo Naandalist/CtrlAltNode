@@ -1,0 +1,40 @@
+{
+  "istilah": "mekar",
+  "entri": "me.kar /mêkar/bentuk tidak baku: mengkar",
+  "bentukTidakBaku": "mengkar",
+  "kataTurunan": [
+    "bermekaran",
+    "memekarkan",
+    "pemekaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mekar (tentang bunga)",
+    "kataAsal": "měkar"
+  },
+  "data": [
+    {
+      "lema": "me.kar /mêkar/bentuk tidak baku: mengkar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(mulai) berkembang; menjadi terbuka; mengurai: mawar itu -- disinari matahari pagi; mayang --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi besar dan gembung; menjadi banyak: adonan roti ini telah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjadi bertambah luas (besar, ramai, bagus, dan sebagainya): jalan sudah makin besar, kota juga tambah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "(mulai) timbul dan berkembang: di hatinya mulai -- perasaan cinta"
+        }
+      ]
+    }
+  ]
+}

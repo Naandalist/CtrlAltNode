@@ -1,0 +1,33 @@
+{
+  "istilah": "föhn",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "angin panas yang turun (di Swiss)"
+        }
+      ]
+    },
+    {
+      "lema": "Föhn",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "angin panas yang turun (di Swiss)"
+        }
+      ]
+    }
+  ]
+}

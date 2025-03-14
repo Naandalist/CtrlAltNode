@@ -1,0 +1,56 @@
+{
+  "istilah": "tukik",
+  "entri": "tu.kik1",
+  "bentukTidakBaku": "tungkik",
+  "kataTurunan": [
+    "menukik",
+    "menukikkan",
+    "menukik",
+    "menukik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.kik1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menukik"
+        }
+      ]
+    },
+    {
+      "lema": "tu.kik2 bentuk tidak baku: tungkik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "takik"
+        }
+      ]
+    },
+    {
+      "lema": "tu.kik3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak penyu: untuk mencegah musnahnya penyu-penyu di pantai, pihak perlindungan dan pelestarian alam terus-menerus menetaskan telur penyu hingga menjadi --"
+        }
+      ]
+    },
+    {
+      "lema": "tu.kik4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pantik"
+        }
+      ]
+    }
+  ]
+}

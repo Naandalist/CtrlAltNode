@@ -1,0 +1,30 @@
+{
+  "istilah": "fasik",
+  "entri": "fa.sik bentuk tidak baku: pasik",
+  "bentukTidakBaku": "pasik",
+  "kataTurunan": [
+    "kefasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pelaku maksiat",
+    "kataAsal": "fāsiq"
+  },
+  "data": [
+    {
+      "lema": "fa.sik bentuk tidak baku: pasik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak peduli terhadap perintah Tuhan (berarti: buruk kelakuan, jahat, berdosa besar)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang percaya kepada Allah Swt., tetapi tidak mengamalkan perintah-Nya, bahkan melakukan perbuatan dosa"
+        }
+      ]
+    }
+  ]
+}

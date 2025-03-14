@@ -1,0 +1,58 @@
+{
+  "istilah": "literasi",
+  "entri": "li.te.ra.si1 /litêrasi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "literasi baca tulis",
+    "literasi digital",
+    "literasi finansial",
+    "literasi gizi",
+    "literasi informasi",
+    "literasi internet",
+    "literasi jaringan",
+    "literasi keuangan",
+    "literasi komputer",
+    "literasi media",
+    "literasi numerasi",
+    "literasi perpustakaan",
+    "literasi sains",
+    "literasi siber",
+    "literasi teknologi",
+    "literasi visual"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.te.ra.si1 /litêrasi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemampuan menulis dan membaca"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan atau keterampilan dalam bidang atau aktivitas tertentu: -- komputer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemampuan individu dalam mengolah informasi dan pengetahuan untuk kecakapan hidup"
+        }
+      ]
+    },
+    {
+      "lema": "li.te.ra.si2 /litêrasi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggunaan huruf untuk merepresentasikan bunyi atau kata"
+        }
+      ]
+    }
+  ]
+}

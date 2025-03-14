@@ -1,0 +1,33 @@
+{
+  "istilah": "cepu",
+  "entri": "ce.pu1 /cêpu/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pot kecil atau kotak (logam) (untuk parfum)",
+    "kataAsal": "cupu"
+  },
+  "data": [
+    {
+      "lema": "ce.pu1 /cêpu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cembul yang dibuat dari kayu (perak dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ce.pu2 /cêpu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "informan polisi"
+        }
+      ]
+    }
+  ]
+}

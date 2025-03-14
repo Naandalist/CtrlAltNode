@@ -1,0 +1,36 @@
+{
+  "istilah": "substitusi",
+  "entri": "sub.sti.tu.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tersubstitusikan"
+  ],
+  "gabunganKata": [
+    "substitusi isomorfik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sub.sti.tu.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penggantian: barang-barang plastik cocok sebagai -- aneka barang dari logam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "penggantian atom atau gugus atom dalam suatu molekul oleh atom atau gugus atom lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "proses atau hasil penggantian unsur bahasa oleh unsur lain dalam satuan yang lebih besar untuk memperoleh unsur pembeda"
+        }
+      ]
+    }
+  ]
+}

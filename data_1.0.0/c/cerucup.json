@@ -1,0 +1,44 @@
+{
+  "istilah": "cerucup",
+  "entri": "ce.ru.cup1 /cêrucup/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencerucup"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.ru.cup1 /cêrucup/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbentuk seperti kerucut; lancip"
+        }
+      ]
+    },
+    {
+      "lema": "ce.ru.cup2 /cêrucup/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumput jarum"
+        }
+      ]
+    },
+    {
+      "lema": "ce.ru.cup3 /cêrucup/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "alat tangkap udang yang terbuat dari bambu bulat dengan panjang sekitar 40--50 cm dan berdiameter 10 cm"
+        }
+      ]
+    }
+  ]
+}

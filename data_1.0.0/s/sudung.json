@@ -1,0 +1,30 @@
+{
+  "istilah": "sudung",
+  "entri": "su.dung",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "sudung-sudung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.dung",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sengkuap; kapa-kapa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "rumah (untuk merendahkan diri)"
+        }
+      ]
+    }
+  ]
+}

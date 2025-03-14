@@ -1,0 +1,40 @@
+{
+  "istilah": "soal",
+  "entri": "so.al bentuk tidak baku: sual",
+  "bentukTidakBaku": "sual",
+  "kataTurunan": [
+    "bersoal",
+    "mempersoalkan",
+    "menyoal",
+    "menyoalkan",
+    "persoalan"
+  ],
+  "gabunganKata": [
+    "soal jawab"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pertanyaan; permohonan",
+    "kataAsal": "su’āl"
+  },
+  "data": [
+    {
+      "lema": "so.al bentuk tidak baku: sual",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "apa yang menuntut jawaban dan sebagainya (pertanyaan dalam hitungan dan sebagainya): sekalian -- tentang keuangan supaya dikumpulkan, nanti akan dijawab satu per satu; ia tidak dapat mengerjakan -- nomor lima"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal yang harus dipecahkan; masalah: -- banjir di Jakarta makin mengkhawatirkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal; perkara; urusan: pembicaraan kami melantur ke -- yang dikhawatirkannya"
+        }
+      ]
+    }
+  ]
+}

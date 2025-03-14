@@ -1,0 +1,37 @@
+{
+  "istilah": "kaliper",
+  "entri": "ka.li.per1 /kalipêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ka.li.per1 /kalipêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketebalan selembar kertas yang diukur pada kondisi yang sudah dispesifikasikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengukur ketebalan kertas, semacam mikrometer"
+        }
+      ]
+    },
+    {
+      "lema": "ka.li.per2 /kalipêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat berbentuk lengkung atau lurus, biasanya dipakai untuk mengukur lebar dada, lebar pinggul, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

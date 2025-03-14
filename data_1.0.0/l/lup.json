@@ -1,0 +1,33 @@
+{
+  "istilah": "lup",
+  "entri": "lup1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lup1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "alat yang terdiri atas kaca (lensa) yang diberi gagang dan sebagainya yang dapat membuat sesuatu kelihatan lebih besar daripada benda aslinya; mikroskop"
+        }
+      ]
+    },
+    {
+      "lema": "lup2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ lop"
+        }
+      ]
+    }
+  ]
+}

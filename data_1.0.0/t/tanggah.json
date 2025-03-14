@@ -1,0 +1,33 @@
+{
+  "istilah": "tanggah",
+  "entri": "tang.gah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tang.gah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang Persia zaman dulu"
+        }
+      ]
+    },
+    {
+      "lema": "tang.gah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penanggah"
+        }
+      ]
+    }
+  ]
+}

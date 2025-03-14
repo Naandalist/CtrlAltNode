@@ -1,0 +1,32 @@
+{
+  "istilah": "turbulensi",
+  "entri": "tur.bu.len.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tur.bu.len.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan terganggu karena perubahan yang tidak dapat diprediksi dan dikontrol"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketidakstabilan di atmosfer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "turbulens"
+        }
+      ]
+    }
+  ]
+}

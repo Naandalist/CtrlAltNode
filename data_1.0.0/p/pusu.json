@@ -1,0 +1,46 @@
+{
+  "istilah": "pusu",
+  "entri": "pu.su1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpusu",
+    "berpusu-pusu",
+    "berpusu-pusu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pu.su1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "timbunan (longgok); busut"
+        }
+      ]
+    },
+    {
+      "lema": "pu.su2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Mk[Minangkabau: -]",
+          "deskripsi": "kelompok"
+        }
+      ]
+    },
+    {
+      "lema": "pu.su3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "kusut atau beterbangan tidak teratur (tentang kapuk, rambut, dan sebagainya): menyapu-nyapu rambut anaknya yang -- karena angin"
+        }
+      ]
+    }
+  ]
+}

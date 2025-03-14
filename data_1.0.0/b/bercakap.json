@@ -1,0 +1,41 @@
+{
+  "istilah": "bercakap",
+  "entri": "cakap1 » ber.ca.kap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bercakap rabung"
+  ],
+  "peribahasa": [
+    "adat bercakap berelok-elok; manis mulutnya bercakap seperti sautan manisan, di dalam bagai empedu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "cakap1 » ber.ca.kap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "mempunyai kemampuan atau keberanian untuk melakukan sesuatu; berkuasa: seorang pun tiada ~ naik pohon nyiur itu; inilah prajurit yang ~ mencuri keris laksamana"
+        }
+      ]
+    },
+    {
+      "lema": "cakap2 » ber.ca.kap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbincang; berkata: kalau hanya ~, semua orang juga bisa"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbahasa; berbicara dengan bahasa: mereka ~ Inggris"
+        }
+      ]
+    }
+  ]
+}

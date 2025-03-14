@@ -1,0 +1,45 @@
+{
+  "istilah": "menyodok",
+  "entri": "sodok1 » me.nyo.dok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sodok1 » me.nyo.dok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggali (membalikkan) tanah dengan sodok; menajak"
+        }
+      ]
+    },
+    {
+      "lema": "sodok2 » me.nyo.dok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menolak; mendorong; menyorong (becak dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menumbuk (menekan) dengan tangan terkepal atau dengan benda bulat panjang (di perut dan sebagainya); menggocok"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "menyetubuhi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "mendahului kendaraan lain dengan melarikan kendaraan sendiri cepat-cepat (dalam suatu antrean kendaraan dan sebagainya); menyalip dengan mengebut"
+        }
+      ]
+    }
+  ]
+}

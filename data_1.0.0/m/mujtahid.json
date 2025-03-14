@@ -1,0 +1,24 @@
+{
+  "istilah": "mujtahid",
+  "entri": "muj.ta.hid",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ahli ijtihad",
+    "kataAsal": "mujtahid"
+  },
+  "data": [
+    {
+      "lema": "muj.ta.hid",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ahli ijtihad"
+        }
+      ]
+    }
+  ]
+}

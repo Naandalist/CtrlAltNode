@@ -1,0 +1,64 @@
+{
+  "istilah": "dandan",
+  "entri": "dan.dan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdandan",
+    "dandanan",
+    "mendandani",
+    "mendandani"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "siap, sedia, membuat persiapan, menyiapkan; mengenakan pakaian",
+    "kataAsal": "dandan"
+  },
+  "data": [
+    {
+      "lema": "dan.dan1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengenakan pakaian dan hiasan serta alat-alat rias"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memperbaiki; menjadikan baik (rapi)"
+        }
+      ]
+    },
+    {
+      "lema": "dan.dan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panggung tambahan pada geladak perahu (untuk berbagai-bagai maksud)"
+        }
+      ]
+    },
+    {
+      "lema": "dan.dan3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali yang besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabel"
+        }
+      ]
+    },
+    {
+      "lema": "dan.dan4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merampas milik seseorang dengan kekerasan"
+        }
+      ]
+    }
+  ]
+}

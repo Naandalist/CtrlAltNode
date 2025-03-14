@@ -1,0 +1,38 @@
+{
+  "istilah": "kurikulum",
+  "entri": "ku.ri.ku.lum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "kurikulum cakupan",
+    "kurikulum inti",
+    "kurikulum kegiatan",
+    "kurikulum kegiatan luar sekolah",
+    "kurikulum muatan lokal",
+    "kurikulum pelengkap",
+    "kurikulum terpadu",
+    "kurikulum terpisah",
+    "kurikulum tertutup"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.ri.ku.lum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangkat mata pelajaran yang diajarkan pada lembaga pendidikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perangkat mata kuliah mengenai bidang keahlian khusus"
+        }
+      ]
+    }
+  ]
+}

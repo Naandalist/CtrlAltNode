@@ -1,0 +1,33 @@
+{
+  "istilah": "jengang",
+  "entri": "je.ngang1 /jêngang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.ngang1 /jêngang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "mengiang-ngiang (telinga)"
+        }
+      ]
+    },
+    {
+      "lema": "je.ngang2 /jêngang/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "meluangkan waktu untuk mampir atau melihat tanpa direncanakan: dia mendadak -- ke rumah kami"
+        }
+      ]
+    }
+  ]
+}

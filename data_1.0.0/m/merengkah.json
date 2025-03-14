@@ -1,0 +1,32 @@
+{
+  "istilah": "merengkah",
+  "entri": "rengkah » me.reng.kah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rengkah » me.reng.kah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merekah; berbelah: tampaklah olehnya tanah pemakaman itu ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -]",
+          "deskripsi": "membuka proteksi salinan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -]",
+          "deskripsi": "menerobos tanpa izin sistem akses komputer untuk merusak atau melakukan kejahatan"
+        }
+      ]
+    }
+  ]
+}

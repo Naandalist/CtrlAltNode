@@ -1,0 +1,60 @@
+{
+  "istilah": "larut",
+  "entri": "la.rut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlarut-larut",
+    "keberlarut-larutan",
+    "kelarutan",
+    "larutan",
+    "melarut",
+    "melarutkan",
+    "pelarut",
+    "pelarutan",
+    "terlarut",
+    "terlarutkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "hanyut, hilang, terhapus, hancur, binasa",
+    "kataAsal": "larut"
+  },
+  "data": [
+    {
+      "lema": "la.rut1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hanyut makin jauh"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bertambah lama (jauh dan sebagainya): sementara waktu bertambah --, dia belum bebas juga"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "makin bertambah: kian hari penyakitnya kian --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menjadi cair; luluh; hancur: garam cepat -- dalam air"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "asyik; tenggelam: karena sepi mencengkam, kami -- dalam pikiran masing-masing"
+        }
+      ]
+    },
+    {
+      "lema": "la.rut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ararut"
+        }
+      ]
+    }
+  ]
+}

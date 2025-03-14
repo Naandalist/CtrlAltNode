@@ -1,0 +1,47 @@
+{
+  "istilah": "lambuk",
+  "entri": "lam.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melambuk",
+    "pelambuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "gedang sebagai dilambuk-lambuk, tinggi sebagai dijunjung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lam.buk1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gembur (tentang tanah)"
+        }
+      ]
+    },
+    {
+      "lema": "lam.buk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celana longgar langgam Aceh yang dibuat dari sutra"
+        }
+      ]
+    },
+    {
+      "lema": "lam.buk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "perahu: laksana -- di tengah laut, tenggelam timbul dilambung ombak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "menggelendong",
+  "entri": "gelendong1 » meng.ge.len.dong",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gelendong1 » meng.ge.len.dong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggulung benang (kawat, tali plastik, dan sebagainya) dengan gelendong"
+        }
+      ]
+    },
+    {
+      "lema": "gelendong2 » meng.ge.len.dong",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bio[Biologi: -]",
+          "deskripsi": "menjadi bentuk menjorong panjang dengan bagian terlebar di tengah dan berangsur-angsur meruncing hingga ke kedua ujungnya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "bung",
+  "entri": "bung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan akrab kepada seorang laki-laki: rumah -- Iskandar di mana?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "abang"
+        }
+      ]
+    },
+    {
+      "lema": "bung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi seperti bunyi gendang dipukul"
+        }
+      ]
+    }
+  ]
+}

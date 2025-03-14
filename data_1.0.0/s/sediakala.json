@@ -1,0 +1,32 @@
+{
+  "istilah": "sediakala",
+  "entri": "se.di.a.ka.la /sêdiakala/bentuk tidak baku: sedekala",
+  "bentukTidakBaku": "sedekala",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.di.a.ka.la /sêdiakala/bentuk tidak baku: sedekala",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang semula; yang sudah-sudah; (keadaan) yang dulu-dulu: kesehatannya telah pulih seperti --"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "selalu (seperti yang sudah-sudah atau sebagaimana biasa): Baginda pun -- duduk menghadap Seri Batara bertunggu tunangan"
+        },
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "setiap atau segenap waktu (hari dan sebagainya): -- malam"
+        }
+      ]
+    }
+  ]
+}

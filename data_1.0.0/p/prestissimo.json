@@ -1,0 +1,33 @@
+{
+  "istilah": "prestissimo",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] It[Italia: -] Mus[Musik: -]",
+          "deskripsi": "sangat tergesa (dalam tempo musik)"
+        }
+      ]
+    },
+    {
+      "lema": "prestissimo",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Italia: -] [Musik: -]",
+          "deskripsi": "sangat tergesa (dalam tempo musik)"
+        }
+      ]
+    }
+  ]
+}

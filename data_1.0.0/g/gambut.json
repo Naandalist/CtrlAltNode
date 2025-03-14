@@ -1,0 +1,40 @@
+{
+  "istilah": "gambut",
+  "entri": "gam.but1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "gambut berkayu",
+    "gambut endapan",
+    "gambut hitam",
+    "gambut menyerabut",
+    "gambut miskin",
+    "gambut terbenam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gam.but1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah lunak dan basah, terdiri atas lumut dan bahan tanaman lain yang membusuk (biasanya terbentuk di daerah rawa atau di danau yang dangkal)"
+        }
+      ]
+    },
+    {
+      "lema": "gam.but2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu bara sangat muda yang berasal dari tumpukan tumbuhan dengan kadar air hingga 90% dan berwarna cokelat terang sampai cokelat muda; gambut rawa"
+        }
+      ]
+    }
+  ]
+}

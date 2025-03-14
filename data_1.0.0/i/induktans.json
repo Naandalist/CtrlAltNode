@@ -1,0 +1,32 @@
+{
+  "istilah": "induktans",
+  "entri": "in.duk.tans",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "in.duk.tans",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "sifat untai elektrik yang menyatakan besarnya tenaga gerak elektrik yang akan terimbas sendiri ataupun di dalam untai lain yang berdekatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "hasil bagi tenaga gerak elektrik yang terimbas di dalam sebuah untai elektrik dan laju perubahan arus elektrik terhadap waktu yang membangkitkan tenaga gerak elektrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "besaran yang mencerminkan pengimbasan arus listrik lewat perubahan medan magnet"
+        }
+      ]
+    }
+  ]
+}

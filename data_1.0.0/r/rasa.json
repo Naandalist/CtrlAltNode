@@ -1,0 +1,72 @@
+{
+  "istilah": "rasa",
+  "entri": "ra.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berasa",
+    "berperasaan",
+    "memperasakan",
+    "merasa",
+    "merasa-rasai",
+    "merasai",
+    "merasakan",
+    "perasa",
+    "perasaan",
+    "rasa-rasanya",
+    "rasanya",
+    "serasa",
+    "terasa",
+    "terasakan"
+  ],
+  "gabunganKata": [
+    "perasa angin",
+    "rasa aman",
+    "rasa berita",
+    "rasa hati",
+    "rasa komunitas"
+  ],
+  "peribahasa": [
+    "air diminum rasa duri, nasi dimakan rasa sekam; ikut hati mati, ikut rasa binasa; rasa tak mengapa, hidung dikeluani"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "aroma, sentimen, afeksi, bumbu, keinginan, selera, hati dan pikiran, esensi",
+    "kataAsal": "rasa"
+  },
+  "data": [
+    {
+      "lema": "ra.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanggapan indra terhadap rangsangan saraf seperti manis, pahit, masam terhadap indra pengecap, atau panas, dingin, nyeri terhadap indra perasa)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "apa yang dialami oleh badan: -- pedih dan nyeri di perut merupakan gejala sakit lambung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat rasa suatu benda: gula --nya manis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanggapan hati terhadap sesuatu (indra): -- sedih (bimbang, takut)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pendapat (pertimbangan) mengenai baik atau buruk, salah atau benar: -- adil"
+        }
+      ]
+    },
+    {
+      "lema": "ra.sa2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat air"
+        }
+      ]
+    }
+  ]
+}

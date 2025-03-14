@@ -1,0 +1,39 @@
+{
+  "istilah": "jodoh",
+  "entri": "jo.doh",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjodoh",
+    "memperjodohkan",
+    "menjodohkan",
+    "penjodoh",
+    "perjodohan",
+    "sejodoh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jo.doh",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang cocok menjadi suami atau istri; pasangan hidup; imbangan: berhati-hatilah dalam memilih --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang cocok sehingga menjadi sepasang; pasangan: mana -- sepatu ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cocok; tepat: ia telah meminum obat itu, tetapi tidak --"
+        }
+      ]
+    }
+  ]
+}

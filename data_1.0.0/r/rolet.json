@@ -1,0 +1,33 @@
+{
+  "istilah": "rolet",
+  "entri": "ro.let1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ro.let1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permainan judi yang menggunakan bola kecil yang dilemparkan di atas papan bulat yang berputar yang bertuliskan angka atau gambar"
+        }
+      ]
+    },
+    {
+      "lema": "ro.let2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "alat dengan sebuah roda baja, terdiri atas beberapa baris ketakrataan regular yang digunakan untuk membuat garis-garis butiran kasar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "pincang",
+  "entri": "pin.cang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepincangan",
+    "pemincangan",
+    "terpincang-pincang",
+    "sepincang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "terajar pada banting pincang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "piñcaṅ"
+  },
+  "data": [
+    {
+      "lema": "pin.cang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "timpang kakinya atau timpang jalannya (karena pembawaan sejak lahir, karena terkilir, kena beling, dan sebagainya): anak itu berjalan -- karena terjatuh dari kursi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak seimbang; tidak sebanding; ada kurangnya (cacatnya dan sebagainya); tidak sebagaimana mestinya (tentang keadaan): pembangunan di daerah terasa -- jika dibandingkan dengan pembangunan di kota-kota besar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tetap bunyinya atau jalannya (tentang arloji, mesin mobil, dan sebagainya): suara mesin mobilnya masih terdengar --"
+        }
+      ]
+    },
+    {
+      "lema": "pin.cang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "sepincang"
+        }
+      ]
+    }
+  ]
+}

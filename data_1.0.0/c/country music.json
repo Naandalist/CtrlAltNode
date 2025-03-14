@@ -1,0 +1,33 @@
+{
+  "istilah": "country music",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ing[Inggris: -]",
+          "deskripsi": "musik populer bergaya rakyat Amerika Serikat bagian selatan atau koboi barat, ditandai dengan harmoni sederhana, diiringi alat musik dawai seperti gitar, biola, atau banjo, biasanya berlirik naratif"
+        }
+      ]
+    },
+    {
+      "lema": "country music",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Inggris: -]",
+          "deskripsi": "musik populer bergaya rakyat Amerika Serikat bagian selatan atau koboi barat, ditandai dengan harmoni sederhana, diiringi alat musik dawai seperti gitar, biola, atau banjo, biasanya berlirik naratif"
+        }
+      ]
+    }
+  ]
+}

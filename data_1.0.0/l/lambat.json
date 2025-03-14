@@ -1,0 +1,54 @@
+{
+  "istilah": "lambat",
+  "entri": "lam.bat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlambat",
+    "berlambat-lambat",
+    "kelambatan",
+    "keterlambatan",
+    "lambat-lambat",
+    "melambat",
+    "melambat-lambatkan",
+    "melambatkan",
+    "memperlambat",
+    "pelambat",
+    "pelambatan",
+    "pemerlambat",
+    "perlambatan",
+    "selambat-lambatnya",
+    "selambatnya",
+    "terlambat"
+  ],
+  "gabunganKata": [
+    "lambat banget",
+    "lambat laun"
+  ],
+  "peribahasa": [
+    "biar lambat laga, asal menang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "penundaan",
+    "kataAsal": "vilamba"
+  },
+  "data": [
+    {
+      "lema": "lam.bat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "perlahan-lahan (geraknya, jalannya, dan sebagainya); tidak cepat: karena lututnya cedera, larinya menjadi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "memerlukan waktu banyak: ia bekerja sangat --; biar -- asal selamat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tidak tepat pada waktunya; ketinggalan: arlojiku -- lima menit; ia biasa pulang --"
+        }
+      ]
+    }
+  ]
+}

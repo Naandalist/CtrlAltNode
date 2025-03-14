@@ -1,0 +1,28 @@
+{
+  "istilah": "volt",
+  "entri": "volt",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "volt",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "satuan tegangan listrik yang diperlukan untuk mengalirkan satu ampere arus listrik melalui rintangan satu ohm"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan tegangan motor listrik (diberikan menurut nama penemunya Allessandro Volta, orang Italia, hidup tahun 1745–1827)"
+        }
+      ]
+    }
+  ]
+}

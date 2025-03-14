@@ -1,0 +1,79 @@
+{
+  "istilah": "habis",
+  "entri": "ha.bis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhabis",
+    "habis-habis",
+    "habis-habisan",
+    "kehabisan",
+    "menghabisi",
+    "menghabiskan",
+    "penghabisan",
+    "sehabis",
+    "sehabis-habisnya",
+    "terhabiskan"
+  ],
+  "gabunganKata": [
+    "habis akal",
+    "habis bulan",
+    "habis pakai",
+    "habis tempo"
+  ],
+  "peribahasa": [
+    "arang habis, besi binasa; habis beralur, maka beralu-alu; habis geli oleh gelitik, (habis bisa oleh biasa); habis kapak, berganti beliung; habis manis sepah dibuang; habis manis, sepah dibuang; habis manis, sepah dibuang; habis miang karena bergeser; habis pati, ampas dibuang; habis perkara, nasi sudah menjadi bubur; habis umpan, kerong tak dapat; ingat sebelum kena, berhemat sebelum habis; lagi ada jangan dimakan, sudah habis baru dimakan; memakan habis-habisan, menyuruh hilang-hilang; menyauk kering-kering, membeli habis-habis; menyuruk hilang-hilang, memakan habis-habis; minyak habis sambal tak enak; nasi habis, budi bersua; rumah terbakar, tikus habis ke luar; sendok berdengar-dengar, nasi habis budi dapat; telah habis, maka dimakan; tuba habis, ikan tak dapat; ucap habis, niat sampai; umpan habis, ikan tak kena"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ha.bis1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak ada yang tinggal lagi (karena sudah digunakan, dibagikan, dimakan, dan sebagainya); tidak bersisa: semua barang dalam gudang itu -- terbakar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "selesai: pertunjukan sudah hampir --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tamat: bacalah buku itu sampai --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sudah sampai pada batas waktu yang ditentukan: kontraknya telah --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keluar biaya: untuk pergi ke tempat kerjanya, ia -- enam ribu rupiah setiap hari"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "sesudah; setelah: -- mandi dan sarapan, anak-anak berangkat ke sekolah"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kalau begitu (tidak begitu); maka: --, sampai kapan kita dapat tahan hidup begini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akhir: ia berjanji akan membayar utangnya -- bulan"
+        }
+      ]
+    },
+    {
+      "lema": "ha.bis2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batas tumbuhnya rambut di atas jidat"
+        }
+      ]
+    }
+  ]
+}

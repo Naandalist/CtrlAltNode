@@ -1,0 +1,48 @@
+{
+  "istilah": "membalas",
+  "entri": "balas1 » mem.ba.las",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "membalas bidan",
+    "membalas budi",
+    "membalas guna",
+    "membalas jasa",
+    "membalas salam"
+  ],
+  "peribahasa": [
+    "adat dunia balas-membalas, syariat palu-memalu; membalas air susu dengan air tuba; syariat palu-memalu, hakikat balas-membalas; syariat palu-memalu, pada hakikatnya adalah balas-membalas"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "balas1 » mem.ba.las",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menjawab (surat dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengimbangi (kebaikan orang dan sebagainya); memberikan (membayar) sesuatu sebagai imbangan jasa (perbuatan dan sebagainya) yang sudah diterima: orang yang berbudi akan ~ kejahatan dengan kebaikan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melakukan sesuatu untuk memulangkan kembali perbuatan yang dikenakan kepadanya: meskipun dipukul berkali-kali, ia tidak ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melakukan sesuatu untuk memuaskan sakit hati dan sebagainya: ~ dendam"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memutar kembali (kemudi mobil)"
+        }
+      ]
+    }
+  ]
+}

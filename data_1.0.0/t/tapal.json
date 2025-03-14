@@ -1,0 +1,36 @@
+{
+  "istilah": "tapal",
+  "entri": "ta.pal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "tapal gigi",
+    "tapal batas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.pal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat dalam bentuk cairan kental atau bubur (biasanya dilumaskan pada kulit perut); pasta"
+        }
+      ]
+    },
+    {
+      "lema": "ta.pal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancang (patok) terbuat dari kayu, semen, dan sebagainya sebagai tanda batas"
+        }
+      ]
+    }
+  ]
+}

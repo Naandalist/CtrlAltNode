@@ -1,0 +1,39 @@
+{
+  "istilah": "jepit",
+  "entri": "je.pit /jêpit/bentuk tidak baku: cepit, jepet",
+  "bentukTidakBaku": "cepit, jepet",
+  "kataTurunan": [
+    "jepitan",
+    "menjepit",
+    "penjepit",
+    "penjepitan",
+    "terjepit"
+  ],
+  "gabunganKata": [
+    "jepit dasi",
+    "jepit jemuran",
+    "jepit kertas",
+    "jepit rambut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "je.pit /jêpit/bentuk tidak baku: cepit, jepet",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "apit, tekan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjepit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "istilah": "empo",
+  "entri": "em.po /êmpo/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengempo"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "gendong",
+    "kataAsal": "phō"
+  },
+  "data": [
+    {
+      "lema": "em.po /êmpo/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gendong di punggung"
+        }
+      ]
+    }
+  ]
+}

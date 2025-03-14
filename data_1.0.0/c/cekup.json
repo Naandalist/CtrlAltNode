@@ -1,0 +1,35 @@
+{
+  "istilah": "cekup",
+  "entri": "ce.kup1 /cêkup/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencekup"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.kup1 /cêkup/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menangkupkan kedua telapak tangan"
+        }
+      ]
+    },
+    {
+      "lema": "ce.kup2 /cêkup/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ cekut"
+        }
+      ]
+    }
+  ]
+}

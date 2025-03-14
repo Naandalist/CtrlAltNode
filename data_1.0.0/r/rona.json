@@ -1,0 +1,50 @@
+{
+  "istilah": "rona",
+  "entri": "ro.na1 bentuk tidak baku: rena",
+  "bentukTidakBaku": "rena",
+  "kataTurunan": [
+    "berona",
+    "merona",
+    "perona"
+  ],
+  "gabunganKata": [
+    "rona hangat",
+    "rona sejuk"
+  ],
+  "peribahasa": [
+    "hilang rona karena penyakit, hilang bangsa tidak beruang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "spesies, karakter, bentuk, corak, rona, figur, macam",
+    "kataAsal": "varṇa"
+  },
+  "data": [
+    {
+      "lema": "ro.na1 bentuk tidak baku: rena",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "cahaya muka; air muka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "ukuran komposisi warna dari cahaya yang mencapai mata, merupakan salah satu dari tiga variabel warna"
+        }
+      ]
+    },
+    {
+      "lema": "ro.na2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serbuk hidrasi oksida besi yang digunakan sebagai bahan penggosok dalam menghaluskan permukaan kaca ataupun batu permata"
+        }
+      ]
+    }
+  ]
+}

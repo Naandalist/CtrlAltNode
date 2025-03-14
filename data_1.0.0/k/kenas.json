@@ -1,0 +1,32 @@
+{
+  "istilah": "kenas",
+  "entri": "ke.nas /kênas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.nas /kênas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peda atau pekasam lokan yang dicampur dengan sagu atau nasi sampai memuai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "kerang mentah yang diasamkan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jb[Melayu Jambi: -]",
+          "deskripsi": "mengupas kerang untuk mengambil isinya"
+        }
+      ]
+    }
+  ]
+}

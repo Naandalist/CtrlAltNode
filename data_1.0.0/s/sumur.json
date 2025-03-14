@@ -1,0 +1,61 @@
+{
+  "istilah": "sumur",
+  "entri": "su.mur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersumur",
+    "sumuran"
+  ],
+  "gabunganKata": [
+    "sumur artesis",
+    "sumur artois",
+    "sumur bor",
+    "sumur buta",
+    "sumur gas",
+    "sumur imbuhan",
+    "sumur injeksi",
+    "sumur lawas",
+    "sumur mati",
+    "sumur pantau",
+    "sumur pasak",
+    "sumur pembuangan",
+    "sumur perintis",
+    "sumur pompa",
+    "sumur resapan",
+    "sumur serap",
+    "sumur taruhan",
+    "sumur temuan",
+    "sumur tinggal"
+  ],
+  "peribahasa": [
+    "sumur digali, air terbit"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sumur",
+    "kataAsal": "sumur"
+  },
+  "data": [
+    {
+      "lema": "su.mur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumber air buatan, dengan cara menggali tanah; perigi: -- bor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang yang sengaja dibuat menembus lapisan tanah untuk memperoleh air, minyak, atau gas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lubang hasil pengeboran, baik dalam tahap eksplorasi maupun eksploitasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "bangunan hidraulis berupa lubang yang digali ke dalam bumi yang memungkinkan penyadapan air secara ekonomis dari akuifer"
+        }
+      ]
+    }
+  ]
+}

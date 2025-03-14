@@ -1,0 +1,45 @@
+{
+  "istilah": "malas",
+  "entri": "ma.las1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermalas-malas",
+    "bermalas-malasan",
+    "kemalasan",
+    "malas-malasan",
+    "memalaskan",
+    "pemalas",
+    "termalas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "berat, lamban, malas, lembam, tanpa energi, lelah",
+    "kataAsal": "alasa"
+  },
+  "data": [
+    {
+      "lema": "ma.las1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mau bekerja atau mengerjakan sesuatu: orang yang -- itu lebih senang mengemis daripada bekerja"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak bernafsu; tidak suka; segan; enggan: -- rasanya mengunjungi rapat seperti itu; jangan -- bertanya"
+        }
+      ]
+    },
+    {
+      "lema": "ma.las2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ikan) betutu"
+        }
+      ]
+    }
+  ]
+}

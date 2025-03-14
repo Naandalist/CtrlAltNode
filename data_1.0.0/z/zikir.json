@@ -1,0 +1,41 @@
+{
+  "istilah": "zikir",
+  "entri": "zi.kir bentuk tidak baku: dikir, dzikir",
+  "bentukTidakBaku": "dikir, dzikir",
+  "kataTurunan": [
+    "berzikir",
+    "pezikir",
+    "zikiran"
+  ],
+  "gabunganKata": [
+    "zikir amali",
+    "zikir baredah",
+    "zikir kalbu",
+    "zikir panjang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ucapan; ingatan; doa",
+    "kataAsal": "żikr"
+  },
+  "data": [
+    {
+      "lema": "zi.kir bentuk tidak baku: dikir, dzikir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "puji-pujian kepada Allah yang diucapkan berulang-ulang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "doa atau puji-pujian berlagu (dilakukan pada perayaan Maulid Nabi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan mengucapkan zikir"
+        }
+      ]
+    }
+  ]
+}

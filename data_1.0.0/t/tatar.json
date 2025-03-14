@@ -1,0 +1,54 @@
+{
+  "istilah": "tatar",
+  "entri": "ta.tar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menatar",
+    "bertatar",
+    "menatar",
+    "penatar",
+    "penataran",
+    "petatar",
+    "tataran",
+    "tertatar",
+    "tataran"
+  ],
+  "gabunganKata": [
+    "tatar Sunda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.tar1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bidik"
+        }
+      ]
+    },
+    {
+      "lema": "ta.tar2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menatar"
+        }
+      ]
+    },
+    {
+      "lema": "ta.tar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tataran"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "istilah": "sanggan",
+  "entri": "sang.gan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sang.gan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bokor berkaki (untuk membawa antaran dan sebagainya): di antara barang pinangan yang dibawa pihak laki-laki untuk pihak perempuan, terdapat seperangkat pakaian beserta perhiasannya yang ditaruh dalam --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bakul dari rotan atau lidi yang dianyam untuk tempat pinggan, mangkuk, periuk tanah, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerangka kayu sebagai penyangga bilah-bilah sebuah gender"
+        }
+      ]
+    },
+    {
+      "lema": "sang.gan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "kerangka penyangga gulungan layar yang terletak di tiang pendek buritan sampan atau perahu"
+        }
+      ]
+    }
+  ]
+}

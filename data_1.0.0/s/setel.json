@@ -1,0 +1,45 @@
+{
+  "istilah": "setel",
+  "entri": "se.tel1 /sêtel/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersetelan",
+    "setelan",
+    "tersetel",
+    "menyetel",
+    "menyetel-nyetel",
+    "penyetelan",
+    "setelan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.tel1 /sêtel/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dua benda atau lebih yang selalu dipakai bersama-sama, yang satu menjadi pelengkap yang lain; perangkat (alat makan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selengkap (pakaian dan sebagainya): satu -- pakaian"
+        }
+      ]
+    },
+    {
+      "lema": "se.tel2 /sêtel/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyetel"
+        }
+      ]
+    }
+  ]
+}

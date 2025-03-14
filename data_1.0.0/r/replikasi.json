@@ -1,0 +1,34 @@
+{
+  "istilah": "replikasi",
+  "entri": "rep.li.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mereplikasi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rep.li.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "kemampuan virus memperbanyak diri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, cara, perbuatan meniru; penduplikatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "pengulangan eksperimen psikologi dengan cara yang sama, tetapi tempat dan subjek mungkin berbeda"
+        }
+      ]
+    }
+  ]
+}

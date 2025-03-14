@@ -1,0 +1,47 @@
+{
+  "istilah": "saman",
+  "entri": "sa.man1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menyaman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega",
+    "kataAsal": "sammān"
+  },
+  "data": [
+    {
+      "lema": "sa.man1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "dakwa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "dakwaan: di pengadilan, jaksa telah membuktikan -- yang diajukannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "surat sita: juru sita telah mengirimkan -- kepadanya seminggu yang lalu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "panggilan untuk menghadap pengadilan: berdasarkan -- yang diterimanya, ia akan menghadap ke pengadilan pada hari Senin nanti"
+        }
+      ]
+    },
+    {
+      "lema": "sa.man2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "tari ritmik di Aceh, dilakukan oleh lebih dari sepuluh pemain sambil duduk berlutut dan berjajar, mereka membuat gerak pukulan telapak tangan ke dada dan paha secara berirama, diiringi dengan nyanyian pantun yang dimulai oleh syekh selaku pimpinan"
+        }
+      ]
+    }
+  ]
+}

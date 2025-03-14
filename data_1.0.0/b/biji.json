@@ -1,0 +1,54 @@
+{
+  "istilah": "biji",
+  "entri": "bi.ji1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bebijian",
+    "berbiji",
+    "biji-bijian",
+    "membiji"
+  ],
+  "gabunganKata": [
+    "biji kemaluan",
+    "biji mata",
+    "biji ratap",
+    "biji saga",
+    "biji timun"
+  ],
+  "peribahasa": [
+    "bertanam biji hampa; menabur (menanam) biji di atas batu; seperti biji saga rambat di atas talam; seperti sebuah biji tersesat dalam rumput"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bibit, benih, asal, sumber",
+    "kataAsal": "bīja"
+  },
+  "data": [
+    {
+      "lema": "bi.ji1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "isi buah (yang apabila ditanam dapat tumbuh): -- nangka; -- mangga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butir buah yang kecil-kecil (seperti butir padi dan jagung): -- kacang; -- kedelai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata penggolong bagi bermacam-macam benda sebagai pengganti butir, buah, batang, dan sebagainya: ia makan mangga lima --; ia mempunyai lima -- mata pena"
+        }
+      ]
+    },
+    {
+      "lema": "bi.ji2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nilai: -- enam untuk bahasa Indonesia"
+        }
+      ]
+    }
+  ]
+}

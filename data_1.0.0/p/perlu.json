@@ -1,0 +1,40 @@
+{
+  "istilah": "perlu",
+  "entri": "per.lu /pêrlu/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keperluan",
+    "memerlukan",
+    "seperlunya"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kewajiban",
+    "kataAsal": "farḍ"
+  },
+  "data": [
+    {
+      "lema": "per.lu /pêrlu/",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "harus; usah: barang-barang ini -- didaftar; saya kira Anda tidak -- menyediakan makanan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penting (ada gunanya, harus ada, dan sebagainya): mana-mana yang -- kita bicarakan nanti; ini -- dan harus kaubawa"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "butuh (akan); membutuhkan; berhajat (akan): negara-negara berkembang masih -- bantuan dana dan tenaga ahli"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "untuk: ia pergi ke Surabaya -- mengurus dagangan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "endap",
+  "entri": "en.dap1 /êndap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "endap-endap",
+    "endapan",
+    "mengendap",
+    "mengendapkan",
+    "pengendap",
+    "pengendapan",
+    "terendap",
+    "terendapkan",
+    "mengendap",
+    "mengendap-endap",
+    "mengendapkan"
+  ],
+  "gabunganKata": [
+    "endapan pandan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.dap1 /êndap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengendap"
+        }
+      ]
+    },
+    {
+      "lema": "en.dap2 /êndap/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "seluduk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "kundi",
+  "entri": "kun.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "yang merah saga, yang kurik kundi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kendi, mangkuk, pot",
+    "kataAsal": "kuṇḍi"
+  },
+  "data": [
+    {
+      "lema": "kun.di1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "biji saga, dahulu digunakan untuk menimbang emas (1 emas = 24 kundi): yang kurik -- yang merah saga, yang baik budi yang indah bahasa"
+        }
+      ]
+    },
+    {
+      "lema": "kun.di2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perajin barang yang terbuat dari tanah liat"
+        }
+      ]
+    }
+  ]
+}

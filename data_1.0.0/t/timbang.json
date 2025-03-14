@@ -1,0 +1,57 @@
+{
+  "istilah": "timbang",
+  "entri": "tim.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertimbang",
+    "bertimbangan",
+    "kesetimbangan",
+    "mempertimbangkan",
+    "menimbang",
+    "menimbang-nimbang",
+    "menimbangi",
+    "menimbangkan",
+    "menyetimbangkan",
+    "penimbang",
+    "penimbangan",
+    "pertimbangan",
+    "setimbang",
+    "setimbangan",
+    "timbang-menimbang",
+    "timbangan",
+    "ketimbang"
+  ],
+  "gabunganKata": [
+    "timbang panas",
+    "timbang rasa",
+    "timbang terima",
+    "timbang tunai",
+    "timbangan digital"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tim.bang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berat sebelah; sama berat"
+        }
+      ]
+    },
+    {
+      "lema": "tim.bang2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "ketimbang"
+        }
+      ]
+    }
+  ]
+}

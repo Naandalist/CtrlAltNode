@@ -1,0 +1,45 @@
+{
+  "istilah": "cepuk",
+  "entri": "ce.puk1 /cêpuk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencepuk",
+    "mencepuk-cepuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.puk1 /cêpuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotak kecil (dari kayu, logam, dan sebagainya) tempat perhiasan, sirih, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ce.puk2 /cêpuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi batu jatuh ke dalam air dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ce.puk3 /cêpuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah lentur berbentuk pipa berisikan cat air dalam bentuk pasta"
+        }
+      ]
+    }
+  ]
+}

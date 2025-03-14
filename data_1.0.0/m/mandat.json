@@ -1,0 +1,42 @@
+{
+  "istilah": "mandat",
+  "entri": "man.dat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memandati"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.dat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perintah atau arahan yang diberikan oleh orang banyak (rakyat, perkumpulan, dan sebagainya) kepada seseorang (beberapa orang) untuk dilaksanakan sesuai dengan kehendak orang banyak itu: kongres memberikan -- kepada pengurus lama untuk meneruskan tugasnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kekuasaan untuk melakukan kewenangan kekuasaan dari suatu badan atau organ kekuasaan atas nama badan atau organ kekuasaan tersebut: MPR memberikan -- kepada Presiden untuk menjalankan kekuasaan tertinggi negara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "instruksi atau wewenang yang diberikan oleh organisasi (perkumpulan dan sebagainya) kepada wakilnya untuk melakukan sesuatu dalam perundingan, dewan, dan sebagainya: organisasi itu telah memberikan -- kepada ketua untuk ikut berunding"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat perintah bayar: pegawai itu belum dapat menerima gaji karena --nya belum ditandatangani oleh pejabat yang berwenang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perwakilan atas suatu wilayah yang diberikan oleh Perserikatan Bangsa-Bangsa; pemberian kekuasaan: Jepang diberi -- untuk mengurus kepulauan bekas jajahan Jerman di Pasifik"
+        }
+      ]
+    }
+  ]
+}

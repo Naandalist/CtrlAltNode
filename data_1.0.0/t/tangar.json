@@ -1,0 +1,33 @@
+{
+  "istilah": "tangar",
+  "entri": "ta.ngar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.ngar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "hati-hati"
+        }
+      ]
+    },
+    {
+      "lema": "ta.ngar2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bt[Batak: -]",
+          "deskripsi": "lebar (tentang mulut periuk): periuk -- itu sudah dijadikan pot bunga"
+        }
+      ]
+    }
+  ]
+}

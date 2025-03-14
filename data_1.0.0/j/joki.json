@@ -1,0 +1,48 @@
+{
+  "istilah": "joki",
+  "entri": "jo.ki1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "joki video"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jo.ki1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penunggang kuda pacuan"
+        }
+      ]
+    },
+    {
+      "lema": "jo.ki2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengatur lagu yang menangani mesin perekam lagu atau piringan hitam (di studio radio atau diskotek)"
+        }
+      ]
+    },
+    {
+      "lema": "jo.ki3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang yang mengerjakan ujian untuk orang lain dengan menyamar sebagai peserta ujian yang sebenarnya dan menerima imbalan uang: risiko pada penyelenggaraan ujian masuk ke perguruan tinggi negeri ialah munculnya -- pada ujian tersebut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang yang memberi layanan kepada pengemudi kendaraan yang bukan angkutan umum untuk memenuhi ketentuan jumlah penumpang (tiga orang) ketika melewati kawasan tertentu"
+        }
+      ]
+    }
+  ]
+}

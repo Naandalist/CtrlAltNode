@@ -1,0 +1,79 @@
+{
+  "istilah": "beradu",
+  "entri": "adu1 » ber.a.du",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "beradu akting",
+    "beradu buku tangan",
+    "beradu gelut",
+    "beradu jotos",
+    "beradu kening",
+    "beradu lengan",
+    "beradu lidah",
+    "beradu mulut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "adu1 » ber.a.du",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlanggaran; bertumbukan: di perempatan itu sudah beberapa kali mobil ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlaga; bersabung: ayam ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "(sedang) memperlagakan: ~ ayam; ~ layang-layang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bertanding berebut menang (dalam pertandingan, perlombaan, dan sebagainya): ~ lari; ~ kuat; ~ tenaga"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersentuhan: terdengar bunyi gelas ~"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terbentur; terantuk (pada): kepalanya ~ dengan tembok"
+        }
+      ]
+    },
+    {
+      "lema": "adu2 » bera.du",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat radu"
+        }
+      ]
+    },
+    {
+      "lema": "radu » be.ra.du",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berhenti: mobil itu ~ di tepi jalan karena mogok"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beristirahat: mereka ~ barang sebentar untuk melepas lelah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] hor[Hormat: menandai kata yang digunakan dalam ragam resmi]",
+          "deskripsi": "tidur: Sang Raja dan Permaisuri sedang ~ di peraduan"
+        }
+      ]
+    }
+  ]
+}

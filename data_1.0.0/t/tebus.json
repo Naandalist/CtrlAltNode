@@ -1,0 +1,59 @@
+{
+  "istilah": "tebus",
+  "entri": "te.bus1 /têbus/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menebus",
+    "penebus",
+    "penebusan",
+    "tebusan",
+    "menebus",
+    "tertebus",
+    "menebus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "te.bus1 /têbus/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menebus"
+        }
+      ]
+    },
+    {
+      "lema": "te.bus2 /têbus/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menebus"
+        }
+      ]
+    },
+    {
+      "lema": "te.bus3 /têbus/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menebus"
+        }
+      ]
+    },
+    {
+      "lema": "te.bus4 /têbus/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ tembus"
+        }
+      ]
+    }
+  ]
+}

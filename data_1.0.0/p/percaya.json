@@ -1,0 +1,51 @@
+{
+  "istilah": "percaya",
+  "entri": "per.ca.ya /pêrcaya/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepercayaan",
+    "ketepercayaan",
+    "ketidakpercayaan",
+    "memercayai",
+    "memercayakan",
+    "mempercayai",
+    "mempercayakan",
+    "tepercaya",
+    "terpercaya"
+  ],
+  "gabunganKata": [
+    "percaya angin",
+    "percaya diri"
+  ],
+  "peribahasa": [
+    "mulut manis jangan percaya, lepas dari tangan jangan diharap; tangan kanan jangan percaya akan tangan kiri"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "sumpah, gambaran atau konsep, pendirian, gagasan, asumsi, kepercayaan, kesadaran, bukti",
+    "kataAsal": "pratyaya"
+  },
+  "data": [
+    {
+      "lema": "per.ca.ya /pêrcaya/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengakui atau yakin bahwa sesuatu memang benar atau nyata: -- kepada ceritanya; -- akan kabar itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menganggap atau yakin bahwa sesuatu itu benar-benar ada: -- kepada barang gaib"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menganggap atau yakin bahwa seseorang itu jujur (tidak jahat dan sebagainya): beliau tidak -- lagi kepada Amir"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "yakin benar atau memastikan akan kemampuan atau kelebihan seseorang atau sesuatu (bahwa akan dapat memenuhi harapannya dan sebagainya): -- kepada diri sendiri"
+        }
+      ]
+    }
+  ]
+}

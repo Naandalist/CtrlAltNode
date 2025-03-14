@@ -1,0 +1,33 @@
+{
+  "istilah": "idep",
+  "entri": "i.dep1 /idêp/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bulu mata",
+    "kataAsal": "iděp"
+  },
+  "data": [
+    {
+      "lema": "i.dep1 /idêp/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bulu mata"
+        }
+      ]
+    },
+    {
+      "lema": "i.dep2 /idêp/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "lubang pada leher rebab untuk memasukkan senar atau dawai"
+        }
+      ]
+    }
+  ]
+}

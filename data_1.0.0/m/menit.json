@@ -1,0 +1,30 @@
+{
+  "istilah": "menit",
+  "entri": "me.nit /mênit/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "semenit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "me.nit /mênit/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran waktu yang lamanya 1/60 jam atau enam puluh detik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran 1/60 bagian dari satu derajat (simbol)"
+        }
+      ]
+    }
+  ]
+}

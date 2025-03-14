@@ -1,0 +1,28 @@
+{
+  "istilah": "suprasegmental",
+  "entri": "sup.ra.seg.men.tal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sup.ra.seg.men.tal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "berhubungan dengan segmen ujaran atau bunyi (fonem), yaitu nada, tekanan, sendi, intonasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "(fonem yang) tidak dapat membentuk kata, tetapi membedakan makna kata (misalnya tekanan)"
+        }
+      ]
+    }
+  ]
+}

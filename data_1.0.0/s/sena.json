@@ -1,0 +1,33 @@
+{
+  "istilah": "sena",
+  "entri": "se.na1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "bala tentara, peluru, anak panah, alat perang",
+    "kataAsal": "senā"
+  },
+  "data": [
+    {
+      "lema": "se.na1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "lembaran daun kering jenis Cassia angustifolia yang digunakan sebagai pencahar"
+        }
+      ]
+    },
+    {
+      "lema": "se.na2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tentara; bala tentara"
+        }
+      ]
+    }
+  ]
+}

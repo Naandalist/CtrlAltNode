@@ -1,0 +1,24 @@
+{
+  "istilah": "kungfu",
+  "entri": "kung.fu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Kanton",
+    "arti": "seni bela diri Cina",
+    "kataAsal": "kung foo"
+  },
+  "data": [
+    {
+      "lema": "kung.fu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "seni bela diri (asal Cina), pada umumnya tanpa senjata (menyerupai pencak), mengandalkan sepakan atau pukulan untuk melumpuhkan lawan"
+        }
+      ]
+    }
+  ]
+}

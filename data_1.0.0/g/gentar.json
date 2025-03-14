@@ -1,0 +1,37 @@
+{
+  "istilah": "gentar",
+  "entri": "gen.tar /gêntar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergentar",
+    "gentaran",
+    "kegentaran",
+    "menggentar",
+    "menggentari",
+    "menggentarkan",
+    "penggentar",
+    "penggentaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gen.tar /gêntar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan berulang-ulang yang cepat sekali (seperti kawat kecapi yang dipetik); getar: makin banyak --nya makin tinggi bunyinya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "takut: ia tidak -- melihat musuh"
+        }
+      ]
+    }
+  ]
+}

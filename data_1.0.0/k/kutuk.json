@@ -1,0 +1,56 @@
+{
+  "istilah": "kutuk",
+  "entri": "ku.tuk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keterkutukan",
+    "kutukan",
+    "mengutuk",
+    "mengutuki",
+    "terkutuk",
+    "sekutuk"
+  ],
+  "gabunganKata": [
+    "kutuk sehari",
+    "kutuk tipe unggul"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.tuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "doa atau kata-kata yang dapat mengakibatkan kesusahan atau bencana kepada seseorang atau orang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesusahan atau bencana yang menimpa seseorang atau orang lain yang disebabkan doa atau kata-kata yang diucapkan orang lain; laknat; sumpah2: mereka tidak berani berbuat jahat karena takut kena --"
+        }
+      ]
+    },
+    {
+      "lema": "ku.tuk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sukat beras (sebanyak empat genggam)"
+        }
+      ]
+    },
+    {
+      "lema": "ku.tuk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "anak ayam yang baru menetas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "bitmap",
+  "entri": "bit.map",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bit.map",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "metode penyimpanan informasi grafis dalam memori yang tiap pikselnya berisi bit pada layar"
+        }
+      ]
+    }
+  ]
+}

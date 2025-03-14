@@ -1,0 +1,56 @@
+{
+  "istilah": "sulur",
+  "entri": "su.lur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersulur",
+    "menyulur",
+    "sulur-suluran"
+  ],
+  "gabunganKata": [
+    "sulur bakung",
+    "sulur batang",
+    "sulur bulur",
+    "sulur tiang"
+  ],
+  "peribahasa": [
+    "lengan seperti sulur bakung"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "su.lur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "julai (dari tumbuhan yang menjalar dan sebagainya); pucuk batang muda (dari beberapa tumbuhan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akar yang tumbuh dari cabang dan sebagainya (seperti pada pohon beringin)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "garis (kawat dan sebagainya) yang berlingkar-lingkar pada suatu pusat hingga menyerupai per rambut pada arloji (alur pada sekrup dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batang atau bagian batang (cabang atau ranting), daun, tangkai daun, atau bagian daun lainnya yang telah mengalami perubahan bentuk dan berfungsi sebagai alat pembantu tumbuhan untuk menjalar atau merambat pada sandaran atau penunjang tumbuhan"
+        }
+      ]
+    },
+    {
+      "lema": "su.lur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "penyuluh; pengintai; suluh"
+        }
+      ]
+    }
+  ]
+}

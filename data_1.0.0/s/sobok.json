@@ -1,0 +1,36 @@
+{
+  "istilah": "sobok",
+  "entri": "so.bok1",
+  "bentukTidakBaku": "selobok",
+  "kataTurunan": [
+    "bersobok",
+    "tersobok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "so.bok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "campuran dua macam logam yang sama banyaknya"
+        }
+      ]
+    },
+    {
+      "lema": "so.bok2 bentuk tidak baku: selobok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersobok"
+        }
+      ]
+    }
+  ]
+}

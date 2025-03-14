@@ -1,0 +1,32 @@
+{
+  "istilah": "jamin",
+  "entri": "ja.min",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "jaminan",
+    "keterjaminan",
+    "menjamin",
+    "menjaminkan",
+    "penjamin",
+    "penjaminan",
+    "terjamin"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penanggung",
+    "kataAsal": "ḍāmin"
+  },
+  "data": [
+    {
+      "lema": "ja.min",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tanggung; sedia"
+        }
+      ]
+    }
+  ]
+}

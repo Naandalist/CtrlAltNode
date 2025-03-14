@@ -1,0 +1,44 @@
+{
+  "istilah": "bidal",
+  "entri": "bi.dal1",
+  "bentukTidakBaku": "jidal",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bidal akar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bi.dal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "peribahasa atau pepatah yang mengandung nasihat, peringatan, sindiran, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "bi.dal2 bentuk tidak baku: jidal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sarung jari dari logam (dipakai sebagai tudung ujung jari): ketika menjahit kain yang tebal itu, ia memakai --"
+        }
+      ]
+    },
+    {
+      "lema": "bi.dal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengemudi sepeda motor yang berada di depan kolone sebagai penunjuk atau pembuka jalan"
+        }
+      ]
+    }
+  ]
+}

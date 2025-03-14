@@ -1,0 +1,35 @@
+{
+  "istilah": "injil",
+  "entri": "In.jil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menginjil",
+    "penginjil",
+    "penginjilan"
+  ],
+  "gabunganKata": [
+    "Injil kanonik",
+    "Injil sinoptik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kitab suci yang diturunkan pada Nabi Musa",
+    "kataAsal": "injīl"
+  },
+  "data": [
+    {
+      "lema": "In.jil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "kitab suci yang diturunkan kepada Nabi Isa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "bagian kitab suci yang menceritakan kisah hidup dan pelayanan Tuhan Yesus selama di dunia"
+        }
+      ]
+    }
+  ]
+}

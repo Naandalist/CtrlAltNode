@@ -1,0 +1,53 @@
+{
+  "istilah": "gelagar",
+  "entri": "ge.la.gar1 /gêlagar/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bergelagar",
+    "bergelagaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.la.gar1 /gêlagar/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gemuruh"
+        }
+      ]
+    },
+    {
+      "lema": "ge.la.gar2 /gêlagar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belahan bambu yang dirangkai, digunakan sebagai alas duduk dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "bambu panjang untuk menjepit pagar"
+        }
+      ]
+    },
+    {
+      "lema": "ge.la.gar3 /gêlagar/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "konstruksi baja atau beton yang membentuk bentangan jembatan, dermaga, atap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "bentangan baja atau kayu yang mendukung kuda-kuda lantai"
+        }
+      ]
+    }
+  ]
+}

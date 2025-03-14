@@ -1,0 +1,37 @@
+{
+  "istilah": "bobat",
+  "entri": "bo.bat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.bat1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ri[Melayu Riau: -]",
+          "deskripsi": "menggendong sesuatu di punggung dengan menggunakan tali yang disangkutkan ke dahi: ibu -- ranting-ranting kayu itu sendiri"
+        }
+      ]
+    },
+    {
+      "lema": "Bo.bat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku&nbsp;bangsa&nbsp;yg&nbsp;berasal&nbsp;dr atau&nbsp;mendiami&nbsp;wilayah Kabupaten Seram Bagian Timur, Provinsi Maluku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa&nbsp;yg&nbsp;dituturkan&nbsp;oleh&nbsp;suku Bobat"
+        }
+      ]
+    }
+  ]
+}

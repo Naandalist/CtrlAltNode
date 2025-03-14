@@ -1,0 +1,34 @@
+{
+  "istilah": "tandan",
+  "entri": "tan.dan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "setandan"
+  ],
+  "gabunganKata": [
+    "tandan bunga",
+    "tandan ekor",
+    "tandan segar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tan.dan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangkai yang panjang pada buah-buahan yang bergugus (pisang, nyiur, enau, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "perbungaan yang memanjang, tidak terbatas, tidak bercabang dengan bunga-bunga bergantian"
+        }
+      ]
+    }
+  ]
+}

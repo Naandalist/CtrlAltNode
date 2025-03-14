@@ -1,0 +1,38 @@
+{
+  "istilah": "turus",
+  "entri": "tu.rus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menurus",
+    "menuruskan"
+  ],
+  "gabunganKata": [
+    "turus bulan",
+    "turus negara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pagar, pagar tanam tanaman",
+    "kataAsal": "turus"
+  },
+  "data": [
+    {
+      "lema": "tu.rus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiang atau tonggak (dari kayu dan sebagainya) untuk mengukuhkan pagar (belat, bendungan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batang pohon untuk tiang pada pagar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batang kayu atau bambu untuk tempat merambat kacang panjang (sirih, lada, dan sebagainya) menjalar"
+        }
+      ]
+    }
+  ]
+}

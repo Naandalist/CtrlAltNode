@@ -1,0 +1,38 @@
+{
+  "istilah": "filsafat",
+  "entri": "fil.sa.fat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berfilsafat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kebijaksanaan",
+    "kataAsal": "falsafah"
+  },
+  "data": [
+    {
+      "lema": "fil.sa.fat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan dan penyelidikan dengan akal budi mengenai hakikat segala yang ada, sebab, asal, dan hukumnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teori yang mendasari alam pikiran atau suatu kegiatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu yang berintikan logika, estetika, metafisika, dan epistemologi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "falsafah"
+        }
+      ]
+    }
+  ]
+}

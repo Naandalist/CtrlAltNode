@@ -1,0 +1,55 @@
+{
+  "istilah": "serta",
+  "entri": "ser.ta1 /sêrta/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beserta",
+    "kesertaan",
+    "mempesertakan",
+    "menyertai",
+    "menyertakan",
+    "penyerta",
+    "penyertaan",
+    "peserta",
+    "pesertaan",
+    "semerta",
+    "serta-menyertai",
+    "serta-serta",
+    "sertaan"
+  ],
+  "gabunganKata": [
+    "peserta bimbing",
+    "peserta damping",
+    "peserta latih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kawanan, kelompok, sekumpulan, jumlah besar",
+    "kataAsal": "sārtha"
+  },
+  "data": [
+    {
+      "lema": "ser.ta1 /sêrta/",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "dan: Presiden -- rombongan disambut dengan tarian selamat datang"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "demi; begitu; pada ketika: -- mendapat perintah, ia lalu berangkat; ia pun jatuh pingsan -- mendengar kabar itu"
+        }
+      ]
+    },
+    {
+      "lema": "ser.ta2 /sêrta/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ikut; turut: pada hari itu beliau tidak -- berunding; ke mana saja ia pergi, buku itu dibawa --"
+        }
+      ]
+    }
+  ]
+}

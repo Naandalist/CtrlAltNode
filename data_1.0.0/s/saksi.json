@@ -1,0 +1,68 @@
+{
+  "istilah": "saksi",
+  "entri": "sak.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersaksi",
+    "kesaksian",
+    "mempersaksikan",
+    "menyaksikan",
+    "penyaksian",
+    "persaksian"
+  ],
+  "gabunganKata": [
+    "saksi ahli",
+    "saksi alibi",
+    "saksi bisu",
+    "saksi dengkul",
+    "saksi dusta",
+    "saksi korban",
+    "saksi kunci",
+    "saksi mahkota",
+    "saksi mata",
+    "saksi palsu",
+    "saksi pelapor",
+    "saksi pemberat",
+    "saksi peringan",
+    "saksi sah",
+    "saksi syak",
+    "saksi utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "saksi mata, pengamatan, ego atau subjek",
+    "kataAsal": "sākṣin"
+  },
+  "data": [
+    {
+      "lema": "sak.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang melihat atau mengetahui sendiri suatu peristiwa (kejadian): siapa --nya bahwa saya berbuat begitu?; langit dan bumi yang menjadi --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dimintai hadir pada suatu peristiwa yang dianggap mengetahui kejadian tersebut agar pada suatu ketika, apabila diperlukan, dapat memberikan keterangan yang membenarkan bahwa peristiwa itu sungguh-sungguh terjadi: dua orang itu ikut menandatangani kontrak sebagai --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memberikan keterangan di muka hakim untuk kepentingan pendakwa atau terdakwa: -- yang kedua itu oleh hakim dianggap tidak sah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan (bukti pernyataan) yang diberikan oleh orang yang melihat atau mengetahui"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bukti kebenaran: ia berani memberi -- dengan sumpah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dapat memberikan keterangan guna kepentingan penyidikan penuntutan dan peradilan tentang suatu perkara pidana yang didengarnya, dilihatnya, atau dialaminya sendiri"
+        }
+      ]
+    }
+  ]
+}

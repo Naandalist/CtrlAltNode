@@ -1,0 +1,42 @@
+{
+  "istilah": "palau",
+  "entri": "pa.lau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.lau1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "parut atau bekas luka pada kulit (sebagai ciri)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.lau2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gor[Gorontalo: -]",
+          "deskripsi": "tradisi mengantarkan makanan kepada orang yang berduka"
+        }
+      ]
+    },
+    {
+      "lema": "Pa.lau3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "negara yang terletak di Pasifik, beribu kota Melekeok"
+        }
+      ]
+    }
+  ]
+}

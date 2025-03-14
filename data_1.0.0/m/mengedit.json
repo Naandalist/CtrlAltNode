@@ -1,0 +1,32 @@
+{
+  "istilah": "mengedit",
+  "entri": "edit » meng.e.dit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "edit » meng.e.dit",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempersiapkan naskah yang siap cetak atau siap terbit (dengan memperhatikan terutama segi ejaan, diksi, dan struktur kalimat); menyunting: dia ~ naskah buku buku yang akan diterbitkan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merencanakan dan mengarahkan penerbitan (surat kabar, majalah)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyusun (film, pita rekaman) dengan memotong dan memadukan kembali: dia ~ video pembelajaran sekolah dasar"
+        }
+      ]
+    }
+  ]
+}

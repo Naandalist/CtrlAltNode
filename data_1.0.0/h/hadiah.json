@@ -1,0 +1,45 @@
+{
+  "istilah": "hadiah",
+  "entri": "ha.di.ah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berhadiah",
+    "menghadiahi",
+    "menghadiahkan"
+  ],
+  "gabunganKata": [
+    "hadiah adipura",
+    "hadiah hiburan",
+    "hadiah lawang",
+    "hadiah Lebaran",
+    "hadiah Natal",
+    "hadiah Nobel",
+    "hadiah Pulitzer",
+    "hadiah Ramon Magsaysay"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemberian sesuatu yang berharga",
+    "kataAsal": "hadiyyah"
+  },
+  "data": [
+    {
+      "lema": "ha.di.ah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberian (kenang-kenangan, penghargaan, penghormatan): ia menerima bermacam-macam -- pada perayaan ulang tahunnya kemarin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ganjaran (karena memenangi suatu perlombaan): panitia menyediakan -- uang dan piala bagi pemenang pertama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda kenang-kenangan (tentang perpisahan); cendera mata: pada pesta perpisahan itu, kami menyampaikan -- untuk yang pergi"
+        }
+      ]
+    }
+  ]
+}

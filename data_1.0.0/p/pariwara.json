@@ -1,0 +1,37 @@
+{
+  "istilah": "pariwara",
+  "entri": "pa.ri.wa.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "keliling, penutup, rombongan atau pengiring, deretan",
+    "kataAsal": "parivāra"
+  },
+  "data": [
+    {
+      "lema": "pa.ri.wa.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "iklan yang berupa berita (bukan gambar atau poster); reklame"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemberitahuan, misalnya dalam koran; pengumuman"
+        }
+      ]
+    },
+    {
+      "lema": "pa.ri.wa.ra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengiring; pengikut"
+        }
+      ]
+    }
+  ]
+}

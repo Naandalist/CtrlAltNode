@@ -1,0 +1,42 @@
+{
+  "istilah": "kuk",
+  "entri": "kuk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kuk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu lengkung yang dipasang di tengkuk kerbau (lembu) untuk menarik bajak (pedati dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "kuk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara membenamkan atau menekan ke atas tepi pelat atau profil baja sepanjang sambungan keling dengan suatu alat agar sambungan tersebut kedap air"
+        }
+      ]
+    },
+    {
+      "lema": "KUK",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kredit usaha kecil"
+        }
+      ]
+    }
+  ]
+}

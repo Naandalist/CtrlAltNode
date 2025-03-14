@@ -1,0 +1,72 @@
+{
+  "istilah": "serak",
+  "entri": "se.rak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berserak",
+    "berserak-serak",
+    "berserakan",
+    "menyerak",
+    "menyerak-nyerakkan",
+    "menyerakkan",
+    "terserak",
+    "terserak-serak",
+    "serak-serak"
+  ],
+  "gabunganKata": [
+    "serak-serik",
+    "serak-seruk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "keras (suara)",
+    "kataAsal": "srak"
+  },
+  "data": [
+    {
+      "lema": "se.rak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyerak"
+        }
+      ]
+    },
+    {
+      "lema": "se.rak1 /sêrak/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "parau (tentang suara karena banyak berkata-kata dan sebagainya): semalaman ia menangis hingga suaranya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sendat jalan suaranya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sendat jalan pernapasannya (karena berlendir dan sebagainya): jangan minum es, nanti --"
+        }
+      ]
+    },
+    {
+      "lema": "se.rak2 /sêrak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "elang malam (atau burung hantu) yang bunyinya serak (seperti suara orang yang serak)〔Strix flammea javanica〕"
+        }
+      ]
+    },
+    {
+      "lema": "se.rak3 /sêrak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi (menggosok lantai dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

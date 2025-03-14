@@ -1,0 +1,42 @@
+{
+  "istilah": "serikat",
+  "entri": "se.ri.kat /sêrikat/bentuk tidak baku: sarekat",
+  "bentukTidakBaku": "sarekat",
+  "kataTurunan": [
+    "berserikat",
+    "menyerikati",
+    "menyerikatkan",
+    "perserikatan"
+  ],
+  "gabunganKata": [
+    "serikat buruh",
+    "serikat dagang",
+    "serikat sekerja",
+    "Serikat Yesus"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "persekutuan dalam berdagang atau lainnya",
+    "kataAsal": "syirkah"
+  },
+  "data": [
+    {
+      "lema": "se.ri.kat /sêrikat/bentuk tidak baku: sarekat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkumpulan (perhimpunan, gabungan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persekutuan (dagang); perseroan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sekutu; kawan (dalam perang dan sebagainya): Inggris segera akan berunding dengan --nya; kaum --; negara-negara -- negara-negara yang bersekutu (dalam Perang Dunia Kedua)"
+        }
+      ]
+    }
+  ]
+}

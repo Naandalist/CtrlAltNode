@@ -1,0 +1,28 @@
+{
+  "istilah": "syahda",
+  "entri": "syah.da bentuk tidak baku: sahda, sahdu1, syahada",
+  "bentukTidakBaku": "sahda, sahdu1, syahada",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "indah; kekurangan tidur",
+    "kataAsal": "sahd"
+  },
+  "data": [
+    {
+      "lema": "syah.da bentuk tidak baku: sahda, sahdu1, syahada",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "elok; cantik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "mulia; terutama; syahdu"
+        }
+      ]
+    }
+  ]
+}

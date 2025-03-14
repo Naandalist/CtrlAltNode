@@ -1,0 +1,32 @@
+{
+  "istilah": "tpa",
+  "entri": "TPA",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "TPA",
+      "arti": [
+        {
+          "kelas_kata": "sing[singkatan]",
+          "deskripsi": "tes potensi akademik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "tempat pembuangan akhir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -] sing[singkatan]",
+          "deskripsi": "Taman Pendidikan Al-Qur'an"
+        }
+      ]
+    }
+  ]
+}

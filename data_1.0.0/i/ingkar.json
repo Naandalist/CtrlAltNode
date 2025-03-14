@@ -1,0 +1,39 @@
+{
+  "istilah": "ingkar",
+  "entri": "ing.kar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beringkar",
+    "keingkaran",
+    "mengingkari",
+    "pengingkar",
+    "pengingkaran",
+    "teringkari"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sangkalan; bantahan",
+    "kataAsal": "inkār"
+  },
+  "data": [
+    {
+      "lema": "ing.kar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengingkari: orang yang memuja berhala, berarti -- akan keesaan Tuhan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak menepati: ia -- janji"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak mau; tidak menurut: ia pun -- dan tidak lagi memedulikan keaiban"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "bolu",
+  "entri": "bo.lu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bolu gulung",
+    "bolu kastela",
+    "bolu kemojo",
+    "bolu koja",
+    "bolu kukus",
+    "bolu panggang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.lu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang dibuat dari adonan tepung terigu, telur, gula pasir, dan sebagainya dan dipanggang"
+        }
+      ]
+    },
+    {
+      "lema": "bo.lu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bandeng"
+        }
+      ]
+    }
+  ]
+}

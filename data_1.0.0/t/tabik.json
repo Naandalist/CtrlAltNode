@@ -1,0 +1,44 @@
+{
+  "istilah": "tabik",
+  "entri": "ta.bik1 bentuk tidak baku: tabe",
+  "bentukTidakBaku": "tabetabi",
+  "kataTurunan": [
+    "bersitabik",
+    "menabik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengikut",
+    "kataAsal": "tābi‘"
+  },
+  "data": [
+    {
+      "lema": "ta.bik1 bentuk tidak baku: tabe",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "(ungkapan untuk memberi) salam; selamat (pagi, siang, malam); assalamualaikum; sepada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "perbuatan menghormati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "maaf (dikatakan apabila masuk ke tempat yang keramat dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ta.bik2 bentuk tidak baku: tabi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengikut; penganut"
+        }
+      ]
+    }
+  ]
+}

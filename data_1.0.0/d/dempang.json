@@ -1,0 +1,35 @@
+{
+  "istilah": "dempang",
+  "entri": "dem.pang1 /dêmpang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdempang-dempang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dem.pang1 /dêmpang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi tong (kaleng besar dan sebagainya) kosong jatuh dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "dem.pang2 /dêmpang/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhampiran; damping; dekat; rapat: maka perahu itulah -- ke pulau"
+        }
+      ]
+    }
+  ]
+}

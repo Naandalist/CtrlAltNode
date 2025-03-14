@@ -1,0 +1,32 @@
+{
+  "istilah": "bersuku",
+  "entri": "suku1 » ber.su.ku",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "suku1 » ber.su.ku",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "berkaki: berdiri ~ tunggal berdiri dengan sebelah kaki"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "mempunyai suku (bagian dan sebagainya); berbagian"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Mk[Minangkabau: -] ki[kiasan] Mk[Minangkabau] ki[kiasan]",
+          "deskripsi": "masuk salah satu suku: tidak ~   [1] tidak masuk dalam salah satu suku [2] tidak tahu adat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "lateral",
+  "entri": "la.te.ral /latêral/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.te.ral /latêral/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "di sebelah sisi; di sisi; ke sisi; ke pinggir"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "dihasilkan dengan penutupan sebagian lidah (tentang bunyi ujar)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi yang dihasilkan dengan penutupan sebagian lidah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "arah referensi yang lebih jauh dari garis tengah tubuh"
+        }
+      ]
+    }
+  ]
+}

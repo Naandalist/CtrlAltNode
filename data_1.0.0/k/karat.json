@@ -1,0 +1,52 @@
+{
+  "istilah": "karat",
+  "entri": "ka.rat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkarat",
+    "karatan"
+  ],
+  "gabunganKata": [
+    "karat hati",
+    "karat merah teh",
+    "karat putih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Belanda",
+    "arti": "ukuran berat dalam perdagangan berlian; ukuran kehalusan emas",
+    "kataAsal": "karaat"
+  },
+  "data": [
+    {
+      "lema": "ka.rat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapisan merah (kekuning-kuningan) yang melekat pada besi dan sebagainya sebagai akibat proses kimia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat yang terjadi karena oksidasi logam dengan zat asam (oksigen) yang terdapat di udara"
+        }
+      ]
+    },
+    {
+      "lema": "ka.rat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran untuk menentukan kadar emas: emas 20 -- berarti bagian emas murni dicampur dengan 4 bagian logam lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran berat berlian (intan) 200 mg: berlian dua --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nilai; mutu: pemimpin yang tinggi --nya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "dami",
+  "entri": "da.mi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jerami",
+    "kataAsal": "dami"
+  },
+  "data": [
+    {
+      "lema": "da.mi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jerami"
+        }
+      ]
+    },
+    {
+      "lema": "da.mi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "serat-serat yang terdapat di antara daging buah nangka"
+        }
+      ]
+    },
+    {
+      "lema": "da.mi3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -] Mus[Musik: -]",
+          "deskripsi": "lambang panjang suara dalam notasi gamelan yang menunjang ritme"
+        }
+      ]
+    }
+  ]
+}

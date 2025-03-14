@@ -1,0 +1,36 @@
+{
+  "istilah": "seba",
+  "entri": "se.ba1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berseba",
+    "menyeba"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.ba1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menyeba"
+        }
+      ]
+    },
+    {
+      "lema": "se.ba2 /sêba/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ach[Aceh: -]",
+          "deskripsi": "menumbuk padi (masih kasar) untuk pertama kalinya"
+        }
+      ]
+    }
+  ]
+}

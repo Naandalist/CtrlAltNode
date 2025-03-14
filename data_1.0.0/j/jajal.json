@@ -1,0 +1,26 @@
+{
+  "istilah": "jajal",
+  "entri": "ja.jal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menjajal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "coba, usaha",
+    "kataAsal": "jajal"
+  },
+  "data": [
+    {
+      "lema": "ja.jal",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "coba; uji; tes"
+        }
+      ]
+    }
+  ]
+}

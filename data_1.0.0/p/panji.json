@@ -1,0 +1,47 @@
+{
+  "istilah": "panji",
+  "entri": "pan.ji1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpanji-panji",
+    "panji-panji"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "seperti panji, ditiup angin berkibar-kibaran"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.ji1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panji-panji"
+        }
+      ]
+    },
+    {
+      "lema": "pan.ji2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar bangsawan di Jawa, lebih tinggi daripada gelar raden, tetapi lebih rendah daripada gelar raden mas"
+        }
+      ]
+    },
+    {
+      "lema": "pan.ji3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "tokoh cerita sastra Nusantara lama yang dalam pengembangannya menunjukkan sifat kepahlawanan yang mampu mengatasi segala tantangan"
+        }
+      ]
+    }
+  ]
+}

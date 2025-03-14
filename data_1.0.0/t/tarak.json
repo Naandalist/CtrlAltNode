@@ -1,0 +1,31 @@
+{
+  "istilah": "tarak",
+  "entri": "ta.rak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertarak",
+    "pertarakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hal meninggalkan",
+    "kataAsal": "tark"
+  },
+  "data": [
+    {
+      "lema": "ta.rak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penahanan hawa nafsu (pada berpuasa, berpantang, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tapa"
+        }
+      ]
+    }
+  ]
+}

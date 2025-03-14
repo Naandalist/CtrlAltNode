@@ -1,0 +1,32 @@
+{
+  "istilah": "departemen",
+  "entri": "de.par.te.men /dêpartêmen/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.par.te.men /dêpartêmen/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lembaga tinggi pemerintahan yang mengurus suatu bidang pekerjaan negara yang dipimpin seorang menteri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dik[Pendidikan: -]",
+          "deskripsi": "bagian dari fakultas, biasanya dipimpin oleh ketua jurusan (departemen) yang menggarap sekelompok disiplin ilmu yang tercakup dalam suatu bidang studi tertentu: -- Mesin, Fakultas Teknologi Industri, Institut Teknologi Bandung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dik[Pendidikan: -]",
+          "deskripsi": "cabang pekerjaan yang dikepalai oleh manajer tunggal"
+        }
+      ]
+    }
+  ]
+}

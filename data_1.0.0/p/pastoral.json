@@ -1,0 +1,41 @@
+{
+  "istilah": "pastoral",
+  "entri": "pas.to.ral1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pas.to.ral1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan pastor"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengenai pendeta"
+        }
+      ]
+    },
+    {
+      "lema": "pas.to.ral2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengenai kehidupan di dusun; mengenai gembala dan penghidupannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karya sastra yang menggambarkan kehidupan pedesaan yang tenang dan tenteram"
+        }
+      ]
+    }
+  ]
+}

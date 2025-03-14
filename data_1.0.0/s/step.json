@@ -1,0 +1,33 @@
+{
+  "istilah": "step",
+  "entri": "step1",
+  "bentukTidakBaku": "setip2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "step1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "langkah (dalam senam irama dan lompat jangkit)"
+        }
+      ]
+    },
+    {
+      "lema": "step2 bentuk tidak baku: setip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "kejang karena gangguan otak"
+        }
+      ]
+    }
+  ]
+}

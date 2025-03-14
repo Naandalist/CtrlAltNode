@@ -1,0 +1,37 @@
+{
+  "istilah": "kendal",
+  "entri": "ken.dal /kêndal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ken.dal /kêndal/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kanang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah kendal; kayu kendal"
+        }
+      ]
+    },
+    {
+      "lema": "Ken.dal2 /kêndal/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Jawa Tengah, terkenal dengan sebutan Kota Santri dan merupakan kawasan ekonomi khusus"
+        }
+      ]
+    }
+  ]
+}

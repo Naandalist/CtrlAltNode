@@ -1,0 +1,51 @@
+{
+  "istilah": "dom",
+  "entri": "dom1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dom1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pedoman"
+        }
+      ]
+    },
+    {
+      "lema": "dom2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "gereja utama; katedral"
+        }
+      ]
+    },
+    {
+      "lema": "dom3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "domino"
+        }
+      ]
+    },
+    {
+      "lema": "DOM",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "daerah operasi militer"
+        }
+      ]
+    }
+  ]
+}

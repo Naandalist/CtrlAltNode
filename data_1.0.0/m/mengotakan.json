@@ -1,0 +1,37 @@
+{
+  "istilah": "mengotakan",
+  "entri": "kota1 » me.ngo.ta.kan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kota1 » me.ngo.ta.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "menjadikan seperti kota; menjadikan bersifat kota; menjadikan sebagai konsumsi orang kota"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "memperkuat dengan benteng; memakai sesuatu untuk benteng"
+        }
+      ]
+    },
+    {
+      "lema": "kota2 » me.ngo.ta.kan",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menepati (janji, kata, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "jreng",
+  "entri": "jreng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengejreng"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jreng1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi alat musik seperti gitar"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "tunai: membayar --"
+        }
+      ]
+    },
+    {
+      "lema": "jreng2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengejreng"
+        }
+      ]
+    }
+  ]
+}

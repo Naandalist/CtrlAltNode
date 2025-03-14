@@ -1,0 +1,40 @@
+{
+  "istilah": "damai",
+  "entri": "da.mai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdamai",
+    "kedamaian",
+    "memperdamaikan",
+    "mendamaikan",
+    "pendamai",
+    "perdamaian",
+    "terdamaikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "da.mai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tidak ada perang; tidak ada kerusuhan; aman: dalam masa --, perindustrian maju pesat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tenteram; tenang: betapa -- hati kami"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan tidak bermusuhan; rukun: penduduk kampung itu selalu hidup dengan --; semuanya dapat diselesaikan secara --"
+        }
+      ]
+    }
+  ]
+}

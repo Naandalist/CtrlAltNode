@@ -1,0 +1,28 @@
+{
+  "istilah": "tarasul",
+  "entri": "ta.ra.sul bentuk tidak baku: terasul",
+  "bentukTidakBaku": "terasul",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "korespondensi",
+    "kataAsal": "tarāsul"
+  },
+  "data": [
+    {
+      "lema": "ta.ra.sul bentuk tidak baku: terasul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat-menyurat; korespondensi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(surat) tulisan tangan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "gobang",
+  "entri": "go.bang1 bentuk tidak baku: gubang3",
+  "bentukTidakBaku": "gubang3",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Fuzhou",
+    "arti": "uang tembaga bernilai 2,5 sen",
+    "kataAsal": "gō͘ pòan"
+  },
+  "data": [
+    {
+      "lema": "go.bang1 bentuk tidak baku: gubang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang tembaga yang bernilai 2,5 sen; benggol"
+        }
+      ]
+    },
+    {
+      "lema": "go.bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "pedang"
+        }
+      ]
+    }
+  ]
+}

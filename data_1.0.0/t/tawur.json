@@ -1,0 +1,44 @@
+{
+  "istilah": "tawur",
+  "entri": "ta.wur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tawuran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ta.wur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkelahian beramai-ramai; perkelahian massal: tiba-tiba terjadi -- antara kedua keluarga yang berselisih itu"
+        }
+      ]
+    },
+    {
+      "lema": "ta.wur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "ragam hias batik Cirebon berupa titik-titik acak yang mengisi bidang yang lebih besar"
+        }
+      ]
+    },
+    {
+      "lema": "ta.wur3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "daun kawung basah yang disusun dan ditusuk dengan lidi untuk perlengkapan upacara adat Ngalaksa"
+        }
+      ]
+    }
+  ]
+}

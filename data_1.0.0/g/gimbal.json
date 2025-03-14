@@ -1,0 +1,44 @@
+{
+  "istilah": "gimbal",
+  "entri": "gim.bal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggimbal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tidak disisir dan lengket (rambut)",
+    "kataAsal": "gimbal"
+  },
+  "data": [
+    {
+      "lema": "gim.bal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lebat dan tidak teratur (karena tidak disisir): rambutnya --"
+        }
+      ]
+    },
+    {
+      "lema": "gim.bal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "udang digoreng dengan tepung"
+        }
+      ]
+    },
+    {
+      "lema": "gim.bal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bagian atap rumah yang menjorok ke luar bangunan, berfungsi sebagai pelindung dinding luar rumah agar tidak terkena air hujan"
+        }
+      ]
+    }
+  ]
+}

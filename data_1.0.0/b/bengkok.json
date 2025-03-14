@@ -1,0 +1,47 @@
+{
+  "istilah": "bengkok",
+  "entri": "beng.kok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bengkokan",
+    "kebengkokan",
+    "membengkok",
+    "membengkok-bengkokkan",
+    "membengkokkan",
+    "pembengkok",
+    "pembengkokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "di mana kayu bengkok, di sanalah musang meniti; tanah lembah kandungan air, kayu bengkok titian kera"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "beng.kok1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menyimpang dari garis lurus, berkeluk; tidak lurus: kayu yang -- tidak baik untuk dijadikan papan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak jujur; curang: harta yang diperoleh dengan jalan -- tidak akan membawa berkah"
+        }
+      ]
+    },
+    {
+      "lema": "beng.kok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tanah milik desa yang dipinjamkan kepada pamong desa untuk digarap dan dipetik hasilnya sebagai pengganti gaji"
+        }
+      ]
+    }
+  ]
+}

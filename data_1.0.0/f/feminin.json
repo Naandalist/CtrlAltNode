@@ -1,0 +1,35 @@
+{
+  "istilah": "feminin",
+  "entri": "fe.mi.nin bentuk tidak baku: feminim",
+  "bentukTidakBaku": "feminim",
+  "kataTurunan": [
+    "kefemininan",
+    "sefeminin"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fe.mi.nin bentuk tidak baku: feminim",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengenai perempuan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat perempuan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "menyerupai atau seperti perempuan"
+        }
+      ]
+    }
+  ]
+}

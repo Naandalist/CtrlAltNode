@@ -1,0 +1,43 @@
+{
+  "istilah": "keran",
+  "entri": "ke.ran1 /kêran/",
+  "bentukTidakBaku": "kran",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "keran bola",
+    "keran kebakaran",
+    "keran piringan",
+    "keran putar",
+    "keran ungkit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ke.ran1 /kêran/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menyalakan api untuk memasak; perapian; anglo"
+        }
+      ]
+    },
+    {
+      "lema": "ke.ran2 /kêran/bentuk tidak baku: kran",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cerat pancuran (air leding), yang dapat dibuka dan ditutup dengan tutup berulir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "pintu: sejak -- keterbukaan muncul, setiap orang berhak mengemukakan pendapat secara bebas"
+        }
+      ]
+    }
+  ]
+}

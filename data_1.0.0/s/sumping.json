@@ -1,0 +1,33 @@
+{
+  "istilah": "sumping",
+  "entri": "sum.ping1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bunga (daun dan lain-lain) yang dipakai di telinga, perhiasan telinga dalam bentuk bunga",
+    "kataAsal": "sumpiṅ"
+  },
+  "data": [
+    {
+      "lema": "sum.ping1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "perhiasan telinga (bentuknya seperti gambar sayap terbuat dari kulit dan sebagainya) yang dicat dengan warna keemasan"
+        }
+      ]
+    },
+    {
+      "lema": "sum.ping2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "nagasari2"
+        }
+      ]
+    }
+  ]
+}

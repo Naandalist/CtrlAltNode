@@ -1,0 +1,51 @@
+{
+  "istilah": "lapak",
+  "entri": "la.pak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berlapak",
+    "melapak",
+    "pelapak"
+  ],
+  "gabunganKata": [
+    "lapak judi",
+    "lapak memancing",
+    "lapak pemulung",
+    "lapak sentuh",
+    "lapak tombol"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "la.pak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berlapak"
+        }
+      ]
+    },
+    {
+      "lema": "la.pak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "lapik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat berdagang, biasanya di pasar tradisional, kaki lima, dan sebagainya atau lokapasar"
+        }
+      ]
+    }
+  ]
+}

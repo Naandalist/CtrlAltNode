@@ -1,0 +1,33 @@
+{
+  "istilah": "kibbutz",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Ib[Ibrani: -]",
+          "deskripsi": "tanah pertanian kolektif di Israel"
+        }
+      ]
+    },
+    {
+      "lema": "kibbutz",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Ibrani: -]",
+          "deskripsi": "tanah pertanian kolektif di Israel"
+        }
+      ]
+    }
+  ]
+}

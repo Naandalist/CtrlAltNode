@@ -1,0 +1,59 @@
+{
+  "istilah": "kepang",
+  "entri": "ke.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkepang",
+    "kepangan",
+    "mengepang",
+    "pengepang",
+    "terkepang"
+  ],
+  "gabunganKata": [
+    "kepang magnetik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kucir",
+    "kataAsal": "kè piēn"
+  },
+  "data": [
+    {
+      "lema": "ke.pang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalinan (anyaman) tali (rambut dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ke.pang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ kipang"
+        }
+      ]
+    },
+    {
+      "lema": "ke.pang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "anyaman silang miring terbuat dari bilah bambu tipis, untuk menjemur gabah atau pelapis dinding; gedek"
+        }
+      ]
+    },
+    {
+      "lema": "ke.pang /kêpang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tengkaras〔Aquilaria malaccensis〕"
+        }
+      ]
+    }
+  ]
+}

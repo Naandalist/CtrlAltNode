@@ -1,0 +1,44 @@
+{
+  "istilah": "sembung",
+  "entri": "sem.bung1 /sêmbung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "sembung lelaki",
+    "sembung rambat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "jenis tumbuh-tumbuhan yang khas (Conya balsamitera)",
+    "kataAsal": "sěmbuṅ"
+  },
+  "data": [
+    {
+      "lema": "sem.bung1 /sêmbung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perdu berbulu yang batangnya bulat, daunnya melonjong, bunganya majemuk berwarna putih kekuningan, buahnya berwarna putih kecokelatan, dapat digunakan sebagai tanaman obat〔Blumea balsamifera〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daun sembung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akar sembung"
+        }
+      ]
+    },
+    {
+      "lema": "sem.bung2 /sêmbung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat bunyi-bunyian dari kerang"
+        }
+      ]
+    }
+  ]
+}

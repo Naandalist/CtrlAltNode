@@ -1,0 +1,35 @@
+{
+  "istilah": "petal",
+  "entri": "pe.tal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memetalkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.tal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "daun mahkota"
+        }
+      ]
+    },
+    {
+      "lema": "pe.tal /pêtal/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "tekan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "tambak",
+  "entri": "tam.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertambak",
+    "menambak",
+    "penambak",
+    "penambakan",
+    "petambak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "nama jenis ikan laut",
+    "kataAsal": "tambak"
+  },
+  "data": [
+    {
+      "lema": "tam.bak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pematang untuk menahan air; gili-gili; tanggul; bendung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kolam di tepi laut yang diberi pematang untuk memelihara ikan (terutama ikan bandeng; udang); tebat"
+        }
+      ]
+    },
+    {
+      "lema": "tam.bak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan yang hidup di air laut, panjangnya mencapai 60 cm, dapat mencapai berat 2,53 kg, umur 10 tahun, hidup di wilayah terumbu karang subtropis dengan kedalaman 10–400 m〔Lutjanus synagris〕"
+        }
+      ]
+    }
+  ]
+}

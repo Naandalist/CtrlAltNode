@@ -1,0 +1,42 @@
+{
+  "istilah": "pa",
+  "entri": "pa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "papa; bapak"
+        }
+      ]
+    },
+    {
+      "lema": "PA1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "patologi anatomi"
+        }
+      ]
+    },
+    {
+      "lema": "PA2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "penasihat akademis"
+        }
+      ]
+    }
+  ]
+}

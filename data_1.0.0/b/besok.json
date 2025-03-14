@@ -1,0 +1,32 @@
+{
+  "istilah": "besok",
+  "entri": "be.sok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "besok lusa"
+  ],
+  "peribahasa": [
+    "kini gatal, besok digaruk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "besok, kemudian; esok hari",
+    "kataAsal": "besuk"
+  },
+  "data": [
+    {
+      "lema": "be.sok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari sesudah hari ini; esok hari: hari ini hari Kamis, -- hari Jumat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu yang akan datang; kelak: ia berjanji mengembalikan pinjamannya -- jika sudah ada uang"
+        }
+      ]
+    }
+  ]
+}

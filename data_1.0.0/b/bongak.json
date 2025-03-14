@@ -1,0 +1,44 @@
+{
+  "istilah": "bongak",
+  "entri": "bo.ngak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membongak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bo.ngak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sombong; congkak; angkuh"
+        }
+      ]
+    },
+    {
+      "lema": "bo.ngak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bohong; dusta"
+        }
+      ]
+    },
+    {
+      "lema": "bo.ngak3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "bodoh"
+        }
+      ]
+    }
+  ]
+}

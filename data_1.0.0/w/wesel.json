@@ -1,0 +1,48 @@
+{
+  "istilah": "wesel",
+  "entri": "we.sel1 /wesêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "wesel antisipasi",
+    "wesel bank",
+    "wesel bayar",
+    "wesel cek",
+    "wesel jangka panjang",
+    "wesel luar",
+    "wesel pinjam nama",
+    "wesel tagih",
+    "wesel tunai",
+    "wesel waktu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "we.sel1 /wesêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat pos untuk mengirimkan uang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surat pembayaran yang dapat diuangkan ke bank oleh pemegangnya"
+        }
+      ]
+    },
+    {
+      "lema": "we.sel2 /wesêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "konstruksi batang-batang rel kereta api yang bercabang (bersimpangan) tempat memindahkan arah jalan kereta api"
+        }
+      ]
+    }
+  ]
+}

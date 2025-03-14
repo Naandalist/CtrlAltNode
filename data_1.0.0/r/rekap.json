@@ -1,0 +1,28 @@
+{
+  "istilah": "rekap",
+  "entri": "re.kap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merekap",
+    "rekapan",
+    "terekap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.kap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kp[kependekan]",
+          "deskripsi": "rekapitulasi"
+        }
+      ]
+    }
+  ]
+}

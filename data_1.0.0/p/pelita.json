@@ -1,0 +1,43 @@
+{
+  "istilah": "pelita",
+  "entri": "pe.li.ta1 /pêlita/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpelita"
+  ],
+  "gabunganKata": [
+    "pelita hati"
+  ],
+  "peribahasa": [
+    "bagai pelita kehabisan minyak; memasang pelita tengah hari; pikir itu pelita hati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.li.ta1 /pêlita/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lampu (dengan bahan bakar minyak)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "penerang; petunjuk: engkau bagai -- dalam kegelapan"
+        }
+      ]
+    },
+    {
+      "lema": "pe.li.ta2 /pêlita/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "pembangunan lima tahun (program pembangunan pada Orde Baru)"
+        }
+      ]
+    }
+  ]
+}

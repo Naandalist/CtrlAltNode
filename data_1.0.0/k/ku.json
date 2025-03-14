@@ -1,0 +1,67 @@
+{
+  "istilah": "ku",
+  "entri": "ku-3 varian: -ku",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Quanzhou",
+    "arti": "kura-kura",
+    "kataAsal": "ku"
+  },
+  "data": [
+    {
+      "lema": "ku-3 varian: -ku",
+      "arti": [
+        {
+          "kelas_kata": "klitik[- : -]",
+          "deskripsi": "(dari aku) pelaku: --ambil; --tangkap"
+        },
+        {
+          "kelas_kata": "klitik[- : -]",
+          "deskripsi": "(dari aku) pemilik: rumah--; sepeda--"
+        },
+        {
+          "kelas_kata": "klitik[- : -]",
+          "deskripsi": "(dari aku) tujuan: memukul--; menghampiri--"
+        }
+      ]
+    },
+    {
+      "lema": "ku1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk ringkas dari pronomina persona pertama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bentuk klitik aku sebagai penunjuk pelaku, pemilik, tujuan: --ambil; rumah--; memukul--"
+        }
+      ]
+    },
+    {
+      "lema": "ku2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama penganan; kue ku"
+        }
+      ]
+    },
+    {
+      "lema": "-ku",
+      "arti": [
+        {
+          "kelas_kata": "klitik[- : -]",
+          "deskripsi": "(dari aku) pemilik: rumahku; sepedaku"
+        },
+        {
+          "kelas_kata": "klitik[- : -]",
+          "deskripsi": "(dari aku) tujuan: memukulku; menghampiriku"
+        }
+      ]
+    }
+  ]
+}

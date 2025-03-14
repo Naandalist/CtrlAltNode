@@ -1,0 +1,32 @@
+{
+  "istilah": "saldo",
+  "entri": "sal.do",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "saldo awal",
+    "saldo bank",
+    "saldo debit",
+    "saldo imbangan",
+    "saldo kredit",
+    "saldo minimum",
+    "saldo rekening"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sal.do",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selisih (antara uang yang masuk dan yang keluar); sisa: untuk tahun ini -- perusahaan itu naik"
+        }
+      ]
+    }
+  ]
+}

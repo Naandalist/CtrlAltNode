@@ -1,0 +1,35 @@
+{
+  "istilah": "lempuk",
+  "entri": "lem.puk1 /lêmpuk/bentuk tidak baku: lempok",
+  "bentukTidakBaku": "lempok",
+  "kataTurunan": [
+    "berlempuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lem.puk1 /lêmpuk/bentuk tidak baku: lempok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang dibuat dari pisang, durian, dan sebagainya direbus dengan gula sehingga liat dan lekat"
+        }
+      ]
+    },
+    {
+      "lema": "lem.puk2 /lêmpuk/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berlempuk"
+        }
+      ]
+    }
+  ]
+}

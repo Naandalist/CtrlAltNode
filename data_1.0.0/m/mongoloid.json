@@ -1,0 +1,33 @@
+{
+  "istilah": "mongoloid",
+  "entri": "mo.ngo.lo.id1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.ngo.lo.id1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan karakteristik yang dimiliki oleh orang-orang ras Mongol"
+        }
+      ]
+    },
+    {
+      "lema": "mo.ngo.lo.id2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "penyakit bawaan dengan gejala kepala kecil, mata sipit miring ke atas samping, lidah tebal, dan retardasi mental; mongolisme; sindrom Down; facies mongoloides"
+        }
+      ]
+    }
+  ]
+}

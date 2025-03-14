@@ -1,0 +1,34 @@
+{
+  "istilah": "mandor",
+  "entri": "man.dor bentuk tidak baku: mandur",
+  "bentukTidakBaku": "mandur",
+  "kataTurunan": [
+    "kemandoran",
+    "memandori"
+  ],
+  "gabunganKata": [
+    "mandor jalan",
+    "mandor kepala"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "man.dor bentuk tidak baku: mandur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengepalai beberapa orang atau kelompok dan bertugas mengawasi pekerjaan mereka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karyawan biasa yang tugasnya sama dengan tugas karyawan yang lain dan di samping itu merangkap tugas pengawasan atas rekan-rekannya"
+        }
+      ]
+    }
+  ]
+}

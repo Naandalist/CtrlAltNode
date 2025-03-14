@@ -1,0 +1,38 @@
+{
+  "istilah": "turis",
+  "entri": "tu.ris1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menuris"
+  ],
+  "gabunganKata": [
+    "turis asing",
+    "turis domestik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "tu.ris1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menuris"
+        }
+      ]
+    },
+    {
+      "lema": "tu.ris2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelancong; wisatawan"
+        }
+      ]
+    }
+  ]
+}

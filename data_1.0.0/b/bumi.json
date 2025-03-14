@@ -1,0 +1,43 @@
+{
+  "istilah": "bumi",
+  "entri": "bu.mi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebumian",
+    "membumi",
+    "membumikan",
+    "mengebumikan",
+    "pengebumian"
+  ],
+  "gabunganKata": [
+    "bumi istana",
+    "bumi perkemahan"
+  ],
+  "peribahasa": [
+    "bumi berputar zaman beredar; bumi mana yang tak kena hujan; bumi tidak selebar daun kelor; di mana bumi dipijak, di sana langit dijunjung; di mana bumi dipijak, di situ langit dijunjung; hujan menimpa bumi; jadi bumi langit; ke langit tak sampai, ke bumi tak nyata; laut mana yang tak berombak, bumi mana yang tak ditimpa hujan; sebesar-besarnya bumi, ditampar tak kena; terban bumi tempat berpijak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tanah, negara, distrik, tempat, bumi",
+    "kataAsal": "bhūmi"
+  },
+  "data": [
+    {
+      "lema": "bu.mi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat manusia hidup; dunia; jagat: sampai sekarang orang berpendapat bahwa manusia hanya terdapat di --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "(huruf pertama biasa ditulis kapital) planet ke-3 dari matahari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permukaan dunia; tanah: kakinya seolah-olah tidak berpijak di --"
+        }
+      ]
+    }
+  ]
+}

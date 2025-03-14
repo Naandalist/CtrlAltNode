@@ -1,0 +1,36 @@
+{
+  "istilah": "cantel",
+  "entri": "can.tel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cantelan",
+    "mencantelkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "can.tel1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "terna yang tingginya hingga 3 m, berdaun memita panjang, berujung lancip,  berbunga malai hijau muda atau hijau muda keunguan, biji yang tua merupakan sumber karbohidrat, daunnya dimanfaatkan sebagai bahan makanan ternak〔Sorghum halepense〕"
+        }
+      ]
+    },
+    {
+      "lema": "can.tel2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "sangkut"
+        }
+      ]
+    }
+  ]
+}

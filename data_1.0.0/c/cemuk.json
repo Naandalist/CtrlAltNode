@@ -1,0 +1,35 @@
+{
+  "istilah": "cemuk",
+  "entri": "ce.muk1 /cêmuk/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mencemuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ce.muk1 /cêmuk/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pukul (dengan alat, seperti tongkat)"
+        }
+      ]
+    },
+    {
+      "lema": "ce.muk2 /cêmuk/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit kacang (petai dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

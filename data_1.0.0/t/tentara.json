@@ -1,0 +1,43 @@
+{
+  "istilah": "tentara",
+  "entri": "ten.ta.ra /têntara/bentuk tidak baku: tentera",
+  "bentukTidakBaku": "tentera",
+  "kataTurunan": [
+    "ketentaraan",
+    "pertentaraan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "teknik, aturan, sistem; pasukan; pemerintah",
+    "kataAsal": "tantra"
+  },
+  "data": [
+    {
+      "lema": "ten.ta.ra /têntara/bentuk tidak baku: tentera",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laskar; prajurit: -- itu diperintahkan menjaga bangunan-bangunan vital"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasukan (dari orang-orang yang berkewajiban berperang): -- itu diterjunkan di daerah musuh melalui udara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesatuan alat negara yang terdiri atas orang-orang yang terlatih berperang: -- tempur itu berbaris dengan tegapnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menjadi anggota Tentara Nasional Indonesia (prajurit, bintara, perwira, dan sebagainya); militer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang berhubungan (bertalian) dengan angkatan bersenjata (misalnya hukum --; pendeta --)"
+        }
+      ]
+    }
+  ]
+}

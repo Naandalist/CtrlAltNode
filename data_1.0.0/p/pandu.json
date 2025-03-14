@@ -1,0 +1,73 @@
+{
+  "istilah": "pandu",
+  "entri": "pan.du1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpandu",
+    "berpandukan",
+    "kepanduan",
+    "memandu",
+    "memandukan",
+    "panduan",
+    "pemandu",
+    "pemanduan",
+    "memandu"
+  ],
+  "gabunganKata": [
+    "pandu bandar",
+    "pandu cari",
+    "pandu laut",
+    "pandu unting"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pan.du1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penunjuk jalan; perintis jalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mualim (di kapal)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapal penunjuk jalan (dalam pelabuhan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anggota perkumpulan pemuda yang berpakaian seragam khusus, bertujuan mendidik anggotanya supaya menjadi orang yang berjiwa kesatria, gagah berani, dan suka menolong sesama makhluk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Prm[Pramuka: Usulan untuk penambahan bidang baru]",
+          "deskripsi": "sebutan untuk pramuka sebelum tahun 1961"
+        }
+      ]
+    },
+    {
+      "lema": "pan.du2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memandu"
+        }
+      ]
+    },
+    {
+      "lema": "pan.du3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tanda di jendela tampilan tempat kegiatan komputer terjadi atau ditampilkan"
+        }
+      ]
+    }
+  ]
+}

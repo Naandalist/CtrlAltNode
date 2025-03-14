@@ -1,0 +1,33 @@
+{
+  "istilah": "bontet",
+  "entri": "bon.tet1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bon.tet1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mnd[Melayu Manado: -]",
+          "deskripsi": "keadaan buah cengkih yang sudah lewat masa petiknya, berwarna merah kehitam-hitaman, bunganya sudah gugur"
+        }
+      ]
+    },
+    {
+      "lema": "bon.tet2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Plb[Palembang: -]",
+          "deskripsi": "gemuk dan pendek (tentang tubuh)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "hun",
+  "entri": "hun",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "ukuran berat",
+    "kataAsal": "hun"
+  },
+  "data": [
+    {
+      "lema": "hun",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "satuan ukuran berat, sama dengan 1/100 tahil atau 0,378 g"
+        }
+      ]
+    }
+  ]
+}

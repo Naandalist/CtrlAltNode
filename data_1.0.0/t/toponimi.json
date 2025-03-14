@@ -1,0 +1,28 @@
+{
+  "istilah": "toponimi",
+  "entri": "to.po.ni.mi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.po.ni.mi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabang onomastika yang menyelidiki nama tempat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama tempat"
+        }
+      ]
+    }
+  ]
+}

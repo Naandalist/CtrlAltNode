@@ -1,0 +1,28 @@
+{
+  "istilah": "delis",
+  "entri": "de.lis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.lis",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bt[Batak: -]",
+          "deskripsi": "gantung diri"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bt[Batak: -]",
+          "deskripsi": "menguliti sekeliling pangkal pohon agar pohon tersebut mati perlahan-lahan"
+        }
+      ]
+    }
+  ]
+}

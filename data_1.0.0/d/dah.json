@@ -1,0 +1,46 @@
+{
+  "istilah": "dah",
+  "entri": "dah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "seruan; baik, bagus",
+    "kataAsal": "dhā"
+  },
+  "data": [
+    {
+      "lema": "dah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "dinas, jasa, kemanfaatan"
+        }
+      ]
+    },
+    {
+      "lema": "dah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "baiklah: biar -- biarkan saja, tak apa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] kp[kependekan]",
+          "deskripsi": "sudah"
+        }
+      ]
+    },
+    {
+      "lema": "dah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "ucapan salam waktu berpisah"
+        }
+      ]
+    }
+  ]
+}

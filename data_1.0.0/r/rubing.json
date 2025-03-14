@@ -1,0 +1,33 @@
+{
+  "istilah": "rubing",
+  "entri": "ru.bing1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.bing1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dinding tambahan sementara untuk meninggikan pinggir perahu (dibuat dari anyaman, kain mota, dan sebagainya): awak perahu sedang sibuk memasang --"
+        }
+      ]
+    },
+    {
+      "lema": "ru.bing2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tebing; tepi: hati-hatilah pesiar ke pegunungan, banyak -- yang curam"
+        }
+      ]
+    }
+  ]
+}

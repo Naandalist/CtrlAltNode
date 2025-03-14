@@ -1,0 +1,32 @@
+{
+  "istilah": "trompet",
+  "entri": "trom.pet bentuk tidak baku: terompet",
+  "bentukTidakBaku": "terompet",
+  "kataTurunan": [
+    "mentrompet",
+    "mentrompetkan",
+    "pentrompet"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "trom.pet bentuk tidak baku: terompet",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat musik tiup"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang (lembaga, organisasi) yang menyuarakan pendapat orang lain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "istilah": "tuba",
+  "entri": "tu.ba1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menuba",
+    "menubai"
+  ],
+  "gabunganKata": [
+    "tuba tikus"
+  ],
+  "peribahasa": [
+    "(air) susu dibalas dengan (air) tuba; air susu dibalas dengan air tuba; bagai ikan kena tuba; ikan di hulu, tuba di hilir; membalas air susu dengan air tuba; seperti ikan kena tuba; tuba habis, ikan tak dapat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama pohon di surga; kebaikan",
+    "kataAsal": "ṭūbā"
+  },
+  "data": [
+    {
+      "lema": "tu.ba1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "liana yang daunnya majemuk dengan anak daun menjorong sampai melonjong, perbungaan berbentuk jambul dan berwarna merah muda, buahnya berbentuk polong, tumbuh di bioma tropis basah, tersebar dari Indocina sampai Papua Nugini, dimanfaatkan sebagai racun ikan〔Derris elliptica〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akar tuba"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "racun ikan (dibuat dari akar tuba); jenu"
+        }
+      ]
+    },
+    {
+      "lema": "tu.ba2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saluran; tabung; tube: -- uterina saluran uterus"
+        }
+      ]
+    },
+    {
+      "lema": "tu.ba3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat musik tiup dari kuningan yang jangkauan nada terendahnya diperoleh dari sebuah pipa kerucut gulung dan sebuah genta menengadah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "fitri",
+  "entri": "fit.ri1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang berkaitan dengan awal penciptaan; pembawaan; buka puasa",
+    "kataAsal": "fiṭrī"
+  },
+  "data": [
+    {
+      "lema": "fit.ri1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "berhubungan dengan fitrah (sifat asal)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "berhubungan dengan berbuka puasa"
+        }
+      ]
+    },
+    {
+      "lema": "fit.ri2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesederhanaan; hal yang tidak dibuat-buat"
+        }
+      ]
+    }
+  ]
+}

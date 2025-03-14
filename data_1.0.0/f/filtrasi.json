@@ -1,0 +1,28 @@
+{
+  "istilah": "filtrasi",
+  "entri": "fil.tra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "fil.tra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyaringan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Min[Mineralogi: -]",
+          "deskripsi": "pemisahan material padat dari cairan dengan melewatkan suspensi pada penyaring atau penapis"
+        }
+      ]
+    }
+  ]
+}

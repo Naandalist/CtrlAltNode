@@ -1,0 +1,31 @@
+{
+  "istilah": "nahu",
+  "entri": "na.hu bentuk tidak baku: nahwu",
+  "bentukTidakBaku": "nahwu",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "nahu bentuk",
+    "nahu saraf"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tujuan; jalan; sintaksis bahasa Arab",
+    "kataAsal": "naḥw"
+  },
+  "data": [
+    {
+      "lema": "na.hu bentuk tidak baku: nahwu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "tata bahasa (menyangkut tata kalimat dan tata bentuk); gramatika"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "sintaksis"
+        }
+      ]
+    }
+  ]
+}

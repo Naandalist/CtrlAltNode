@@ -1,0 +1,28 @@
+{
+  "istilah": "endemis",
+  "entri": "en.de.mis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.de.mis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "secara tetap terdapat penyakit di tempat-tempat atau di kalangan orang-orang tertentu dan terbatas pada mereka saja (seperti penyakit malaria di daerah pesisir, penyakit cacing tambang di kalangan buruh tambang)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bot[Botani: -]",
+          "deskripsi": "tumbuh atau terdapat pada tempat atau wilayah tertentu"
+        }
+      ]
+    }
+  ]
+}

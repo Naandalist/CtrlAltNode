@@ -1,0 +1,33 @@
+{
+  "istilah": "tse-tse",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Tsw[Tswana: -]",
+          "deskripsi": "lalat tsetse"
+        }
+      ]
+    },
+    {
+      "lema": "tse-tse",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Tswana: -]",
+          "deskripsi": "lalat tsetse"
+        }
+      ]
+    }
+  ]
+}

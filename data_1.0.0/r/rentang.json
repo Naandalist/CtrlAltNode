@@ -1,0 +1,56 @@
+{
+  "istilah": "rentang",
+  "entri": "ren.tang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merentang-rentang",
+    "merentang",
+    "merentangi",
+    "merentangkan",
+    "perentang",
+    "rentangan",
+    "serentang",
+    "terentang"
+  ],
+  "gabunganKata": [
+    "rentang audio",
+    "rentang hidup",
+    "rentang kendali",
+    "rentang memori",
+    "rentang waktu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ren.tang",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "merentang-rentang"
+        }
+      ]
+    },
+    {
+      "lema": "ren.tang /rêntang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "terulur tegang; uluran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batas jangkauan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "ukuran variasi dalam suatu kelompok data yang diperoleh dari pengurangan nilai tertinggi dengan nilai terendah pada kumpulan yang sama"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "meragu",
+  "entri": "ragu2 » me.ra.gu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ragu2 » me.ra.gu",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "mengganggu; mengacau: jangan ~ di sini, mari pulang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -] Komp[Komputer: -]",
+          "deskripsi": "menampilkan rekaman dalam format yang cocok untuk melihat secara cepat pada layar"
+        }
+      ]
+    },
+    {
+      "lema": "ragu1 » me.ra.gu",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merasa ragu: dia sempat ~ dengan segala yang didengarnya"
+        }
+      ]
+    }
+  ]
+}

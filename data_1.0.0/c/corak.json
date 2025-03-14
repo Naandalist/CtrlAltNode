@@ -1,0 +1,38 @@
+{
+  "istilah": "corak",
+  "entri": "co.rak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bercorak",
+    "secorak"
+  ],
+  "gabunganKata": [
+    "corak bangunan",
+    "corak kasual"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.rak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar atau pola (ada yang berwarna-warna) pada kain (tenunan, anyaman, dan sebagainya): -- kain sarung ini kurang bagus; besar-besar -- kain batik itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ragam warna pada warna dasar (tentang kain, bendera, dan sebagainya): dasarnya putih, --nya merah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sifat (paham, macam, bentuk) tertentu: perkumpulan itu tidak tentu --nya; -- politiknya tidak tegas"
+        }
+      ]
+    }
+  ]
+}

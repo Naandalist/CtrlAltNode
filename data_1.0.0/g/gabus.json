@@ -1,0 +1,51 @@
+{
+  "istilah": "gabus",
+  "entri": "ga.bus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggabus",
+    "penggabus"
+  ],
+  "gabunganKata": [
+    "gabus sintetis",
+    "gabus laut",
+    "gabus pucung"
+  ],
+  "peribahasa": [
+    "parang gabus menjadi besi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "gabus",
+    "kataAsal": "gabus"
+  },
+  "data": [
+    {
+      "lema": "ga.bus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu yang lunak, biasanya dari pohon Alstonia scholaris (biasa dipakai untuk mengasah pisau, taji, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ga.bus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu atau hati kayu yang lunak untuk sumbat botol dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ga.bus3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan air tawar yang ukurannya dapat mencapai 100 cm, tubuhnya silindris, bersisik, kepalanya seperti kepala ular, rahang bergigi, sirip punggung dan sirip dubur panjang, warnanya keperakan dengan garis-garis hitam menyilang, tersebar di Asia; aruan〔Channa striata〕"
+        }
+      ]
+    }
+  ]
+}

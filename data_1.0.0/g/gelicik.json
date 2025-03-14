@@ -1,0 +1,36 @@
+{
+  "istilah": "gelicik",
+  "entri": "ge.li.cik1 /gêlicik/bentuk tidak baku: kelicik",
+  "bentukTidakBaku": "kelicik",
+  "kataTurunan": [
+    "tergelicik",
+    "menggelicikkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ge.li.cik1 /gêlicik/bentuk tidak baku: kelicik",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "tergelicik"
+        }
+      ]
+    },
+    {
+      "lema": "ge.li.cik2 /gêlicik/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "elak"
+        }
+      ]
+    }
+  ]
+}

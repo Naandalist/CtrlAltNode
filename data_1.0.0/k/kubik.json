@@ -1,0 +1,35 @@
+{
+  "istilah": "kubik",
+  "entri": "ku.bik1",
+  "bentukTidakBaku": "kibik",
+  "kataTurunan": [
+    "mengubik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ku.bik1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kupas"
+        }
+      ]
+    },
+    {
+      "lema": "ku.bik2 bentuk tidak baku: kibik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran volume (isi), dihitung dengan mengalikan panjang, lebar, dan tinggi, serta diberi tanda pangkat tiga; pangkat tiga"
+        }
+      ]
+    }
+  ]
+}

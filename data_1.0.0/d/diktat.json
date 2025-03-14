@@ -1,0 +1,32 @@
+{
+  "istilah": "diktat",
+  "entri": "dik.tat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dik.tat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "catatan pelajaran yang dibuat oleh siswa pada waktu mengikuti pelajaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku pelajaran yang disusun oleh guru berupa stensilan (bukan cetakan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berita yang didiktekan melalui radio"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "ledang",
+  "entri": "le.dang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meledang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "le.dang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "putih kekuning-kuningan; bercahaya (seperti awan kena sinar matahari)"
+        }
+      ]
+    },
+    {
+      "lema": "le.dang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meledang"
+        }
+      ]
+    }
+  ]
+}

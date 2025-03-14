@@ -1,0 +1,24 @@
+{
+  "istilah": "pengisian bita",
+  "entri": "isi » pengisian » pengisian bita",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "isi » pengisian » pengisian bita",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "proses ketika bita kosong disisipkan ke dalam aliran transmisi, sehingga tingkat transmisi data neto akan berkurang dari laju data saluran yang aktual"
+        }
+      ]
+    }
+  ]
+}

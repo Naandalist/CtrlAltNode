@@ -1,0 +1,28 @@
+{
+  "istilah": "misan",
+  "entri": "mi.san",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "saudara sepupu, dalam hubungan sepupu",
+    "kataAsal": "misan"
+  },
+  "data": [
+    {
+      "lema": "mi.san",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saudara sepupu (pada masyarakat Sunda); keturunan kedua dari satu nenek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keturunan ketiga dari satu nenek (pada masyarakat Jawa)"
+        }
+      ]
+    }
+  ]
+}

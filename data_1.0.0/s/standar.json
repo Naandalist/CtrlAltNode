@@ -1,0 +1,66 @@
+{
+  "istilah": "standar",
+  "entri": "stan.dar1",
+  "bentukTidakBaku": "setandar, standard, standart",
+  "kataTurunan": [
+    "menstandarkan",
+    "terstandar",
+    "berstandar",
+    "menstandarkan",
+    "penstandaran",
+    "terstandarkan"
+  ],
+  "gabunganKata": [
+    "standar akuntansi",
+    "standar audit",
+    "standar emas",
+    "standar ganda",
+    "standar hidup",
+    "standar kesejahteraan",
+    "standar kinerja",
+    "standar kompetensi",
+    "standar sosial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "stan.dar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panji-panji; bendera (sebagai lambang): -- Kerajaan Inggris"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat penopang yang berkaki (untuk menaruh bendera, menyangga sepeda, menopang alat potret, dan sebagainya): -- kameranya terjatuh karena tertiup angin"
+        }
+      ]
+    },
+    {
+      "lema": "stan.dar2 bentuk tidak baku: setandar, standard, standart",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran tertentu yang dipakai sebagai patokan: petugas dari instansi itu menguraikan -- gedung sekolah yang baik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ukuran atau tingkat biaya hidup: -- hidup di kota Medan lebih tinggi daripada -- hidup di kota Bandung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dag[Perdagangan: -]",
+          "deskripsi": "sesuatu yang dianggap tetap nilainya sehingga dapat dipakai sebagai ukuran nilai (harga): negara-negara tertentu memakai -- emas"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "baku: bahasa yang dipakai pada surat kabar tertentu dapat dianggap telah --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "kilap",
+  "entri": "ki.lap bentuk tidak baku: mengkilap",
+  "bentukTidakBaku": "mengkilap",
+  "kataTurunan": [
+    "berkilap",
+    "berkilap-kilap",
+    "kemilap",
+    "mengilap",
+    "mengilapkan",
+    "pengilap",
+    "pengilapan",
+    "sekilap"
+  ],
+  "gabunganKata": [
+    "kilap bibir"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ki.lap bentuk tidak baku: mengkilap",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gilap; kilat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pantulan cahaya yang disebabkan oleh gelepar ikan terserang parasit"
+        }
+      ]
+    }
+  ]
+}

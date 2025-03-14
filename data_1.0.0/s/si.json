@@ -1,0 +1,72 @@
+{
+  "istilah": "si",
+  "entri": "si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagai si bisu berasian (bermimpi), terasa ada terkatakan tidak; bagai si kudung beroleh cincin; bagai si kudung pergi berbelut; bagai si lumpuh hendak merantau; belum tentu si upik si buyungnya; lubuk dalam, si kitang yang empunya; si cebol hendak mencapai bulan (bintang)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata yang dipakai di depan nama diri (pada ragam akrab atau kurang hormat): -- Achmad; -- Rukiah"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata untuk mengkhususkan orang yang melakukan atau terkena sesuatu: -- pengirim; -- penipu; -- tertuduh"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata yang dipakai di depan nama orang untuk merendahkan diri: -- Beni; -- Joni"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata yang dipakai di depan kata sifat untuk timang-timangan, pujian, panggilan, ejekan, dan sebagainya yang menyatakan bahwa yang disebut itu mempunyai sesuatu atau menyerupai sesuatu yang sama dengan sebutan itu: -- belang; -- celaka; -- durhaka; -- manis; -- tolol"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata yang dipakai pada berbagai-bagai nama tumbuhan atau binatang: -- dingin; -- gasir; -- kedidi; -- tawar"
+        },
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "(lazim didahului ber-, menjadi bersi- atau berse-) membuat dirinya menjadi: bersibisu; bersitegang"
+        },
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "(lazim didahului ber-, menjadi bersi- atau berse-) saling (dalam bentuk kata kerja ber-...-an): bersikutat berkutat-kutatan; bersipandang berpandang-pandangan"
+        }
+      ]
+    },
+    {
+      "lema": "si2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tah; kah; gerangan; agaknya; sih: apa -- yang dicari; siapa -- yang dikata-katai itu"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "memang; sebenarnya; sih: bagus -- bagus, tapi mahal; tidak apalah, saya -- tidak salah"
+        }
+      ]
+    },
+    {
+      "lema": "si3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "nada ke-7 pada urutan tangga nada diatonik, dilambangkan dengan angka 7"
+        }
+      ]
+    }
+  ]
+}

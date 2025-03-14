@@ -1,0 +1,32 @@
+{
+  "istilah": "detritus",
+  "entri": "de.tri.tus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.tri.tus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampah, termasuk bangkai, yang meluruh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "pecahan bahan yang lepas dari permukaan batuan karena meluruh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "jaringan rusak yang terlepas dari tempat asalnya"
+        }
+      ]
+    }
+  ]
+}

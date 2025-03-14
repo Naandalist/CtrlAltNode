@@ -1,0 +1,28 @@
+{
+  "istilah": "stoikiometri",
+  "entri": "sto.i.ki.o.met.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sto.i.ki.o.met.ri",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "cabang ilmu kimia yang membahas penetapan perbandingan kuantitas dalam reaksi kimia"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Fis[Fisika: -]",
+          "deskripsi": "penelaahan hubungan kuantitatif yang bersangkutan dalam reaksi kimia, termasuk peninjauan bobot, volume, dan mol"
+        }
+      ]
+    }
+  ]
+}

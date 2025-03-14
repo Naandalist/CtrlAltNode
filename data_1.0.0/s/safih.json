@@ -1,0 +1,28 @@
+{
+  "istilah": "safih",
+  "entri": "sa.fih",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang bodoh",
+    "kataAsal": "safīh"
+  },
+  "data": [
+    {
+      "lema": "sa.fih",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gila; bodoh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemboros"
+        }
+      ]
+    }
+  ]
+}

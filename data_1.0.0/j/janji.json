@@ -1,0 +1,51 @@
+{
+  "istilah": "janji",
+  "entri": "jan.ji",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjanji",
+    "memperjanjikan",
+    "menjanjikan",
+    "perjanjian",
+    "terjanji"
+  ],
+  "gabunganKata": [
+    "janji gombal",
+    "janji politik"
+  ],
+  "peribahasa": [
+    "adat diisi, janji dilabuh; janji sampai, sukatan penuh"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "jan.ji",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ucapan yang menyatakan kesediaan dan kesanggupan untuk berbuat (seperti hendak memberi, menolong, datang, bertemu): banyak --, tetapi tidak satu pun yang ditepati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persetujuan antara dua pihak (masing-masing menyatakan kesediaan dan kesanggupan untuk berbuat atau tidak berbuat sesuatu): jangan kalian berdua ingkar akan -- yang telah diteguhkan oleh penghulu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "syarat; ketentuan (yang harus dipenuhi): rumah ini diserahkan kepada adiknya tanpa -- apa-apa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penundaan waktu (membayar dan sebagainya); penangguhan: kalau boleh, saya minta -- dua bulan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batas waktu (hidup); ajal: sampai --nya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "mil",
+  "entri": "mil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mil laut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mil1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran jarak, ada beberapa macam, seperti -- Belanda = 1.000 m, -- Jerman = 7.420 m, -- Inggris = 1.609 m; batu; pal"
+        }
+      ]
+    },
+    {
+      "lema": "mil2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "surat-surat pos: kapal -- kapal yang membawa surat-surat pos"
+        }
+      ]
+    }
+  ]
+}

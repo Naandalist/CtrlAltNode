@@ -1,0 +1,33 @@
+{
+  "istilah": "bulit",
+  "entri": "bu.lit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bu.lit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "ayam jantan yang warna bulunya menyerupai warna bulu burung elang"
+        }
+      ]
+    },
+    {
+      "lema": "bu.lit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ke[Kenyah: bahasa di Kalimantan Timur]",
+          "deskripsi": "bubur dari beras yang dicampur dengan daun mentimun yang ditumbuk saat hampir matang"
+        }
+      ]
+    }
+  ]
+}

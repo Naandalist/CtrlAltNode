@@ -1,0 +1,57 @@
+{
+  "istilah": "diam",
+  "entri": "di.am1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berdiam",
+    "berdiam-diaman",
+    "diam-diam",
+    "kependiaman",
+    "mendiami",
+    "mendiamkan",
+    "pendiam",
+    "sediam",
+    "terdiam",
+    "berdiam",
+    "berkediaman",
+    "kediaman",
+    "mendiami"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "diam di laut masin tidak, diam di bandar tak meniru; diam penggali berkarat, diam ubi berisi; diam seribu basa; diam-diam ubi (berisi)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "penguasaan diri, kontrol diri, pengendalian diri",
+    "kataAsal": "dama"
+  },
+  "data": [
+    {
+      "lema": "di.am1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak bersuara (berbicara): semuanya --, tidak ada yang berani mengkritik"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak bergerak (tetap di tempat): pencuri itu -- saja ketika hendak ditangkap, tidak lari atau mengadakan perlawanan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak berbuat (berusaha) apa-apa: ia -- saja walau dicemooh dan dihina"
+        }
+      ]
+    },
+    {
+      "lema": "di.am2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tinggal (tentang alamat atau tempat tinggal)"
+        }
+      ]
+    }
+  ]
+}

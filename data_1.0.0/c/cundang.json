@@ -1,0 +1,52 @@
+{
+  "istilah": "cundang",
+  "entri": "cun.dang1",
+  "bentukTidakBaku": "kecundang2",
+  "kataTurunan": [
+    "kecundang",
+    "mecundang",
+    "mencundangi",
+    "pecundang",
+    "tercundang",
+    "mencundang",
+    "pecundang",
+    "mencundangi",
+    "pecundang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "pacuṇḍaṅ"
+  },
+  "data": [
+    {
+      "lema": "cun.dang1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kecundang; mecundang; mencundangi; pecundang; tercundang"
+        }
+      ]
+    },
+    {
+      "lema": "cun.dang2 bentuk tidak baku: kecundang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "hasutan: bukan main sakit hati perempuan itu mendengar -- yang tajam itu; kena --"
+        }
+      ]
+    },
+    {
+      "lema": "cun.dang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencundangi; pecundang"
+        }
+      ]
+    }
+  ]
+}

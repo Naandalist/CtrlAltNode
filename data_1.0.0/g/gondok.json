@@ -1,0 +1,39 @@
+{
+  "istilah": "gondok",
+  "entri": "gon.dok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggondokkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tebal dan bulat; sebangsa cempaka (semak dengan bunga-bunga kuning muda)",
+    "kataAsal": "goṇḍok"
+  },
+  "data": [
+    {
+      "lema": "gon.dok1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "gemuk pendek (tentang badan, leher, barang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyakit bengkak pada leher depan karena kelenjar yang menjadi besar; beguk: benjolan sebesar bengkuang tumbuh di lehernya karena penyakit --"
+        }
+      ]
+    },
+    {
+      "lema": "gon.dok2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mendongkol; marah yang tertahan: tamu itu -- karena diperlakukan tidak sewajarnya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "lisis",
+  "entri": "li.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "li.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "hilangnya gejala suatu penyakit secara perlahan-lahan, terutama pada penyakit infeksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "berkurangnya demam secara perlahan-lahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "peristiwa hancurnya sel karena selaput plasmanya rusak, hancur atau larut dan isi selnya keluar"
+        }
+      ]
+    }
+  ]
+}

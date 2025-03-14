@@ -1,0 +1,36 @@
+{
+  "istilah": "resik",
+  "entri": "re.sik1 /rêsik/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meresik",
+    "keresikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bersih, terpelihara baik, cemerlang, murni",
+    "kataAsal": "rěsik"
+  },
+  "data": [
+    {
+      "lema": "re.sik1 /rêsik/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "meresik"
+        }
+      ]
+    },
+    {
+      "lema": "re.sik2 /rêsik/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersih"
+        }
+      ]
+    }
+  ]
+}

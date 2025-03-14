@@ -1,0 +1,33 @@
+{
+  "istilah": "pasara",
+  "entri": "pa.sa.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.sa.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pasar; pekan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.sa.ra2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ pusara1"
+        }
+      ]
+    }
+  ]
+}

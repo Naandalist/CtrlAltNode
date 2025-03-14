@@ -1,0 +1,45 @@
+{
+  "istilah": "merempah",
+  "entri": "rempah1 » me.rem.pah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rempah1 » me.rem.pah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlari menginjak-injak (tanaman dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menjelajah; mengembara: enam bulan lamanya sudah ia ~ di hutan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menyiangi (sawah): ia ~ sawah"
+        }
+      ]
+    },
+    {
+      "lema": "rempah2 » me.rem.pah",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membubuh(i) rempah; mencampuri dengan rempah-rempah: belajar ~ berbagai gulai dan sayur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "membubuhi dengan minyak bau-bauan; mereaksi: ~ mayat"
+        }
+      ]
+    }
+  ]
+}

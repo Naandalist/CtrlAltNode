@@ -1,0 +1,45 @@
+{
+  "istilah": "candra",
+  "entri": "can.dra1",
+  "bentukTidakBaku": "cendera1",
+  "kataTurunan": [
+    "mencandrakan",
+    "pencandraan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "candra"
+  },
+  "data": [
+    {
+      "lema": "can.dra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Sas[Sastra: -]",
+          "deskripsi": "bulan"
+        }
+      ]
+    },
+    {
+      "lema": "can.dra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Sas[Sastra: -]",
+          "deskripsi": "sebangsa dewa"
+        }
+      ]
+    },
+    {
+      "lema": "can.dra3 bentuk tidak baku: cendera1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencandrakan; pencandraan"
+        }
+      ]
+    }
+  ]
+}

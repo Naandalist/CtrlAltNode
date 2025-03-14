@@ -1,0 +1,36 @@
+{
+  "istilah": "diagnosis",
+  "entri": "di.ag.no.sis bentuk tidak baku: diagnosa, diagnose",
+  "bentukTidakBaku": "diagnosa, diagnose",
+  "kataTurunan": [
+    "mendiagnosis",
+    "terdiagnosis"
+  ],
+  "gabunganKata": [
+    "diagnosis diferensial",
+    "diagnosis kerja",
+    "diagnosis medis",
+    "diagnosis pembanding"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.ag.no.sis bentuk tidak baku: diagnosa, diagnose",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penentuan jenis penyakit dengan cara meneliti (memeriksa) gejala-gejalanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sos[Sosiologi: -]",
+          "deskripsi": "pemeriksaan terhadap suatu hal"
+        }
+      ]
+    }
+  ]
+}

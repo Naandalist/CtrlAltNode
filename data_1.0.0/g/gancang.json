@@ -1,0 +1,33 @@
+{
+  "istilah": "gancang",
+  "entri": "gan.cang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "amat cepat",
+    "kataAsal": "gañcaṅ"
+  },
+  "data": [
+    {
+      "lema": "gan.cang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cepat (gerakannya); tangkas dan cekatan"
+        }
+      ]
+    },
+    {
+      "lema": "gan.cang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempo cepat (tentang tari)"
+        }
+      ]
+    }
+  ]
+}

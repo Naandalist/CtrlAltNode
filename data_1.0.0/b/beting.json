@@ -1,0 +1,40 @@
+{
+  "istilah": "beting",
+  "entri": "be.ting1 /bêting/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbeting",
+    "membeting",
+    "terbeting"
+  ],
+  "gabunganKata": [
+    "beting berkunjur",
+    "beting buta"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ting1 /bêting/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "timbunan pasir atau lumpur yang panjang di muara sungai atau di tepi laut; gosong"
+        }
+      ]
+    },
+    {
+      "lema": "be.ting2 /bêting/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "awan satu jenis yang sambung-menyambung dan mempunyai tinggi dasar yang hampir sama, umumnya hanya menutup sebagian kecil langit dan memiliki ukuran mendatar yang memanjang"
+        }
+      ]
+    }
+  ]
+}

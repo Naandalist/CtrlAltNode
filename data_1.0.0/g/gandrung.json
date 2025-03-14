@@ -1,0 +1,51 @@
+{
+  "istilah": "gandrung",
+  "entri": "gan.drung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kegandrungan",
+    "menggandrungi",
+    "menggandrungkan",
+    "penggandrung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "gan.drung1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat rindu (kasih) akan; tergila-gila karena asmara"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat ingin (mendambakan): kita -- akan adanya perpustakaan di tiap-tiap sekolah"
+        }
+      ]
+    },
+    {
+      "lema": "gan.drung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sorgum"
+        }
+      ]
+    },
+    {
+      "lema": "gan.drung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tarian yang berasal dari Banyuwangi, dibawakan oleh seorang wanita bersama-sama tamu pria dengan iringan kendang, kempul, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

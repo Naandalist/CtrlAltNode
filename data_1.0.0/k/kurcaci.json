@@ -1,0 +1,37 @@
+{
+  "istilah": "kurcaci",
+  "entri": "kur.ca.ci1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kur.ca.ci1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang halus yang konon kecil-kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "(orang) yang suka mengganggu"
+        }
+      ]
+    },
+    {
+      "lema": "kur.ca.ci2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pramuka (pandu) putri kecil"
+        }
+      ]
+    }
+  ]
+}

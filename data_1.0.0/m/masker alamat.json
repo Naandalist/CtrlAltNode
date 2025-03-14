@@ -1,0 +1,24 @@
+{
+  "istilah": "masker alamat",
+  "entri": "masker » masker alamat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "masker » masker alamat",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "kombinasi bit yang digunakan untuk mendeskripsikan bagian dari sebuah alamat yang merujuk pada jaringan atau subnet dan yang merujuk pada hos"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "istilah": "puasa",
+  "entri": "pu.a.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berpuasa",
+    "keberpuasaan",
+    "memuasakan"
+  ],
+  "gabunganKata": [
+    "puasa apit",
+    "puasa Arafah",
+    "puasa Daud",
+    "puasa fardu",
+    "puasa pati geni",
+    "puasa Ramadan",
+    "puasa Senin Kamis",
+    "puasa sunah",
+    "puasa Syawal",
+    "puasa wajib"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "pantangan, penahanan nafsu, minum, dan makan dengan sengaja",
+    "kataAsal": "upavāsa"
+  },
+  "data": [
+    {
+      "lema": "pu.a.sa",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meniadakan makan, minum, dan sebagainya dengan sengaja (terutama bertalian dengan keagamaan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "salah satu rukun Islam berupa ibadah menahan diri atau berpantang makan, minum, dan segala yang membatalkannya mulai terbit fajar sampai terbenam matahari; saum"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "capang",
+  "entri": "ca.pang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.pang",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Us[Using: -]",
+          "deskripsi": "panjang melengkung (tentang tanduk, kumis, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Us[Using: -]",
+          "deskripsi": "panjang dan lebar (tentang daun telinga)"
+        }
+      ]
+    },
+    {
+      "lema": "ca.pang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "gerak lengan pada tari yang menyerupai gerakan membenahi pakaian"
+        }
+      ]
+    }
+  ]
+}

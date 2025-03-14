@@ -1,0 +1,39 @@
+{
+  "istilah": "monolog",
+  "entri": "mo.no.log",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermonolog"
+  ],
+  "gabunganKata": [
+    "monolog batin",
+    "monolog dramatik",
+    "monolog internal",
+    "monolog kolektif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mo.no.log",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembicaraan yang dilakukan dengan diri sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "adegan sandiwara dengan pelaku tunggal yang membawakan percakapan seorang diri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "monodrama"
+        }
+      ]
+    }
+  ]
+}

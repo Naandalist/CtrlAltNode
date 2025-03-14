@@ -1,0 +1,29 @@
+{
+  "istilah": "tashih",
+  "entri": "tas.hih",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menashih",
+    "menashihkan",
+    "penashih",
+    "penashihan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pengesahan",
+    "kataAsal": "taṣḥīḥ"
+  },
+  "data": [
+    {
+      "lema": "tas.hih",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "pengesahan (setelah diperiksa kebenarannya)"
+        }
+      ]
+    }
+  ]
+}

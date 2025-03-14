@@ -1,0 +1,92 @@
+{
+  "istilah": "mandi",
+  "entri": "man.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermandi",
+    "bermandikan",
+    "memandikan",
+    "mempermandikan",
+    "pemandian",
+    "permandian"
+  ],
+  "gabunganKata": [
+    "mandi angin",
+    "mandi bakal",
+    "mandi balai",
+    "mandi basuh lantai",
+    "mandi berdimbar",
+    "mandi berhias",
+    "mandi berlimau",
+    "mandi besar",
+    "mandi bola",
+    "mandi bunting",
+    "mandi damai",
+    "mandi darah",
+    "mandi dus",
+    "mandi embun",
+    "mandi gubah",
+    "mandi hadas",
+    "mandi haid",
+    "mandi hail",
+    "mandi janabat",
+    "mandi junub",
+    "mandi kerbau",
+    "mandi kubat",
+    "mandi kungkum",
+    "mandi lenggang perut",
+    "mandi luas",
+    "mandi manda",
+    "mandi mayat",
+    "mandi megang",
+    "mandi nifas",
+    "mandi ombak",
+    "mandi pangir",
+    "mandi Safar",
+    "mandi sampat",
+    "mandi sauna",
+    "mandi simburan",
+    "mandi sudah",
+    "mandi taman",
+    "mandi tian",
+    "mandi uap",
+    "mandi wajib",
+    "mandi wiladah"
+  ],
+  "peribahasa": [
+    "bak mandi di air kiambang, pelak lepas gatal pun datang; ke sungai sambil mandi; mandi (berendam) tak basah; mandi berlenggang perut; mandi dalam cupak; mandi sedirus; mati-mati berdawat biar hitam (mati-mati mandi biar basah); mati-mati mandi biar basah; minum serasa duri, makan serasa lilin, tidur tak lena, mandi tak basah; orang mandi bersiselam, awak mandi bertimba; selama sipatung mandi; sepala-pala mandi biarlah basah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berdaya guna, mujarab, beracun; berbahaya, berbahaya karena tenaga gaib",
+    "kataAsal": "mandi"
+  },
+  "data": [
+    {
+      "lema": "man.di1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membersihkan tubuh dengan air dan sabun (dengan cara menyiramkan, merendamkan diri dalam air, dan sebagainya): hari libur banyak orang -- di laut"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "bermandi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "dipenuhi oleh (cahaya, uang, dan sebagainya): kota yang -- cahaya"
+        }
+      ]
+    },
+    {
+      "lema": "man.di2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "mujarab; manjur"
+        }
+      ]
+    }
+  ]
+}

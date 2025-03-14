@@ -1,0 +1,26 @@
+{
+  "istilah": "camat",
+  "entri": "ca.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kecamatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.mat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala pemerintahan daerah di bawah bupati (wali kota) yang mengepalai kecamatan"
+        }
+      ]
+    }
+  ]
+}

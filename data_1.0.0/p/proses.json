@@ -1,0 +1,54 @@
+{
+  "istilah": "proses",
+  "entri": "pro.ses",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berproses",
+    "memproses",
+    "pemroses",
+    "pemrosesan",
+    "terproses"
+  ],
+  "gabunganKata": [
+    "proses adiabatik",
+    "proses akomodasi",
+    "proses bahasa",
+    "proses belajar",
+    "proses belajar-mengajar",
+    "proses berdaur",
+    "proses cetak",
+    "proses empat warna",
+    "proses industrialisasi",
+    "proses otomatis",
+    "proses ozonisasi",
+    "proses penuaan",
+    "proses peradilan",
+    "proses sosial",
+    "proses verbal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pro.ses",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "runtunan perubahan (peristiwa) dalam perkembangan sesuatu: -- kemajuan sosial berjalan terus; -- kimia reaksi kimia; -- penyakit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rangkaian tindakan, pembuatan, atau pengolahan yang menghasilkan produk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkara dalam pengadilan: sedang dalam -- pengadilan"
+        }
+      ]
+    }
+  ]
+}

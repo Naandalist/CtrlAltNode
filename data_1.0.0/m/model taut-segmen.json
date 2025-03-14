@@ -1,0 +1,24 @@
+{
+  "istilah": "model taut-segmen",
+  "entri": "model1 » model taut-segmen",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "model1 » model taut-segmen",
+      "arti": [
+        {
+          "kelas_kata": "Olr[Olahraga: -]",
+          "deskripsi": "model pengamatan visual yang secara otomatis mampu memproses gerakan yang diamati dengan cara memicu sistem kontrol motor untuk bertindak dengan sesuai sehingga orang tersebut tidak perlu terlibat dalam mediasi kognitif"
+        }
+      ]
+    }
+  ]
+}

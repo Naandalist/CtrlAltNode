@@ -1,0 +1,34 @@
+{
+  "istilah": "etiologi",
+  "entri": "e.ti.o.lo.gi bentuk tidak baku: aetiologi",
+  "bentukTidakBaku": "aetiologi",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "etiologi kejahatan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ti.o.lo.gi bentuk tidak baku: aetiologi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabang biologi tentang penyebab penyakit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian ilmu penyakit tanaman, khususnya mengenai penyebab utama penyakit, kodrat, sifat, dan ciri-ciri patogen serta hubungannya dengan tanaman inangnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabang ilmu kedokteran tentang sebab dan asal penyakit"
+        }
+      ]
+    }
+  ]
+}

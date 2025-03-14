@@ -1,0 +1,28 @@
+{
+  "istilah": "sinopsis",
+  "entri": "si.nop.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "si.nop.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikhtisar karangan yang biasanya diterbitkan bersama-sama dengan karangan asli yang menjadi dasar sinopsis itu; ringkasan; abstraksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "ringkasan cerita yang berisi cuplikan seluruh adegan sehingga membentuk tema cerita"
+        }
+      ]
+    }
+  ]
+}

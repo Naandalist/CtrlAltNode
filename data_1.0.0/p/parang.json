@@ -1,0 +1,63 @@
+{
+  "istilah": "parang",
+  "entri": "pa.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berparang",
+    "memarang",
+    "memarangkan",
+    "parangan",
+    "parang-parang"
+  ],
+  "gabunganKata": [
+    "parang bungkul",
+    "parang latuk",
+    "parang puting"
+  ],
+  "peribahasa": [
+    "belakang parang lagi jika diasah niscaya tajam; mendebik mata parang; parang gabus menjadi besi; punggung parang sekalipun jika selalu diasah, akan tajam juga; seperti parang bermata dua"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.rang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pisau besar (lebih besar daripada pisau biasa, tetapi lebih pendek daripada pedang, ada bermacam-macam); golok: -- lading; -- mondok; -- pandak"
+        }
+      ]
+    },
+    {
+      "lema": "pa.rang2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "parangan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.rang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "corak batik klasik"
+        }
+      ]
+    },
+    {
+      "lema": "pa.rang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bale-bale"
+        }
+      ]
+    }
+  ]
+}

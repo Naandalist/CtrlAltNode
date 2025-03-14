@@ -1,0 +1,32 @@
+{
+  "istilah": "takwil",
+  "entri": "tak.wil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menakwilkan",
+    "penakwil",
+    "takwilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penjelasan terhadap makna yang masih belum jelas; tabir mimpi",
+    "kataAsal": "ta’wīl"
+  },
+  "data": [
+    {
+      "lema": "tak.wil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan; penjelasan (seperti tafsir, takbir)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penafsiran makna ayat Alquran, mengandung pengertian yang tersirat (implisit)"
+        }
+      ]
+    }
+  ]
+}

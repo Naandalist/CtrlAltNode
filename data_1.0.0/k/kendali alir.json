@@ -1,0 +1,24 @@
+{
+  "istilah": "kendali alir",
+  "entri": "kendali » kendali alir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kendali » kendali alir",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "prosedur yang digunakan untuk mengendalikan dan membatasi laju transfer data sesuai dengan laju yang dapat diterima"
+        }
+      ]
+    }
+  ]
+}

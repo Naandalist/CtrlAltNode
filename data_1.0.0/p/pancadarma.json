@@ -1,0 +1,28 @@
+{
+  "istilah": "pancadarma",
+  "entri": "pan.ca.dar.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "ketaatan, moralitas, tugas, kebajikan, keadilan",
+    "kataAsal": "dharma"
+  },
+  "data": [
+    {
+      "lema": "pan.ca.dar.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lima macam kewajiban, yaitu (1) menyembah Tuhan Yang Maha Esa, (2) berkarya untuk kesejahteraan bersama, (3) sopan santun, suka memberi dan menepati janji, (4) wawas diri atau pengendalian diri, dan (5) mandiri pribadi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ajaran agama Buddha yang ditujukan untuk perumah tangga yang memuat lima darma, cinta kasih, pencarian kebenaran, kepuasan dengan pasangan, kejujuran, dan kesadaran"
+        }
+      ]
+    }
+  ]
+}

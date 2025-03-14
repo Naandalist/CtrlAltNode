@@ -1,0 +1,41 @@
+{
+  "istilah": "memalangi",
+  "entri": "malang1 » me.ma.lang.i",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "malang1 » me.ma.lang.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merintangi jalan; terletak malang pada; menghalangi: sebatang pohon kenari tua telah roboh dan ~ jalan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menyegani; menghormati: orang sekampung ~ orang tua yang arif itu"
+        }
+      ]
+    },
+    {
+      "lema": "palang » me.ma.lang.i",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memasang palang pada"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merintangi"
+        }
+      ]
+    }
+  ]
+}

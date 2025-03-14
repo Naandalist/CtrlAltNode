@@ -1,0 +1,35 @@
+{
+  "istilah": "survei",
+  "entri": "sur.vei bentuk tidak baku: survai, survey",
+  "bentukTidakBaku": "survai, survey",
+  "kataTurunan": [
+    "menyurvei",
+    "penyurvei",
+    "penyurveian"
+  ],
+  "gabunganKata": [
+    "survei aeromagnetik",
+    "survei udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sur.vei bentuk tidak baku: survai, survey",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "teknik riset dengan memberi batas yang jelas atas data; penyelidikan; peninjauan: hasil -- tanah di daerah itu membuktikan bahwa tanah itu mengandung bijih besi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengukuran (tanah)"
+        }
+      ]
+    }
+  ]
+}

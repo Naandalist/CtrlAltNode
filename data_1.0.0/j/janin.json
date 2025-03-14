@@ -1,0 +1,28 @@
+{
+  "istilah": "janin",
+  "entri": "ja.nin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bakal bayi (masih dalam kandungan)",
+    "kataAsal": "janīn"
+  },
+  "data": [
+    {
+      "lema": "ja.nin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bakal bayi (masih dalam kandungan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "embrio setelah melebihi umur dua bulan"
+        }
+      ]
+    }
+  ]
+}

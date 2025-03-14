@@ -1,0 +1,50 @@
+{
+  "istilah": "ekstrak",
+  "entri": "eks.trak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengekstrak",
+    "pengekstrak",
+    "pengekstrakan",
+    "mengekstrak"
+  ],
+  "gabunganKata": [
+    "ekstrak akar asparagus",
+    "ekstrak aorta",
+    "ekstrak aprikot",
+    "ekstrak aster",
+    "ekstrak bengkuang",
+    "ekstrak hati",
+    "ekstrak jenuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "eks.trak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kentalan; pati; sari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "sediaan yang diperoleh dari jaringan hewan atau tumbuhan dengan menarik sari aktifnya dengan pelarut yang sesuai, kemudian memekatkannya hingga tahap tertentu"
+        }
+      ]
+    },
+    {
+      "lema": "eks.trak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "salinan; petikan"
+        }
+      ]
+    }
+  ]
+}

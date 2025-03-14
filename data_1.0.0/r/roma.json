@@ -1,0 +1,55 @@
+{
+  "istilah": "roma",
+  "entri": "ro.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meroma"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "tak boleh bertemu roma"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "rambut (pada tubuh binatang dan manusia)",
+    "kataAsal": "roman"
+  },
+  "data": [
+    {
+      "lema": "ro.ma1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat bulu"
+        }
+      ]
+    },
+    {
+      "lema": "ro.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "roman; muka"
+        }
+      ]
+    },
+    {
+      "lema": "Ro.ma3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami Pulau Roma, Kabupaten Maluku Tenggara, Provinsi Maluku; Ruma; Romang"
+        }
+      ]
+    },
+    {
+      "lema": "Ro.ma4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu kota Italia, terletak di tepi timur sungai Tiber, juga melingkupi negeri kota Vatikan yang diperintah oleh Paus, Kepala Gereja Katolik, luasnya 1.508 km2"
+        }
+      ]
+    }
+  ]
+}

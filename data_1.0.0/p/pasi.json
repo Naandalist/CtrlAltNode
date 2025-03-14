@@ -1,0 +1,42 @@
+{
+  "istilah": "pasi",
+  "entri": "pa.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.si1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat pucat"
+        }
+      ]
+    },
+    {
+      "lema": "pa.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pangkal pisau"
+        }
+      ]
+    },
+    {
+      "lema": "PASI",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Persatuan Atletik Seluruh Indonesia"
+        }
+      ]
+    }
+  ]
+}

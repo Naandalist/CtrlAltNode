@@ -1,0 +1,39 @@
+{
+  "istilah": "beti",
+  "entri": "be.ti1 /bêti/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terbeti"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "keuntungan, kepemilikan; hasil; makanan",
+    "kataAsal": "bhukti"
+  },
+  "data": [
+    {
+      "lema": "be.ti1 /bêti/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ach[Aceh: -]",
+          "deskripsi": "keadaan tali yang sangat keras gulungan atau pintalannya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ach[Aceh: -]",
+          "deskripsi": "keadaan tali yang beberapa uratnya telah putus"
+        }
+      ]
+    },
+    {
+      "lema": "be.ti2 /bêti/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bukti yang nyata mengenai kesalahan seseorang; tanda bukti: tidak dapat memastikan seseorang bersalah sebelum --nya ada"
+        }
+      ]
+    }
+  ]
+}

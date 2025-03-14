@@ -1,0 +1,40 @@
+{
+  "istilah": "jimat",
+  "entri": "ji.mat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berjimat",
+    "berjimat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tekad; kecenderungan",
+    "kataAsal": "himmah"
+  },
+  "data": [
+    {
+      "lema": "ji.mat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "azimat"
+        }
+      ]
+    },
+    {
+      "lema": "ji.mat2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "hemat (dalam membelanjakan uang)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "teliti, cermat (tentang pekerjaan dan sebagainya); saksama"
+        }
+      ]
+    }
+  ]
+}

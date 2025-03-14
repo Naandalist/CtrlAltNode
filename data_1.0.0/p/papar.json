@@ -1,0 +1,79 @@
+{
+  "istilah": "papar",
+  "entri": "pa.par1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memapar",
+    "paparan",
+    "memapar",
+    "memaparkan",
+    "mempaparkan",
+    "paparan",
+    "pemapar",
+    "pemaparan",
+    "terpapar",
+    "memapar",
+    "pemaparan",
+    "memaparkan",
+    "paparan",
+    "pemapar",
+    "terpapar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.par1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "papak (tidak lancip)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "rata (tentang gigi)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pesek; tidak mancung (tentang hidung)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian belakang atau punggung (tentang pisau, pedang, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "pa.par2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memapar; memaparkan; mempaparkan; paparan; pemapar; pemaparan; terpapar"
+        }
+      ]
+    },
+    {
+      "lema": "pa.par3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memapar; pemaparan"
+        }
+      ]
+    },
+    {
+      "lema": "pa.par4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "memaparkan; paparan; pemapar; terpapar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "bena",
+  "entri": "be.na bentuk tidak baku: behena, behina",
+  "bentukTidakBaku": "behena, behinabehena, behina",
+  "kataTurunan": [
+    "membenakan",
+    "perbenaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.na bentuk tidak baku: behena, behina",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "menarik untuk diperhatikan: cantik manis terlalu --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "patut diindahkan (karena penting atau luar biasa): tiada berapa -- tidak berapa luar biasa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "acuh; peduli: mengambil -- (kepada) [1] memedulikan [2] memperhatikan; -- tak -- [1] acuh tidak acuh [2] tidak peduli"
+        }
+      ]
+    },
+    {
+      "lema": "be.na /bêna/bentuk tidak baku: behena, behina",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "ombak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "air pasang; banjir"
+        }
+      ]
+    }
+  ]
+}

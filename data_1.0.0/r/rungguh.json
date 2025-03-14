@@ -1,0 +1,37 @@
+{
+  "istilah": "rungguh",
+  "entri": "rung.guh1 bentuk tidak baku: runggu",
+  "bentukTidakBaku": "rungguronggoh",
+  "kataTurunan": [
+    "merungguhkan",
+    "rungguhan",
+    "merungguh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "rung.guh1 bentuk tidak baku: runggu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang dan sebagainya yang diserahkan untuk tanggungan uang yang dipinjam; jaminan (biasanya dengan batas waktu, kalau utang tidak dibayar, lalu jadi gadai); cagaran: rumah -- rumah gadai"
+        }
+      ]
+    },
+    {
+      "lema": "rung.guh2 bentuk tidak baku: ronggoh",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "jongkok"
+        }
+      ]
+    }
+  ]
+}

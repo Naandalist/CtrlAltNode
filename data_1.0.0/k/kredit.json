@@ -1,0 +1,99 @@
+{
+  "istilah": "kredit",
+  "entri": "kre.dit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kreditan",
+    "mengkredit",
+    "mengkreditkan",
+    "pengkredit",
+    "pengkreditan",
+    "perkreditan"
+  ],
+  "gabunganKata": [
+    "kredit amanah",
+    "kredit amortisasi",
+    "kredit antarbank",
+    "kredit bermasalah",
+    "kredit cicilan",
+    "kredit dagang",
+    "kredit diragukan",
+    "kredit griya sembada",
+    "kredit investasi",
+    "kredit investasi kecil",
+    "kredit jangka menengah",
+    "kredit jangka panjang",
+    "kredit jangka pendek",
+    "kredit komersial",
+    "kredit konsumtif",
+    "kredit lunak",
+    "kredit macet",
+    "kredit mikro",
+    "kredit modal kerja",
+    "kredit murah",
+    "kredit partisipasi",
+    "kredit pembeli",
+    "kredit pemilikan apartemen",
+    "kredit pemilikan rumah",
+    "kredit penyimpanan",
+    "kredit produktif",
+    "kredit semerta",
+    "kredit seret",
+    "kredit slip",
+    "kredit swagriya",
+    "kredit talangan",
+    "kredit tata niaga",
+    "kredit terbimbing",
+    "kredit upakara",
+    "kredit usaha kecil",
+    "kredit usaha rakyat",
+    "kredit usaha tani",
+    "kredit sementara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kre.dit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara menjual barang dengan pembayaran secara tidak tunai (pembayaran ditangguhkan atau diangsur)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pinjaman uang dengan pembayaran pengembalian secara mengangsur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penambahan saldo rekening, sisa utang, modal, dan pendataan bagi penabung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pinjaman sampai batas jumlah tertentu yang diizinkan oleh bank atau badan lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisi kanan neraca (di Indonesia)"
+        }
+      ]
+    },
+    {
+      "lema": "kre.dit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "harga atau nilai untuk suatu tindakan (yang baik): pengabdian masyarakat merupakan -- tersendiri bagi seorang dosen"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nilai suatu mata pelajaran dalam satu semester: mata pelajaran itu bernilai dua --"
+        }
+      ]
+    }
+  ]
+}

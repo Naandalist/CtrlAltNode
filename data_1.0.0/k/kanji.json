@@ -1,0 +1,48 @@
+{
+  "istilah": "kanji",
+  "entri": "kan.ji1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menganji"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Tamil",
+    "arti": "tajin (pada kain), kanji",
+    "kataAsal": "kañci"
+  },
+  "data": [
+    {
+      "lema": "kan.ji1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepung dari pati singkong; tapioka; aci"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "campuran air dan tepung tapioka atau tepung sagu yang dididihkan untuk mengeraskan pakaian dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "kan.ji2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "jera; kapok"
+        }
+      ]
+    },
+    {
+      "lema": "kan.ji3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "huruf Jepang yang mulai dipakai sekitar abad-abad pertama Masehi, tiap huruf menggambarkan kata atau morfem"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "variansi",
+  "entri": "va.ri.an.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "va.ri.an.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "besaran yang menunjukkan besarnya penyebaran data pada suatu kelompok data"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "kuadrat simpangan baku dalam statistika"
+        }
+      ]
+    }
+  ]
+}

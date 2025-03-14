@@ -1,0 +1,32 @@
+{
+  "istilah": "pindahan",
+  "entri": "pindah1 » pin.dah.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pindah1 » pin.dah.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil memindah(kan): barang-barang di gudang itu adalah barang ~"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dipindahkan: kita belum mengenal watak pegawai ~ dari pusat itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pindah tempat: menjelang pelantikan menteri banyak orang yang justru sibuk ~"
+        }
+      ]
+    }
+  ]
+}

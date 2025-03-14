@@ -1,0 +1,33 @@
+{
+  "istilah": "mamat",
+  "entri": "ma.mat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.mat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "upacara adat di Kalimantan Tengah"
+        }
+      ]
+    },
+    {
+      "lema": "ma.mat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ mamut"
+        }
+      ]
+    }
+  ]
+}

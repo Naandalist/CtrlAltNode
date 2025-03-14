@@ -1,0 +1,24 @@
+{
+  "istilah": "direktori dua tingkat",
+  "entri": "direktori » direktori dua tingkat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "direktori » direktori dua tingkat",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "struktur direktori di dalam sistem operasi yang di dalam setiap pengguna memiliki berkas direktori pengguna tersendiri"
+        }
+      ]
+    }
+  ]
+}

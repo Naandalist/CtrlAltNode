@@ -1,0 +1,47 @@
+{
+  "istilah": "damba",
+  "entri": "dam.ba1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dambaan",
+    "mendambakan",
+    "pendamba",
+    "mendamba"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "dambha"
+  },
+  "data": [
+    {
+      "lema": "dam.ba1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sangat ingin; rindu: suami istri itu -- seorang anak laki-laki"
+        }
+      ]
+    },
+    {
+      "lema": "dam.ba2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mendamba"
+        }
+      ]
+    },
+    {
+      "lema": "dam.ba3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "diam, tidak bercakap-cakap karena kurang senang hati"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "istilah": "raga",
+  "entri": "ra.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "meraga",
+    "beraga",
+    "memperagakan",
+    "meraga",
+    "meragakan",
+    "pemeraga",
+    "pemeragaan",
+    "peraga",
+    "peragaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "jaras dikatakan raga jarang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "keranjang, tenunan, keranjang anyaman",
+    "kataAsal": "raga"
+  },
+  "data": [
+    {
+      "lema": "ra.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keranjang yang kasar terbuat dari rotan: -- buah-buahan"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bola yang terbuat dari anyaman rotan: bermain sepak -- [1] bermain raga (dengan menendang raga itu tinggi-tinggi dan menjaga supaya jangan jatuh) [2] takraw"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ga3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "badan; tubuh"
+        }
+      ]
+    },
+    {
+      "lema": "ra.ga4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "potong (untuk daging dalam ukuran besar)"
+        }
+      ]
+    }
+  ]
+}

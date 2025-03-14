@@ -1,0 +1,33 @@
+{
+  "istilah": "dodot",
+  "entri": "do.dot1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kain panjang penutup badan bagian bawah, dodot",
+    "kataAsal": "dodot"
+  },
+  "data": [
+    {
+      "lema": "do.dot1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pakaian adat Jawa dari kain batik atau cindai panjang dan lebar, dipakai pada upacara resmi (oleh pengantin dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "do.dot2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat musik tradisional"
+        }
+      ]
+    }
+  ]
+}

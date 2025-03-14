@@ -1,0 +1,35 @@
+{
+  "istilah": "plombir",
+  "entri": "plom.bir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memplombir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "plom.bir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "meterai dari timah dan sebagainya dipakai sebagai tanda sudah membayar pajak kendaraan"
+        }
+      ]
+    },
+    {
+      "lema": "plom.bir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengisi (penampal) gigi yang berlubang"
+        }
+      ]
+    }
+  ]
+}

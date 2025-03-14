@@ -1,0 +1,38 @@
+{
+  "istilah": "pedas",
+  "entri": "pe.das /pêdas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kepedasan",
+    "memedaskan",
+    "terpedas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "belum tahu di pedas lada; belum tahu di pedas lada; siapa makan lada, ialah berasa pedas; siapa yang makan cabai, dialah yang berasa pedas (kepedasan)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.das /pêdas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rasa seperti rasa cabai (merica dan sebagainya): -- sambal ini sama dengan -- cabai"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terasa seperti cabai atau merica"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tajam atau keras (tentang kritik dan sebagainya); menyakitkan hati (tentang perkataan dan sebagainya): tulisan-tulisannya sangat --"
+        }
+      ]
+    }
+  ]
+}

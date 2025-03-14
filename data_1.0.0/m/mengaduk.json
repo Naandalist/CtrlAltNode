@@ -1,0 +1,35 @@
+{
+  "istilah": "mengaduk",
+  "entri": "aduk » meng.a.duk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "mengaduk perkara lama",
+    "mengaduk semen"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "aduk » meng.a.duk",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mencampur dan mengacau; mengarau: ~ gulai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membongkar-bongkar tidak keruan: ia telah ~ lemari pakaiannya untuk mencari barang itu"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "membuat kerusuhan; mengacau: daerah itu belum aman betul, beberapa kali gerombolan ~ tempat itu"
+        }
+      ]
+    }
+  ]
+}

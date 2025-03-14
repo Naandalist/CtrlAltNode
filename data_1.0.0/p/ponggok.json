@@ -1,0 +1,35 @@
+{
+  "istilah": "ponggok",
+  "entri": "pong.gok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terponggok"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pong.gok1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "buntung ekor; pokeng; kuntul: ayam --"
+        }
+      ]
+    },
+    {
+      "lema": "pong.gok2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terponggok"
+        }
+      ]
+    }
+  ]
+}

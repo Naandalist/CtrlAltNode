@@ -1,0 +1,58 @@
+{
+  "istilah": "erosi",
+  "entri": "e.ro.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "tererosi"
+  ],
+  "gabunganKata": [
+    "erosi air",
+    "erosi alamiah",
+    "erosi alur",
+    "erosi angin",
+    "erosi awal",
+    "erosi geologis",
+    "erosi gigi",
+    "erosi glasial",
+    "erosi hujan",
+    "erosi internal",
+    "erosi lembar",
+    "erosi lokal",
+    "erosi parit",
+    "erosi percik",
+    "erosi percikan",
+    "erosi permukaan",
+    "erosi pertanian",
+    "erosi selokan",
+    "erosi tanah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.ro.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal menjadi aus (berlubang) karena geseran air (tentang batu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "pengikisan permukaan bumi oleh tenaga yang melibatkan pengangkatan benda-benda, seperti air mengalir, es, angin, dan gelombang atau arus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "luka pada kulit yang sangat dangkal, hanya mengenai lapisan kulit luar dan mengeluarkan serum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -] ki[kiasan]",
+          "deskripsi": "pengikisan; penyusutan; penipisan: -- nasionalisme"
+        }
+      ]
+    }
+  ]
+}

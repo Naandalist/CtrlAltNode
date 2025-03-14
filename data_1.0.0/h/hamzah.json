@@ -1,0 +1,28 @@
+{
+  "istilah": "hamzah",
+  "entri": "ham.zah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "huruf pertama dalam abjad bahasa Arab",
+    "kataAsal": "hamzah"
+  },
+  "data": [
+    {
+      "lema": "ham.zah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda hambat glotal dalam ortografi bahasa Arab"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi hambat glotal"
+        }
+      ]
+    }
+  ]
+}

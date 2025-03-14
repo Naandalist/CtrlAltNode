@@ -1,0 +1,33 @@
+{
+  "istilah": "petok",
+  "entri": "pe.tok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pe.tok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "arit kecil untuk menyiangi rumput di tanah kering"
+        }
+      ]
+    },
+    {
+      "lema": "pe.tok /pêtok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kotek1"
+        }
+      ]
+    }
+  ]
+}

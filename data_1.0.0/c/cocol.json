@@ -1,0 +1,38 @@
+{
+  "istilah": "cocol",
+  "entri": "co.col1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "cocolan",
+    "mencocol",
+    "mencocolkan",
+    "mencocol"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "co.col1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jk[Melayu Jakarta: -]",
+          "deskripsi": "sentuh; colek"
+        }
+      ]
+    },
+    {
+      "lema": "co.col2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mencocol"
+        }
+      ]
+    }
+  ]
+}

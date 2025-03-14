@@ -1,0 +1,33 @@
+{
+  "istilah": "depok",
+  "entri": "de.pok2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "de.pok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah pendeta"
+        }
+      ]
+    },
+    {
+      "lema": "De.pok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota madya di Provinsi Jawa Barat, terkenal dengan sebutan kota belimbing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "manik",
+  "entri": "ma.nik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermanik-manik",
+    "manik-manik"
+  ],
+  "gabunganKata": [
+    "manik depresi"
+  ],
+  "peribahasa": [
+    "bagai manik putus talinya (pengarang)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "permata, manik-manik, mutiara, kristal",
+    "kataAsal": "maṇi"
+  },
+  "data": [
+    {
+      "lema": "ma.nik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "butir kecil-kecil (dari merjan, karang, dan sebagainya) yang diberi lubang dan dicocok untuk perhiasan, kalung, dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "ma.nik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "rasa senang tidak terkendali yang muncul; mania"
+        }
+      ]
+    }
+  ]
+}

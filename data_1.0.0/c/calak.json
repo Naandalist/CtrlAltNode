@@ -1,0 +1,59 @@
+{
+  "istilah": "calak",
+  "entri": "ca.lak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "calak-calak",
+    "mencalak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "calak ganti asah (menanti tukang belum datang)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ca.lak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pandai bicara"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suka turut campur pembicaraan orang; lancang mulut"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "banyak bicara; bawel"
+        }
+      ]
+    },
+    {
+      "lema": "ca.lak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bagus; elok; cakap: duhai, -- nian gaun yang dipakai wanita itu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "cemerlang"
+        }
+      ]
+    },
+    {
+      "lema": "ca.lak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "alat untuk menggosok intan (pisau dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "emosi",
+  "entri": "e.mo.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beremosi",
+    "keemosian",
+    "seemosi"
+  ],
+  "gabunganKata": [
+    "emosi jenuh",
+    "emosi keagamaan",
+    "emosi palsu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "e.mo.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "luapan perasaan yang berkembang dan surut dalam waktu singkat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan dan reaksi psikologis dan fisiologis (seperti kegembiraan, kesedihan, keharuan, kecintaan); keberanian yang bersifat subjektif"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "marah"
+        }
+      ]
+    }
+  ]
+}

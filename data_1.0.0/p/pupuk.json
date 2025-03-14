@@ -1,0 +1,57 @@
+{
+  "istilah": "pupuk",
+  "entri": "pu.puk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dipupuk",
+    "memupuk",
+    "pemupuk",
+    "pemupukan",
+    "terpupuk",
+    "memupuk"
+  ],
+  "gabunganKata": [
+    "pupuk akar",
+    "pupuk alam",
+    "pupuk bawang",
+    "pupuk buatan",
+    "pupuk dasar",
+    "pupuk daun",
+    "pupuk garam",
+    "pupuk hibrida",
+    "pupuk hijau",
+    "pupuk kandang",
+    "pupuk lengkap",
+    "pupuk organik",
+    "pupuk pabrik",
+    "pupuk tabur"
+  ],
+  "peribahasa": [
+    "masih berbau pupuk jeringau"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tuam, tapal (khusus dikenakan pada dahi guna menyembuhkan atau mencegah keadaan sakit)",
+    "kataAsal": "pupuk"
+  },
+  "data": [
+    {
+      "lema": "pu.puk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyubur tanaman yang ditambahkan ke tanah untuk menyediakan senyawaan unsur yang diperlukan oleh tanaman"
+        }
+      ]
+    },
+    {
+      "lema": "pu.puk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat dari tumbuh-tumbuhan (daun-daunan dan sebagainya) yang digiling lumat-lumat, dilekatkan di dahi sebelah atas, dekat pada ubun-ubun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "mikrospora",
+  "entri": "mik.ro.spo.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mik.ro.spo.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "spora haploid yang berukuran lebih kecil, biasanya dianggap jantan, dibentuk melalui proses meosis pada jenis tumbuhan yang bersifat heterospora, pada tumbuhan biji berupa serbuk sari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "spora yang bersifat dapat menimbulkan gametofit yang hanya menghasilkan gamet jantan"
+        }
+      ]
+    }
+  ]
+}

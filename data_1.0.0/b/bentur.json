@@ -1,0 +1,44 @@
+{
+  "istilah": "bentur",
+  "entri": "ben.tur1 /bêntur/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membentur",
+    "benturan",
+    "berbenturan",
+    "kebentur",
+    "membentur",
+    "membentur-benturkan",
+    "membenturkan",
+    "pembenturan",
+    "perbenturan",
+    "terbentur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ben.tur1 /bêntur/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membentur"
+        }
+      ]
+    },
+    {
+      "lema": "ben.tur2 /bêntur/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tubruk; langgar"
+        }
+      ]
+    }
+  ]
+}

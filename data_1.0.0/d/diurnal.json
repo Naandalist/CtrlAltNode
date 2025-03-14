@@ -1,0 +1,32 @@
+{
+  "istilah": "diurnal",
+  "entri": "di.ur.nal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "di.ur.nal",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berhubungan dengan siang hari"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bot[Botani: -]",
+          "deskripsi": "keadaan bunga yang mekar pada siang hari dan menutup pada malam hari"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Zool[Zoologi: -]",
+          "deskripsi": "keadaan hewan yang sifat atau kebiasaannya aktif terutama pada siang hari"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "dap",
+  "entri": "dap1 bentuk tidak baku: edap",
+  "bentukTidakBaku": "edap",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "dap1 bentuk tidak baku: edap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "genderang; tambur"
+        }
+      ]
+    },
+    {
+      "lema": "dap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "alat musik khas Kerinci terbuat dari bonggol kelapa dan kulit kambing, dibunyikan dan dimainkan untuk menurunkan benda-benda pusaka"
+        }
+      ]
+    }
+  ]
+}

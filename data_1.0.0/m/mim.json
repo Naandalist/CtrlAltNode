@@ -1,0 +1,33 @@
+{
+  "istilah": "mim",
+  "entri": "mim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "mim1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-24 abjad Arab"
+        }
+      ]
+    },
+    {
+      "lema": "mim2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ meme"
+        }
+      ]
+    }
+  ]
+}

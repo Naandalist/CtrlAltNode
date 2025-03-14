@@ -1,0 +1,44 @@
+{
+  "istilah": "macam",
+  "entri": "ma.cam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bermacam",
+    "bermacam-macam",
+    "macam-macam",
+    "mempermacam-macamkan",
+    "semacam"
+  ],
+  "gabunganKata": [
+    "macam apa",
+    "macam mana",
+    "macam ragam"
+  ],
+  "peribahasa": [
+    "lurus macam bendul; macam tapai mengairi dirinya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.cam",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis; rupa: barang yang seperti ini ada dua --; bentuk dan warnanya sama, tetapi --nya lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara: bagaimana --nya jika ia mengajar anak-anak?; pakaian -- sekarang berbeda dari pakaian -- dulu; -- apa ini?"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "(se-)bagai; seperti: -- orang mengantuk disorongkan bantal"
+        }
+      ]
+    }
+  ]
+}

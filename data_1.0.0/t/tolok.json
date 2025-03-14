@@ -1,0 +1,67 @@
+{
+  "istilah": "tolok",
+  "entri": "to.lok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menolok",
+    "penolok",
+    "setolok"
+  ],
+  "gabunganKata": [
+    "tolok banding",
+    "tolok ukur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.lok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "banding; imbangan (yang sama); tara: tiada --nya tiada bandingannya"
+        }
+      ]
+    },
+    {
+      "lema": "to.lok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "juru bahasa"
+        }
+      ]
+    },
+    {
+      "lema": "to.lok3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gayam"
+        }
+      ]
+    },
+    {
+      "lema": "to.lok4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sastra klasik Bugis yang menceritakan kepahlawanan seorang tokoh, berbentuk prosa liris"
+        }
+      ]
+    },
+    {
+      "lema": "to.lok5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "keranjang untuk menampung padi saat panen"
+        }
+      ]
+    }
+  ]
+}

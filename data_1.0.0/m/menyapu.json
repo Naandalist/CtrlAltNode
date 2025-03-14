@@ -1,0 +1,53 @@
+{
+  "istilah": "menyapu",
+  "entri": "sapu1 » me.nya.pu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "menyapu bersih",
+    "menyapu dada",
+    "menyapu habis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sapu1 » me.nya.pu",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membersihkan dengan sapu: ~ kebun; ~ lantai"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengusap; menghapus; menyeka (keringat dan sebagainya); menyapu-nyapu: ~ mukanya dengan saputangan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melumas (dengan cat dan sebagainya): ia ~ bercak-bercak pada tembok itu dengan cat putih"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "menghancurkan: angin topan ~ semua rumah penduduk"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "membersihkan; menangani: mereka memiliki satuan antikorupsi yang disiapkan untuk ~ penyelewengan selama rekonstruksi berjalan"
+        }
+      ]
+    },
+    {
+      "lema": "sapu2 » me.nya.pu",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "merotan (memukul dengan rotan, biasanya sebagai hukuman)"
+        }
+      ]
+    }
+  ]
+}

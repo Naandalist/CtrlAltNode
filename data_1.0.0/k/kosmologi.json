@@ -1,0 +1,32 @@
+{
+  "istilah": "kosmologi",
+  "entri": "kos.mo.lo.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "kos.mo.lo.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu (cabang astronomi yang menyelidiki asal-usul, struktur, dan hubungan ruang waktu dari alam semesta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang asal-usul kejadian bumi, hubungannya dengan sistem matahari, serta hubungan sistem matahari dengan jagat raya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu (cabang dari metafisika) yang menyelidiki alam semesta sebagai sistem yang beraturan"
+        }
+      ]
+    }
+  ]
+}

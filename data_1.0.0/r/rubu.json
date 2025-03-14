@@ -1,0 +1,36 @@
+{
+  "istilah": "rubu",
+  "entri": "ru.bu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "merubu",
+    "merubu-rubu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ru.bu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat hitung tradisional untuk menghitung (memperkirakan) perpindahan bulan dalam perhitungan tahun Hijriah"
+        }
+      ]
+    },
+    {
+      "lema": "ru.bu2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "merubu; merubu-rubu"
+        }
+      ]
+    }
+  ]
+}

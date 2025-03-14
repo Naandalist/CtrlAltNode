@@ -1,0 +1,28 @@
+{
+  "istilah": "iterasi",
+  "entri": "i.te.ra.si /itêrasi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "i.te.ra.si /itêrasi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perulangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "proses yang serangkaian operasinya dilakukan, baik yang jumlahnya telah ditetapkan maupun sampai kondisi tertentu terpenuhi"
+        }
+      ]
+    }
+  ]
+}

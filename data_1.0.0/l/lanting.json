@@ -1,0 +1,63 @@
+{
+  "istilah": "lanting",
+  "entri": "lan.ting1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "melanting",
+    "melantingkan",
+    "pelanting",
+    "pelantingan",
+    "terlanting",
+    "berlanting",
+    "melanting"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "lan.ting1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "melanting"
+        }
+      ]
+    },
+    {
+      "lema": "lan.ting2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berlanting"
+        }
+      ]
+    },
+    {
+      "lema": "lan.ting3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "melanting"
+        }
+      ]
+    },
+    {
+      "lema": "lan.ting4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Klm[Melayu Kalimantan: -]",
+          "deskripsi": "rumah di atas rawa-rawa tempat memelihara itik (di Kalimantan Selatan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Klm[Melayu Kalimantan: -]",
+          "deskripsi": "rumah atau pondok di atas rakit di tepian sungai, digunakan untuk tempat tinggal atau kegiatan menenun"
+        }
+      ]
+    }
+  ]
+}

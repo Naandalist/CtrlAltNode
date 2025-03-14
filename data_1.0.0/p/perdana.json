@@ -1,0 +1,37 @@
+{
+  "istilah": "perdana",
+  "entri": "per.da.na1 /pêrdana/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "diperdanakan"
+  ],
+  "gabunganKata": [
+    "perdana menteri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "ketua, pemimpin, bangsawan, orang terkemuka",
+    "kataAsal": "pradhāna"
+  },
+  "data": [
+    {
+      "lema": "per.da.na1 /pêrdana/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bendahara"
+        }
+      ]
+    },
+    {
+      "lema": "per.da.na2 /pêrdana/",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "pertama (kali): penerbangan --"
+        }
+      ]
+    }
+  ]
+}

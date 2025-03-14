@@ -1,0 +1,37 @@
+{
+  "istilah": "torus",
+  "entri": "to.rus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "to.rus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembengkokan"
+        }
+      ]
+    },
+    {
+      "lema": "to.rus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "penyangga bunga yang biasanya mencembung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian tengah membran ceruk yang menebal pada ceruk terlindung Gymnospermae"
+        }
+      ]
+    }
+  ]
+}

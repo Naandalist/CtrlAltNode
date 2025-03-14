@@ -1,0 +1,35 @@
+{
+  "istilah": "kertap",
+  "entri": "ker.tap1 /kêrtap/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kertap-kertap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ker.tap1 /kêrtap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi seperti bunyi daun pintu dikatupkan"
+        }
+      ]
+    },
+    {
+      "lema": "ker.tap2 /kêrtap/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu memegang jabatan"
+        }
+      ]
+    }
+  ]
+}

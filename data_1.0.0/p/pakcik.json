@@ -1,0 +1,32 @@
+{
+  "istilah": "pakcik",
+  "entri": "pak.cik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pak.cik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "bapak kecil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "kata sapaan kepada adik laki-laki bapak atau adik laki-laki ibu; paman"
+        },
+        {
+          "kelas_kata": "Prm[Pramuka: Usulan untuk penambahan bidang baru]",
+          "deskripsi": "kata panggilan untuk pembantu pembina pramuka siaga putra"
+        }
+      ]
+    }
+  ]
+}

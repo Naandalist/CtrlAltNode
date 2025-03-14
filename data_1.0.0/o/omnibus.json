@@ -1,0 +1,37 @@
+{
+  "istilah": "omnibus",
+  "entri": "om.ni.bus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "om.ni.bus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bus"
+        }
+      ]
+    },
+    {
+      "lema": "om.ni.bus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "kompilasi beberapa karya (film, buku, dan sebagainya), biasanya ditulis atau dibuat oleh orang yang sama, melibatkan karakter yang sama atau memiliki tema yang sama, yang sebelumnya pernah diluncurkan secara terpisah: ia mengemas film tersebut dalam bentuk --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan atau mencakup tentang banyak hal: hukum --"
+        }
+      ]
+    }
+  ]
+}

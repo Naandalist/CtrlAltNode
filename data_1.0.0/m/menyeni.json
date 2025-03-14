@@ -1,0 +1,33 @@
+{
+  "istilah": "menyeni",
+  "entri": "seni1 » me.nye.ni",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "seni1 » me.nye.ni",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "halus; lembut: lagunya ~"
+        }
+      ]
+    },
+    {
+      "lema": "seni2 » me.nye.ni",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berseni: ia ~ juga"
+        }
+      ]
+    }
+  ]
+}

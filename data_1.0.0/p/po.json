@@ -1,0 +1,35 @@
+{
+  "istilah": "po",
+  "entri": "po",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "main po"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "cari:",
+    "kataAsal": "pó"
+  },
+  "data": [
+    {
+      "lema": "po",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "main po"
+        }
+      ]
+    },
+    {
+      "lema": "PO",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "petunjuk operasional"
+        }
+      ]
+    }
+  ]
+}

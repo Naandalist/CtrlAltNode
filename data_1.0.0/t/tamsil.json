@@ -1,0 +1,33 @@
+{
+  "istilah": "tamsil",
+  "entri": "tam.sil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bertamsil",
+    "menamsilkan",
+    "tamsilan",
+    "tertamsilkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penyerupaan",
+    "kataAsal": "tamṡīl"
+  },
+  "data": [
+    {
+      "lema": "tam.sil",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persamaan dengan umpama (misal): -- hidupnya ialah sebagai katak dalam tempurung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ajaran yang terkandung dalam cerita; ibarat; lukisan (sesuatu sebagai contoh): banyak cerita mengandung -- untuk kanak-kanak"
+        }
+      ]
+    }
+  ]
+}

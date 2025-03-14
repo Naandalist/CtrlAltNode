@@ -1,0 +1,36 @@
+{
+  "istilah": "enten",
+  "entri": "en.ten1 /ênten/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "enten-enten",
+    "mengenten"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "en.ten1 /ênten/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "enten-enten"
+        }
+      ]
+    },
+    {
+      "lema": "en.ten2 /ênten/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "setek"
+        }
+      ]
+    }
+  ]
+}

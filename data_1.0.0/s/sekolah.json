@@ -1,0 +1,70 @@
+{
+  "istilah": "sekolah",
+  "entri": "se.ko.lah /sêkolah/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersekolah",
+    "menyekolahkan",
+    "persekolahan",
+    "sekolahan"
+  ],
+  "gabunganKata": [
+    "sekolah agama",
+    "sekolah ambah",
+    "sekolah bayi",
+    "sekolah dagang",
+    "sekolah dasar",
+    "sekolah dasar kecil",
+    "sekolah drama",
+    "sekolah inklusi",
+    "sekolah kejuruan",
+    "sekolah kesenian",
+    "sekolah laboratorium",
+    "sekolah lanjutan",
+    "sekolah lanjutan tingkat atas",
+    "sekolah lanjutan tingkat pertama",
+    "sekolah mandiri",
+    "sekolah menengah",
+    "sekolah menengah atas",
+    "sekolah menengah kejuruan",
+    "sekolah menengah pertama",
+    "sekolah menengah tingkat atas",
+    "sekolah menengah tingkat pertama",
+    "sekolah menengah umum",
+    "sekolah penerbangan",
+    "sekolah pertukangan",
+    "sekolah raja",
+    "sekolah reguler",
+    "sekolah tinggi",
+    "sekolah vokasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "se.ko.lah /sêkolah/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan atau lembaga untuk belajar dan mengajar serta tempat menerima dan memberi pelajaran (menurut tingkatannya, ada) -- dasar, -- lanjutan, -- tinggi; (menurut jurusannya, ada) -- dagang, -- guru, -- teknik, -- pertanian, dan sebagainya: keluar -- sudah tidak belajar di sekolah lagi; pernah duduk di bangku -- pernah belajar di sekolah; tidak makan --, cak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu atau pertemuan ketika murid diberi pelajaran: -- mulai pukul setengah delapan pagi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "usaha menuntut kepandaian (ilmu pengetahuan); pelajaran; pengajaran: ia hendak melanjutkan --nya ke Jakarta; --nya tinggi sudah banyak mendapat pelajaran; sudah masak --nya sudah pandai benar"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "belajar di sekolah; pergi ke sekolah; bersekolah: mengapa engkau tidak -- hari ini?"
+        }
+      ]
+    }
+  ]
+}

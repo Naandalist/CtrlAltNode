@@ -1,0 +1,40 @@
+{
+  "istilah": "sanksi",
+  "entri": "sank.si bentuk tidak baku: sangsi2",
+  "bentukTidakBaku": "sangsi2",
+  "kataTurunan": [
+    "bersanksi"
+  ],
+  "gabunganKata": [
+    "sanksi denda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "sank.si bentuk tidak baku: sangsi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanggungan (tindakan, hukuman, dan sebagainya) untuk memaksa orang menepati perjanjian atau menaati ketentuan undang-undang (anggaran dasar, perkumpulan, dan sebagainya): dalam aturan tata tertib harus ditegaskan apa --nya kalau ada anggota yang melanggar aturan-aturan itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tindakan (mengenai perekonomian dan sebagainya) sebagai hukuman kepada suatu negara: Dewan Keamanan PBB mengadakan -- terhadap negara yang menyerang negara lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "imbalan negatif, berupa pembebanan atau penderitaan yang ditentukan dalam hukum"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "imbalan positif, yang berupa hadiah atau anugerah yang ditentukan dalam hukum"
+        }
+      ]
+    }
+  ]
+}

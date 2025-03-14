@@ -1,0 +1,33 @@
+{
+  "istilah": "masam",
+  "entri": "ma.sam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kemasam-masaman",
+    "memasam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "lewat dari manis, masam, lewat dari harum, busuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ma.sam",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "asam (rasa seperti rasa cuka atau buah asam): buah ini -- rasanya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "bersungut; merengut, tidak ramah (tentang muka) karena marah dan sebagainya: mukanya -- saja karena diolok-olok"
+        }
+      ]
+    }
+  ]
+}

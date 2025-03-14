@@ -1,0 +1,37 @@
+{
+  "istilah": "klona",
+  "entri": "klo.na1 bentuk tidak baku: klon",
+  "bentukTidakBaku": "klon",
+  "kataTurunan": [
+    "mengklonakan",
+    "pengklona",
+    "pengklonaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "klo.na1 bentuk tidak baku: klon",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "kumpulan sel turunan dari sel induk tunggal dengan reproduksi aseksual"
+        }
+      ]
+    },
+    {
+      "lema": "klo.na2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "peranti lunak atau peranti keras tiruan dari merek terkenal"
+        }
+      ]
+    }
+  ]
+}

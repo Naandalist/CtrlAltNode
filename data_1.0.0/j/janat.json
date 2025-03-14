@@ -1,0 +1,28 @@
+{
+  "istilah": "janat",
+  "entri": "ja.nat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "taman; surga",
+    "kataAsal": "jannāt"
+  },
+  "data": [
+    {
+      "lema": "ja.nat",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sempurna"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "surga"
+        }
+      ]
+    }
+  ]
+}

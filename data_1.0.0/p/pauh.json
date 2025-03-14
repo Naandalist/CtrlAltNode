@@ -1,0 +1,38 @@
+{
+  "istilah": "pauh",
+  "entri": "pa.uh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "pauh janggi",
+    "pauh pipit"
+  ],
+  "peribahasa": [
+    "pipinya sebagai pauh dilayang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "pa.uh1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mangga"
+        }
+      ]
+    },
+    {
+      "lema": "pa.uh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran isi ¼ cupak"
+        }
+      ]
+    }
+  ]
+}

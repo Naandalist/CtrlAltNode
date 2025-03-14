@@ -1,0 +1,37 @@
+{
+  "istilah": "mengiang",
+  "entri": "ngiang » me.ngi.ang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ngiang » me.ngi.ang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berbunyi mendenging"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terdengar berdenging: di telingaku seakan-akan masih ~ ucapannya"
+        }
+      ]
+    },
+    {
+      "lema": "me.ngi.ang /mêngiang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "pelangi; ular mengiang"
+        }
+      ]
+    }
+  ]
+}

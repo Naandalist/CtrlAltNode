@@ -1,0 +1,46 @@
+{
+  "istilah": "meraga",
+  "entri": "raga1 » me.ra.ga",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "raga1 » me.ra.ga",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "seperti raga"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kasap; berserabut"
+        }
+      ]
+    },
+    {
+      "lema": "raga3 » me.ra.ga",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beraga"
+        }
+      ]
+    },
+    {
+      "lema": "me.ra.ga /mêraga/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "binatang liar; marga"
+        }
+      ]
+    }
+  ]
+}

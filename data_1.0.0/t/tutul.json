@@ -1,0 +1,49 @@
+{
+  "istilah": "tutul",
+  "entri": "tu.tul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menutuli",
+    "menutulkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "tutul"
+  },
+  "data": [
+    {
+      "lema": "tu.tul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "titik; noktah (tentang warna kulit bulu binatang)"
+        }
+      ]
+    },
+    {
+      "lema": "tutul2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menutulkan"
+        }
+      ]
+    },
+    {
+      "lema": "tu.tul3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "permainan anak-anak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "main tutul"
+        }
+      ]
+    }
+  ]
+}

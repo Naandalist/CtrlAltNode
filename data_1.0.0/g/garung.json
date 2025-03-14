@@ -1,0 +1,48 @@
+{
+  "istilah": "garung",
+  "entri": "ga.rung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menggarung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ga.rung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tangisan keras-keras (karena kesakitan); raungan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "deru (tentang topan)"
+        }
+      ]
+    },
+    {
+      "lema": "ga.rung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "selokan yang sudah kering atau tidak digunakan lagi"
+        }
+      ]
+    },
+    {
+      "lema": "ga.rung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "seniman tradisional yang belajar secara autodidak"
+        }
+      ]
+    }
+  ]
+}

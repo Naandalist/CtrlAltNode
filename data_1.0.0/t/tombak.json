@@ -1,0 +1,37 @@
+{
+  "istilah": "tombak",
+  "entri": "tom.bak bentuk tidak baku: tumbak",
+  "bentukTidakBaku": "tumbak",
+  "kataTurunan": [
+    "menombak",
+    "menombak",
+    "menombaki"
+  ],
+  "gabunganKata": [
+    "tombak benderang",
+    "tombak kembar",
+    "tombak pancing",
+    "tombak pengawinan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "lembing atau tombak",
+    "kataAsal": "tomara"
+  },
+  "data": [
+    {
+      "lema": "tom.bak bentuk tidak baku: tumbak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "senjata tajam dan runcing, bermata dua, bertangkai panjang, untuk menusuk dari jarak dekat atau jauh (dengan cara melemparkannya); ada bermacam-macam: -- bandang; -- rambu; -- sagang; -- serampang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran panjang 12 kaki; cengkal"
+        }
+      ]
+    }
+  ]
+}

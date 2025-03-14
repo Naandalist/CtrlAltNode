@@ -1,0 +1,44 @@
+{
+  "istilah": "haram",
+  "entri": "ha.ram",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengharamkan",
+    "pengharaman"
+  ],
+  "gabunganKata": [
+    "haram jadah",
+    "haram zadah"
+  ],
+  "peribahasa": [
+    "laksana manau, seribu kali embat haram tak patah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "suci; tidak halal; larangan",
+    "kataAsal": "ḥarām"
+  },
+  "data": [
+    {
+      "lema": "ha.ram",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlarang (oleh agama Islam); tidak halal: -- hukumnya apabila makan bangkai"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suci; terpelihara; terlindung: tanah -- di Mekah itu adalah semulia-mulia tempat di atas bumi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sama sekali tidak; sungguh-sungguh tidak: selangkah -- aku surut"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlarang oleh undang-undang; tidak sah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "retensi",
+  "entri": "re.ten.si /rêtensi/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "retensi air",
+    "retensi bersih protein",
+    "retensi kawat",
+    "retensi kekuatan",
+    "retensi protein"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "re.ten.si /rêtensi/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyimpanan; penahanan: setiap arsip ditentukan --nya atas dasar nilai kegunaannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penahanan terus-menerus zat dalam tubuh yang secara normal seharusnya dikeluarkan (seperti kencing)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "unsur bahasa purba yang dipelihara dalamisolek (bahasa, dialek, subdialek, atau beda wicara) turunan tanpa ada perubahan"
+        }
+      ]
+    }
+  ]
+}

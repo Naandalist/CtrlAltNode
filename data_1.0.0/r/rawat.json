@@ -1,0 +1,39 @@
+{
+  "istilah": "rawat",
+  "entri": "ra.wat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keperawatan",
+    "merawat",
+    "merawatkan",
+    "perawat",
+    "perawatan",
+    "rawatan",
+    "terawat"
+  ],
+  "gabunganKata": [
+    "perawatan rumahan",
+    "rawat gabung",
+    "rawat inap",
+    "rawat jalan",
+    "rawat panas",
+    "rawat pulih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ra.wat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pelihara; urus; jaga"
+        }
+      ]
+    }
+  ]
+}
