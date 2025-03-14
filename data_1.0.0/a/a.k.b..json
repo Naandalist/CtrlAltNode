@@ -1,0 +1,33 @@
+{
+  "istilah": "a.k.b.",
+  "entri": "A.K.B.1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "A.K.B.1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "ajun komisaris besar"
+        }
+      ]
+    },
+    {
+      "lema": "A.K.B.2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "angka kematian bayi"
+        }
+      ]
+    }
+  ]
+}

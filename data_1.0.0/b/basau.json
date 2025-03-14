@@ -1,0 +1,42 @@
+{
+  "istilah": "basau",
+  "entri": "ba.sau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.sau1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak empuk; keras (terutama tentang ubi, kentang, dan sebagainya yang direbus)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.sau2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "kelapa busuk"
+        }
+      ]
+    },
+    {
+      "lema": "ba.sau3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna beras yang kemerahan karena lama disimpan"
+        }
+      ]
+    }
+  ]
+}

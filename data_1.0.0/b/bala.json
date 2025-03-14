@@ -1,0 +1,70 @@
+{
+  "istilah": "bala",
+  "entri": "ba.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbala-bala"
+  ],
+  "gabunganKata": [
+    "bala bantuan",
+    "bala keselamatan",
+    "bala seribu",
+    "bala tentara",
+    "bala bencana"
+  ],
+  "peribahasa": [
+    "bala lalu dibawa singgah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ujian (baik maupun buruk)",
+    "kataAsal": "balā’"
+  },
+  "data": [
+    {
+      "lema": "ba.la1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasukan; prajurit"
+        }
+      ]
+    },
+    {
+      "lema": "ba.la2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "malapetaka; kemalangan; cobaan: kena --; mendapat --; menolak --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.la4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mn[Minahasa: -]",
+          "deskripsi": "burung yang dianggap dapat memberi isyarat melalui gerak-gerik atau suaranya"
+        }
+      ]
+    },
+    {
+      "lema": "ba.la5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelapa muda yang dagingnya sudah mulai mengeras"
+        }
+      ]
+    },
+    {
+      "lema": "Ba.la4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "wuku ke-25"
+        }
+      ]
+    }
+  ]
+}

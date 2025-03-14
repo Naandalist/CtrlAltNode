@@ -1,0 +1,28 @@
+{
+  "istilah": "banglas",
+  "entri": "bang.las",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bang.las",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak terhalang, luas, lepas (tentang pandangan); awah1"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Met[Meteorologi: -]",
+          "deskripsi": "jarak pandang yang terjauh pada siang hari atau malam"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "istilah": "alir",
+  "entri": "a.lir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "aliran",
+    "beraliran",
+    "mengalir",
+    "mengaliri",
+    "mengalirkan",
+    "pengalir",
+    "pengaliran",
+    "mengalir"
+  ],
+  "gabunganKata": [
+    "alir aferen",
+    "alir landaian"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lir1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengalir"
+        }
+      ]
+    },
+    {
+      "lema": "a.lir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pancing dengan umpan hidup untuk menangkap buaya; tali alir; umpan alir"
+        }
+      ]
+    },
+    {
+      "lema": "a.lir3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "licin (permukaan)"
+        }
+      ]
+    }
+  ]
+}

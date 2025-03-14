@@ -1,0 +1,33 @@
+{
+  "istilah": "ape",
+  "entri": "a.pe1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.pe1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "kue apam kecil yang dibuat dari adonan tepung terigu, gula, dan telur, rasanya manis dan gurih"
+        }
+      ]
+    },
+    {
+      "lema": "a.pe2",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] Jk[Melayu Jakarta: -]",
+          "deskripsi": "apa"
+        }
+      ]
+    }
+  ]
+}

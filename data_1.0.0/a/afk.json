@@ -1,0 +1,33 @@
+{
+  "istilah": "afk",
+  "entri": "AFK1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "AFK1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "ahli fisiologi kedokteran"
+        }
+      ]
+    },
+    {
+      "lema": "AFK2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] sing[singkatan]",
+          "deskripsi": "pamit atau berhenti dari suatu aktivitas di dunia maya, seperti bermain gim atau melakukan obrolan daring; dari away from keyboard: karena ada paket datang, aku -- dulu"
+        }
+      ]
+    }
+  ]
+}

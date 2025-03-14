@@ -1,0 +1,39 @@
+{
+  "istilah": "bantu",
+  "entri": "ban.tu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bantu-membantu",
+    "bantuan",
+    "berbantu-bantuan",
+    "berbantuan",
+    "membantu",
+    "membantukan",
+    "memperbantukan",
+    "pembantu",
+    "pembantuan",
+    "terbantu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bantu",
+    "kataAsal": "bantu"
+  },
+  "data": [
+    {
+      "lema": "ban.tu",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tolong: --lah orang miskin dan melarat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penolong: guru --; kantor pos --"
+        }
+      ]
+    }
+  ]
+}

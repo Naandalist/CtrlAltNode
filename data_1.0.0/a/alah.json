@@ -1,0 +1,61 @@
+{
+  "istilah": "alah",
+  "entri": "a.lah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "alah-mengalahi",
+    "alahan",
+    "beralah",
+    "kealahan",
+    "mengalah",
+    "mengalahi",
+    "mengalahkan",
+    "pengalahan",
+    "peralahan",
+    "teralahkan",
+    "alahan",
+    "mengalah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "alah (kalah) membeli, menang memakai; alah bisa karena (oleh) biasa; alah bisa karena biasa; alah bisa oleh (karena) biasa; alah bisa, tegal biasa; alah di rumpun betung; alah limau oleh benalu; alah limau oleh benalu; alah main, menang sarak; alah membeli, menang memakai; alah menang tak tahu, bersorak boleh; alah sabung, menang sorak; sia-sia negeri alah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lah1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kalah: tidak diketahui siapa yang -- dan siapa yang menang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tewas"
+        }
+      ]
+    },
+    {
+      "lema": "a.lah2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengalah"
+        }
+      ]
+    },
+    {
+      "lema": "a.lah3",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk menyatakan ketidakpedulian; ah: --, dia saja tidak pernah datang ke rumah saya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "adipati",
+  "entri": "a.di.pa.ti bentuk tidak baku: dipati",
+  "bentukTidakBaku": "dipati",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "raja, tuan",
+    "kataAsal": "pati"
+  },
+  "data": [
+    {
+      "lema": "a.di.pa.ti bentuk tidak baku: dipati",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar untuk raja muda atau wakil raja (di Jawa Tengah gelar bagi Paku Alam dan Mangkunagara)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar kebangsawanan yang tinggi (misalnya di Kalimantan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar bupati (sebelum zaman kemerdekaan)"
+        }
+      ]
+    }
+  ]
+}

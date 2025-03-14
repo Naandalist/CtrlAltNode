@@ -1,0 +1,28 @@
+{
+  "istilah": "bahasa klasik",
+  "entri": "bahasa1 » bahasa klasik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa klasik",
+      "arti": [
+        {
+          "kelas_kata": "Ling[Linguistik: -]",
+          "deskripsi": "dialek temporal bahasa yang dianggap mewakili puncak perkembangan kebudayaan pemakainya"
+        },
+        {
+          "kelas_kata": "Ling[Linguistik: -]",
+          "deskripsi": "bahasa kuno yang mempunyai kesusastraan tinggi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "audio",
+  "entri": "au.di.o",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "audio digital",
+    "audio mobil"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "au.di.o",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat dapat didengar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat peraga yang bersifat dapat didengar (misalnya radio)"
+        }
+      ]
+    }
+  ]
+}

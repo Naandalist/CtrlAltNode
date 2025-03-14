@@ -1,0 +1,37 @@
+{
+  "istilah": "azam",
+  "entri": "a.zam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berazam",
+    "keazaman",
+    "mengazamkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tekad; keinginan kuat untuk melakukan suatu hal",
+    "kataAsal": "‘azm"
+  },
+  "data": [
+    {
+      "lema": "a.zam1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "teramat mulia"
+        }
+      ]
+    },
+    {
+      "lema": "a.zam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tujuan; cita-cita; maksud: sisa umurnya hanya diisi dengan satu --, yaitu beribadah khusyuk"
+        }
+      ]
+    }
+  ]
+}

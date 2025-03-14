@@ -1,0 +1,42 @@
+{
+  "istilah": "ajir",
+  "entri": "a.jir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.jir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sepotong kayu, tongkat, dan sebagainya yang ditancapkan di tanah untuk merambatkan tanaman"
+        }
+      ]
+    },
+    {
+      "lema": "a.jir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "pagar betis"
+        }
+      ]
+    },
+    {
+      "lema": "a.jir3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pekerja; buruh; upahan"
+        }
+      ]
+    }
+  ]
+}

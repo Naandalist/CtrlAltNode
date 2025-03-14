@@ -1,0 +1,42 @@
+{
+  "istilah": "anjak",
+  "entri": "an.jak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "anjakan",
+    "beranjak",
+    "dianjak",
+    "keberanjakan",
+    "menganjak",
+    "penganjakan"
+  ],
+  "gabunganKata": [
+    "anjak piutang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.jak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "anjakan; beranjak; dianjak; keberanjakan; menganjak; penganjakan"
+        }
+      ]
+    },
+    {
+      "lema": "an.jak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "penyakit bayi yang diiringi sawan"
+        }
+      ]
+    }
+  ]
+}

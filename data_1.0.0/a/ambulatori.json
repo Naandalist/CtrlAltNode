@@ -1,0 +1,32 @@
+{
+  "istilah": "ambulatori",
+  "entri": "am.bu.la.to.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.bu.la.to.ri",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "selalu berpindah; berjalan dari satu tempat ke tempat lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "jalan beratap untuk orang berjalan pada atrium atau biara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "layanan rawat jalan"
+        }
+      ]
+    }
+  ]
+}

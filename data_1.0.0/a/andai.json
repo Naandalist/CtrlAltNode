@@ -1,0 +1,51 @@
+{
+  "istilah": "andai",
+  "entri": "an.dai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "andaian",
+    "andaikan",
+    "mengandaikan",
+    "pengandaian",
+    "seandainya",
+    "berandai-andai"
+  ],
+  "gabunganKata": [
+    "andai kata"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.dai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peristiwa yang dianggap mungkin terjadi; misal; umpama: semuanya itu hanya -- saja"
+        }
+      ]
+    },
+    {
+      "lema": "an.dai2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berandai-andai"
+        }
+      ]
+    },
+    {
+      "lema": "an.dai3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ handai"
+        }
+      ]
+    }
+  ]
+}

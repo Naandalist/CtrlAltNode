@@ -1,0 +1,58 @@
+{
+  "istilah": "balon",
+  "entri": "ba.lon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "balon lampu",
+    "balon layangan",
+    "balon pandu",
+    "balon percobaan",
+    "balon radiosonde",
+    "balon terbang",
+    "balon udara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bola atau pundi-pundi besar dibuat dari karet (kertas, kain, dan sebagainya) yang diisi udara (gas yang ringan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mainan anak-anak terbuat dari karet yang dikembangkan (dengan ditiup atau diisi gas)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kabar (pernyataan dan sebagainya) yang disiarkan untuk mengajuk pikiran atau pendapat pihak lain"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pelacur"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lon3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "bakal calon"
+        }
+      ]
+    }
+  ]
+}

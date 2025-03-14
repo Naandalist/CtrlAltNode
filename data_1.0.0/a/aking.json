@@ -1,0 +1,33 @@
+{
+  "istilah": "aking",
+  "entri": "a.king1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.king1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisa nasi yang sudah kering (karena dijemur)"
+        }
+      ]
+    },
+    {
+      "lema": "a.king2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bsm[Basemah: -]",
+          "deskripsi": "bangsa zaman purba yang pernah mendiami tanah Besemah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "ab initium",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -] Huk[Hukum: -]",
+          "deskripsi": "dari permulaan"
+        }
+      ]
+    },
+    {
+      "lema": "ab initium",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -] [Hukum: -]",
+          "deskripsi": "dari permulaan"
+        }
+      ]
+    }
+  ]
+}

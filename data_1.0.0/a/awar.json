@@ -1,0 +1,33 @@
+{
+  "istilah": "awar",
+  "entri": "a.war1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.war1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerusakan pada kapal atau muatannya"
+        }
+      ]
+    },
+    {
+      "lema": "a.war2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "wabah penyakit yang khusus menyerang unggas, terutama ayam"
+        }
+      ]
+    }
+  ]
+}

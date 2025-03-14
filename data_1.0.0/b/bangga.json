@@ -1,0 +1,42 @@
+{
+  "istilah": "bangga",
+  "entri": "bang.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbangga",
+    "kebanggaan",
+    "membangga",
+    "membanggakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bang.ga1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "besar hati; merasa gagah (karena mempunyai keunggulan): regu Indonesia boleh -- karena dapat mempertahankan piala Thomas"
+        }
+      ]
+    },
+    {
+      "lema": "bang.ga2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tidak mau menurut; mendaga; membangkang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -] ki[kiasan]",
+          "deskripsi": "tidak mudah dikerjakan"
+        }
+      ]
+    }
+  ]
+}

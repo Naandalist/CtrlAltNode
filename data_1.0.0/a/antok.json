@@ -1,0 +1,33 @@
+{
+  "istilah": "antok",
+  "entri": "an.tok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.tok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "selubung pada jantung pisang"
+        }
+      ]
+    },
+    {
+      "lema": "an.tok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "benda (kayu dan sebagainya) tipis yang ditempelkan pada sambungan (kusen, belandar, dan sebagainya) agar kuat dan tidak mudah goyang"
+        }
+      ]
+    }
+  ]
+}

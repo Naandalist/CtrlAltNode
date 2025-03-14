@@ -1,0 +1,50 @@
+{
+  "istilah": "asa",
+  "entri": "a.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "asa-asaan",
+    "mengasakan",
+    "mengasa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "harapan, ekspektasi",
+    "kataAsal": "āśā"
+  },
+  "data": [
+    {
+      "lema": "a.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "harap(an); semangat: ia sudah putus -- dalam menghadapi persoalan itu"
+        }
+      ]
+    },
+    {
+      "lema": "a.sa2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "sangka"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "sengaja"
+        }
+      ]
+    },
+    {
+      "lema": "a.sa3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sa[Serua: Bahasa di Maluku, ditambahkan pd pemutakhiran Oktober 2020] Sa[Serua]",
+          "deskripsi": "kayu pelipit atap yang terbuat dari daun kelapa: atap yang terbuat dari daun kelapa tidak akan mudah bocor jika ikatan di bagian --nya kuat"
+        }
+      ]
+    }
+  ]
+}

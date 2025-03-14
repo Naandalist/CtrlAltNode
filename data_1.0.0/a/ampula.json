@@ -1,0 +1,36 @@
+{
+  "istilah": "ampula",
+  "entri": "am.pu.la",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pu.la",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "pembesaran berbentuk pundi-pundi pada sebuah saluran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "ruangan berbentuk pundi-pundi pada saluran setengah lingkaran dalam rongga telinga dalam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pembesaran pada tempat bersatunya saluran empedu dan pankreas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "gelembung udara kecil pada beberapa tanaman air"
+        }
+      ]
+    }
+  ]
+}

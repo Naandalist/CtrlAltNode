@@ -1,0 +1,31 @@
+{
+  "istilah": "argumen",
+  "entri": "ar.gu.men",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berargumen",
+    "seargumen"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.gu.men",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alasan yang dapat dipakai untuk memperkuat atau menolak suatu pendapat, pendirian, atau gagasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "nomina atau frasa nominal yang bersama-sama predikator membentuk proposisi"
+        }
+      ]
+    }
+  ]
+}

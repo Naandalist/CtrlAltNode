@@ -1,0 +1,49 @@
+{
+  "istilah": "bara",
+  "entri": "ba.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membara",
+    "perbaraan"
+  ],
+  "gabunganKata": [
+    "bara api"
+  ],
+  "peribahasa": [
+    "bagai menggenggam bara, terasa hangat dilepaskan; terpijak bara hangat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang sesuatu (arang) yang terbakar dan masih berapi"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ra2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat sara bara"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ra3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "kolong rumah yang digunakan sebagai kandang ternak"
+        }
+      ]
+    }
+  ]
+}

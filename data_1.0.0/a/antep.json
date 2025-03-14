@@ -1,0 +1,35 @@
+{
+  "istilah": "antep",
+  "entri": "an.tep1 /antêp/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengantepi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berat",
+    "kataAsal": "antěb"
+  },
+  "data": [
+    {
+      "lema": "an.tep1 /antêp/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ antap1"
+        }
+      ]
+    },
+    {
+      "lema": "an.tep2 /antêp/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "percaya; setia"
+        }
+      ]
+    }
+  ]
+}

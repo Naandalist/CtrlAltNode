@@ -1,0 +1,28 @@
+{
+  "istilah": "antiresonans",
+  "entri": "an.ti.re.so.nans",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.ti.re.so.nans",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "keadaan suatu sistem getar yang karena kelembaman dan tetapan lentingnya memiliki tanggapan yang amplitudonya minimum terhadap kakas pemaksa rangga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "keadaan dengan impedans sistem elektrik, akustik, atau dinamik yang sangat besar mendekati takterhingga"
+        }
+      ]
+    }
+  ]
+}

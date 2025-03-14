@@ -1,0 +1,32 @@
+{
+  "istilah": "awam",
+  "entri": "a.wam",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keawaman",
+    "mengawamkan",
+    "pengawam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "umum",
+    "kataAsal": "‘awāmm"
+  },
+  "data": [
+    {
+      "lema": "a.wam",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "umum; am; kebanyakan; biasa; tidak istimewa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang kebanyakan; orang biasa (bukan ahli, bukan rohaniawan, bukan tentara): orang --"
+        }
+      ]
+    }
+  ]
+}

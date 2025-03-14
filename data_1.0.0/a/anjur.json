@@ -1,0 +1,53 @@
+{
+  "istilah": "anjur",
+  "entri": "an.jur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "anjuran",
+    "menganjur",
+    "menganjuri",
+    "menganjurkan",
+    "penganjur",
+    "penganjuran",
+    "teranjur",
+    "beranjur",
+    "menganjur",
+    "menganjur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.jur1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tonjol; maju"
+        }
+      ]
+    },
+    {
+      "lema": "an.jur2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "beranjur; menganjur"
+        }
+      ]
+    },
+    {
+      "lema": "an.jur3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tarik; hela; ganjur"
+        }
+      ]
+    }
+  ]
+}

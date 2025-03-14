@@ -1,0 +1,41 @@
+{
+  "istilah": "asabat",
+  "entri": "a.sa.bat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Persia",
+    "arti": "keluarga jauh; anak laki-laki; keluarga dari jalur ayah",
+    "kataAsal": "‘aṣabat"
+  },
+  "data": [
+    {
+      "lema": "a.sa.bat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "urat yang menyebabkan kita dapat merasa (melihat dan sebagainya); saraf"
+        }
+      ]
+    },
+    {
+      "lema": "a.sa.bat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli waris yang berhubungan darah langsung dengan yang meninggal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli waris yang berhubungan dengan yang meninggal secara kerabat dari pihak bapak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli waris yang hanya memperoleh sisa warisan setelah dibagikan kepada ahli waris yang mendapat bagian tertentu"
+        }
+      ]
+    }
+  ]
+}

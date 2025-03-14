@@ -1,0 +1,31 @@
+{
+  "istilah": "bangkrut",
+  "entri": "bang.krut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebangkrutan",
+    "membangkrutkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bang.krut",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menderita kerugian besar hingga jatuh (tentang perusahaan, toko, dan sebagainya); gulung tikar: perusahaan itu hampir -- karena selalu rugi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "habis harta bendanya; jatuh miskin: karena kesukaannya berjudi, akhirnya ia --"
+        }
+      ]
+    }
+  ]
+}

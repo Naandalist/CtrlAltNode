@@ -1,0 +1,40 @@
+{
+  "istilah": "bagaimana",
+  "entri": "ba.gai.ma.na bentuk tidak baku: begimana, gimana",
+  "bentukTidakBaku": "begimana, gimana",
+  "kataTurunan": [
+    "sebagaimana"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "bagaimana bunyi gendang, begitulah tarinya; bagaimana ditanam, begitulah dituai; bagaimana ditanam, begitulah dituai"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.gai.ma.na bentuk tidak baku: begimana, gimana",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk menanyakan cara, perbuatan (lazimnya diikuti kata cara): -- caranya membeli buku dari luar negeri?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk menanyakan akibat suatu tindakan: -- kalau dia lari nanti?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk meminta pendapat dari kawan bicara (diikuti kata kalau): -- kalau kita pergi ke Puncak?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk menanyakan penilaian atas suatu gagasan: -- pendapatmu?"
+        }
+      ]
+    }
+  ]
+}

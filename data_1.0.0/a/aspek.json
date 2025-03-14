@@ -1,0 +1,56 @@
+{
+  "istilah": "aspek",
+  "entri": "as.pek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "aspek augmentatif",
+    "aspek diminutif",
+    "aspek frekuentatif",
+    "aspek habituatif",
+    "aspek imperfektif",
+    "aspek inkoatif",
+    "aspek inkompletif",
+    "aspek inseptif",
+    "aspek kompletif",
+    "aspek kontinuatif",
+    "aspek momentan",
+    "aspek perfektif",
+    "aspek permansif",
+    "aspek progresif",
+    "aspek pungtiliar",
+    "aspek repetitif",
+    "aspek sesatif",
+    "aspek simulfaktif",
+    "aspek yuridis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "as.pek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda: linguis dapat mencatat dengan baik ucapan-ucapan yang mempunyai -- fonemis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sudut pandangan: mempertimbangkan sesuatu hendaknya dari berbagai --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemunculan atau penginterpretasian gagasan, masalah, situasi, dan sebagainya sebagai pertimbangan yang dilihat dari sudut pandang tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kategori gramatikal verba yang menunjukkan lama dan jenis perbuatan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "istilah": "abut",
+  "entri": "a.but1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.but1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ss[Sasak: -]",
+          "deskripsi": "mencabut batang dari dalam tanah"
+        }
+      ]
+    },
+    {
+      "lema": "a.but2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "tempat duduk yang letaknya di bagian paling belakang"
+        }
+      ]
+    },
+    {
+      "lema": "a.but3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "merangkul keluarga"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mengumpulkan keluarga"
+        }
+      ]
+    },
+    {
+      "lema": "a.but4",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sibuk, khusus dalam pelaksanaan pesta adat di masyarakat"
+        }
+      ]
+    }
+  ]
+}

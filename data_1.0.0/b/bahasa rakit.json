@@ -1,0 +1,24 @@
+{
+  "istilah": "bahasa rakit",
+  "entri": "bahasa1 » bahasa rakit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa rakit",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman tingkat rendah yang menggunakan singkatan atau kode mnemonik yang setiap pernyataannya berkorespondensi dengan satu perintah mesin, memberikan interaksi langsung antara pemrogram dengan perangkat keras sistem"
+        }
+      ]
+    }
+  ]
+}

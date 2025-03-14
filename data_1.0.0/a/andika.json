@@ -1,0 +1,28 @@
+{
+  "istilah": "andika",
+  "entri": "an.di.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "kata-kata (dari seseorang yang pangkatnya lebih tinggi), perintah, titah",
+    "kataAsal": "andika"
+  },
+  "data": [
+    {
+      "lema": "an.di.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kehormatan tertinggi yang diberikan kepada raja atau dimiliki raja atau penguasa dari zaman pra-Islam: -- Batara Majapahit"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "(diawali huruf kapital) kata sapaan hormat orang kedua; Tuanku"
+        }
+      ]
+    }
+  ]
+}

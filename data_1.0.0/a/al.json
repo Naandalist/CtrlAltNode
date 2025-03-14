@@ -1,0 +1,42 @@
+{
+  "istilah": "al",
+  "entri": "al",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kata penentu",
+    "kataAsal": "al"
+  },
+  "data": [
+    {
+      "lema": "al",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] Ar[Arab: -]",
+          "deskripsi": "kata penentu, misalnya dalam kata Alkitab"
+        }
+      ]
+    },
+    {
+      "lema": "al",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "alat; peralatan"
+        }
+      ]
+    },
+    {
+      "lema": "AL",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Angkatan Laut"
+        }
+      ]
+    }
+  ]
+}

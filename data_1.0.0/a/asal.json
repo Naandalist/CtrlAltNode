@@ -1,0 +1,63 @@
+{
+  "istilah": "asal",
+  "entri": "a.sal1 bentuk tidak baku: muasal",
+  "bentukTidakBaku": "muasal",
+  "kataTurunan": [
+    "berasal",
+    "mengasalkan",
+    "seasal",
+    "asalkan",
+    "asal-asalan"
+  ],
+  "gabunganKata": [
+    "asal jadi",
+    "asal muasal",
+    "asal mula",
+    "asal-usul"
+  ],
+  "peribahasa": [
+    "asal ada sama di hati, gajah terantai boleh dilepaskan; asal ada, kecil pun pada; asal ayam pulang ke lumbung, asal itik pulang ke pelimbahan; asal berinsang, ikanlah; asal menugal, adalah benih; biar dahi berluluk, asal tanduk mengena; biar lambat laga, asal menang; biar miskin asal cerdik, terlawan jua orang kaya; biar sipi (asal), jangan sesat; biar telinga rabit, asal dapat bersubang; usul menunjukkan asal; usul menunjukkan asal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "dasar sesuatu",
+    "kataAsal": "aṣl"
+  },
+  "data": [
+    {
+      "lema": "a.sal1 bentuk tidak baku: muasal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan (tempat, wujud, rupa, dan sebagainya) yang semula; pangkal permulaan: patung-patung itu akan dikembalikan ke --nya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mula-mula sekali; semula: batas-batasnya yang -- sudah tidak diketahui lagi"
+        }
+      ]
+    },
+    {
+      "lema": "a.sal2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "dengan syarat; apabila: engkau boleh pergi -- pekerjaanmu beres"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "pokoknya; yang penting: biar lambat -- selamat"
+        }
+      ]
+    },
+    {
+      "lema": "a.sal3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sembarangan; seenaknya saja: kalau bekerja jangan -- saja, ikutilah petunjuk yang ada"
+        }
+      ]
+    }
+  ]
+}

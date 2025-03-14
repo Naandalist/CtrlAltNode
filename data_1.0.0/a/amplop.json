@@ -1,0 +1,33 @@
+{
+  "istilah": "amplop",
+  "entri": "am.plop",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengamplopi",
+    "mengamplopkan"
+  ],
+  "gabunganKata": [
+    "amplop kabinet"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.plop",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampul surat: setelah ditik, surat itu dimasukkan ke dalam --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "uang sogok: wartawan seyogianya tidak menerima --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "akting",
+  "entri": "ak.ting",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berakting"
+  ],
+  "gabunganKata": [
+    "akting dalam",
+    "akting komikal",
+    "akting lintas",
+    "akting meniru",
+    "akting natural"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.ting",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Sen[Kesenian: -]",
+          "deskripsi": "seni berperan di atas pentas, televisi, atau film"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "penampilan pemeran melalui gerak tubuh, ekspresi wajah, dan emosi ketika memerankan tokoh cerita di hadapan penonton"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "alap",
+  "entri": "a.lap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengalap"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lap1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bagus; elok: berjalan -- santun berjalan perlahan-lahan dengan eloknya"
+        }
+      ]
+    },
+    {
+      "lema": "a.lap2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ambil"
+        }
+      ]
+    }
+  ]
+}

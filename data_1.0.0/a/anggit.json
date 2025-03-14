@@ -1,0 +1,27 @@
+{
+  "istilah": "anggit",
+  "entri": "ang.git",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "anggitan",
+    "menganggit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "menjalin, merangkai",
+    "kataAsal": "aṅgit"
+  },
+  "data": [
+    {
+      "lema": "ang.git",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "susun"
+        }
+      ]
+    }
+  ]
+}

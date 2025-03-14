@@ -1,0 +1,32 @@
+{
+  "istilah": "apparatus criticus",
+  "entri": "apparatus criticus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "apparatus criticus",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "kritik naskah"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "alat pembanding yang disajikan dalam penerbitan naskah (kuno): referensi yang relevan akan dicantumkan di pinggir halaman tersebut beserta -- pada catatan kaki setiap halaman"
+        },
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "daftar penyimpangan suatu teks disertai keterangannya (pada penerbitan naskah kuno)"
+        }
+      ]
+    }
+  ]
+}

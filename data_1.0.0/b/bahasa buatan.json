@@ -1,0 +1,32 @@
+{
+  "istilah": "bahasa buatan",
+  "entri": "bahasa1 » bahasa buatan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa buatan",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bahasa yang direka dengan tujuan khusus untuk memperbaiki komunikasi internasional"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "sistem kode berupa lambang abstrak, seperti yang dipakai dalam pemrograman komputer"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "bahasa yang dibuat orang untuk pemakaian tertentu, misalnya bahasa Esperanto dan bahasa yang dipakai dalam logika simbolis atau penggunaan komputer"
+        }
+      ]
+    }
+  ]
+}

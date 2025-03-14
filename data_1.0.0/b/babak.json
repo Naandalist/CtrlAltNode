@@ -1,0 +1,78 @@
+{
+  "istilah": "babak",
+  "entri": "ba.bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pembabakan",
+    "sebabak",
+    "membabak",
+    "babakan"
+  ],
+  "gabunganKata": [
+    "babak kualifikasi",
+    "babak tambahan",
+    "babak belur",
+    "babak bundas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "babak"
+  },
+  "data": [
+    {
+      "lema": "ba.bak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "bagian besar dalam suatu drama atau lakon (terdiri atas beberapa adegan): pertunjukan drama tiga --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari suatu keseluruhan proses, kejadian, atau peristiwa: -- permulaan perundingan kedua negara yang bersengketa itu akan diadakan di negara ketiga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "bagian permainan yang waktunya tertentu; ronde: pada -- pertama, kedua kesebelasan masih bermain sama kuat"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "lecet (tentang kulit)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bak3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membabak"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bak4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "babakan"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bak5",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Klm[Melayu Kalimantan: -]",
+          "deskripsi": "membuka dari bawah ke atas"
+        }
+      ]
+    }
+  ]
+}

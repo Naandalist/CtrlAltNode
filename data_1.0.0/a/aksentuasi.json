@@ -1,0 +1,35 @@
+{
+  "istilah": "aksentuasi",
+  "entri": "ak.sen.tu.a.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengaksentuasi",
+    "mengaksentuasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.sen.tu.a.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pemberian tekanan suara pada suku kata atau kata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengutamaan; penitikberatan; penekanan: -- Rencana Pembangunan Lima Tahun adalah pada masalah pertanian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "penempatan tekanan yang pas atau sesuai pada perangkat musik"
+        }
+      ]
+    }
+  ]
+}

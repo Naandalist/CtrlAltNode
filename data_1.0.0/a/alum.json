@@ -1,0 +1,57 @@
+{
+  "istilah": "alum",
+  "entri": "a.lum1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengalum"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lum1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "layu; merana (tentang daun)"
+        }
+      ]
+    },
+    {
+      "lema": "a.lum2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "tapas"
+        }
+      ]
+    },
+    {
+      "lema": "a.lum3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bisul bermata tujuh"
+        }
+      ]
+    },
+    {
+      "lema": "a.lum4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna kulit yang biru kemerahan bekas pukulan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengandung atau memperlihatkan warna alum: kakiku -- karena ditimpa kayu"
+        }
+      ]
+    }
+  ]
+}

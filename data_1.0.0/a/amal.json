@@ -1,0 +1,60 @@
+{
+  "istilah": "amal",
+  "entri": "a.mal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "amalan",
+    "beramal",
+    "mengamalkan",
+    "pengamal",
+    "pengamalan"
+  ],
+  "gabunganKata": [
+    "amal ibadah",
+    "amal jariah",
+    "amal saleh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pekerjaan",
+    "kataAsal": "‘amal"
+  },
+  "data": [
+    {
+      "lema": "a.mal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan (baik atau buruk): ia dihormati orang karena --nya yang baik, bukan karena kedudukan atau kekayaannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perbuatan baik yang mendatangkan pahala (menurut ajaran agama Islam): salat adalah -- ibadat manusia kepada Allah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dilakukan dengan tujuan untuk berbuat kebaikan terhadap masyarakat atau sesama manusia (memberi derma, mengumpulkan dana untuk membantu korban bencana alam, penyandang cacat, orang jompo, anak yatim piatu, dan sebagainya): membuka dompet --; penjualan prangko --; penyelenggaraan pertunjukan --"
+        }
+      ]
+    },
+    {
+      "lema": "a.mal2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kemampuan khusus yang dimiliki oleh seorang dukun untuk memanggil sesuatu kalau diperlukan: -- dukun itu patut diancungi jempol"
+        }
+      ]
+    },
+    {
+      "lema": "a.mal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bh[Bahau: bahasa di Kalimantan Timur]",
+          "deskripsi": "abon daging ikan yang dipanggang hingga kering, ditumbuk halus hingga menjadi seperti tepung, dimakan sebagai lauk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "asetilkolin",
+  "entri": "a.se.til.ko.lin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.se.til.ko.lin",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "pengantar unsur kimiawi pada neuron motor di sistem saraf perifer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "neurotransiter penting pada sistem pusat yang berguna untuk menggerakkan otot tubuh dan menghambat otot jantung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "molekul organik kecil yang dibebaskan dari sel saraf sebagai neurotransmiter dan merangsang sel saraf lain atau otot dan organ seluruh tubuh"
+        }
+      ]
+    }
+  ]
+}

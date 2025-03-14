@@ -1,0 +1,86 @@
+{
+  "istilah": "arus",
+  "entri": "a.rus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berarus",
+    "mengarus",
+    "searus"
+  ],
+  "gabunganKata": [
+    "arus air",
+    "arus angin barat",
+    "arus balik",
+    "arus barang",
+    "arus bawah",
+    "arus bolak-balik",
+    "arus dasar",
+    "arus deras",
+    "arus ekonomi",
+    "arus ekuatorial",
+    "arus emiter",
+    "arus golakan",
+    "arus horizontal",
+    "arus induksi",
+    "arus informasi",
+    "arus kas",
+    "arus khatulistiwa",
+    "arus kolektor",
+    "arus kompensasi",
+    "arus konveksi",
+    "arus lalu lintas",
+    "arus laut",
+    "arus lemah",
+    "arus listrik",
+    "arus manusia",
+    "arus mode",
+    "arus mudik",
+    "arus olakan",
+    "arus panas",
+    "arus politik",
+    "arus rabak",
+    "arus rangga",
+    "arus revolusi",
+    "arus searah",
+    "arus sentakan",
+    "arus sungai",
+    "arus sungsang ekuatorial",
+    "arus tidal",
+    "arus transpirasi",
+    "arus uang",
+    "arus udara",
+    "arus udara-bumi",
+    "arus zaman"
+  ],
+  "peribahasa": [
+    "bagai galah di tengah arus; mudik menyongsong arus, hilir menyongsong pasang; sebagai pancang diguncang arus"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.rus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerak air yang mengalir; aliran: kami tidak berani menyeberangi sungai itu karena --nya deras"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerak (aliran) sesuatu seperti air mengalir: -- udara; -- lalu lintas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "gerakan atau aliran udara (listrik) yang melalui suatu benda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peredaran (barang, uang, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

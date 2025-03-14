@@ -1,0 +1,42 @@
+{
+  "istilah": "anak semang",
+  "entri": "a.nak se.mang /anak sêmang/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menganak semang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.nak se.mang /anak sêmang/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang diambil orang lain (bukan keluarganya) sebagai kerabatnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang dipekerjakan atau yang bekerja pada orang lain (seperti orang gajian, bujang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang diberi modal untuk berdagang atau yang menjualkan dagangan orang lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menumpang makan (mondok)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang bekerja pada orang lain karena terikat utang"
+        }
+      ]
+    }
+  ]
+}

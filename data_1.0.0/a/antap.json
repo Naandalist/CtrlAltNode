@@ -1,0 +1,39 @@
+{
+  "istilah": "antap",
+  "entri": "an.tap1 bentuk tidak baku: antep1",
+  "bentukTidakBaku": "antep1",
+  "kataTurunan": [
+    "mengantapkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.tap1 bentuk tidak baku: antep1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "padat"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berat (tentang bobot, timbangan)"
+        }
+      ]
+    },
+    {
+      "lema": "an.tap2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "tenang (tidak cerewet dan sebagainya); diam"
+        }
+      ]
+    }
+  ]
+}

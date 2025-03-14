@@ -1,0 +1,32 @@
+{
+  "istilah": "aurat",
+  "entri": "au.rat bentuk tidak baku: urat3",
+  "bentukTidakBaku": "urat3",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Persia",
+    "arti": "bagian dari tubuh yang tidak pantas untuk diperlihatkan",
+    "kataAsal": "‘aurat"
+  },
+  "data": [
+    {
+      "lema": "au.rat bentuk tidak baku: urat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian badan yang tidak boleh kelihatan (menurut hukum Islam): rambut merupakan salah satu -- perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemaluan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "organ untuk mengadakan perkembangbiakan"
+        }
+      ]
+    }
+  ]
+}

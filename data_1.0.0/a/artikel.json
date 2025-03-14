@@ -1,0 +1,36 @@
+{
+  "istilah": "artikel",
+  "entri": "ar.ti.kel /artikêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengartikelkan"
+  ],
+  "gabunganKata": [
+    "artikel karet"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.ti.kel /artikêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "karya tulis lengkap, misalnya laporan berita atau esai dalam majalah, surat kabar dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "bagian undang-undang atau peraturan yang berupa ketentuan; pasal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "unsur yang dipakai untuk membatasi atau memodifikasi nomina, misalnya the dalam bahasa Inggris"
+        }
+      ]
+    }
+  ]
+}

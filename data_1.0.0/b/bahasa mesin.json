@@ -1,0 +1,28 @@
+{
+  "istilah": "bahasa mesin",
+  "entri": "bahasa1 » bahasa mesin",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa mesin",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "informasi dalam bentuk fisik yang dapat ditangani oleh komputer, seperti kode yang tepat berupa kartu keterangan pada pita kertas atau kartu, dalam bentuk elektrik atau magnetik pada pita magnetik"
+        },
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa biner yang digunakan secara internal oleh komputer; kode mesin"
+        }
+      ]
+    }
+  ]
+}

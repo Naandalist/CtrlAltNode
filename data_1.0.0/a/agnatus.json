@@ -1,0 +1,33 @@
+{
+  "istilah": "agnatus",
+  "entri": "ag.na.tus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ag.na.tus1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bio[Biologi: -]",
+          "deskripsi": "tidak mempunyai rahang, seperti pada serangga yang struktur mulutnya tidak sempurna"
+        }
+      ]
+    },
+    {
+      "lema": "ag.na.tus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "hubungan antarkalimat yang mengandung unsur leksikal utama yang sama dengan struktur yang berbeda (misalnya dengan partikel-partikel yang berbeda, urutan yang berbeda dan sebagainya), tetapi teratur dan sistematis (terdapat pada klausa aktif dan pasif)"
+        }
+      ]
+    }
+  ]
+}

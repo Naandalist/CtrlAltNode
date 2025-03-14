@@ -1,0 +1,30 @@
+{
+  "istilah": "azimut",
+  "entri": "a.zi.mut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "azimut balik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.zi.mut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "besar sudut yang diapit oleh garis yang ditentukan dengan garis Utara-Selatan (dihitung menurut perputaran jarum jam mulai dari titik utara dengan limit 0°—360°)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "bantalan magnetik yang digunakan dalam navigasi dan dalam menentukan lokasi situs"
+        }
+      ]
+    }
+  ]
+}

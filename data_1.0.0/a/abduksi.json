@@ -1,0 +1,33 @@
+{
+  "istilah": "abduksi",
+  "entri": "ab.duk.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab.duk.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengambilan secara paksa (terutama perempuan) untuk dikawini atau digauli"
+        }
+      ]
+    },
+    {
+      "lema": "ab.duk.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "gerakan ke arah luar sumbu badan (tentang tangan dan kaki) atau ke arah luar sumbu kaki (tentang ibu jari kaki)"
+        }
+      ]
+    }
+  ]
+}

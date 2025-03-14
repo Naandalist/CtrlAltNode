@@ -1,0 +1,33 @@
+{
+  "istilah": "bedu",
+  "entri": "be.du",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.du",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "kambing gunung"
+        }
+      ]
+    },
+    {
+      "lema": "be.du /bêdu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bn[Benuaq: -]",
+          "deskripsi": "keadaan daging hewan yang sudah mulai membusuk"
+        }
+      ]
+    }
+  ]
+}

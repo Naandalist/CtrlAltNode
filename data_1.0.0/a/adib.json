@@ -1,0 +1,28 @@
+{
+  "istilah": "adib",
+  "entri": "a.dib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang memiliki sopan santun; orang yang memiliki pengetahuan; kritikus sastra; sastrawan",
+    "kataAsal": "adīb"
+  },
+  "data": [
+    {
+      "lema": "a.dib",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beradab; tahu tata krama; sopan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli dalam sastra"
+        }
+      ]
+    }
+  ]
+}

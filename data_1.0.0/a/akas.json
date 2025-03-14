@@ -1,0 +1,71 @@
+{
+  "istilah": "akas",
+  "entri": "a.kas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keakasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.kas1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tangkas gerak-geriknya; gesit; cekatan: anak ini -- menari"
+        }
+      ]
+    },
+    {
+      "lema": "a.kas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "angkasa"
+        }
+      ]
+    },
+    {
+      "lema": "a.kas3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "campuran besi dan baja yang digunakan sebagai bahan pembuatan senjata"
+        }
+      ]
+    },
+    {
+      "lema": "a.kas4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "membagi dua secara memanjang"
+        }
+      ]
+    },
+    {
+      "lema": "a.kas5",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "kering dan bertekstur keras (tentang nasi): nasi -- cocok untuk diolah menjadi nasi goreng dengan berbagai cita rasa"
+        }
+      ]
+    },
+    {
+      "lema": "a.kas6",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kebalikan; lawan"
+        }
+      ]
+    }
+  ]
+}

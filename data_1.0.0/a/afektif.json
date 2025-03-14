@@ -1,0 +1,32 @@
+{
+  "istilah": "afektif",
+  "entri": "a.fek.tif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.fek.tif",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Psi[Psikologi: -]",
+          "deskripsi": "berkenaan dengan perasaan (seperti takut, cinta)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "memengaruhi keadaan perasaan dan emosi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "mempunyai gaya atau makna yang menunjukkan perasaan (tentang gaya bahasa atau makna)"
+        }
+      ]
+    }
+  ]
+}

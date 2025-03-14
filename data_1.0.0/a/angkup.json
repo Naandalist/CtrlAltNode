@@ -1,0 +1,45 @@
+{
+  "istilah": "angkup",
+  "entri": "ang.kup1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "angkup-angkup",
+    "mengangkup",
+    "terangkup-angkup"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.kup1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjepit untuk memegang barang yang kecil-kecil; sepit angkup"
+        }
+      ]
+    },
+    {
+      "lema": "ang.kup2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pucuk (pepohonan); tunas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perdu berbulu halus yang batangnya bulat, daunnya oval, bunganya berwarna hijau keunguan, dapat digunakan sebagai makanan ternak atau obat〔Cyathula prostrata〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "bunga nangka"
+        }
+      ]
+    }
+  ]
+}

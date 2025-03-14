@@ -1,0 +1,33 @@
+{
+  "istilah": "baduk",
+  "entri": "ba.duk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.duk1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak normal; berbentuk buruk"
+        }
+      ]
+    },
+    {
+      "lema": "ba.duk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tembok rendah yang biasa dijadikan tempat untuk duduk bersantai dan memandang orang yang lalu-lalang di depan rumah"
+        }
+      ]
+    }
+  ]
+}

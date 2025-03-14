@@ -1,0 +1,32 @@
+{
+  "istilah": "andak",
+  "entri": "an.dak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengandak",
+    "mengandakkan",
+    "pengandak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.dak",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gulung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "susut"
+        }
+      ]
+    }
+  ]
+}

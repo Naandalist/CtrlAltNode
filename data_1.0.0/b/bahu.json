@@ -1,0 +1,63 @@
+{
+  "istilah": "bahu",
+  "entri": "ba.hu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bahu membahu",
+    "bahu-membahu",
+    "berbahu",
+    "membahu"
+  ],
+  "gabunganKata": [
+    "bahu baju",
+    "bahu jalan",
+    "bahu guna",
+    "bahu pada"
+  ],
+  "peribahasa": [
+    "berapa berat mata memandang, berat juga bahu memikul; diberi kepala, hendak bahu; mata memandang apa hendak sakit, bahu memikul timpa perasaan (seberapa berat mata menentang, berat jua bahu memikul); memikul di bahu, menjunjung di kepala; tangan mencencang (memetik, menetak) bahu memikul; tangan mencencang, bahu memikul; tangan mencencang, bahu memikul; tangan menetak (mencencang), bahu memikul"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "lengan tangan",
+    "kataAsal": "bāhu"
+  },
+  "data": [
+    {
+      "lema": "ba.hu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian tubuh atas antara leher dan pangkal lengan; pundak"
+        }
+      ]
+    },
+    {
+      "lema": "ba.hu2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Skt[Sanskerta: -]",
+          "deskripsi": "banyak (sebagai awalan)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.hu3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pangkat pembantu kepala desa"
+        }
+      ]
+    },
+    {
+      "lema": "ba.hu4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "bidang tepi yang membentuk rongga pada alat musik jenis gong, bonang, dan lain-lain"
+        }
+      ]
+    }
+  ]
+}

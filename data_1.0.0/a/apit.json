@@ -1,0 +1,43 @@
+{
+  "istilah": "apit",
+  "entri": "a.pit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "apitan",
+    "berapit",
+    "memperapitkan",
+    "mengapit",
+    "pengapit",
+    "pengapitan",
+    "terapit"
+  ],
+  "gabunganKata": [
+    "apit kanan",
+    "apit kiri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.pit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang terdapat di antara dua benda (orang dan sebagainya); sesuatu yang diimpit (dijepit, ditindih, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk mengimpit (menjepit, menindih, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jejenang; ajudan"
+        }
+      ]
+    }
+  ]
+}

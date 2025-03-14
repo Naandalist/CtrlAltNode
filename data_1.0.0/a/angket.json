@@ -1,0 +1,32 @@
+{
+  "istilah": "angket",
+  "entri": "ang.ket",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.ket",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "daftar pertanyaan tertulis mengenai masalah tertentu dengan ruang untuk jawaban bagi setiap pertanyaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "pemeriksaan saksi dalam persidangan perkara perdata, baik yang diajukan oleh penggugat maupun oleh tergugat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "penyelidikan oleh lembaga perwakilan rakyat terhadap kegiatan pemerintah"
+        }
+      ]
+    }
+  ]
+}

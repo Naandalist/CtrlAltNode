@@ -1,0 +1,33 @@
+{
+  "istilah": "bangus",
+  "entri": "ba.ngus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ngus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jk[Melayu Jakarta: -]",
+          "deskripsi": "moncong anjing atau babi"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ngus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "sarang semut yang terdapat pada kayu"
+        }
+      ]
+    }
+  ]
+}

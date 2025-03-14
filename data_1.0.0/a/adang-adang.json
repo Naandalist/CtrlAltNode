@@ -1,0 +1,33 @@
+{
+  "istilah": "adang-adang",
+  "entri": "adang1 » a.dang-a.dang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "adang1 » a.dang-a.dang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyekat, kerai, dan sebagainya untuk penahan angin (hujan, panas matahari, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "a.dang-a.dang",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kadang-kadang"
+        }
+      ]
+    }
+  ]
+}

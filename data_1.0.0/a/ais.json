@@ -1,0 +1,33 @@
+{
+  "istilah": "ais",
+  "entri": "a.is1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.is1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "bola menyentuh tangan (pemain bola kaki)"
+        }
+      ]
+    },
+    {
+      "lema": "a.is2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "puting susu babi"
+        }
+      ]
+    }
+  ]
+}

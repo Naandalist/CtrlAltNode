@@ -1,0 +1,44 @@
+{
+  "istilah": "belian",
+  "entri": "beli1 » be.li.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbelian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "lebih kuat, paling kuat",
+    "kataAsal": "balīyas"
+  },
+  "data": [
+    {
+      "lema": "beli1 » be.li.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil membeli: budak ~"
+        }
+      ]
+    },
+    {
+      "lema": "be.li.an1 /bêlian/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "dukun"
+        }
+      ]
+    },
+    {
+      "lema": "be.li.an2 /bêlian/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ulin"
+        }
+      ]
+    }
+  ]
+}

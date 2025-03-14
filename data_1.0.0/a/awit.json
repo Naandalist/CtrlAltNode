@@ -1,0 +1,33 @@
+{
+  "istilah": "awit",
+  "entri": "a.wit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.wit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "ikan yang masih kelihatan dalam lingkaran jaring"
+        }
+      ]
+    },
+    {
+      "lema": "a.wit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "kayu penopang ture pada rumah adat Karo"
+        }
+      ]
+    }
+  ]
+}

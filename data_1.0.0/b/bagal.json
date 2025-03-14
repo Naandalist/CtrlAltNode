@@ -1,0 +1,59 @@
+{
+  "istilah": "bagal",
+  "entri": "ba.gal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "peranakan keledai (turunan kuda jantan dengan keledai betina)",
+    "kataAsal": "bagl"
+  },
+  "data": [
+    {
+      "lema": "ba.gal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "terlampau besar (kuat)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kasar"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tangkai mayang (nyiur)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tongkol jagung"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peranakan keledai (turunan kuda jantan dengan keledai betina, atau sebaliknya)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gal4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "bibit tebu yang diperoleh lewat setek"
+        }
+      ]
+    }
+  ]
+}

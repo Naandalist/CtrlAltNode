@@ -1,0 +1,48 @@
+{
+  "istilah": "ampuh",
+  "entri": "am.puh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keampuhan",
+    "pengampuh",
+    "seampuh",
+    "keampuhan",
+    "mengampuh",
+    "mengampuhkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.puh1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "mempunyai kekuatan gaib yang luar biasa: bertuah; sakti: keris pusaka yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "manjur; mujarab: obat ini sangat -- untuk menyembuhkan penyakit malaria"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "mempunyai daya pengaruh yang luar biasa: agama merupakan senjata yang -- untuk membina mental"
+        }
+      ]
+    },
+    {
+      "lema": "am.puh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "banjir; bah; sebak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "istilah": "badai",
+  "entri": "ba.dai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbadai",
+    "membadai",
+    "terbadai"
+  ],
+  "gabunganKata": [
+    "badai debu",
+    "badai elektrik",
+    "badai es",
+    "badai fohn",
+    "badai guntur",
+    "badai guntur fron",
+    "badai guntur fron dingin",
+    "badai guntur konvektif",
+    "badai guntur lataan",
+    "badai guntur paras tinggi",
+    "badai guntur perenggan",
+    "badai hujan",
+    "badai matahari",
+    "badai meteor",
+    "badai perak",
+    "badai salju",
+    "badai sitokin",
+    "badai tropis"
+  ],
+  "peribahasa": [
+    "badai pasti berlalu; mendapat badai tertimbakan"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.dai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "angin kencang yang menyertai cuaca buruk (yang datang dengan tiba-tiba) berkecepatan sekitar 64—72 knot: kampung nelayan itu hancur diserang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "keren; menawan; menakjubkan; luar biasa: rambut gadis itu -- sekali hari ini"
+        }
+      ]
+    },
+    {
+      "lema": "ba.dai2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terbadai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "istilah": "abang",
+  "entri": "a.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berabang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ada uang abang (di)sayang, tak ada uang abang melayang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kakak laki-laki; saudara laki-laki yang lebih tua: --nya tiga tahun lebih tua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada orang laki-laki yang lebih tua atau tidak dikenal: tahukah -- jalan ke kantor pos?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan istri kepada suami: sudah dua hari -- tidak pulang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada penjual sayur, penjual ikan, pengemudi becak, dan sebagainya: ia biasa belanja pada -- sayur yang lewat di depan rumahnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada saudara laki-laki ayah di kalangan kaum bangsawan Banggai di Sulawesi"
+        }
+      ]
+    },
+    {
+      "lema": "a.bang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "merah"
+        }
+      ]
+    },
+    {
+      "lema": "a.bang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "tempat mengikat kemudi bagian atas"
+        }
+      ]
+    }
+  ]
+}

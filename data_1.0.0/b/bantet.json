@@ -1,0 +1,33 @@
+{
+  "istilah": "bantet",
+  "entri": "ban.tet1 /bantêt/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.tet1 /bantêt/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "kembang pohon manggis"
+        }
+      ]
+    },
+    {
+      "lema": "ban.tet2 /bantêt/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ bantat"
+        }
+      ]
+    }
+  ]
+}

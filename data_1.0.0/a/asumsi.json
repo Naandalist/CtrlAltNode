@@ -1,0 +1,33 @@
+{
+  "istilah": "asumsi",
+  "entri": "a.sum.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berasumsi",
+    "mengasumsikan",
+    "pengasumsi",
+    "pengasumsian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.sum.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dugaan yang diterima sebagai dasar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "landasan berpikir karena dianggap benar"
+        }
+      ]
+    }
+  ]
+}

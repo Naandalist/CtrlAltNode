@@ -1,0 +1,42 @@
+{
+  "istilah": "alau",
+  "entri": "a.lau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lau1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat burung"
+        }
+      ]
+    },
+    {
+      "lema": "a.lau2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MAb[Melayu Ambon: Bahasa di Maluku]",
+          "deskripsi": "meja makan bundar, terbuat dari kayu, hanya digunakan oleh raja dan keluarganya"
+        }
+      ]
+    },
+    {
+      "lema": "a.lau3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "serangga pemakan padi yang baru berisi: petani sering memakai racun hama untuk membasmi -- di bulir padi yang baru berisi"
+        }
+      ]
+    }
+  ]
+}

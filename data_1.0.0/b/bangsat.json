@@ -1,0 +1,28 @@
+{
+  "istilah": "bangsat",
+  "entri": "bang.sat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kutu busuk",
+    "kataAsal": "ba̍k sat"
+  },
+  "data": [
+    {
+      "lema": "bang.sat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kutu busuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "orang yang bertabiat jahat (terutama yang suka mencuri, mencopet, dan sebagainya): dasar anak --, menjadi -- juga"
+        }
+      ]
+    }
+  ]
+}

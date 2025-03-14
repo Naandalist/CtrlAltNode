@@ -1,0 +1,46 @@
+{
+  "istilah": "ancai",
+  "entri": "an.cai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengancaikan",
+    "mengancai-ancaikan",
+    "mengancaikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.cai1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "rusak; hancur; binasa"
+        }
+      ]
+    },
+    {
+      "lema": "an.cai2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "abai"
+        }
+      ]
+    },
+    {
+      "lema": "an.cai3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "beban pikiran: perbuatan anak sulungnya menjadi -- baginya"
+        }
+      ]
+    }
+  ]
+}

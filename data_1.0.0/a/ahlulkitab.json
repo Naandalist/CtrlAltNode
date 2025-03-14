@@ -1,0 +1,28 @@
+{
+  "istilah": "ahlulkitab",
+  "entri": "ah.lul.ki.tab bentuk tidak baku: ahlilkitab",
+  "bentukTidakBaku": "ahlilkitab",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Yahudi dan Nasrani",
+    "kataAsal": "ahlulkitāb"
+  },
+  "data": [
+    {
+      "lema": "ah.lul.ki.tab bentuk tidak baku: ahlilkitab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "ahli kitab"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "kaum Yahudi dengan kitab Tauratnya dan kaum Nasrani dengan kitab Injilnya"
+        }
+      ]
+    }
+  ]
+}

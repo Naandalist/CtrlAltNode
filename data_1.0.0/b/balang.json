@@ -1,0 +1,42 @@
+{
+  "istilah": "balang",
+  "entri": "ba.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "botol berleher panjang dan sempit"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perahu layar bertiang dua; perahu balang; sampan balang"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lang3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ belang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "anabolisme",
+  "entri": "a.na.bo.lis.me /anabolismê/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.na.bo.lis.me /anabolismê/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pembentukan zat organik kompleks dari yang sederhana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "asimilasi zat makanan oleh organisme untuk membangun atau memulihkan jaringan dan bagian-bagian hidup lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bagian metabolisme yang menyangkut sintesis metabolisme molekul kompleks dengan molekul-molekul yang lebih sederhana yang memerlukan energi kimia untuk melaksanakannya"
+        }
+      ]
+    }
+  ]
+}

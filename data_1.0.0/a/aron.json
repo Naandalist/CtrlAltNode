@@ -1,0 +1,40 @@
+{
+  "istilah": "aron",
+  "entri": "a.ron1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "aronan",
+    "mengaron"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ron1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jk[Melayu Jakarta: -]",
+          "deskripsi": "setengah matang (tentang nasi dan ketan)"
+        }
+      ]
+    },
+    {
+      "lema": "a.ron2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "ikatan kerja sama untuk mengerjakan ladang pertanian secara bergilir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "pekerja upahan di Karo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "alo",
+  "entri": "a.lo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lo1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Dn[Dani: Bahasa di Papua]",
+          "deskripsi": "berjalan dengan mendaki"
+        }
+      ]
+    },
+    {
+      "lema": "a.lo2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pagar kebun yang dibuat dari kayu baik yang dibelah maupun tidak, berfungsi melidungi kebun dari serangan hewan liar: ayah membuat -- di kebun"
+        }
+      ]
+    },
+    {
+      "lema": "a.lo3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mn[Minahasa: -]",
+          "deskripsi": "panggilan kesayangan untuk anak laki-laki"
+        }
+      ]
+    }
+  ]
+}

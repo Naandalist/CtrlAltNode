@@ -1,0 +1,43 @@
+{
+  "istilah": "barak",
+  "entri": "ba.rak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membarak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.rak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebuah atau sekumpulan gedung tempat tinggal tentara; asrama tentara (polisi)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangsal khusus tempat merawat orang sakit (menular)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan yang bersifat sementara bagi pekerja"
+        }
+      ]
+    },
+    {
+      "lema": "ba.rak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "kandang kambing"
+        }
+      ]
+    }
+  ]
+}

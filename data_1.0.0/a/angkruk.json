@@ -1,0 +1,33 @@
+{
+  "istilah": "angkruk",
+  "entri": "ang.kruk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.kruk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "angkrok"
+        }
+      ]
+    },
+    {
+      "lema": "ang.kruk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "kembang jeruk"
+        }
+      ]
+    }
+  ]
+}

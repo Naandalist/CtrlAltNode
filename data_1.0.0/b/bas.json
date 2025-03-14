@@ -1,0 +1,54 @@
+{
+  "istilah": "bas",
+  "entri": "bas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kepala pekerja (mandor)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "pemborong pekerjaan: mereka mencari seorang -- yang biasa memborong pekerjaan memasang ubin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kepala; pembesar: ia meminta izin kepada --nya"
+        }
+      ]
+    },
+    {
+      "lema": "bas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "nada yang besar dan rendah (tentang musik dan lagu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat musik yang mempunyai nada terendah"
+        }
+      ]
+    },
+    {
+      "lema": "BAS3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "bagan akun standar"
+        }
+      ]
+    }
+  ]
+}

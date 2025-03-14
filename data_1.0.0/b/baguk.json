@@ -1,0 +1,42 @@
+{
+  "istilah": "baguk",
+  "entri": "ba.guk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.guk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "manyung"
+        }
+      ]
+    },
+    {
+      "lema": "ba.guk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "melinjo"
+        }
+      ]
+    },
+    {
+      "lema": "ba.guk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang (petak-petak) dalam buah-buahan (seperti dalam buah durian); pangsa"
+        }
+      ]
+    }
+  ]
+}

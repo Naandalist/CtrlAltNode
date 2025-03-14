@@ -1,0 +1,32 @@
+{
+  "istilah": "antioksidan",
+  "entri": "an.ti.ok.si.dan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.ti.ok.si.dan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat yang menghambat proses oksidasi terhadap sistem atau penyusun utama sistem"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat melindungi tubuh dari radikal bebas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat yang berfungsi melindungi tubuh dari serangan radikal bebas"
+        }
+      ]
+    }
+  ]
+}

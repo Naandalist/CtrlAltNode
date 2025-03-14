@@ -1,0 +1,24 @@
+{
+  "istilah": "analisis transaksi",
+  "entri": "analisis » analisis transaksi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "analisis » analisis transaksi",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "teknik yang digunakan untuk menurunkan grafik terstruktur dari produk perangkat lunak yang akan memproses transaksi, digunakan untuk membagi diagram aliran data kompleks menjadi lebih kecil"
+        }
+      ]
+    }
+  ]
+}

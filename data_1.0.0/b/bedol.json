@@ -1,0 +1,32 @@
+{
+  "istilah": "bedol",
+  "entri": "be.dol /bêdol/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bedolan",
+    "membedol",
+    "pembedolan",
+    "terbedol"
+  ],
+  "gabunganKata": [
+    "bedol desa",
+    "bedol santri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cabut",
+    "kataAsal": "běḍol"
+  },
+  "data": [
+    {
+      "lema": "be.dol /bêdol/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "cabut"
+        }
+      ]
+    }
+  ]
+}

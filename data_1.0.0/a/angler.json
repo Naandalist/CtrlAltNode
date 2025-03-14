@@ -1,0 +1,33 @@
+{
+  "istilah": "angler",
+  "entri": "ang.ler",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.ler",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "melembutkan tanah sebelum ditanamidng cara mencangkul dan mengairi tanah"
+        }
+      ]
+    },
+    {
+      "lema": "ang.ler /anglêr/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "nyenyak; nyaman: naik sedan lebih -- daripada naik bemo"
+        }
+      ]
+    }
+  ]
+}

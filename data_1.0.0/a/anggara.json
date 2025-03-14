@@ -1,0 +1,37 @@
+{
+  "istilah": "anggara",
+  "entri": "ang.ga.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.ga.ra1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "buas; liar"
+        }
+      ]
+    },
+    {
+      "lema": "ang.ga.ra2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "hari ketiga setiap bulan dalam penanggalan Toba"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari ketiga dalam jangka waktu satu minggu dalam penanggalan Bali"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "atm",
+  "entri": "ATM1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ATM1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "anjungan tunai mandiri; dari automatic teller machine"
+        }
+      ]
+    },
+    {
+      "lema": "ATM2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "mode transfer asinkron; MTA; dari asynchronous transfer mode"
+        }
+      ]
+    },
+    {
+      "lema": "ATM3",
+      "arti": [
+        {
+          "kelas_kata": "sing[singkatan]",
+          "deskripsi": "alat tenun mesin; mesin tenun dengan tenaga motor sebagai penggerak, memiliki kecepatan lebih tinggi daripada ATBM, dapat membuat kain dari yang kasar sampai dengan yang sangat halus dengan berbagai desain"
+        }
+      ]
+    }
+  ]
+}

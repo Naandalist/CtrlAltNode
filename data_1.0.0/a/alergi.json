@@ -1,0 +1,31 @@
+{
+  "istilah": "alergi",
+  "entri": "a.ler.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "alergi laktosa",
+    "alergi susu sapi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ler.gi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "perubahan reaksi tubuh terhadap kuman-kuman penyakit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "keadaan sangat peka terhadap penyebab tertentu (zat, makanan, serbuk, keadaan udara, asap, dan sebagainya) yang dalam kadar tertentu tidak membahayakan untuk sebagian besar orang"
+        }
+      ]
+    }
+  ]
+}

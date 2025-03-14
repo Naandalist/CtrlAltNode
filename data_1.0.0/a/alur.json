@@ -1,0 +1,83 @@
+{
+  "istilah": "alur",
+  "entri": "a.lur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "alur-aluran",
+    "aluran",
+    "beralur",
+    "mengalur-alur",
+    "sealur"
+  ],
+  "gabunganKata": [
+    "alur air",
+    "alur balik",
+    "alur bawahan",
+    "alur bibir",
+    "alur cahaya",
+    "alur cerita",
+    "alur erat",
+    "alur hidung",
+    "alur kapal",
+    "alur kerongkongan",
+    "alur ketat",
+    "alur leher",
+    "alur longgar",
+    "alur menanjak",
+    "alur sungai",
+    "alur tengkuk"
+  ],
+  "peribahasa": [
+    "alur bertempuh, jalan berturut"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lekuk memanjang (di tanah, kayu, sungai, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan (aturan, adat) yang benar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "rangkaian peristiwa yang direka dan dijalin dengan saksama dan menggerakkan jalan cerita melalui kerumitan ke arah klimaks dan penyelesaian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "jalinan peristiwa dalam karya sastra untuk mencapai efek tertentu (pautannya dapat diwujudkan oleh hubungan temporal atau waktu dan oleh hubungan kausal atau sebab-akibat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "jalan sempit pada sungai saat musim kering yang harus dilalui"
+        }
+      ]
+    },
+    {
+      "lema": "a.lur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumber air yang terletak di tengah lahan pertanian: sebuah ladang yang jauh dari sungai idealnya memiliki -- agar terjamin sistem pengairannya"
+        }
+      ]
+    },
+    {
+      "lema": "a.lur3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tj[Tunjung: bahasa di Kalimantan Timur]",
+          "deskripsi": "permainan perahu-perahuan yang dilombakan secara berkelompok, dilakukan dengan menaiki  batang pohon yang diapungkan di air untuk kemudian didayung ke hulu atau ke hilir, pemenangnya adalah tim yang paling cepat sampai tujuan"
+        }
+      ]
+    }
+  ]
+}

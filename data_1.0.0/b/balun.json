@@ -1,0 +1,56 @@
+{
+  "istilah": "balun",
+  "entri": "ba.lun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membalun",
+    "berbalun-balun",
+    "membalun",
+    "membalun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lun1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pukul"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lun2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "gulung; lipat"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lun3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membalun"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lun4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "kain kafan"
+        }
+      ]
+    }
+  ]
+}

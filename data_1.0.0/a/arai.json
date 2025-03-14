@@ -1,0 +1,35 @@
+{
+  "istilah": "arai",
+  "entri": "a.rai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "arai pinang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.rai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "mayang-mayang: -- enau"
+        }
+      ]
+    },
+    {
+      "lema": "a.rai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "takaran beras (dua cupak)"
+        }
+      ]
+    }
+  ]
+}

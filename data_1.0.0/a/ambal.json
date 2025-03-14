@@ -1,0 +1,69 @@
+{
+  "istilah": "ambal",
+  "entri": "am.bal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ambalan",
+    "berambal-ambalan",
+    "mengambal",
+    "mengambal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "cari:",
+    "kataAsal": "ḥanbal"
+  },
+  "data": [
+    {
+      "lema": "am.bal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tns[Minahasa Tonsea: -]",
+          "deskripsi": "penganan khas Tonsea terbuat dari adonan tepung ketan, lemak babi, dan jahe, dibungkus dengan daun, lalu dimasak atau dikukus dalam talang atau buluh"
+        }
+      ]
+    },
+    {
+      "lema": "am.bal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permadani"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tikar dari bulu domba atau katun"
+        }
+      ]
+    },
+    {
+      "lema": "am.bal3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ambalan; berambal-ambalan"
+        }
+      ]
+    },
+    {
+      "lema": "am.bal4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengambal"
+        }
+      ]
+    },
+    {
+      "lema": "am.bal5",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengambal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "aroma",
+  "entri": "a.ro.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beraroma",
+    "searoma"
+  ],
+  "gabunganKata": [
+    "aroma kosmetik",
+    "aroma laut",
+    "aroma susu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ro.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bau-bauan yang harum (yang berasal dari tumbuh-tumbuhan atau akar-akaran)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan pewangi makanan atau minuman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "bersifat atau mengandung hal tertentu"
+        }
+      ]
+    }
+  ]
+}

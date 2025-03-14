@@ -1,0 +1,57 @@
+{
+  "istilah": "ampang",
+  "entri": "am.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [
+    "ampang sampai ke seberang, dinding sampai ke langit"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mudah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ringan"
+        }
+      ]
+    },
+    {
+      "lema": "am.pang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pematang dan sebagainya penahan air; bendungan"
+        }
+      ]
+    },
+    {
+      "lema": "am.pang3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bt[Batak: -]",
+          "deskripsi": "keranjang besar"
+        }
+      ]
+    },
+    {
+      "lema": "am.pang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "tikar kecil khas Gayo berbentuk persegi empat, dihiasi sulaman, biasanya digunakan sebagai pelapis tempat duduk pada acara adat"
+        }
+      ]
+    }
+  ]
+}

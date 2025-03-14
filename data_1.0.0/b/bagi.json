@@ -1,0 +1,60 @@
+{
+  "istilah": "bagi",
+  "entri": "ba.gi1 bentuk tidak baku: bahagi",
+  "bentukTidakBaku": "bahagi",
+  "kataTurunan": [
+    "bagian",
+    "berbagi",
+    "kebagian",
+    "membagi",
+    "membagi-bagi",
+    "membagi-bagikan",
+    "membagikan",
+    "pembagi",
+    "pembagian",
+    "sebagian",
+    "terbagi",
+    "terbagikan"
+  ],
+  "gabunganKata": [
+    "bagi anak",
+    "bagi hasil",
+    "bagi kecil"
+  ],
+  "peribahasa": [
+    "tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "porsi, bagian, kompartemen, divisi",
+    "kataAsal": "bhāga"
+  },
+  "data": [
+    {
+      "lema": "ba.gi1 bentuk tidak baku: bahagi",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata depan untuk menyatakan tujuan; untuk: disediakan hadiah -- pemenang pertama, kedua, dan ketiga"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata depan untuk menyatakan perihal; akan (hal); tentang (hal); menurut (pendapat): -- saya, hal itu tidak perlu diperdebatkan lagi"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pecahan dari sesuatu yang utuh; penggal; pecah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "suatu operasi aljabar yang biasa dinyatakan dengan simbol titik dua (:) atau garis bagi (÷) atau garis miring (/) (a:b atau a÷b atau a/b) misalnya a:b = c (a dibagi b sama dengan c), berarti a = c x b"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "amanat",
+  "entri": "a.ma.nat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beramanat",
+    "mengamanati",
+    "mengamanatkan",
+    "pengamanatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Persia",
+    "arti": "aman; kesetiaan; ketulusan; seseorang yang dipercayai; penitipan; yang tidak menaruh curiga",
+    "kataAsal": "amanat"
+  },
+  "data": [
+    {
+      "lema": "a.ma.nat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pesan; perintah (dari atas): menyampaikan -- orang tuanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keterangan (dari pemerintah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wejangan (dari orang yang terkemuka): dibacakan sebuah -- Jenderal Sudirman; -- Presiden dalam Kongres Pemuda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "keseluruhan makna atau isi pembicaraan; konsep dan perasaan yang disampaikan pembicara untuk dimengerti dan diterima pendengar atau pembaca"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "gagasan yang mendasari karya sastra"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "pesan yang ingin disampaikan pengarang kepada pembaca atau pendengar"
+        }
+      ]
+    }
+  ]
+}

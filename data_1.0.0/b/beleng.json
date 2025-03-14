@@ -1,0 +1,45 @@
+{
+  "istilah": "beleng",
+  "entri": "be.leng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbeleng",
+    "membeleng-beleng"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.leng1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "saja; hanya (satu): tunggal -- hanya seorang diri (tanpa adik tanpa kakak)"
+        }
+      ]
+    },
+    {
+      "lema": "be.leng2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berbeleng; membeleng-beleng"
+        }
+      ]
+    },
+    {
+      "lema": "be.leng3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Tj[Tunjung: bahasa di Kalimantan Timur]",
+          "deskripsi": "sial terus-menerus"
+        }
+      ]
+    }
+  ]
+}

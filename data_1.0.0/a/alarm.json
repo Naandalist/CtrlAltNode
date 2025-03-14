@@ -1,0 +1,28 @@
+{
+  "istilah": "alarm",
+  "entri": "a.larm",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.larm",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda bahaya berupa sinyal, bunyi, sinar, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat mekanik yang dirancang untuk memperingatkan akan adanya bahaya atau kerusakan"
+        }
+      ]
+    }
+  ]
+}

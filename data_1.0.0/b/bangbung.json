@@ -1,0 +1,33 @@
+{
+  "istilah": "bangbung",
+  "entri": "bang.bung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bang.bung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi tambur dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "bang.bung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumbang tanduk"
+        }
+      ]
+    }
+  ]
+}

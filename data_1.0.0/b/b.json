@@ -1,0 +1,37 @@
+{
+  "istilah": "b",
+  "entri": "B1 varian: b",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "B1 varian: b",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf ke-2 abjad Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penanda ke-2 dalam urutan (mutu, nilai, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "B2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan darah dari sistem penggolongan darah ABO yang memiliki kandungan antigen eritrosit B dan antibodi anti-A pada sel darah merahnya"
+        }
+      ]
+    }
+  ]
+}

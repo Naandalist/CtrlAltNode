@@ -1,0 +1,28 @@
+{
+  "istilah": "asad",
+  "entri": "A.sad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "singa",
+    "kataAsal": "asad"
+  },
+  "data": [
+    {
+      "lema": "A.sad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "Leo"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Ar[Arab: -]",
+          "deskripsi": "singa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "istilah": "aman",
+  "entri": "a.man",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keamanan",
+    "memperaman",
+    "mengamankan",
+    "pengaman",
+    "pengamanan",
+    "seaman",
+    "teraman",
+    "teramankan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ketenangan hati",
+    "kataAsal": "amān"
+  },
+  "data": [
+    {
+      "lema": "a.man",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bebas dari bahaya: rakyat mengungsi ke tempat yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bebas dari gangguan (pencuri, hama, dan sebagainya): kampungku akhir-akhir ini tidak --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlindung atau tersembunyi; tidak dapat diambil orang: simpanlah barang berharga ini di tempat yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pasti; tidak meragukan; tidak mengandung risiko: membeli obat di apotek lebih -- daripada membeli di warung"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tenteram; tidak merasa takut atau khawatir: tindakan sewenang-wenang akan membuat rakyat tidak merasa --"
+        }
+      ]
+    }
+  ]
+}

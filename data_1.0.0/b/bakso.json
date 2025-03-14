@@ -1,0 +1,32 @@
+{
+  "istilah": "bakso",
+  "entri": "bak.so bentuk tidak baku: baso1",
+  "bentukTidakBaku": "baso1",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bakso beranak",
+    "bakso mercon",
+    "bakso rudal",
+    "bakso rusuk",
+    "bakso telur",
+    "bakso tenis",
+    "bakso tusuk"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "bulatan-bulatan daging (sapi, ayam, ikan, babi) berbumbu yang menjadi isi sup",
+    "kataAsal": "bah so"
+  },
+  "data": [
+    {
+      "lema": "bak.so bentuk tidak baku: baso1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan terbuat dari daging, udang, atau ikan yang dicincang dan dilumatkan bersama tepung kanji dan putih telur, biasanya dibentuk bulat-bulat"
+        }
+      ]
+    }
+  ]
+}

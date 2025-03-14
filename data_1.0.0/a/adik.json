@@ -1,0 +1,53 @@
+{
+  "istilah": "adik",
+  "entri": "a.dik bentuk tidak baku: adek",
+  "bentukTidakBaku": "adek",
+  "kataTurunan": [
+    "adik-beradik",
+    "beradik",
+    "beradik-berkakak",
+    "memperadik"
+  ],
+  "gabunganKata": [
+    "adik bungsu",
+    "adik ipar",
+    "adik kakak",
+    "adik kandung",
+    "adik kelas",
+    "adik seayah",
+    "adik seibu",
+    "adik seibu seayah",
+    "adik sepupu",
+    "adik tingkat",
+    "adik tiri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.dik bentuk tidak baku: adek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saudara kandung yang lebih muda (laki-laki atau perempuan): -- kandung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerabat yang lebih muda (dari pertalian kekeluargaan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada laki-laki atau perempuan yang lebih muda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Prm[Pramuka: Usulan untuk penambahan bidang baru]",
+          "deskripsi": "panggilan untuk pramuka yang lebih muda usia atau tingkatannya"
+        }
+      ]
+    }
+  ]
+}

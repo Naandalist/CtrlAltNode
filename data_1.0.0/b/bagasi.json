@@ -1,0 +1,44 @@
+{
+  "istilah": "bagasi",
+  "entri": "ba.ga.si bentuk tidak baku: begasi",
+  "bentukTidakBaku": "begasi",
+  "kataTurunan": [
+    "berbagasi"
+  ],
+  "gabunganKata": [
+    "bagasi berlebih",
+    "bagasi cuma-cuma",
+    "bagasi jinjing",
+    "bagasi kabin",
+    "bagasi tangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ga.si bentuk tidak baku: begasi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang muatan (kereta api, pesawat udara dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerbong kereta api tempat memuat barang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "para-para besi tempat menaruh barang (di sepeda dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat khusus untuk barang (di mobil)"
+        }
+      ]
+    }
+  ]
+}

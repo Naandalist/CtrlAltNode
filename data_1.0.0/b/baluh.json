@@ -1,0 +1,39 @@
+{
+  "istilah": "baluh",
+  "entri": "ba.luh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "baluhan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.luh1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu rangka tempat duduk (di punggung gajah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu rangka gendang (tabuh-tabuhan)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.luh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "lebah raja yang sengatnya mengandung bisa"
+        }
+      ]
+    }
+  ]
+}

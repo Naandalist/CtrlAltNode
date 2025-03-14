@@ -1,0 +1,48 @@
+{
+  "istilah": "bahari",
+  "entri": "ba.ha.ri1",
+  "bentukTidakBaku": "bari2, bihari",
+  "kataTurunan": [
+    "kebaharian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "yang berkaitan dengan laut",
+    "kataAsal": "baḥrī"
+  },
+  "data": [
+    {
+      "lema": "ba.ha.ri1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "dahulu kala; kuno: adat yang --; zaman --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bertuah: keris --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ha.ri2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "indah; elok sekali: duduk menyembah Sitti --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ha.ri3 bentuk tidak baku: bari2, bihari",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mengenai laut"
+        }
+      ]
+    }
+  ]
+}

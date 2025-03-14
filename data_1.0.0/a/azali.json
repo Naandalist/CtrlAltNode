@@ -1,0 +1,33 @@
+{
+  "istilah": "azali",
+  "entri": "a.za.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang berkaitan dengan masa dahulu",
+    "kataAsal": "azalī"
+  },
+  "data": [
+    {
+      "lema": "a.za.li1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat azal; bersifat kekal"
+        }
+      ]
+    },
+    {
+      "lema": "a.za.li2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ asali"
+        }
+      ]
+    }
+  ]
+}

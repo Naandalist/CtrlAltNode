@@ -1,0 +1,42 @@
+{
+  "istilah": "badui",
+  "entri": "Ba.du.i1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "Badui Dalam",
+    "Badui Kajeroan",
+    "Badui Luar",
+    "Badui Panamping"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang Arab pedalaman padang pasir",
+    "kataAsal": "badawī"
+  },
+  "data": [
+    {
+      "lema": "Ba.du.i1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa pengembara di tanah Arab"
+        }
+      ]
+    },
+    {
+      "lema": "Ba.du.i2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Rangkasbitung dan Pandeglang, Banten"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dialek bahasa Sunda yang dituturkan oleh suku Badui"
+        }
+      ]
+    }
+  ]
+}

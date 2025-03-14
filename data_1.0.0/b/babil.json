@@ -1,0 +1,38 @@
+{
+  "istilah": "babil",
+  "entri": "ba.bil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbabil",
+    "membabil",
+    "pembabil",
+    "perbabilan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "mengobarkan",
+    "kataAsal": "balbala"
+  },
+  "data": [
+    {
+      "lema": "ba.bil1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "suka membantah; keras kepala"
+        }
+      ]
+    },
+    {
+      "lema": "Ba.bil2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Babilonia"
+        }
+      ]
+    }
+  ]
+}

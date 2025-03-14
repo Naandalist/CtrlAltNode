@@ -1,0 +1,61 @@
+{
+  "istilah": "alim",
+  "entri": "a.lim1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kealiman",
+    "sealim"
+  ],
+  "gabunganKata": [
+    "alim ulama"
+  ],
+  "peribahasa": [
+    "sukar kaji pada orang alim, sukar uang pada orang kaya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang pandai; orang yang mengamalkan ilmunya",
+    "kataAsal": "‘ālim"
+  },
+  "data": [
+    {
+      "lema": "a.lim1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berilmu (terutama dalam hal agama Islam): ia seorang -- yang sangat disegani di kampung ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "saleh: kelihatannya ia sangat -- dan tidak pernah meninggalkan salat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang berilmu"
+        }
+      ]
+    },
+    {
+      "lema": "a.lim2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pegawai urusan agama di Banten atau Madura"
+        }
+      ]
+    },
+    {
+      "lema": "a.lim3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "pohon keras yang tingginya mencapai 7 m, daun melanset atau elips, bunga kecil berwarna putih atau kuning, buah membulat atau membulat telur berwarna hijau hingga hitam, kayu digunakan sebagai bahan kosmetik, parfum, dan dupa; gaharu; halim〔Aquilaria malaccensis〕"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "pohon yang kulit kayunya digunakan untuk bahan pembuatan naskah tradisional berbentuk buku lipat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "akomodasi",
+  "entri": "a.ko.mo.da.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengakomodasi",
+    "mengakomodasikan",
+    "terakomodasi",
+    "terakomodasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ko.mo.da.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang disediakan untuk memenuhi kebutuhan, misalnya tempat menginap atau tempat tinggal sementara bagi orang yang bepergian: dia bertugas menyiapkan -- bagi para tamu yang datang dari luar daerah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "penyesuaian mata untuk menerima bayangan yang jelas dari objek yang berbeda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Antr[Antropologi: -]",
+          "deskripsi": "penyesuaian manusia dalam kesatuan sosial untuk menghindari dan meredakan interaksi ketegangan dan konflik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "kamar atau ruang tempat tinggal awak kapal atau penumpang kapal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sos[Sosiologi: -]",
+          "deskripsi": "penyesuaian sosial dalam interaksi antara pribadi dan kelompok manusia untuk meredakan pertentangan"
+        }
+      ]
+    }
+  ]
+}

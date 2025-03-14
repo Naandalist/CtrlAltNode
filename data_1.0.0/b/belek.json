@@ -1,0 +1,61 @@
+{
+  "istilah": "belek",
+  "entri": "be.lek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "belekan",
+    "berbelek",
+    "membelek",
+    "membelekkan",
+    "membelek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "belek"
+  },
+  "data": [
+    {
+      "lema": "be.lek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "penyakit yang menyebabkan mata merah dan berair serta banyak mengeluarkan kotoran mata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kotoran mata; tahi mata"
+        }
+      ]
+    },
+    {
+      "lema": "be.lek2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membelek; membelekkan"
+        }
+      ]
+    },
+    {
+      "lema": "be.lek1 /bêlek/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "blek"
+        }
+      ]
+    },
+    {
+      "lema": "be.lek2 /bêlek/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "belah"
+        }
+      ]
+    }
+  ]
+}

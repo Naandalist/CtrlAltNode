@@ -1,0 +1,42 @@
+{
+  "istilah": "antik",
+  "entri": "an.tik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keantikan",
+    "mengantikkan",
+    "seantik",
+    "terantik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.tik1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kuno, tetapi tetap bernilai sebagai hasil karya seni atau benda budaya (tentang barang-barang): koleksi barang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "perilaku, sifat, penampilan, dan sebagainya yang tidak seperti biasanya (tentang orang)"
+        }
+      ]
+    },
+    {
+      "lema": "an.tik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "batu kecil seberat sekitar 0,5 kg yang diikat pada jaring sebagai pemberat: nelayan tradisional menggunakan (antik) agar jaring yang dipasang terbenam"
+        }
+      ]
+    }
+  ]
+}

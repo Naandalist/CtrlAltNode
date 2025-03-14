@@ -1,0 +1,36 @@
+{
+  "istilah": "bantut",
+  "entri": "ban.tut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membantut",
+    "terbantut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.tut1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hambat"
+        }
+      ]
+    },
+    {
+      "lema": "ban.tut2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Gy[Gayo: -]",
+          "deskripsi": "mengobati penyakit dengan cara memindahkannya ke tempat atau ke benda lain"
+        }
+      ]
+    }
+  ]
+}

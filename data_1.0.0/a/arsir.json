@@ -1,0 +1,30 @@
+{
+  "istilah": "arsir",
+  "entri": "ar.sir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "arsiran",
+    "mengarsir",
+    "pengarsir",
+    "pengarsiran",
+    "terarsir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.sir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "garis-garis kecil sejajar berbayang"
+        }
+      ]
+    }
+  ]
+}

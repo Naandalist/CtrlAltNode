@@ -1,0 +1,33 @@
+{
+  "istilah": "anggau",
+  "entri": "ang.gau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.gau1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis kepiting (di Mentawai)"
+        }
+      ]
+    },
+    {
+      "lema": "ang.gau2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "penjelmaan roh orang yang sudah meninggal"
+        }
+      ]
+    }
+  ]
+}

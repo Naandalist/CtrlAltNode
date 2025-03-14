@@ -1,0 +1,44 @@
+{
+  "istilah": "awat",
+  "entri": "a.wat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengawat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.wat1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mengapa"
+        }
+      ]
+    },
+    {
+      "lema": "a.wat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pegang"
+        }
+      ]
+    },
+    {
+      "lema": "a.wat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah yang tidak kena oleh bajak (tenggala)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "atom",
+  "entri": "a.tom",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengatomkan",
+    "pengatoman",
+    "seatom"
+  ],
+  "gabunganKata": [
+    "atom bertanda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.tom",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "unsur kimia terkecil (setelah nuklir) yang dapat berdiri sendiri dan dapat bersenyawa dengan yang lain: dua -- hidrogen dengan satu -- oksigen menjadi molekul air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "modern; mutakhir: zaman --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "barang yang terbuat dari plastik: sisir --; ikat pinggang --"
+        }
+      ]
+    }
+  ]
+}

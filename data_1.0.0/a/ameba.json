@@ -1,0 +1,28 @@
+{
+  "istilah": "ameba",
+  "entri": "a.me.ba bentuk tidak baku: amuba",
+  "bentukTidakBaku": "amuba",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.me.ba bentuk tidak baku: amuba",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "protozoa tanpa dinding sel, bentuknya selalu berubah, bergerak dengan kaki semu, biasanya hidup di air atau sebagai parasit pada hewan lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "bentuk tidak menetap yang selalu berubah-ubah (seperti binatang ameba yang tidak mempunyai dinding sel)"
+        }
+      ]
+    }
+  ]
+}

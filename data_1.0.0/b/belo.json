@@ -1,0 +1,37 @@
+{
+  "istilah": "belo",
+  "entri": "be.lo1 /bêlo/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "anak kuda",
+    "kataAsal": "bělo"
+  },
+  "data": [
+    {
+      "lema": "be.lo1 /bêlo/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak kuda yang berumur kurang dari satu tahun"
+        }
+      ]
+    },
+    {
+      "lema": "be.lo2 /bêlo/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan anadrom yang ukurannya dapat mencapai 22 cm, tubuhnya pipih memanjang, bersisik, warnanya keperakan, tersebar luas dari Teluk Persia hingga Kaledonia Baru〔Dorosoma petenensis〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan anadrom yang ukurannya dapat mencapai 26 cm, tubuhnya pipih memanjang, bersisik, terdapat filamen pada sirip punggung, warnanya keperakan, tersebar luas dari Teluk Persia hingga Indo Pasifik Barat〔Nematolosa nasus〕"
+        }
+      ]
+    }
+  ]
+}

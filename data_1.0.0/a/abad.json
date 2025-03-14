@@ -1,0 +1,44 @@
+{
+  "istilah": "abad",
+  "entri": "a.bad",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berabad-abad",
+    "seabad"
+  ],
+  "gabunganKata": [
+    "abad keemasan",
+    "abad komputer",
+    "abad modern",
+    "Abad Pertengahan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "masa yang lamanya tak terbatas; selama-lamanya; masa yang tak kurang dari ratusan juta tahun; anak yang baru berusia satu tahun",
+    "kataAsal": "abad"
+  },
+  "data": [
+    {
+      "lema": "a.bad",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masa seratus tahun: bangunan itu diperkirakan dapat bertahan satu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jangka waktu yang lamanya seratus tahun: -- ke-20 mulai dari tahun 1901 sampai tahun 2000"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zaman (yang lamanya tidak tentu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masa yang kekal, tidak berkesudahan"
+        }
+      ]
+    }
+  ]
+}

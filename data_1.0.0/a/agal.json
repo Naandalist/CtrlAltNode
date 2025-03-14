@@ -1,0 +1,33 @@
+{
+  "istilah": "agal",
+  "entri": "a.gal1 bentuk tidak baku: agel",
+  "bentukTidakBaku": "agel",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.gal1 bentuk tidak baku: agel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serat kulit batang gebang (untuk dibuat tali)"
+        }
+      ]
+    },
+    {
+      "lema": "a.gal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hewan pelagik yang hidup di perairan tropis dan subtropis, berat mencapai 9 kg, panjang mencapai 160 cm, tersebar di perairan Atlantik Utara sampai Afrika Selatan; penyu belimbing〔Dermochelys coriacea〕"
+        }
+      ]
+    }
+  ]
+}

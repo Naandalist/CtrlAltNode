@@ -1,0 +1,41 @@
+{
+  "istilah": "alkohol",
+  "entri": "al.ko.hol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beralkohol",
+    "pengalkoholan"
+  ],
+  "gabunganKata": [
+    "alkohol dehidrogenase",
+    "alkohol dihidrik",
+    "alkohol gula",
+    "alkohol mutlak",
+    "alkohol sekunder"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.ko.hol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "cairan tidak berwarna yang mudah menguap, mudah terbakar, dipakai dalam industri dan pengobatan, merupakan unsur ramuan yang memabukkan dalam kebanyakan minuman keras〈CnH2n+1OH〉"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "etanol〈C2H5OH〉"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "senyawa organik dengan gugus OH pada atom karbon jenuh"
+        }
+      ]
+    }
+  ]
+}

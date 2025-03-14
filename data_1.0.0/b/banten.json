@@ -1,0 +1,45 @@
+{
+  "istilah": "banten",
+  "entri": "ban.ten1 /bantên/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.ten1 /bantên/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "sajen"
+        }
+      ]
+    },
+    {
+      "lema": "Ban.ten2 /bantên/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "provinsi yang terletak di bagian barat Pulau Jawa, dengan ibu kota Serang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami Provinsi Banten"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dialek bahasa Sunda dan Jawa yang dituturkan di daerah Banten"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah di sebelah barat Pulau Jawa"
+        }
+      ]
+    }
+  ]
+}

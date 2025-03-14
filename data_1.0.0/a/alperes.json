@@ -1,0 +1,37 @@
+{
+  "istilah": "alperes",
+  "entri": "al.pe.res1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.pe.res1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pangkat di bawah letnan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "wakil kepala daerah (zaman Kompeni)"
+        }
+      ]
+    },
+    {
+      "lema": "al.pe.res2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut, bermacam-macam jenisnya, seperti -- batu; -- jawa"
+        }
+      ]
+    }
+  ]
+}

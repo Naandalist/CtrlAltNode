@@ -1,0 +1,37 @@
+{
+  "istilah": "bar",
+  "entri": "bar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat minum-minum (biasanya minuman keras, seperti anggur, bir, wiski)"
+        }
+      ]
+    },
+    {
+      "lema": "bar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran tekanan udara sama dengan 106 dyne per cm² = 0,987 atmosfer = 14,5 pon per inci"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "satuan tekanan yang besarnya sama dengan 105 Pascal (Pa) atau 105 Newton (N) per meter persegi atau kira-kira sama dengan 0,987 atmosfer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "istilah": "ban",
+  "entri": "ban1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "ban angin",
+    "ban angkut",
+    "ban berjalan",
+    "ban buta",
+    "ban cadangan",
+    "ban dalam",
+    "ban gundul",
+    "ban hidup",
+    "ban luar",
+    "ban mati",
+    "ban pejal",
+    "ban pompa",
+    "ban radial",
+    "ban radial bersabuk",
+    "ban serap",
+    "ban tervulkanisasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda bulat dari karet yang dipasang melingkar pada roda (sepeda, mobil, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "secarik pita (kain dan sebagainya) yang dibalutkan pada lengan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkar tenunan benang tebal berbentuk pita lebar tanpa ujung yang digunakan untuk memutar roda mesin pabrik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikat pinggang; sabuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sampul buku, biasanya dari kertas, dibuat terpisah dari blok buku"
+        }
+      ]
+    },
+    {
+      "lema": "ban2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan atau jalur (kereta api dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "landasan terbang (bagi pesawat terbang) di pelabuhan udara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapangan tenis (bulu tangkis dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "tanda yang menunjukkan tingkatan kemahiran (putih, kuning, hijau, biru, cokelat, hitam) dalam karate, judo, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "lintasan (untuk lari dan berenang)"
+        }
+      ]
+    },
+    {
+      "lema": "ban3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panjang gelombang atau frekuensi pada radio"
+        }
+      ]
+    },
+    {
+      "lema": "ban4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bh[Bahau: bahasa di Kalimantan Timur]",
+          "deskripsi": "satuan ukuran yang dipakai untuk mengukur ketebalan lemak babi"
+        }
+      ]
+    }
+  ]
+}

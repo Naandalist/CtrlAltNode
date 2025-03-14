@@ -1,0 +1,24 @@
+{
+  "istilah": "bahasa diinterpretasikan",
+  "entri": "bahasa1 » bahasa diinterpretasikan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa diinterpretasikan",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman yang dikompilasi ke dalam kode sehingga dapat dibaca oleh mesin pada saat program dijalankan oleh interpreter bahasa"
+        }
+      ]
+    }
+  ]
+}

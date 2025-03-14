@@ -1,0 +1,24 @@
+{
+  "istilah": "bahasa hibrida",
+  "entri": "bahasa1 » bahasa hibrida",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa hibrida",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman yang mendukung lebih dari satu paradigma pemrograman untuk menyediakan kerangka tempat pemrogram sehingga dapat bekerja dalam berbagai gaya"
+        }
+      ]
+    }
+  ]
+}

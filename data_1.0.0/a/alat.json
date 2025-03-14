@@ -1,0 +1,182 @@
+{
+  "istilah": "alat",
+  "entri": "a.lat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memperalat",
+    "memperalati",
+    "mengalati",
+    "mengalatkan",
+    "peralatan",
+    "beralat",
+    "memperalatkan",
+    "peralatan"
+  ],
+  "gabunganKata": [
+    "alat angkut",
+    "alat baca cetak",
+    "alat baca mikro",
+    "alat bantu dengar",
+    "alat bantu pandang dengar",
+    "alat bantu pengajaran",
+    "alat bantu pernapasan",
+    "alat berat",
+    "alat bibliografis",
+    "alat bicara",
+    "alat bidik",
+    "alat bukti",
+    "alat cetak jauh",
+    "alat cukur listrik",
+    "alat diplomasi kultural",
+    "alat hukum",
+    "alat kecantikan",
+    "alat kejut listrik",
+    "alat kekuasaan",
+    "alat kelamin",
+    "alat kelengkapan",
+    "alat keluarga berencana",
+    "alat kesehatan",
+    "alat komunikasi",
+    "alat konsentrasi",
+    "alat kontrasepsi",
+    "alat kontrol",
+    "alat listrik",
+    "alat masak",
+    "alat masukan",
+    "alat musik gesek",
+    "alat musik petik",
+    "alat musik pukul",
+    "alat musik tiup",
+    "alat musuh",
+    "alat negara",
+    "alat olahraga",
+    "alat pacu jantung",
+    "alat pameran",
+    "alat pandang",
+    "alat pandang dengar",
+    "alat pelajaran",
+    "alat pemanas",
+    "alat pembayaran",
+    "alat pembayaran luar negeri",
+    "alat pembayaran nontunai",
+    "alat pembayaran tunai",
+    "alat pembeban lutut",
+    "alat pembersih",
+    "alat pembuktian",
+    "alat pemecah kulit",
+    "alat pemecah kulit gabah",
+    "alat pemerintahan",
+    "alat pencegah kehamilan",
+    "alat pencernaan",
+    "alat penciuman",
+    "alat pendengar",
+    "alat pendingin",
+    "alat pendobrak",
+    "alat penerangan",
+    "alat pengecambah",
+    "alat pengeras suara",
+    "alat pengering berlanjut",
+    "alat penghapus suara",
+    "alat penghidu",
+    "alat pengisap",
+    "alat pengisap oral",
+    "alat penglihatan",
+    "alat pengontrol",
+    "alat pengumpul rumput laut",
+    "alat penyedot",
+    "alat penyeduh kopi",
+    "alat penyekat",
+    "alat penyosoh",
+    "alat peraga",
+    "alat perang",
+    "alat perasa",
+    "alat perekam",
+    "alat pernapasan",
+    "alat perontok gabah",
+    "alat perum",
+    "alat potret",
+    "alat pres hidraulik",
+    "alat putar cepat",
+    "alat raja",
+    "alat rajah",
+    "alat rekam jantung",
+    "alat reproduksi",
+    "alat senjata",
+    "alat suntik",
+    "alat tani",
+    "alat tenun",
+    "alat tetas",
+    "alat tulis",
+    "alat ucap",
+    "alat uji",
+    "alat uji kehamilan",
+    "alat ukur",
+    "alat ukur cahaya",
+    "alat ukur hujan",
+    "alat ukur hujan otomatis",
+    "alat vital"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "benda yang dipakai untuk mengerjakan sesuatu; tiang kemah",
+    "kataAsal": "ālāt"
+  },
+  "data": [
+    {
+      "lema": "a.lat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang dipakai untuk mengerjakan sesuatu: perkakas; perabot: -- pertanian; -- tukang kayu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dipakai untuk mencapai maksud: pelaksanaan keluarga berencana adalah -- untuk menurunkan angka kelahiran dan menaikkan taraf hidup rakyat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang dipakai untuk mencapai suatu maksud: mereka itu hanya dipakai sebagai -- untuk melemahkan semangat rakyat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian tubuh (manusia, binatang, tumbuh-tumbuhan) yang menjalankan fungsi sesuatu: -- pencium; -- perasa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dipakai untuk menjalankan kekuasaan negara (seperti polisi, tentara): -- negara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perlengkapan: -- kebesaran untuk upacara raja-raja, seperti mahkota, tongkat, payung, pedang, tunggul, bendera, dan umbul-umbul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Antr[Antropologi: -]",
+          "deskripsi": "benda budaya yang dikembangkan manusia dalam usahanya memenuhi segala macam kebutuhan hidupnya, sebagai penyambung keterbatasan organnya"
+        }
+      ]
+    },
+    {
+      "lema": "a.lat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "jamu (tamu)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "perjamuan"
+        }
+      ]
+    },
+    {
+      "lema": "a.lat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bo[Boing: bahasa di Maluku]",
+          "deskripsi": "keranjang untuk membawa hasil kebun, dibuat dari anyaman kulit bambu, berbentuk bulat dengan tinggi kurang lebih 1 meter, dibawa dengan cara digantung dari atas kepala bagian belakang"
+        }
+      ]
+    }
+  ]
+}

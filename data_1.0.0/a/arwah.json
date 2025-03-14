@@ -1,0 +1,33 @@
+{
+  "istilah": "arwah",
+  "entri": "ar.wah",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengarwahkan"
+  ],
+  "gabunganKata": [
+    "arwah gentayangan",
+    "arwah penasaran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tiupan; sesuatu yang membuat manusia dapat hidup",
+    "kataAsal": "arwāḥ"
+  },
+  "data": [
+    {
+      "lema": "ar.wah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jiwa orang yang meninggal; roh: semoga --nya diterima di sisi Tuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "semangat: hilang --"
+        }
+      ]
+    }
+  ]
+}

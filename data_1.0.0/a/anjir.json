@@ -1,0 +1,42 @@
+{
+  "istilah": "anjir",
+  "entri": "an.jir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.jir1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "terusan; saluran (air); kanal: -- yang dibangun tidak dapat digunakan lagi untuk lalu lintas kendaraan air yang besar"
+        }
+      ]
+    },
+    {
+      "lema": "an.jir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Par[Parsi: -]",
+          "deskripsi": "tin2"
+        }
+      ]
+    },
+    {
+      "lema": "an.jir3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penanda letak jebakan rajungan, biasanya berupa sebatang kayu atau balok yang diberi warna mencolok: ketika gelombang besar, banyak -- yang hilang"
+        }
+      ]
+    }
+  ]
+}

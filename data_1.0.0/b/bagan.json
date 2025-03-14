@@ -1,0 +1,86 @@
+{
+  "istilah": "bagan",
+  "entri": "ba.gan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bagan akun standar",
+    "bagan alir",
+    "bagan alir program",
+    "bagan arus",
+    "bagan arus administrasi",
+    "bagan arus data",
+    "bagan balok",
+    "bagan balok komponen",
+    "bagan batang",
+    "bagan benda bebas",
+    "bagan kisaran",
+    "bagan lingkar",
+    "bagan logaritmik",
+    "bagan mata",
+    "bagan Nassi-Shneiderman",
+    "bagan organisasi",
+    "bagan pengajaran",
+    "bagan peta",
+    "bagan pohon"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.gan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pangkalan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerangka rumah yang baru didirikan seperti tiang, rusuk, kuda-kuda, atau bubungan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiang dan kayu palang pada para-para penjemur ikan dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gambar rancangan; skema"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "alat peraga grafik untuk menyajikan data agar mempermudah penafsiran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Antr[Antropologi: -]",
+          "deskripsi": "gambaran secara analisis dan statistik tentang proses yang terjadi dalam alam, teknologi, dan masyarakat manusia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "diagram yang memperlihatkan informasi sebagai serangkaian garis atau blok"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tempat menangkap ikan di laut yang menggunakan cadik untuk peletak jala yang dibenamkan, dilengkapi dengan beberapa lampu agar ikan datang mendekatinya"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gan3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "perhentian untuk orang yang mencari kayu atau karet di hutan, berupa atap yang miring ke satu sisi, bertiang empat, dan berlantai panggung rendah: sebelum mencari kayu mereka berkumpul dulu di -- dekat pintu masuk hutan itu"
+        }
+      ]
+    }
+  ]
+}

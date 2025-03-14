@@ -1,0 +1,42 @@
+{
+  "istilah": "awah",
+  "entri": "a.wah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.wah1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "luas, tidak terhalang; banglas"
+        }
+      ]
+    },
+    {
+      "lema": "a.wah2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "lembut hati, tidak tega"
+        }
+      ]
+    },
+    {
+      "lema": "a.wah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "sistem bagi hasil antara pemilik ternak atau tanaman dengan pekerja atas kesepakatan bersama"
+        }
+      ]
+    }
+  ]
+}

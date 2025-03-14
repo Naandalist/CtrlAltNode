@@ -1,0 +1,32 @@
+{
+  "istilah": "apokrifa",
+  "entri": "a.po.kri.fa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.po.kri.fa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "naskah yang diragukan keasliannya atau tak dapat dipercaya karena kemungkinan merupakan naskah palsu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Filol[Filologi: -]",
+          "deskripsi": "yang diragukan keasliannya; tidak dapat dipercaya (tentang asal-usul naskah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "kitab yang tidak masuk kanon dalam gereja"
+        }
+      ]
+    }
+  ]
+}

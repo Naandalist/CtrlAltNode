@@ -1,0 +1,47 @@
+{
+  "istilah": "barah",
+  "entri": "ba.rah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membarah"
+  ],
+  "gabunganKata": [
+    "barah batu",
+    "barah bir",
+    "barah sisip"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.rah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bengkak yang mengandung nanah (karena infeksi); bisul"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kpr[Melayu Kep. Riau: ]",
+          "deskripsi": "lubang besar yang ditimbulkan oleh bisul yang telah pecah"
+        }
+      ]
+    },
+    {
+      "lema": "ba.rah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "permainan lemparan kulit kerang"
+        }
+      ]
+    }
+  ]
+}

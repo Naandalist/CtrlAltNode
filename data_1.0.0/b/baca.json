@@ -1,0 +1,35 @@
+{
+  "istilah": "baca",
+  "entri": "ba.ca",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bacaan",
+    "kepembacaan",
+    "keterbacaan",
+    "membaca",
+    "membaca-baca",
+    "membacai",
+    "membacakan",
+    "pembaca",
+    "pembacaan",
+    "terbaca"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kata, perintah, kalimat, arah, nyanyian, lagu, nasihat",
+    "kataAsal": "vacas"
+  },
+  "data": [
+    {
+      "lema": "ba.ca",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "eja (huruf, tulisan, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

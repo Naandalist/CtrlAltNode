@@ -1,0 +1,72 @@
+{
+  "istilah": "adu",
+  "entri": "a.du1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "aduan",
+    "beradu",
+    "memperadukan",
+    "mengadu",
+    "mengadukan",
+    "pengadu",
+    "pengaduan",
+    "peraduan",
+    "teradu",
+    "teradukan",
+    "beradu"
+  ],
+  "gabunganKata": [
+    "adu bagong",
+    "adu banteng",
+    "adu cepat",
+    "adu jangkrik",
+    "adu jotos",
+    "adu kambing",
+    "adu kekuatan",
+    "adu lari",
+    "adu mulut",
+    "adu nasib",
+    "adu pagar",
+    "adu pandang",
+    "adu penalti"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.du1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pertemukan; sentuh; benturkan; sabung; hasut; tandingkan; sampaikan; timbang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lomba"
+        }
+      ]
+    },
+    {
+      "lema": "a.du2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "beradu"
+        }
+      ]
+    },
+    {
+      "lema": "a.du3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ni[Nias: -]",
+          "deskripsi": "patung kayu pada suku Nias, Sumatera Utara, dipercaya merupakan tempat roh leluhur berdiam"
+        }
+      ]
+    }
+  ]
+}

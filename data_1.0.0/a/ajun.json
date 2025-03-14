@@ -1,0 +1,61 @@
+{
+  "istilah": "ajun",
+  "entri": "a.jun1",
+  "bentukTidakBaku": "ajung2",
+  "kataTurunan": [
+    "terajun",
+    "diajun",
+    "mengajun"
+  ],
+  "gabunganKata": [
+    "ajun aktuaris",
+    "ajun brigadir polisi",
+    "ajun brigadir polisi dua",
+    "ajun brigadir polisi satu",
+    "ajun inspektur polisi dua",
+    "ajun inspektur polisi satu",
+    "ajun komisaris besar polisi",
+    "ajun komisaris polisi",
+    "ajun peneliti madya",
+    "ajun peneliti muda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.jun1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "menyimpang jauh dari sasaran (tujuan)"
+        }
+      ]
+    },
+    {
+      "lema": "a.jun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembantu (dalam jabatan): -- jaksa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok pangkat golongan bintara tinggi dalam kepolisian di bawah perwira tamtama dan di atas bintara, yang mencakup ajun inspektur polisi satu dan ajun inspektur polisi dua"
+        }
+      ]
+    },
+    {
+      "lema": "a.jun3 bentuk tidak baku: ajung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maksud"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "istilah": "ambek",
+  "entri": "am.bek1 /ambêk/",
+  "bentukTidakBaku": "ambeg",
+  "kataTurunan": [
+    "ambekan",
+    "mengambek",
+    "ambekan",
+    "mengambek"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "pikiran atau hati (sebagai pusat emosi, suasana hati, kehendak hati); watak atau sikap, keadaan batin; karakter, suasana jiwa; keinginan, maksud",
+    "kataAsal": "amběk"
+  },
+  "data": [
+    {
+      "lema": "am.bek1 /ambêk/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ambekan; mengambek"
+        }
+      ]
+    },
+    {
+      "lema": "am.bek2 /ambêk/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ambekan; mengambek"
+        }
+      ]
+    },
+    {
+      "lema": "am.bek3 /ambêk/bentuk tidak baku: ambeg",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "watak; tabiat; sifat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "berwatak"
+        }
+      ]
+    }
+  ]
+}

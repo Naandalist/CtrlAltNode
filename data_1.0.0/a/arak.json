@@ -1,0 +1,61 @@
+{
+  "istilah": "arak",
+  "entri": "a.rak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pengarakan",
+    "arak-arakan",
+    "arakan",
+    "berarak",
+    "berarak-arakan",
+    "berarakan",
+    "mengarak",
+    "pengarak",
+    "perarakan",
+    "berarak",
+    "berarakan"
+  ],
+  "gabunganKata": [
+    "arak jawa",
+    "arak obat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "cari:",
+    "kataAsal": "‘araq"
+  },
+  "data": [
+    {
+      "lema": "a.rak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman keras, biasanya dibuat dari beras yang difermentasikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "zat cair mengandung alkohol (seperti wiski, brendi, rum) yang diperoleh dari penyulingan anggur serta zat cair lain dengan kadar etanol rendah"
+        }
+      ]
+    },
+    {
+      "lema": "a.rak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "iring; kirim"
+        }
+      ]
+    },
+    {
+      "lema": "a.rak3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berarak; berarakan"
+        }
+      ]
+    }
+  ]
+}

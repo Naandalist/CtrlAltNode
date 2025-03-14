@@ -1,0 +1,46 @@
+{
+  "istilah": "bangar",
+  "entri": "ba.ngar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ngar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bau busuk seperti bau bangkai"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tulen lagi (tentang rasa air): air di perigi itu --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ngar2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "riuh, gemuruh; ramai; ingar bingar"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ngar3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bl[Bali: -]",
+          "deskripsi": "warna merah kekuning-kuningan (tentang padi)"
+        }
+      ]
+    }
+  ]
+}

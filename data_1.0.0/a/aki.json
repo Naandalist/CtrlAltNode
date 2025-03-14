@@ -1,0 +1,61 @@
+{
+  "istilah": "aki",
+  "entri": "a.ki1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "aki-aki"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ki1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kakek; datuk"
+        }
+      ]
+    },
+    {
+      "lema": "a.ki2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menghimpun tenaga listrik (dipakai pada mesin mobil dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "penghasil dan penyimpan daya listrik hasil reaksi kimia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "peranti untuk mengubah tenaga listrik menjadi tenaga kimia atau sebaliknya"
+        }
+      ]
+    },
+    {
+      "lema": "a.ki3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -] akr[akronim]",
+          "deskripsi": "ayun kiri"
+        }
+      ]
+    },
+    {
+      "lema": "AKI",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "angka kematian ibu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "bela",
+  "entri": "be.la",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membela",
+    "pembela",
+    "pembelaan",
+    "membela",
+    "pembela",
+    "pembelaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "waktu, musim, interval, batas",
+    "kataAsal": "velā"
+  },
+  "data": [
+    {
+      "lema": "be.la",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perihal ikut mati bersama tuannya (suaminya dan sebagainya) dengan jalan bunuh diri: istri yang setia itu telah melakukan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "tuntutan balasan atas orang yang membunuh: menuntut --"
+        }
+      ]
+    },
+    {
+      "lema": "be.la /bêla/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "jaga; pelihara"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "amfiprotik",
+  "entri": "am.fi.pro.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.fi.pro.tik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Kim[Kimia: -]",
+          "deskripsi": "memiliki kemampuan untuk menarik dan melepaskan proton"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "pelarut yang menyumbangkan atau menerima proton, misalnya air dan alkohol"
+        }
+      ]
+    }
+  ]
+}

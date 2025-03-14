@@ -1,0 +1,42 @@
+{
+  "istilah": "ampat",
+  "entri": "am.pat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pat1",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "empat"
+        }
+      ]
+    },
+    {
+      "lema": "am.pat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Ri[Melayu Riau: -]",
+          "deskripsi": "kayu melintang yang menghubungkan tiang jerjak pada atap rumah"
+        }
+      ]
+    },
+    {
+      "lema": "am.pat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sbw[Sumbawa: diubah singkatan label karena ada bahasa ]",
+          "deskripsi": "kipas yang terbuat dari anyaman daun lontar,  biasanya digunakan untuk mengipasi perapian atau tungku"
+        }
+      ]
+    }
+  ]
+}

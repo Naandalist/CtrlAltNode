@@ -1,0 +1,48 @@
+{
+  "istilah": "balut",
+  "entri": "ba.lut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "balutan",
+    "berbalut",
+    "membalut",
+    "membalutkan",
+    "pembalut",
+    "pembalutan",
+    "terbalut",
+    "balut-balut"
+  ],
+  "gabunganKata": [
+    "balut kuku"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "merah dan bengkak (pada mata karena menangis); sayu, berkabut, samar",
+    "kataAsal": "balut"
+  },
+  "data": [
+    {
+      "lema": "ba.lut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(kain dan sebagainya) pengikat atau pembebat luka; barut; pembungkus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembungkus pegangan atau gagang stik dalam olahraga hoki"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lut2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tebal seperti bengkak (tentang pelupuk mata): matanya -- karena menangis"
+        }
+      ]
+    }
+  ]
+}

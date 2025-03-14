@@ -1,0 +1,33 @@
+{
+  "istilah": "ahang",
+  "entri": "a.hang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.hang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Dy[Dayak: -]",
+          "deskripsi": "mati tanpa sebab (tentang hewan), biasanya hanya tersisa bulu atau tulang-belulangnya: seekor orang utan ditemukan -- di hutan itu"
+        }
+      ]
+    },
+    {
+      "lema": "a.hang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "setengah matang (tentang buah): mangga yang masih -- jangan dikupas dulu"
+        }
+      ]
+    }
+  ]
+}

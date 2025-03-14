@@ -1,0 +1,48 @@
+{
+  "istilah": "banci",
+  "entri": "ban.ci1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebancian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Kanton",
+    "arti": "cacah jiwa; sensus",
+    "kataAsal": "bĭn-che̍k"
+  },
+  "data": [
+    {
+      "lema": "ban.ci1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berjenis laki-laki dan juga tidak berjenis perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "laki-laki yang bertingkah laku dan berpakaian sebagai perempuan; wadam; waria"
+        }
+      ]
+    },
+    {
+      "lema": "ban.ci2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mal[Melayu Malaysia: -]",
+          "deskripsi": "cacah jiwa; perhitungan penduduk; sensus"
+        }
+      ]
+    },
+    {
+      "lema": "ban.ci3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "patil besar untuk menarah kayu dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

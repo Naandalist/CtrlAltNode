@@ -1,0 +1,33 @@
+{
+  "istilah": "angkong",
+  "entri": "ang.kong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "permainan kartu",
+    "kataAsal": "âng kong"
+  },
+  "data": [
+    {
+      "lema": "ang.kong1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kereta beroda dua yang dihela orang"
+        }
+      ]
+    },
+    {
+      "lema": "ang.kong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "permainan judi dengan kartu tiga"
+        }
+      ]
+    }
+  ]
+}

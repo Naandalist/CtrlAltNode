@@ -1,0 +1,44 @@
+{
+  "istilah": "bambang",
+  "entri": "bam.bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bersebambangan",
+    "sebambangan",
+    "terbambang",
+    "sebambang"
+  ],
+  "gabunganKata": [
+    "bambang kabayan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bam.bang1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pipih dan (luas) lebar"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kelihatan luas membentang"
+        }
+      ]
+    },
+    {
+      "lema": "bam.bang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim] Huk[Hukum: -]",
+          "deskripsi": "melarikan gadis (di Palembang)"
+        }
+      ]
+    }
+  ]
+}

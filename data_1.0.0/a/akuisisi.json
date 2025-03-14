@@ -1,0 +1,43 @@
+{
+  "istilah": "akuisisi",
+  "entri": "a.ku.i.si.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengakuisisi",
+    "pengakuisisi",
+    "terakuisisi"
+  ],
+  "gabunganKata": [
+    "akuisisi arsip",
+    "akuisisi saham"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ku.i.si.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perolehan; pemerolehan: -- bahasa ibu oleh anak-anak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "masukan (tentang data komputer): -- data direkam dan kemudian diproses komputer"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemindahan kepemilikan perusahaan atau aset (dalam industri perbankan terjadi apabila pembelian saham di atas 50%); pengambilalihan kepemilikan perusahaan atau aset"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "cara memperbesar perusahaan dengan cara memiliki perusahaan lain"
+        }
+      ]
+    }
+  ]
+}

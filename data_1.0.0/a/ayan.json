@@ -1,0 +1,42 @@
+{
+  "istilah": "ayan",
+  "entri": "a.yan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "penyakit ayan",
+    "kataAsal": "ayan"
+  },
+  "data": [
+    {
+      "lema": "a.yan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belek (kaleng); seng (timah sari); besi putih"
+        }
+      ]
+    },
+    {
+      "lema": "a.yan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "epilepsi"
+        }
+      ]
+    },
+    {
+      "lema": "a.yan3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tempat mencuci tangan; cawan; bokor"
+        }
+      ]
+    }
+  ]
+}

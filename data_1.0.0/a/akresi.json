@@ -1,0 +1,36 @@
+{
+  "istilah": "akresi",
+  "entri": "ak.re.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.re.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pertumbuhan dengan penambahan luar bahan baru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "pelekatan bahan pencemar bawaan udara pada benda takbergerak atau bergerak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "pertumbuhan objek masif melalui penarikan atau pengumpulan materi melalui gravitasi, terutama materi bergas, pada cakram akresi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hidm[Hidrometeorologi: -]",
+          "deskripsi": "pertumbuhan zarah es akibat benturan dengan tetesan air"
+        }
+      ]
+    }
+  ]
+}

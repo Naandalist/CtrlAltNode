@@ -1,0 +1,31 @@
+{
+  "istilah": "bandit",
+  "entri": "ban.dit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebanditan",
+    "membandit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.dit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjahat; pencuri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tokoh penjahat dalam cerita drama"
+        }
+      ]
+    }
+  ]
+}

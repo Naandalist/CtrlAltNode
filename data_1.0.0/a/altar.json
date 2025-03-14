@@ -1,0 +1,32 @@
+{
+  "istilah": "altar",
+  "entri": "al.tar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.tar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "meja tempat kurban misa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mazbah (tempat mempersembahkan kurban)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "tangga pada dok gali yang digunakan untuk naik turun ke dan dari lantai dok"
+        }
+      ]
+    }
+  ]
+}

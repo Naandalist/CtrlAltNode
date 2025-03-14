@@ -1,0 +1,24 @@
+{
+  "istilah": "bahasa generasi kedua",
+  "entri": "bahasa1 » bahasa generasi kedua",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa generasi kedua",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman yang terkait dengan bahasa rakit, dapat ditulis secara simbolik (mnemonik) dengan cara yang dapat dipahami manusia dan kemudian diubah menjadi bahasa mesin oleh perakit"
+        }
+      ]
+    }
+  ]
+}

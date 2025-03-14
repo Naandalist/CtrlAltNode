@@ -1,0 +1,46 @@
+{
+  "istilah": "ambar",
+  "entri": "am.bar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "ambar bunga",
+    "ambar darah",
+    "ambar kesturi",
+    "ambar kuning"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "benda laut yang terbawa ombak sampai ke tepi laut; ikan laut yang besar; benda keras yang tak ada rasa dan baunya yang dijadikan pewangi dengan cara dibakar",
+    "kataAsal": "‘anbar"
+  },
+  "data": [
+    {
+      "lema": "am.bar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "damar yang keras seperti batu yang terdapat di dasar laut dan berbau harum (ada yang berasal dari perut ikan laut)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "resin fosil yang digunakan dalam perhiasan, zat celup, dan pernis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "batu ambar; kahrab"
+        }
+      ]
+    },
+    {
+      "lema": "am.bar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ky[Karey: bahasa di Maluku, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "racun untuk menangkap ikan, dibuat dari akar tumbuhan liar yang ditumbuk di atas batu, lalu dicelupkan ke dalam air pada saat air surut"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "belajar",
+  "entri": "ajar1 » bel.a.jar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "belajar jarak jauh",
+    "belajar tuntas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ajar1 » bel.a.jar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berusaha memperoleh kepandaian atau ilmu: adik ~ membaca"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berlatih: ia sedang ~ mengetik; murid-murid itu sedang ~ karate"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berubah tingkah laku atau tanggapan yang disebabkan oleh pengalaman"
+        }
+      ]
+    }
+  ]
+}

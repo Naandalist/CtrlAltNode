@@ -1,0 +1,33 @@
+{
+  "istilah": "anggai",
+  "entri": "ang.gai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.gai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "isyarat: hulubalang itu memberi --, lalu berhamburanlah prajurit menyerbu"
+        }
+      ]
+    },
+    {
+      "lema": "ang.gai2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mu[Muna: -]",
+          "deskripsi": "retak kecil (tentang piring, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

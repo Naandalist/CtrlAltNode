@@ -1,0 +1,33 @@
+{
+  "istilah": "baran",
+  "entri": "ba.ran1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ran1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "hutan yang berawa-rawa atau berpaya-paya"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ran2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "sangat pemarah; lekas marah"
+        }
+      ]
+    }
+  ]
+}

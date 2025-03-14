@@ -1,0 +1,38 @@
+{
+  "istilah": "asung",
+  "entri": "a.sung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "asungan",
+    "mengasung",
+    "pengasung",
+    "mengasung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.sung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "hasut"
+        }
+      ]
+    },
+    {
+      "lema": "a.sung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengasung"
+        }
+      ]
+    }
+  ]
+}

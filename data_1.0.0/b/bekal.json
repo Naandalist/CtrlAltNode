@@ -1,0 +1,41 @@
+{
+  "istilah": "bekal",
+  "entri": "be.kal /bêkal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bekal-bekalan",
+    "berbekal",
+    "berbekalkan",
+    "membekali",
+    "membekalkan",
+    "pembekal",
+    "pembekalan",
+    "perbekalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.kal /bêkal/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang disediakan (seperti makanan, uang) untuk digunakan dalam perjalanan: mereka membawa -- dalam perjalanan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang dapat digunakan kelak apabila perlu: ilmu pengetahuan adalah -- untuk hari tua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "modal: -- saya dalam menempuh hidup hanyalah keberanian dan kejujuran"
+        }
+      ]
+    }
+  ]
+}

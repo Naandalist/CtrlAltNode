@@ -1,0 +1,30 @@
+{
+  "istilah": "bandara",
+  "entri": "ban.da.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebandaraan"
+  ],
+  "gabunganKata": [
+    "bandara alternatif",
+    "bandara internasional",
+    "bandara luar negeri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.da.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "bandar udara"
+        }
+      ]
+    }
+  ]
+}

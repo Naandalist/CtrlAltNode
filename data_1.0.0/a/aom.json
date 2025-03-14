@@ -1,0 +1,33 @@
+{
+  "istilah": "aom",
+  "entri": "a.om1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.om1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "gelar untuk anak bupati zaman dulu"
+        }
+      ]
+    },
+    {
+      "lema": "a.om2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "anak laba-laba"
+        }
+      ]
+    }
+  ]
+}

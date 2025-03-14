@@ -1,0 +1,40 @@
+{
+  "istilah": "aris",
+  "entri": "a.ris1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beraris",
+    "berariskan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ris1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepi atau kelim yang dibuat dari rotan, tali, dan sebagainya (pada kain, layar, jaring, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali pukat (jaring besar) yang mengapung"
+        }
+      ]
+    },
+    {
+      "lema": "a.ris2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "getah pohon yang sudah beku"
+        }
+      ]
+    }
+  ]
+}

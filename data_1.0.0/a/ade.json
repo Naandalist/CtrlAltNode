@@ -1,0 +1,33 @@
+{
+  "istilah": "ade",
+  "entri": "a.de1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.de1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dn[Dani: Bahasa di Papua]",
+          "deskripsi": "pegangan kantong atau noken"
+        }
+      ]
+    },
+    {
+      "lema": "a.de2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bg[Bugis: -]",
+          "deskripsi": "tata urutan hubungan kekerabatan pada masyarakat suku Bugis di Sulawesi"
+        }
+      ]
+    }
+  ]
+}

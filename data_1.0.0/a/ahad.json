@@ -1,0 +1,30 @@
+{
+  "istilah": "ahad",
+  "entri": "A.had bentuk tidak baku: Akad2",
+  "bentukTidakBaku": "Akad2",
+  "kataTurunan": [
+    "mengahadkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tunggal; satu; hari pertama pada masa pra-Islam (jahiliah)",
+    "kataAsal": "aḥad"
+  },
+  "data": [
+    {
+      "lema": "A.had bentuk tidak baku: Akad2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hari pertama dalam jangka waktu satu minggu; Minggu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ditulis dengan huruf kecil) satu; esa"
+        }
+      ]
+    }
+  ]
+}

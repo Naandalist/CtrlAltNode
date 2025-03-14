@@ -1,0 +1,32 @@
+{
+  "istilah": "antialergi",
+  "entri": "an.ti.a.ler.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.ti.a.ler.gi",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat mencegah atau mengendalikan alergi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat yang berkhasiat mencegah atau mengendalikan alergi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat penahan dan pencegah alergi"
+        }
+      ]
+    }
+  ]
+}

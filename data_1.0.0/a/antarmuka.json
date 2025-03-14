@@ -1,0 +1,44 @@
+{
+  "istilah": "antarmuka",
+  "entri": "an.tar.mu.ka",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "antarmuka manipulasi langsung",
+    "antarmuka manusia-mesin",
+    "antarmuka pengguna",
+    "antarmuka pengguna grafis",
+    "antarmuka pengguna keahlian beragam",
+    "antarmuka sistem operasi portabel",
+    "antarmuka teks"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.tar.mu.ka",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "hubungan atau batasan umum antara dua unit atau alat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "batasan umum antara sistem pengolahan data otomatis atau bagian suatu sistem tunggal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "perangkat lunak yang memungkinkan program untuk bekerja dengan pengguna"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "kartu, colokan, atau perangkat lain yang menghubungkan perangkat keras dengan komputer sehingga informasi dapat dipindahkan dari satu tempat ke tempat lainnya"
+        }
+      ]
+    }
+  ]
+}

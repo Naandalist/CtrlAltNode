@@ -1,0 +1,41 @@
+{
+  "istilah": "anteng",
+  "entri": "an.teng1 /antêng/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.teng1 /antêng/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tenang; diam, tidak menangis atau rewel, dan sebagainya (tentang anak-anak)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tidak banyak tingkah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "senang tinggal di rumah (tidak banyak keluar rumah)"
+        }
+      ]
+    },
+    {
+      "lema": "an.teng2 /antêng/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selendang yang diikatkan di pinggang dalam acara peribadatan di Bali"
+        }
+      ]
+    }
+  ]
+}

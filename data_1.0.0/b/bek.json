@@ -1,0 +1,33 @@
+{
+  "istilah": "bek",
+  "entri": "bek1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bek1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kepala kampung (pada zaman penjajahan Belanda)"
+        }
+      ]
+    },
+    {
+      "lema": "bek2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pemain belakang dalam permainan sepak bola yang bertugas menghalangi agar bola tidak mendekat ke gawang"
+        }
+      ]
+    }
+  ]
+}

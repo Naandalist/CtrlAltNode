@@ -1,0 +1,33 @@
+{
+  "istilah": "bap",
+  "entri": "bap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi barang jatuh di tanah lembut dan sebagainya; debap"
+        }
+      ]
+    },
+    {
+      "lema": "BAP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "berita acara pemeriksaan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "istilah": "balar",
+  "entri": "ba.lar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "putih karena bulai (tentang kerbau)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "keputih-putihan (tentang mata): matanya --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Klm[Melayu Kalimantan: -]",
+          "deskripsi": "lebam berwarna biru dan bengkak memanjang karena bekas pukulan"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "balai arkeologi"
+        }
+      ]
+    }
+  ]
+}

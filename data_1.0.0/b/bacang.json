@@ -1,0 +1,37 @@
+{
+  "istilah": "bacang",
+  "entri": "ba.cang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "penganan dari beras (ketan) yang diisi daging dan dibungkus daun bambu berbentuk segitiga",
+    "kataAsal": "bah tsàng"
+  },
+  "data": [
+    {
+      "lema": "ba.cang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "pohon yang tingginya mencapai 42 m, daun elips memanjang, bunga berbentuk malai, berwarna putih kemerahan, buah pelok berdaging, berwarna hijau kemerahan, berbentuk bulat telur dan berbiji besar, rasanya asam agak manis, digunakan sebagai campuran dalam minuman atau dibuat rujak, getah digunakan sebagai obat atau untuk rajah〔Mangifera foetida〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah bacang"
+        }
+      ]
+    },
+    {
+      "lema": "ba.cang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penganan yang terbuat dari beras (ketan) yang diisi daging, dibungkus daun bambu seperti lepat, dan dikukus"
+        }
+      ]
+    }
+  ]
+}

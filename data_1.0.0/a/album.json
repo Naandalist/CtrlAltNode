@@ -1,0 +1,38 @@
+{
+  "istilah": "album",
+  "entri": "al.bum",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "album mini"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.bum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku tempat menyimpan kumpulan foto (potret), prangko, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan piringan hitam, kaset lagu-lagu, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan lagu dalam rekaman kaset: -- terbarunya yang sudah muncul tahun ini berisi lagu ciptaannya sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku yang berisi antologi"
+        }
+      ]
+    }
+  ]
+}

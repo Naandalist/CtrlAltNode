@@ -1,0 +1,48 @@
+{
+  "istilah": "bang",
+  "entri": "bang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengebangkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "azan"
+        }
+      ]
+    },
+    {
+      "lema": "bang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada kakak laki-laki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "abang"
+        }
+      ]
+    },
+    {
+      "lema": "bang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi barang jatuh, meletup, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "anginan",
+  "entri": "a.ngi.nan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ngi.nan1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "sebidang sawah yang dimiliki orang banyak seperti tanah ulayat"
+        }
+      ]
+    },
+    {
+      "lema": "a.ngi.nan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Jw[Jawa: -]",
+          "deskripsi": "polisi tanpa pangkat pada zaman dahulu: banyak pensiunan polisi yang sekitar tahun 60-an sebagai --"
+        }
+      ]
+    }
+  ]
+}

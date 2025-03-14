@@ -1,0 +1,33 @@
+{
+  "istilah": "basil",
+  "entri": "ba.sil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.sil1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bakteri yang berbentuk batang"
+        }
+      ]
+    },
+    {
+      "lema": "ba.sil2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selasih"
+        }
+      ]
+    }
+  ]
+}

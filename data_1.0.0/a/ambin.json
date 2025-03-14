@@ -1,0 +1,47 @@
+{
+  "istilah": "ambin",
+  "entri": "am.bin1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ambinan",
+    "berambin",
+    "mengambin",
+    "pengambin"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.bin1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain (tali dan sebagainya) pengikat anak (barang dan sebagainya) yang digendong"
+        }
+      ]
+    },
+    {
+      "lema": "am.bin2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ amben"
+        }
+      ]
+    },
+    {
+      "lema": "am.bin3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "pakaian yang dikenakan sapi pada saat karapan  sebagai simbol kebesaran"
+        }
+      ]
+    }
+  ]
+}

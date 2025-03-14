@@ -1,0 +1,32 @@
+{
+  "istilah": "arbitrase",
+  "entri": "ar.bit.ra.se /arbitrasê/bentuk tidak baku: arbitrasi",
+  "bentukTidakBaku": "arbitrasi",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.bit.ra.se /arbitrasê/bentuk tidak baku: arbitrasi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dag[Perdagangan: -]",
+          "deskripsi": "pembelian dan penjualan secara simultan atas barang yang sama di dalam dua pasar atau lebih dengan harapan akan memperoleh laba dari perbedaan harganya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "usaha perantara dalam meleraikan sengketa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "bentuk peradilan yang dilaksanakan atas dasar kesepakatan antara pihak-pihak yang berselisih dan dimediasi oleh hakim yang telah mereka pilih sendiri"
+        }
+      ]
+    }
+  ]
+}

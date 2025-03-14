@@ -1,0 +1,45 @@
+{
+  "istilah": "amil",
+  "entri": "a.mil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "amil zakat",
+    "amil asetat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pekerja",
+    "kataAsal": "‘āmil"
+  },
+  "data": [
+    {
+      "lema": "a.mil1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembantu tidak tetap pada kantor urusan agama dalam hal pernikahan dan hal-hal yang berkenaan dengan urusan agama"
+        }
+      ]
+    },
+    {
+      "lema": "a.mil2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "siput laut〔Fusus longissimus〕"
+        }
+      ]
+    },
+    {
+      "lema": "a.mil3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "beragam radikal alkil isomerik, turunan pentana〈C5H11〉"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "balung",
+  "entri": "ba.lung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbalung"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jengger"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -] Jw[Jawa]",
+          "deskripsi": "tulang: anjing-anjing itu berebut -- yang dilemparkan tuannya"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "hantu yang berupa ular besar yang melancar di air; hantu badai"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "tempat menyepuh parang"
+        }
+      ]
+    }
+  ]
+}

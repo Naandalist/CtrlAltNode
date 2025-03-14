@@ -1,0 +1,70 @@
+{
+  "istilah": "babar",
+  "entri": "ba.bar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membabar",
+    "membabarkan",
+    "pembabaran",
+    "terbabar",
+    "membabar",
+    "pembabar",
+    "pembabaran",
+    "babaran",
+    "kebabaran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.bar1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ bebar"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bar2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bentang"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bar3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membabar; pembabar; pembabaran"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bar4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menjadi banyak; membiak; bertambah"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bar5",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "kebabaran"
+        }
+      ]
+    }
+  ]
+}

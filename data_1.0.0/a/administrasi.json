@@ -1,0 +1,49 @@
+{
+  "istilah": "administrasi",
+  "entri": "ad.mi.nis.tra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengadministrasikan",
+    "pengadministrasian"
+  ],
+  "gabunganKata": [
+    "administrasi arsip",
+    "administrasi kearsipan",
+    "administrasi kependudukan",
+    "administrasi perpustakaan",
+    "administrasi program"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ad.mi.nis.tra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "usaha dan kegiatan yang meliputi penetapan tujuan serta penetapan cara-cara penyelenggaraan pembinaan organisasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "usaha dan kegiatan yang berkaitan dengan penyelenggaraan kebijakan untuk mencapai tujuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kegiatan yang berkaitan dengan penyelenggaraan pemerintahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kegiatan kantor dan tata usaha"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemerintah atau lembaga pemerintah"
+        }
+      ]
+    }
+  ]
+}

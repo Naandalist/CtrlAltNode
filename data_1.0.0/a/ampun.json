@@ -1,0 +1,51 @@
+{
+  "istilah": "ampun",
+  "entri": "am.pun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ampunan",
+    "ampuni",
+    "keampunan",
+    "mengampun",
+    "mengampuni",
+    "mengampunkan",
+    "pengampun",
+    "pengampunan",
+    "terampuni"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembebasan dari tuntutan karena melakukan kesalahan atau kekeliruan; maaf: ia selalu berdoa dan memohon -- atas segala dosa dan kesalahannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata yang menyatakan rasa heran (kesal) dan sebagainya: --, anak ini nakalnya bukan main"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bukan main: aduh baunya, --, deh"
+        }
+      ]
+    },
+    {
+      "lema": "am.pun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "panggilan untuk raja di daerah Gayo Aceh Tengah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "bahasa generasi pertama",
+  "entri": "bahasa1 » bahasa generasi pertama",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa generasi pertama",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman berupa bahasa tingkat mesin yang dirancang untuk berjalan pada prosesor komputer generasi pertama"
+        }
+      ]
+    }
+  ]
+}

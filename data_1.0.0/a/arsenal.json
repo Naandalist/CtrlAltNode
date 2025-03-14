@@ -1,0 +1,33 @@
+{
+  "istilah": "arsenal",
+  "entri": "ar.se.nal1 /arsênal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.se.nal1 /arsênal/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangunan permanen tempat penyimpanan, pembuatan, dan perbaikan senjata, amunisi, dan alat-alat perang lain"
+        }
+      ]
+    },
+    {
+      "lema": "ar.se.nal2 /arsênal/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "artileri senjata Angkatan Laut"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "istilah": "bangas",
+  "entri": "ba.ngas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bangas merah",
+    "bangas putih"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ngas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama pohon, ada beberapa macam"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ngas2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bjr[Banjar: -]",
+          "deskripsi": "bau busuk (seperti bau rumput terendam)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ngas3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan air tawar yang ukurannya di bawah 20 cm, tubuhnya pipih memanjang, warnanya perak kekuningan dengan dua garis vertikal berwarna hitam, tersebar di perairan Sarawak dan Kalimantan Barat〔Barbodes kuchingensis〕"
+        }
+      ]
+    }
+  ]
+}

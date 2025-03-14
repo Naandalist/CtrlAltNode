@@ -1,0 +1,35 @@
+{
+  "istilah": "badut",
+  "entri": "ba.dut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membadut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.dut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelawak (dalam pertunjukan dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.dut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "poleng2"
+        }
+      ]
+    }
+  ]
+}

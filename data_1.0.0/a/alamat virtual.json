@@ -1,0 +1,24 @@
+{
+  "istilah": "alamat virtual",
+  "entri": "alamat » alamat virtual",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "alamat » alamat virtual",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "angka biner dalam memori virtual yang memungkinkan sebuah proses untuk menggunakan lokasi dan ruang dalam memori utama secara mandiri"
+        }
+      ]
+    }
+  ]
+}

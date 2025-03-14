@@ -1,0 +1,28 @@
+{
+  "istilah": "barid",
+  "entri": "ba.rid",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "utusan",
+    "kataAsal": "barīd"
+  },
+  "data": [
+    {
+      "lema": "ba.rid",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "utusan (yang mengantarkan surat dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pos"
+        }
+      ]
+    }
+  ]
+}

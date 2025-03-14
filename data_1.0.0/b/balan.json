@@ -1,0 +1,33 @@
+{
+  "istilah": "balan",
+  "entri": "ba.lan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu dan sebagainya yang menghalang aliran air dalam sungai"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lan2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "janda"
+        }
+      ]
+    }
+  ]
+}

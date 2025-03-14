@@ -1,0 +1,69 @@
+{
+  "istilah": "belok",
+  "entri": "be.lok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "belokan",
+    "berbelok",
+    "berbelok-belok",
+    "membelok",
+    "membelokkan",
+    "pembelok",
+    "pembelokan",
+    "membelok",
+    "pembelokan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.lok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berubah arah atau haluan (ke kanan atau kiri)"
+        }
+      ]
+    },
+    {
+      "lema": "be.lok1 /bêlok/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "becek; berlumpur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah becek, tetapi agak keras sehingga melekat jika diinjak"
+        }
+      ]
+    },
+    {
+      "lema": "be.lok2 /bêlok/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "besar dan lebar (tentang mata)"
+        }
+      ]
+    },
+    {
+      "lema": "be.lok3 /bêlok/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerek besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasung (kayu untuk membelenggu kaki)"
+        }
+      ]
+    }
+  ]
+}

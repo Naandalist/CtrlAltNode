@@ -1,0 +1,46 @@
+{
+  "istilah": "alkah",
+  "entri": "al.kah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.kah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "darah beku (bakal bayi dalam kandungan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "hati kecil"
+        }
+      ]
+    },
+    {
+      "lema": "al.kah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "tanah yang tidak dikerjakan, tetapi pembuka tanah atau keturunannya masih mempunyai hak utama atas tanah itu"
+        }
+      ]
+    },
+    {
+      "lema": "al.kah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "perkuburan muslim"
+        }
+      ]
+    }
+  ]
+}

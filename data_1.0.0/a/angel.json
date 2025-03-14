@@ -1,0 +1,33 @@
+{
+  "istilah": "angel",
+  "entri": "a.ngel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ngel1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "sukar; sulit"
+        }
+      ]
+    },
+    {
+      "lema": "a.ngel2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ri[Melayu Riau: -]",
+          "deskripsi": "kesepian (tentang orang tua yang ditinggal anak-anaknya): dia -- di rumahnya sejak anaknya menikah dan pergi ke kampung sebelah"
+        }
+      ]
+    }
+  ]
+}

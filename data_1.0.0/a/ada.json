@@ -1,0 +1,63 @@
+{
+  "istilah": "ada",
+  "entri": "a.da1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ada-adanya",
+    "ada-adanyakah",
+    "adakah",
+    "adanya",
+    "berada",
+    "berada-ada",
+    "berkeadaan",
+    "keadaan",
+    "keberadaan",
+    "mengada-ada",
+    "mengada-adakan",
+    "mengadakan",
+    "pengada",
+    "pengadaan",
+    "seadanya"
+  ],
+  "gabunganKata": [
+    "ada kalanya",
+    "ada main",
+    "ada-ada saja"
+  ],
+  "peribahasa": [
+    "ada adat dan lembaganya, ada undang dan laksananya; ada air ada ikan; ada angin, ada pohonnya (hujan berpohon, panas berasal); ada bangkai, ada hering; ada batang cendawan tumbuh; ada bau, ada bangkainya; ada beras, taruh dalam padi; ada biduk, serempu pula; ada biduk, serempu pula; ada bunga ada lebah; ada gula, ada semut; ada gula, ada semut; ada hari, ada nasi; ada hujan ada panas, ada hari boleh balas; ada jarum hendaklah ada benangnya; ada kepala tidak mematuk, ada buntut tidak melilit; ada nasi di balik kerak; ada nyawa (umur), ada rezeki; ada nyawa, ada ikan; ada padi, segala menjadi; ada perahu mau berenang; ada rotan, ada duri; ada rupa, ada harga; ada sama dimakan, tidak ada sama dicari; ada sampan, hendak berenang; ada seperti tampaknya apung-apung; ada sirih hendak makan sepah; ada tugal ada benih; ada uang abang (di)sayang, tak ada uang abang melayang; ada uang, ada barang; ada ubi ada talas, ada budi ada balas; ada udang (berudang) di balik batu; ada udang di balik batu; adapun kata ada pangkalnya; asal ada sama di hati, gajah terantai boleh dilepaskan; asal ada, kecil pun pada; bagai si bisu berasian (bermimpi), terasa ada terkatakan tidak; cekur jerangau, ada lagi di ubun-ubun; daripada cempedak lebih baik nangka, daripada tidak, lebih baik ada; jika belalang ada seekor, jika emas ada miang; jikalau tidak berada-ada (ada berada, ada mengada), masakan tempua bersarang rendah; kalau tak ada angin, takkan pokok bergoyang; kalau tak ada api, masakan ada asap; lagi ada jangan dimakan, sudah habis baru dimakan; mudah juga pada yang ada, sukar jua pada yang tidak; pecah anak buyung, tempayan ada; pecah buyung, tempayan ada; sampan ada, pengayuh tidak; sebuah lesung ada seekor ayam jantannya (atau pemimpinnya); semanis-manis gula, ada pasir di dalamnya (manis-manis gula berpasir jua, sepahit-pahit jadam menjadi obat); sia-sia menjaring angin, terasa ada, tertangkap tidak; sia-sia menjaring angin, terasa ada, tertangkap tidak; tak ada beras yang akan ditanak; tak ada gading yang tak retak; tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta; tak ada kusut yang tak selesai; tak ada laut yang tak berombak; tak ada padi yang bernas setangkai; tak ada pendekar yang tak bulus; tidak ada orang menggaruk ke luar badan; untung ada, tuah tiada"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.da1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "hadir; telah sedia: ia -- di sana"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mempunyai: ia tidak -- uang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "benar; sungguh (untuk menguatkan sebutan): ia -- menerima surat itu"
+        }
+      ]
+    },
+    {
+      "lema": "A.da2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman tingkat tinggi yang didesain di bawah pengarahan Departemen Pertahanan Amerika Serikat dan ditujukan untuk menjadi bahasa utama dalam pengembangan perangkat lunak di Departemen Pertahanan Amerika Serikat"
+        }
+      ]
+    }
+  ]
+}

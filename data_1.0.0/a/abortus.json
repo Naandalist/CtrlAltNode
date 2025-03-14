@@ -1,0 +1,42 @@
+{
+  "istilah": "abortus",
+  "entri": "a.bor.tus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "abortus habitualis",
+    "abortus iminens",
+    "abortus inkomplet",
+    "abortus insipiens",
+    "abortus komplet",
+    "abortus provokatus",
+    "abortus spontan",
+    "abortus terancam",
+    "abortus terapeutik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bor.tus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "fetus dengan berat kurang dari 500 g pada saat dikeluarkan dari uterus, yang tidak mempunyai kemungkinan hidup"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "guguran (janin)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan terhentinya pertumbuhan yang normal (tentang makhluk hidup)"
+        }
+      ]
+    }
+  ]
+}

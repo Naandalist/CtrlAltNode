@@ -1,0 +1,32 @@
+{
+  "istilah": "bajul",
+  "entri": "ba.jul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membajul"
+  ],
+  "gabunganKata": [
+    "bajul buntung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "buaya",
+    "kataAsal": "bajul"
+  },
+  "data": [
+    {
+      "lema": "ba.jul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "buaya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -] ki[kiasan]",
+          "deskripsi": "penjahat; pencuri; pencopet"
+        }
+      ]
+    }
+  ]
+}

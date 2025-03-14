@@ -1,0 +1,39 @@
+{
+  "istilah": "baka",
+  "entri": "ba.ka1 bentuk tidak baku: baqa",
+  "bentukTidakBaku": "baqa",
+  "kataTurunan": [
+    "kebakaan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kekekalan",
+    "kataAsal": "baqā’"
+  },
+  "data": [
+    {
+      "lema": "ba.ka1 bentuk tidak baku: baqa",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berubah selama-lamanya; abadi; kekal"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ka2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "keluarga yang menurunkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "asal keturunan"
+        }
+      ]
+    }
+  ]
+}

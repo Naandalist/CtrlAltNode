@@ -1,0 +1,32 @@
+{
+  "istilah": "acarya",
+  "entri": "a.car.ya",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.car.ya",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hin[Agama Hindu: -]",
+          "deskripsi": "guru yang mengajarkan susastra Weda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hin[Agama Hindu: -]",
+          "deskripsi": "pendamping spiritual bagi para siswa atau murid di pasraman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hin[Agama Hindu: -]",
+          "deskripsi": "pandita yang memiliki tugas dan kewajiban sebagai guru agama atau guru kerohanian yang mengajarkan Weda"
+        }
+      ]
+    }
+  ]
+}

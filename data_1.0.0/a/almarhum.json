@@ -1,0 +1,32 @@
+{
+  "istilah": "almarhum",
+  "entri": "al.mar.hum bentuk tidak baku: marhum",
+  "bentukTidakBaku": "marhum",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pria yang dirahmati; pria yang telah meninggal",
+    "kataAsal": "al-marḥūm"
+  },
+  "data": [
+    {
+      "lema": "al.mar.hum bentuk tidak baku: marhum",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang dirahmati Allah (sebutan kepada orang Islam yang telah meninggal)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang telah meninggal; mendiang: di ruang tamu tergantung lukisan besar -- Jenderal Sudirman"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "meninggal dunia: ia bekerja menggantikan kakaknya yang sudah --"
+        }
+      ]
+    }
+  ]
+}

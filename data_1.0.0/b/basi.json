@@ -1,0 +1,94 @@
+{
+  "istilah": "basi",
+  "entri": "ba.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebasian",
+    "membasi",
+    "membasikan",
+    "membasi",
+    "membasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.si1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mulai berbau tidak sedap atau berasa masam karena sudah mengalami pembusukan (tentang makanan): nasi itu sudah --, jangan dimakan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah lama diketahui atau dibicarakan orang: malas rasanya mendengarkan cerita yang sudah --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak manjur (tentang mantra): segala mantranya -- belaka"
+        }
+      ]
+    },
+    {
+      "lema": "ba.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang yang ditambahkan (untuk cadangan atau persediaan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tambahan (tugas, pekerjaan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang potongan (yang diambil ketika menukarkan uang besar dengan uang kecil)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "potongan harga (jika membeli barang banyak)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.si3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pinggan besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "periuk yang terbuat dari tembaga atau logam untuk memasak pada saat melaut berhari-hari"
+        }
+      ]
+    },
+    {
+      "lema": "ba.si4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah yang bentuknya menyerupai buah semangka, terbuat dari tanah liat, mempunyai tutup dan pegangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kls[Kulisusu: bahasa di Provinsi Sulawesi Tenggara, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "panci yang mempunyai tutup dan bertelinga pada kedua sisinya"
+        }
+      ]
+    },
+    {
+      "lema": "ba.si5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "bintara seksi"
+        }
+      ]
+    }
+  ]
+}

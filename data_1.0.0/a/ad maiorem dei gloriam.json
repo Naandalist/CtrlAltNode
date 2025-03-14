@@ -1,0 +1,33 @@
+{
+  "istilah": "ad maiorem dei gloriam",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Lt[Latin: -]",
+          "deskripsi": "demi (untuk) kemuliaan nama Tuhan"
+        }
+      ]
+    },
+    {
+      "lema": "ad maiorem Dei gloriam",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Latin: -]",
+          "deskripsi": "demi (untuk) kemuliaan nama Tuhan"
+        }
+      ]
+    }
+  ]
+}

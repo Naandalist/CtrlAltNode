@@ -1,0 +1,37 @@
+{
+  "istilah": "alung",
+  "entri": "a.lung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang (gundu, mata uang, bola kecil, atau keping logam) yang dilemparkan pada sasaran dalam permainan anak-anak"
+        }
+      ]
+    },
+    {
+      "lema": "a.lung2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sb[Sabu: Ditambahkan karena cukup banyak sumbangan dari bahasa ini]",
+          "deskripsi": "berteduh supaya sejuk"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sbw[Sumbawa: diubah singkatan label karena ada bahasa ]",
+          "deskripsi": "tumbuhan yang tumbuh di bawah pohon lain sehingga tumbuhnya tidak normal"
+        }
+      ]
+    }
+  ]
+}

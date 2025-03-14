@@ -1,0 +1,48 @@
+{
+  "istilah": "akhir",
+  "entri": "a.khir bentuk tidak baku: ahir",
+  "bentukTidakBaku": "ahir",
+  "kataTurunan": [
+    "akhir-akhirnya",
+    "akhiran",
+    "akhirnya",
+    "berakhir",
+    "berakhiran",
+    "berakhirkan",
+    "mengakhiri",
+    "mengakhirkan",
+    "pengakhiran",
+    "terakhir"
+  ],
+  "gabunganKata": [
+    "akhir bulan",
+    "akhir kata",
+    "akhir klimaks",
+    "akhir larva",
+    "akhir minggu",
+    "akhir pekan",
+    "akhir tahun",
+    "akhir zaman"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "belakang; zat yang kekal",
+    "kataAsal": "ākhir"
+  },
+  "data": [
+    {
+      "lema": "a.khir bentuk tidak baku: ahir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "belakang; yang belakang sekali; kemudian: suku kata yang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesudahan; penghabisan: pada -- tahun ini"
+        }
+      ]
+    }
+  ]
+}

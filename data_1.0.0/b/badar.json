@@ -1,0 +1,60 @@
+{
+  "istilah": "badar",
+  "entri": "ba.dar1 bentuk tidak baku: wadar, wader",
+  "bentukTidakBaku": "wadar, wader",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "badar bara",
+    "badar mersik"
+  ],
+  "peribahasa": [
+    "beroleh badar tertimbakan; kalau pandai menggulai badar pun menjadi tenggiri; kalau pandai menggulai, badar jadi tenggiri; melonjak badar, melonjak gerundang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bulan purnama",
+    "kataAsal": "badr"
+  },
+  "data": [
+    {
+      "lema": "ba.dar1 bentuk tidak baku: wadar, wader",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan kecil-kecil (seperti teri); ikan sia; ikan sia-sia〔Stolephorus spp.〕"
+        }
+      ]
+    },
+    {
+      "lema": "ba.dar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "nama lauk-pauk"
+        }
+      ]
+    },
+    {
+      "lema": "ba.dar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "purnama (tentang bulan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -] ki[kiasan]",
+          "deskripsi": "sangat cantik: mukanya seperti bulan -- waktu malam"
+        }
+      ]
+    },
+    {
+      "lema": "ba.dar4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu hablur untuk permata cincin (batu dari Badar, tempat Nabi Muhammad saw. memperoleh kemenangan besar)"
+        }
+      ]
+    }
+  ]
+}

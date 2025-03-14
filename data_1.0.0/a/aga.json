@@ -1,0 +1,64 @@
+{
+  "istilah": "aga",
+  "entri": "a.ga1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beraga",
+    "keagaan",
+    "mengagakan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ga1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "angkuh; sombong: ibu itu -- juga atas kepandaian anak tunggalnya"
+        }
+      ]
+    },
+    {
+      "lema": "a.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "krustasea parasit yang hidup di lingkungan laut, payau, dan air tawar, mengisap darah ikan dengan cara menempel pada tubuh ikan dengan alat pengisap dan kait〔Argulus spp.〕"
+        }
+      ]
+    },
+    {
+      "lema": "a.ga3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Wl[Wolio: -]",
+          "deskripsi": "memandang dengan maksud mentertawai atau menantang: sebelum bertengkar, kakak -- adik"
+        }
+      ]
+    },
+    {
+      "lema": "A.ga1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar bangsawan di Turki, yang juga digunakan di India, Pakistan, Bangladesh: -- Khan"
+        }
+      ]
+    },
+    {
+      "lema": "A.ga2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penduduk asli Pulau Bali: orang Bali --"
+        }
+      ]
+    }
+  ]
+}

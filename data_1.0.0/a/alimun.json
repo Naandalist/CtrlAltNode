@@ -1,0 +1,33 @@
+{
+  "istilah": "alimun",
+  "entri": "a.li.mun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.li.mun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan pekerja yang sebenarnya sudah tidak produktif"
+        }
+      ]
+    },
+    {
+      "lema": "a.li.mun2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "serba tahu"
+        }
+      ]
+    }
+  ]
+}

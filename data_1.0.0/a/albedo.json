@@ -1,0 +1,32 @@
+{
+  "istilah": "albedo",
+  "entri": "al.be.do",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.be.do",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "fraksi (bagian) pantulan cahaya yang datang ke suatu permukaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "faktor pantulan (refleksi) sebuah permukaan, seperti parafin terhadap neutron"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hidm[Hidrometeorologi: -]",
+          "deskripsi": "ukuran besar daya pantul permukaan, yaitu bagian permukaan sinaran datang, seluruhnya atau monokromatik, yang dipantulkan oleh permukaan tersebut"
+        }
+      ]
+    }
+  ]
+}

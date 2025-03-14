@@ -1,0 +1,52 @@
+{
+  "istilah": "aku",
+  "entri": "a.ku1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "akuan",
+    "beraku",
+    "beraku-akuan",
+    "keakuan",
+    "mengaku",
+    "mengakui",
+    "mengakukan",
+    "pengaku",
+    "pengakuan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ku1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata ganti orang pertama yang berbicara atau yang menulis (dalam ragam akrab); diri sendiri; saya"
+        }
+      ]
+    },
+    {
+      "lema": "a.ku2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "anggaran dan keuangan"
+        }
+      ]
+    },
+    {
+      "lema": "A.ku3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Li'o"
+        }
+      ]
+    }
+  ]
+}

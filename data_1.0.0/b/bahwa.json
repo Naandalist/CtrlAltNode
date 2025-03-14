@@ -1,0 +1,28 @@
+{
+  "istilah": "bahwa",
+  "entri": "bah.wa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "eksistensi, kehadiran; status, kondisi, situasi; esensi; menjadi",
+    "kataAsal": "bhāva"
+  },
+  "data": [
+    {
+      "lema": "bah.wa",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata penghubung untuk menyatakan isi atau uraian bagian kalimat yang di depan: ia mengira -- hari ini libur"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata penghubung untuk mendahului anak kalimat yang menjadi pokok kalimat: -- ia seorang anggota DPR, memang benar"
+        }
+      ]
+    }
+  ]
+}

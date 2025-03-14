@@ -1,0 +1,33 @@
+{
+  "istilah": "ampelas",
+  "entri": "am.pe.las /ampêlas/bentuk tidak baku: empelas, amplas",
+  "bentukTidakBaku": "empelas, amplas",
+  "kataTurunan": [
+    "mengampelas",
+    "mengampelasi",
+    "pengampelas",
+    "pengampelasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pe.las /ampêlas/bentuk tidak baku: empelas, amplas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "pohon yang tingginya mencapai 20 m, buah kecil membulat berwarna kuning, merah, dan cokelat, daun membundar telur dan kasap, digunakan untuk melicinkan kayu dan sebagainya; rempelas〔Ficus ampelas〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kertas yang berlapis serbuk kaca dan sebagainya untuk menggosok (melicinkan) kayu, besi, dan sebagainya; amril"
+        }
+      ]
+    }
+  ]
+}

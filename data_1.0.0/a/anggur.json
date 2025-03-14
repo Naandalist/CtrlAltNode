@@ -1,0 +1,71 @@
+{
+  "istilah": "anggur",
+  "entri": "ang.gur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menganggur",
+    "penganggur",
+    "pengangguran",
+    "angguran",
+    "menganggur",
+    "angguran"
+  ],
+  "gabunganKata": [
+    "anggur beranak",
+    "anggur kering",
+    "anggur laut",
+    "anggur merah",
+    "anggur obat",
+    "anggur papua",
+    "anggur putih"
+  ],
+  "peribahasa": [
+    "serigala dengan anggur"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.gur1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "menganggur; penganggur; pengangguran"
+        }
+      ]
+    },
+    {
+      "lema": "ang.gur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keratan cabang atau batang yang akan ditanam; setek"
+        }
+      ]
+    },
+    {
+      "lema": "ang.gur3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan merambat, buahnya kecil-kecil sebesar kelereng dan berangkai〔Vitis vinifera〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah anggur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "minuman dari sari buah anggur yang difermentasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sa[Serua: Bahasa di Maluku, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "minuman keras tradisional yang dimasak dengan menggunakan gula merah, nanas, dan lain-lain"
+        }
+      ]
+    }
+  ]
+}

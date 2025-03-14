@@ -1,0 +1,35 @@
+{
+  "istilah": "balap",
+  "entri": "ba.lap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "balapan",
+    "berbalapan",
+    "membalap",
+    "membalapkan",
+    "pembalap",
+    "pembalapan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(lomba) adu kecepatan: -- mobil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pacuan: -- kuda"
+        }
+      ]
+    }
+  ]
+}

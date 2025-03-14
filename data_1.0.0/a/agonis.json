@@ -1,0 +1,32 @@
+{
+  "istilah": "agonis",
+  "entri": "a.go.nis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.go.nis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "penggerak utama atau otot yang secara langsung bertanggung jawab atas perubahan posisi suatu bagian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "obat yang dikombinasikan dengan reseptor untuk memunculkan akibat tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "otot yang bekerja berlawanan dengan otot antagonis dan menghasilkan gerakan prima dari sebuah sendi"
+        }
+      ]
+    }
+  ]
+}

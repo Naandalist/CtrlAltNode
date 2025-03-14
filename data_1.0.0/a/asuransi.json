@@ -1,0 +1,60 @@
+{
+  "istilah": "asuransi",
+  "entri": "a.su.ran.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berasuransi",
+    "mengasuransikan",
+    "pengasuransian",
+    "perasuransian",
+    "terasuransi",
+    "terasuransikan"
+  ],
+  "gabunganKata": [
+    "asuransi deposito",
+    "asuransi jiwa",
+    "asuransi kebakaran",
+    "asuransi kecelakaan",
+    "asuransi kecelakaan diri",
+    "asuransi kekhilafan dan keteledoran",
+    "asuransi kendaraan bermotor",
+    "asuransi kesehatan",
+    "asuransi konvensional",
+    "asuransi korban perang",
+    "asuransi kredit",
+    "asuransi pengangguran",
+    "asuransi penyakit kritis",
+    "asuransi perjalanan",
+    "asuransi perlindungan bank",
+    "asuransi perusahaan",
+    "asuransi segala risiko",
+    "asuransi sosial",
+    "asuransi syariah",
+    "asuransi ternak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.su.ran.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pertanggungan (perjanjian antara dua pihak, pihak yang satu berkewajiban membayar iuran dan pihak yang lain berkewajiban memberikan jaminan sepenuhnya kepada pembayar iuran apabila terjadi sesuatu yang menimpa pihak pertama atau barang miliknya sesuai dengan perjanjian yang dibuat)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "uang yang dibayarkan oleh perusahaan asuransi yang memberi pertanggungan: seminggu sesudah kecelakaan itu, ia menerima uang -- sebesar sepuluh juta"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "uang iuran untuk asuransi"
+        }
+      ]
+    }
+  ]
+}

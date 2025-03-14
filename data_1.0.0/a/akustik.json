@@ -1,0 +1,36 @@
+{
+  "istilah": "akustik",
+  "entri": "a.kus.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.kus.tik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan organ pendengar, suara, atau ilmu bunyi: saraf --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "rancangan dan sifat khusus ruang rekaman, pentas, auditorium, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat rekaman atau reproduksi suara dilaksanakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan ruang yang dapat memengaruhi mutu bunyi"
+        }
+      ]
+    }
+  ]
+}

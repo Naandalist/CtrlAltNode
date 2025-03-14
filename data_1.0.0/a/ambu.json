@@ -1,0 +1,42 @@
+{
+  "istilah": "ambu",
+  "entri": "am.bu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.bu1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "daun enau muda"
+        }
+      ]
+    },
+    {
+      "lema": "am.bu2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "ahli ukir dalam pembangunan rumah adat Karo"
+        }
+      ]
+    },
+    {
+      "lema": "am.bu3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gor[Gorontalo: -]",
+          "deskripsi": "kerja bakti"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "asma",
+  "entri": "as.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "asma bronkial"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama",
+    "kataAsal": "asmā’"
+  },
+  "data": [
+    {
+      "lema": "as.ma1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] hor[Hormat: menandai kata yang digunakan dalam ragam resmi]",
+          "deskripsi": "nama (bagi Tuhan): kami berbuat baik terhadap siapa pun semata-mata untuk meluhurkan -- Tuhan"
+        }
+      ]
+    },
+    {
+      "lema": "as.ma2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gangguan pernapasan yang sering bersifat alergis, ditandai dengan sulit bernapas dan rasa sesak dalam dada; penyakit sesak napas; bengek"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bengek"
+        }
+      ]
+    }
+  ]
+}

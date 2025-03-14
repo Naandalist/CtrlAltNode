@@ -1,0 +1,24 @@
+{
+  "istilah": "amsal",
+  "entri": "am.sal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perumpamaan; argumen; cerita",
+    "kataAsal": "amṡāl"
+  },
+  "data": [
+    {
+      "lema": "am.sal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "misal; umpama; perumpamaan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "ampu",
+  "entri": "am.pu1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengampu",
+    "mengampukan",
+    "pengampu",
+    "pengampuan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pu1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sangga, sokong"
+        }
+      ]
+    },
+    {
+      "lema": "am.pu2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ empu1"
+        }
+      ]
+    },
+    {
+      "lema": "am.pu3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bg[Bugis: -]",
+          "deskripsi": "pucuk daun kelapa yang dipasang membentang sebagai penghalang binatang (tentang rusa, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

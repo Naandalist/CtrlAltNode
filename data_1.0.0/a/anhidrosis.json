@@ -1,0 +1,28 @@
+{
+  "istilah": "anhidrosis",
+  "entri": "an.hid.ro.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.hid.ro.sis",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "kering (tentang kulit) karena berkurangnya sekresi keringat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "produksi keringat yang rendah akibat kegagalan kelenjar keringat"
+        }
+      ]
+    }
+  ]
+}

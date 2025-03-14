@@ -1,0 +1,31 @@
+{
+  "istilah": "aib",
+  "entri": "a.ib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keaiban",
+    "mengaibkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kekurangan; cela",
+    "kataAsal": "‘aib"
+  },
+  "data": [
+    {
+      "lema": "a.ib",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "malu: bagimu itu adalah -- yang tiada terhapuskan lagi; janganlah merasa -- melakukan pekerjaan yang kasar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cela; noda; salah; keliru: jika ada -- dan bebalnya, hendaklah dimaafkan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "istilah": "acap",
+  "entri": "a.cap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "acap-acap",
+    "mengacapkan",
+    "seacap",
+    "mengacapi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "acap berulang, yang jauh jadi dekat; acap melempar, akan jatuh jua"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.cap1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kerap; sering"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "segera; lekas"
+        }
+      ]
+    },
+    {
+      "lema": "a.cap2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "masuk dalam-dalam: keris itu pun --lah; kakinya -- ke lumpur"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tergenang (oleh air); terendam (dalam air); penuh berisi air: dua hari dua malam --lah desa itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "air yang mengalir, menyusup ke arah lain walaupun sudah dibendung: -- selalu ke tempat yang rendah"
+        }
+      ]
+    }
+  ]
+}

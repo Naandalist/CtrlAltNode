@@ -1,0 +1,35 @@
+{
+  "istilah": "bedel",
+  "entri": "be.del /bêdel/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membedel"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.del /bêdel/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bedah"
+        }
+      ]
+    },
+    {
+      "lema": "be.del /bêdêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "wakil raja di suatu kampung atau wilayah"
+        }
+      ]
+    }
+  ]
+}

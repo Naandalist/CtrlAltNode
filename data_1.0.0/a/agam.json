@@ -1,0 +1,55 @@
+{
+  "istilah": "agam",
+  "entri": "a.gam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beragam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "berkepanjangan bagai agam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.gam1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "besar, gagah, kuat, dan tegap: tubuhnya --"
+        }
+      ]
+    },
+    {
+      "lema": "a.gam2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ada akhir; larut"
+        }
+      ]
+    },
+    {
+      "lema": "a.gam3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bandeng"
+        }
+      ]
+    },
+    {
+      "lema": "A.gam4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Sumatera Barat, ibu kotanya Lubuk Basung"
+        }
+      ]
+    }
+  ]
+}

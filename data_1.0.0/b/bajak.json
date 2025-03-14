@@ -1,0 +1,47 @@
+{
+  "istilah": "bajak",
+  "entri": "ba.jak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bajakan",
+    "membajak",
+    "pembajak",
+    "pembajakan",
+    "bajakan",
+    "membajak",
+    "pembajak",
+    "pembajakan"
+  ],
+  "gabunganKata": [
+    "bajak singkal",
+    "bajak laut"
+  ],
+  "peribahasa": [
+    "bajak patah, banting terambau; bajak selalu di tanah yang lembut; bajak sudah terdorong ke bancah; dahulu bajak daripada jawi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.jak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkakas pertanian yang terbuat dari kayu atau besi untuk menggemburkan dan membalikkan tanah; luku; tenggala"
+        }
+      ]
+    },
+    {
+      "lema": "ba.jak2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ambil alih secara paksa, disertai ancaman (tentang pesawat dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

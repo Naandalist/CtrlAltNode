@@ -1,0 +1,43 @@
+{
+  "istilah": "aur",
+  "entri": "a.ur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "aur-auran",
+    "mengaur",
+    "mengaurkan"
+  ],
+  "gabunganKata": [
+    "aur duri",
+    "aur kuning",
+    "aur licin"
+  ],
+  "peribahasa": [
+    "aur ditanam, betung tumbuh; aur ditarik sungsang; betung ditanam, aur tumbuh; hidup sandar-menyandar umpama aur dengan tebing; memagar diri bagai aur; sebagai aur dengan tebing"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buluh; bambu"
+        }
+      ]
+    },
+    {
+      "lema": "a.ur2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tabur"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "istilah": "afkir",
+  "entri": "af.kir bentuk tidak baku: apkir",
+  "bentukTidakBaku": "apkir",
+  "kataTurunan": [
+    "afkiran",
+    "mengafkir"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "af.kir bentuk tidak baku: apkir",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak dapat dipakai; ditolak; ditampik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Tern[Peternakan: -]",
+          "deskripsi": "tidak produktif lagi dan dipisahkan dari kelompoknya untuk kemudian dijual atau dipotong"
+        }
+      ]
+    }
+  ]
+}

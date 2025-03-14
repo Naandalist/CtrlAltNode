@@ -1,0 +1,33 @@
+{
+  "istilah": "amboi",
+  "entri": "am.boi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.boi1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata seru yang menyatakan rasa heran, kasihan, atau kagum: --, alangkah indahnya awan di langit itu"
+        }
+      ]
+    },
+    {
+      "lema": "am.boi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah yang terbuat dari tanah liat, berbentuk bulat, pinggirannya memiliki ukiran, digunakan sebagai wadah untuk menyajikan papeda: satu -- papeda sudah tersaji dengan ikan kuah kuning"
+        }
+      ]
+    }
+  ]
+}

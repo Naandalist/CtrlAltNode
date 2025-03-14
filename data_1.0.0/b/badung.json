@@ -1,0 +1,65 @@
+{
+  "istilah": "badung",
+  "entri": "ba.dung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebadungan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.dung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut, kadang-kadang ada yang sangat besar"
+        }
+      ]
+    },
+    {
+      "lema": "ba.dung2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "nakal; bandel: jangan berkawan dengan anak -- itu"
+        }
+      ]
+    },
+    {
+      "lema": "ba.dung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pelat perak (emas) penutup payudara atau kemaluan perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "baju besi pelindung dada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "benda antik peninggalan zaman kerajaan Majapahit yang berbentuk segitiga dan terbuat dari emas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik] Jw[Jawa: -]",
+          "deskripsi": "perlengkapan wayang, berfungsi sebagai sayap"
+        }
+      ]
+    },
+    {
+      "lema": "Ba.dung4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Bali"
+        }
+      ]
+    }
+  ]
+}

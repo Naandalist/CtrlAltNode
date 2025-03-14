@@ -1,0 +1,42 @@
+{
+  "istilah": "atp",
+  "entri": "ATP1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ATP1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "adenosina trifosfat; dari adenosine triphosphate"
+        }
+      ]
+    },
+    {
+      "lema": "ATP2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "asosiasi pemain tenis profesional pria; dari Association of Tennis Professionals"
+        }
+      ]
+    },
+    {
+      "lema": "ATP3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "kantor berita di Republik Chad; Agence Tchadienne de Presse"
+        }
+      ]
+    }
+  ]
+}

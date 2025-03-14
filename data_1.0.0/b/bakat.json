@@ -1,0 +1,41 @@
+{
+  "istilah": "bakat",
+  "entri": "ba.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbakat",
+    "keberbakatan",
+    "membakat"
+  ],
+  "gabunganKata": [
+    "bakat alam",
+    "bakat ombak",
+    "bakat penyakit",
+    "bakat terpendam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.kat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alamat (tanda-tanda bahwa sesuatu akan terjadi): -- hujan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dasar (kepandaian, sifat, dan pembawaan) yang dibawa sejak lahir: ia memiliki -- melukis (menyanyi dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekas; kesan; tanda-tanda (luka dan sebagainya): -- banjir yang melanda kampung itu masih tampak jelas; -- pasang di pantai"
+        }
+      ]
+    }
+  ]
+}

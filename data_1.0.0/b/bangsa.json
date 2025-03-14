@@ -1,0 +1,63 @@
+{
+  "istilah": "bangsa",
+  "entri": "bang.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbangsa",
+    "berkebangsaan",
+    "kebangsaan",
+    "membangsa",
+    "membangsakan",
+    "sebangsa"
+  ],
+  "gabunganKata": [
+    "bangsa Barat",
+    "bangsa berwarna",
+    "bangsa kulit putih",
+    "bangsa murni",
+    "bangsa taneh"
+  ],
+  "peribahasa": [
+    "(sebagai durian) pangsa menunjukkan bangsa (sebagai durian menunjukkan pangsanya); bahasa menunjukkan bangsa; hilang rona karena penyakit, hilang bangsa tidak beruang; rusak bangsa oleh laku"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "keluarga, klan, ras garis keturunan",
+    "kataAsal": "vaṃśa"
+  },
+  "data": [
+    {
+      "lema": "bang.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelompok masyarakat yang bersamaan asal keturunan, adat, bahasa, dan sejarahnya, serta berpemerintahan sendiri: -- India; -- Indonesia; -- Mesir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan manusia, binatang, atau tumbuhan yang mempunyai asal-usul dan sifat khas yang sama"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "macam; jenis: tersedia segala makanan -- kue-kue dan minuman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kedudukan (keturunan) mulia (luhur): bahasa menunjukkan --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "jenis kelamin: lajur pertama diisi dengan nama, yang kedua dengan --, yang ketiga umur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Antr[Antropologi: -]",
+          "deskripsi": "kumpulan manusia yang biasanya terikat karena kesatuan bahasa dan kebudayaan dalam arti umum, dan menempati wilayah tertentu di muka bumi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "satuan taksonomi (takson) yang berada di antara suku dan kelas, serta merupakan tempat mewadahi kumpulan suku yang berkerabat erat satu sama lain (pada tumbuhan nama-nama bangsa berakhiran –ales, seperti Zingiberales); ordo"
+        }
+      ]
+    }
+  ]
+}

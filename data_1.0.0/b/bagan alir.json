@@ -1,0 +1,28 @@
+{
+  "istilah": "bagan alir",
+  "entri": "bagan1 » bagan alir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bagan1 » bagan alir",
+      "arti": [
+        {
+          "kelas_kata": "Man[Manajemen: -]",
+          "deskripsi": "bagan arus"
+        },
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "peta grafis dari lintasan kontrol atau data yang dilalui operasi-operasi dalam program atau sistem penanganan informasi"
+        }
+      ]
+    }
+  ]
+}

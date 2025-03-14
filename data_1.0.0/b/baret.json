@@ -1,0 +1,33 @@
+{
+  "istilah": "baret",
+  "entri": "ba.ret1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ret1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "goresan (pada kulit, kaca)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ret2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "topi yang bentuknya bundar pipih (dipakai oleh tentara, mahasiswa, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

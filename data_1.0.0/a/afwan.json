@@ -1,0 +1,28 @@
+{
+  "istilah": "afwan",
+  "entri": "af.wan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "af.wan",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] Ar[Arab: -]",
+          "deskripsi": "ungkapan permohonan maaf: -- jika ada yang kurang berkenan"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "ungkapan yang digunakan untuk membalas ucapan syukran (terima kasih)"
+        }
+      ]
+    }
+  ]
+}

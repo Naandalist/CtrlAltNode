@@ -1,0 +1,27 @@
+{
+  "istilah": "begal",
+  "entri": "be.gal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membegal",
+    "pembegalan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "penyamun, perampok",
+    "kataAsal": "begal"
+  },
+  "data": [
+    {
+      "lema": "be.gal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perampas"
+        }
+      ]
+    }
+  ]
+}

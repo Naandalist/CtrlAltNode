@@ -1,0 +1,37 @@
+{
+  "istilah": "ambau",
+  "entri": "am.bau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berambau",
+    "mengambau",
+    "terambau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.bau1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rakit yang dipasang di kiri kanan perahu agar perahu tidak mudah terbalik; pelampung perahu; gandung"
+        }
+      ]
+    },
+    {
+      "lema": "am.bau2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengambau; terambau"
+        }
+      ]
+    }
+  ]
+}

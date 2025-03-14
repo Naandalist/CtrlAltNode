@@ -1,0 +1,24 @@
+{
+  "istilah": "alamat jaringan",
+  "entri": "alamat » alamat jaringan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "alamat » alamat jaringan",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bagian alamat IP yang mendefinisikan jaringan utama tempat domain berada"
+        }
+      ]
+    }
+  ]
+}

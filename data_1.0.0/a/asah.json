@@ -1,0 +1,45 @@
+{
+  "istilah": "asah",
+  "entri": "a.sah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "asahan",
+    "berasah",
+    "mengasah",
+    "pengasah",
+    "pengasahan",
+    "terasah"
+  ],
+  "gabunganKata": [
+    "asah terampil",
+    "asah asih asuh"
+  ],
+  "peribahasa": [
+    "calak ganti asah (menanti tukang belum datang)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.sah1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "gosok dengan benda keras (supaya runcing, berkilap, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "a.sah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "asah asih asuh"
+        }
+      ]
+    }
+  ]
+}

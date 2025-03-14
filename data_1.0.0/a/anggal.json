@@ -1,0 +1,44 @@
+{
+  "istilah": "anggal",
+  "entri": "ang.gal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menganggali",
+    "menganggalkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.gal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ringan (tentang penyakit, perasaan hati, dan sebagainya): sakitnya --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "senggang (tidak banyak kerja): masa yang --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak tenang karena kurang muatan; sedikit muatannya: perahu itu --"
+        }
+      ]
+    },
+    {
+      "lema": "ang.gal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "kotoran manusia yang mengeras"
+        }
+      ]
+    }
+  ]
+}

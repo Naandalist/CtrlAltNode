@@ -1,0 +1,49 @@
+{
+  "istilah": "anggota",
+  "entri": "ang.go.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beranggota",
+    "beranggotakan",
+    "keanggotaan",
+    "seanggota"
+  ],
+  "gabunganKata": [
+    "anggota biasa",
+    "anggota delegasi",
+    "anggota gerak",
+    "anggota honorer",
+    "anggota kalimat",
+    "anggota kehormatan",
+    "anggota kliring berjangka",
+    "anggota penderma",
+    "anggota pengurus",
+    "anggota tentara",
+    "anggota tersiar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tubuh, komponen, dahan, divisi",
+    "kataAsal": "aṅga"
+  },
+  "data": [
+    {
+      "lema": "ang.go.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian tubuh (terutama tangan dan kaki): -- badannya lemah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian dari sesuatu yang berangkai: kata majemuk “bumiputra” dua --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang (badan) yang menjadi bagian atau masuk dalam suatu golongan (perserikatan, dewan, panitia, dan sebagainya): dia adalah seorang -- partai terlarang"
+        }
+      ]
+    }
+  ]
+}

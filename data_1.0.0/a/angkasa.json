@@ -1,0 +1,35 @@
+{
+  "istilah": "angkasa",
+  "entri": "ang.ka.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengangkasa",
+    "seangkasa"
+  ],
+  "gabunganKata": [
+    "angkasa luar",
+    "angkasa niaga",
+    "angkasa raya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "tempat yang terbuka; eter, langit atau atmosfer",
+    "kataAsal": "ākāśa"
+  },
+  "data": [
+    {
+      "lema": "ang.ka.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapisan udara yang melingkupi bumi: -- bumi ini kurang lebih 300 km tebalnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "akasa; awang-awang; langit: bintang-bintang berkilauan di -- biru"
+        }
+      ]
+    }
+  ]
+}

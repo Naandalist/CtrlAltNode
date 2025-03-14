@@ -1,0 +1,58 @@
+{
+  "istilah": "bakal",
+  "entri": "ba.kal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bakalan",
+    "membakal",
+    "membakalkan",
+    "pembakalan"
+  ],
+  "gabunganKata": [
+    "bakal biji",
+    "bakal buah",
+    "bakal calon"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "calon, yang akan datang",
+    "kataAsal": "bakal"
+  },
+  "data": [
+    {
+      "lema": "ba.kal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang akan dijadikan (dibuat): hutan-hutan yang dirambah itu -- persawahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang akan menjadi; calon: -- suaminya seorang pedagang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan: -- rumah"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "akan: lamarannya tidak -- diterima"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] Jk[Melayu Jakarta: -]",
+          "deskripsi": "untuk; buat: uang itu -- beli apa?"
+        }
+      ]
+    },
+    {
+      "lema": "ba.kal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mn[Minahasa]",
+          "deskripsi": "onggokan kayu bakar: ia menyiramkan bensin tepat di atas --  agar dapat segera menyala"
+        }
+      ]
+    }
+  ]
+}

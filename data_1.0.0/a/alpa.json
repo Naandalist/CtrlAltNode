@@ -1,0 +1,32 @@
+{
+  "istilah": "alpa",
+  "entri": "al.pa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kealpaan",
+    "mengalpakan",
+    "teralpa"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kecil, pendek, lemah; tidak penting",
+    "kataAsal": "alpa"
+  },
+  "data": [
+    {
+      "lema": "al.pa",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lalai dalam kewajiban; kurang mengindahkan; kurang memperhatikan; lengah"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak hadir tanpa pemberitahuan (di kelas, kantor, dan sebagainya); bolos: anak bermasalah ini sering -- di kelas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "amnion",
+  "entri": "am.ni.on",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.ni.on",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "selaput paling dalam yang mengelilingi janin sebelum kelahiran dan berisi cairan atau ketuban; selaput ketuban"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "selaput janin binatang melata, burung, binatang menyusui"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "selaput embrio bagian dalam pada serangga"
+        }
+      ]
+    }
+  ]
+}

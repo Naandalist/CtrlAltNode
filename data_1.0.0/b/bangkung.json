@@ -1,0 +1,33 @@
+{
+  "istilah": "bangkung",
+  "entri": "bang.kung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bang.kung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "induk babi"
+        }
+      ]
+    },
+    {
+      "lema": "bang.kung2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ri[Melayu Riau: -]",
+          "deskripsi": "memukul dengan kayu: -- anjing itu agar pergi dari sini"
+        }
+      ]
+    }
+  ]
+}

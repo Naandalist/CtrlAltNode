@@ -1,0 +1,44 @@
+{
+  "istilah": "absorpsi",
+  "entri": "ab.sorp.si bentuk tidak baku: absorbsi",
+  "bentukTidakBaku": "absorbsi",
+  "kataTurunan": [
+    "mengabsorpsi",
+    "pengabsorpsi",
+    "terabsorpsi"
+  ],
+  "gabunganKata": [
+    "absorpsi air",
+    "absorpsi aktif",
+    "absorpsi pasif"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab.sorp.si bentuk tidak baku: absorbsi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyerapan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "daya jaringan untuk menyerap benda-benda lain dari luar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "hilangnya zat energi atau foton ke dalam suatu bahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "fenomena proses fisik atau kimia ketika atom, molekul, atau ion memasuki bahan cair atau padat sehingga mengisi volume bahan tersebut"
+        }
+      ]
+    }
+  ]
+}

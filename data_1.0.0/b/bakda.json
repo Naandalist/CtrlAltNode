@@ -1,0 +1,35 @@
+{
+  "istilah": "bakda",
+  "entri": "bak.da1 bentuk tidak baku: bada1",
+  "bentukTidakBaku": "bada1",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bakda gajah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penanda permulaan kalimat, biasanya dituliskan ketika seorang penulis telah menuliskan basmalah, selawat, dan salam pada Nabi dan keluarganya",
+    "kataAsal": "ba‘da"
+  },
+  "data": [
+    {
+      "lema": "bak.da1 bentuk tidak baku: bada1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "sesudah: -- Magrib; -- haji"
+        }
+      ]
+    },
+    {
+      "lema": "bak.da2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permulaan"
+        }
+      ]
+    }
+  ]
+}

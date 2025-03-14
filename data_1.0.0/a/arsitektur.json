@@ -1,0 +1,35 @@
+{
+  "istilah": "arsitektur",
+  "entri": "ar.si.tek.tur",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berarsitektur"
+  ],
+  "gabunganKata": [
+    "arsitektur berkelanjutan",
+    "arsitektur jaringan",
+    "arsitektur sistem informasi",
+    "arsitektur terbuka"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.si.tek.tur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seni dan ilmu merancang serta membuat konstruksi bangunan, jembatan, dan sebagainya; ilmu bangunan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "metode dan gaya rancangan suatu konstruksi bangunan"
+        }
+      ]
+    }
+  ]
+}

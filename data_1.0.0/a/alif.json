@@ -1,0 +1,28 @@
+{
+  "istilah": "alif",
+  "entri": "a.lif bentuk tidak baku: alip2",
+  "bentukTidakBaku": "alip2",
+  "kataTurunan": [
+    "alif-alifan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "berbilang dari esa, mengaji dari alif; berbilang dari esa, mengaji dari alif; berbilang dari esa, mengaji dari alif"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama huruf pertama abjad Arab",
+    "kataAsal": "alif"
+  },
+  "data": [
+    {
+      "lema": "a.lif bentuk tidak baku: alip2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf pertama dalam sistem hijaiah"
+        }
+      ]
+    }
+  ]
+}

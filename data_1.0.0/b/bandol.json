@@ -1,0 +1,42 @@
+{
+  "istilah": "bandol",
+  "entri": "ban.dol1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.dol1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "pedagang atau juru pilah tembakau di gudang pembelian"
+        }
+      ]
+    },
+    {
+      "lema": "ban.dol2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "alat untuk menimbang hasil ikan tangkapan yang akan dilelang"
+        }
+      ]
+    },
+    {
+      "lema": "ban.dol3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pemberat kail, biasanya terbuat dari timah, besi, atau batu kecil"
+        }
+      ]
+    }
+  ]
+}

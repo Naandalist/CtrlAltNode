@@ -1,0 +1,79 @@
+{
+  "istilah": "apa",
+  "entri": "a.pa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "apa-apa",
+    "apa-apaan",
+    "apaan",
+    "dipengapakan",
+    "mengapa",
+    "mengapa-apai",
+    "mengapai",
+    "mengapakan"
+  ],
+  "gabunganKata": [
+    "apa akal",
+    "apa boleh buat",
+    "apa daya",
+    "apa hendak dikata",
+    "apa kabar",
+    "apa lacur",
+    "apa lagi",
+    "apa macam",
+    "apa mau",
+    "apa saja"
+  ],
+  "peribahasa": [
+    "apa gunanya kemenyan sebesar tungku kalau tidak dibakar; mata memandang apa hendak sakit, bahu memikul timpa perasaan (seberapa berat mata menentang, berat jua bahu memikul); sudah terlalu hilir malam, apa hendak dikata lagi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.pa1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk menanyakan nama (jenis, sifat) sesuatu: ular -- ini?; pohon -- yang kautanam?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk pengganti sesuatu: -- yang dimaksudkan orang itu tadi?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata tanya untuk menanyakan pertalian kekeluargaan: (pernah) --mu anak itu?"
+        },
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "pengganti sesuatu yang kurang terang; pengganti barang sesuatu: ia tidak tahu -- isi kotak itu"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] hor[Hormat: menandai kata yang digunakan dalam ragam resmi]",
+          "deskripsi": "untuk menghaluskan permintaan: sudi --lah kiranya Bapak mengabulkan permohonan kami"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "untuk mendahului kalimat tanya: -- besok ada ulangan? -- tamu itu pamanmu?"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "atau: mau minum teh -- kopi; jadi berangkat hari ini -- besok"
+        }
+      ]
+    },
+    {
+      "lema": "a.pa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "buah tanaman sirih"
+        }
+      ]
+    }
+  ]
+}

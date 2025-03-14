@@ -1,0 +1,38 @@
+{
+  "istilah": "adem",
+  "entri": "a.dem /adêm/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengadem",
+    "seadem",
+    "teradem"
+  ],
+  "gabunganKata": [
+    "adem ayem"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.dem /adêm/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "dingin; sejuk: udara di puncak gunung terasa --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "tenteram (tentang pikiran, hati); tenang: lingkungan masyarakat yang -- dapat memberikan kenyamanan bagi warganya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "hambar (rasa makanan); tawar"
+        }
+      ]
+    }
+  ]
+}

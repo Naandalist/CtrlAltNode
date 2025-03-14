@@ -1,0 +1,40 @@
+{
+  "istilah": "aksen",
+  "entri": "ak.sen",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beraksen"
+  ],
+  "gabunganKata": [
+    "aksen cahaya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.sen",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "tekanan suara pada kata atau suku kata: suku kata yang mengandung pepet dalam bahasa Indonesia tidak mendapat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelafalan khas yang menjadi ciri seseorang; logat; aksen daerah: -- Jawanya sudah tidak terdengar lagi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tekanan: lukisan itu diberinya -- tertentu agar kelihatan hidup"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda diakritik: pada huruf e itu terdapat --, yaitu tanda tambahan pada huruf yang banyak mengubah nilai fonetis"
+        }
+      ]
+    }
+  ]
+}

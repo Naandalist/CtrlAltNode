@@ -1,0 +1,28 @@
+{
+  "istilah": "andante",
+  "entri": "an.dan.te",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.dan.te",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mus[Musik: -]",
+          "deskripsi": "lambat (tentang irama)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "komposisi musik dalam tempo lambat"
+        }
+      ]
+    }
+  ]
+}

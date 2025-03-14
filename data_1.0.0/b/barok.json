@@ -1,0 +1,36 @@
+{
+  "istilah": "barok",
+  "entri": "ba.rok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.rok",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "ciri-ciri tertentu yang dimiliki oleh tokoh drama tragedi (seperti sikap agung, tidak langsung)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "gaya dalam seni bangunan dan hiasan, gaya agung yang dihias penuh (dari Italia abad ke-16)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "bentuk mutiara yang tidak beraturan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "gaya musik klasik barat pada tahun 1600—1750: penampilan musik -- itu diakhiri dengan tepuk tangan"
+        }
+      ]
+    }
+  ]
+}

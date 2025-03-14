@@ -1,0 +1,33 @@
+{
+  "istilah": "barung",
+  "entri": "ba.rung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bersama-sama, sebagai pengiring",
+    "kataAsal": "baruṅ"
+  },
+  "data": [
+    {
+      "lema": "ba.rung1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "menendang bola bersamaan dengan lawan dalam permainan sepak bola"
+        }
+      ]
+    },
+    {
+      "lema": "ba.rung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Prm[Pramuka: Usulan untuk penambahan bidang baru]",
+          "deskripsi": "satuan terkecil pramuka siaga yang terdiri atas 5—10 orang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "istilah": "atak",
+  "entri": "a.tak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengatak",
+    "pengatakan"
+  ],
+  "gabunganKata": [
+    "atak kasar"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.tak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "komposisi; tata letak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Graf[Grafika: -]",
+          "deskripsi": "tata letak huruf yang akan dicetak"
+        }
+      ]
+    },
+    {
+      "lema": "a.tak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "mobil beroda tiga (seperti bemo)"
+        }
+      ]
+    },
+    {
+      "lema": "a.tak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bh[Bahau: bahasa di Kalimantan Timur]",
+          "deskripsi": "sungai yang airnya tidak jernih atau keruh"
+        }
+      ]
+    }
+  ]
+}

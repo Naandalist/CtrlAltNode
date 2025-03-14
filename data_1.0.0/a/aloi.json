@@ -1,0 +1,33 @@
+{
+  "istilah": "aloi",
+  "entri": "a.loi1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.loi1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "susunan atau campuran dua jenis logam atau lebih; lakur"
+        }
+      ]
+    },
+    {
+      "lema": "a.loi2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psr[Passer: bahasa di Kalimantan Timur]",
+          "deskripsi": "orang yang tidak pernah menikah atau tidak mau menikah"
+        }
+      ]
+    }
+  ]
+}

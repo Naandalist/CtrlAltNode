@@ -1,0 +1,37 @@
+{
+  "istilah": "abul",
+  "entri": "a.bul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bul1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membayar ganti rugi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membayar uang duka sebagai permintaan maaf"
+        }
+      ]
+    },
+    {
+      "lema": "a.bul2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Eln[Elnama: bahasa di Maluku]",
+          "deskripsi": "memetik daun singkong dengan cara mematahkan batangnya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "istilah": "alip",
+  "entri": "a.lip1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "alip-alipan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lip1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "alip-alipan"
+        }
+      ]
+    },
+    {
+      "lema": "a.lip2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ alif"
+        }
+      ]
+    },
+    {
+      "lema": "a.lip3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sbw[Sumbawa: diubah singkatan label karena ada bahasa ]",
+          "deskripsi": "memanasi dengan nyala api"
+        }
+      ]
+    },
+    {
+      "lema": "A.lip4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama tahun pertama dalam satu windu berdasarkan perhitungan Jawa"
+        }
+      ]
+    }
+  ]
+}

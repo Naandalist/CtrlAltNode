@@ -1,0 +1,46 @@
+{
+  "istilah": "adil",
+  "entri": "a.dil",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berkeadilan",
+    "keadilan",
+    "ketidakadilan",
+    "mengadili",
+    "mengadilkan",
+    "pengadil",
+    "pengadilan",
+    "peradilan",
+    "seadil",
+    "teradil",
+    "teradili"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "raja adil raja disembah, raja lalim raja disanggah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang disukai keputusan dan perkataannya; orang yang memutuskan dengan setara; orang yang baik perangainya",
+    "kataAsal": "‘ādil"
+  },
+  "data": [
+    {
+      "lema": "a.dil",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sama berat; tidak berat sebelah; tidak memihak: keputusan hakim itu --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berpihak kepada yang benar; berpegang pada kebenaran"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sepatutnya; tidak sewenang-wenang: para buruh mengemukakan tuntutan yang --"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "basa",
+  "entri": "ba.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "basa kuat",
+    "basa lemah"
+  ],
+  "peribahasa": [
+    "diam seribu basa"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.sa1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ bahasa2"
+        }
+      ]
+    },
+    {
+      "lema": "ba.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Srm[Seram: bahasa di Maluku]",
+          "deskripsi": "kebun sagu milik bersama warga masyarakat hukum adat di Seram"
+        }
+      ]
+    },
+    {
+      "lema": "ba.sa3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "senyawa yang cenderung menyumbangkan sepasang elektron untuk digunakan bersama-sama dan cenderung menerima proton"
+        }
+      ]
+    }
+  ]
+}

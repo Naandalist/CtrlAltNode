@@ -1,0 +1,28 @@
+{
+  "istilah": "anomali iklim",
+  "entri": "anomali » anomali iklim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "anomali » anomali iklim",
+      "arti": [
+        {
+          "kelas_kata": "Met[Meteorologi: -]",
+          "deskripsi": "selisih antara nilai unsur iklim pada suatu tempat dan nilai rata-rata unsur itu sepanjang garis lintang yang melalui tempat itu"
+        },
+        {
+          "kelas_kata": "Met[Meteorologi: -]",
+          "deskripsi": "penyimpangan tinggi unsur iklim terhadap nilai normal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "istilah": "balur",
+  "entri": "ba.lur1",
+  "bentukTidakBaku": "belur",
+  "kataTurunan": [
+    "membalur",
+    "baluran",
+    "membalur",
+    "membaluri",
+    "membalurkan",
+    "pembalur",
+    "pembaluran"
+  ],
+  "gabunganKata": [
+    "balur badan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu seperti kaca; kristal gunung; hablur"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lur2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kulit yang tebal dan keras (di tengkuk kerbau dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dendeng (daging atau ikan yang dikeringkan)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lur3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "obat luar yang pemakaiannya dengan cara dioleskan ke seluruh permukaan"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lur4 bentuk tidak baku: belur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "jalur merah-merah bekas kena cambuk, pukul, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

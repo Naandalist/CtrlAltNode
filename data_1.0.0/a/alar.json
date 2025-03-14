@@ -1,0 +1,33 @@
+{
+  "istilah": "alar",
+  "entri": "a.lar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "tunas sirih"
+        }
+      ]
+    },
+    {
+      "lema": "a.lar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "akar keladi yang panjang, besar, dan dapat dimakan: baru berumur tiga bulan, tetapi pohon keladi itu sudah mempunyai banyak --"
+        }
+      ]
+    }
+  ]
+}

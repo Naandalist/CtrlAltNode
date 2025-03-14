@@ -1,0 +1,48 @@
+{
+  "istilah": "aci-aci",
+  "entri": "a.ci-a.ci1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "aci-acian",
+    "aci-acinya",
+    "mengaci-acikan"
+  ],
+  "gabunganKata": [
+    "aci-aci kalimat"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ci-a.ci1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "umpama; andai kata"
+        }
+      ]
+    },
+    {
+      "lema": "a.ci-a.ci2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "kayu panjang untuk menggulung layar"
+        }
+      ]
+    },
+    {
+      "lema": "a.ci-a.ci3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pola"
+        }
+      ]
+    }
+  ]
+}

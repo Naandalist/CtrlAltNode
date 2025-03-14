@@ -1,0 +1,29 @@
+{
+  "istilah": "bandut",
+  "entri": "ban.dut",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membandut",
+    "pembandut"
+  ],
+  "gabunganKata": [
+    "bandut meriam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tali pengikat",
+    "kataAsal": "baṇḍut"
+  },
+  "data": [
+    {
+      "lema": "ban.dut",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tali pengikat barang yang akan disambung (karena retak, akan patah, atau hendak pecah)"
+        }
+      ]
+    }
+  ]
+}

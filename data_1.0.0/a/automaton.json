@@ -1,0 +1,32 @@
+{
+  "istilah": "automaton",
+  "entri": "au.to.ma.ton",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "au.to.ma.ton",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang bergerak sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mesin atau peranti mekanis yang bergerak serta-merta; sosok mekanis yang bergerak seakan-akan benda hidup"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "manusia yang berperilaku seperti mesin"
+        }
+      ]
+    }
+  ]
+}

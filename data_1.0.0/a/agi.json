@@ -1,0 +1,33 @@
+{
+  "istilah": "agi",
+  "entri": "a.gi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.gi",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "membeli dengan cara berutang"
+        }
+      ]
+    },
+    {
+      "lema": "AGI",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Asosiasi Gula Indonesia (induk organisasi bagi industri gula di Indonesia)"
+        }
+      ]
+    }
+  ]
+}

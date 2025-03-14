@@ -1,0 +1,28 @@
+{
+  "istilah": "atma",
+  "entri": "at.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "jiwa, nyawa, roh",
+    "kataAsal": "ātman"
+  },
+  "data": [
+    {
+      "lema": "at.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jiwa; nyawa; roh: akhirnya -- Lubdhaka, setelah hari kematiannya, bisa masuk surga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hin[Agama Hindu: -]",
+          "deskripsi": "atman"
+        }
+      ]
+    }
+  ]
+}

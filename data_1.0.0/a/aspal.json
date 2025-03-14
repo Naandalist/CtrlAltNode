@@ -1,0 +1,48 @@
+{
+  "istilah": "aspal",
+  "entri": "as.pal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beraspal",
+    "mengaspal",
+    "pengaspalan",
+    "teraspal"
+  ],
+  "gabunganKata": [
+    "aspal buton",
+    "aspal curah",
+    "aspal emulsi",
+    "aspal jalan",
+    "aspal alam"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "as.pal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "campuran hidrokarbon alam yang amorf, berwarna cokelat hitam dan berupa zat padat atau setengah padat yang dihasilkan dari minyak bumi dengan suhu pembakaran tinggi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan pelapis jalan yang rupanya seperti ter"
+        }
+      ]
+    },
+    {
+      "lema": "as.pal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "asli tetapi palsu (sebutan untuk segala hal atau benda palsu yang tampak persis seperti asli)"
+        }
+      ]
+    }
+  ]
+}

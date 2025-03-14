@@ -1,0 +1,33 @@
+{
+  "istilah": "belandung",
+  "entri": "be.lan.dung1 /bêlandung/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.lan.dung1 /bêlandung/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "terlalu longgar: bajunya terbuat dari kain mahal, tetapi tidak bagus sebab lengannya --"
+        }
+      ]
+    },
+    {
+      "lema": "be.lan.dung2 /bêlandung/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelatuk; belatuk"
+        }
+      ]
+    }
+  ]
+}

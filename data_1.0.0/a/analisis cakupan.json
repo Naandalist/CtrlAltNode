@@ -1,0 +1,24 @@
+{
+  "istilah": "analisis cakupan",
+  "entri": "analisis » analisis cakupan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "analisis » analisis cakupan",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "pengukuran cakupan yang dicapai untuk butir cakupan tertentu selama pelaksanaan pengujian, mengacu pada kriteria yang telah ditentukan sebelumnya untuk menentukan perlunya pengujian tambahan"
+        }
+      ]
+    }
+  ]
+}

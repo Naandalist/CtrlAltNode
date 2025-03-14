@@ -1,0 +1,50 @@
+{
+  "istilah": "abstraksi",
+  "entri": "ab.strak.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berabstraksi",
+    "mengabstraksikan"
+  ],
+  "gabunganKata": [
+    "abstraksi dana bank",
+    "abstraksi data"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab.strak.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "proses, cara, perbuatan memisahkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengabstrakan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "keadaan linglung"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "metode untuk mendapatkan kepastian hukum atau pengertian melalui penyaringan terhadap gejala atau peristiwa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "pengurangan objek ke dalam esensinya sehingga hanya elemen yang penting yang direpresentasikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "penggunaan perangkat lunak khusus untuk melindungi perangkat lunak dari ketergantungan peranti atau kompleksitas yang mendasari perangkat lunak"
+        }
+      ]
+    }
+  ]
+}

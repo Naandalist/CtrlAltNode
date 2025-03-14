@@ -1,0 +1,24 @@
+{
+  "istilah": "bahasa generasi kelima",
+  "entri": "bahasa1 » bahasa generasi kelima",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa generasi kelima",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman yang mengekspresikan masalah yang harus dipecahkan dengan cara memberikan hubungan logika antara masalah dan kendala pada elemen yang ada di dalam masalah"
+        }
+      ]
+    }
+  ]
+}

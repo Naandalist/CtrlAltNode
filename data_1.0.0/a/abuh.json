@@ -1,0 +1,45 @@
+{
+  "istilah": "abuh",
+  "entri": "a.buh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "abuh-abuhan",
+    "abuhan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.buh1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "bengkak"
+        }
+      ]
+    },
+    {
+      "lema": "a.buh2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "riuh; sibuk"
+        }
+      ]
+    },
+    {
+      "lema": "a.buh3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "roh halus yang membantu dukun untuk memiliki kekuatan gaib yang melebihi kekuatan manusia biasa"
+        }
+      ]
+    }
+  ]
+}

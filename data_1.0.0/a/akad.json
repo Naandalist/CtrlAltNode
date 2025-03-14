@@ -1,0 +1,50 @@
+{
+  "istilah": "akad",
+  "entri": "a.kad1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berakad"
+  ],
+  "gabunganKata": [
+    "akad kredit",
+    "akad nikah",
+    "akad salam",
+    "akad wadiah",
+    "akad wakalah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ikat; janji",
+    "kataAsal": "‘aqd"
+  },
+  "data": [
+    {
+      "lema": "a.kad1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "janji; perjanjian; kontrak: -- jual beli"
+        }
+      ]
+    },
+    {
+      "lema": "a.kad3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "antarkerja antardaerah"
+        }
+      ]
+    },
+    {
+      "lema": "A.kad2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ Ahad"
+        }
+      ]
+    }
+  ]
+}

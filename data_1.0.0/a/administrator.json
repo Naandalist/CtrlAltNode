@@ -1,0 +1,42 @@
+{
+  "istilah": "administrator",
+  "entri": "ad.mi.nis.tra.tor bentuk tidak baku: administratur",
+  "bentukTidakBaku": "administratur",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "administrator pangkalan data"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ad.mi.nis.tra.tor bentuk tidak baku: administratur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "direktur perusahaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengurus; penata usaha"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pol[Politik dan Pemerintahan: -]",
+          "deskripsi": "pengusaha atau pembesar setempat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pol[Politik dan Pemerintahan: -]",
+          "deskripsi": "orang yang mempunyai kemampuan memerintah yang sangat baik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "pemimpin di bidang pelaksanaan peraturan, prosedur, dan kebijakan"
+        }
+      ]
+    }
+  ]
+}

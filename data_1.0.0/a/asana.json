@@ -1,0 +1,32 @@
+{
+  "istilah": "asana",
+  "entri": "a.sa.na",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tempat duduk, tempat tinggal, sikap duduk",
+    "kataAsal": "āsana"
+  },
+  "data": [
+    {
+      "lema": "a.sa.na",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "sikap kaki yang berbeda-beda menurut dewa yang diwujudkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "tempat duduk, misalnya singgasana, yogasana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "pose; gerakan: tinggal dipilih -- yang tidak terlalu berat"
+        }
+      ]
+    }
+  ]
+}

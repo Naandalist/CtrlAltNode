@@ -1,0 +1,42 @@
+{
+  "istilah": "adok",
+  "entri": "a.dok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.dok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "tarian dengan gerakan melingkar, dilakukan pada saat pesta perkawinan dan hanya oleh laki-laki"
+        }
+      ]
+    },
+    {
+      "lema": "a.dok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Trj[Toraja: -]",
+          "deskripsi": "bisul yang tumbuh pada kemaluan laki-laki"
+        }
+      ]
+    },
+    {
+      "lema": "a.dok3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "alat musik tradisional Minangkabau, berbentuk rebana dengan penyanggang lingkaran yang tinggi dan tebal, digunakan untuk mengiringi tarian rantak kudo"
+        }
+      ]
+    }
+  ]
+}

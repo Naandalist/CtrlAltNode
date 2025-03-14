@@ -1,0 +1,37 @@
+{
+  "istilah": "absente",
+  "entri": "ab.sen.te1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab.sen.te1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seseorang yang tidak hadir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketidakhadiran seseorang"
+        }
+      ]
+    },
+    {
+      "lema": "ab.sen.te2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkebunan, tanah, perusahaan, dan sebagainya yang jauh dari pemiliknya"
+        }
+      ]
+    }
+  ]
+}

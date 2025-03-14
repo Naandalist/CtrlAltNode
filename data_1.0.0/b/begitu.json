@@ -1,0 +1,38 @@
+{
+  "istilah": "begitu",
+  "entri": "be.gi.tu /bêgitu/bentuk tidak baku: gitu",
+  "bentukTidakBaku": "gitu",
+  "kataTurunan": [
+    "begituan",
+    "membegitukan",
+    "sebegitu"
+  ],
+  "gabunganKata": [
+    "begitu pun"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.gi.tu /bêgitu/bentuk tidak baku: gitu",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "seperti itu; demikian itu: bukan begini, tetapi -- seperti yang berada di pojok sana itu; -- sayangnya dia kepada keluarganya sehingga memilih menetap di kota kelahirannya"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "sangat; terlalu: ia -- baik kepadaku"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "segera setelah ...: -- dibayar, boleh dibawa; -- ia datang, kami terus berangkat"
+        }
+      ]
+    }
+  ]
+}

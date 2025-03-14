@@ -1,0 +1,35 @@
+{
+  "istilah": "advokat",
+  "entri": "ad.vo.kat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "advokat litigasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ad.vo.kat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli hukum yang berwenang sebagai penasihat atau pembela perkara dalam pengadilan; pengacara"
+        }
+      ]
+    },
+    {
+      "lema": "ad.vo.kat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ alpukat"
+        }
+      ]
+    }
+  ]
+}

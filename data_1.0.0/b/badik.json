@@ -1,0 +1,47 @@
+{
+  "istilah": "badik",
+  "entri": "ba.dik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membadik",
+    "membadik"
+  ],
+  "gabunganKata": [
+    "badik jagung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.dik1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "senjata tradisional khas suku Bugis dan Makassar berbentuk pisau, bersarung, bermata satu, memiliki kegunaan sebagai simbol, azimat, dan untuk membela diri"
+        }
+      ]
+    },
+    {
+      "lema": "ba.dik2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membadik"
+        }
+      ]
+    },
+    {
+      "lema": "ba.dik3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "putik"
+        }
+      ]
+    }
+  ]
+}

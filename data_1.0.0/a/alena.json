@@ -1,0 +1,33 @@
+{
+  "istilah": "alena",
+  "entri": "a.le.na1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.le.na1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "senyawa organik yang satu atom karbonnya memiliki ikatan rangkap dengan tiap-tiap dua atom karbon yang berdekatan〈CH2=C=CH2〉"
+        }
+      ]
+    },
+    {
+      "lema": "a.le.na2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Aln[Alune: bahasa di Maluku, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "berjalan sambil bercerita"
+        }
+      ]
+    }
+  ]
+}

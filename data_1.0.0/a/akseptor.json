@@ -1,0 +1,43 @@
+{
+  "istilah": "akseptor",
+  "entri": "ak.sep.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "akseptor dini",
+    "akseptor lestari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.sep.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang menerima serta mengikuti (pelaksanaan) program keluarga berencana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "orang yang membayar jumlah wesel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "orang yang menerima gagasan baru dan melaksanakannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat yang dapat bereaksi dengan zat lain dengan cara menerima partikel dari zat lain itu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "unsur takmurnian yang menaikkan jumlah lubang pada hablur semipenghantar"
+        }
+      ]
+    }
+  ]
+}

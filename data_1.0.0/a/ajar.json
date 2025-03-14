@@ -1,0 +1,56 @@
+{
+  "istilah": "ajar",
+  "entri": "a.jar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ajaran",
+    "belajar",
+    "berpelajaran",
+    "keterpelajaran",
+    "membelajarkan",
+    "mempelajari",
+    "mengajar",
+    "mengajari",
+    "mengajarkan",
+    "pelajar",
+    "pelajaran",
+    "pembelajar",
+    "pembelajaran",
+    "pemelajar",
+    "pemelajaran",
+    "pengajar",
+    "pengajaran",
+    "sepelajar",
+    "terajarkan",
+    "terpelajar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "berguru kepalang ajar, bagai bunga kembang tak jadi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "komunikasi, informasi, pengumuman; ajaran, latihan; pertapa, anggota suatu komunitas pertapaan (biasanya laki-laki); mungkin seseorang yang melatih diri dengan tekun dalam hidup melepaskan diri dari keduniawian",
+    "kataAsal": "ajar"
+  },
+  "data": [
+    {
+      "lema": "a.jar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "petunjuk yang diberikan kepada orang supaya diketahui (diturut)"
+        }
+      ]
+    },
+    {
+      "lema": "a.jar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "buah pertama (tentang tanaman)"
+        }
+      ]
+    }
+  ]
+}

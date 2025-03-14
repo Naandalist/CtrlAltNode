@@ -1,0 +1,33 @@
+{
+  "istilah": "apek",
+  "entri": "a.pek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "paman (kakak ayah)",
+    "kataAsal": "á peh"
+  },
+  "data": [
+    {
+      "lema": "a.pek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Cn[Cina: -]",
+          "deskripsi": "kata untuk menyapa orang tua; tuan"
+        }
+      ]
+    },
+    {
+      "lema": "a.pek /apêk/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ apak1"
+        }
+      ]
+    }
+  ]
+}

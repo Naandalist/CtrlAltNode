@@ -1,0 +1,33 @@
+{
+  "istilah": "barua",
+  "entri": "ba.ru.a1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ru.a1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "muncikari"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ru.a2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ht[Hitu: Bahasa di Maluku]",
+          "deskripsi": "tempat menyimpan sirih pinang: di rumah bapak Raja Kailolo disediakan --"
+        }
+      ]
+    }
+  ]
+}

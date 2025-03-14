@@ -1,0 +1,44 @@
+{
+  "istilah": "aturan",
+  "entri": "atur1 » a.tur.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "aturan pranata",
+    "aturan umum",
+    "aturan untung"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "atur1 » a.tur.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil perbuatan mengatur; (segala sesuatu) yang sudah diatur: ~ rumahnya ala Barat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara (ketentuan, patokan, petunjuk, perintah) yang telah ditetapkan supaya diturut: kita harus menurut ~ lalu lintas di jalan; bagaimana ~ minum obat ini?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tindakan atau perbuatan yang harus dijalankan: panitia sedang membicarakan ~ memberantas penyakit malaria"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adat sopan santun; ketertiban: dia tidak tahu ~"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "seharusnya; menurut (kebiasaan dan sebagainya); biasanya: ~ (nya) dia harus datang sendiri"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "istilah": "apel",
+  "entri": "a.pel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "apel bendera",
+    "apel besar",
+    "apel paripurna",
+    "apel siaga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.pel1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Huk[Hukum: -]",
+          "deskripsi": "naik banding kepada pengadilan yang lebih tinggi; permohonan pemeriksaan ulang pada pengadilan tingkat kedua (pengadilan tinggi) terhadap keputusan pengadilan tingkat pertama (pengadilan negeri)"
+        }
+      ]
+    },
+    {
+      "lema": "a.pel2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mil[Kemiliteran: -]",
+          "deskripsi": "wajib hadir dalam suatu upacara resmi (bersifat kemiliteran) untuk diketahui hadir tidaknya atau untuk mendengar amanat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "upacara"
+        }
+      ]
+    },
+    {
+      "lema": "a.pel3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kepala kampung (di bawah kepala desa)"
+        }
+      ]
+    },
+    {
+      "lema": "a.pel4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "mengunjungi pacar: dia tidak -- malam minggu ini karena lembur"
+        }
+      ]
+    },
+    {
+      "lema": "a.pel /apêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "pohon yang tingginya mencapai 12 m, daun lonjong, bunga putih hingga merah muda, buah bulat berdaging tebal berwarna merah, kuning, atau hijau, rasa manis keasam-asaman〔Malus domestica〕"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah apel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "alkalinitas",
+  "entri": "al.ka.li.ni.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "alkalinitas tanah",
+    "alkalinitas total"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.ka.li.ni.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "jumlah konsentrasi ion karbonat dan bikarbonat terlarut, biasanya dinyatakan dengan miliekuivalen per liter kemampuan air untuk menetralkan asam kuat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "kualitas sifat basa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "banyaknya alkali bebas yang ada dalam pulp dan bahan lain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "ak",
+  "entri": "AK1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "AK1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "angka kredit"
+        }
+      ]
+    },
+    {
+      "lema": "AK2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "senapan otomatis yang dirancang Mikhail Kalashnikov, seorang mantan pejabat militer Rusia; avtomat Kalashnikov"
+        }
+      ]
+    }
+  ]
+}

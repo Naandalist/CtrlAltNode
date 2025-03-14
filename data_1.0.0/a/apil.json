@@ -1,0 +1,33 @@
+{
+  "istilah": "apil",
+  "entri": "a.pil1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.pil1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "alas kaki terbuat dari pelepah pinang atau upih untuk bermain sepak raga"
+        }
+      ]
+    },
+    {
+      "lema": "a.pil2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "denda (uang dan sebagainya) sebagai pengganti hukuman apabila keputusan di tingkat yang lebih tinggi tetap sama dengan keputusan sebelumnya (dalam pengadilan adat)"
+        }
+      ]
+    }
+  ]
+}

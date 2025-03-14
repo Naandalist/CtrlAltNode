@@ -1,0 +1,28 @@
+{
+  "istilah": "apotek",
+  "entri": "a.po.tek bentuk tidak baku: apotik",
+  "bentukTidakBaku": "apotik",
+  "kataTurunan": [
+    "perapotekan"
+  ],
+  "gabunganKata": [
+    "apotek hidup"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.po.tek bentuk tidak baku: apotik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "toko tempat meramu dan menjual obat berdasarkan resep dokter serta memperdagangkan barang medis; rumah obat"
+        }
+      ]
+    }
+  ]
+}

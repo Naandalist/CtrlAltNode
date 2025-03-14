@@ -1,0 +1,28 @@
+{
+  "istilah": "angkel",
+  "entri": "ang.kel",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.kel",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "uang kontrak yang diberikan kepada orang yang masuk serdadu (pada zaman penjajahan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "menandatangani kontrak lagi (setelah kontrak berakhir)"
+        }
+      ]
+    }
+  ]
+}

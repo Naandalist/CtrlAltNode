@@ -1,0 +1,28 @@
+{
+  "istilah": "agnosia",
+  "entri": "ag.no.si.a",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ag.no.si.a",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "ketidaksanggupan mengenali benda dan artinya, biasanya disebabkan oleh kerusakan pada otak atau susunan saraf"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ling[Linguistik: -]",
+          "deskripsi": "hilangnya kemampuan untuk memahami informasi indra"
+        }
+      ]
+    }
+  ]
+}

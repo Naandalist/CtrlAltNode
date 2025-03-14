@@ -1,0 +1,33 @@
+{
+  "istilah": "argo",
+  "entri": "ar.go1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.go1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kp[kependekan]",
+          "deskripsi": "argometer"
+        }
+      ]
+    },
+    {
+      "lema": "ar.go2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gunung"
+        }
+      ]
+    }
+  ]
+}

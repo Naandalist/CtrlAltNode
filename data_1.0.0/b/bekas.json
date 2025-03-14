@@ -1,0 +1,57 @@
+{
+  "istilah": "bekas",
+  "entri": "be.kas1 /bêkas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbekas",
+    "membekas",
+    "membekaskan"
+  ],
+  "gabunganKata": [
+    "bekas luka (kudis dan sebagainya)",
+    "bekas tangan",
+    "bekas tubuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.kas1 /bêkas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda yang tertinggal atau tersisa (sesudah dipegang, diinjak, dilalui, dan sebagainya): ada -- ban mobil di halaman; pada tembok ini tampak -- tapak kaki"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesan: perkataannya meninggalkan -- yang tidak akan pernah hilang di hatiku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang tertinggal sebagai sisa (yang telah rusak, terbakar, tidak dipakai lagi, dan sebagainya): runtuhan -- gedung-gedung besar; tidak ada bekasnya lagi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pernah menjabat atau menjadi ..., tetapi sekarang tidak lagi; mantan: dia adalah -- guru saya; dia -- lurah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sudah pernah dipakai: barang --; usahanya adalah menjual dan membeli mobil --"
+        }
+      ]
+    },
+    {
+      "lema": "be.kas2 /bêkas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menaruh sesuatu; wadah: -- tinta; -- sirih"
+        }
+      ]
+    }
+  ]
+}

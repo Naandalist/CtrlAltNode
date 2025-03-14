@@ -1,0 +1,53 @@
+{
+  "istilah": "ampai",
+  "entri": "am.pai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ampaian",
+    "mengampai",
+    "mengampaikan",
+    "terampai",
+    "berampai",
+    "mengampai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pai1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "panjang (tinggi) dan ramping; lampai: badannya --"
+        }
+      ]
+    },
+    {
+      "lema": "am.pai2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ampaian; mengampai; mengampaikan; terampai"
+        }
+      ]
+    },
+    {
+      "lema": "am.pai3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rotan dan sebagainya untuk menyesah; jari ampai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "joran (tongkat) ampai"
+        }
+      ]
+    }
+  ]
+}

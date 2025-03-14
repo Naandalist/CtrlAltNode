@@ -1,0 +1,32 @@
+{
+  "istilah": "baptis",
+  "entri": "bap.tis bentuk tidak baku: babtis",
+  "bentukTidakBaku": "babtis",
+  "kataTurunan": [
+    "membaptis",
+    "membaptiskan",
+    "pembaptis",
+    "pembaptisan"
+  ],
+  "gabunganKata": [
+    "baptis air",
+    "baptis rindu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bap.tis bentuk tidak baku: babtis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "sakramen penerimaan seseorang ke dalam gereja, biasanya menggunakan air sebagai lambang penyucian; permandian"
+        }
+      ]
+    }
+  ]
+}

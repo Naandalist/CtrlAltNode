@@ -1,0 +1,55 @@
+{
+  "istilah": "ala",
+  "entri": "a.la1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terala"
+  ],
+  "gabunganKata": [
+    "ala kadarnya"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tinggi; mulia; lebih atau paling mulia",
+    "kataAsal": "a‘la"
+  },
+  "data": [
+    {
+      "lema": "a.la1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "atas; pada; kepada; akan"
+        }
+      ]
+    },
+    {
+      "lema": "a.la2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tinggi"
+        }
+      ]
+    },
+    {
+      "lema": "a.la3",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "secara: model -- Barat"
+        }
+      ]
+    },
+    {
+      "lema": "a.la4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "tanah yang tidak dikerjakan lagi, tetapi pemilik atau keturunannya masih mempunyai hak utama atas tanah itu"
+        }
+      ]
+    }
+  ]
+}

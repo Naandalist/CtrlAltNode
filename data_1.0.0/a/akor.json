@@ -1,0 +1,33 @@
+{
+  "istilah": "akor",
+  "entri": "a.kor1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.kor1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ akur"
+        }
+      ]
+    },
+    {
+      "lema": "a.kor2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "kombinasi tiga nada atau lebih yang bersuara sama dalam satu oktaf"
+        }
+      ]
+    }
+  ]
+}

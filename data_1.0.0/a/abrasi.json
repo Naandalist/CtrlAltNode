@@ -1,0 +1,32 @@
+{
+  "istilah": "abrasi",
+  "entri": "ab.ra.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab.ra.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "pengikisan batuan oleh air, es, atau angin yang mengandung dan mengangkut hancuran bahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "luka lecet atau jejas karena pengikisan kulit oleh benda kasar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pengikisan selaput lendir (misalnya dalam membersihkan rahim)"
+        }
+      ]
+    }
+  ]
+}

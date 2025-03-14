@@ -1,0 +1,33 @@
+{
+  "istilah": "agem",
+  "entri": "a.gem1 /agêm/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.gem1 /agêm/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "seikat padi"
+        }
+      ]
+    },
+    {
+      "lema": "a.gem2 /agêm/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "abu cerutu"
+        }
+      ]
+    }
+  ]
+}

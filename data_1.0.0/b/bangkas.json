@@ -1,0 +1,33 @@
+{
+  "istilah": "bangkas",
+  "entri": "bang.kas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bang.kas1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "pirang kekuning-kuningan atau merah (hitam) berbintik-bintik putih (tentang bulu ayam): ayam --"
+        }
+      ]
+    },
+    {
+      "lema": "bang.kas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "orang yang menularkan penyakit pada orang lain"
+        }
+      ]
+    }
+  ]
+}

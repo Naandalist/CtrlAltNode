@@ -1,0 +1,57 @@
+{
+  "istilah": "amanah",
+  "entri": "a.ma.nah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keamanahan",
+    "mengamanahi",
+    "mengamanahkan",
+    "pengamanah",
+    "pengamanahan",
+    "seamanah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kejujuran; kerabat; titipan; mandat; kewajiban kepada Allah",
+    "kataAsal": "amānah"
+  },
+  "data": [
+    {
+      "lema": "a.ma.nah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerabat"
+        }
+      ]
+    },
+    {
+      "lema": "a.ma.nah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang dipercayakan (dititipkan) kepada orang lain: kemerdekaan Indonesia merupakan -- dari para pahlawan bangsa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keamanan; ketenteraman: bahagia dan -- yang sukar dicari"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dapat dipercaya (boleh dipercaya); setia: temanku adalah orang --"
+        }
+      ]
+    },
+    {
+      "lema": "a.ma.nah3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "bidang hukum; kekuatan"
+        }
+      ]
+    }
+  ]
+}

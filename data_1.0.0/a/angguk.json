@@ -1,0 +1,53 @@
+{
+  "istilah": "angguk",
+  "entri": "ang.guk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "anggukan",
+    "berangguk",
+    "berangguk-angguk",
+    "mengangguk",
+    "mengangguk-angguk",
+    "menganggukkan",
+    "pengangguk",
+    "terangguk-angguk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "angguk bukan, geleng iya"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.guk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan menundukkan kepala (tanda setuju, mengantuk, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ang.guk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "nama tali pada perahu"
+        }
+      ]
+    },
+    {
+      "lema": "ang.guk3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "tongkat bambu untuk memikul padi yang dijadikan instrumen musik pada seni rengkong"
+        }
+      ]
+    }
+  ]
+}

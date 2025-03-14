@@ -1,0 +1,53 @@
+{
+  "istilah": "arang",
+  "entri": "a.rang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengarang",
+    "mengarangkan",
+    "pengarangan",
+    "perarangan"
+  ],
+  "gabunganKata": [
+    "arang aktif",
+    "arang batok",
+    "arang batu",
+    "arang kayu",
+    "arang lemak",
+    "arang para",
+    "arang periuk",
+    "arang sekam"
+  ],
+  "peribahasa": [
+    "arang habis, besi binasa; arang itu jikalau dibasuh dengan air mawar sekalipun, tiada akan putih; bintang di langit boleh dibilang, tetapi arang di muka tak sadar; jadi abu arang; kalah jadi abu, menang jadi arang; kerat rotan, patah arang; kuning oleh kunyit, hitam oleh arang; menconteng arang di muka; menghapus(kan) arang di muka; sudah arang-arang, hendak minyak pula; terconteng arang di muka; tercoreng arang di dahi (kening, muka); terpijak benang, arang hitam tampak"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "arang, batu bara",
+    "kataAsal": "aṅgāra"
+  },
+  "data": [
+    {
+      "lema": "a.rang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan bakar yang hitam warnanya dibuat atau terjadi dari bara kayu dan sebagainya yang dipengap"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu (tempurung kelapa, dan sebagainya) yang telah hangus terbakar"
+        }
+      ]
+    },
+    {
+      "lema": "a.rang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "mulut"
+        }
+      ]
+    }
+  ]
+}

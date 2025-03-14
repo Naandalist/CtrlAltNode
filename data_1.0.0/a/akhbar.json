@@ -1,0 +1,28 @@
+{
+  "istilah": "akhbar",
+  "entri": "akh.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "berita",
+    "kataAsal": "akhbār"
+  },
+  "data": [
+    {
+      "lema": "akh.bar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabar; berita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mal[Melayu Malaysia: -]",
+          "deskripsi": "surat kabar; harian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "istilah": "balok",
+  "entri": "ba.lok1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pembalokan"
+  ],
+  "gabunganKata": [
+    "balok genjang",
+    "balok keseimbangan",
+    "balok not",
+    "balok siku",
+    "balok tuangan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lok1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batang kayu yang telah dirimbas, tetapi belum dijadikan papan dan sebagainya: tiang-tiang rumah itu dibuat dari --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tanda pangkat ketentaraan yang dipasang di pundak: terpasang tanda pangkat -- tiga di bahunya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "barang yang menyerupai bentuk balok: es --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Olr[Olahraga: -]",
+          "deskripsi": "papan tumpuan (terutama untuk lompat jauh, lompat jangkit)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bagian samping (lambung) perahu yang terlebar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Mat[Matematika: -]",
+          "deskripsi": "prisma yang sisi-sisinya berupa empat persegi panjang; balok siku"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lok2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran berat candu sama dengan 1.030 kg"
+        }
+      ]
+    }
+  ]
+}

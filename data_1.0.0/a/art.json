@@ -1,0 +1,33 @@
+{
+  "istilah": "art",
+  "entri": "ART1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ART1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "anggaran rumah tangga"
+        }
+      ]
+    },
+    {
+      "lema": "ART2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "asisten rumah tangga"
+        }
+      ]
+    }
+  ]
+}

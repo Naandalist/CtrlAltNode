@@ -1,0 +1,31 @@
+{
+  "istilah": "advis",
+  "entri": "ad.vis bentuk tidak baku: adpis",
+  "bentukTidakBaku": "adpis",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "advis debit",
+    "advis kredit"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ad.vis bentuk tidak baku: adpis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nasihat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "surat pemberitahuan tertulis dari bank kepada nasabah tentang penerimaan pembayaran, transfer dana, dan jasa atau pembayaran yang dilakukan, misalnya pemberitahuan pengkreditan, pendebitan rekening, penarikan, atau transfer dana"
+        }
+      ]
+    }
+  ]
+}

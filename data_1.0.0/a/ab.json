@@ -1,0 +1,78 @@
+{
+  "istilah": "ab",
+  "entri": "ab1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah kecil dari timah untuk candu; hap"
+        }
+      ]
+    },
+    {
+      "lema": "ab2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "ayah"
+        }
+      ]
+    },
+    {
+      "lema": "AB1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "anggaran belanja"
+        }
+      ]
+    },
+    {
+      "lema": "AB2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "arah benar"
+        }
+      ]
+    },
+    {
+      "lema": "AB3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Angkatan Bersenjata"
+        }
+      ]
+    },
+    {
+      "lema": "AB4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "administrasi bisnis"
+        }
+      ]
+    },
+    {
+      "lema": "AB5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan darah dari sistem penggolongan darah ABO yang memiliki kandungan antigen eritrosit A dan B pada sel darah merahnya, tetapi tidak memiliki antibodi"
+        }
+      ]
+    }
+  ]
+}

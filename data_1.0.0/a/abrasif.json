@@ -1,0 +1,32 @@
+{
+  "istilah": "abrasif",
+  "entri": "ab.ra.sif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab.ra.sif",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "partikel halus (bahan seperti arang atau karborundum) yang dicampurkan pada inokulum atau ditaburkan pada permukaan daun untuk memudahkan transmisi mekanis virus tanaman"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "bahan seperti pasir halus yang tersaring dengan ukuran tertentu, tetapi juga sebagai padatan, pasta atau suspensi, yang digunakan untuk menggerinda, mengikir, atau mengupam"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kos[- : -]",
+          "deskripsi": "bahan kosmetik alami atau sintetik yang digunakan untuk melepaskan lapisan permukaan sel atau jaringan kulit"
+        }
+      ]
+    }
+  ]
+}

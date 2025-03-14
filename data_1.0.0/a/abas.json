@@ -1,0 +1,33 @@
+{
+  "istilah": "abas",
+  "entri": "a.bas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "penyumbat ujung tukil terbuat dari ijuk atau dedaunan, berfungsi sebagai penyaring agar serangga tidak masuk saat nira dituang"
+        }
+      ]
+    },
+    {
+      "lema": "a.bas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "kata sapaan kepada kepala biara laki-laki"
+        }
+      ]
+    }
+  ]
+}

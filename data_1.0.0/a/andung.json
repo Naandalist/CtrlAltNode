@@ -1,0 +1,42 @@
+{
+  "istilah": "andung",
+  "entri": "an.dung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.dung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "nenek"
+        }
+      ]
+    },
+    {
+      "lema": "an.dung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menaruh kepala musuh yang dipenggal saat pulang perang, terbuat dari batu karst"
+        }
+      ]
+    },
+    {
+      "lema": "an.dung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "ratapan berirama ketika menghadapi kematian atau penderitaan yang memilukan"
+        }
+      ]
+    }
+  ]
+}

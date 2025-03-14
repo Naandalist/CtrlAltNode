@@ -1,0 +1,53 @@
+{
+  "istilah": "banting",
+  "entri": "ban.ting1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bantingan",
+    "membanting",
+    "membantingkan",
+    "pembanting",
+    "pembantingan",
+    "terbanting"
+  ],
+  "gabunganKata": [
+    "banting setir"
+  ],
+  "peribahasa": [
+    "bajak patah, banting terambau; terajar pada banting pincang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.ting1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lempar keras-keras"
+        }
+      ]
+    },
+    {
+      "lema": "ban.ting2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perahu layar Aceh, terbuat dari kayu, bertiang dua: gali patik yang datang ini empat belas dan -- patik sembilan buah"
+        }
+      ]
+    },
+    {
+      "lema": "ban.ting3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "lembu; sapi; banteng"
+        }
+      ]
+    }
+  ]
+}

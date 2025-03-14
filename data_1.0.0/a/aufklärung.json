@@ -1,0 +1,33 @@
+{
+  "istilah": "aufklärung",
+  "entri": "Lampiran",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Lampiran",
+      "arti": [
+        {
+          "kelas_kata": "ukp[Ungkapan] Jm[Jerman: -]",
+          "deskripsi": "gerakan yang menekankan pada penggunaan akal budi, mendorong penyelidikan segala sesuatu di alam sekitar, dan menganjurkan semangat kritis dalam pemikiran pada abad ke-18"
+        }
+      ]
+    },
+    {
+      "lema": "Aufklärung",
+      "arti": [
+        {
+          "kelas_kata": "[Ungkapan] [Jerman: -]",
+          "deskripsi": "gerakan yang menekankan pada penggunaan akal budi, mendorong penyelidikan segala sesuatu di alam sekitar, dan menganjurkan semangat kritis dalam pemikiran pada abad ke-18"
+        }
+      ]
+    }
+  ]
+}

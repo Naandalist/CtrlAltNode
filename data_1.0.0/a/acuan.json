@@ -1,0 +1,42 @@
+{
+  "istilah": "acuan",
+  "entri": "acu1 » a.cu.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "acuan butik",
+    "acuan cetak",
+    "acuan kertas",
+    "acuan sepatu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "acu1 » a.cu.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cetakan (kue, peluru, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "acu2 » a.cu.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil mengacu; rujukan; referensi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pola dasar penafsiran yang ditetapkan terlebih dahulu"
+        }
+      ]
+    }
+  ]
+}

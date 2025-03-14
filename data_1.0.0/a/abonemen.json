@@ -1,0 +1,30 @@
+{
+  "istilah": "abonemen",
+  "entri": "a.bo.ne.men /abonêmen/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berabonemen"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bo.ne.men /abonêmen/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bld[Belanda: -]",
+          "deskripsi": "hal berlangganan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bld[Belanda: -]",
+          "deskripsi": "uang untuk berlangganan"
+        }
+      ]
+    }
+  ]
+}

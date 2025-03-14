@@ -1,0 +1,32 @@
+{
+  "istilah": "ampar",
+  "entri": "am.par",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.par",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "padi yang sudah menguning"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ss[Sasak: -]",
+          "deskripsi": "penyemaian benih padi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ss[Sasak: -]",
+          "deskripsi": "benih padi; bines"
+        }
+      ]
+    }
+  ]
+}

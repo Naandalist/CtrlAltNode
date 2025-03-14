@@ -1,0 +1,42 @@
+{
+  "istilah": "amber",
+  "entri": "am.ber1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.ber1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Pp[Papua: -]",
+          "deskripsi": "orang yang tidak termasuk rumpun asli Papua (kaum pendatang) seperti orang Bugis, orang Jawa, orang Batak: di Papua banyak terdapat orang -- menjadi pengusaha sukses"
+        }
+      ]
+    },
+    {
+      "lema": "am.ber2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang harum berasal dari perut ikan laut atau dari sebangsa damar"
+        }
+      ]
+    },
+    {
+      "lema": "am.ber3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat batu"
+        }
+      ]
+    }
+  ]
+}

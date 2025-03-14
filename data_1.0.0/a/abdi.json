@@ -1,0 +1,41 @@
+{
+  "istilah": "abdi",
+  "entri": "ab.di",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengabdi",
+    "mengabdikan",
+    "pengabdi",
+    "pengabdian"
+  ],
+  "gabunganKata": [
+    "abdi dalem",
+    "abdi masyarakat",
+    "abdi negara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "manusia; budak",
+    "kataAsal": "‘abd"
+  },
+  "data": [
+    {
+      "lema": "ab.di",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang bawahan; pelayan; hamba"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "budak tebusan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang bekerja pada raja atau pemerintah"
+        }
+      ]
+    }
+  ]
+}

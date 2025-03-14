@@ -1,0 +1,24 @@
+{
+  "istilah": "abstraksi data",
+  "entri": "abstraksi » abstraksi data",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "abstraksi » abstraksi data",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "proses mengekstraksi karakteristik penting dari data dengan mendefinisikan tipe data dan karakteristik fungsional yang terkait dan mengabaikan detail representasinya"
+        }
+      ]
+    }
+  ]
+}

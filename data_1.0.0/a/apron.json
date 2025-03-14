@@ -1,0 +1,46 @@
+{
+  "istilah": "apron",
+  "entri": "ap.ron1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ap.ron1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelataran yang digunakan untuk menaikkan dan menurunkan penumpang, mengisi bahan bakar, atau sebagai tempat parkir dan perawatan pesawat; pelataran pesawat: untuk praktik disediakan 70 pesawat yang terpusat pada empat -- untuk memarkirnya"
+        }
+      ]
+    },
+    {
+      "lema": "ap.ron2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "bagian panggung yang berada di depan prosenium"
+        }
+      ]
+    },
+    {
+      "lema": "ap.ron3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celemek"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Metal[Metalurgi: -]",
+          "deskripsi": "penghalang yang dipasang pada sisi kiri kanan ujung ban berjalan, terbuat dari pelat logam, papan, atau karet untuk mencegah agar material tidak berceceran"
+        }
+      ]
+    }
+  ]
+}

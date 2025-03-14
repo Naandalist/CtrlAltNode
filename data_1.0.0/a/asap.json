@@ -1,0 +1,49 @@
+{
+  "istilah": "asap",
+  "entri": "a.sap",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berasap",
+    "berasap-asap",
+    "mengasap",
+    "mengasapi",
+    "pengasapan",
+    "perasapan",
+    "seasap"
+  ],
+  "gabunganKata": [
+    "asap air",
+    "asap api",
+    "asap belerang",
+    "asap dapur",
+    "asap racun"
+  ],
+  "peribahasa": [
+    "angin tak dapat ditangkap, asap tak dapat digenggam; belum dipanjat asap kemenyan; kalau tak ada api, masakan ada asap; mengusir asap, meninggalkan api"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "uap air; asap; air mata",
+    "kataAsal": "bāṣpa"
+  },
+  "data": [
+    {
+      "lema": "a.sap",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uap yang dapat terlihat yang dihasilkan dari pembakaran"
+        }
+      ]
+    },
+    {
+      "lema": "ASAP",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -] sing[singkatan]",
+          "deskripsi": "istilah untuk mengatakan akan mengirimkan berita melalui kawat sesegera mungkin; dari as soon as possible"
+        }
+      ]
+    }
+  ]
+}

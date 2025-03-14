@@ -1,0 +1,42 @@
+{
+  "istilah": "anggap",
+  "entri": "ang.gap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "anggapan",
+    "beranggapan",
+    "menganggap",
+    "anggapan",
+    "beranggap-anggapan",
+    "beranggapan",
+    "menganggap",
+    "menganggapkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.gap1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "anggapan; beranggapan; menganggap"
+        }
+      ]
+    },
+    {
+      "lema": "ang.gap2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "anggapan; beranggap-anggapan; beranggapan; menganggap; menganggapkan"
+        }
+      ]
+    }
+  ]
+}

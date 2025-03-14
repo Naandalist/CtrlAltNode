@@ -1,0 +1,44 @@
+{
+  "istilah": "belimbing",
+  "entri": "be.lim.bing1 /bêlimbing/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbelimbing",
+    "belimbingan"
+  ],
+  "gabunganKata": [
+    "belimbing manis",
+    "belimbing sayur",
+    "belimbing wuluh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.lim.bing1 /bêlimbing/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bersanding-sanding menurut panjangnya (seperti bentuk kayu penggaris)"
+        }
+      ]
+    },
+    {
+      "lema": "be.lim.bing2 /bêlimbing/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tumbuhan yang termasuk suku Oxalidaceae, tinggi pohon mencapai 5—12 m, berdaun majemuk, buahnya ada yang manis (belimbing manis) dan ada yang dapat dibuat sayur (belimbing wuluh)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buah belimbing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "istilah": "akun",
+  "entri": "a.kun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "perakunan",
+    "seakun"
+  ],
+  "gabunganKata": [
+    "akun biaya",
+    "akun defisit",
+    "akun harta",
+    "akun jaminan",
+    "akun kekurangan",
+    "akun kepemilikan",
+    "akun keuangan",
+    "akun laba rugi",
+    "akun nontamu",
+    "akun plus minus",
+    "akun tamu",
+    "akun virtual"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.kun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "kumpulan catatan transaksi keuangan; buku"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "daftar transaksi keuangan yang tersusun dalam buku besar dan yang bertalian dengan jenis harta dan kewajiban tertentu yang dimiliki atau ditanggung gugat oleh orang atau perusahaan; perkiraan"
+        }
+      ]
+    },
+    {
+      "lema": "a.kun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "pengaturan yang disediakan untuk seseorang oleh perusahaan penyedia jasa internet sehingga mendapatkan fasilitas internet, misalnya mengirim dan menerima pos elektronik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "catatan tentang nama pengguna, kata sandi, dan hak untuk mengakses jaringan atau sistem daring"
+        }
+      ]
+    }
+  ]
+}

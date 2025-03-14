@@ -1,0 +1,65 @@
+{
+  "istilah": "bali",
+  "entri": "ba.li1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "Bali Aga"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.li1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] MkT[Makeang Timur: Bahasa di Maluku Utara]",
+          "deskripsi": "menggulung atau melilitkan papeda: ia tengah -- untuk adiknya agar siap disantap"
+        }
+      ]
+    },
+    {
+      "lema": "ba.li2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Wl[Wolio: -]",
+          "deskripsi": "kapak kecil bergagang pendek"
+        }
+      ]
+    },
+    {
+      "lema": "ba.li3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gor[Gorontalo: -]",
+          "deskripsi": "kata sapaan atau panggilan kepada laki-laki yang sudah beristri"
+        }
+      ]
+    },
+    {
+      "lema": "Ba.li4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pulau yang terletak di antara Pulau Jawa dan Pulau Lombok yang berada di Kepulauan Nusa Tenggara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "provinsi di Pulau Bali, beribu kota Denpasar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang berasal dari atau mendiami sebagian besar Pulau Bali"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Bali"
+        }
+      ]
+    }
+  ]
+}

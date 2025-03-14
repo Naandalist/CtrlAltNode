@@ -1,0 +1,52 @@
+{
+  "istilah": "alamat",
+  "entri": "a.la.mat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beralamat",
+    "mengalamati",
+    "mengalamatkan",
+    "pengalamatan",
+    "sealamat"
+  ],
+  "gabunganKata": [
+    "alamat jaringan",
+    "alamat riil",
+    "alamat virtual"
+  ],
+  "peribahasa": [
+    "patah lidah alamat kalah, patah keris alamat mati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Persia",
+    "arti": "tanda; sinyal",
+    "kataAsal": "‘alāmat"
+  },
+  "data": [
+    {
+      "lema": "a.la.mat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda; pertanda (tanda akan terjadi sesuatu): diberi -- dengan bunyi meriam; mendungnya pekat -- akan hujan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "sasaran; tujuan: empat kali menembak -- itu tidak kena juga"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama orang dan tempat yang menjadi tujuan surat (telegram dan sebagainya); nama dan tempat tinggal seseorang; adres: -- surat ini kurang jelas; ia menuliskan --nya di buku tamu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "nama buku dan sebagainya; judul: -- buku ini ditulis dengan huruf besar-besar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "nilai numerik yang merepresentasikan lokasi data di dalam beberapa media penyimpan, seperti memori atau cakram keras"
+        }
+      ]
+    }
+  ]
+}

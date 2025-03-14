@@ -1,0 +1,84 @@
+{
+  "istilah": "baja",
+  "entri": "ba.ja1 bentuk tidak baku: waja",
+  "bentukTidakBaku": "waja",
+  "kataTurunan": [
+    "berbaja",
+    "membaja",
+    "membajai",
+    "membajai"
+  ],
+  "gabunganKata": [
+    "baja aktif",
+    "baja beton",
+    "baja cepat",
+    "baja karbon",
+    "baja lunak",
+    "baja nikel",
+    "baja nirkarat",
+    "baja rim",
+    "baja ringan",
+    "baja tahan karat",
+    "baja tuang",
+    "baja kandang"
+  ],
+  "peribahasa": [
+    "berhati baja, berurat kawat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ja1 bentuk tidak baku: waja",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "logam yang keras"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sesuatu yang keras dan kuat (tentang semangat, kemauan, dan sebagainya): bersemangat --; berhati --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ja2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pupuk"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ja3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan penghitam gigi (dibuat dari minyak dicampur dengan arang tempurung kelapa)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ja4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bm[Bima: -]",
+          "deskripsi": "hukuman adat pada masyarakat Bima dengan cara mengarak orang yang bersalah berkeliling desa, bertujuan untuk membuat jera"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ja5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "bintara remaja"
+        }
+      ]
+    }
+  ]
+}

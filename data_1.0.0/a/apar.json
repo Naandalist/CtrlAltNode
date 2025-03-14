@@ -1,0 +1,33 @@
+{
+  "istilah": "apar",
+  "entri": "a.par",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.par",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "bengkel atau dapur tukang besi; tempat tukang besi bekerja"
+        }
+      ]
+    },
+    {
+      "lema": "APAR",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "alat pemadam api ringan"
+        }
+      ]
+    }
+  ]
+}

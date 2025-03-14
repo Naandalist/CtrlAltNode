@@ -1,0 +1,37 @@
+{
+  "istilah": "amandel",
+  "entri": "a.man.del1 /amandêl/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.man.del1 /amandêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "badam1"
+        }
+      ]
+    },
+    {
+      "lema": "a.man.del2 /amandêl/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "alat tubuh menyerupai kelenjar yang terdapat di kiri kanan tekak (ada dua buah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "jaringan menyerupai sel limfa yang membesar"
+        }
+      ]
+    }
+  ]
+}

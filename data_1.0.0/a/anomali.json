@@ -1,0 +1,37 @@
+{
+  "istilah": "anomali",
+  "entri": "a.no.ma.li",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "anomali air",
+    "anomali cuaca",
+    "anomali data",
+    "anomali iklim"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.no.ma.li",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak seperti yang pernah ada; penyimpangan dari yang sudah ada"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "penyimpangan atau kelainan, dipandang dari sudut konvensi gramatikal atau semantis suatu bahasa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Tek[Teknik: -]",
+          "deskripsi": "penyimpangan dari keseragaman sifat fisik, sering menjadi perhatian eksplorasi (misalnya anomali waktu-lintas, anomali magnetik)"
+        }
+      ]
+    }
+  ]
+}

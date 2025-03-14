@@ -1,0 +1,42 @@
+{
+  "istilah": "baba",
+  "entri": "ba.ba1 bentuk tidak baku: babah",
+  "bentukTidakBaku": "babah",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ba1 bentuk tidak baku: babah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada laki-laki"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ba2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "tikus"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ba3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "menggendong anak di atas punggung atau pundak: ayah sering -- saya saat masih kecil"
+        }
+      ]
+    }
+  ]
+}

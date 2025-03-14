@@ -1,0 +1,92 @@
+{
+  "istilah": "ambang",
+  "entri": "am.bang1",
+  "bentukTidakBaku": "embang",
+  "kataTurunan": [
+    "mengambang",
+    "mengambang",
+    "mengambang-ambang",
+    "terambang",
+    "terambang-ambang"
+  ],
+  "gabunganKata": [
+    "ambang aerobik",
+    "ambang anaerob",
+    "ambang anaerobik",
+    "ambang atas asupan",
+    "ambang batas",
+    "ambang bawah harga",
+    "ambang laktat",
+    "ambang mutlak",
+    "ambang pengaman jalan",
+    "ambang perolehan suara",
+    "ambang pintu",
+    "ambang laut",
+    "ambang trofik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.bang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "balok yang melintang (antara dua tiang pintu atau jendela); kayu palang (antara tiang dan sebagainya): ia berdiri di -- pintu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "saat mendekatnya kejadian atau peristiwa: sudah di -- pintu kemenangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "muara: pengerukan -- Sungai Barito akan segera dimulai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "tingkat: pencemaran air sungai itu masih dalam -- normal"
+        }
+      ]
+    },
+    {
+      "lema": "am.bang2 bentuk tidak baku: embang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "apung"
+        }
+      ]
+    },
+    {
+      "lema": "am.bang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lingkungan sekeliling suatu organisme"
+        }
+      ]
+    },
+    {
+      "lema": "am.bang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "parang khas Banjar"
+        }
+      ]
+    },
+    {
+      "lema": "am.bang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "kotak peralatan yang terdapat dalam sampan nelayan, biasanya berisi alat-alat untuk memperbaiki mesin"
+        }
+      ]
+    }
+  ]
+}

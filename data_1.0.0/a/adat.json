@@ -1,0 +1,84 @@
+{
+  "istilah": "adat",
+  "entri": "a.dat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beradat",
+    "mengadatkan",
+    "teradat",
+    "mengadat"
+  ],
+  "gabunganKata": [
+    "Adat Belalau",
+    "adat bilokal",
+    "adat fodidi",
+    "adat huma",
+    "adat istiadat",
+    "adat kemenakan",
+    "adat matrilineal",
+    "adat matrilokal",
+    "adat neolokal",
+    "Adat Ogan",
+    "adat patrilokal",
+    "Adat Pegagan",
+    "adat pemaduan",
+    "adat pemali",
+    "adat pembakaran jenazah",
+    "adat pembiaran jenazah",
+    "adat pembuang",
+    "Adat Peminggir",
+    "Adat Pepadun",
+    "Adat Ranau",
+    "Adat Semende",
+    "Adat Semendo"
+  ],
+  "peribahasa": [
+    "ada adat dan lembaganya, ada undang dan laksananya; adat air cair, adat api panas; adat bercakap berelok-elok; adat bersendi syarak, syarak bersendi kitabullah; adat dagang tahan tawar; adat diisi, janji dilabuh; adat diisi, lembaga dituang; adat diisi, lembaga dituang; adat dunia balas-membalas, syariat palu-memalu; adat gunung tempatan kabut, adat teluk timbunan kapal (kapar); adat hidup tolong-menolong, syariat palu-memalu; adat pasang berturun naik; adat periuk berkerak, adat lesung berdedak; adat semula jadi; adat sepanjang jalan, cupak sepanjang betung; hidup dikandung adat, mati dikandung tanah; kecil dikandung ibu, besar dikandung adat, mati dikandung tanah"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Persia",
+    "arti": "cari:",
+    "kataAsal": "‘ādat"
+  },
+  "data": [
+    {
+      "lema": "a.dat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aturan (perbuatan dan sebagainya) yang lazim diturut atau dilakukan sejak dahulu kala: menurut -- daerah ini, laki-lakilah yang berhak mengatur ahli waris"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cara (kelakuan dan sebagainya) yang sudah menjadi kebiasaan; kebiasaan: demikianlah --nya apabila ia marah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wujud gagasan kebudayaan yang terdiri atas nilai-nilai budaya, norma, hukum, dan aturan yang satu dengan yang lain berkaitan menjadi suatu sistem"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "cukai menurut peraturan yang berlaku (di pelabuhan dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "a.dat2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Kur[Kur: bahasa di Maluku, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "gotong royong membangun rumah pada suku Kur, Provinsi Maluku: masyarakat melakukan -- untuk warga desa yang baru menikah"
+        }
+      ]
+    },
+    {
+      "lema": "a.dat3",
+      "arti": [
+        {
+          "kelas_kata": "[Verba: kata kerja] [Kur: bahasa di Maluku, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "gotong royong membangun rumah pada suku Kur, Provinsi Maluku: masyarakat melakukan -- untuk warga desa yang baru menikah"
+        }
+      ]
+    }
+  ]
+}

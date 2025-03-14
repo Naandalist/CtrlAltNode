@@ -1,0 +1,42 @@
+{
+  "istilah": "abal-abal",
+  "entri": "a.bal-a.bal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bal-a.bal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penjahat kelas kakap"
+        }
+      ]
+    },
+    {
+      "lema": "a.bal-a.bal2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tidak bermutu baik; bermutu rendah"
+        }
+      ]
+    },
+    {
+      "lema": "a.bal-a.bal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kincir angin yang digunakan untuk mengusir hama, terbuat dari bambu dan mengeluarkan bunyi saat berputar"
+        }
+      ]
+    }
+  ]
+}

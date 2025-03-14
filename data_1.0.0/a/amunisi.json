@@ -1,0 +1,41 @@
+{
+  "istilah": "amunisi",
+  "entri": "a.mu.ni.si1 bentuk tidak baku: munisi",
+  "bentukTidakBaku": "munisi",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.mu.ni.si1 bentuk tidak baku: munisi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan pengisi senjata api (seperti mesiu, peluru)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan (alat) peledak yang ditembakkan kepada musuh (seperti bom, granat, roket)"
+        }
+      ]
+    },
+    {
+      "lema": "a.mu.ni.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "kiat atau cara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "teknik"
+        }
+      ]
+    }
+  ]
+}

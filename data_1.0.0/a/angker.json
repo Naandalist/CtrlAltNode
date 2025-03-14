@@ -1,0 +1,43 @@
+{
+  "istilah": "angker",
+  "entri": "ang.ker1 /angkêr/bentuk tidak baku: angkar1",
+  "bentukTidakBaku": "angkar1",
+  "kataTurunan": [
+    "keangkeran",
+    "mengangker-angkerkan",
+    "mengangkerkan",
+    "seangker",
+    "terangker"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.ker1 /angkêr/bentuk tidak baku: angkar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tampak seram dan tidak semua orang dapat menjamahnya karena dianggap berhantu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tampak menyeramkan (menakutkan): direktur yang -- itu ternyata berhati baik"
+        }
+      ]
+    },
+    {
+      "lema": "ang.ker2 /angkêr/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jangkar"
+        }
+      ]
+    }
+  ]
+}

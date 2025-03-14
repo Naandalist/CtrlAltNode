@@ -1,0 +1,28 @@
+{
+  "istilah": "abras",
+  "entri": "ab.ras bentuk tidak baku: baras2",
+  "bentukTidakBaku": "baras2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang terkena penyakit kulit sehingga berwarna putih",
+    "kataAsal": "abraṣ"
+  },
+  "data": [
+    {
+      "lema": "ab.ras bentuk tidak baku: baras2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kusta"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mengidap penyakit kusta"
+        }
+      ]
+    }
+  ]
+}

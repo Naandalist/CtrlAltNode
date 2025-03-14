@@ -1,0 +1,42 @@
+{
+  "istilah": "anggas",
+  "entri": "ang.gas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.gas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "generasi keenam atau keturunan kelima"
+        }
+      ]
+    },
+    {
+      "lema": "ang.gas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "karang buatan"
+        }
+      ]
+    },
+    {
+      "lema": "ang.gas3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tali yang digunakan untuk mengikat perut perempuan setelah melahirkan agar sisa-sisa kotoran dapat segera keluar"
+        }
+      ]
+    }
+  ]
+}

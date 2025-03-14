@@ -1,0 +1,49 @@
+{
+  "istilah": "beli",
+  "entri": "be.li1 /bêli/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "belian",
+    "berbeli-beli",
+    "berbeli-belian",
+    "membeli",
+    "membeli-beli",
+    "membelikan",
+    "pembeli",
+    "pembelian",
+    "terbeli"
+  ],
+  "gabunganKata": [
+    "beli angsur",
+    "beli kembali",
+    "beli panik"
+  ],
+  "peribahasa": [
+    "jual sutra, beli mastuli"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.li1 /bêli/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "memperoleh atau memiliki sesuatu dengan membayar"
+        }
+      ]
+    },
+    {
+      "lema": "be.li2 /bêli/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "kakak laki-laki: -- Made mau ke mana?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "aneroid",
+  "entri": "a.ne.ro.id /anêroid/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ne.ro.id /anêroid/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berisi bukan cairan atau dioperasikan tanpa menggunakan cairan (tentang barometer)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "barometer yang mengukur tekanan udara dengan perpindahan tutup yang luwes dari kotak logam yang hampir hampa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "istilah": "agak",
+  "entri": "a.gak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "agak-agak",
+    "agaknya",
+    "beragak-agak",
+    "diagak",
+    "mengagak-agak",
+    "mengagakkan",
+    "seagak",
+    "seagak-agak",
+    "teragak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "mabuk agak-agak (kira-kira)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.gak1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkiraan; persangkaan: -- hati saya ia tidak dapat datang malam ini"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "kira-kira; lebih kurang; barang (dalam arti lebih kurang): ia akan pergi -- dua minggu"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "tidak terlalu: -- jauh juga rumahnya"
+        }
+      ]
+    },
+    {
+      "lema": "a.gak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bn[Benuaq: -]",
+          "deskripsi": "perkawinan atas dasar saling menyukai dan tanpa paksaan"
+        }
+      ]
+    },
+    {
+      "lema": "a.gak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "keranjang rotan untuk membawa barang, bentuknya bulat dan panjang, diberi tali, dipakai dengan cara disangkutkan di kedua bahu: jika kita pergi piknik selalu membawa -- untuk tempat menyimpan makanan"
+        }
+      ]
+    }
+  ]
+}

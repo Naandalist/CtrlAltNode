@@ -1,0 +1,35 @@
+{
+  "istilah": "abs",
+  "entri": "abs",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "abs bawah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "abs",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "otot abdominal"
+        }
+      ]
+    },
+    {
+      "lema": "ABS",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "asal bapak senang (sebutan untuk kata-kata dan sikap manis yang dilakukan untuk menyenangkan hati atasan)"
+        }
+      ]
+    }
+  ]
+}

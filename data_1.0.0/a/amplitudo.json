@@ -1,0 +1,34 @@
+{
+  "istilah": "amplitudo",
+  "entri": "am.pli.tu.do",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "amplitudo tinggi ombak"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pli.tu.do",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "simpangan yang paling jauh dari titik keseimbangan pada getaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "selisih suhu tahunan atau suhu harian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "jarak antara puncak gelombang bunyi dan titik rata-rata"
+        }
+      ]
+    }
+  ]
+}

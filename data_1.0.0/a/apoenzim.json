@@ -1,0 +1,28 @@
+{
+  "istilah": "apoenzim",
+  "entri": "a.po.en.zim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.po.en.zim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "bagian protein dari enzim"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "enzim yang harus menyatu dengan kofaktor agar berfungsi secara aktif"
+        }
+      ]
+    }
+  ]
+}

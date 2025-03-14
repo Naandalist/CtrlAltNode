@@ -1,0 +1,45 @@
+{
+  "istilah": "bel",
+  "entri": "bel1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengebel"
+  ],
+  "gabunganKata": [
+    "bel alarm"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bel1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "genta: di puncak menara gereja itu ada belnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat yang dapat mengeluarkan bunyi dering karena bagiannya dapat digerakkan oleh listrik atau udara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bunyi yang dihasilkan oleh alat tersebut, digunakan sebagai tanda: terdengar -- sebagai tanda masuk kerja; -- masuk; -- istirahat"
+        }
+      ]
+    },
+    {
+      "lema": "bel2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "satuan perbandingan daya dalam skala logaritma berbasis sepuluh, biasa digunakan pada suara"
+        }
+      ]
+    }
+  ]
+}

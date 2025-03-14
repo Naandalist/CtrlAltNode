@@ -1,0 +1,57 @@
+{
+  "istilah": "bajau",
+  "entri": "ba.jau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membajau"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.jau1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Antr[Antropologi: -]",
+          "deskripsi": "kelompok masyarakat yang hidup di perahu, berdiam di perairan laut atau selat sekitar pantai timur Sumatra, Kalimantan, Sulawesi, dan Flores"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rakyat"
+        }
+      ]
+    },
+    {
+      "lema": "ba.jau2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membajau"
+        }
+      ]
+    },
+    {
+      "lema": "ba.jau4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "bintara peninjau"
+        }
+      ]
+    },
+    {
+      "lema": "Ba.jau3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Bajo"
+        }
+      ]
+    }
+  ]
+}

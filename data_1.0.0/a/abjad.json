@@ -1,0 +1,36 @@
+{
+  "istilah": "abjad",
+  "entri": "ab.jad bentuk tidak baku: abjat",
+  "bentukTidakBaku": "abjat",
+  "kataTurunan": [
+    "berabjad",
+    "mengabjad",
+    "mengabjadkan",
+    "pengabjadan"
+  ],
+  "gabunganKata": [
+    "abjad fonemis",
+    "abjad fonetis"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kumpulan huruf berdasarkan urutan bangsa Semit sebelum penggagasan huruf berdasarkan urutan hijaiah",
+    "kataAsal": "abjad"
+  },
+  "data": [
+    {
+      "lema": "ab.jad bentuk tidak baku: abjat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kumpulan huruf (aksara) berdasarkan urutan yang lazim dalam bahasa tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem aksara yang melambangkan bunyi bahasa yang dipakai untuk menuliskan bahasa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "artileri",
+  "entri": "ar.ti.le.ri /artilêri/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "artileri bantuan",
+    "artileri gunung",
+    "artileri medan",
+    "artileri pertahanan udara",
+    "artileri tarik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.ti.le.ri /artilêri/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -]",
+          "deskripsi": "senjata untuk melontarkan proyektil"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasukan tentara yang bersenjata berat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ilmu tentang mempergunakan senjata"
+        }
+      ]
+    }
+  ]
+}

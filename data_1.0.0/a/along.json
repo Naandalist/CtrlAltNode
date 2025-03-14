@@ -1,0 +1,42 @@
+{
+  "istilah": "along",
+  "entri": "a.long1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.long1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "hasil tangkapan nelayan yang melimpah: ketika musim barat, nelayan jarang memperoleh --"
+        }
+      ]
+    },
+    {
+      "lema": "a.long2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "alat penolong"
+        }
+      ]
+    },
+    {
+      "lema": "a.long3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Klm[Melayu Kalimantan: -]",
+          "deskripsi": "panggilan untuk anak sulung"
+        }
+      ]
+    }
+  ]
+}

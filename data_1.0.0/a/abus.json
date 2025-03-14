@@ -1,0 +1,37 @@
+{
+  "istilah": "abus",
+  "entri": "a.bus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata uang timah yang terkecil pada zaman dahulu, harganya sepersepuluh duit"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak berharga; sedikit sekali"
+        }
+      ]
+    },
+    {
+      "lema": "a.bus2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kas[Kasar: menandai kata yang digunakan dalam ragam yang tidak sopan]",
+          "deskripsi": "mampus: -- lah kamu sekalian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "istilah": "awai",
+  "entri": "a.wai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengawai",
+    "mengawai",
+    "terawai",
+    "berawai"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.wai1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "lambai"
+        }
+      ]
+    },
+    {
+      "lema": "a.wai2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengawai; terawai"
+        }
+      ]
+    },
+    {
+      "lema": "a.wai3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berawai"
+        }
+      ]
+    }
+  ]
+}

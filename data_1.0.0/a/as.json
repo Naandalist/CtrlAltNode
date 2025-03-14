@@ -1,0 +1,64 @@
+{
+  "istilah": "as",
+  "entri": "as1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "as1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "poros tempat roda (bumi dan sebagainya) berputar; sumbu"
+        }
+      ]
+    },
+    {
+      "lema": "as2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kartu yang bergambar di bagian tengah (daun, wajik, dan sebagainya) dibubuhi huruf A (biasa dipakai pada permainan remi dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "as3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pukulan servis yang tidak dapat (gagal) dikembalikan (dalam tenis)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemasukan bola ke lubang dengan sekali pukulan dalam golf"
+        }
+      ]
+    },
+    {
+      "lema": "as4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "penyambung baling-baling pada kapal penangkap ikan"
+        }
+      ]
+    },
+    {
+      "lema": "AS",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Amerika Serikat"
+        }
+      ]
+    }
+  ]
+}

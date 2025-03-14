@@ -1,0 +1,41 @@
+{
+  "istilah": "bahaya",
+  "entri": "ba.ha.ya bentuk tidak baku: baya2",
+  "bentukTidakBaku": "baya2",
+  "kataTurunan": [
+    "berbahaya",
+    "membahayakan",
+    "sebahaya",
+    "terbahaya"
+  ],
+  "gabunganKata": [
+    "bahaya api",
+    "bahaya besar",
+    "bahaya kebakaran",
+    "bahaya kelaparan",
+    "bahaya laten",
+    "bahaya maut",
+    "bahaya moral"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "risiko, ketakutan, kesakitan, bencana, keadaan sukar",
+    "kataAsal": "bhaya"
+  },
+  "data": [
+    {
+      "lema": "ba.ha.ya bentuk tidak baku: baya2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang (mungkin) mendatangkan kecelakaan (bencana, kesengsaraan, kerugian, dan sebagainya): menempuh jalan yang tidak ada --nya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berbahaya: jalur itu sangat -- untuk dilewati"
+        }
+      ]
+    }
+  ]
+}

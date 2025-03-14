@@ -1,0 +1,53 @@
+{
+  "istilah": "aceh",
+  "entri": "a.ceh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "Aceh Barat",
+    "Aceh Barat Daya",
+    "Aceh Besar",
+    "Aceh Jaya",
+    "Aceh Selatan",
+    "Aceh Singkil",
+    "Aceh Tamiang",
+    "Aceh Tengah",
+    "Aceh Tenggara",
+    "Aceh Timur",
+    "Aceh Utara"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ceh1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "mudah lepas dari bijinya (tentang daging buah rambutan dan sebagainya): jenis rambutan yang -- banyak diminati"
+        }
+      ]
+    },
+    {
+      "lema": "A.ceh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa di Provinsi Aceh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku bangsa Aceh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "provinsi di Pulau Sumatra, ibu kotanya Banda Aceh"
+        }
+      ]
+    }
+  ]
+}

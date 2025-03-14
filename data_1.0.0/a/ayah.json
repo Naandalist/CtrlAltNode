@@ -1,0 +1,51 @@
+{
+  "istilah": "ayah",
+  "entri": "a.yah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berayah",
+    "keayahan",
+    "keayahbundaan",
+    "seayah"
+  ],
+  "gabunganKata": [
+    "ayah angkat",
+    "ayah asi",
+    "ayah bunda",
+    "ayah kandung",
+    "ayah mertua",
+    "ayah permandian",
+    "ayah pungut",
+    "ayah tiri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.yah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang tua kandung laki-laki; bapak"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada orang tua kandung laki-laki"
+        }
+      ]
+    },
+    {
+      "lema": "a.yah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mal[Melayu Malaysia: -]",
+          "deskripsi": "orang perempuan (India) yang bekerja sebagai pembantu rumah tangga"
+        }
+      ]
+    }
+  ]
+}

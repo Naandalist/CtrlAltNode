@@ -1,0 +1,33 @@
+{
+  "istilah": "bai",
+  "entri": "bai",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bai",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "pengantin baru laki-laki"
+        }
+      ]
+    },
+    {
+      "lema": "ba.i",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Kls[Kulisusu: bahasa di Provinsi Sulawesi Tenggara, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "kering sekali: ikan itu dijemur hingga --"
+        }
+      ]
+    }
+  ]
+}

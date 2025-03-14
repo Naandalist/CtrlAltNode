@@ -1,0 +1,39 @@
+{
+  "istilah": "belu",
+  "entri": "Be.lu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membelu"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "Be.lu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah perbatasan antara Timor Barat dan Timor Leste; Tetun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Nusa Tenggara Timur"
+        }
+      ]
+    },
+    {
+      "lema": "be.lu /bêlu/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membelu"
+        }
+      ]
+    }
+  ]
+}

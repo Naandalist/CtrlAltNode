@@ -1,0 +1,35 @@
+{
+  "istilah": "abah",
+  "entri": "a.bah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengabahkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "arah; tuju: tidak tentu --nya"
+        }
+      ]
+    },
+    {
+      "lema": "a.bah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aba1"
+        }
+      ]
+    }
+  ]
+}

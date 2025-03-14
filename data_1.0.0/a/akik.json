@@ -1,0 +1,32 @@
+{
+  "istilah": "akik",
+  "entri": "a.kik bentuk tidak baku: kik2",
+  "bentukTidakBaku": "kik2",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "akik garnet"
+  ],
+  "peribahasa": [
+    "akik disangka batu"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "manik atau batu merah untuk dijadikan mata cincin",
+    "kataAsal": "‘aqīq"
+  },
+  "data": [
+    {
+      "lema": "a.kik bentuk tidak baku: kik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batu berwarna yang dijadikan permata cincin dan sebagainya: batu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "batuan kalsedon yang tersusun berlapis-lapis dari berbagai warna"
+        }
+      ]
+    }
+  ]
+}

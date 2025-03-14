@@ -1,0 +1,41 @@
+{
+  "istilah": "bagus",
+  "entri": "ba.gus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bagusan",
+    "kebagusan",
+    "membaguskan",
+    "memperbagus",
+    "sebagus",
+    "terbagus",
+    "bagusan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "bagus"
+  },
+  "data": [
+    {
+      "lema": "ba.gus1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "baik sekali; elok: permainannya -- sekali"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gus2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "bagusan"
+        }
+      ]
+    }
+  ]
+}

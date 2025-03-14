@@ -1,0 +1,31 @@
+{
+  "istilah": "awakutu",
+  "entri": "a.wa.ku.tu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengawakutu",
+    "pengawakutuan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.wa.ku.tu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tindakan mendeteksi, menemukan, dan memperbaiki kesalahan logis atau sintaksis di dalam suatu program"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Komp[Komputer: -]",
+          "deskripsi": "menghapus kesalahan pada program komputer: tidak semua org bisa -- jika tidak menguasai program komputer"
+        }
+      ]
+    }
+  ]
+}

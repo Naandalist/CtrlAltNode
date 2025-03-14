@@ -1,0 +1,33 @@
+{
+  "istilah": "bando",
+  "entri": "ban.do1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.do1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda pipih melengkung (setengah lingkaran) terbuat dari plastik dan sebagainya untuk mengatur rambut bagian depan (terutama pada anak perempuan)"
+        }
+      ]
+    },
+    {
+      "lema": "ban.do2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bendu"
+        }
+      ]
+    }
+  ]
+}

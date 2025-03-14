@@ -1,0 +1,36 @@
+{
+  "istilah": "akuntansi",
+  "entri": "a.kun.tan.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "akuntansi forensik",
+    "akuntansi pendapatan dan produk nasional",
+    "akuntansi pertumbuhan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.kun.tan.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "teori dan praktik perakunan, termasuk tanggung jawab, prinsip, standar, kelaziman (kebiasaan), dan semua kegiatannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "hal yang berkaitan dengan akuntan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "seni pencatatan dan pengikhtisaran transaksi keuangan dan penafsiran akibat suatu transaksi terhadap suatu kesatuan ekonomi"
+        }
+      ]
+    }
+  ]
+}

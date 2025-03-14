@@ -1,0 +1,40 @@
+{
+  "istilah": "aset",
+  "entri": "a.set",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beraset",
+    "seaset"
+  ],
+  "gabunganKata": [
+    "aset lancar",
+    "aset luwes",
+    "aset produktif",
+    "aset taklancar",
+    "aset taklikuid",
+    "aset takwujud",
+    "aset tetap",
+    "aset tidur"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.set",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang mempunyai nilai tukar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "modal; kekayaan: -- perusahaan; gerakan rakyat yang memerdekakan bangsa merupakan -- nasional"
+        }
+      ]
+    }
+  ]
+}

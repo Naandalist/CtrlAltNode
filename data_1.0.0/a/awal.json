@@ -1,0 +1,40 @@
+{
+  "istilah": "awal",
+  "entri": "a.wal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "awalan",
+    "berawal",
+    "berawalan",
+    "mengawali"
+  ],
+  "gabunganKata": [
+    "awal gerak",
+    "awal larva"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "permulaan",
+    "kataAsal": "awwal"
+  },
+  "data": [
+    {
+      "lema": "a.wal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mula-mula (sekali); mula: dari -- hingga akhir"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "permulaan; yang mula-mula: -- tahun ini; pada -- abad kesepuluh"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "jauh sebelum waktu yang ditentukan: -- amat engkau datang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "adaptor",
+  "entri": "a.dap.tor",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.dap.tor",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat untuk menghubungkan dua bagian benda, misalnya yang berbeda diameternya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alat listrik yang memungkinkan sesuatu dapat dipakai untuk tujuan tertentu yang berbeda dengan tujuan yang dirancang semula, misalnya alat yang mengubah arus bolak-balik menjadi arus searah untuk pemanfaatan listrik tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "alat yang dapat menyesuaikan jenis dan besar tegangan listrik untuk suatu alat lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "alat berbentuk tabung yang menyempit pada salah satu ujungnya dan dibengkokkan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "alat atau peranti yang dipasang pada kamera sehingga kamera itu dapat dipakai untuk keperluan lain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "istilah": "analog",
+  "entri": "a.na.log",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.na.log",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersangkutan dengan analogi; sama; serupa: masalah suku terasing di Indonesia -- dengan masalah suku terasing di Filipina dan Hawaii"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Komp[Komputer: -]",
+          "deskripsi": "bersangkut paut atau berhubungan dengan sistem atau peranti komputer yang menyajikan data yang bermacam-macam berdasarkan kualitas fisik yang terukur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahan kimia dengan struktur yang mirip dengan yang lain, tetapi berbeda sedikit dalam komposisi"
+        }
+      ]
+    }
+  ]
+}

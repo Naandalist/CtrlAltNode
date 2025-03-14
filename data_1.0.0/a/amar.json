@@ -1,0 +1,36 @@
+{
+  "istilah": "amar",
+  "entri": "a.mar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "amaran",
+    "mengamarkan"
+  ],
+  "gabunganKata": [
+    "amar dan nahi",
+    "amar makruf nahi mungkar",
+    "amar putusan",
+    "amar raja"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "perintah; peristiwa",
+    "kataAsal": "amr"
+  },
+  "data": [
+    {
+      "lema": "a.mar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perintah; suruhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "bunyi putusan sesudah kata memutuskan, mengadili"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "belang",
+  "entri": "be.lang /bêlang/bentuk tidak baku: balang3",
+  "bentukTidakBaku": "balang3",
+  "kataTurunan": [
+    "belang-belang",
+    "berbelang-belang"
+  ],
+  "gabunganKata": [
+    "belang bentong",
+    "belang pelangi"
+  ],
+  "peribahasa": [
+    "harimau mati meninggalkan belang, gajah mati meninggalkan gading; harimau mati meninggalkan belang, gajah mati meninggalkan gading, orang mati meninggalkan nama; manusia mati meninggalkan nama (harimau mati meninggalkan belang, gajah mati meninggalkan gading); mujur Pak Belang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.lang /bêlang/bentuk tidak baku: balang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "warna yang lebih dari semacam (tentang kulit dan sebagainya); bentong: kulitnya penuh -- bekas sakit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "berwarna loreng-loreng: harimau --; kuda --; ular --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "sifat-sifat (kelakuan) buruk; kejelekan; noda; cacat: sekarang barulah ketahuan --nya"
+        }
+      ]
+    }
+  ]
+}

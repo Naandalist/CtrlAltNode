@@ -1,0 +1,39 @@
+{
+  "istilah": "amang",
+  "entri": "a.mang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "amang-amang",
+    "mengamang",
+    "mengamang-amang",
+    "mengamangi",
+    "mengamangkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.mang1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ancam"
+        }
+      ]
+    },
+    {
+      "lema": "a.mang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "kotoran yang menyerupai hasil ikutan dari bijih (seperti dari timah); tahi bijih"
+        }
+      ]
+    }
+  ]
+}

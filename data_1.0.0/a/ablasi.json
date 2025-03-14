@@ -1,0 +1,49 @@
+{
+  "istilah": "ablasi",
+  "entri": "ab.la.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengablasi"
+  ],
+  "gabunganKata": [
+    "ablasi kateter",
+    "ablasi retina"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab.la.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal terlepasnya sesuatu dari sesuatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "penghilangan dengan jalan pembedahan jaringan atau organ tubuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "pemindahan bahan yang telah lapuk dari batuan induknya oleh arus air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "pengikisan oleh tiupan angin"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Hid[Hidrologi: -]",
+          "deskripsi": "penggabungan (sublimasi, peleburan, penguapan, dan sebagainya) yang memindahkan salju atau es dari permukaan gletser atau medan salju; kikisan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "pemutusan jalur elektris antara bilik atas dan bilik bawah pada jantung"
+        }
+      ]
+    }
+  ]
+}

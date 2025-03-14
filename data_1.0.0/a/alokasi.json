@@ -1,0 +1,46 @@
+{
+  "istilah": "alokasi",
+  "entri": "a.lo.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengalokasikan",
+    "pengalokasian",
+    "teralokasi"
+  ],
+  "gabunganKata": [
+    "alokasi anggaran negara",
+    "alokasi biaya",
+    "alokasi dana pemerintah",
+    "alokasi sumber daya",
+    "alokasi waktu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lo.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "penentuan banyaknya barang yang disediakan untuk suatu tempat (pembeli dan sebagainya); penjatahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Keu[Keuangan: -]",
+          "deskripsi": "penentuan banyaknya uang (biaya) yang disediakan untuk suatu keperluan: pemerintah memberi -- dana kepada tiap desa untuk membangun gedung sekolah dasar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sos[Sosiologi: -]",
+          "deskripsi": "pembagian pengeluaran dan pendapatan (di suatu departemen, instansi, atau cabang perusahaan), baik dalam perencanaan maupun pelaksanaannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "penentuan penggunaan sumber daya secara matematis (misalnya tentang tenaga kerja, mesin, dan perlengkapan) demi pencapaian hasil yang optimal"
+        }
+      ]
+    }
+  ]
+}

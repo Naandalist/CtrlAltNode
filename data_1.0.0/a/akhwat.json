@@ -1,0 +1,32 @@
+{
+  "istilah": "akhwat",
+  "entri": "akh.wat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "saudara perempuan; teman perempuan",
+    "kataAsal": "akhawāt"
+  },
+  "data": [
+    {
+      "lema": "akh.wat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "saudara perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "teman perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "perempuan muslim"
+        }
+      ]
+    }
+  ]
+}

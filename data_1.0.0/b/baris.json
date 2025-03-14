@@ -1,0 +1,59 @@
+{
+  "istilah": "baris",
+  "entri": "ba.ris",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "baris berbaris",
+    "baris-berbaris",
+    "barisan",
+    "berbaris",
+    "membaris",
+    "membariskan",
+    "sebaris"
+  ],
+  "gabunganKata": [
+    "baris baru",
+    "baris kolom",
+    "baris tanggal",
+    "baris titinada"
+  ],
+  "peribahasa": [
+    "bagai serdadu pulang baris; memahat di dalam baris, berkata dalam pusaka"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ris",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sejumlah objek dalam rangkaian yang teratur atau urutan yang tidak terputus; banjar; deret; leret; jajar: tiap petak ditanami sepuluh -- pohon ketela"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berbaris: anak-anak sedang belajar --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "garis lurus; coret; setrip: terangkanlah kata-kata yang diberi -- di bawahnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barisan; pasukan: -- Baret Merah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "deretan huruf pada tulisan atau cetakan: kalimat itu tertulis pada halaman 15 -- kelima dari atas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tanda bunyi dalam tulisan Arab (fatah, kasrah, damah)"
+        }
+      ]
+    }
+  ]
+}

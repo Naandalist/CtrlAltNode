@@ -1,0 +1,28 @@
+{
+  "istilah": "arta",
+  "entri": "ar.ta",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kekayaan, keinginan, makna, harapan, rasa",
+    "kataAsal": "artha"
+  },
+  "data": [
+    {
+      "lema": "ar.ta",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "harta"
+        }
+      ]
+    }
+  ]
+}

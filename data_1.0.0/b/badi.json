@@ -1,0 +1,35 @@
+{
+  "istilah": "badi",
+  "entri": "ba.di",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbadi",
+    "membadi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.di",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "pengaruh buruk (penyakit dan sebagainya) yang didapat karena mendekati orang mati, binatang yang terbunuh, pohon keramat, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelakuan yang luar biasa (mirip hewan dan sebagainya) yang diperoleh pada saat dilahirkan: anak itu memiliki -- kuda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "zat yang menularkan penyakit"
+        }
+      ]
+    }
+  ]
+}

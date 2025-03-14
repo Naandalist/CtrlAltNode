@@ -1,0 +1,58 @@
+{
+  "istilah": "a",
+  "entri": "à",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "à",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kira-kira; lebih kurang (antara dua angka untuk memperkirakan panjang, besar, dan sebagainya sesuatu): ular itu panjangnya 6 -- 7 m; lama perjalanan 2 -- 3 jam"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "harga tiap-tiap satuan: ia membeli bahan itu 5 m -- Rp20.000,00"
+        }
+      ]
+    },
+    {
+      "lema": "A1 varian: a",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "huruf pertama abjad Indonesia"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf a"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penanda pertama dalam urutan (mutu, nilai, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "nada ke-6 dalam tangga nada diatonik C mayor"
+        }
+      ]
+    },
+    {
+      "lema": "A2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan darah dari sistem penggolongan darah ABO yang memiliki kandungan antigen eritrosit A dan antibodi anti-B pada sel darah merahnya"
+        }
+      ]
+    }
+  ]
+}

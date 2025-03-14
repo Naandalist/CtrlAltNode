@@ -1,0 +1,32 @@
+{
+  "istilah": "adlib",
+  "entri": "ad.lib",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ad.lib",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lt[Latin: -] kp[kependekan]",
+          "deskripsi": "ad libitum"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Lt[Latin: -]",
+          "deskripsi": "seturut keinginan, sesuai dengan cita rasa (dalam bersantap, berbusana, menata dekorasi, menata perlengkapan rumah, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ikn[Perikanan: -]",
+          "deskripsi": "pemberian makanan tidak dengan ukuran tertentu, tetapi diberikan sekenyang-kenyangnya sampai ikan tidak mau makan lagi"
+        }
+      ]
+    }
+  ]
+}

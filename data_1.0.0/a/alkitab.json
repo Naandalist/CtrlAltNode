@@ -1,0 +1,28 @@
+{
+  "istilah": "alkitab",
+  "entri": "Al.ki.tab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Taurat; hukum; kewajiban; catatan amal manusia; tempat tinta",
+    "kataAsal": "al-kitāb"
+  },
+  "data": [
+    {
+      "lema": "Al.ki.tab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kris[Agama Kristen: -]",
+          "deskripsi": "kitab suci agama Kristen yang berisi 66 kitab terdiri atas 39 kitab Perjanjian Lama dan 27 kitab Perjanjian Baru; Bibel"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "Al-Qur'an"
+        }
+      ]
+    }
+  ]
+}

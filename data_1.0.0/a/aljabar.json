@@ -1,0 +1,40 @@
+{
+  "istilah": "aljabar",
+  "entri": "al.ja.bar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "aljabar abstrak",
+    "aljabar asosiatif",
+    "aljabar Boole",
+    "aljabar elementer",
+    "aljabar linear",
+    "aljabar universal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tambalan",
+    "kataAsal": "al-jabr"
+  },
+  "data": [
+    {
+      "lema": "al.ja.bar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cabang matematika yang menggunakan tanda-tanda dan huruf-huruf untuk menggambarkan atau mewakili angka-angka (a, b, c, sebagai pengganti bilangan yang diketahui dan x, y, z untuk bilangan yang tidak diketahui); ilmu hitung"
+        }
+      ]
+    },
+    {
+      "lema": "Al.ja.bar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "Yang Maha Perkasa (Allah Swt.)"
+        }
+      ]
+    }
+  ]
+}

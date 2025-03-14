@@ -1,0 +1,41 @@
+{
+  "istilah": "belau",
+  "entri": "be.lau1 /bêlau/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebelauan",
+    "membelau",
+    "berbelau-belauan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.lau1 /bêlau/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tepung biru sebagai bahan pencampur air pembilas cucian agar warna pakaian menjadi kebiru-biruan, biasanya untuk pakaian putih"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "biru"
+        }
+      ]
+    },
+    {
+      "lema": "be.lau2 /bêlau/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berbelau-belauan"
+        }
+      ]
+    }
+  ]
+}

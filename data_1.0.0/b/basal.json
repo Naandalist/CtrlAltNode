@@ -1,0 +1,33 @@
+{
+  "istilah": "basal",
+  "entri": "ba.sal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.sal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "batuan beku berwarna gelap, berbutir halus, yang umumnya merupakan pembekuan lava dari gunung api"
+        }
+      ]
+    },
+    {
+      "lema": "ba.sal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "penyakit bengkak (karena penyakit beri-beri dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

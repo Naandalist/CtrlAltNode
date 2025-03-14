@@ -1,0 +1,34 @@
+{
+  "istilah": "abdomen",
+  "entri": "ab.do.men /abdomên/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "abdomen akut"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab.do.men /abdomên/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "bagian tubuh berupa rongga perut yang berisi alat pencernaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "bagian di antara sekat rongga badan dan pinggul (perut bagian bawah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "bagian tubuh di belakang dada (toraks) pada artropoda"
+        }
+      ]
+    }
+  ]
+}

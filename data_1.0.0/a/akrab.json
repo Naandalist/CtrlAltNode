@@ -1,0 +1,39 @@
+{
+  "istilah": "akrab",
+  "entri": "ak.rab1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berakrab-akrab",
+    "keakraban",
+    "mengakrabi",
+    "mengakrabkan",
+    "seakrab"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "Skorpio; kalajengking",
+    "kataAsal": "‘aqrab"
+  },
+  "data": [
+    {
+      "lema": "ak.rab1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dekat dan erat (tentang persahabatan); intim: dalam rapat itu terdapat suasana yang --"
+        }
+      ]
+    },
+    {
+      "lema": "Ak.rab2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "Skorpio; Kala2"
+        }
+      ]
+    }
+  ]
+}

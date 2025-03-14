@@ -1,0 +1,32 @@
+{
+  "istilah": "asali",
+  "entri": "a.sa.li bentuk tidak baku: azali2",
+  "bentukTidakBaku": "azali2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "hal yang berkaitan dengan dasar sesuatu",
+    "kataAsal": "aṣlī"
+  },
+  "data": [
+    {
+      "lema": "a.sa.li bentuk tidak baku: azali2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "bersifat asal"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ar[Arab: -]",
+          "deskripsi": "berasal; berbangsa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -] Komp[Komputer: -]",
+          "deskripsi": "preferensi sebelum diset yang digunakan oleh program untuk kembali ke posisi semula"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "bago",
+  "entri": "ba.go1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.go1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bc[Bacan: Bahasa di Maluku Utara]",
+          "deskripsi": "bara api"
+        }
+      ]
+    },
+    {
+      "lema": "ba.go2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "udang windu"
+        }
+      ]
+    }
+  ]
+}

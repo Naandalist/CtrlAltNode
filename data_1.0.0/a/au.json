@@ -1,0 +1,28 @@
+{
+  "istilah": "au",
+  "entri": "AU",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "AU",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -] sing[singkatan]",
+          "deskripsi": "satuan astronomi; dari astronomical unit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Angkatan Udara"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "atmosfer",
+  "entri": "at.mos.fer bentuk tidak baku: atmosfir",
+  "bentukTidakBaku": "atmosfir",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "atmosfer bebas",
+    "atmosfer isotermal",
+    "atmosfer otobarotropik"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "at.mos.fer bentuk tidak baku: atmosfir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lapisan udara yang menyelubungi bumi sampai ketinggian 300 km (terutama terdiri atas campuran berbagai gas, yaitu nitrogen, oksigen, argon, dan sejumlah kecil gas lain)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan tekanan yang besarnya sama dengan tekanan udara pada permukaan laut (1,033 kg setiap cm²)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "suasana perasaan yang bersifat imajinatif dalam naskah drama yang diciptakan oleh pengarangnya"
+        }
+      ]
+    }
+  ]
+}

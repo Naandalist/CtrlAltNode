@@ -1,0 +1,72 @@
+{
+  "istilah": "babat",
+  "entri": "ba.bat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "babatan",
+    "membabat",
+    "membabati",
+    "membabatkan",
+    "pembabat",
+    "pembabatan",
+    "terbabat",
+    "sebabat",
+    "membabat"
+  ],
+  "gabunganKata": [
+    "babat alas",
+    "babat lari"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.bat1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tebas"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "golongan yang sama jenisnya (keadaannya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pasangan (jodoh dan sebagainya) yang seimbang atau setara"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perut besar pada binatang memamah biak (seperti lembu atau kerbau)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daging perut besar: soto --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bat4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "bebat"
+        }
+      ]
+    }
+  ]
+}

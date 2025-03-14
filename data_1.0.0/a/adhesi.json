@@ -1,0 +1,40 @@
+{
+  "istilah": "adhesi",
+  "entri": "ad.he.si bentuk tidak baku: adesi",
+  "bentukTidakBaku": "adesi",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ad.he.si bentuk tidak baku: adesi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan melekat pada benda lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "gaya tarik-menarik antarmolekul yang tidak sejenis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "penyatuan tumbuh-tumbuhan yang biasanya merupakan kelompok yang terpisah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "jaringan tubuh yang tumbuh (melekat) menjadi satu karena radang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesepakatan, sikap, atau rasa sesuai: ia menyatakan --nya"
+        }
+      ]
+    }
+  ]
+}

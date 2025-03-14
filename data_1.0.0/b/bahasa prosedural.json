@@ -1,0 +1,24 @@
+{
+  "istilah": "bahasa prosedural",
+  "entri": "bahasa1 » bahasa prosedural",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa prosedural",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman yang elemen pemrograman dasarnya adalah prosedur (sederetan pernyataan yang mempunyai nama, seperti rutin, subrutin, atau fungsi); bahasa pemrograman prosedural"
+        }
+      ]
+    }
+  ]
+}

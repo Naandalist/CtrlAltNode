@@ -1,0 +1,79 @@
+{
+  "istilah": "aji",
+  "entri": "a.ji1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ajian"
+  ],
+  "gabunganKata": [
+    "aji sesirep",
+    "Aji Bambang",
+    "Aji Pangeran",
+    "Aji Puteri",
+    "Aji Raden",
+    "Aji Ratu",
+    "Aji Sayid",
+    "Aji Sultan",
+    "Aji Syarifah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "raja",
+    "kataAsal": "aji"
+  },
+  "data": [
+    {
+      "lema": "a.ji1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berharga sekali dan dianggap bertuah (tentang benda keramat)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak ternilai kehormatan dan kedudukannya sehingga orang merasa wajib mengagungkan dan menghormati"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengetahuan suci; ilmu mantra; doa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ajaran yang bersifat nalar ataupun nonnalar"
+        }
+      ]
+    },
+    {
+      "lema": "a.ji2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baginda; raja"
+        }
+      ]
+    },
+    {
+      "lema": "A.ji3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "daerah di Provinsi Sumatera Selatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dialek bahasa Komering yang dituturkan di daerah Aji"
+        }
+      ]
+    },
+    {
+      "lema": "A.ji4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar kebangsawanan untuk keturunan bangsawan Kutai, hanya diturunkan oleh pria bangsawan Kutai"
+        }
+      ]
+    }
+  ]
+}

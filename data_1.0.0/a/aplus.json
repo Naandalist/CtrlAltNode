@@ -1,0 +1,36 @@
+{
+  "istilah": "aplus",
+  "entri": "ap.lus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "aplusan",
+    "mengaplus"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ap.lus1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bergilir (tentang orang yang bertugas, berkawal, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "ap.lus2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ aplaus"
+        }
+      ]
+    }
+  ]
+}

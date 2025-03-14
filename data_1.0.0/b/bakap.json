@@ -1,0 +1,33 @@
+{
+  "istilah": "bakap",
+  "entri": "ba.kap1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.kap1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut〔Ophiocephalus spp.〕"
+        }
+      ]
+    },
+    {
+      "lema": "ba.kap2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gabus3"
+        }
+      ]
+    }
+  ]
+}

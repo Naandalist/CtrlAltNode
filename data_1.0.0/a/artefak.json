@@ -1,0 +1,28 @@
+{
+  "istilah": "artefak",
+  "entri": "ar.te.fak /artêfak/bentuk tidak baku: artifak",
+  "bentukTidakBaku": "artifak",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.te.fak /artêfak/bentuk tidak baku: artifak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "benda-benda, seperti alat, perhiasan yang menunjukkan kecakapan kerja manusia (terutama pada zaman dahulu) yang ditemukan melalui penggalian arkeologi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "benda (barang-barang) hasil kecerdasan manusia, seperti perkakas, senjata"
+        }
+      ]
+    }
+  ]
+}

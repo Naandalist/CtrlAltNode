@@ -1,0 +1,55 @@
+{
+  "istilah": "abuk",
+  "entri": "a.buk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengabuk"
+  ],
+  "gabunganKata": [
+    "abuk gergaji"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.buk1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serbuk (tentang barang yang lumat halus seperti tepung)"
+        }
+      ]
+    },
+    {
+      "lema": "a.buk2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rambut: -- kaki"
+        }
+      ]
+    },
+    {
+      "lema": "a.buk3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengabuk"
+        }
+      ]
+    },
+    {
+      "lema": "a.buk4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bun[Bunak: bahasa di Provinsi Nusa Tenggara Timur]",
+          "deskripsi": "panggilan untuk perempuan suku Bunak, Pulau Timor, NTT"
+        }
+      ]
+    }
+  ]
+}

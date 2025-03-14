@@ -1,0 +1,28 @@
+{
+  "istilah": "anafora",
+  "entri": "a.na.fo.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.na.fo.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "pengulangan bunyi, kata, atau struktur sintaktis pada larik-larik atau kalimat-kalimat yang berturutan untuk memperoleh efek tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "hal atau fungsi merujuk kembali pada sesuatu yang telah disebutkan sebelumnya dalam wacana (yang disebut anteseden) dengan substitusi, misalnya -nya dalam Pak Karta rumahnya terbakar, kata -nya menunjuk kepada Pak Karta"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "apriori",
+  "entri": "ap.ri.o.ri",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ap.ri.o.ri",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berpraanggapan sebelum mengetahui (melihat, menyelidiki, dan sebagainya) keadaan yang sebenarnya: kita tidak boleh bersikap --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "metode pernalaran, dimulai dengan teori atau penyebab, untuk kemudian memastikan penyebab atau ketentuan umum"
+        }
+      ]
+    }
+  ]
+}

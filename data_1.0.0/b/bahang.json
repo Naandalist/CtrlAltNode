@@ -1,0 +1,33 @@
+{
+  "istilah": "bahang",
+  "entri": "ba.hang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bahang jenis",
+    "bahang laten",
+    "bahang lebur",
+    "bahang reaksi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "lekas marah, lekas naik darah",
+    "kataAsal": "bahaṅ"
+  },
+  "data": [
+    {
+      "lema": "ba.hang",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hawa panas yang terjadi karena nyala api atau dari panas tubuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "kalor"
+        }
+      ]
+    }
+  ]
+}

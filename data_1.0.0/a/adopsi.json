@@ -1,0 +1,41 @@
+{
+  "istilah": "adopsi",
+  "entri": "a.dop.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "adopsian",
+    "mengadopsi",
+    "pengadopsi",
+    "pengadopsian",
+    "teradopsi"
+  ],
+  "gabunganKata": [
+    "adopsi antarnegara",
+    "adopsi ilegal"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.dop.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengangkatan anak orang lain sebagai anak sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "penerimaan suatu usul atau laporan (misalnya dalam proses legislatif)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "pemungutan"
+        }
+      ]
+    }
+  ]
+}

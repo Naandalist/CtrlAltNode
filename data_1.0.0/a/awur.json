@@ -1,0 +1,41 @@
+{
+  "istilah": "awur",
+  "entri": "a.wur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "awuran",
+    "mengawur",
+    "mengawuri",
+    "mengawurkan",
+    "awur-awuran",
+    "awuran",
+    "mengawur"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.wur1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tabur"
+        }
+      ]
+    },
+    {
+      "lema": "a.wur2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sebarang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "istilah": "afiks",
+  "entri": "a.fiks",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pengafiksan"
+  ],
+  "gabunganKata": [
+    "afiks homofon",
+    "afiks terbuka",
+    "afiks tertutup"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.fiks",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "bentuk terikat (seperti prefiks, infiks, konfiks, dan sufiks) yang apabila ditambahkan pada kata dasar atau bentuk dasar akan mengubah makna gramatikal; bentuk (atau morfem) terikat yang dipakai untuk menurunkan kata imbuhan"
+        }
+      ]
+    }
+  ]
+}

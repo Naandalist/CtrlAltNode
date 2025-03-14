@@ -1,0 +1,36 @@
+{
+  "istilah": "adisi",
+  "entri": "a.di.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.di.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penambahan yang dilakukan secara terus-menerus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hasil penambahan; tambahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "penambahan senyawa terhadap senyawa lain sehingga terjadi reaksi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "bentuk kesalahan yang terdapat pada naskah salinan, berupa penambahan suku kata atau kata"
+        }
+      ]
+    }
+  ]
+}

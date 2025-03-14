@@ -1,0 +1,46 @@
+{
+  "istilah": "agon",
+  "entri": "a.gon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.gon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "adegan dalam drama yang menunjukkan perdebatan (perselisihan) antara tokoh protagonis dan tokoh antagonis"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "penanda konflik mendasar dan esensial yang berasal dari masa Yunani kuno tentang tragedi klasik"
+        }
+      ]
+    },
+    {
+      "lema": "a.gon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "garis di peta yang menghubungkan tempat-tempat yang variasinya nol"
+        }
+      ]
+    },
+    {
+      "lema": "a.gon3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "membersihkan area persawahan yang telah dibajak sebelum ditanami padi"
+        }
+      ]
+    }
+  ]
+}

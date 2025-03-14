@@ -1,0 +1,41 @@
+{
+  "istilah": "alfa",
+  "entri": "al.fa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.fa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf pertama abjad Yunani"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "yang pertama; permulaan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Astron[Astronomi: -]",
+          "deskripsi": "bintang utama atau yang paling terang dalam suatu rasi bintang"
+        }
+      ]
+    },
+    {
+      "lema": "al.fa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "nisbah antara perubahan arus kolektor dan arus emiter pada transistor"
+        }
+      ]
+    }
+  ]
+}

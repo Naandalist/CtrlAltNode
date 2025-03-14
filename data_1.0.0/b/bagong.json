@@ -1,0 +1,44 @@
+{
+  "istilah": "bagong",
+  "entri": "ba.gong1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bagongan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.gong1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "besar dan berat: parang --; perahu --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gong2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "babi hutan; celeng"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gong3 entri varian: bagongan",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat bahasa1"
+        }
+      ]
+    }
+  ]
+}

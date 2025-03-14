@@ -1,0 +1,91 @@
+{
+  "istilah": "agen",
+  "entri": "a.gen",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keagenan",
+    "mengageni"
+  ],
+  "gabunganKata": [
+    "agen aerasi",
+    "agen anabolik",
+    "agen asuransi",
+    "agen bebas",
+    "agen buku",
+    "agen elektronik",
+    "agen federal",
+    "agen ganda",
+    "agen kargo",
+    "agen kemoterapi",
+    "agen klaim",
+    "agen muatan",
+    "agen mutagen",
+    "agen pabrik",
+    "agen pelawatan",
+    "agen pemain",
+    "agen pembaruan",
+    "agen pembasah",
+    "agen pembayar",
+    "agen pembayaran pembantu",
+    "agen pembelian",
+    "agen pemoliploid",
+    "agen pengarang",
+    "agen pengelat",
+    "agen pengemulsi",
+    "agen pengguna",
+    "agen penjamin",
+    "agen penjualan",
+    "agen penyalur",
+    "agen perawat",
+    "agen perjalanan",
+    "agen perjalanan wisata",
+    "agen polisi",
+    "agen properti",
+    "agen publisitas",
+    "agen rahasia",
+    "agen resmi",
+    "agen siasat",
+    "agen sitotastik",
+    "agen tunggal",
+    "agen tunggal pemegang merek",
+    "agen utama pembayaran",
+    "agen wol"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.gen",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "orang atau perusahaan perantara yang mengusahakan penjualan bagi perusahaan lain atas nama pengusaha; perwakilan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Adm[Administrasi dan Kepegawaian: -]",
+          "deskripsi": "wakil pengusaha yang merundingkan, memberikan jasa layanan, atau menutup perjanjian asuransi dengan ketentuan yang ada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kaki tangan atau mata-mata negara asing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Bio[Biologi: -]",
+          "deskripsi": "penyebab"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "perantara bisnis yang berkaitan dengan teater, biasanya terbagi atas agen pemeran dan agen pemilihan peran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "bahan"
+        }
+      ]
+    }
+  ]
+}

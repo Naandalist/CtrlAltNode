@@ -1,0 +1,60 @@
+{
+  "istilah": "ambai",
+  "entri": "am.bai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ambaian",
+    "mengambai",
+    "berambai-ambai",
+    "mengambai-ambaikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.bai1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jaring yang dipasang pada belat dan sebagainya: pencari ikan menahan --nya"
+        }
+      ]
+    },
+    {
+      "lema": "am.bai2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "berambai-ambai; mengambai-ambaikan"
+        }
+      ]
+    },
+    {
+      "lema": "am.bai4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "upacara mengambil anak angkat pada suku Dayak dengan cara menorehkan dan mempertukarkan darah, dilakukan oleh orang tua kandung dan calon orang tua angkat: keluargaku mengadakan upacara --"
+        }
+      ]
+    },
+    {
+      "lema": "Am.bai3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami Pulau Ambai, sebelah selatan Pulau Yapen, Provinsi Papua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Ambai"
+        }
+      ]
+    }
+  ]
+}

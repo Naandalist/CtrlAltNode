@@ -1,0 +1,50 @@
+{
+  "istilah": "banjir",
+  "entri": "ban.jir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebanjiran",
+    "membanjir",
+    "membanjiri",
+    "terbanjiri"
+  ],
+  "gabunganKata": [
+    "banjir bandang",
+    "banjir bulanan",
+    "banjir darah",
+    "banjir kiriman",
+    "banjir maksimum",
+    "banjir rob",
+    "banjir tahunan",
+    "banjir tahunan minimum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.jir",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berair banyak dan deras, kadang-kadang meluap (tentang kali dan sebagainya): karena hujan turun terus-menerus, sungai itu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air yang banyak dan mengalir deras; air bah: pada musim hujan, daerah itu sering dilanda --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "peristiwa terbenamnya daratan (yang biasanya kering) karena volume air yang meningkat"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] ki[kiasan]",
+          "deskripsi": "datang (ada) banyak sekali: menjelang Lebaran di pasar -- petasan"
+        }
+      ]
+    }
+  ]
+}

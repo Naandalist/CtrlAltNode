@@ -1,0 +1,36 @@
+{
+  "istilah": "anjang",
+  "entri": "an.jang",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beranjang",
+    "menganjang"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.jang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Sd[Sunda: -]",
+          "deskripsi": "menganjang"
+        }
+      ]
+    },
+    {
+      "lema": "an.jang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "panggilan kepada orang yang berperawakan tinggi: si -- terantuk pintu ketika akan masuk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "aklimatisasi",
+  "entri": "ak.li.ma.ti.sa.si bentuk tidak baku: aklimasi",
+  "bentukTidakBaku": "aklimasi",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "aklimatisasi ketinggian"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.li.ma.ti.sa.si bentuk tidak baku: aklimasi",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penyesuaian (diri) dengan iklim, lingkungan, kondisi, atau suasana baru"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "penyesuaian tumbuhan atau binatang pada iklim yang berlainan dari iklim tempat asal sebagai akibat pemindahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "adaptasi fenotipe individu terhadap perubahan lingkungan yang terjadi akibat perlakuan percobaan, berupa penyesuaian morfologi atau fisiologi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "istilah": "bahasa peringkat tinggi",
+  "entri": "bahasa1 » bahasa peringkat tinggi",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa peringkat tinggi",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa yang dirancang sedemikian rupa sehingga program komputer dapat ditulis secara bebas untuk sistem komputer yang digunakan, misalnya basic, fentron, pascal"
+        }
+      ]
+    }
+  ]
+}

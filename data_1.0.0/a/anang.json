@@ -1,0 +1,37 @@
+{
+  "istilah": "anang",
+  "entri": "a.nang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.nang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "anakku"
+        }
+      ]
+    },
+    {
+      "lema": "a.nang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "gelar kebangsawanan Banjar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "kata sapaan terhadap anak atau orang tua laki-laki Banjar"
+        }
+      ]
+    }
+  ]
+}

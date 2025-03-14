@@ -1,0 +1,45 @@
+{
+  "istilah": "acak",
+  "entri": "a.cak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "acak-acakan",
+    "mengacak",
+    "pengacak",
+    "pengacakan",
+    "seacak",
+    "teracak",
+    "acak-acak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.cak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tanpa pola; sebarang: responden kuis itu diambil secara --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stat[Statistik: -]",
+          "deskripsi": "penggambaran suatu pemilihan yang tidak dibatasi atau kalau dibatasi harus diwujudkan dengan menggunakan pemilihan peluang"
+        }
+      ]
+    },
+    {
+      "lema": "a.cak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "acap"
+        }
+      ]
+    }
+  ]
+}

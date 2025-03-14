@@ -1,0 +1,58 @@
+{
+  "istilah": "aci",
+  "entri": "a.ci1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengacikan",
+    "acian",
+    "mengaci",
+    "pengacian"
+  ],
+  "gabunganKata": [
+    "aci sagu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ci1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sah; berlaku; jadi; benar: tidak -- tidak sah"
+        }
+      ]
+    },
+    {
+      "lema": "a.ci2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pati; tepung"
+        }
+      ]
+    },
+    {
+      "lema": "a.ci3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adukan semen dan air yang agak cair"
+        }
+      ]
+    },
+    {
+      "lema": "a.ci4",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ acik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "anda",
+  "entri": "an.da",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.da",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "sengaja diadang"
+        }
+      ]
+    },
+    {
+      "lema": "An.da1",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya]",
+          "deskripsi": "kata sapaan kepada orang yang diajak berbicara atau berkomunikasi (tidak membedakan tingkat, kedudukan, dan umur)"
+        }
+      ]
+    },
+    {
+      "lema": "-anda2 varian: -nda, -da",
+      "arti": [
+        {
+          "kelas_kata": "bentuk terikat[- : -]",
+          "deskripsi": "menyatakan hormat atau kekeluargaan: ayahanda; ibunda; pamanda"
+        }
+      ]
+    }
+  ]
+}

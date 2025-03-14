@@ -1,0 +1,42 @@
+{
+  "istilah": "ad",
+  "entri": "AD1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "AD1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Angkatan Darat"
+        }
+      ]
+    },
+    {
+      "lema": "AD2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Masehi; anno Domini"
+        }
+      ]
+    },
+    {
+      "lema": "AD3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "anggaran dasar"
+        }
+      ]
+    }
+  ]
+}

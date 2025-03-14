@@ -1,0 +1,43 @@
+{
+  "istilah": "bahas",
+  "entri": "ba.has1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membahas",
+    "bahasan",
+    "berbahas-bahasan",
+    "berbahasan",
+    "membahas",
+    "pembahas",
+    "pembahasan",
+    "perbahasan",
+    "terbahas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "penggalian tanah dan pencarian sesuatu di dalamnya; penelitian",
+    "kataAsal": "baḥṡ"
+  },
+  "data": [
+    {
+      "lema": "ba.has1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membahas"
+        }
+      ]
+    },
+    {
+      "lema": "ba.has2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "selidik; periksa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "bakul",
+  "entri": "ba.kul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbakul-bakul"
+  ],
+  "gabunganKata": [
+    "bakul bermain",
+    "bakul tangkai"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.kul1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "wadah atau tempat yang terbuat dari anyaman bambu atau rotan dengan mulut berbentuk lingkaran, sedangkan bagian bawahnya berbentuk segi empat yang ukurannya lebih kecil daripada ukuran bagian mulutnya"
+        }
+      ]
+    },
+    {
+      "lema": "ba.kul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "pedagang kecil di pasar (biasanya perempuan): -- jamu"
+        }
+      ]
+    }
+  ]
+}

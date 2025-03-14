@@ -1,0 +1,51 @@
+{
+  "istilah": "asak",
+  "entri": "a.sak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berasak",
+    "berasak-asak",
+    "berasak-asakan",
+    "diasak",
+    "mengasak",
+    "mengasakkan",
+    "pengasak",
+    "terasak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.sak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "penuh; padat sesak"
+        }
+      ]
+    },
+    {
+      "lema": "a.sak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "pusaran air"
+        }
+      ]
+    },
+    {
+      "lema": "a.sak3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ri[Melayu Riau: -]",
+          "deskripsi": "berpindah tempat duduk dengan cara menggeser pantat: pelan-pelan dia -- dari ruangan itu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "istilah": "anulus",
+  "entri": "a.nu.lus",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.nu.lus",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tek[Teknik: -]",
+          "deskripsi": "daerah antara pipa bor dan dinding lubang bor"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "struktur berbentuk cincin berupa tanda atau lubang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "tempat menerima sperma pada udang betina"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Zool[Zoologi: -]",
+          "deskripsi": "cincin sirkulus pada sisik ikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "bidang yang dibatasi oleh dua buah lingkaran sepusat yang berlainan jari-jarinya"
+        }
+      ]
+    }
+  ]
+}

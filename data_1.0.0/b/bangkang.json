@@ -1,0 +1,65 @@
+{
+  "istilah": "bangkang",
+  "entri": "bang.kang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terbangkang",
+    "membangkang",
+    "pembangkang",
+    "pembangkangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bang.kang1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terbangkang"
+        }
+      ]
+    },
+    {
+      "lema": "bang.kang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "sanggah"
+        }
+      ]
+    },
+    {
+      "lema": "bang.kang3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "terbuka atau berjarak lebar (tentang tanduk, sepit kala, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "bang.kang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gadis yang telah kehilangan keperawanannya"
+        }
+      ]
+    },
+    {
+      "lema": "bang.kang5",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bt[Batak: -]",
+          "deskripsi": "setengah tua (tentang kelapa yang tempurungnya mulai mengeras)"
+        }
+      ]
+    }
+  ]
+}

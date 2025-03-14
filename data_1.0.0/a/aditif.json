@@ -1,0 +1,28 @@
+{
+  "istilah": "aditif",
+  "entri": "a.di.tif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.di.tif",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan atau dihasilkan dengan penambahan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "zat yang ditambahkan pada suatu produk, misalnya sebagai penambah warna, penyedap rasa, pengawet pada makanan"
+        }
+      ]
+    }
+  ]
+}

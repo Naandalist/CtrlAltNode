@@ -1,0 +1,28 @@
+{
+  "istilah": "ahwal",
+  "entri": "ah.wal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "situasi yang sedang berlaku",
+    "kataAsal": "aḥwāl"
+  },
+  "data": [
+    {
+      "lema": "ah.wal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keadaan; ihwal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tas[Tasawuf: -]",
+          "deskripsi": "sesuatu yang singgah di dalam hati"
+        }
+      ]
+    }
+  ]
+}

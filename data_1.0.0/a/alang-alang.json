@@ -1,0 +1,51 @@
+{
+  "istilah": "alang-alang",
+  "entri": "a.lang-a.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "sebangsa rumput yang tinggi",
+    "kataAsal": "alaṅ-alaṅ"
+  },
+  "data": [
+    {
+      "lema": "a.lang-a.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "terna yang tingginya dapat mencapai 1 meter, berdaun memita, berbunga majemuk malai dengan banyak biji yang berukuran kecil, berguna sebagai pakan ternak, penahan erosi, akarnya dapat dijadikan obat tradisional; ilalang; lalang; kusu-kusu〔Imperata cylindrica〕"
+        }
+      ]
+    },
+    {
+      "lema": "a.lang-a.lang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "usia tanggung; kurang sedikit dari usia yang dipersyaratkan: adik saya tidak bisa masuk SD karena usianya --"
+        }
+      ]
+    },
+    {
+      "lema": "a.lang-a.lang3",
+      "arti": [
+        {
+          "kelas_kata": "Mk[Minangkabau: -]",
+          "deskripsi": "bagian tertentu dari binatang buruan, biasanya sekitar bahu, yang menjadi bagian pemilik tanah tempat binatang buruan ditemukan atau rebah"
+        }
+      ]
+    },
+    {
+      "lema": "a.lang-a.lang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "orang yang meminta-minta hasil ikan pada nelayan: musim panen ikan kali ini tidak banyak didatangi --"
+        }
+      ]
+    }
+  ]
+}

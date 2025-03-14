@@ -1,0 +1,36 @@
+{
+  "istilah": "ambiguitas",
+  "entri": "am.bi.gu.i.tas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.bi.gu.i.tas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sifat atau hal yang bermakna dua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ketidaktentuan; ketidakjelasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kemungkinan adanya makna atau penafsiran yang lebih dari satu atas suatu karya sastra"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kemungkinan adanya makna lebih dari satu dalam sebuah kata, gabungan kata, atau kalimat; ketaksaan"
+        }
+      ]
+    }
+  ]
+}

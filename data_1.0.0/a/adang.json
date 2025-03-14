@@ -1,0 +1,77 @@
+{
+  "istilah": "adang",
+  "entri": "a.dang1 bentuk tidak baku: hadang",
+  "bentukTidakBaku": "hadang",
+  "kataTurunan": [
+    "adang-adang",
+    "diadang",
+    "mengadang",
+    "mengadang-adangi",
+    "mengadangi",
+    "mengadangkan",
+    "pengadang",
+    "pengadangan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.dang1 bentuk tidak baku: hadang",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "halang"
+        }
+      ]
+    },
+    {
+      "lema": "a.dang2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "menanak nasi dengan menggunakan dandang"
+        }
+      ]
+    },
+    {
+      "lema": "a.dang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "saudara tua dari ibu (biasanya wanita); kakak ibu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dang"
+        }
+      ]
+    },
+    {
+      "lema": "a.dang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "abu hitam yang menempel pada kuali atau belanga"
+        }
+      ]
+    },
+    {
+      "lema": "A.dang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku&nbsp;bangsa&nbsp;yg&nbsp;berasal&nbsp;dr atau&nbsp;mendiami&nbsp;wilayah&nbsp;Kabupaten Alor, Provinsi Nusa Tenggara Timur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa&nbsp;yg&nbsp;dituturkan&nbsp;oleh&nbsp;suku&nbsp;Adang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "istilah": "ajuk",
+  "entri": "a.juk1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "diajuk",
+    "keajukan",
+    "mengajuk",
+    "mengajuk"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.juk1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "duga"
+        }
+      ]
+    },
+    {
+      "lema": "a.juk2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengajuk"
+        }
+      ]
+    }
+  ]
+}

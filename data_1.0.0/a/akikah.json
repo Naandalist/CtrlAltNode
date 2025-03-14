@@ -1,0 +1,31 @@
+{
+  "istilah": "akikah",
+  "entri": "a.ki.kah bentuk tidak baku: akekah, kekah",
+  "bentukTidakBaku": "akekah, kekah",
+  "kataTurunan": [
+    "berakikah",
+    "mengakikahkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "rambut bayi yang baru lahir; kambing yang disembelih pada hari ketujuh dari kelahiran bayi",
+    "kataAsal": "‘aqīqah"
+  },
+  "data": [
+    {
+      "lema": "a.ki.kah bentuk tidak baku: akekah, kekah",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "penyembelihan kambing atau domba sebagai pernyataan syukur orang tua atas kelahiran anaknya, dua ekor untuk anak laki-laki dan satu ekor untuk anak perempuan, lazimnya dilaksanakan pada hari ketujuh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "tradisi penyembelihan ternak pada upacara pencukuran rambut bayi ketika berusia tujuh hari sebagai pernyataan syukur"
+        }
+      ]
+    }
+  ]
+}

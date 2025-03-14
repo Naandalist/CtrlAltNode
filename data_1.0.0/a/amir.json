@@ -1,0 +1,34 @@
+{
+  "istilah": "amir",
+  "entri": "a.mir",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keamiran"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang mempunyai kekuasaan; pemimpin; raja",
+    "kataAsal": "amīr"
+  },
+  "data": [
+    {
+      "lema": "a.mir",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada anak raja"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin yang memerintah sebuah negeri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemimpin yang dipercaya mengetuai suatu pekerjaan"
+        }
+      ]
+    }
+  ]
+}

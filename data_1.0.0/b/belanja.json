@@ -1,0 +1,56 @@
+{
+  "istilah": "belanja",
+  "entri": "be.lan.ja /bêlanja/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "belanjaan",
+    "berbelanja",
+    "membelanjai",
+    "membelanjakan",
+    "pembelanja",
+    "pembelanjaan",
+    "perbelanjaan"
+  ],
+  "gabunganKata": [
+    "belanja angin",
+    "belanja barang",
+    "belanja bidan",
+    "belanja dapur",
+    "belanja daring",
+    "belanja maraton",
+    "belanja mati",
+    "belanja menetek",
+    "belanja menyusu",
+    "belanja pegawai",
+    "belanja tubuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.lan.ja /bêlanja/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang yang dikeluarkan untuk suatu keperluan; ongkos; biaya: -- resepsi perkawinan itu ditanggung calon suaminya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "uang yang dipakai untuk keperluan sehari-hari (rutin): keuntungan penjualan di warungnya cukup untuk -- (sehari-hari)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "upah; gaji: -- pembantunya Rp100.000,00 sebulan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "berbelanja"
+        }
+      ]
+    }
+  ]
+}

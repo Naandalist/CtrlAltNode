@@ -1,0 +1,32 @@
+{
+  "istilah": "artis",
+  "entri": "ar.tis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keartisan",
+    "seartis"
+  ],
+  "gabunganKata": [
+    "artis ibu kota",
+    "artis magang",
+    "artis papan atas",
+    "artis tamu"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.tis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli seni; seniman, seniwati (seperti penyanyi, pemain film, pelukis, pemain drama)"
+        }
+      ]
+    }
+  ]
+}

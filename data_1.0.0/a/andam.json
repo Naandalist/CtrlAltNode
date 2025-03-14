@@ -1,0 +1,50 @@
+{
+  "istilah": "andam",
+  "entri": "an.dam1",
+  "bentukTidakBaku": "endam, handam, hendam",
+  "kataTurunan": [
+    "andaman",
+    "berandam",
+    "mengandam",
+    "pengandam",
+    "andaman",
+    "mengandam",
+    "mengandamkan",
+    "terandam"
+  ],
+  "gabunganKata": [
+    "andam surai"
+  ],
+  "peribahasa": [
+    "bagai anak dara mabuk andam"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.dam1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "atur; tata"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ri[Melayu Riau: -]",
+          "deskripsi": "memepat anak rambut bagian depan dan menghiasnya (tentang merias calon pengantin)"
+        }
+      ]
+    },
+    {
+      "lema": "an.dam2 bentuk tidak baku: endam, handam, hendam",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "kurung, pingit"
+        }
+      ]
+    }
+  ]
+}

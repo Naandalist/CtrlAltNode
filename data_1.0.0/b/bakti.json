@@ -1,0 +1,33 @@
+{
+  "istilah": "bakti",
+  "entri": "bak.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbakti",
+    "kebaktian",
+    "membaktikan",
+    "pembaktian"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "devosi, rasa sayang; kesetiaan, penghormatan; pemujaan, ibadah",
+    "kataAsal": "bhakti"
+  },
+  "data": [
+    {
+      "lema": "bak.ti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pernyataan tunduk dan hormat; perbuatan yang menyatakan setia (kasih, hormat, tunduk): -- kepada Tuhan Yang Maha Esa; -- seorang anak kepada orang tuanya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "memperhambakan diri; setia: sebagai tanda -- kepada nusa dan bangsa, ia berusaha berprestasi sebaik-baiknya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "amorf",
+  "entri": "a.morf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pengamorfan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.morf",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak mempunyai bentuk atau tidak jelas bentuknya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Kim[Kimia: -]",
+          "deskripsi": "tidak menghablur dan tidak mempunyai bentuk geometri tertentu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "tidak memiliki susunan atom (tentang bahan mineral)"
+        }
+      ]
+    }
+  ]
+}

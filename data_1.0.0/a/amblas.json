@@ -1,0 +1,32 @@
+{
+  "istilah": "amblas",
+  "entri": "am.blas",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.blas",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "hilang; lenyap: hartanya -- di meja judi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] ki[kiasan]",
+          "deskripsi": "tidak muncul-muncul lagi"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "turun dari permukaan, biasanya digunakan untuk permukaan tanah: jalan yang -- itu mengakibatkan kemacetan sepanjang tiga kilometer"
+        }
+      ]
+    }
+  ]
+}

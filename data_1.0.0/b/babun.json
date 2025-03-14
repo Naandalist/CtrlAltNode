@@ -1,0 +1,33 @@
+{
+  "istilah": "babun",
+  "entri": "ba.bun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.bun1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kera genus Papio yang terdapat di Asia dan Afrika termasuk keluarga Cercopithecoidea"
+        }
+      ]
+    },
+    {
+      "lema": "ba.bun2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "alat musik jenis gendang (dari Kalimantan Selatan), biasanya dipakai untuk mengiringi pencak silat atau pertunjukan wayang"
+        }
+      ]
+    }
+  ]
+}

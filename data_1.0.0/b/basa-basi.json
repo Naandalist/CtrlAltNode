@@ -1,0 +1,43 @@
+{
+  "istilah": "basa-basi",
+  "entri": "ba.sa-ba.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbasa-basi"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "yang berbicara",
+    "kataAsal": "bhāṣin"
+  },
+  "data": [
+    {
+      "lema": "ba.sa-ba.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "adat sopan santun; tata krama pergaulan: tidak tahu di --; hal itu dilakukan hanyalah sebagai -- dalam pergaulan ini"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ungkapan yang digunakan hanya untuk sopan santun dan tidak untuk menyampaikan informasi, misalnya kalimat “apa kabar?” yang diucapkan apabila kita bertemu dengan kawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perihal menggunakan ungkapan semacam itu"
+        }
+      ]
+    },
+    {
+      "lema": "ba.sa-ba.si2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "trompet khas Sulawesi Selatan, terbuat dari bambu yang dipasang rangkap"
+        }
+      ]
+    }
+  ]
+}

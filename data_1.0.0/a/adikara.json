@@ -1,0 +1,32 @@
+{
+  "istilah": "adikara",
+  "entri": "a.di.ka.ra bentuk tidak baku: andikara",
+  "bentukTidakBaku": "andikara",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "administrasi, otoritas, kekuasaan, pemerintahan",
+    "kataAsal": "adhikāra"
+  },
+  "data": [
+    {
+      "lema": "a.di.ka.ra bentuk tidak baku: andikara",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "berkuasa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sewenang-wenang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "kekuasaan; kewibawaan"
+        }
+      ]
+    }
+  ]
+}

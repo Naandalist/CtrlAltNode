@@ -1,0 +1,46 @@
+{
+  "istilah": "belam",
+  "entri": "be.lam1 /bêlam/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membelam",
+    "terbelam",
+    "membelam"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.lam1 /bêlam/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membelam"
+        }
+      ]
+    },
+    {
+      "lema": "be.lam2 /bêlam/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kabur; suram"
+        }
+      ]
+    },
+    {
+      "lema": "be.lam3 /bêlam/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "palang atau kancing pintu (pagar dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

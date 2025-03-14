@@ -1,0 +1,33 @@
+{
+  "istilah": "abk",
+  "entri": "ABK1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ABK1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "anak buah kapal"
+        }
+      ]
+    },
+    {
+      "lema": "ABK2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "anak berkebutuhan khusus"
+        }
+      ]
+    }
+  ]
+}

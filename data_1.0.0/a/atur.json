@@ -1,0 +1,60 @@
+{
+  "istilah": "atur",
+  "entri": "a.tur1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "aturan",
+    "beratur",
+    "beraturan",
+    "keteraturan",
+    "mengatur",
+    "mengaturkan",
+    "pengatur",
+    "pengaturan",
+    "peraturan",
+    "teratur",
+    "pengatur",
+    "mengatur",
+    "mengaturkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.tur1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "susun; utus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pengaturan kembali dengan melihat peraturan yang berlaku (tentang pertandingan)"
+        }
+      ]
+    },
+    {
+      "lema": "a.tur2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pengatur"
+        }
+      ]
+    },
+    {
+      "lema": "a.tur3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "tusuk"
+        }
+      ]
+    }
+  ]
+}

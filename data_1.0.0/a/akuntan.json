@@ -1,0 +1,34 @@
+{
+  "istilah": "akuntan",
+  "entri": "a.kun.tan",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "perakuntanan"
+  ],
+  "gabunganKata": [
+    "akuntan intern",
+    "akuntan publik",
+    "akuntan umum"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.kun.tan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli akuntansi yang bertugas menyusun, membimbing, mengawasi, menginspeksi, dan memperbaiki tata buku serta administrasi perusahaan atau instansi pemerintah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar akademis untuk lulusan perguruan tinggi jurusan akuntansi"
+        }
+      ]
+    }
+  ]
+}

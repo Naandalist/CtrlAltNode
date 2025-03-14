@@ -1,0 +1,43 @@
+{
+  "istilah": "artikulasi",
+  "entri": "ar.ti.ku.la.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berartikulasi",
+    "mengartikulasikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.ti.ku.la.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "sendi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "sambungan di antara dua bagian, misalnya tempat melekatnya daun pada ranting"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "buku pada batang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "lafal, pengucapan kata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "perubahan rongga dan ruang dalam saluran suara untuk menghasilkan bunyi bahasa"
+        }
+      ]
+    }
+  ]
+}

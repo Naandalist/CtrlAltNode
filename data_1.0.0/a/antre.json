@@ -1,0 +1,33 @@
+{
+  "istilah": "antre",
+  "entri": "an.tre bentuk tidak baku: antri",
+  "bentukTidakBaku": "antri",
+  "kataTurunan": [
+    "antrean",
+    "mengantre",
+    "pengantre",
+    "pengantrean"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.tre bentuk tidak baku: antri",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "berdiri berderet-deret ke belakang menunggu untuk mendapat giliran (membeli karcis, mengambil ransum, membeli bensin, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "antrean"
+        }
+      ]
+    }
+  ]
+}

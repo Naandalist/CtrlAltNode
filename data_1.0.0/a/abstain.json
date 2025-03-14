@@ -1,0 +1,30 @@
+{
+  "istilah": "abstain",
+  "entri": "ab.stain",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keabstainan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab.stain",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Pol[Politik dan Pemerintahan: -]",
+          "deskripsi": "tidak memberikan suara (dalam pemungutan suara); tidak menentukan sikap: ia -- dalam pemungutan suara untuk memilih ketua baru"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "berpantang makanan atau minuman tertentu (lemak, kopi)"
+        }
+      ]
+    }
+  ]
+}

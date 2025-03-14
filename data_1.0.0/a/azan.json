@@ -1,0 +1,26 @@
+{
+  "istilah": "azan",
+  "entri": "a.zan bentuk tidak baku: adan1, adhan, adzan",
+  "bentukTidakBaku": "adan1, adhan, adzan",
+  "kataTurunan": [
+    "mengazankan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pemberitahuan masuknya waktu salat",
+    "kataAsal": "ażān"
+  },
+  "data": [
+    {
+      "lema": "a.zan bentuk tidak baku: adan1, adhan, adzan",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "seruan untuk mengajak orang melakukan salat berjemaah; bang: kedengaran -- sayup-sayup sampai; muazin ialah orang yang mengumandangkan --"
+        }
+      ]
+    }
+  ]
+}

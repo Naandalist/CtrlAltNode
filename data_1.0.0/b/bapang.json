@@ -1,0 +1,42 @@
+{
+  "istilah": "bapang",
+  "entri": "ba.pang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bagian tertentu dari pakaian atau perhiasan; seorang pemakai bapaŋ; gelar jabatan resmi tertentu",
+    "kataAsal": "bapaṅ"
+  },
+  "data": [
+    {
+      "lema": "ba.pang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bapak (sebagai panggilan)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.pang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pending kuningan: ada juga pakaian raja yang lain, seperti jubah, baju kerajaan, dan --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.pang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "papan penunjuk arah: ada banyak -- yang harus diganti karena sudah usang"
+        }
+      ]
+    }
+  ]
+}

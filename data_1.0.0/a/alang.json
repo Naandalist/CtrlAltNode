@@ -1,0 +1,94 @@
+{
+  "istilah": "alang",
+  "entri": "a.lang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "alangan",
+    "beralang",
+    "beralangan",
+    "mengalang",
+    "mengalang-alangi",
+    "mengalangi",
+    "mengalangkan",
+    "pengalang",
+    "teralang",
+    "teralang-alang",
+    "alang-alangan"
+  ],
+  "gabunganKata": [
+    "alang bujur",
+    "alang hari",
+    "alang kepalang"
+  ],
+  "peribahasa": [
+    "alang berjawab, tepuk berbalas; alang berjawab, tepuk berbalas; alang-alang berdawat biarlah hitam; tepuk berbalas, alang berjawat; teralang-alang bagaikan sampah dalam mata"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "terletak melintang, jarak lintas; menghalangi, merintangi, menentang",
+    "kataAsal": "alaṅ"
+  },
+  "data": [
+    {
+      "lema": "a.lang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang melintang: ditariknya garis --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kayu yang dipasang melintang (di antara dua tiang atau dua dinding perahu): -- muka perahu itu terbuat dari kayu yang kuat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dinding penyekat (bilik dan sebagainya): -- kedai; -- balai; -- rumah"
+        }
+      ]
+    },
+    {
+      "lema": "a.lang2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sedang"
+        },
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "tanggung(-tanggung); setengah-setengah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tengah-tengah: saudara yang --, bukan bungsu bukan sulung"
+        }
+      ]
+    },
+    {
+      "lema": "a.lang3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "hadiah; pemberian"
+        }
+      ]
+    },
+    {
+      "lema": "a.lang4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ach[Aceh: -]",
+          "deskripsi": "botol berleher panjang tempat air minum"
+        }
+      ]
+    },
+    {
+      "lema": "a.lang5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ss[Sasak: -]",
+          "deskripsi": "lumbung padi yang berbentuk prisma segitiga, atap dan dindingnya terbuat dari alang-alang, terdapat di daerah Lombok: hasil panen petani disimpan di dalam --"
+        }
+      ]
+    }
+  ]
+}

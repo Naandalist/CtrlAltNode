@@ -1,0 +1,37 @@
+{
+  "istilah": "asfal",
+  "entri": "as.fal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "rendah",
+    "kataAsal": "asfal"
+  },
+  "data": [
+    {
+      "lema": "as.fal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "hina; rendah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "terendah"
+        }
+      ]
+    },
+    {
+      "lema": "as.fal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aspal"
+        }
+      ]
+    }
+  ]
+}

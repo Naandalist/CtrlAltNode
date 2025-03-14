@@ -1,0 +1,50 @@
+{
+  "istilah": "beling",
+  "entri": "be.ling1 /bêling/",
+  "bentukTidakBaku": "mbeling",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ling1 /bêling/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pecahan kaca (porselen dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serbuk halus-halus dari pecahan kaca dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tembikar"
+        }
+      ]
+    },
+    {
+      "lema": "be.ling2 /bêling/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kecibeling"
+        }
+      ]
+    },
+    {
+      "lema": "be.ling3 /bêling/bentuk tidak baku: mbeling",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Jw[Jawa: -]",
+          "deskripsi": "nakal: sewaktu kecil ia dikenal sebagai anak yang --"
+        }
+      ]
+    }
+  ]
+}

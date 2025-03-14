@@ -1,0 +1,30 @@
+{
+  "istilah": "angsa",
+  "entri": "ang.sa",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "angsa batu",
+    "angsa dua",
+    "angsa laut"
+  ],
+  "peribahasa": [
+    "sudah tidak tersudu oleh angsa, baharu diberikan kepada itik"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "angsa, burung bangau",
+    "kataAsal": "haṃsa"
+  },
+  "data": [
+    {
+      "lema": "ang.sa",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "soang〔Cygnus spp.〕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "apu",
+  "entri": "a.pu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.pu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapur yang sudah diendapkan untuk ramuan makan sirih (dicampur dengan gambir, kapulaga, cengkih, dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "APU",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "ahli peneliti utama"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "istilah": "aksi",
+  "entri": "ak.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beraksi"
+  ],
+  "gabunganKata": [
+    "aksi dramatik",
+    "aksi eksentrik",
+    "aksi jarah",
+    "aksi kekerasan",
+    "aksi laga",
+    "aksi nada",
+    "aksi otot eksentrik",
+    "aksi otot sepusat",
+    "aksi penyerangan",
+    "aksi polisional",
+    "aksi sepihak",
+    "aksi sosial",
+    "aksi tanjak",
+    "aksi tunda",
+    "aksi unjuk rasa"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gerakan: -- pengumpulan dana"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tindakan: -- pembalasan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sikap (gerak-gerak, tingkah laku) yang dibuat-buat: ia berjalan mondar-mandir dengan --nya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "elok sekali (tentang pakaian, tingkah laku, dan sebagainya): dasinya -- benar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "istilah": "beludak",
+  "entri": "be.lu.dak1 /bêludak/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membeludak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.lu.dak1 /bêludak/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kobra"
+        }
+      ]
+    },
+    {
+      "lema": "be.lu.dak2 /bêludak/",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membeludak"
+        }
+      ]
+    }
+  ]
+}

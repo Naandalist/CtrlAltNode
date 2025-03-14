@@ -1,0 +1,42 @@
+{
+  "istilah": "amau",
+  "entri": "a.ma.u1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ma.u1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Wdm[Wandamen: -]",
+          "deskripsi": "mencacah atau meramu (yang berkaitan dengan sagu): para ibu di kampung itu -- sagu secara bersama-sama"
+        }
+      ]
+    },
+    {
+      "lema": "a.ma.u2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sa[Serua: Bahasa di Maluku, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "bulu yang tumbuh pada badan selain rambut: orang itu memiliki -- yang cukup lebat"
+        }
+      ]
+    },
+    {
+      "lema": "a.ma.u3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "daratan yang tergenang air"
+        }
+      ]
+    }
+  ]
+}

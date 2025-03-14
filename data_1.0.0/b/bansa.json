@@ -1,0 +1,33 @@
+{
+  "istilah": "bansa",
+  "entri": "ban.sa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.sa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mu[Muna: -]",
+          "deskripsi": "keranjang kecil dibuat dari anyaman bambu, digunakan untuk  buang air kecil bagi gadis yang dipingit"
+        }
+      ]
+    },
+    {
+      "lema": "ban.sa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kls[Kulisusu: bahasa di Provinsi Sulawesi Tenggara, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "dahan pohon palem"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "bahasa isyarat",
+  "entri": "bahasa1 » bahasa isyarat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa isyarat",
+      "arti": [
+        {
+          "kelas_kata": "Antr[Antropologi: -]",
+          "deskripsi": "bahasa yang tidak menggunakan bunyi ucapan manusia atau tulisan dalam sistem perlambangannya"
+        },
+        {
+          "kelas_kata": "Ling[Linguistik: -]",
+          "deskripsi": "bahasa yang menggunakan isyarat (gerakan tangan, kepala, badan dan sebagainya), khusus diciptakan untuk tunarungu, tunawicara, tunanetra, dan sebagainya"
+        }
+      ]
+    }
+  ]
+}

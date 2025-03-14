@@ -1,0 +1,33 @@
+{
+  "istilah": "ajik",
+  "entri": "a.jik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.jik1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "enak; lezat"
+        }
+      ]
+    },
+    {
+      "lema": "a.jik2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "penganan yang terbuat dari beras pulut putih, dikukus, dimasak dengan gula merah hingga mengeras"
+        }
+      ]
+    }
+  ]
+}

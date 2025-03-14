@@ -1,0 +1,35 @@
+{
+  "istilah": "anak emas",
+  "entri": "a.nak e.mas /anak êmas/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "menganakemaskan",
+    "penganakemasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.nak e.mas /anak êmas/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anak budak belian yang diambil anak oleh tuannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang paling disayangi (disenangi) oleh atasannya (keluarganya, kepalanya, majikannya, tuannya, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebutan untuk orang Indonesia yang diambil oleh bangsa lain karena keunggulannya"
+        }
+      ]
+    }
+  ]
+}

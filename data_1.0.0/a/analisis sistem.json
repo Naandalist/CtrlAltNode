@@ -1,0 +1,32 @@
+{
+  "istilah": "analisis sistem",
+  "entri": "analisis » analisis sistem",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "analisis » analisis sistem",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "prosedur atau proses sistematis yang memungkinkan pengombinasian pertimbangan para pakar dari berbagai bidang ilmu sehingga diperoleh hasil yang sempurna dari kegunaan tiap disiplin"
+        },
+        {
+          "kelas_kata": "",
+          "deskripsi": "pengamatan mengenai suatu kegiatan, metode, prosedur, atau teknik untuk menentukan manfaat kegiatan tersebut dan cara terbaik untuk memperolehnya"
+        },
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "pemeriksaan terhadap suatu sistem atau masalah dengan tujuan untuk memperbaiki sistem yang ada atau merancang dan mengimplementasikan sistem baru"
+        }
+      ]
+    }
+  ]
+}

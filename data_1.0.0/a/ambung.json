@@ -1,0 +1,57 @@
+{
+  "istilah": "ambung",
+  "entri": "am.bung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengambung",
+    "mengambung-ambung",
+    "mengambungambungkan",
+    "terambung-ambung",
+    "mengambung",
+    "mengambung"
+  ],
+  "gabunganKata": [
+    "ambung cinu"
+  ],
+  "peribahasa": [
+    "duduk di ambung-ambung taji"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "mencium, mencium bau",
+    "kataAsal": "ambuṅ"
+  },
+  "data": [
+    {
+      "lema": "am.bung1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengambung; mengambung-ambung; mengambungambungkan; terambung-ambung"
+        }
+      ]
+    },
+    {
+      "lema": "am.bung2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keranjang atau karung untuk menggendong barang-barang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "wadah berbentuk bulat panjang, terbuat dari anyaman rotan, bagian tengah diberi tali untuk dikaitkan ke bahu, dan bagian atas diberi tali untuk disangkutkan ke kepala"
+        }
+      ]
+    },
+    {
+      "lema": "am.bung3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "cium"
+        }
+      ]
+    }
+  ]
+}

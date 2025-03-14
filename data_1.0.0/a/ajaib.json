@@ -1,0 +1,41 @@
+{
+  "istilah": "ajaib",
+  "entri": "a.ja.ib1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keajaiban",
+    "mengajaibkan",
+    "seajaib"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang membuat ganjil",
+    "kataAsal": "‘ajāib"
+  },
+  "data": [
+    {
+      "lema": "a.ja.ib1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "ganjil; aneh; jarang ada; tidak seperti biasa; mengherankan: pertunjukan yang --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Sas[Sastra: -]",
+          "deskripsi": "sesuatu yang aneh; keheranan; yang tidak dapat diterangkan dengan akal: itulah -- Allah"
+        }
+      ]
+    },
+    {
+      "lema": "a.ja.ib2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "anyaman yang terjadi pada gumpalan ginjal yang arteri darahnya berubah menjadi kapiler, kemudian bersatu kembali menjadi arteri"
+        }
+      ]
+    }
+  ]
+}

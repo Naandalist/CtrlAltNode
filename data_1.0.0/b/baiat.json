@@ -1,0 +1,31 @@
+{
+  "istilah": "baiat",
+  "entri": "bai.at bentuk tidak baku: bayat",
+  "bentukTidakBaku": "bayat",
+  "kataTurunan": [
+    "membaiat",
+    "pembaiatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Persia",
+    "arti": "pelantikan",
+    "kataAsal": "bai‘at"
+  },
+  "data": [
+    {
+      "lema": "bai.at bentuk tidak baku: bayat",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pelantikan secara resmi; pengangkatan; pengukuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "pengucapan sumpah setia kepada imam (pemimpin)"
+        }
+      ]
+    }
+  ]
+}

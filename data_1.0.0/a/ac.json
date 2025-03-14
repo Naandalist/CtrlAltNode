@@ -1,0 +1,42 @@
+{
+  "istilah": "ac",
+  "entri": "AC1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "AC1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "pengondisi udara; penyejuk udara; air conditioning; air conditioner"
+        }
+      ]
+    },
+    {
+      "lema": "AC2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sebelum Masehi; SM; ante Christum"
+        }
+      ]
+    },
+    {
+      "lema": "AC3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "arus bolak-balik; alternating current"
+        }
+      ]
+    }
+  ]
+}

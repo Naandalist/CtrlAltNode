@@ -1,0 +1,41 @@
+{
+  "istilah": "aco",
+  "entri": "a.co1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "aco-acoan",
+    "acoan",
+    "mengaco"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.co1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "aco-acoan; acoan; mengaco"
+        }
+      ]
+    },
+    {
+      "lema": "a.co2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "titik awal; batas awal (tentang permainan, perlombaan, atau pertandingan): para pemain sudah berbaris di garis --"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Ri[Melayu Riau: -]",
+          "deskripsi": "mulai (tentang permainan, perlombaan, atau pertandingan): para pelari akan -- dari balai kota"
+        }
+      ]
+    }
+  ]
+}

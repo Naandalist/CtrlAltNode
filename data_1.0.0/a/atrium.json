@@ -1,0 +1,37 @@
+{
+  "istilah": "atrium",
+  "entri": "at.rium1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "at.rium1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruang tengah yang terbuka di dalam sebuah gedung, biasanya beratap kaca seperti pusat perbelanjaan dan hotel; beranda"
+        }
+      ]
+    },
+    {
+      "lema": "at.ri.um2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "rongga dada"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "bagian jantung yang menerima darah dari pembuluh darah balik"
+        }
+      ]
+    }
+  ]
+}

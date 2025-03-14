@@ -1,0 +1,36 @@
+{
+  "istilah": "anjlok",
+  "entri": "an.jlok",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.jlok",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "meloncat ke bawah dari tempat ketinggian (dengan posisi kedua kaki sebagai tumpuan)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "turun dari posisi semula (tentang jembatan, bangunan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "keluar dari rel (tentang kereta api)"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "turun banyak dalam waktu sangat singkat (tentang harga, berat badan, kesehatan orang, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

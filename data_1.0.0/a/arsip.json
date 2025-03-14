@@ -1,0 +1,46 @@
+{
+  "istilah": "arsip",
+  "entri": "ar.sip",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kearsipan",
+    "mengarsip",
+    "mengarsipkan",
+    "pengarsip",
+    "pengarsipan",
+    "searsip",
+    "terarsip"
+  ],
+  "gabunganKata": [
+    "arsip aktif",
+    "arsip dinamis",
+    "arsip inaktif",
+    "arsip statis",
+    "arsip utuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.sip",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dokumen tertulis (surat, akta, dan sebagainya), lisan (pidato, ceramah, dan sebagainya), atau bergambar (foto, film, dan sebagainya) dari waktu yang lampau, disimpan dalam media tulis (kertas), elektronik (pita kaset, pita video, disket komputer, dan sebagainya), biasanya dikeluarkan oleh instansi resmi, disimpan dan dipelihara di tempat khusus untuk referensi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat penyimpanan berkas (program atau data) sebagai cadangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kom[Ilmu Komunikasi: -]",
+          "deskripsi": "dokumentasi penerbitan pers yang berisikan guntingan-guntingan surat kabar, bahan-bahan referensi, dan foto"
+        }
+      ]
+    }
+  ]
+}

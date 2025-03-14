@@ -1,0 +1,44 @@
+{
+  "istilah": "abis",
+  "entri": "a.bis1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengabis"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bis1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Geo[Geografi dan Geologi: -]",
+          "deskripsi": "bagian yang paling dalam dari lautan yang mempunyai kedalaman lebih dari 400 m"
+        }
+      ]
+    },
+    {
+      "lema": "a.bis2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengabis"
+        }
+      ]
+    },
+    {
+      "lema": "a.bis3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "habis"
+        }
+      ]
+    }
+  ]
+}

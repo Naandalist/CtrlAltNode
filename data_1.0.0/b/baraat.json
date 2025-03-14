@@ -1,0 +1,28 @@
+{
+  "istilah": "baraat",
+  "entri": "ba.ra.at",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pembebasan",
+    "kataAsal": "barā’ah"
+  },
+  "data": [
+    {
+      "lema": "ba.ra.at",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "langkah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "pengawal"
+        }
+      ]
+    }
+  ]
+}

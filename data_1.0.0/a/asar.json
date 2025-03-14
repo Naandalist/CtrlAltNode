@@ -1,0 +1,44 @@
+{
+  "istilah": "asar",
+  "entri": "a.sar1 bentuk tidak baku: ashar, asyar",
+  "bentukTidakBaku": "ashar, asyar",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "asar rendah",
+    "asar tinggi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bekas",
+    "kataAsal": "aṡar"
+  },
+  "data": [
+    {
+      "lema": "a.sar1 bentuk tidak baku: ashar, asyar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu petang hari: pertemuan itu dilangsungkan pada waktu --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "waktu salat wajib pada petang hari antara sehabis waktu zuhur dan terbenam matahari"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "(huruf awal ditulis dengan kapital) salat wajib sebanyak empat rakaat pada petang hari"
+        }
+      ]
+    },
+    {
+      "lema": "a.sar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bekas (tentang sisa kenangan): kenangan itu tiada --nya lagi"
+        }
+      ]
+    }
+  ]
+}

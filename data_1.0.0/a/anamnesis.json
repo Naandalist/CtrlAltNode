@@ -1,0 +1,32 @@
+{
+  "istilah": "anamnesis",
+  "entri": "a.nam.ne.sis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.nam.ne.sis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "keterangan tentang kehidupan seseorang (klien) yang diperoleh melalui wawancara dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "riwayat orang sakit dan penyakitnya pada masa lampau"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fil[Filsafat: -]",
+          "deskripsi": "kegiatan mengenang kembali pengalaman sebelumnya (sering digunakan dalam aliran filsafat Platonik)"
+        }
+      ]
+    }
+  ]
+}

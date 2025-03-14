@@ -1,0 +1,35 @@
+{
+  "istilah": "arti",
+  "entri": "ar.ti",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "artian",
+    "berarti",
+    "keberartian",
+    "mengartikan",
+    "pengartian",
+    "searti"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "kekayaan, keinginan, makna, harapan, rasa",
+    "kataAsal": "artha"
+  },
+  "data": [
+    {
+      "lema": "ar.ti",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "maksud yang terkandung (dalam perkataan, kalimat); makna: apa -- isyarat itu?"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "guna; faedah: apa --nya bagi kamu menyakiti binatang itu"
+        }
+      ]
+    }
+  ]
+}

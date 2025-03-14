@@ -1,0 +1,42 @@
+{
+  "istilah": "anggo",
+  "entri": "ang.go1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ang.go1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Abr[Abrap: bahasa di provinsi Papua]",
+          "deskripsi": "jenis kunyit hutan"
+        }
+      ]
+    },
+    {
+      "lema": "ang.go2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] My[Muyu: -]",
+          "deskripsi": "pembakaran barang-barang tertentu, khususnya sisa-sisa binatang yang tertangkap, untuk inisiasi anak laki-laki dalam upacara penyembelihan babi keramat atau upacara perkawinan"
+        }
+      ]
+    },
+    {
+      "lema": "ang.go3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tlk[Tolaki: -]",
+          "deskripsi": "lagu tradisional yang berisikan puji-pujian dan sanjungan yang berfungsi sebagai pelajaran pembentukan watak kepahlawanan"
+        }
+      ]
+    }
+  ]
+}

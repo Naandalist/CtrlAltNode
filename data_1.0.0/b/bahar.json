@@ -1,0 +1,37 @@
+{
+  "istilah": "bahar",
+  "entri": "ba.har1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "laut",
+    "kataAsal": "baḥr"
+  },
+  "data": [
+    {
+      "lema": "ba.har1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "laut"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sungai (danau) besar"
+        }
+      ]
+    },
+    {
+      "lema": "ba.har2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "satuan ukuran panjang dari ujung kaki ke ujung tangan yang lurus ke atas"
+        }
+      ]
+    }
+  ]
+}

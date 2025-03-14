@@ -1,0 +1,33 @@
+{
+  "istilah": "ai",
+  "entri": "ai1 bentuk tidak baku: aih",
+  "bentukTidakBaku": "aih",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ai1 bentuk tidak baku: aih",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru untuk menyatakan heran dan sebagainya: --, dari mana kau peroleh bunga-bunga itu?"
+        }
+      ]
+    },
+    {
+      "lema": "ai2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ach[Aceh: -]",
+          "deskripsi": "sangat rindu"
+        }
+      ]
+    }
+  ]
+}

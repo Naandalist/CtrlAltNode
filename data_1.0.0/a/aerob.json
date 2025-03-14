@@ -1,0 +1,32 @@
+{
+  "istilah": "aerob",
+  "entri": "a.e.rob",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.e.rob",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "sifat makhluk yang untuk hidup dan pertumbuhannya memerlukan oksigen bebas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "makhluk yang dapat hidup hanya apabila tersedia oksigen bebas"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "lingkungan yang kaya akan oksigen"
+        }
+      ]
+    }
+  ]
+}

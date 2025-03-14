@@ -1,0 +1,37 @@
+{
+  "istilah": "bagas",
+  "entri": "ba.gas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.gas1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tetap kuat (tentang badan)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kuat dan kencang (tentang angin)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisa batang tebu setelah diperas sarinya"
+        }
+      ]
+    }
+  ]
+}

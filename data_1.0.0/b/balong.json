@@ -1,0 +1,51 @@
+{
+  "istilah": "balong",
+  "entri": "ba.long1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "balong lumpur",
+    "balong macan",
+    "balong sunu",
+    "balong tikus"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.long1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "kolam untuk membudidayakan ikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tanah rendah (lekuk) yang tergenang air dan berlumpur"
+        }
+      ]
+    },
+    {
+      "lema": "ba.long2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "babunyai"
+        }
+      ]
+    },
+    {
+      "lema": "ba.long3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sng[Sangir: -]",
+          "deskripsi": "tempat menyimpan ikan, biasanya digantung, dibuat dari anyaman pelepah sagu"
+        }
+      ]
+    }
+  ]
+}

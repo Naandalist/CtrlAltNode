@@ -1,0 +1,79 @@
+{
+  "istilah": "asi",
+  "entri": "a.si1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengasi",
+    "asian"
+  ],
+  "gabunganKata": [
+    "asi akhir",
+    "asi awal",
+    "asi donor",
+    "asi eksklusif",
+    "asi matur",
+    "asi perahan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.si1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "perhatian"
+        }
+      ]
+    },
+    {
+      "lema": "a.si2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "benar; sah"
+        }
+      ]
+    },
+    {
+      "lema": "a.si3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "mujur; mustajab"
+        }
+      ]
+    },
+    {
+      "lema": "a.si5",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Stn[Sentani: -]",
+          "deskripsi": "kata sapaan atau panggilan kepada kakek oleh cucu dari anak perempuan"
+        }
+      ]
+    },
+    {
+      "lema": "a.si5",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Kls[Kulisusu: bahasa di Provinsi Sulawesi Tenggara, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "merasa disayang: adik -- oleh kakak karena dibelikan hadiah"
+        }
+      ]
+    },
+    {
+      "lema": "ASI4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "air susu ibu"
+        }
+      ]
+    }
+  ]
+}

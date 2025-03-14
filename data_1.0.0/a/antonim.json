@@ -1,0 +1,31 @@
+{
+  "istilah": "antonim",
+  "entri": "an.to.nim",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berantonim",
+    "keantoniman"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.to.nim",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kata yang berlawanan makna dengan kata lain: “buruk” adalah -- dari “baik”"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "leksem yang berpasangan secara antonimi"
+        }
+      ]
+    }
+  ]
+}

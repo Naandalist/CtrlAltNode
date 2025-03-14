@@ -1,0 +1,41 @@
+{
+  "istilah": "adam",
+  "entri": "a.dam2",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama manusia pertama; bapak manusia",
+    "kataAsal": "ādam"
+  },
+  "data": [
+    {
+      "lema": "a.dam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bumi; tanah"
+        }
+      ]
+    },
+    {
+      "lema": "A.dam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nabi, rasul, dan nama manusia laki-laki pertama yang diciptakan oleh Tuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ditulis dengan huruf kecil) laki-laki: pada waktu salat, umumnya kaum -- dan kaum Hawa dipisah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Isl[Agama Islam: -]",
+          "deskripsi": "nabi pertama yang diutus Allah Swt."
+        }
+      ]
+    }
+  ]
+}

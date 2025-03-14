@@ -1,0 +1,36 @@
+{
+  "istilah": "autograf",
+  "entri": "au.to.graf bentuk tidak baku: otograf",
+  "bentukTidakBaku": "otograf",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "au.to.graf bentuk tidak baku: otograf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "tulisan pribadi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "naskah asli yang ditulis tangan oleh pengarangnya sendiri"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda tangan dari seseorang yang termasyhur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "operasi transplantasi jaringan dari satu bagian badan ke lokasi lain pada individu yang sama"
+        }
+      ]
+    }
+  ]
+}

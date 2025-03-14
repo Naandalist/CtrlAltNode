@@ -1,0 +1,32 @@
+{
+  "istilah": "banderol",
+  "entri": "ban.de.rol /bandêrol/bentuk tidak baku: bandrol, banrol",
+  "bentukTidakBaku": "bandrol, banrol",
+  "kataTurunan": [
+    "berbanderol",
+    "membanderol",
+    "terbanderol"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.de.rol /bandêrol/bentuk tidak baku: bandrol, banrol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pita cukai (pada rokok, cerutu, dan sebagainya) sebagai tanda bahwa pajaknya sudah dibayar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "label harga: harganya sesuai --"
+        }
+      ]
+    }
+  ]
+}

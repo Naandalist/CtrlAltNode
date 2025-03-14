@@ -1,0 +1,24 @@
+{
+  "istilah": "bahasa aplikatif",
+  "entri": "bahasa1 » bahasa aplikatif",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa aplikatif",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman yang fungsi di dalamnya dapat digunakan berulang-ulang pada hasil lain tanpa menggunakan perintah tambahan"
+        }
+      ]
+    }
+  ]
+}

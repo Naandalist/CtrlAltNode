@@ -1,0 +1,33 @@
+{
+  "istilah": "ajab",
+  "entri": "a.jab1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang ganjil",
+    "kataAsal": "‘ajab"
+  },
+  "data": [
+    {
+      "lema": "a.jab1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "heran"
+        }
+      ]
+    },
+    {
+      "lema": "a.jab2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ azab"
+        }
+      ]
+    }
+  ]
+}

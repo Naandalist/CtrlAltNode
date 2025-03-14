@@ -1,0 +1,70 @@
+{
+  "istilah": "arah",
+  "entri": "a.rah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "arahan",
+    "berarah",
+    "keterarahan",
+    "mengarah",
+    "mengarahkan",
+    "menyearahkan",
+    "pengarah",
+    "pengarahan",
+    "penyearah",
+    "searah",
+    "terarah",
+    "arah-arah",
+    "mengarah-arahi",
+    "arahan"
+  ],
+  "gabunganKata": [
+    "arah angin",
+    "arah depan",
+    "arah jam",
+    "arah ke",
+    "arah lindungan angin",
+    "arah pengembangan",
+    "arah tujuan",
+    "arah usaha"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.rah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jurusan: ia naik bus -- utara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tujuan; maksud: mereka berbicara tidak tentu --nya"
+        }
+      ]
+    },
+    {
+      "lema": "a.rah2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "arah-arah; mengarah-arahi"
+        }
+      ]
+    },
+    {
+      "lema": "a.rah3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "arahan"
+        }
+      ]
+    }
+  ]
+}

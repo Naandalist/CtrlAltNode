@@ -1,0 +1,33 @@
+{
+  "istilah": "apit-apit",
+  "entri": "a.pit-a.pit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.pit-a.pit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pipit〔Anthus novaeseelandiae malayensis〕"
+        }
+      ]
+    },
+    {
+      "lema": "a.pit-a.pit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jenis lebah"
+        }
+      ]
+    }
+  ]
+}

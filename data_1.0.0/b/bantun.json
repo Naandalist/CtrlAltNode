@@ -1,0 +1,38 @@
+{
+  "istilah": "bantun",
+  "entri": "ban.tun1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membantun",
+    "membantuni",
+    "terbantun",
+    "sebantun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.tun1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tarik; cabut"
+        }
+      ]
+    },
+    {
+      "lema": "ban.tun2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "sebantun"
+        }
+      ]
+    }
+  ]
+}

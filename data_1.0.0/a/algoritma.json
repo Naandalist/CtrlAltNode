@@ -1,0 +1,35 @@
+{
+  "istilah": "algoritma",
+  "entri": "al.go.rit.ma bentuk tidak baku: algoritme",
+  "bentukTidakBaku": "algoritme",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "algoritma berurut",
+    "algoritma efisiensi",
+    "algoritma paralel",
+    "algoritma pecahan",
+    "algoritma penjadwalan",
+    "algoritma simpleks"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.go.rit.ma bentuk tidak baku: algoritme",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "prosedur sistematis untuk memecahkan masalah matematis dalam langkah-langkah terbatas: pada sistem FM ini osilator dirangkaikan menurut pola modulasi frekuensi yang disebut --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "urutan logis pengambilan keputusan untuk pemecahan masalah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "ami",
+  "entri": "a.mi1 bentuk tidak baku: ammi",
+  "bentukTidakBaku": "ammi",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bersifat umum",
+    "kataAsal": "‘āmmī"
+  },
+  "data": [
+    {
+      "lema": "a.mi1 bentuk tidak baku: ammi",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "amiah"
+        }
+      ]
+    },
+    {
+      "lema": "a.mi2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ umi2"
+        }
+      ]
+    },
+    {
+      "lema": "a.mi3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "saudara laki-laki ayah"
+        }
+      ]
+    }
+  ]
+}

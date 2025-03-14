@@ -1,0 +1,32 @@
+{
+  "istilah": "analgesik",
+  "entri": "a.nal.ge.sik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.nal.ge.sik",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Far[Farmasi dan Farmakologi: -]",
+          "deskripsi": "obat untuk meredakan rasa nyeri tanpa mengakibatkan hilangnya kesadaran: dokter itu memberikan obat-obatan -- kepada pasien"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berkaitan dengan analgesia"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "bersifat menimbulkan analgesia"
+        }
+      ]
+    }
+  ]
+}

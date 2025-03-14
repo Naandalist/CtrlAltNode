@@ -1,0 +1,24 @@
+{
+  "istilah": "agen pengguna",
+  "entri": "agen » agen pengguna",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "agen » agen pengguna",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "program yang membantu klien terhubung dengan server"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "istilah": "begawan",
+  "entri": "be.ga.wan /bêgawan/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebegawanan"
+  ],
+  "gabunganKata": [
+    "begawan ekonomi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "orang suci, orang keramat, pendeta; orang yang mulia, terutama seorang raja yang mengundurkan diri dari dunia ramai memasuki kehidupan dunia rohani dan menjadi seorang wiku",
+    "kataAsal": "bhagawān"
+  },
+  "data": [
+    {
+      "lema": "be.ga.wan /bêgawan/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar pendeta atau pertapa"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang berbahagia (mulia, suci)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "orang yang dianggap sebagai peletak dasar dalam bidang tertentu"
+        }
+      ]
+    }
+  ]
+}

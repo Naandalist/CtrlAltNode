@@ -1,0 +1,41 @@
+{
+  "istilah": "bab",
+  "entri": "bab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "pintu; gapura"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bagian isi buku: buku ini dibagi dalam lima -- yang masing-masing terdiri atas beberapa subbab"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal; masalah: -- itu tidak perlu dipersoalkan lagi"
+        }
+      ]
+    },
+    {
+      "lema": "BAB",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "buang air besar"
+        }
+      ]
+    }
+  ]
+}

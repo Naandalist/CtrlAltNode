@@ -1,0 +1,38 @@
+{
+  "istilah": "bait",
+  "entri": "ba.it1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbait",
+    "berbait-bait",
+    "pembaitan",
+    "sebait"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tempat tinggal",
+    "kataAsal": "bait"
+  },
+  "data": [
+    {
+      "lema": "ba.it1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satu kesatuan dalam puisi yang terdiri atas beberapa baris, seperti pantun yang terdiri atas empat baris"
+        }
+      ]
+    },
+    {
+      "lema": "ba.it2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "rumah"
+        }
+      ]
+    }
+  ]
+}

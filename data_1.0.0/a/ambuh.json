@@ -1,0 +1,33 @@
+{
+  "istilah": "ambuh",
+  "entri": "am.buh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.buh1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "embuh"
+        }
+      ]
+    },
+    {
+      "lema": "am.buh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "buangan atau tumpukan pasir dan batu pada mesin sedot emas: sungai itu dangkal karena banyak --"
+        }
+      ]
+    }
+  ]
+}

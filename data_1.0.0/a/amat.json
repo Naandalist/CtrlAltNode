@@ -1,0 +1,45 @@
+{
+  "istilah": "amat",
+  "entri": "a.mat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "memperamat",
+    "memperamat-amat",
+    "memperamat-amatkan",
+    "memperamatkan",
+    "teramat",
+    "amatan",
+    "keteramatan",
+    "mengamat-amati",
+    "mengamati",
+    "pengamat",
+    "pengamatan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.mat1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "terlalu; sangat: saya tidak mampu membeli barang itu sebab harganya -- mahal"
+        }
+      ]
+    },
+    {
+      "lema": "a.mat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "amatan; keteramatan; mengamat-amati; mengamati; pengamat; pengamatan"
+        }
+      ]
+    }
+  ]
+}

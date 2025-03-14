@@ -1,0 +1,46 @@
+{
+  "istilah": "basir",
+  "entri": "ba.sir1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "pelihat",
+    "kataAsal": "baṣīr"
+  },
+  "data": [
+    {
+      "lema": "ba.sir1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Isl[Agama Islam: -]",
+          "deskripsi": "terang dan tajam pengamatannya (tentang Allah swt): Albasir Yang Mahatahu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim] Isl[Agama Islam: -]",
+          "deskripsi": "jelas terlihat; terang: cahaya pelita itu kurang --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.sir2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "ranjau bambu yang ditanam dalam tanah sebagai perangkap hewan"
+        }
+      ]
+    },
+    {
+      "lema": "ba.sir3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "rohaniwan Hindu Kaharingan; imam pendamping dalam upacara balian: para -- duduk berjejer untuk melaksanakan upacara"
+        }
+      ]
+    }
+  ]
+}

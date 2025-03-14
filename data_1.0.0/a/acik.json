@@ -1,0 +1,28 @@
+{
+  "istilah": "acik",
+  "entri": "a.cik bentuk tidak baku: aci4",
+  "bentukTidakBaku": "aci4",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kakak perempuan",
+    "kataAsal": "á chí"
+  },
+  "data": [
+    {
+      "lema": "a.cik bentuk tidak baku: aci4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kata sapaan kepada perempuan yang lebih tua, seperti kakak perempuan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "bibi"
+        }
+      ]
+    }
+  ]
+}

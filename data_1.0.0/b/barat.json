@@ -1,0 +1,48 @@
+{
+  "istilah": "barat",
+  "entri": "ba.rat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "baratan",
+    "kebarat-baratan",
+    "membaratkan",
+    "pembarat",
+    "pembaratan"
+  ],
+  "gabunganKata": [
+    "barat daya",
+    "barat laut"
+  ],
+  "peribahasa": [
+    "timur beralih ke sebelah barat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.rat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama mata angin yang arahnya berlawanan dengan timur; arah tempat matahari terbenam: matahari terbenam di sebelah --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(huruf pertama kapital) orang, bangsa, negara Eropa dan Amerika: bangsa --; kebudayaan --"
+        }
+      ]
+    },
+    {
+      "lema": "ba.rat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "ladang luas yang kepemilikannya bersama-sama"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "istilah": "aktivitas",
+  "entri": "ak.ti.vi.tas bentuk tidak baku: aktifitas",
+  "bentukTidakBaku": "aktifitas",
+  "kataTurunan": [
+    "beraktivitas"
+  ],
+  "gabunganKata": [
+    "aktivitas aerob",
+    "aktivitas air",
+    "aktivitas bisnis",
+    "aktivitas enzim",
+    "aktivitas fisik",
+    "aktivitas ion",
+    "aktivitas kebudayaan",
+    "aktivitas keseharian",
+    "aktivitas molekul",
+    "aktivitas seksual",
+    "aktivitas takberaturan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.ti.vi.tas bentuk tidak baku: aktifitas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keaktifan; kegiatan: senior satu itu memang banyak --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerja atau salah satu kegiatan kerja yang dilaksanakan dalam tiap bagian di dalam perusahaan"
+        }
+      ]
+    }
+  ]
+}

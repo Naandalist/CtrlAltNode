@@ -1,0 +1,62 @@
+{
+  "istilah": "bandung",
+  "entri": "ban.dung1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbandung",
+    "sebandung",
+    "membandungi"
+  ],
+  "gabunganKata": [
+    "Bandung Barat",
+    "Bandung Lautan Api"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "cari:",
+    "kataAsal": "banduṅ"
+  },
+  "data": [
+    {
+      "lema": "ban.dung1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang dirangkaikan (dua buah); pasang"
+        }
+      ]
+    },
+    {
+      "lema": "ban.dung2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membandungi"
+        }
+      ]
+    },
+    {
+      "lema": "ban.dung3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mdr[Madura: -]",
+          "deskripsi": "lahan yang telantar karena tidak digarap dan tidak terawat"
+        }
+      ]
+    },
+    {
+      "lema": "Ban.dung4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ibu kota Provinsi Jawa Barat, terkenal dengan sebutan Kota Kembang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kabupaten di Provinsi Jawa Barat, beribu kota Soreang"
+        }
+      ]
+    }
+  ]
+}

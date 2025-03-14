@@ -1,0 +1,36 @@
+{
+  "istilah": "aneka",
+  "entri": "a.ne.ka bentuk tidak baku: neka",
+  "bentukTidakBaku": "neka",
+  "kataTurunan": [
+    "beraneka",
+    "keanekaan",
+    "menganekakan",
+    "penganekaan"
+  ],
+  "gabunganKata": [
+    "aneka bahasa",
+    "aneka pertunjukan",
+    "aneka ria",
+    "aneka rupa",
+    "aneka segi",
+    "aneka warna"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "berbeda, bermacam-macam, berjenis-jenis",
+    "kataAsal": "aneka"
+  },
+  "data": [
+    {
+      "lema": "a.ne.ka bentuk tidak baku: neka",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "banyak (macamnya, ragamnya); berbagai; berjenis-jenis: mempertunjukkan -- tarian daerah"
+        }
+      ]
+    }
+  ]
+}

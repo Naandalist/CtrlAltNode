@@ -1,0 +1,46 @@
+{
+  "istilah": "anca",
+  "entri": "an.ca1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.ca1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "rintangan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "kerugian (karena kekeliruan dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "an.ca2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bg[Bugis: -]",
+          "deskripsi": "peralatan dapur yang berbentuk segi empat, dibuat dengan cara dianyam dan diisi nasi ketan, terdiri atas empat warna putih, merah, kuning, hitam yang melambangkan asal usul manusia seperti tanah, air, dan api"
+        }
+      ]
+    },
+    {
+      "lema": "an.ca3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempo sedang (tentang tari)"
+        }
+      ]
+    }
+  ]
+}

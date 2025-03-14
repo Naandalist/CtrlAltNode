@@ -1,0 +1,51 @@
+{
+  "istilah": "anggaran",
+  "entri": "anggar1 » ang.gar.an",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "anggaran aktual",
+    "anggaran belanja",
+    "anggaran belanja berimbang",
+    "anggaran berbasis kinerja",
+    "anggaran berimbang",
+    "anggaran dasar",
+    "anggaran defisit",
+    "anggaran induk",
+    "anggaran keluarga",
+    "anggaran modal",
+    "anggaran pemerintah",
+    "anggaran pendapatan",
+    "anggaran rumah tangga",
+    "anggaran sulapan"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "anggar1 » ang.gar.an",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perkiraan; perhitungan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "aturan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ek[Ekonomi dan Keuangan: -]",
+          "deskripsi": "taksiran mengenai penerimaan dan pengeluaran kas yang diharapkan untuk periode yang akan datang"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Man[Manajemen: -]",
+          "deskripsi": "rencana penjatahan sumber daya yang dinyatakan dengan angka, biasanya dalam satuan uang"
+        }
+      ]
+    }
+  ]
+}

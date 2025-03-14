@@ -1,0 +1,24 @@
+{
+  "istilah": "algol",
+  "entri": "al.gol",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.gol",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "bahasa pemrograman yang berorientasi pada prosedur dan algoritma yang biasanya digunakan pada pemrograman masalah sains"
+        }
+      ]
+    }
+  ]
+}

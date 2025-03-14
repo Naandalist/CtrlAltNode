@@ -1,0 +1,39 @@
+{
+  "istilah": "angkuh",
+  "entri": "ang.kuh1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keangkuhan",
+    "seangkuh",
+    "terangkuh"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "angkuh terbawa, tampan tinggal"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "congkak, pongah",
+    "kataAsal": "aṅkuh"
+  },
+  "data": [
+    {
+      "lema": "ang.kuh1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "sifat suka memandang rendah kepada orang lain; tinggi hati; sombong; congkak: karena sikapnya yang -- itu, ia tidak disukai orang"
+        }
+      ]
+    },
+    {
+      "lema": "ang.kuh2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mk[Minangkabau: -]",
+          "deskripsi": "rupa"
+        }
+      ]
+    }
+  ]
+}

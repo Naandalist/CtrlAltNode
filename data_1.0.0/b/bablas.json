@@ -1,0 +1,34 @@
+{
+  "istilah": "bablas",
+  "entri": "bab.las",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebablasan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bab.las",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -]",
+          "deskripsi": "terus"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -] ki[kiasan]",
+          "deskripsi": "lenyap (hilang): uangnya -- dilarikan orang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja] Jw[Jawa: -] ki[kiasan]",
+          "deskripsi": "mati: jika kebanyakan makan obat tidur bisa --"
+        }
+      ]
+    }
+  ]
+}

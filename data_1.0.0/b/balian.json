@@ -1,0 +1,37 @@
+{
+  "istilah": "balian",
+  "entri": "ba.li.an1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.li.an1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "sawah atau ladang yang dimiliki, tetapi letaknya di luar daerah tempat tinggal"
+        }
+      ]
+    },
+    {
+      "lema": "ba.li.an2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang memiliki kekuatan gaib dan dipercaya untuk mengucapkan mantra pada upacara adat dan mengobati orang sakit; dukun"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "upacara pengobatan khas suku Dayak"
+        }
+      ]
+    }
+  ]
+}

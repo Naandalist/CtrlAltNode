@@ -1,0 +1,60 @@
+{
+  "istilah": "belat",
+  "entri": "be.lat1 /bêlat/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membelat"
+  ],
+  "gabunganKata": [
+    "belat angkit-angkit"
+  ],
+  "peribahasa": [
+    "seperti ikan dalam belat"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.lat1 /bêlat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bilah bambu yang dijalin dengan ijuk atau rotan, dipakai untuk mengurung ikan di laut atau di sungai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerai; bidai"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "bilah bambu yang dijalin dengan ijuk atau rotan untuk mencuci udang, dan sebagainya: cuci udang yang dibawa ayahmu dengan -- di dapur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jb[Melayu Jambi: -]",
+          "deskripsi": "jala penangkap ikan yang digunakan di pantai"
+        }
+      ]
+    },
+    {
+      "lema": "be.lat2 /bêlat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "papan kecil untuk membalut tulang yang patah dan sebagainya"
+        }
+      ]
+    },
+    {
+      "lema": "be.lat3 /bêlat/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "alat untuk membawa ikatan tangkai padi dari sawah, berbentuk tikar atau goni"
+        }
+      ]
+    }
+  ]
+}

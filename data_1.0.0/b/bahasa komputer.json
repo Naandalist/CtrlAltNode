@@ -1,0 +1,28 @@
+{
+  "istilah": "bahasa komputer",
+  "entri": "bahasa1 » bahasa komputer",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bahasa1 » bahasa komputer",
+      "arti": [
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "sistem perlambangan yang biasa digunakan untuk memproses data dalam komputer"
+        },
+        {
+          "kelas_kata": "Komp[Komputer: -]",
+          "deskripsi": "bahasa artifisial yang menetapkan perintah yang akan dieksekusi di dalam komputer"
+        }
+      ]
+    }
+  ]
+}

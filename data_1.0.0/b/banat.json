@@ -1,0 +1,35 @@
+{
+  "istilah": "banat",
+  "entri": "ba.nat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membanat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.nat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain lakan yang halus dibuat dari bulu (domba)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.nat2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "membanat"
+        }
+      ]
+    }
+  ]
+}

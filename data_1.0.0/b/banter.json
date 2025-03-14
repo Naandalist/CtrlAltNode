@@ -1,0 +1,42 @@
+{
+  "istilah": "banter",
+  "entri": "ban.ter /bantêr/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membanter"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "keras dan cepat, hebat, kuat",
+    "kataAsal": "bantěr"
+  },
+  "data": [
+    {
+      "lema": "ban.ter /bantêr/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sangat; keras (dalam keadaan dan sebagainya): paling -- cuma dimarahi"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "tinggi (tentang harga): paling -- hanya Rp5.000,00 harganya"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lekas; cepat: paling -- sekali setahun bisa bertemu"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "lama; lambat (tentang waktu): paling -- aku dapat menunggu sampai pukul 05.00"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "banyak (tentang jumlah): paling -- hanya dapat menampung 48 orang murid"
+        }
+      ]
+    }
+  ]
+}

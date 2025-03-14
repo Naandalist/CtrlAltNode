@@ -1,0 +1,41 @@
+{
+  "istilah": "belubur",
+  "entri": "be.lu.bur1 /bêlubur/bentuk tidak baku: lubur",
+  "bentukTidakBaku": "lubur",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.lu.bur1 /bêlubur/bentuk tidak baku: lubur",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sumpit bulat panjang tempat beras (dianyam dari daun rumbia)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat menyimpan garam dan beras dalam perahu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lumbung padi, bagian bawah kecil, bagian atasnya besar dan lebar"
+        }
+      ]
+    },
+    {
+      "lema": "be.lu.bur2 /bêlubur/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dapur serupa lumbung tempat pembakaran arang (bata, periuk, sampah, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

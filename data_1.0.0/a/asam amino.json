@@ -1,0 +1,28 @@
+{
+  "istilah": "asam amino",
+  "entri": "asam » asam amino",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "asam » asam amino",
+      "arti": [
+        {
+          "kelas_kata": "Kim[Kimia: -]",
+          "deskripsi": "asam organik yang mengandung paling sedikit satu gugusan amino (NH₂) dan paling sedikit satu gugusan karboksil (COOH) atau turunannya, merupakan molekul dasar yang diikat satu sama lain melalui ikatan peptida dalam pembentukan molekul protein yang lebih besar"
+        },
+        {
+          "kelas_kata": "Bio[Biologi: -]",
+          "deskripsi": "komponen utama penyusun protein sebagai bahan dasar pembentuk sel, otot, dan sistem kekebalan tubuh"
+        }
+      ]
+    }
+  ]
+}

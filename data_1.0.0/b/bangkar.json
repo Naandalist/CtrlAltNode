@@ -1,0 +1,44 @@
+{
+  "istilah": "bangkar",
+  "entri": "bang.kar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membangkar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bang.kar1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kaku dan keras: tikar --"
+        }
+      ]
+    },
+    {
+      "lema": "bang.kar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Md[Melayu Medan: -]",
+          "deskripsi": "suluh dari belarak"
+        }
+      ]
+    },
+    {
+      "lema": "bang.kar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kpr[Melayu Kep. Riau: ]",
+          "deskripsi": "semak yang berlapis-lapis di tepi sungai"
+        }
+      ]
+    }
+  ]
+}

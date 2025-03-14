@@ -1,0 +1,42 @@
+{
+  "istilah": "ambah",
+  "entri": "am.bah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.bah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pertukangan"
+        }
+      ]
+    },
+    {
+      "lema": "am.bah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "gerak-gerik yang  tidak menyenangkan sebagai ungkapan rasa marah: ke manakah -- ini akan kulepaskan"
+        }
+      ]
+    },
+    {
+      "lema": "am.bah3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "tidak banyak pantang"
+        }
+      ]
+    }
+  ]
+}

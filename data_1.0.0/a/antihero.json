@@ -1,0 +1,32 @@
+{
+  "istilah": "antihero",
+  "entri": "an.ti.he.ro",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.ti.he.ro",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "antipahlawan"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Sen[Kesenian: -]",
+          "deskripsi": "tidak ada unsur kepahlawanan dalam cerita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sen[Kesenian: -]",
+          "deskripsi": "cerita yang tidak memiliki tokoh protagonis"
+        }
+      ]
+    }
+  ]
+}

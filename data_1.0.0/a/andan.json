@@ -1,0 +1,33 @@
+{
+  "istilah": "andan",
+  "entri": "an.dan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.dan1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bulai"
+        }
+      ]
+    },
+    {
+      "lema": "an.dan2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Mk[Minangkabau: -]",
+          "deskripsi": "berkerabat (bersanak) dekat karena perkawinan, bukan karena hubungan darah"
+        }
+      ]
+    }
+  ]
+}

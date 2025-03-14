@@ -1,0 +1,38 @@
+{
+  "istilah": "belit",
+  "entri": "be.lit /bêlit/bentuk tidak baku: balit",
+  "bentukTidakBaku": "balit",
+  "kataTurunan": [
+    "belit-membelit",
+    "belitan",
+    "berbelit",
+    "berbelit-belit",
+    "membelit",
+    "membelit-belitkan",
+    "membelitkan",
+    "pembelit",
+    "terbelit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "melengkung, membelit, berputar-putar",
+    "kataAsal": "valita"
+  },
+  "data": [
+    {
+      "lema": "be.lit /bêlit/bentuk tidak baku: balit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang berbentuk atau dibentuk memutar atau melingkar (seperti lingkaran tali atau benang pada kumparan); lilit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kelok-kelok (sungai, jalan, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

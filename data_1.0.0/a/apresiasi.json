@@ -1,0 +1,38 @@
+{
+  "istilah": "apresiasi",
+  "entri": "ap.re.si.a.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berapresiasi",
+    "mengapresiasi",
+    "terapresiasi"
+  ],
+  "gabunganKata": [
+    "apresiasi diri"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ap.re.si.a.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kesadaran terhadap nilai seni dan budaya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penilaian (penghargaan) terhadap sesuatu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kenaikan nilai barang karena harga pasarnya naik atau permintaan akan barang itu bertambah"
+        }
+      ]
+    }
+  ]
+}

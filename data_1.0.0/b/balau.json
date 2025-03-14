@@ -1,0 +1,50 @@
+{
+  "istilah": "balau",
+  "entri": "ba.lau1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "balau betul",
+    "balau bukit",
+    "balau pasir"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lau1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama berbagai macam pohon"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lau2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat kacau"
+        }
+      ]
+    },
+    {
+      "lema": "Ba.lau3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami daerah Batang Lupar, Kabupaten Kapuas Hulu, Provinsi Kalimantan Barat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dialek Iban yang dituturkan oleh suku Balau"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "istilah": "alaf",
+  "entri": "a.laf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "ribuan",
+    "kataAsal": "alāf"
+  },
+  "data": [
+    {
+      "lema": "a.laf",
+      "arti": [
+        {
+          "kelas_kata": "num[Numeralia: kata bilangan]",
+          "deskripsi": "seribu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mal[Melayu Malaysia: -]",
+          "deskripsi": "masa seribu tahun; milenium"
+        }
+      ]
+    }
+  ]
+}

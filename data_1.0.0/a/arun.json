@@ -1,0 +1,44 @@
+{
+  "istilah": "arun",
+  "entri": "a.run1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengarun"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.run1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "aduk; arau"
+        }
+      ]
+    },
+    {
+      "lema": "a.run2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ harum"
+        }
+      ]
+    },
+    {
+      "lema": "a.run3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "cemara2〔Casuarina equisetifolia〕"
+        }
+      ]
+    }
+  ]
+}

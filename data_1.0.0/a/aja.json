@@ -1,0 +1,33 @@
+{
+  "istilah": "aja",
+  "entri": "a.ja1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ja1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim] Md[Melayu Medan: -]",
+          "deskripsi": "sebutan putri bangsawan (Deli)"
+        }
+      ]
+    },
+    {
+      "lema": "a.ja2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "saja"
+        }
+      ]
+    }
+  ]
+}

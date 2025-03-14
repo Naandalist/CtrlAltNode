@@ -1,0 +1,79 @@
+{
+  "istilah": "bandar",
+  "entri": "ban.dar1 bentuk tidak baku: bendar",
+  "bentukTidakBaku": "bendar",
+  "kataTurunan": [
+    "bandaran",
+    "berbandar",
+    "membandarkan",
+    "perbandaran",
+    "membandar",
+    "membandari",
+    "membandarkan"
+  ],
+  "gabunganKata": [
+    "bandar air",
+    "bandar sampah",
+    "bandar antariksa",
+    "bandar udara",
+    "bandar buntut",
+    "bandar judi"
+  ],
+  "peribahasa": [
+    "diam di laut masin tidak, diam di bandar tak meniru; menaikkan bandar sondai; upah lalu, bandar tak masuk"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.dar1 bentuk tidak baku: bendar",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "selokan aliran air (ke sawah dan sebagainya); selokan; parit: penduduk desa bergotong-royong memperbaiki -- air menjelang musim tanam"
+        }
+      ]
+    },
+    {
+      "lema": "ban.dar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tempat berlabuh (kapal, perahu, dan sebagainya); pelabuhan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kota pelabuhan; kota perdagangan"
+        }
+      ]
+    },
+    {
+      "lema": "ban.dar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemain yang menjadi lawan pemain-pemain lain sekaligus (dalam permainan dadu, rolet, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bandar judi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang mengendalikan suatu aksi (gerakan) dengan sembunyi-sembunyi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang membiayai suatu gerakan yang kurang baik"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang bermodal dalam perdagangan dan sebagainya; tengkulak"
+        }
+      ]
+    }
+  ]
+}

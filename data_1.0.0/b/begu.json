@@ -1,0 +1,42 @@
+{
+  "istilah": "begu",
+  "entri": "be.gu",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.gu",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mesin pengeruk tanah yang menggunakan sejenis ember besi yang menempel pada semacam tangan berengsel yang dioperasikan oleh manusia"
+        }
+      ]
+    },
+    {
+      "lema": "be.gu1 /bêgu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "hantu hutan"
+        }
+      ]
+    },
+    {
+      "lema": "be.gu2 /bêgu/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "anak babi hutan"
+        }
+      ]
+    }
+  ]
+}

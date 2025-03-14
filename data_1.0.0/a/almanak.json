@@ -1,0 +1,32 @@
+{
+  "istilah": "almanak",
+  "entri": "al.ma.nak",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "almanak dinding",
+    "almanak meja",
+    "almanak pelayaran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "al.ma.nak",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "penanggalan (daftar hari, minggu, bulan, hari-hari raya dalam setahun) yang disertai dengan data keastronomian, ramalan cuaca, dan sebagainya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku berisi penanggalan dan karangan yang perlu diketahui umum, biasanya terbit tiap tahun"
+        }
+      ]
+    }
+  ]
+}

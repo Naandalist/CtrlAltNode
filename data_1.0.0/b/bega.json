@@ -1,0 +1,38 @@
+{
+  "istilah": "bega",
+  "entri": "be.ga1",
+  "bentukTidakBaku": "begar",
+  "kataTurunan": [
+    "berbega",
+    "berbega-bega",
+    "membega",
+    "membega"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ga1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "edar; putar"
+        }
+      ]
+    },
+    {
+      "lema": "be.ga2 bentuk tidak baku: begar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bidik"
+        }
+      ]
+    }
+  ]
+}

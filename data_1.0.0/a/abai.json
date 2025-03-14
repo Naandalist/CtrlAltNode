@@ -1,0 +1,48 @@
+{
+  "istilah": "abai",
+  "entri": "a.bai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "abaian",
+    "mengabaikan",
+    "pengabai",
+    "pengabaian",
+    "terabai",
+    "terabaikan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bai1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak memedulikan (tidak mengerjakan baik-baik, tidak mementingkan, dan sebagainya): saya sedikit -- mengurus blog ini"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lalai: sebagai seorang ayah, ia -- dari kewajiban keluarga"
+        }
+      ]
+    },
+    {
+      "lema": "A.bai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa di Provinsi Kalimantan Timur"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Abai"
+        }
+      ]
+    }
+  ]
+}

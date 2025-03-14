@@ -1,0 +1,43 @@
+{
+  "istilah": "ares",
+  "entri": "a.res1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengares"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.res1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "hukuman (berupa larangan keluar dari rumah dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Huk[Hukum: -]",
+          "deskripsi": "penangkapan; penahanan; peniadaan kebebasan"
+        }
+      ]
+    },
+    {
+      "lema": "a.res2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "inti batang pisang (yang sudah berbuah)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ss[Sasak: -]",
+          "deskripsi": "masakan khas Sasak yang terbuat dari batang pisang yang dipotong kecil-kecil dan dibumbui santan"
+        }
+      ]
+    }
+  ]
+}

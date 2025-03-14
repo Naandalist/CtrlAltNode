@@ -1,0 +1,43 @@
+{
+  "istilah": "bedeng",
+  "entri": "be.deng1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pembedengan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.deng1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "rumah darurat (sementara) bagi para pekerja"
+        }
+      ]
+    },
+    {
+      "lema": "be.deng2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanah gembur yang ditinggikan sebagai pematang di sawah (kadang-kadang ditanami sayuran)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "bidang tanah yang digunakan untuk perkecambahan biji di persemaian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Tan[Pertanian: -]",
+          "deskripsi": "tanggul"
+        }
+      ]
+    }
+  ]
+}

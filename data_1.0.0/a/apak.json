@@ -1,0 +1,41 @@
+{
+  "istilah": "apak",
+  "entri": "a.pak1 bentuk tidak baku: apek",
+  "bentukTidakBaku": "apek",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "apak, pengap",
+    "kataAsal": "apěk"
+  },
+  "data": [
+    {
+      "lema": "a.pak1 bentuk tidak baku: apek",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbau tidak sedap karena telah lama disimpan dan sudah berjamur: roti yang -- itu belum juga dibuang"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbau tidak sedap karena lapuk"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "berbau tidak sedap karena belum kering benar (tentang pakaian)"
+        }
+      ]
+    },
+    {
+      "lema": "a.pak2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Mk[Minangkabau: -]",
+          "deskripsi": "bapak"
+        }
+      ]
+    }
+  ]
+}

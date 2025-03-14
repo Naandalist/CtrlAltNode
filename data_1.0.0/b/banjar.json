@@ -1,0 +1,74 @@
+{
+  "istilah": "banjar",
+  "entri": "ban.jar1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "banjaran",
+    "berbanjar",
+    "berbanjar-banjar",
+    "berbanjaran",
+    "membanjar",
+    "membanjarkan",
+    "sebanjar"
+  ],
+  "gabunganKata": [
+    "banjar huma",
+    "banjar tangki"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.jar1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "baris"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mil[Kemiliteran: -]",
+          "deskripsi": "bentuk barisan yang memanjang ke belakang"
+        }
+      ]
+    },
+    {
+      "lema": "ban.jar2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "bagian desa setingkat dengan rukun warga atau dukuh yang dikepalai oleh seorang kelian"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bl[Bali: -]",
+          "deskripsi": "balai tempat dilakukannya berbagai kegiatan masyarakat setempat"
+        }
+      ]
+    },
+    {
+      "lema": "ban.jar3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikan laut yang panjangnya mencapai 38 cm, badannya ramping, garis-garis sempit memanjang di sisi atas, sirip ekor biasanya gelap, punggung hijau kebiruan dengan pita gelap memanjang, terdapat 1 atau 2 baris bintik gelap pada dasar sirip punggung dan bintik hitam dekat tepi bawah sirip dada, hidup di perairan tropis dengan kedalaman 20—90 m, tersebar di perairan Laut Merah, Laut Mediterania, dan Indo-Pasifik Barat; banyara〔Rastrelliger kanagurta〕"
+        }
+      ]
+    },
+    {
+      "lema": "Ban.jar4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang berasal dari atau mendiami daerah Kalimantan Selatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa yang dituturkan oleh suku Banjar"
+        }
+      ]
+    }
+  ]
+}

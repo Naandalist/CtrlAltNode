@@ -1,0 +1,33 @@
+{
+  "istilah": "barkas",
+  "entri": "bar.kas1 bentuk tidak baku: bargas",
+  "bentukTidakBaku": "bargas",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bar.kas1 bentuk tidak baku: bargas",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kapal api kecil, digunakan untuk mengangkut barang-barang dari kapal"
+        }
+      ]
+    },
+    {
+      "lema": "bar.kas2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ berkas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "istilah": "banjang",
+  "entri": "ban.jang1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.jang1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "pagar di laut untuk memerangkap ikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "rakit yang dibuat untuk memungut buah tengkawang yang hanyut di sungai: kakek membuat -- panjang sekali"
+        }
+      ]
+    },
+    {
+      "lema": "ban.jang2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "rumah yang terbuat dari bambu: rumah -- dapat menjadi alternatif hunian berciri ekowisata"
+        }
+      ]
+    }
+  ]
+}

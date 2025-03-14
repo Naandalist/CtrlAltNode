@@ -1,0 +1,38 @@
+{
+  "istilah": "beka",
+  "entri": "be.ka1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbeka",
+    "berbeka-beka",
+    "membeka",
+    "terbeka"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.ka1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "bujuk"
+        }
+      ]
+    },
+    {
+      "lema": "beka2",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat] Mk[Minangkabau: -]",
+          "deskripsi": "kelak"
+        }
+      ]
+    }
+  ]
+}

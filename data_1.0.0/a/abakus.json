@@ -1,0 +1,42 @@
+{
+  "istilah": "abakus",
+  "entri": "a.ba.kus1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ba.kus1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dekak-dekak; swipoa"
+        }
+      ]
+    },
+    {
+      "lema": "a.ba.kus2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ars[Arsitektur: -]",
+          "deskripsi": "lempeng datar di atas kepala tiang dengan pinggiran cekung atau beralur"
+        }
+      ]
+    },
+    {
+      "lema": "a.ba.kus3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sistem komputer untuk reservasi pesawat yang melayani wisatawan Asia dan Asia Pasifik"
+        }
+      ]
+    }
+  ]
+}

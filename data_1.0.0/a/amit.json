@@ -1,0 +1,35 @@
+{
+  "istilah": "amit",
+  "entri": "a.mit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "pengamitan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.mit1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "pengamitan"
+        }
+      ]
+    },
+    {
+      "lema": "a.mit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "izin permisi (untuk pergi atau lewat)"
+        }
+      ]
+    }
+  ]
+}

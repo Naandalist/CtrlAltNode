@@ -1,0 +1,33 @@
+{
+  "istilah": "abon",
+  "entri": "a.bon1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.bon1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "makanan yang dibuat dari daging atau ikan rebus yang diserat-seratkan, dibumbui, kemudian digoreng"
+        }
+      ]
+    },
+    {
+      "lema": "a.bon2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "perbekalan untuk melaut, biasanya berupa bahan makanan pokok, seperti beras: sebelum pergi melaut, nelayan pasti menyiapkan --"
+        }
+      ]
+    }
+  ]
+}

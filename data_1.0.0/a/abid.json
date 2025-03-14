@@ -1,0 +1,37 @@
+{
+  "istilah": "abid",
+  "entri": "a.bid1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "orang yang taat kepada Tuhan; orang yang bertauhid; zahid",
+    "kataAsal": "‘ābid"
+  },
+  "data": [
+    {
+      "lema": "a.bid1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tidak berkesudahan; kekal; abadi"
+        }
+      ]
+    },
+    {
+      "lema": "a.bid2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "beribadah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang taat kepada Tuhan; orang yang saleh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "istilah": "ayat",
+  "entri": "a.yat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "ayat kauniah",
+    "ayat kitabullah"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.yat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "alamat atau tanda"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "beberapa kalimat yang merupakan kesatuan maksud sebagai bagian surah dalam kitab suci Al-Qur'an"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "beberapa kalimat yang merupakan kesatuan maksud sebagai bagian pasal dalam undang-undang"
+        }
+      ]
+    },
+    {
+      "lema": "a.yat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kenyataan yang benar; bukti"
+        }
+      ]
+    }
+  ]
+}

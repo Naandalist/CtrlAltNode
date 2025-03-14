@@ -1,0 +1,37 @@
+{
+  "istilah": "android",
+  "entri": "an.dro.id1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.dro.id1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "robot yang tampak dan berperilaku seperti manusia"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mirip dengan manusia: profesor itu memperkenalkan robot -- cantik yang makin mirip dengan manusia"
+        }
+      ]
+    },
+    {
+      "lema": "An.dro.id2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "sistem operasi bergerak sumber terbuka"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "bam",
+  "entri": "bam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "kayu (papan, balok) tumpuan kemudi atau tiang pada kapal atau perahu"
+        }
+      ]
+    },
+    {
+      "lema": "bam2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi yang berat dan lembut pada gendang"
+        }
+      ]
+    }
+  ]
+}

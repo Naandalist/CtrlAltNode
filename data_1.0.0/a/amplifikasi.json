@@ -1,0 +1,35 @@
+{
+  "istilah": "amplifikasi",
+  "entri": "am.pli.fi.ka.si",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "amplifikasi biologi",
+    "amplifikasi gen"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pli.fi.ka.si",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pembesaran, perluasan, atau pengembangan (tentang jumlah, kepentingan, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Filol[Filologi: -]",
+          "deskripsi": "pengembangan naskah berupa uraian, penjelasan, atau penggunaan banyak kata oleh penyalin (pembaca), kemudian masuk ke salinan naskah berikutnya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "sarana dalam bahasa yang digunakan untuk memperluas, memperbesar, atau memberi tekanan pada suatu objek"
+        }
+      ]
+    }
+  ]
+}

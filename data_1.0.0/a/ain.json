@@ -1,0 +1,41 @@
+{
+  "istilah": "ain",
+  "entri": "a.in1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "nama huruf ke-18 abjad Arab",
+    "kataAsal": "‘ain"
+  },
+  "data": [
+    {
+      "lema": "a.in1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "mata air"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sari; pati; inti sari"
+        }
+      ]
+    },
+    {
+      "lema": "a.in2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama huruf ke-18 abjad Arab"
+        }
+      ]
+    }
+  ]
+}

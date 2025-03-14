@@ -1,0 +1,55 @@
+{
+  "istilah": "angkat",
+  "entri": "ang.kat",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "angkatan",
+    "keangkatan",
+    "mengangkat",
+    "mengangkat-angkat",
+    "mengangkati",
+    "mengangkatkan",
+    "pengangkat",
+    "pengangkatan",
+    "perangkatan",
+    "seangkatan",
+    "terangkat"
+  ],
+  "gabunganKata": [
+    "angkat berat",
+    "angkat besi",
+    "angkat bicara",
+    "angkat kaki",
+    "angkat koper",
+    "angkat meja",
+    "angkat nilai",
+    "angkat tangan",
+    "angkat telepon",
+    "angkat topi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "keberangkatan, bangun; mengangkat, menaikkan",
+    "kataAsal": "aṅkat"
+  },
+  "data": [
+    {
+      "lema": "ang.kat",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "naikkan; tinggikan: -- tangan"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ambil; bawa: sudahlah jangan malu-malu, -- saja"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "yang diambil: anak --"
+        }
+      ]
+    }
+  ]
+}

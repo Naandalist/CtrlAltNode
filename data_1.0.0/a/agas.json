@@ -1,0 +1,48 @@
+{
+  "istilah": "agas",
+  "entri": "a.gas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengagas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.gas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "lalat kecil berwarna abu-abu yang gigitannya terasa pedih dan gatal; rengit"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "serangga kecil yang sangat mengganggu〔Culicoides spp.〕"
+        }
+      ]
+    },
+    {
+      "lema": "a.gas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "tikus kecil yang merusak tanaman padi"
+        }
+      ]
+    },
+    {
+      "lema": "a.gas3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dy[Dayak: -]",
+          "deskripsi": "musim yang ditandai dengan melimpahnya anak ikan di sungai-sungai"
+        }
+      ]
+    }
+  ]
+}

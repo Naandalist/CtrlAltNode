@@ -1,0 +1,33 @@
+{
+  "istilah": "aba",
+  "entri": "a.ba1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bapak",
+    "kataAsal": "ābā’"
+  },
+  "data": [
+    {
+      "lema": "a.ba1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ayah; bapak"
+        }
+      ]
+    },
+    {
+      "lema": "a.ba2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "isyarat berupa bunyi ketukan di dinding dan sebagainya yang biasanya terdengar sebelum kematian salah seorang anggota keluarga"
+        }
+      ]
+    }
+  ]
+}

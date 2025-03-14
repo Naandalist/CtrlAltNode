@@ -1,0 +1,37 @@
+{
+  "istilah": "arya",
+  "entri": "ar.ya1",
+  "bentukTidakBaku": "Aria2",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "terhormat, terpandang, mulia, ningrat (sering kali di depan nama-nama orang keturunan ningrat)",
+    "kataAsal": "ārya"
+  },
+  "data": [
+    {
+      "lema": "ar.ya1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gelar untuk pegawai tinggi (misalnya bupati) dalam administrasi kerajaan Jawa pada zaman dahulu"
+        }
+      ]
+    },
+    {
+      "lema": "Ar.ya2 bentuk tidak baku: Aria2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangsa yang berasal dari Eropa yang menurunkan bangsa Iran dan India Utara"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bangsa yang dianggap menurunkan bangsa Eropa"
+        }
+      ]
+    }
+  ]
+}

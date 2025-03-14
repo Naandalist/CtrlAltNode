@@ -1,0 +1,42 @@
+{
+  "istilah": "ama",
+  "entri": "a.ma1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ma1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ hama"
+        }
+      ]
+    },
+    {
+      "lema": "a.ma2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "sama; terhadap: aku tambah kagum -- eyang putri"
+        }
+      ]
+    },
+    {
+      "lema": "a.ma3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Gy[Gayo: -]",
+          "deskripsi": "panggilan kepada orang tua laki-laki"
+        }
+      ]
+    }
+  ]
+}

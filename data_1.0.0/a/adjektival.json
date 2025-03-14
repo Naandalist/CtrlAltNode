@@ -1,0 +1,32 @@
+{
+  "istilah": "adjektival",
+  "entri": "ad.jek.ti.val",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ad.jek.ti.val",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "bersifat atau berfungsi sebagai adjektiva, misalnya frasa --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "kata atau kelompok kata yang berfungsi sebagai adjektiva, tetapi tidak dapat berinfleksi seperti adjektiva biasa"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ling[Linguistik: -]",
+          "deskripsi": "berfungsi sebagai adjektiva, tetapi tidak dapat berinfleksi seperti adjektiva biasa"
+        }
+      ]
+    }
+  ]
+}

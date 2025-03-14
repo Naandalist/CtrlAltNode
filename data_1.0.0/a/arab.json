@@ -1,0 +1,34 @@
+{
+  "istilah": "arab",
+  "entri": "A.rab",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kearab-araban",
+    "mengarabkan"
+  ],
+  "gabunganKata": [
+    "Arab fusha",
+    "Arab Saudi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "bangsa Semit yang tinggal di perkotaan Jazirah Arab; bangsa yang fasih dalam berbahasa",
+    "kataAsal": "‘arab"
+  },
+  "data": [
+    {
+      "lema": "A.rab",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nama bangsa di Jazirah Arab dan Timur Tengah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bahasa Semit yang digunakan bangsa Arab (Saudi Arabia, Suriah, Yordania, Irak, Mesir, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

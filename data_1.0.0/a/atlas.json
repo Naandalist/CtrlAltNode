@@ -1,0 +1,45 @@
+{
+  "istilah": "atlas",
+  "entri": "at.las1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "atlas dialek",
+    "atlas klimatologi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "halus",
+    "kataAsal": "aṭlas"
+  },
+  "data": [
+    {
+      "lema": "at.las1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buku yang berisi peta bumi"
+        }
+      ]
+    },
+    {
+      "lema": "at.las2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "jenis sutra yang halus dan berkilat pada satu sisi; satin; antelas"
+        }
+      ]
+    },
+    {
+      "lema": "at.las3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ruas tulang leher yang teratas"
+        }
+      ]
+    }
+  ]
+}

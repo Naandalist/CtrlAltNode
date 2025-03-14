@@ -1,0 +1,42 @@
+{
+  "istilah": "anta",
+  "entri": "an.ta1",
+  "bentukTidakBaku": "ente",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "kata ganti orang kedua tunggal untuk maskulin; kamu",
+    "kataAsal": "anta"
+  },
+  "data": [
+    {
+      "lema": "an.ta1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "sifat, tabiat"
+        }
+      ]
+    },
+    {
+      "lema": "an.ta2 bentuk tidak baku: ente",
+      "arti": [
+        {
+          "kelas_kata": "pron[Pronomina: kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kamu"
+        }
+      ]
+    },
+    {
+      "lema": "an.ta3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "kotoran (sisa padi, batu kecil, kutu, dan lain-lain) pada beras: sebelum dizakatkan, sebaiknya beras dibersihkan dari --"
+        }
+      ]
+    }
+  ]
+}

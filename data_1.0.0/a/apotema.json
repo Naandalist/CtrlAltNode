@@ -1,0 +1,28 @@
+{
+  "istilah": "apotema",
+  "entri": "a.po.te.ma",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.po.te.ma",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "ruas garis tegak lurus dari pusat segi banyak beraturan ke sisinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mat[Matematika: -]",
+          "deskripsi": "jarak tegak lurus dari pusat segi banyak beraturan ke sisinya"
+        }
+      ]
+    }
+  ]
+}

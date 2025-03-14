@@ -1,0 +1,37 @@
+{
+  "istilah": "bedal",
+  "entri": "be.dal1 /bêdal/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membedal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "seperti ular kena bedal (palu, pukul)"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.dal1 /bêdal/",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "pukul"
+        }
+      ]
+    },
+    {
+      "lema": "be.dal2 /bêdal/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "lepas dan lari (tentang kuda dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

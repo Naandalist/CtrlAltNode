@@ -1,0 +1,35 @@
+{
+  "istilah": "bangat",
+  "entri": "ba.ngat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membangatkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.ngat1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "lekas; segera"
+        }
+      ]
+    },
+    {
+      "lema": "ba.ngat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "musim angin kencang, biasanya ditandai dengan ombak air laut yang besar"
+        }
+      ]
+    }
+  ]
+}

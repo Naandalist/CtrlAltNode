@@ -1,0 +1,61 @@
+{
+  "istilah": "aras",
+  "entri": "a.ras1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengaras"
+  ],
+  "gabunganKata": [
+    "aras lutut",
+    "aras tenaga",
+    "aras trop"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ras1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ arasy"
+        }
+      ]
+    },
+    {
+      "lema": "a.ras2",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "dalam bahaya (tentang raja dalam permainan catur)"
+        }
+      ]
+    },
+    {
+      "lema": "a.ras3",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "menyentuh (pada); berbatas (pada); sampai (ke)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "tingkat"
+        }
+      ]
+    },
+    {
+      "lema": "a.ras4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "bagian yang dangkal, tetapi deras, pada sungai"
+        }
+      ]
+    }
+  ]
+}

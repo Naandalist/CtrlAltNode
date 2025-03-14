@@ -1,0 +1,57 @@
+{
+  "istilah": "ajak",
+  "entri": "a.jak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "ajakan",
+    "mengajak",
+    "pengajak",
+    "terajak",
+    "mengajakkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.jak1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "ajakan; mengajak; pengajak; terajak"
+        }
+      ]
+    },
+    {
+      "lema": "a.jak2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] Mk[Minangkabau: -]",
+          "deskripsi": "serupa (dengan); seperti"
+        }
+      ]
+    },
+    {
+      "lema": "ajak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "anjing ajak"
+        }
+      ]
+    },
+    {
+      "lema": "a.jak4",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] Bjr[Banjar: -]",
+          "deskripsi": "kalah (tentang permainan anak-anak): karena tidak pandai bermain, anak itu selalu -- dalam setiap permainan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "istilah": "bak",
+  "entri": "bak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bak cuci",
+    "bak makanan",
+    "bak mandi",
+    "bak pengering",
+    "bak rendam"
+  ],
+  "peribahasa": [
+    "bak ilmu padi, kian berisi kian runduk; bak mandi di air kiambang, pelak lepas gatal pun datang; bak menanti orang dahulu, bak melalah orang kudian; bak tengguli ditukar cuka; bersurih bak sepasin, berjejak bak berkik, berbau bak embacang; bersurih bak sepasin, berjejak bak berkik, berbau bak embacang; hati bak sirangkak dibungkus; hinggap bak langau, titik bak hujan; seciap bak ayam, sedencing bak besi"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "tinta Cina",
+    "kataAsal": "ba̍k"
+  },
+  "data": [
+    {
+      "lema": "bak1",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "kata depan untuk menyatakan perbandingan; bagaikan: kedua anak muda itu wajahnya mirip, -- pinang dibelah dua"
+        }
+      ]
+    },
+    {
+      "lema": "bak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kotak besar (tempat sampah, dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kolam tempat air di kamar mandi"
+        }
+      ]
+    },
+    {
+      "lema": "bak3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tinta cina (hitam warnanya)"
+        }
+      ]
+    },
+    {
+      "lema": "bak4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tiruan bunyi tamparan (pukulan dan sebagainya); debak"
+        }
+      ]
+    },
+    {
+      "lema": "BAK1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "buang air kecil"
+        }
+      ]
+    },
+    {
+      "lema": "BAK2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "Biro Administrasi Keuangan (unsur pelaksana administrasi keuangan di perguruan tinggi)"
+        }
+      ]
+    }
+  ]
+}

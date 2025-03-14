@@ -1,0 +1,67 @@
+{
+  "istilah": "barut",
+  "entri": "ba.rut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbarut",
+    "membarut",
+    "pembarut",
+    "pembarutan",
+    "membarut",
+    "membarut-barut",
+    "membarutkan"
+  ],
+  "gabunganKata": [
+    "barut gantung",
+    "barut kereta",
+    "barut panjang"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.rut1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kain pembalut luka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bedung"
+        }
+      ]
+    },
+    {
+      "lema": "ba.rut2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "balur"
+        }
+      ]
+    },
+    {
+      "lema": "ba.rut3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "gores(an)"
+        }
+      ]
+    },
+    {
+      "lema": "ba.rut4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "ramuan tradisional dari rempah-rempah, biasanya kunyit, kunyit bulai, dan sebagainya yang direbus dan dibungkus dengan kain, diurutkan ke bagian yang sakit: kakimu sptnya bengkak, coba balurkan -- agar cepat sembuh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "adp",
+  "entri": "ADP1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ADP1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "arah dasar pengukuran"
+        }
+      ]
+    },
+    {
+      "lema": "ADP2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "adenosina difosfat; adenosine diphosphate"
+        }
+      ]
+    }
+  ]
+}

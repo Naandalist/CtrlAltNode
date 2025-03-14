@@ -1,0 +1,36 @@
+{
+  "istilah": "anteseden",
+  "entri": "an.te.se.den /antesedên/",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.te.se.den /antesedên/",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal ihwal yang terjadi dahulu (terutama tentang riwayat hidup atau masa lampau seseorang)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "informasi dalam ingatan atau konteks yang ditunjukkan oleh suatu ungkapan, misalnya dalam kalimat anaknya berapa?, bentuk -nya menunjuk anteseden tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "unsur terdahulu yang ditunjuk oleh ungkapan dalam suatu klausa atau kalimat, misalnya “Ani cantik, tetapi kelakuannya jelek”, bentuk -nya menunjuk anteseden Ani"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Mus[Musik: -]",
+          "deskripsi": "suara atau bagian instrumental utama dalam kanon"
+        }
+      ]
+    }
+  ]
+}

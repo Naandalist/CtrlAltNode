@@ -1,0 +1,40 @@
+{
+  "istilah": "bandul",
+  "entri": "ban.dul",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bandulan",
+    "membandul",
+    "pembandul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ban.dul",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "buaian (lonceng dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benda yang digantungkan sebagai pemberat"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Fis[Fisika: -]",
+          "deskripsi": "batang tegar atau tali yang satu ujungnya dihubungkan dengan bola atau silinder pembobot dengan massa tertentu dan ujung yang lain diikatkan pada suatu titik tetap sehingga ujung yang mempunyai pembobot dapat bergantung bebas dan berayun dengan kala (periode) tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "pukulan yang diayunkan dari bawah ke atas (terutama dalam pencak silat)"
+        }
+      ]
+    }
+  ]
+}

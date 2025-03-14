@@ -1,0 +1,33 @@
+{
+  "istilah": "autentisitas",
+  "entri": "au.ten.ti.si.tas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "au.ten.ti.si.tas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "keaslian; kebenaran"
+        }
+      ]
+    },
+    {
+      "lema": "au.ten.ti.si.tas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "fenomena yang nyata dan tepercaya keberadaannya"
+        }
+      ]
+    }
+  ]
+}

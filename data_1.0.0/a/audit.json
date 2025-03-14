@@ -1,0 +1,49 @@
+{
+  "istilah": "audit",
+  "entri": "au.dit",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "auditan",
+    "mengaudit",
+    "pengaudit",
+    "pengauditan",
+    "teraudit"
+  ],
+  "gabunganKata": [
+    "audit balas jasa",
+    "audit eksternal",
+    "audit internal",
+    "audit investigatif",
+    "audit keuangan",
+    "audit kontrak",
+    "audit kredit",
+    "audit lingkungan",
+    "audit malam",
+    "audit pemasaran"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "au.dit",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemeriksaan pembukuan tentang keuangan (perusahaan, bank, dan sebagainya) secara berkala"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pengujian efektivitas keluar masuknya uang dan penilaian kewajaran laporan yang dihasilkannya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "pemeriksaan terhadap peralatan, program, aktivitas, dan prosedur untuk menentukan efisiensi dari kinerja keseluruhan sistem terutama untuk menjamin integritas dan keamanan data"
+        }
+      ]
+    }
+  ]
+}

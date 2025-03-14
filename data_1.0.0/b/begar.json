@@ -1,0 +1,44 @@
+{
+  "istilah": "begar",
+  "entri": "be.gar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "kebegaran",
+    "membegar"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "be.gar",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ bega2"
+        }
+      ]
+    },
+    {
+      "lema": "be.gar /bêgar/",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tetap keras tidak dapat menjadi empuk (walaupun direbus atau diperam)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "tidak dapat berubah lagi (tentang tabiat, kelakuan buruk)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] ki[kiasan]",
+          "deskripsi": "kasar (tentang buatan suatu benda)"
+        }
+      ]
+    }
+  ]
+}

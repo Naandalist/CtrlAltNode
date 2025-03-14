@@ -1,0 +1,55 @@
+{
+  "istilah": "akan",
+  "entri": "a.kan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "akan-akan",
+    "akanan",
+    "berakan",
+    "berseakan",
+    "keakanan",
+    "keseakanan",
+    "mengakan",
+    "mengakankan",
+    "seakan-akan"
+  ],
+  "gabunganKata": [
+    "akan tetapi"
+  ],
+  "peribahasa": [
+    "acap melempar, akan jatuh jua; arang itu jikalau dibasuh dengan air mawar sekalipun, tiada akan putih; barang siapa menggali lubang, ia akan terperosok ke dalamnya; benci akan mencit rengkiang disunu; bertepuk sebelah tangan tidak akan berbunyi; condong yang akan menimpa; condong yang akan menongkat, rebah yang akan menegakkan; disangka tiada akan mengaram, ombak yang kecil diabaikan; ditetak belah, dipalu belah, tembikar juga akan jadinya; iba akan kacang sebuah, tak jadi memengat; jika kasih akan padi, buanglah rumput; kacang lupa akan kulitnya; laut ditimba akan kering; lupa kacang akan kulitnya; makanan enggang akan dimakan pipit; marah akan tikus, rengkiang dibakar; mati tidak akan menyesal, luka tidak akan menyiuk; monyet mendapat bunga, adakah ia tahu akan faedah bunga itu?; punggung parang sekalipun jika selalu diasah, akan tajam juga; rezeki elang tak akan dapat (dimakan) oleh musang (burung pipit); selama hujan, akan panas jua; seperti orang mati, jika tiada orang mengangkat, bila akan bergerak; tak ada beras yang akan ditanak; tak akan (takkan) lari gunung dikejar, hilang kabut tampaklah dia; tak akan terlawan buaya menyelam; takut akan bayang-bayangnyanya; takut akan lumpur, lari ke duri; tampak gabak di hulu (gabak di hulu tanda akan hujan); tanam lalang, tak akan tumbuh padi; tangan kanan jangan percaya akan tangan kiri; tersabung akan induk ayam (tersabung akan itik); yang sesukat tak akan jadi segantang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.kan1",
+      "arti": [
+        {
+          "kelas_kata": "adv[Adverbia: kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat]",
+          "deskripsi": "(untuk menyatakan sesuatu yang hendak terjadi, berarti) hendak: disangkanya hari -- hujan"
+        }
+      ]
+    },
+    {
+      "lema": "a.kan2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "(sebagai kata perangkai untuk menghubungkan verba dan sebagainya dengan pelengkapnya yang berarti): kepada: ia lupa -- orang tuanya"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "mengenai; tentang; terhadap: -- harta peninggalan orang tuanya itu tiada dipikirkannya lagi"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam]",
+          "deskripsi": "untuk: uang ini dapat kaupakai -- pembayar utangmu"
+        }
+      ]
+    }
+  ]
+}

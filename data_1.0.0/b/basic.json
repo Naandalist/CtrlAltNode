@@ -1,0 +1,24 @@
+{
+  "istilah": "basic",
+  "entri": "BASIC",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "BASIC",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] sing[singkatan]",
+          "deskripsi": "bahasa pemrograman sederhana yang dirancang untuk pemrograman dengan cepat dan mudah oleh mahasiswa dan pemula; Beginners' All-purpose Symbolic Instruction Code"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "istilah": "banai",
+  "entri": "ba.nai1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.nai1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "porak-poranda"
+        }
+      ]
+    },
+    {
+      "lema": "ba.nai2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "ampas sisa saringan perasan sagu: -- dijemur di bawah sinar matahari"
+        }
+      ]
+    }
+  ]
+}

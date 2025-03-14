@@ -1,0 +1,46 @@
+{
+  "istilah": "bangking",
+  "entri": "bang.king1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Hokkien dialek Xiamen",
+    "arti": "kotak bundar berlak untuk menyimpan pakaian",
+    "kataAsal": "bāng kheng"
+  },
+  "data": [
+    {
+      "lema": "bang.king1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "tempat yang bentuknya seperti buah delima dibuat dari tembaga atau kayu berlak"
+        }
+      ]
+    },
+    {
+      "lema": "bang.king2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat bungkang"
+        }
+      ]
+    },
+    {
+      "lema": "bang.king3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "pohon kelapa yang sudah tua, tetapi berbuah kecil: di belakang rumahnya ada -- yang sudah mengering"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -] ki[kiasan]",
+          "deskripsi": "ejekan untuk orang yang bertubuh kecil karena gen atau sakit: jangan sebut -- kpdnya, nanti dia marah"
+        }
+      ]
+    }
+  ]
+}

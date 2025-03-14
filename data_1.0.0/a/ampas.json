@@ -1,0 +1,41 @@
+{
+  "istilah": "ampas",
+  "entri": "am.pas1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berampas"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [
+    "habis pati, ampas dibuang; hitam, hitam tahi minyak dimakan juga, putih-putih ampas kelapa dibuang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "ampas, residu, sisa barang setelah diambil sarinya",
+    "kataAsal": "ampas"
+  },
+  "data": [
+    {
+      "lema": "am.pas1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sisa barang yang telah diambil sarinya atau patinya: -- kecap; -- kopi; -- tebu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Min[Mineralogi: -]",
+          "deskripsi": "sisa hasil proses pengolahan bahan galian yang tidak dikehendaki karena sudah tidak mengandung mineral berharga lagi"
+        }
+      ]
+    },
+    {
+      "lema": "Am.pas2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "Molof"
+        }
+      ]
+    }
+  ]
+}

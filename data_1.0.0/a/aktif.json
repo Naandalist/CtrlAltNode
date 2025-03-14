@@ -1,0 +1,47 @@
+{
+  "istilah": "aktif",
+  "entri": "ak.tif bentuk tidak baku: aktip",
+  "bentukTidakBaku": "aktip",
+  "kataTurunan": [
+    "keaktifan",
+    "mengaktifkan",
+    "pengaktif",
+    "pengaktifan",
+    "seaktif",
+    "teraktif"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.tif bentuk tidak baku: aktip",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "giat (bekerja, berusaha): ia -- di bidang olahraga"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lebih banyak penerimaan daripada pengeluaran: neraca pembayaran --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "dinamis atau bertenaga (sebagai lawan statis atau lembam)"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mampu beraksi dan bereaksi: nitrogen --"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "mempunyai kecenderungan menyebar atau berkembang biak (tentang penyakit, sel, dan sebagainya): dia mengidap penyakit tuberkulosis --"
+        }
+      ]
+    }
+  ]
+}

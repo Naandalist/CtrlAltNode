@@ -1,0 +1,50 @@
+{
+  "istilah": "balam",
+  "entri": "ba.lam1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "balam-balam",
+    "berbalam",
+    "membalam"
+  ],
+  "gabunganKata": [
+    "balam merah"
+  ],
+  "peribahasa": [
+    "bagai balam dengan ketitir"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.lam1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tekukur"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lam2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "balam-balam; berbalam; membalam"
+        }
+      ]
+    },
+    {
+      "lema": "ba.lam3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bot[Botani: -]",
+          "deskripsi": "pohon yang mengandung getah, ada beberapa macam, spt&nbsp;Payena&nbsp;dan&nbsp;Palaquium〔Payena spp. dan Palaquium spp.〕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "istilah": "arik",
+  "entri": "a.rik1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengarik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "tidak dapat tidur di malam hari karena takut atau rindu seseorang",
+    "kataAsal": "ariqa"
+  },
+  "data": [
+    {
+      "lema": "a.rik1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "raih; rengkuh"
+        }
+      ]
+    },
+    {
+      "lema": "a.rik2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak tidur sepanjang malam; begadang"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "tidak dapat tidur"
+        }
+      ]
+    }
+  ]
+}

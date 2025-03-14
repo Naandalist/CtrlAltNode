@@ -1,0 +1,28 @@
+{
+  "istilah": "arsitek",
+  "entri": "ar.si.tek",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.si.tek",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ahli dalam merancang dan menggambar bangunan, jembatan, dan sebagainya, biasanya sekaligus sebagai penyelia konstruksinya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ki[kiasan]",
+          "deskripsi": "perencana (pencipta suatu paham, negara, dan sebagainya)"
+        }
+      ]
+    }
+  ]
+}

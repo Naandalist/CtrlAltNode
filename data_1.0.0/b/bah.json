@@ -1,0 +1,42 @@
+{
+  "istilah": "bah",
+  "entri": "bah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "bah betina",
+    "bah jantan"
+  ],
+  "peribahasa": [
+    "sedangkan bah kapal tak hanyut, ini pula kemarau panjang"
+  ],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bah1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "air yang meluap, mengalir deras, dan menggenangi sawah (perkampungan, kota, dan sebagainya); banjir"
+        }
+      ]
+    },
+    {
+      "lema": "bah2",
+      "arti": [
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "kata seru yang menyatakan penolakan, rasa muak (jijik, jemu, dan sebagainya) biasa dipakai pada permulaan kalimat: --, lagi-lagi dia yang muncul"
+        },
+        {
+          "kelas_kata": "p[Partikel: kelas kata yang meliputi kata depan, kata penghubung, kata seru, kata sandang, ucapan salam] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku] Bt[Batak: -]",
+          "deskripsi": "kata seru yang menyatakan keintiman, biasa dipakai pada akhir kalimat: silakan duduk --"
+        }
+      ]
+    }
+  ]
+}

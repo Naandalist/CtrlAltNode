@@ -1,0 +1,36 @@
+{
+  "istilah": "antagonis",
+  "entri": "an.ta.go.nis",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.ta.go.nis",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "orang yang suka menentang (melawan dan sebagainya)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "dua macam obat atau racun yang mempunyai khasiat berlawanan sehingga dapat menghilangkan atau mengurangi khasiat masing-masing"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sas[Sastra: -]",
+          "deskripsi": "tokoh dalam karya sastra yang merupakan penentang dari tokoh utama; tokoh lawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Olr[Olahraga: -]",
+          "deskripsi": "otot yang menghasilkan gerakan berlawanan dengan otot agonis"
+        }
+      ]
+    }
+  ]
+}

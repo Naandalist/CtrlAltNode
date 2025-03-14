@@ -1,0 +1,31 @@
+{
+  "istilah": "artistik",
+  "entri": "ar.tis.tik",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keartistikan",
+    "seartistik"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ar.tis.tik",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mempunyai nilai seni; bersifat seni"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "mempunyai bakat dalam kesenian; mempunyai rasa seni"
+        }
+      ]
+    }
+  ]
+}

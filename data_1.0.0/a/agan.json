@@ -1,0 +1,46 @@
+{
+  "istilah": "agan",
+  "entri": "a.gan1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beragan",
+    "mengagan",
+    "mengagani"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.gan1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "beragan"
+        }
+      ]
+    },
+    {
+      "lema": "a.gan2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "ganggu, goda"
+        }
+      ]
+    },
+    {
+      "lema": "a.gan3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Sd[Sunda: -]",
+          "deskripsi": "juragan"
+        }
+      ]
+    }
+  ]
+}

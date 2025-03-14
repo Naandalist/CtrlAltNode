@@ -1,0 +1,28 @@
+{
+  "istilah": "autotrof",
+  "entri": "au.to.trof",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "au.to.trof",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "organisme yang secara mandiri dapat memenuhi bahan organik yang dibutuhkannya dengan cara menyintesisnya dari bahan anorganik"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Bio[Biologi: -]",
+          "deskripsi": "mampu menguraikan bahan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "istilah": "bal",
+  "entri": "bal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbal-bal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bal1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] cak[Cakapan: menandai kata yang digunakan dalam ragam takbaku]",
+          "deskripsi": "bola"
+        }
+      ]
+    },
+    {
+      "lema": "bal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "satuan ukuran jumlah (bahan pakaian dan sebagainya): membeli kain putih dua --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bandela; karung (tentang beras dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "bal3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Lay[Pelayaran: -]",
+          "deskripsi": "bungkusan yang terbuat dari bahan lunak, tidak kaku, berbentuk kotak"
+        }
+      ]
+    }
+  ]
+}

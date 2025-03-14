@@ -1,0 +1,81 @@
+{
+  "istilah": "aksara",
+  "entri": "ak.sa.ra",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beraksara",
+    "keaksaraan",
+    "keberaksaraan"
+  ],
+  "gabunganKata": [
+    "aksara Arab",
+    "aksara Arab Melayu",
+    "aksara Aramea",
+    "aksara Bali",
+    "aksara Brahmi",
+    "aksara Budo",
+    "aksara Bugis",
+    "aksara Dewanagari",
+    "aksara fonemis",
+    "aksara fonetis",
+    "aksara Grantha",
+    "aksara Han",
+    "aksara Hieroglif",
+    "aksara Hiragana",
+    "aksara Jawa",
+    "aksara Jawi",
+    "aksara Karo",
+    "aksara Katakana",
+    "aksara Kawi",
+    "aksara Lampung",
+    "aksara Latin",
+    "aksara Lontarak",
+    "aksara Mandailing",
+    "aksara morfemis",
+    "aksara Pakpak",
+    "aksara Paku",
+    "aksara Pallawa",
+    "aksara Pegon",
+    "aksara Rejang",
+    "aksara Rencong",
+    "aksara silabis",
+    "aksara Simalungun",
+    "aksara Sunda",
+    "aksara Toba",
+    "aksara Yunani"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "suara, suku kata, aksara, karakter",
+    "kataAsal": "akṣara"
+  },
+  "data": [
+    {
+      "lema": "ak.sa.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "sistem tanda grafis yang digunakan manusia untuk berkomunikasi dan sedikit banyak mewakili ujaran"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "jenis sistem tanda grafis tertentu, misalnya aksara Pallawa, aksara Inka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ling[Linguistik: -]",
+          "deskripsi": "huruf"
+        }
+      ]
+    },
+    {
+      "lema": "Ak.sa.ra",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] akr[akronim]",
+          "deskripsi": "Akademi Sandi Negara"
+        }
+      ]
+    }
+  ]
+}

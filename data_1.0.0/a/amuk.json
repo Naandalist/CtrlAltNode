@@ -1,0 +1,41 @@
+{
+  "istilah": "amuk",
+  "entri": "a.muk",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "amukan",
+    "beramuk",
+    "beramuk-amuk",
+    "beramuk-amukan",
+    "mengamuk",
+    "mengamukkan",
+    "pengamuk",
+    "pengamukan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.muk",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kerusuhan yang melibatkan banyak orang (seperti perang saudara): dalam -- itu banyak orang tewas dan terluka"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "perilaku agresi yang menyebabkan kematian orang lain secara tiba-tiba dalam konteks kegiatan budaya tertentu"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Psi[Psikologi: -]",
+          "deskripsi": "kondisi tidak terkontrol; kerusuhan dengan kekerasan"
+        }
+      ]
+    }
+  ]
+}

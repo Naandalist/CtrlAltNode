@@ -1,0 +1,66 @@
+{
+  "istilah": "acara",
+  "entri": "a.ca.ra1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "beracara",
+    "kepengacaraan",
+    "mengacara",
+    "mengacarakan",
+    "pengacara",
+    "seacara",
+    "mengacarakan"
+  ],
+  "gabunganKata": [
+    "acara iklan",
+    "acara niaga",
+    "acara pembukaan",
+    "acara pokok",
+    "acara rapat",
+    "acara surat",
+    "acara tugas",
+    "acara utama"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "cari:",
+    "kataAsal": "ācāra"
+  },
+  "data": [
+    {
+      "lema": "a.ca.ra1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal atau pokok yang akan dibicarakan (dalam rapat, perundingan, dan sebagainya); agenda: -- kongres akan disusun oleh panitia khusus"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hal atau pokok isi karangan: untuk ujian mengarang disediakan empat --"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kegiatan yang dipertunjukkan, disiarkan, atau diperlombakan; programa (televisi, radio, dan sebagainya): -- televisi dan radio setiap hari dimuat dalam media daring"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pemeriksaan dalam pengadilan; perkara: dia sedang menyaksikan -- di mahkamah tinggi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] ark[Arkais: menandai kata yang tidak lazim]",
+          "deskripsi": "cara: setiap orang mempunyai -- berpikir yang berlainan"
+        }
+      ]
+    },
+    {
+      "lema": "a.ca.ra2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengacarakan"
+        }
+      ]
+    }
+  ]
+}

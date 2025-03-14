@@ -1,0 +1,32 @@
+{
+  "istilah": "akson",
+  "entri": "ak.son",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.son",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Anat[Anatomi: -]",
+          "deskripsi": "tonjolan serat saraf yang dimulai pada sel saraf"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "taji sel saraf yang secara normal membawa rangsangan dari badan sel saraf lain"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "benang saraf yang berasal dari tubuh sel neuron yang berfungsi untuk menyampaikan aksi potensial dari tubuh sel ke neuron terdekat"
+        }
+      ]
+    }
+  ]
+}

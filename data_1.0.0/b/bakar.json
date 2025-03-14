@@ -1,0 +1,40 @@
+{
+  "istilah": "bakar",
+  "entri": "ba.kar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "dibakar",
+    "kebakaran",
+    "keterbakaran",
+    "membakar",
+    "membakari",
+    "membakarkan",
+    "pembakar",
+    "pembakaran",
+    "terbakar",
+    "terbakarkan"
+  ],
+  "gabunganKata": [
+    "bakar batu",
+    "bakar uang"
+  ],
+  "peribahasa": [
+    "siar bakar berpuntung suluh"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "membakar (ababakar), dibakar (mayat) (binakar)",
+    "kataAsal": "bakar"
+  },
+  "data": [
+    {
+      "lema": "ba.kar",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "panggang"
+        }
+      ]
+    }
+  ]
+}

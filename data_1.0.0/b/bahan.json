@@ -1,0 +1,113 @@
+{
+  "istilah": "bahan",
+  "entri": "ba.han1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membahan",
+    "berbahan",
+    "pembahan",
+    "perbahanan"
+  ],
+  "gabunganKata": [
+    "bahan acuan",
+    "bahan ajar",
+    "bahan bakar",
+    "bahan bakar alternatif",
+    "bahan bakar fosil",
+    "bahan bakar hayati",
+    "bahan bakar jet",
+    "bahan bakar metabolik",
+    "bahan bakar minyak",
+    "bahan bakar nabati",
+    "bahan bakar nuklir",
+    "bahan bakar teradiasi",
+    "bahan baku",
+    "bahan bangunan",
+    "bahan berita",
+    "bahan bibliografi",
+    "bahan celana",
+    "bahan cerita",
+    "bahan cetak",
+    "bahan dasar",
+    "bahan diskusi",
+    "bahan film",
+    "bahan galian",
+    "bahan hayati",
+    "bahan jadi",
+    "bahan kartografi",
+    "bahan kelabu",
+    "bahan makanan",
+    "bahan makanan ternak",
+    "bahan mentah",
+    "bahan murni",
+    "bahan organik",
+    "bahan pakai",
+    "bahan pakaian",
+    "bahan pakan",
+    "bahan pandang dengar",
+    "bahan pegangan",
+    "bahan pelajaran",
+    "bahan peledak",
+    "bahan peledak kuat",
+    "bahan peledak lemah",
+    "bahan peledak terizinkan",
+    "bahan pelumas",
+    "bahan pembicaraan",
+    "bahan pemeriksaan",
+    "bahan pemikiran",
+    "bahan pengajaran",
+    "bahan pengawet",
+    "bahan pengelantang",
+    "bahan pengering",
+    "bahan pengikat",
+    "bahan periklanan",
+    "bahan pertimbangan",
+    "bahan rujukan",
+    "bahan serap",
+    "bahan taklangsung",
+    "bahan tambahan pangan",
+    "bahan tanam",
+    "bahan tanpa lemak",
+    "bahan tersuspensi",
+    "bahan viskoelastik",
+    "bahan vulkanisasi"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "bahan",
+    "kataAsal": "bahan"
+  },
+  "data": [
+    {
+      "lema": "ba.han1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pecahan kayu (yang terbuang ketika menarah); tatal kayu"
+        }
+      ]
+    },
+    {
+      "lema": "ba.han2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang akan dibuat menjadi satu benda tertentu; bakal"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(segala) sesuatu yang dapat dipakai atau diperlukan untuk tujuan tertentu, seperti untuk pedoman atau pegangan, mengajar, atau memberi ceramah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sesuatu yang menjadi sebab (pangkal) atau sikap (perbuatan): -- tertawaan; -- pertikaian (perselisihan)"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "barang yang akan dipakai untuk bukti (keterangan, alasan, dan sebagainya): ia sedang mengumpulkan -- untuk menyusun tesisnya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "istilah": "alelomorf",
+  "entri": "a.le.lo.morf",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "alelomorf ganda"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.le.lo.morf",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "campuran isomer dalam larutan yang mula-mula memisah atau menghablur ke luar"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kim[Kimia: -]",
+          "deskripsi": "satu dari dua atau lebih zat sebentuk yang terdiri atas atom sama yang bervalensi sama, tetapi berbeda dalam pengikatan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bio[Biologi: -]",
+          "deskripsi": "salah satu pasangan gen yang tidak serupa yang menempati satu bagian tertentu pada kromosom"
+        }
+      ]
+    }
+  ]
+}

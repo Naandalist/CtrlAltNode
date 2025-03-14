@@ -1,0 +1,32 @@
+{
+  "istilah": "abtar",
+  "entri": "ab.tar",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang terputus",
+    "kataAsal": "abtar"
+  },
+  "data": [
+    {
+      "lema": "ab.tar",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kudung; kutung; buntung"
+        },
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "terputus rahmat Allah"
+        },
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Ri[Melayu Riau: -]",
+          "deskripsi": "tanpa ekor atau dengan ekor yang terpotong"
+        }
+      ]
+    }
+  ]
+}

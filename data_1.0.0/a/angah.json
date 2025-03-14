@@ -1,0 +1,39 @@
+{
+  "istilah": "angah",
+  "entri": "a.ngah1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "terangah"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ngah1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "terangah"
+        }
+      ]
+    },
+    {
+      "lema": "a.ngah2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bjr[Banjar: -]",
+          "deskripsi": "kata sapaan terhadap saudara ayah atau ibu nomor tiga tertua"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "kata sapaan kepada saudara ayah atau ibu nomor dua tertua"
+        }
+      ]
+    }
+  ]
+}

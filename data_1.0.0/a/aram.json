@@ -1,0 +1,38 @@
+{
+  "istilah": "aram",
+  "entri": "a.ram1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "aram-aram",
+    "pengaram"
+  ],
+  "gabunganKata": [
+    "aram temaram"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.ram1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tangga"
+        }
+      ]
+    },
+    {
+      "lema": "a.ram2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "aram temaram"
+        }
+      ]
+    }
+  ]
+}

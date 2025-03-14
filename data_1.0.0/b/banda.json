@@ -1,0 +1,46 @@
+{
+  "istilah": "banda",
+  "entri": "ban.da1 bentuk tidak baku: bandha",
+  "bentukTidakBaku": "bandha",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "tali, ikat, ikat kepala",
+    "kataAsal": "bandha"
+  },
+  "data": [
+    {
+      "lema": "ban.da1 bentuk tidak baku: bandha",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "kekayaan"
+        }
+      ]
+    },
+    {
+      "lema": "ban.da2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "pita"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "ikat; tali"
+        }
+      ]
+    },
+    {
+      "lema": "ban.da3",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "lihat main"
+        }
+      ]
+    }
+  ]
+}

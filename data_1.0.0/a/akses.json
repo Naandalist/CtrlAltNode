@@ -1,0 +1,46 @@
+{
+  "istilah": "akses",
+  "entri": "ak.ses",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keteraksesan",
+    "mengakses",
+    "pengakses",
+    "pengaksesan",
+    "terakses"
+  ],
+  "gabunganKata": [
+    "akses arsip",
+    "akses informasi",
+    "akses jauh",
+    "akses ke berkas",
+    "akses ke data",
+    "akses lokal",
+    "akses terbatas"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ak.ses",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "jalan masuk: seluruh pembangunan -- ini dibiayai oleh dana obligasi"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] El[Elektronika: -]",
+          "deskripsi": "pencapaian berkas di disket untuk penulisan atau pembacaan data"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Komp[Komputer: -]",
+          "deskripsi": "tindakan untuk memperoleh informasi, seperti cakram keras atau suatu layanan informasi"
+        }
+      ]
+    }
+  ]
+}

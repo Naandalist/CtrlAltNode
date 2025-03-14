@@ -1,0 +1,98 @@
+{
+  "istilah": "angka",
+  "entri": "ang.ka1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "angka-angka",
+    "berangka",
+    "mengangkakan",
+    "pengangkaan",
+    "perangkaan",
+    "seangka",
+    "berangka-angka",
+    "berangka-angkaan",
+    "mengangka"
+  ],
+  "gabunganKata": [
+    "angka absolut",
+    "angka akhir",
+    "angka Arab",
+    "angka babak",
+    "angka barion",
+    "angka beban tanggungan",
+    "angka bias",
+    "angka biasa",
+    "angka biner",
+    "angka bulat",
+    "angka dasar",
+    "angka desimal",
+    "angka dua",
+    "angka fertilitas",
+    "angka fertilitas kumulatif",
+    "angka fertilitas umum",
+    "angka ganjil",
+    "angka gasal",
+    "angka genap",
+    "angka halaman",
+    "angka haploid",
+    "angka harapan hidup",
+    "angka impor",
+    "angka indeks",
+    "angka kecermatan",
+    "angka kecukupan gizi",
+    "angka kelahiran",
+    "angka kematian",
+    "angka kematian anak-anak",
+    "angka kematian bayi",
+    "angka kematian ibu",
+    "angka kematian kasar",
+    "angka kematian neonatal",
+    "angka kredit",
+    "angka kunjungan",
+    "angka meja",
+    "angka pecahan",
+    "angka penuh",
+    "angka referensi makanan",
+    "angka reli",
+    "angka reproduksi",
+    "angka Romawi",
+    "angka sama",
+    "angka set",
+    "angka sial",
+    "angka tanding",
+    "angka terakhir",
+    "angka untung",
+    "angka urut",
+    "angka utuh"
+  ],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Sanskerta",
+    "arti": "digit, simbol, angka, nomor",
+    "kataAsal": "aṅka"
+  },
+  "data": [
+    {
+      "lema": "ang.ka1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "tanda atau lambang sebagai pengganti bilangan; nomor: -- 13"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "nilai (kepandaian, prestasi, dan sebagainya): -- rapornya cukup baik; petinju itu menang -- atas lawannya"
+        }
+      ]
+    },
+    {
+      "lema": "ang.ka2",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "anggap; sangka"
+        }
+      ]
+    }
+  ]
+}

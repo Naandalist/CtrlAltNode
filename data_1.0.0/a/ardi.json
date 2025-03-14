@@ -1,0 +1,33 @@
+{
+  "istilah": "ardi",
+  "entri": "ar.di1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "sesuatu yang berkaitan dengan bumi atau tanah",
+    "kataAsal": "arḍī"
+  },
+  "data": [
+    {
+      "lema": "ar.di1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "gunung"
+        }
+      ]
+    },
+    {
+      "lema": "ar.di2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] kl[Klasik: menandai kata yang digunakan dalam kesusastraan Melayu Klasik]",
+          "deskripsi": "bumi; tanah"
+        }
+      ]
+    }
+  ]
+}

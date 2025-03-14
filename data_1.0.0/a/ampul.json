@@ -1,0 +1,49 @@
+{
+  "istilah": "ampul",
+  "entri": "am.pul1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengampul",
+    "seampul"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pul1",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "mengampul"
+        }
+      ]
+    },
+    {
+      "lema": "am.pul2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Dok[Kedokteran dan Fisiologi: -]",
+          "deskripsi": "botol kecil tertutup rapat, biasanya mengandung satu dosis atau jumlah tertentu obat untuk sekali penyuntikan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "perlengkapan misa berupa sepasang botol atau gelas kecil yang digunakan sebagai wadah air dan anggur"
+        }
+      ]
+    },
+    {
+      "lema": "am.pul3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kat[Agama Katolik: -]",
+          "deskripsi": "perlengkapan misa berupa sepasang botol atau gelas kecil yang digunakan sebagai wadah air dan anggur"
+        }
+      ]
+    }
+  ]
+}

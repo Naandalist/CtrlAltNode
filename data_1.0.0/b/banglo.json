@@ -1,0 +1,33 @@
+{
+  "istilah": "banglo",
+  "entri": "bang.lo1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "bang.lo1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peti berlubang tempat memelihara ikan di tebat (sungai dan sebagainya)"
+        }
+      ]
+    },
+    {
+      "lema": "bang.lo2",
+      "arti": [
+        {
+          "kelas_kata": "",
+          "deskripsi": "→ bungalo"
+        }
+      ]
+    }
+  ]
+}

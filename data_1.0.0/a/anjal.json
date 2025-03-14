@@ -1,0 +1,45 @@
+{
+  "istilah": "anjal",
+  "entri": "an.jal1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "keanjalan",
+    "menganjal"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "an.jal1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "lentur; elastis"
+        }
+      ]
+    },
+    {
+      "lema": "an.jal2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Bt[Batak: -]",
+          "deskripsi": "jarum kecil dari bambu"
+        }
+      ]
+    },
+    {
+      "lema": "an.jal3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina] Jw[Jawa: -]",
+          "deskripsi": "selalu pergi, tidak betah di satu tempat"
+        }
+      ]
+    }
+  ]
+}

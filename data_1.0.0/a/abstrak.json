@@ -1,0 +1,40 @@
+{
+  "istilah": "abstrak",
+  "entri": "ab.strak1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengabstrakkan",
+    "pengabstrakan",
+    "seabstrak",
+    "mengabstrakkan",
+    "pengabstrakan",
+    "seabstrak"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ab.strak1",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "tidak berwujud; tidak berbentuk; mujarad; niskala: kebaikan dan kebenaran adalah pengertian yang --"
+        }
+      ]
+    },
+    {
+      "lema": "ab.strak2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "ikhtisar (karangan, laporan, dan sebagainya); ringkasan; inti"
+        }
+      ]
+    }
+  ]
+}

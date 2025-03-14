@@ -1,0 +1,44 @@
+{
+  "istilah": "bakut",
+  "entri": "ba.kut1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "membakut"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.kut1",
+      "arti": [
+        {
+          "kelas_kata": "v[Verba: kata kerja]",
+          "deskripsi": "perkosa"
+        }
+      ]
+    },
+    {
+      "lema": "ba.kut2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "betutu1"
+        }
+      ]
+    },
+    {
+      "lema": "ba.kut3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
+          "deskripsi": "mata sembap karena terlalu lama tidur: matanya -- karena tidur dari pagi hingga sore"
+        }
+      ]
+    }
+  ]
+}

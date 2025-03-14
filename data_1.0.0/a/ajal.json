@@ -1,0 +1,32 @@
+{
+  "istilah": "ajal",
+  "entri": "a.jal",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [
+    "ajal samar"
+  ],
+  "peribahasa": [
+    "sebelum ajal, berpantang mati"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Arab",
+    "arti": "batas waktu kematian; jatuh tempo",
+    "kataAsal": "ajal"
+  },
+  "data": [
+    {
+      "lema": "a.jal",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "batas hidup yang telah ditentukan Tuhan, saat mati, janji akan mati: menemui --nya; menghadap (menanti) --nya; sampai --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ar[Arab: -]",
+          "deskripsi": "batas waktu tertentu berlakunya sesuatu"
+        }
+      ]
+    }
+  ]
+}

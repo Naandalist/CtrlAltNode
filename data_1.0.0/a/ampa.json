@@ -1,0 +1,42 @@
+{
+  "istilah": "ampa",
+  "entri": "am.pa1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "am.pa1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kal[Kaili: -]",
+          "deskripsi": "tempat di dalam hutan yang sudah ditandai (dengan pohon yang dicat atau ditebang sebagian) untuk dijadikan kebun"
+        }
+      ]
+    },
+    {
+      "lema": "am.pa2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] MBl[Melayu Belitung: Bahasa di Kepulauan Bangka Belitung]",
+          "deskripsi": "bulir padi yang tidak bernas karena patah pada tangkai padi: beras yang dipanen akhir-akhir ini banyak --"
+        }
+      ]
+    },
+    {
+      "lema": "am.pa3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Kls[Kulisusu: bahasa di Provinsi Sulawesi Tenggara, ditambahkan pd pemutakhiran Oktober 2020]",
+          "deskripsi": "bambu atau kayu yang runcing ujungnya, dipasang untuk perangkap binatang: dia membuat -- untuk menangkap babi hutan"
+        }
+      ]
+    }
+  ]
+}

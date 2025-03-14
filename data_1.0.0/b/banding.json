@@ -1,0 +1,42 @@
+{
+  "istilah": "banding",
+  "entri": "ban.ding",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "bandingan",
+    "berbanding",
+    "berbandingan",
+    "keterbandingan",
+    "membanding",
+    "membandingi",
+    "membandingkan",
+    "memperbandingkan",
+    "pembanding",
+    "pembandingan",
+    "perbandingan",
+    "sebanding",
+    "terbandingkan"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "banding",
+    "kataAsal": "bandiṅ"
+  },
+  "data": [
+    {
+      "lema": "ban.ding",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "persamaan; tara; imbangan: kecantikan gadis itu tiada --nya, tiada tolok --nya"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Huk[Hukum: -]",
+          "deskripsi": "pertimbangan pemeriksaan ulang terhadap putusan pengadilan oleh pengadilan yang lebih tinggi atas permintaan terdakwa atau jaksa naik apel: apabila tidak puas dengan putusan pengadilan negeri boleh minta -- kepada pengadilan tinggi"
+        }
+      ]
+    }
+  ]
+}

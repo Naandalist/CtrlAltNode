@@ -1,0 +1,44 @@
+{
+  "istilah": "bagat",
+  "entri": "ba.gat1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "berbagat"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "ba.gat1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "bintik-bintik hitam di badan"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gat2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "enau"
+        }
+      ]
+    },
+    {
+      "lema": "ba.gat3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "(ikan) kuwe"
+        }
+      ]
+    }
+  ]
+}

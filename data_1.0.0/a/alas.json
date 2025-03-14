@@ -1,0 +1,104 @@
+{
+  "istilah": "alas",
+  "entri": "a.las1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "alasan",
+    "beralas",
+    "beralasan",
+    "beralaskan",
+    "dialas",
+    "mengalas",
+    "mengalasi",
+    "mengalaskan",
+    "pengalas"
+  ],
+  "gabunganKata": [
+    "alas baju",
+    "alas bedak",
+    "alas bedak cair",
+    "alas bedak krim",
+    "alas bedak padat",
+    "alas bunga",
+    "alas cawan",
+    "alas dada",
+    "alas dalam",
+    "alas erosi",
+    "alas gurun",
+    "alas kaki",
+    "alas kata",
+    "alas kepala",
+    "alas kubur",
+    "alas lantai",
+    "alas leher",
+    "alas main",
+    "alas meja",
+    "alas perut",
+    "alas peti",
+    "alas rumah",
+    "alas selada",
+    "alas seprai",
+    "alas talkin",
+    "alas tempat tidur",
+    "alas tidur",
+    "alas tilam"
+  ],
+  "peribahasa": [
+    "jadi alas cakap"
+  ],
+  "etimologi": {
+    "bahasaAsal": "Jawa Kuno",
+    "arti": "hutan; sejumlah bunga atau tumbuh-tumbuhan yang tumbuh dalam satu kelompok yang lebat",
+    "kataAsal": "alas"
+  },
+  "data": [
+    {
+      "lema": "a.las1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dasar; fondasi: -- rumah"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "sarap; lapik: -- cawan"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda] Ark[Arkeologi: -]",
+          "deskripsi": "struktur yang menjadi tumpuan bagi struktur lain di atasnya, seperti lapik pada arca"
+        }
+      ]
+    },
+    {
+      "lema": "a.las2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "hutan; rimba: ayam --"
+        }
+      ]
+    },
+    {
+      "lema": "a.las3",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Jw[Jawa: -]",
+          "deskripsi": "tali pada alat penyeimbang perahu kecil"
+        }
+      ]
+    },
+    {
+      "lema": "A.las4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "suku bangsa yang mendiami Provinsi Aceh"
+        },
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "dialek bahasa Batak yang dituturkan suku bangsa Alas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "istilah": "alit",
+  "entri": "a.lit1",
+  "bentukTidakBaku": "",
+  "kataTurunan": [
+    "mengalit",
+    "mengalit"
+  ],
+  "gabunganKata": [],
+  "peribahasa": [],
+  "etimologi": {
+    "bahasaAsal": "",
+    "arti": "",
+    "kataAsal": ""
+  },
+  "data": [
+    {
+      "lema": "a.lit1",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "celak (mata)"
+        }
+      ]
+    },
+    {
+      "lema": "a.lit2",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda]",
+          "deskripsi": "peminggir untuk memperkuat bagian tepi sesuatu supaya teguh (misalnya pada tikar, bakul, kerai)"
+        }
+      ]
+    },
+    {
+      "lema": "a.lit3",
+      "arti": [
+        {
+          "kelas_kata": "a[Adjektiva: kata yang menjelaskan nomina atau pronomina]",
+          "deskripsi": "kecil"
+        }
+      ]
+    },
+    {
+      "lema": "a.lit4",
+      "arti": [
+        {
+          "kelas_kata": "n[Nomina: kata benda] Klm[Melayu Kalimantan: -]",
+          "deskripsi": "bekas koreng yang tidak bisa hilang pada kulit"
+        }
+      ]
+    }
+  ]
+}
