@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const directoryPath = "../output/wordlist"; // Replace with your folder path
+const directoryPath = "../output/wordlist";
 // Output file name
 const outputFileName = "a-z.txt";
 
