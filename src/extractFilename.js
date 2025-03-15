@@ -20,7 +20,7 @@ function exportFilenames(letter) {
     const fileList = filenamesWithoutExt.join("\n");
 
     // Write the list to a text file
-    fs.writeFile(`../output/wordlist/${letter}.txt`, fileList, (err) => {
+    fs.writeFile(`../output/wordlist/a-z.txt`, fileList, (err) => {
       if (err) {
         console.error("Error writing to file:", err);
         return;
