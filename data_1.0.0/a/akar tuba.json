@@ -2,21 +2,31 @@
   "istilah": "akar tuba",
   "entri": "akar » akar tuba",
   "bentukTidakBaku": "",
-  "kataTurunan": [],
-  "gabunganKata": [],
-  "peribahasa": [],
+  "kataTurunan": ["menuba", "menubai"],
+  "gabunganKata": ["tuba tikus"],
+  "peribahasa": [
+    "air susu dibalas dengan air tuba; bagai ikan kena tuba; ikan di hulu, tuba di hilir; membalas air susu dengan air tuba; seperti ikan kena tuba; seperti ikan kena tuba; susu dibalas dengan tuba; tuba habis, ikan tak dapat"
+  ],
   "etimologi": {
-    "bahasaAsal": "",
-    "arti": "",
-    "kataAsal": ""
+    "bahasaAsal": "Arab",
+    "arti": "nama pohon di surga; kebaikan",
+    "kataAsal": "طُوْبَى ṭūbā"
   },
   "data": [
     {
-      "lema": "akar » akar tuba",
+      "lema": "tu.ba",
       "arti": [
         {
-          "kelas_kata": "",
-          "deskripsi": "lihat tuba1"
+          "kelas_kata": "n Bot",
+          "deskripsi": "liana yang daunnya majemuk dengan anak daun menjorong sampai melonjong, perbungaan berbentuk jambul dan berwarna merah muda, buahnya berbentuk polong, tumbuh di bioma tropis basah, tersebar dari Indocina sampai Papua Nugini, dimanfaatkan sebagai racun ikan〔Derris elliptica〕"
+        },
+        {
+          "kelas_kata": "n",
+          "deskripsi": "akar tuba"
+        },
+        {
+          "kelas_kata": "n",
+          "deskripsi": "racun ikan (dibuat dari akar tuba); jenu"
         }
       ]
     }
