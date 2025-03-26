@@ -12,11 +12,15 @@
   },
   "data": [
     {
-      "lema": "aksara » aksara Pegon",
+      "lema": "pe.gon",
       "arti": [
         {
-          "kelas_kata": "",
-          "deskripsi": "lihat pegon1"
+          "kelas_kata": "n Jw",
+          "deskripsi": "aksara Arab yang digunakan untuk menuliskan bahasa Jawa"
+        },
+        {
+          "kelas_kata": "n Jw",
+          "deskripsi": "tulisan Arab yang tidak diberi tanda-tanda bunyi (diakritik); tulisan Arab gundul"
         }
       ]
     }
