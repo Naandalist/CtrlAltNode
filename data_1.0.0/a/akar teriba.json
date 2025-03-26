@@ -12,11 +12,20 @@
   },
   "data": [
     {
-      "lema": "akar » akar teriba",
+      "lema": "te.ri.ba",
       "arti": [
         {
-          "kelas_kata": "",
-          "deskripsi": "lihat teriba"
+          "kelas_kata": "n",
+          "deskripsi": "gandarusa"
+        }
+      ]
+    },
+    {
+      "lema": "ter.ri.ba",
+      "arti": [
+        {
+          "kelas_kata": "n",
+          "deskripsi": "akar teriba"
         }
       ]
     }
