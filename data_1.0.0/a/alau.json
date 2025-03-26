@@ -12,16 +12,16 @@
   },
   "data": [
     {
-      "lema": "a.lau1",
+      "lema": "a.lau",
       "arti": [
         {
-          "kelas_kata": "",
-          "deskripsi": "lihat burung"
+          "kelas_kata": "n[Nomina: kata benda] Bjr",
+          "deskripsi": "alat untuk menangkap ikan kecil, dibuat dari jaring yang diberi pegangan bambu panjang"
         }
       ]
     },
     {
-      "lema": "a.lau2",
+      "lema": "a.lau",
       "arti": [
         {
           "kelas_kata": "n[Nomina: kata benda] MAb[Melayu Ambon: Bahasa di Maluku]",
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "lema": "a.lau3",
+      "lema": "a.lau",
       "arti": [
         {
           "kelas_kata": "n[Nomina: kata benda] Ri[Melayu Riau: -]",
